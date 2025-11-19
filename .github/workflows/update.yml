@@ -16,17 +16,10 @@ jobs:
           ref: main
           fetch-depth: 0
 
-      - name: Create/checkout data branch
+      - name: Setup git config
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Fetch data branch if it exists, otherwise create it
-          git fetch origin data:data 2>/dev/null || git checkout -b data
-          git checkout data
-
-          # Merge latest code from main
-          git merge main --no-edit || true
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -68,8 +61,27 @@ jobs:
 
       - name: Commit and push to data branch
         run: |
-          # Use -f to force add files ignored by .gitignore (data branch is for generated files)
-          git add -f docs/ data/cache/
+          # Fetch data branch (or create if doesn't exist)
+          git fetch origin data || git checkout --orphan data
+
+          # Check if data branch exists on remote
+          if git ls-remote --exit-code --heads origin data; then
+            git checkout data
+            # Keep only docs/ and data/cache/, remove everything else
+            git rm -rf . 2>/dev/null || true
+          else
+            # Create new orphan branch (no history from main)
+            git checkout --orphan data
+            git rm -rf . 2>/dev/null || true
+          fi
+
+          # Copy generated files from main working directory
+          cp -r docs data 2>/dev/null || true
+
+          # Add only generated files (no source code)
+          git add docs/ data/cache/
+
+          # Commit if there are changes
           git diff --quiet && git diff --staged --quiet || \
             (git commit -m "Update widgets - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && \
              git push origin data)

@@ -1,10 +1,6 @@
 # Generated output (committed to data branch, not main)
 docs/
-data/raw/
-data/processed/
-
-# Cache (this will be committed to data branch)
-# data/cache/
+data/
 
 # Python
 __pycache__/

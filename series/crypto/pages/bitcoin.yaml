@@ -44,8 +44,8 @@ widgets:
     size: full
     update_minutes: 15
     params:
-      subreddit: bitcoin
-      limit: 5
+      subreddit: Bitcoin
+      limit: 8
       sort: hot
 
   # Row 4: News from Google News
@@ -54,4 +54,4 @@ widgets:
     update_minutes: 30
     params:
       query: Bitcoin
-      limit: 5
+      limit: 8

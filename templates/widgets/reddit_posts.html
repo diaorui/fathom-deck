@@ -77,6 +77,10 @@
 .widget-reddit-posts .subreddit-link:hover {
     text-decoration: underline;
 }
+
+.widget-reddit-posts .view-all-btn:hover {
+    background: rgba(255, 255, 255, 0.08) !important;
+}
 </style>
 
 <div class="widget widget-reddit-posts widget-{{ size }}">
@@ -127,6 +131,14 @@
                 </div>
             </div>
             {% endfor %}
+        </div>
+        <div style="margin-top: 12px; text-align: center;">
+            <a href="https://www.reddit.com/r/{{ subreddit }}/{{ sort }}" target="_blank" class="view-all-btn"
+               style="display: inline-block; padding: 8px 16px; background: rgba(255, 255, 255, 0.05);
+                      border-radius: 6px; color: var(--primary-color); text-decoration: none;
+                      font-size: 0.85rem; font-weight: 500; transition: background 0.2s ease;">
+                View All on Reddit →
+            </a>
         </div>
     </div>
     <div class="widget-footer">

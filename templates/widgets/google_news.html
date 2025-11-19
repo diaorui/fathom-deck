@@ -13,6 +13,13 @@
     transition: background 0.2s ease;
 }
 
+.widget-google-news .news-favicon {
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+    border-radius: 2px;
+}
+
 .widget-google-news .news-item:hover {
     background: rgba(255, 255, 255, 0.05);
 }
@@ -43,6 +50,8 @@
 
 .widget-google-news .news-source {
     font-weight: 500;
+    display: flex;
+    align-items: center;
 }
 
 .widget-google-news .news-source a {
@@ -52,6 +61,10 @@
 
 .widget-google-news .news-source a:hover {
     color: var(--primary-color);
+}
+
+.widget-google-news .view-all-btn:hover {
+    background: rgba(255, 255, 255, 0.08) !important;
 }
 </style>
 
@@ -75,6 +88,8 @@
                     {% if article.source %}
                     <div class="news-source">
                         {% if article.source_url %}
+                        <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url={{ article.source_url }}&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                             alt="{{ article.source }}" class="news-favicon">
                         <a href="{{ article.source_url }}" target="_blank">{{ article.source }}</a>
                         {% else %}
                         {{ article.source }}
@@ -89,6 +104,14 @@
                 </div>
             </div>
             {% endfor %}
+        </div>
+        <div style="margin-top: 12px; text-align: center;">
+            <a href="https://news.google.com/search?q={{ query }}" target="_blank" class="view-all-btn"
+               style="display: inline-block; padding: 8px 16px; background: rgba(255, 255, 255, 0.05);
+                      border-radius: 6px; color: var(--primary-color); text-decoration: none;
+                      font-size: 0.85rem; font-weight: 500; transition: background 0.2s ease;">
+                View All on Google News →
+            </a>
         </div>
     </div>
     <div class="widget-footer">

@@ -247,19 +247,12 @@ class CryptoPriceChartWidget(BaseWidget):
         </script>"""
             chart_scripts.append(chart_script)
 
-        # Combine everything
-        html = f"""
-        <div class="widget widget-crypto-price-chart widget-{self.size}">
-            <div class="widget-header">
-                <h3>{display_name} Chart</h3>
-                <div class="chart-tabs">
-                    {chr(10).join(tab_buttons)}
-                </div>
-            </div>
-            {chr(10).join(tab_contents)}
-        </div>
-
-        <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-        {chr(10).join(chart_scripts)}
-        """
-        return html.strip()
+        # Render using template
+        return self.render_template(
+            "widgets/crypto_price_chart.html",
+            size=self.size,
+            display_name=display_name,
+            tab_buttons=tab_buttons,
+            tab_contents=tab_contents,
+            chart_scripts=chart_scripts
+        )

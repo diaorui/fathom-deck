@@ -98,37 +98,13 @@ class CryptoPriceWidget(BaseWidget):
         volume_usd = volume['quote']
         volume_display = format_large_number(volume_usd)
 
-        # Get ISO timestamp for client-side formatting
-        timestamp_iso = processed_data['fetched_at']
-
-        # Simple HTML for MVP - we'll use templates later
-        html = f"""
-        <div class="widget widget-crypto-price widget-{self.size}" style="display: flex; flex-direction: column; height: 100%;">
-            <div class="widget-header">
-                <h3>{display_name} Price</h3>
-            </div>
-            <div class="widget-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-                <div class="price-display" style="margin: 30px 0;">
-                    <span class="price-value" style="font-size: 2rem;">${price:,.2f}</span>
-                </div>
-                <div class="price-details" style="gap: 20px;">
-                    <div>
-                        <div style="color: #9ca3af; font-size: 0.85rem; margin-bottom: 5px;">Bid</div>
-                        <div style="font-weight: 500;">${processed_data['bid']:,.2f}</div>
-                    </div>
-                    <div>
-                        <div style="color: #9ca3af; font-size: 0.85rem; margin-bottom: 5px;">Ask</div>
-                        <div style="font-weight: 500;">${processed_data['ask']:,.2f}</div>
-                    </div>
-                    <div>
-                        <div style="color: #9ca3af; font-size: 0.85rem; margin-bottom: 5px;">24h Volume</div>
-                        <div style="font-weight: 500;">{volume_display}</div>
-                    </div>
-                </div>
-            </div>
-            <div class="widget-footer">
-                <small data-timestamp="{timestamp_iso}">Updated {timestamp_iso}</small>
-            </div>
-        </div>
-        """
-        return html.strip()
+        return self.render_template(
+            "widgets/crypto_price.html",
+            size=self.size,
+            display_name=display_name,
+            price=price,
+            bid=processed_data['bid'],
+            ask=processed_data['ask'],
+            volume_display=volume_display,
+            timestamp_iso=processed_data['fetched_at']
+        )

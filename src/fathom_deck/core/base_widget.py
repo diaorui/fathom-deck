@@ -4,6 +4,7 @@ from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, Optional
+from jinja2 import Environment, FileSystemLoader
 
 
 @dataclass
@@ -42,6 +43,11 @@ class BaseWidget(ABC):
 
         # Merge page params with widget params (widget params take precedence)
         self.merged_params = {**page_params, **params}
+
+        # Set up Jinja2 environment for widget templates
+        project_root = Path.cwd()
+        templates_dir = project_root / "templates"
+        self._jinja_env = Environment(loader=FileSystemLoader(templates_dir))
 
     @abstractmethod
     def fetch_data(self) -> Dict[str, Any]:
@@ -100,3 +106,16 @@ class BaseWidget(ABC):
             raise ValueError(
                 f"{self.widget_type} widget missing required params: {', '.join(missing)}"
             )
+
+    def render_template(self, template_name: str, **context) -> str:
+        """Render a widget template with the given context.
+
+        Args:
+            template_name: Template path relative to templates/ (e.g., "widgets/crypto_price.html")
+            **context: Template variables
+
+        Returns:
+            Rendered HTML string
+        """
+        template = self._jinja_env.get_template(template_name)
+        return template.render(**context)

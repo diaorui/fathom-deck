@@ -1,0 +1,76 @@
+<style>
+.widget-crypto-price {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.widget-crypto-price .widget-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.widget-crypto-price .price-display {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.widget-crypto-price .price-value {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.widget-crypto-price .price-details {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+}
+
+.widget-crypto-price .price-details div {
+    text-align: center;
+}
+
+.widget-crypto-price .detail-label {
+    color: #9ca3af;
+    font-size: 0.85rem;
+    margin-bottom: 5px;
+}
+
+.widget-crypto-price .detail-value {
+    font-weight: 500;
+}
+</style>
+
+<div class="widget widget-crypto-price widget-{{ size }}">
+    <div class="widget-header">
+        <h3>{{ display_name }} Price</h3>
+    </div>
+    <div class="widget-body">
+        <div class="price-display">
+            <span class="price-value">${{ "{:,.2f}".format(price) }}</span>
+        </div>
+        <div class="price-details">
+            <div>
+                <div class="detail-label">Bid</div>
+                <div class="detail-value">${{ "{:,.2f}".format(bid) }}</div>
+            </div>
+            <div>
+                <div class="detail-label">Ask</div>
+                <div class="detail-value">${{ "{:,.2f}".format(ask) }}</div>
+            </div>
+            <div>
+                <div class="detail-label">24h Volume</div>
+                <div class="detail-value">{{ volume_display }}</div>
+            </div>
+        </div>
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
+    </div>
+</div>

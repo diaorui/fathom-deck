@@ -124,48 +124,22 @@ class CryptoMarketStatsWidget(BaseWidget):
         change_color = "var(--color-positive)" if price_change_24h >= 0 else "var(--color-negative)"
         change_sign = "+" if price_change_24h >= 0 else ""
 
-        html = f"""
-        <div class="widget widget-crypto-market-stats widget-{self.size}">
-            <div class="widget-header">
-                <h3>{name} Market Stats</h3>
-            </div>
-            <div class="widget-body">
-                <div class="market-stats-grid">
-                    <div class="stat-item">
-                        <div class="stat-label">Market Cap</div>
-                        <div class="stat-value stat-value-large">{market_cap_display}</div>
-                        <div class="stat-meta">Rank #{rank}</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-label">24h Change</div>
-                        <div class="stat-value stat-value-large" style="color: {change_color};">
-                            {change_sign}{price_change_24h:.2f}%
-                        </div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-label">Circulating Supply</div>
-                        <div class="stat-value">{circulating_display} {symbol}</div>
-                        <div class="stat-meta">{supply_percent} of max</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-label">Max Supply</div>
-                        <div class="stat-value">{max_supply_display}</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-label">All-Time High</div>
-                        <div class="stat-value">${ath['price']:,.2f}</div>
-                        <div class="stat-meta">{ath_date_display}</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-label">All-Time Low</div>
-                        <div class="stat-value">${atl['price']:,.2f}</div>
-                        <div class="stat-meta">{atl_date_display}</div>
-                    </div>
-                </div>
-            </div>
-            <div class="widget-footer">
-                <small data-timestamp="{timestamp_iso}">Updated {timestamp_iso}</small>
-            </div>
-        </div>
-        """
-        return html.strip()
+        return self.render_template(
+            "widgets/crypto_market_stats.html",
+            size=self.size,
+            name=name,
+            symbol=symbol,
+            market_cap_display=market_cap_display,
+            rank=rank,
+            price_change_24h=price_change_24h,
+            change_color=change_color,
+            change_sign=change_sign,
+            circulating_display=circulating_display,
+            supply_percent=supply_percent,
+            max_supply_display=max_supply_display,
+            ath_price=ath['price'],
+            ath_date_display=ath_date_display,
+            atl_price=atl['price'],
+            atl_date_display=atl_date_display,
+            timestamp_iso=timestamp_iso
+        )

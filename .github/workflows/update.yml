@@ -68,7 +68,8 @@ jobs:
 
       - name: Commit and push to data branch
         run: |
-          git add docs/ data/cache/
+          # Use -f to force add files ignored by .gitignore (data branch is for generated files)
+          git add -f docs/ data/cache/
           git diff --quiet && git diff --staged --quiet || \
             (git commit -m "Update widgets - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && \
              git push origin data)

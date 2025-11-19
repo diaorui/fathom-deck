@@ -1,0 +1,97 @@
+<style>
+.widget-google-news .news-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.widget-google-news .news-item {
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 6px;
+    border-left: 3px solid var(--primary-color);
+    transition: background 0.2s ease;
+}
+
+.widget-google-news .news-item:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.widget-google-news .news-headline {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 6px;
+    line-height: 1.4;
+}
+
+.widget-google-news .news-headline a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-google-news .news-headline a:hover {
+    color: var(--primary-color);
+}
+
+.widget-google-news .news-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: 0.75rem;
+    color: #9ca3af;
+}
+
+.widget-google-news .news-source {
+    font-weight: 500;
+}
+
+.widget-google-news .news-source a {
+    color: #9ca3af;
+    text-decoration: none;
+}
+
+.widget-google-news .news-source a:hover {
+    color: var(--primary-color);
+}
+</style>
+
+<div class="widget widget-google-news widget-{{ size }}">
+    <div class="widget-header">
+        <h3>
+            News
+            <span style="font-size: 0.75rem; color: #9ca3af; font-weight: normal; margin-left: 8px;">
+                Google News
+            </span>
+        </h3>
+    </div>
+    <div class="widget-body">
+        <div class="news-list">
+            {% for article in articles %}
+            <div class="news-item">
+                <div class="news-headline">
+                    <a href="{{ article.url }}" target="_blank">{{ article.headline }}</a>
+                </div>
+                <div class="news-meta">
+                    {% if article.source %}
+                    <div class="news-source">
+                        {% if article.source_url %}
+                        <a href="{{ article.source_url }}" target="_blank">{{ article.source }}</a>
+                        {% else %}
+                        {{ article.source }}
+                        {% endif %}
+                    </div>
+                    {% endif %}
+                    {% if article.pub_date %}
+                    <div class="news-date">
+                        <span data-timestamp="{{ article.pub_date }}"></span>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
+    </div>
+</div>

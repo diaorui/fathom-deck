@@ -1,0 +1,21 @@
+# Bitcoin monitoring dashboard
+series: crypto
+id: bitcoin
+name: Bitcoin
+description: Real-time Bitcoin monitoring dashboard
+icon: "₿"
+enabled: true
+
+# Page-specific parameters (passed to all widgets)
+params:
+  symbol: btcusd
+  coin_id: bitcoin  # For future use with CoinGecko
+
+# Widget layout
+widgets:
+  # Simple MVP: just one price widget
+  - type: crypto-price
+    size: medium
+    update_minutes: 5
+    params:
+      show_change: true

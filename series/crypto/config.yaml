@@ -1,0 +1,11 @@
+id: crypto
+name: Cryptocurrency Monitoring
+description: Track cryptocurrency prices, news, and market sentiment
+
+# Visual theme (CSS variables)
+theme:
+  primary_color: "#f7931a"      # Bitcoin orange
+  background: "#1a1a1a"         # Dark mode
+  text_color: "#ffffff"
+  card_background: "#2d2d2d"
+  border_radius: "8px"

@@ -1,0 +1,81 @@
+name: Update Widgets
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Every 5 minutes
+  workflow_dispatch:  # Allow manual triggers
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Create/checkout data branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Fetch data branch if it exists, otherwise create it
+          git fetch origin data:data 2>/dev/null || git checkout -b data
+          git checkout data
+
+          # Merge latest code from main
+          git merge main --no-edit || true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Stage 1 - Fetch data
+        run: |
+          export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}/src"
+          python -m fathom_deck fetch
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
+
+      - name: Stage 2 - Process data
+        run: |
+          export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}/src"
+          python -m fathom_deck process
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Stage 3 - Render HTML
+        run: |
+          export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}/src"
+          python -m fathom_deck render
+
+      - name: Upload artifacts for debugging
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: processing-artifacts
+          path: |
+            data/raw/
+            data/processed/
+          retention-days: 7
+
+      - name: Commit and push to data branch
+        run: |
+          git add docs/ data/cache/
+          git diff --quiet && git diff --staged --quiet || \
+            (git commit -m "Update widgets - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && \
+             git push origin data)
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages

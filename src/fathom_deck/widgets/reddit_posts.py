@@ -42,7 +42,7 @@ class RedditPostsWidget(BaseWidget):
 
         print(f"📡 Fetching: {url}")
         headers = {
-            "User-Agent": "Mozilla/5.0 (compatible; FathomDeck/1.0; +https://github.com/diaorui/fathom-deck)"
+            "User-Agent": "python:fathom-deck:v1.0.0 (by /u/fathom-deck-bot)"
         }
         response = requests.get(url, params=params, headers=headers, timeout=10)
         response.raise_for_status()

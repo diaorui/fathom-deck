@@ -146,6 +146,18 @@
             display: none;
         }
 
+        /* Fix chart height to prevent layout shifts when switching tabs */
+        .widget-crypto-price-chart .widget-body {
+            position: relative;
+            height: 400px; /* Fixed container height */
+        }
+
+        .widget-crypto-price-chart canvas {
+            position: absolute !important;
+            width: 100% !important;
+            height: 100% !important;
+        }
+
         @media (max-width: 768px) {
             .widget-small,
             .widget-medium,

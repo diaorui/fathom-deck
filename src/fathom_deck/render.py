@@ -14,39 +14,6 @@ from .core.loader import (
 )
 
 
-def _create_tabbed_chart_widget(tabs, size, display_name):
-    """Create a tabbed chart widget wrapper."""
-    # Generate tab buttons
-    tab_buttons = []
-    for i, tab in enumerate(tabs):
-        active_class = "active" if i == 0 else ""
-        tab_buttons.append(
-            f'<button class="chart-tab-btn {active_class}" data-tab="{tab["tab_id"]}">{tab["tab_label"]}</button>'
-        )
-
-    tab_buttons_html = "\n                ".join(tab_buttons)
-
-    # Generate tab contents
-    tab_contents = [tab["content"] for tab in tabs]
-    tab_contents_html = "\n        ".join(tab_contents)
-
-    # Create wrapper
-    html = f"""
-        <div class="widget widget-crypto-price-chart widget-{size}">
-            <div class="widget-header">
-                <div style="display: flex; justify-content: space-between; align-items: center;">
-                    <h3>{display_name} Price Chart</h3>
-                    <div class="chart-tabs">
-                        {tab_buttons_html}
-                    </div>
-                </div>
-            </div>
-            {tab_contents_html}
-        </div>
-    """
-    return html
-
-
 def render_all():
     """Render HTML pages from processed data."""
     project_root = Path.cwd()
@@ -109,10 +76,6 @@ def render_all():
 
             # Render each widget
             widget_htmls = []
-            chart_tabs = []  # Collect chart widgets with tab_id
-            chart_tab_size = None
-            chart_display_name = None
-
             for widget_config in page_config.widgets:
                 widget_type = widget_config.type
 
@@ -153,50 +116,10 @@ def render_all():
                 # Render widget HTML
                 try:
                     widget_html = widget.render(processed_data)
-
-                    # Check if this is a chart widget with tab_id
-                    tab_id = widget_config.params.get("tab_id", "")
-                    tab_label = widget_config.params.get("tab_label", "")
-
-                    if widget_type == "crypto-price-chart" and tab_id:
-                        # Collect tab info
-                        if chart_tab_size is None:
-                            chart_tab_size = widget_config.size
-                            # Extract display name from processed data
-                            symbol = processed_data.get("symbol", "")
-                            base_currency = symbol[:3] if symbol else ""
-                            if base_currency == "BTC":
-                                chart_display_name = "Bitcoin"
-                            elif base_currency == "ETH":
-                                chart_display_name = "Ethereum"
-                            elif base_currency == "SOL":
-                                chart_display_name = "Solana"
-                            else:
-                                chart_display_name = base_currency
-
-                        chart_tabs.append({
-                            "tab_id": tab_id,
-                            "tab_label": tab_label,
-                            "content": widget_html
-                        })
-                    else:
-                        # Flush any collected tabs before adding regular widget
-                        if chart_tabs:
-                            tabbed_widget = _create_tabbed_chart_widget(chart_tabs, chart_tab_size, chart_display_name)
-                            widget_htmls.append(tabbed_widget)
-                            chart_tabs = []
-                            chart_tab_size = None
-                            chart_display_name = None
-
-                        widget_htmls.append(widget_html)
+                    widget_htmls.append(widget_html)
                 except Exception as e:
                     print(f"    ❌ Failed to render {widget_type}: {e}")
                     continue
-
-            # Flush any remaining tabs
-            if chart_tabs:
-                tabbed_widget = _create_tabbed_chart_widget(chart_tabs, chart_tab_size, chart_display_name)
-                widget_htmls.append(tabbed_widget)
 
             # Render page
             try:

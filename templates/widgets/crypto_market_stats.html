@@ -45,12 +45,6 @@
                 <div class="stat-meta">Rank #{{ rank }}</div>
             </div>
             <div class="stat-item">
-                <div class="stat-label">24h Change</div>
-                <div class="stat-value stat-value-large" style="color: {{ change_color }};">
-                    {{ change_sign }}{{ "{:.2f}".format(price_change_24h) }}%
-                </div>
-            </div>
-            <div class="stat-item">
                 <div class="stat-label">Circulating Supply</div>
                 <div class="stat-value">{{ circulating_display }} {{ symbol }}</div>
                 <div class="stat-meta">{{ supply_percent }} of max</div>
@@ -63,7 +57,7 @@
                 <div class="stat-label">All-Time High</div>
                 <div class="stat-value">${{ "{:,.2f}".format(ath_price) }}</div>
                 <div class="stat-meta">
-                    {{ ath_date_display }} ·
+                    <span class="stat-date" data-date="{{ ath_date_iso }}"></span> ·
                     <span style="color: {% if ath_change_percent < 0 %}var(--color-negative){% else %}var(--color-positive){% endif %};">
                         {{ ath_change_sign }}{{ "{:.1f}".format(ath_change_percent) }}%
                     </span>
@@ -73,7 +67,7 @@
                 <div class="stat-label">All-Time Low</div>
                 <div class="stat-value">${{ "{:,.2f}".format(atl_price) }}</div>
                 <div class="stat-meta">
-                    {{ atl_date_display }} ·
+                    <span class="stat-date" data-date="{{ atl_date_iso }}"></span> ·
                     <span style="color: {% if atl_change_percent >= 0 %}var(--color-positive){% else %}var(--color-negative){% endif %};">
                         {{ atl_change_sign }}{{ "{:.1f}".format(atl_change_percent) }}%
                     </span>

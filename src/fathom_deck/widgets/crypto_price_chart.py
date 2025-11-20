@@ -99,13 +99,32 @@ class CryptoPriceChartWidget(BaseWidget):
         else:
             display_name = base_currency
 
-        # Generate tab buttons
+        # Calculate price changes for each tab first (needed for tab buttons)
+        price_changes = []
+        for tab_data in tabs_data:
+            candles = tab_data["candles"]
+            if len(candles) >= 2:
+                first_close = candles[0]["close"]
+                last_close = candles[-1]["close"]
+                price_change_percent = ((last_close - first_close) / first_close * 100)
+            else:
+                price_change_percent = 0
+            price_changes.append(price_change_percent)
+
+        # Generate tab buttons with price change percentages
         tab_buttons = []
         for i, tab_data in enumerate(tabs_data):
             active_class = "active" if i == 0 else ""
             label = tab_data["label"]
+            change = price_changes[i]
+            change_sign = "+" if change >= 0 else ""
+            change_color = "color: var(--color-positive);" if change >= 0 else "color: var(--color-negative);"
+            change_text = f'{change_sign}{change:.1f}%'
+
             tab_buttons.append(
-                f'<button class="chart-tab-btn {active_class}" data-tab="tab-{i}">{label}</button>'
+                f'<button class="chart-tab-btn {active_class}" data-tab="tab-{i}">'
+                f'{label} <span style="font-size: 0.85em; {change_color}">{change_text}</span>'
+                f'</button>'
             )
 
         # Generate tab contents with charts
@@ -115,14 +134,19 @@ class CryptoPriceChartWidget(BaseWidget):
         for i, tab_data in enumerate(tabs_data):
             interval = tab_data["interval"]
             candles = tab_data["candles"]
+            price_change_percent = price_changes[i]
 
-            # Prepare data for Chart.js
-            # Pass timestamps to JavaScript for client-side timezone conversion
-            timestamps = []
-            prices = []
+            # Prepare OHLC data for Chart.js candlestick
+            # Format: {x: timestamp, o: open, h: high, l: low, c: close}
+            candlestick_data = []
             for candle in candles:
-                timestamps.append(candle["timestamp"])
-                prices.append(candle["close"])
+                candlestick_data.append({
+                    "x": candle["timestamp"],
+                    "o": candle["open"],
+                    "h": candle["high"],
+                    "l": candle["low"],
+                    "c": candle["close"]
+                })
 
             # Generate unique ID for this chart
             chart_id = f"chart-{symbol.lower()}-tab-{i}"
@@ -142,49 +166,39 @@ class CryptoPriceChartWidget(BaseWidget):
         </div>"""
             tab_contents.append(tab_content)
 
-            # Chart.js script
+            # Chart.js script with candlestick chart
+            import json
+            candlestick_json = json.dumps(candlestick_data)
+
             chart_script = f"""
         <script>
         (function() {{
             const ctx = document.getElementById('{chart_id}').getContext('2d');
-            const timestamps = {timestamps};
             const interval = '{interval}';
-
-            // Convert timestamps to user's local timezone
-            const labels = timestamps.map(ts => {{
-                const date = new Date(ts);
-                // Daily intervals: show date only
-                if (interval === '1d' || interval === '3d' || interval === '1w' || interval === '1M') {{
-                    return date.toLocaleDateString('en-US', {{ month: 'short', day: 'numeric' }});
-                }}
-                // Multi-hour intervals: show date + time
-                else if (interval === '2h' || interval === '4h' || interval === '6h' || interval === '8h' || interval === '12h') {{
-                    return date.toLocaleDateString('en-US', {{ month: 'short', day: 'numeric' }}) + ' ' +
-                           date.toLocaleTimeString('en-US', {{ hour: '2-digit', minute: '2-digit', hour12: false }});
-                }}
-                // Minute and hourly intervals: show time only
-                else {{
-                    return date.toLocaleTimeString('en-US', {{ hour: '2-digit', minute: '2-digit', hour12: false }});
-                }}
-            }});
+            const candleData = {candlestick_json};
 
             new Chart(ctx, {{
-                type: 'line',
+                type: 'candlestick',
                 data: {{
-                    labels: labels,
                     datasets: [{{
-                        label: '{symbol} Price',
-                        data: {prices},
-                        borderColor: 'rgb(247, 147, 26)',
-                        backgroundColor: 'rgba(247, 147, 26, 0.1)',
-                        borderWidth: 2,
-                        fill: true,
-                        tension: 0.1
+                        label: '{symbol}',
+                        data: candleData,
+                        color: {{
+                            up: '#10b981',
+                            down: '#ef4444',
+                            unchanged: '#9ca3af'
+                        }},
+                        borderColor: {{
+                            up: '#10b981',
+                            down: '#ef4444',
+                            unchanged: '#9ca3af'
+                        }}
                     }}]
                 }},
                 options: {{
                     responsive: true,
                     maintainAspectRatio: false,
+                    animation: false,
                     plugins: {{
                         legend: {{
                             display: false
@@ -192,12 +206,32 @@ class CryptoPriceChartWidget(BaseWidget):
                         tooltip: {{
                             mode: 'index',
                             intersect: false,
+                            displayColors: false,
                             callbacks: {{
+                                title: function(context) {{
+                                    const ts = context[0].raw.x;
+                                    const date = new Date(ts);
+                                    if (interval === '1d' || interval === '3d' || interval === '1w' || interval === '1M') {{
+                                        return date.toLocaleDateString('en-US', {{ month: 'short', day: 'numeric', year: 'numeric' }});
+                                    }} else if (interval === '2h' || interval === '4h' || interval === '6h' || interval === '8h' || interval === '12h') {{
+                                        return date.toLocaleDateString('en-US', {{ month: 'short', day: 'numeric' }}) + ' ' +
+                                               date.toLocaleTimeString('en-US', {{ hour: '2-digit', minute: '2-digit', hour12: false }});
+                                    }} else {{
+                                        return date.toLocaleTimeString('en-US', {{ hour: '2-digit', minute: '2-digit', hour12: false }});
+                                    }}
+                                }},
                                 label: function(context) {{
-                                    return '$' + context.parsed.y.toLocaleString('en-US', {{
+                                    const data = context.raw;
+                                    const formatPrice = (val) => '$' + val.toLocaleString('en-US', {{
                                         minimumFractionDigits: 2,
                                         maximumFractionDigits: 2
                                     }});
+                                    return [
+                                        'Open:  ' + formatPrice(data.o),
+                                        'High:  ' + formatPrice(data.h),
+                                        'Low:   ' + formatPrice(data.l),
+                                        'Close: ' + formatPrice(data.c)
+                                    ];
                                 }}
                             }}
                         }}
@@ -207,7 +241,10 @@ class CryptoPriceChartWidget(BaseWidget):
                             ticks: {{
                                 color: '#9ca3af',
                                 callback: function(value) {{
-                                    return '$' + value.toLocaleString();
+                                    return '$' + value.toLocaleString('en-US', {{
+                                        minimumFractionDigits: 0,
+                                        maximumFractionDigits: 0
+                                    }});
                                 }}
                             }},
                             grid: {{
@@ -215,6 +252,14 @@ class CryptoPriceChartWidget(BaseWidget):
                             }}
                         }},
                         x: {{
+                            type: 'time',
+                            time: {{
+                                unit: interval === '1d' || interval === '3d' || interval === '1w' || interval === '1M' ? 'day' : 'hour',
+                                displayFormats: {{
+                                    day: 'MMM d',
+                                    hour: 'HH:mm'
+                                }}
+                            }},
                             ticks: {{
                                 color: '#9ca3af',
                                 maxRotation: 45,

@@ -93,20 +93,14 @@ class CryptoMarketStatsWidget(BaseWidget):
         max_supply_display = f"{max_supply:,.0f}" if max_supply else "∞"
         supply_percent = f"{(circulating_supply / max_supply * 100):.1f}%" if (circulating_supply and max_supply) else "N/A"
 
-        # Format ATH/ATL dates and change percentages
-        ath_date = datetime.fromisoformat(ath["date"].replace("Z", "+00:00"))
-        ath_date_display = ath_date.strftime("%b %d, %Y")
+        # Pass ISO date strings for client-side formatting
+        ath_date_iso = ath["date"]
         ath_change_percent = ath["change_percent"]
         ath_change_sign = "" if ath_change_percent < 0 else "+"
 
-        atl_date = datetime.fromisoformat(atl["date"].replace("Z", "+00:00"))
-        atl_date_display = atl_date.strftime("%b %d, %Y")
+        atl_date_iso = atl["date"]
         atl_change_percent = atl["change_percent"]
         atl_change_sign = "+" if atl_change_percent >= 0 else ""
-
-        # 24h change color
-        change_color = "var(--color-positive)" if price_change_24h >= 0 else "var(--color-negative)"
-        change_sign = "+" if price_change_24h >= 0 else ""
 
         return self.render_template(
             "widgets/crypto_market_stats.html",
@@ -115,18 +109,15 @@ class CryptoMarketStatsWidget(BaseWidget):
             symbol=symbol,
             market_cap_display=market_cap_display,
             rank=rank,
-            price_change_24h=price_change_24h,
-            change_color=change_color,
-            change_sign=change_sign,
             circulating_display=circulating_display,
             supply_percent=supply_percent,
             max_supply_display=max_supply_display,
             ath_price=ath['price'],
-            ath_date_display=ath_date_display,
+            ath_date_iso=ath_date_iso,
             ath_change_percent=ath_change_percent,
             ath_change_sign=ath_change_sign,
             atl_price=atl['price'],
-            atl_date_display=atl_date_display,
+            atl_date_iso=atl_date_iso,
             atl_change_percent=atl_change_percent,
             atl_change_sign=atl_change_sign,
             timestamp_iso=timestamp_iso

@@ -1,0 +1,11 @@
+id: technology
+name: Technology Monitoring
+description: Track AI developments, tech news, and industry discussions
+
+# Visual theme (CSS variables)
+theme:
+  primary_color: "#00d4ff"      # Tech cyan
+  background: "#1a1a1a"         # Dark mode
+  text_color: "#ffffff"
+  card_background: "#2d2d2d"
+  border_radius: "8px"

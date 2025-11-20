@@ -79,20 +79,18 @@
 
 <div class="widget widget-hackernews-posts widget-{{ size }}">
     <div class="widget-header">
-        <h3>
-            Hacker News Stories
-            <span style="font-size: 0.75rem; color: #9ca3af; font-weight: normal; margin-left: 8px;">
-                "{{ query }}"
-                {% if sort_by == 'date' %}
-                · 🕒 Latest
-                {% elif sort_by == 'relevance' %}
-                · ⭐ Popular
-                {% endif %}
-                {% if min_points > 0 %}
-                · {{ min_points }}+ pts
-                {% endif %}
-            </span>
-        </h3>
+        <h3>Hacker News</h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            "{{ query }}"
+            {% if sort_by == 'date' %}
+            · 🕒 Latest
+            {% elif sort_by == 'relevance' %}
+            · ⭐ Popular
+            {% endif %}
+            {% if min_points > 0 %}
+            · {{ min_points }}+ pts
+            {% endif %}
+        </div>
     </div>
     <div class="widget-body">
         <div class="carousel-container">

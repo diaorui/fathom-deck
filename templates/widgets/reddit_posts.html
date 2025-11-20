@@ -85,23 +85,21 @@
 
 <div class="widget widget-reddit-posts widget-{{ size }}">
     <div class="widget-header">
-        <h3>
-            Reddit Discussions
-            <span style="font-size: 0.75rem; color: #9ca3af; font-weight: normal; margin-left: 8px;">
-                <a href="https://www.reddit.com/r/{{ subreddit }}" target="_blank" class="subreddit-link" style="color: #9ca3af; text-decoration: none;">
-                    r/{{ subreddit }}
-                </a>
-                {% if sort == 'hot' %}
-                · 🔥 Hot
-                {% elif sort == 'new' %}
-                · ✨ New
-                {% elif sort == 'top' %}
-                · ⭐ Top
-                {% elif sort == 'rising' %}
-                · 📈 Rising
-                {% endif %}
-            </span>
-        </h3>
+        <h3>Reddit Discussions</h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            <a href="https://www.reddit.com/r/{{ subreddit }}" target="_blank" class="subreddit-link" style="color: #9ca3af; text-decoration: none;">
+                r/{{ subreddit }}
+            </a>
+            {% if sort == 'hot' %}
+            · 🔥 Hot
+            {% elif sort == 'new' %}
+            · ✨ New
+            {% elif sort == 'top' %}
+            · ⭐ Top
+            {% elif sort == 'rising' %}
+            · 📈 Rising
+            {% endif %}
+        </div>
     </div>
     <div class="widget-body">
         <div class="post-list">

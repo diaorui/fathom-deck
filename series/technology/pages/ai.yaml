@@ -1,0 +1,27 @@
+# AI monitoring dashboard
+series: technology
+id: ai
+name: Artificial Intelligence
+description: AI news, discussions, and developments
+icon: "🤖"
+enabled: true
+
+# Widget layout
+widgets:
+  # HackerNews AI discussions
+  - type: hackernews-posts
+    size: full
+    update_minutes: 30
+    params:
+      query: artificial intelligence
+      limit: 10
+      min_points: 0
+      sort_by: date
+
+  # Google News about AI
+  - type: google-news
+    size: full
+    update_minutes: 30
+    params:
+      query: artificial intelligence
+      limit: 10

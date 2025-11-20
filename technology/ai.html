@@ -1,0 +1,1252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artificial Intelligence - FathomDeck</title>
+    <style>
+        :root {
+            --primary-color: #00d4ff;
+            --background: #1a1a1a;
+            --text-color: #ffffff;
+            --card-background: #2d2d2d;
+            --border-radius: 8px;
+            --color-positive: #10b981;
+            --color-negative: #ef4444;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: var(--background);
+            color: var(--text-color);
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .page-header {
+            max-width: 1400px;
+            margin: 0 auto 30px;
+        }
+
+        .page-header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .page-header p {
+            color: #9ca3af;
+            font-size: 1.1rem;
+        }
+
+        .widgets-grid {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            gap: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .widget {
+            background: var(--card-background);
+            border-radius: var(--border-radius);
+            padding: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        }
+
+        .widget-small { grid-column: span 3; }
+        .widget-medium { grid-column: span 6; }
+        .widget-large { grid-column: span 9; }
+        .widget-full { grid-column: span 12; }
+
+        .widget-header {
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .widget-header h3 {
+            font-size: 1.2rem;
+            color: var(--primary-color);
+            margin: 0;
+        }
+
+        .widget-body {
+            margin-bottom: 15px;
+        }
+
+        .widget-footer {
+            padding-top: 10px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            color: #9ca3af;
+            font-size: 0.85rem;
+        }
+
+        @media (max-width: 768px) {
+            .widget-small,
+            .widget-medium,
+            .widget-large,
+            .widget-full {
+                grid-column: span 12;
+            }
+
+            .page-header h1 {
+                font-size: 2rem;
+            }
+        }
+
+        /* ===== Shared Carousel Styles ===== */
+        .carousel-container {
+            position: relative;
+            overflow: hidden;
+            padding: 0 40px;
+        }
+
+        .carousel-track {
+            display: flex;
+            gap: 16px;
+            overflow-x: auto;
+            scroll-behavior: smooth;
+            scroll-snap-type: x mandatory;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+            padding: 4px 0;
+        }
+
+        .carousel-track::-webkit-scrollbar {
+            display: none;
+        }
+
+        .carousel-card {
+            scroll-snap-align: start;
+            flex: 0 0 280px;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 8px;
+            padding: 14px;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            min-height: 140px;
+        }
+
+        .carousel-card:hover {
+            background: rgba(255, 255, 255, 0.06);
+            transform: translateY(-2px);
+        }
+
+        .carousel-nav {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(0, 0, 0, 0.5);
+            border: none;
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+            z-index: 10;
+        }
+
+        .carousel-nav:hover {
+            background: var(--primary-color);
+            transform: translateY(-50%) scale(1.1);
+        }
+
+        .carousel-nav:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .carousel-nav-prev {
+            left: 4px;
+        }
+
+        .carousel-nav-next {
+            right: 4px;
+        }
+
+        @media (min-width: 768px) {
+            .carousel-card {
+                flex: 0 0 320px;
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .carousel-card {
+                flex: 0 0 280px;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .carousel-container {
+                padding: 0;
+            }
+
+            .carousel-track {
+                padding: 0 16px;
+            }
+
+            .carousel-card {
+                flex: 0 0 calc(85% - 8px);
+            }
+
+            .carousel-nav {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="page-header">
+        <h1>🤖 Artificial Intelligence</h1>
+        
+        <p>AI news, discussions, and developments</p>
+        
+    </header>
+
+    <main class="widgets-grid">
+        
+        <style>
+/* HackerNews-specific card styling */
+.widget-hackernews-posts .carousel-card {
+    border-left: 3px solid #ff6600;
+}
+
+.widget-hackernews-posts .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(255, 102, 0, 0.2);
+}
+
+.widget-hackernews-posts .post-title {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1;
+}
+
+.widget-hackernews-posts .post-title a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-hackernews-posts .post-title a:hover {
+    color: #ff6600;
+}
+
+.widget-hackernews-posts .post-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+}
+
+.widget-hackernews-posts .post-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: nowrap;
+    overflow: hidden;
+}
+
+.widget-hackernews-posts .post-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+}
+
+.widget-hackernews-posts .post-meta-item span,
+.widget-hackernews-posts .post-meta-item a {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.widget-hackernews-posts .post-points {
+    color: #ff6600;
+    font-weight: 500;
+}
+
+.widget-hackernews-posts .article-link {
+    color: #60a5fa;
+    text-decoration: none;
+    font-size: 0.7rem;
+}
+
+.widget-hackernews-posts .article-link:hover {
+    text-decoration: underline;
+}
+</style>
+
+<div class="widget widget-hackernews-posts widget-full">
+    <div class="widget-header">
+        <h3>Hacker News</h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            "artificial intelligence"
+            
+            · 🕒 Latest
+            
+            
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="hn-carousel-artificial-intelligence">
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45998977', '_blank')">
+                    <div class="post-title">
+                        <a href="https://news.ycombinator.com/item?id=45998977" target="_blank" onclick="event.stopPropagation();">World Bank Published about Artificial Intelligence in Bulgarian</a>
+                    </div>
+                    <div class="post-meta">
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-points">▲ 1</span>
+                            </div>
+                            <div class="post-meta-item">
+                                <span style="color: #9ca3af;">💬 0</span>
+                            </div>
+                            <div class="post-meta-item">
+                                by kaven1234
+                            </div>
+                        </div>
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-age" data-timestamp="2025-11-20T22:52:10Z"></span>
+                            </div>
+                            
+                            <div class="post-meta-item">
+                                <a href="https://wbginstitute.nouswise.com/c/fcd839f7-c91c-412f-baef-32e4842064f3" target="_blank" class="article-link" onclick="event.stopPropagation();">
+                                    🔗 article
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45998893', '_blank')">
+                    <div class="post-title">
+                        <a href="https://news.ycombinator.com/item?id=45998893" target="_blank" onclick="event.stopPropagation();">US Citizens and Chinese Nationals Arrested for Exporting AI Technology to China</a>
+                    </div>
+                    <div class="post-meta">
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-points">▲ 7</span>
+                            </div>
+                            <div class="post-meta-item">
+                                <span style="color: #9ca3af;">💬 0</span>
+                            </div>
+                            <div class="post-meta-item">
+                                by 737min
+                            </div>
+                        </div>
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-age" data-timestamp="2025-11-20T22:43:25Z"></span>
+                            </div>
+                            
+                            <div class="post-meta-item">
+                                <a href="https://www.justice.gov/opa/pr/us-citizens-and-chinese-nationals-arrested-exporting-artificial-intelligence-technology" target="_blank" class="article-link" onclick="event.stopPropagation();">
+                                    🔗 article
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45998620', '_blank')">
+                    <div class="post-title">
+                        <a href="https://news.ycombinator.com/item?id=45998620" target="_blank" onclick="event.stopPropagation();">Grok's Elon Musk worship is getting weird</a>
+                    </div>
+                    <div class="post-meta">
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-points">▲ 8</span>
+                            </div>
+                            <div class="post-meta-item">
+                                <span style="color: #9ca3af;">💬 7</span>
+                            </div>
+                            <div class="post-meta-item">
+                                by minimaxir
+                            </div>
+                        </div>
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-age" data-timestamp="2025-11-20T22:18:56Z"></span>
+                            </div>
+                            
+                            <div class="post-meta-item">
+                                <a href="https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird" target="_blank" class="article-link" onclick="event.stopPropagation();">
+                                    🔗 article
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45992304', '_blank')">
+                    <div class="post-title">
+                        <a href="https://news.ycombinator.com/item?id=45992304" target="_blank" onclick="event.stopPropagation();">Students fight back over course taught by AI</a>
+                    </div>
+                    <div class="post-meta">
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-points">▲ 115</span>
+                            </div>
+                            <div class="post-meta-item">
+                                <span style="color: #9ca3af;">💬 126</span>
+                            </div>
+                            <div class="post-meta-item">
+                                by level87
+                            </div>
+                        </div>
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-age" data-timestamp="2025-11-20T13:24:48Z"></span>
+                            </div>
+                            
+                            <div class="post-meta-item">
+                                <a href="https://www.theguardian.com/education/2025/nov/20/university-of-staffordshire-course-taught-in-large-part-by-ai-artificial-intelligence" target="_blank" class="article-link" onclick="event.stopPropagation();">
+                                    🔗 article
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45989320', '_blank')">
+                    <div class="post-title">
+                        <a href="https://news.ycombinator.com/item?id=45989320" target="_blank" onclick="event.stopPropagation();">Relative toposes for artificial general intelligence [video]</a>
+                    </div>
+                    <div class="post-meta">
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-points">▲ 2</span>
+                            </div>
+                            <div class="post-meta-item">
+                                <span style="color: #9ca3af;">💬 1</span>
+                            </div>
+                            <div class="post-meta-item">
+                                by measurablefunc
+                            </div>
+                        </div>
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-age" data-timestamp="2025-11-20T05:38:46Z"></span>
+                            </div>
+                            
+                            <div class="post-meta-item">
+                                <a href="https://www.youtube.com/watch?v=JQ0iyKZ-ZRw&list=PLq6qUEvr5AcqwHDndHHrReQY8qjdOMAAP&index=2" target="_blank" class="article-link" onclick="event.stopPropagation();">
+                                    🔗 article
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45986747', '_blank')">
+                    <div class="post-title">
+                        <a href="https://news.ycombinator.com/item?id=45986747" target="_blank" onclick="event.stopPropagation();">Presidential executive order would ban all state AI regulation</a>
+                    </div>
+                    <div class="post-meta">
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-points">▲ 24</span>
+                            </div>
+                            <div class="post-meta-item">
+                                <span style="color: #9ca3af;">💬 11</span>
+                            </div>
+                            <div class="post-meta-item">
+                                by anigbrowl
+                            </div>
+                        </div>
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-age" data-timestamp="2025-11-19T23:27:49Z"></span>
+                            </div>
+                            
+                            <div class="post-meta-item">
+                                <a href="https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws" target="_blank" class="article-link" onclick="event.stopPropagation();">
+                                    🔗 article
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45984637', '_blank')">
+                    <div class="post-title">
+                        <a href="https://news.ycombinator.com/item?id=45984637" target="_blank" onclick="event.stopPropagation();">Artificial intelligence helps Klarna double revenues with half the staff</a>
+                    </div>
+                    <div class="post-meta">
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-points">▲ 2</span>
+                            </div>
+                            <div class="post-meta-item">
+                                <span style="color: #9ca3af;">💬 2</span>
+                            </div>
+                            <div class="post-meta-item">
+                                by latein
+                            </div>
+                        </div>
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-age" data-timestamp="2025-11-19T20:25:01Z"></span>
+                            </div>
+                            
+                            <div class="post-meta-item">
+                                <a href="https://www.computerweekly.com/news/366634565/Artificial-intelligence-helps-Klarna-double-revenues-with-half-the-staff" target="_blank" class="article-link" onclick="event.stopPropagation();">
+                                    🔗 article
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45984169', '_blank')">
+                    <div class="post-title">
+                        <a href="https://news.ycombinator.com/item?id=45984169" target="_blank" onclick="event.stopPropagation();">Google Search is now using AI to create interactive UI to answer your questions</a>
+                    </div>
+                    <div class="post-meta">
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-points">▲ 1</span>
+                            </div>
+                            <div class="post-meta-item">
+                                <span style="color: #9ca3af;">💬 0</span>
+                            </div>
+                            <div class="post-meta-item">
+                                by jinxmeta
+                            </div>
+                        </div>
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-age" data-timestamp="2025-11-19T19:47:15Z"></span>
+                            </div>
+                            
+                            <div class="post-meta-item">
+                                <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/" target="_blank" class="article-link" onclick="event.stopPropagation();">
+                                    🔗 article
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45979945', '_blank')">
+                    <div class="post-title">
+                        <a href="https://news.ycombinator.com/item?id=45979945" target="_blank" onclick="event.stopPropagation();">Artificial intelligence will kill artificial gates</a>
+                    </div>
+                    <div class="post-meta">
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-points">▲ 3</span>
+                            </div>
+                            <div class="post-meta-item">
+                                <span style="color: #9ca3af;">💬 0</span>
+                            </div>
+                            <div class="post-meta-item">
+                                by nathanh
+                            </div>
+                        </div>
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-age" data-timestamp="2025-11-19T14:31:08Z"></span>
+                            </div>
+                            
+                            <div class="post-meta-item">
+                                <a href="https://nahurst.substack.com/p/artificial-intelligence-will-kill" target="_blank" class="article-link" onclick="event.stopPropagation();">
+                                    🔗 article
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45978793', '_blank')">
+                    <div class="post-title">
+                        <a href="https://news.ycombinator.com/item?id=45978793" target="_blank" onclick="event.stopPropagation();">Becoming an AI detective is a job I never wanted and wish I could quit</a>
+                    </div>
+                    <div class="post-meta">
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-points">▲ 5</span>
+                            </div>
+                            <div class="post-meta-item">
+                                <span style="color: #9ca3af;">💬 3</span>
+                            </div>
+                            <div class="post-meta-item">
+                                by latexr
+                            </div>
+                        </div>
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-age" data-timestamp="2025-11-19T12:30:19Z"></span>
+                            </div>
+                            
+                            <div class="post-meta-item">
+                                <a href="https://www.theguardian.com/commentisfree/2025/nov/19/ai-detective-artificial-intelligence-a-job-i-never-wanted" target="_blank" class="article-link" onclick="event.stopPropagation();">
+                                    🔗 article
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
+                     onclick="window.open('https://hn.algolia.com/?query=artificial intelligence&type=story&sort=byDate', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
+                        <div style="color: #ff6600; font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on Hacker News</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="2025-11-20T23:01:36.980216+00:00">Updated 2025-11-20T23:01:36.980216+00:00</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->
+        
+        <style>
+/* Google News specific card styling */
+.widget-google-news .carousel-card {
+    border-left: 3px solid var(--primary-color);
+}
+
+.widget-google-news .news-headline {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1;
+}
+
+.widget-google-news .news-headline a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-google-news .news-headline a:hover {
+    color: var(--primary-color);
+}
+
+.widget-google-news .news-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+}
+
+.widget-google-news .news-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.widget-google-news .news-source {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    min-width: 0;
+}
+
+.widget-google-news .news-source a,
+.widget-google-news .news-source span {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.widget-google-news .news-favicon {
+    width: 14px;
+    height: 14px;
+    margin-right: 4px;
+    border-radius: 2px;
+}
+
+.widget-google-news .news-source a {
+    color: #9ca3af;
+    text-decoration: none;
+}
+
+.widget-google-news .news-source a:hover {
+    color: var(--primary-color);
+}
+</style>
+
+<div class="widget widget-google-news widget-full">
+    <div class="widget-header">
+        <h3>Google News</h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            "artificial intelligence"
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="news-carousel-artificial-intelligence">
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVlPWHBqMTl4N0UzZ20wTW85UWdFb0VHYWtpdVdhR2JzTW96QWtJanFpeGczVTByX3lISUE1V1BCYkFuamVaOW9yZW9BUlJTYkZmWUVHSDA3ZXphQlBWakF3OUp5cHljbHJJU3dmNkZRTnpqTWszNnRjLTRfSGx1ZU9waERIMVhDelY2Y0ttTkw2Z2lOSFV3bEwzVk1HUG9CYzZkRTVpQWZPVlU1VkpsMUdwOEFqVGZQ?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVlPWHBqMTl4N0UzZ20wTW85UWdFb0VHYWtpdVdhR2JzTW96QWtJanFpeGczVTByX3lISUE1V1BCYkFuamVaOW9yZW9BUlJTYkZmWUVHSDA3ZXphQlBWakF3OUp5cHljbHJJU3dmNkZRTnpqTWszNnRjLTRfSGx1ZU9waERIMVhDelY2Y0ttTkw2Z2lOSFV3bEwzVk1HUG9CYzZkRTVpQWZPVlU1VkpsMUdwOEFqVGZQ?oc=5" target="_blank" onclick="event.stopPropagation();">Teachers and parents weigh benefits and risks of artificial intelligence in schools</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="PBS" class="news-favicon">
+                                <a href="https://www.pbs.org" target="_blank" onclick="event.stopPropagation();">PBS</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763595040.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMikAFBVV95cUxORU1WaXR1M044ekQxYmotdk9uSUpkSHRQdlhmMml3QnV2eDJDUHBkc0NXdDJwbzNKbFVBOXJmY09PTGJDc1c5ZzFad0EwM201a3pWWjQ4aDYwU2wyXzNQSks0T3JHYTVCZTd6c0hMUFNtRGxVb3hKbzVwcHFUMEFELU9BclN4SXQtRXpoRHpyb3c?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxORU1WaXR1M044ekQxYmotdk9uSUpkSHRQdlhmMml3QnV2eDJDUHBkc0NXdDJwbzNKbFVBOXJmY09PTGJDc1c5ZzFad0EwM201a3pWWjQ4aDYwU2wyXzNQSks0T3JHYTVCZTd6c0hMUFNtRGxVb3hKbzVwcHFUMEFELU9BclN4SXQtRXpoRHpyb3c?oc=5" target="_blank" onclick="event.stopPropagation();">Artificial intelligence is front and centre at COP30</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://theconversation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="The Conversation" class="news-favicon">
+                                <a href="https://theconversation.com" target="_blank" onclick="event.stopPropagation();">The Conversation</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763570987.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiswFBVV95cUxNM3drb2pmbzhLMk9nUEtDMEMzeWVyaWtuTExjMDZkVV9TbUN4NnhFdHF6ZENFOXowWTVfTUJBa2JyT1RSTzAzRnh0VWF4azFmVzF4bENnbzlIZkRieER6ZzRhUHZaYUxUSURQWThlb3VuRFNiQVJZX1poaWtENTkyNVlULVBvb2RfOG1uOFBudHZQNk1zOTBuUVg2Q0dxM1hwZkVxLTlIUDUtSTY5V3dtdV9aWQ?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNM3drb2pmbzhLMk9nUEtDMEMzeWVyaWtuTExjMDZkVV9TbUN4NnhFdHF6ZENFOXowWTVfTUJBa2JyT1RSTzAzRnh0VWF4azFmVzF4bENnbzlIZkRieER6ZzRhUHZaYUxUSURQWThlb3VuRFNiQVJZX1poaWtENTkyNVlULVBvb2RfOG1uOFBudHZQNk1zOTBuUVg2Q0dxM1hwZkVxLTlIUDUtSTY5V3dtdV9aWQ?oc=5" target="_blank" onclick="event.stopPropagation();">Retraining Emerges as Leading Response to AI Job Disruption</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="PYMNTS.com" class="news-favicon">
+                                <a href="https://www.pymnts.com" target="_blank" onclick="event.stopPropagation();">PYMNTS.com</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763679111.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUNWRTVkczhSdWRKdjFSbUxId2kxdDdBdzh1ZmE5TWNJbUxsQ05tYUZaaDdvaF9qX2o4ek9NQUVWRGFZZklDTUw5RWEyQUd3X1FMbElZaHpPTGFNQXFUb21xM3dDV2k0Y3hDcWpOa29OcHpiLXFMS3huZVhlMTV6bHdrczRPLXZ0VnNZaTFJanQ5Q2ZCWDZUOUZGaHAyZ0RlWHI5bk5OdGZ4d3BsTTNYcUE4Mk1jak0?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUNWRTVkczhSdWRKdjFSbUxId2kxdDdBdzh1ZmE5TWNJbUxsQ05tYUZaaDdvaF9qX2o4ek9NQUVWRGFZZklDTUw5RWEyQUd3X1FMbElZaHpPTGFNQXFUb21xM3dDV2k0Y3hDcWpOa29OcHpiLXFMS3huZVhlMTV6bHdrczRPLXZ0VnNZaTFJanQ5Q2ZCWDZUOUZGaHAyZ0RlWHI5bk5OdGZ4d3BsTTNYcUE4Mk1jak0?oc=5" target="_blank" onclick="event.stopPropagation();">NASA, Industry Weave Data Fabric with Artificial Intelligence</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nasa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="NASA (.gov)" class="news-favicon">
+                                <a href="https://www.nasa.gov" target="_blank" onclick="event.stopPropagation();">NASA (.gov)</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763405606.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMivwFBVV95cUxPazVYd1NyMDc5RGt4SUtPM3dLQWw3aW5ONzhaYzNYelZJNVgxeFVyVnQwaDFSN0FkbEY4c2RYWG5uNUJ3WkVxSEJPN0ViWGRPZVd6ZzQ1MzZGV1gzMWU5YS1JSkloREFxRTVEX0gtdy1OWU90QWRBT3YzTS1Dc1VHeFZsVlkxUUVIMVRJVVpKcEhzSlFLcENEcEZPcXotbUZ3UDBxUVEyeWNsYkpKR2d3ZXg2dnd6Z0xYNlZlMjRPZw?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPazVYd1NyMDc5RGt4SUtPM3dLQWw3aW5ONzhaYzNYelZJNVgxeFVyVnQwaDFSN0FkbEY4c2RYWG5uNUJ3WkVxSEJPN0ViWGRPZVd6ZzQ1MzZGV1gzMWU5YS1JSkloREFxRTVEX0gtdy1OWU90QWRBT3YzTS1Dc1VHeFZsVlkxUUVIMVRJVVpKcEhzSlFLcENEcEZPcXotbUZ3UDBxUVEyeWNsYkpKR2d3ZXg2dnd6Z0xYNlZlMjRPZw?oc=5" target="_blank" onclick="event.stopPropagation();">U.S. Cyber Command has a new Chief Artificial Intelligence Officer</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://federalnewsnetwork.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="Federal News Network" class="news-favicon">
+                                <a href="https://federalnewsnetwork.com" target="_blank" onclick="event.stopPropagation();">Federal News Network</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763586111.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMimAFBVV95cUxOYTFIaThmcVFzV1RRWF9WRW54VEwtaHNaRGtHX3RlaG5XZlZ3TFFtX0FRRVpnYnBxUE5tNVlnWmNURkw2QzBXODZyTUcxbHVGZk5CM1d6M29HbzJmaGVpMWR3WnRNVTdQODI1VWx2dmpyOWRGdzFVZmZhOTBaUHBuWFJxSTdBVW01TnhTVjI2elg3a2FPbFU0bA?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOYTFIaThmcVFzV1RRWF9WRW54VEwtaHNaRGtHX3RlaG5XZlZ3TFFtX0FRRVpnYnBxUE5tNVlnWmNURkw2QzBXODZyTUcxbHVGZk5CM1d6M29HbzJmaGVpMWR3WnRNVTdQODI1VWx2dmpyOWRGdzFVZmZhOTBaUHBuWFJxSTdBVW01TnhTVjI2elg3a2FPbFU0bA?oc=5" target="_blank" onclick="event.stopPropagation();">10 Artificial Intelligence (AI) Infrastructure Stocks to Buy for the $400 Billion Buildout</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="The Motley Fool" class="news-favicon">
+                                <a href="https://www.fool.com" target="_blank" onclick="event.stopPropagation();">The Motley Fool</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763473500.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMimAFBVV95cUxQMU5nakRwYzRGWTVjNm0wZnFPdFdRY1oySk9tSXdTUVZRUVoxTWFkSk5QM1VrTjlnOXdGajk0blVpX2h2Q0s0akpGeFI3YV9RZFN5V0JOUFE5OEZsbTBIZkFVVDNab3IyWDhTWWd3bnhZZW5zQURIYWtkQ1o4cmJtcXdBY0JSTmJxWEQ3RzdTYUVRamo3aUdCOA?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQMU5nakRwYzRGWTVjNm0wZnFPdFdRY1oySk9tSXdTUVZRUVoxTWFkSk5QM1VrTjlnOXdGajk0blVpX2h2Q0s0akpGeFI3YV9RZFN5V0JOUFE5OEZsbTBIZkFVVDNab3IyWDhTWWd3bnhZZW5zQURIYWtkQ1o4cmJtcXdBY0JSTmJxWEQ3RzdTYUVRamo3aUdCOA?oc=5" target="_blank" onclick="event.stopPropagation();">The EU promised to lead on regulating artificial intelligence. Now it’s hitting pause.</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="politico.eu" class="news-favicon">
+                                <a href="https://www.politico.eu" target="_blank" onclick="event.stopPropagation();">politico.eu</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763521680.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoaWJRYWE2a3hkWWZsVm96OHFMRXUwdkZhM0dWVE0weEpCbURQeGhZRFVQaTdTX2xoVnFCZ2F3SnpWMXlhZzM5clVEQUtxUkUtZjNyRC1vdzQzVzdjYmQ0?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoaWJRYWE2a3hkWWZsVm96OHFMRXUwdkZhM0dWVE0weEpCbURQeGhZRFVQaTdTX2xoVnFCZ2F3SnpWMXlhZzM5clVEQUtxUkUtZjNyRC1vdzQzVzdjYmQ0?oc=5" target="_blank" onclick="event.stopPropagation();">Harnessing artificial intelligence to advance CRISPR-based genome editing technologies</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="Nature" class="news-favicon">
+                                <a href="https://www.nature.com" target="_blank" onclick="event.stopPropagation();">Nature</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763473668.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHZQOEFzR3dYQXhGRFE2ZUNjTG9sNXVhaTdQeF9qMDFwOXl0UEM0bnJ1aWdxRXBpNDlhbWZBc0cycXFyNE53T1V1eGp4Z003RFhfYkpHTnBJTW5wNUZRY0xzTmtUM1FZS3dXdUtkcFlzbVc3ZEFPMzg1OG1CREt4cXlDUXo?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHZQOEFzR3dYQXhGRFE2ZUNjTG9sNXVhaTdQeF9qMDFwOXl0UEM0bnJ1aWdxRXBpNDlhbWZBc0cycXFyNE53T1V1eGp4Z003RFhfYkpHTnBJTW5wNUZRY0xzTmtUM1FZS3dXdUtkcFlzbVc3ZEFPMzg1OG1CREt4cXlDUXo?oc=5" target="_blank" onclick="event.stopPropagation();">Artificial Intelligence Solutions</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fiercehealthcare.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="Fierce Healthcare" class="news-favicon">
+                                <a href="https://www.fiercehealthcare.com" target="_blank" onclick="event.stopPropagation();">Fierce Healthcare</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763577752.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5" target="_blank" onclick="event.stopPropagation();">The A.I. Boom Has Found Another Gear. Why Can’t People Shake Their Worries?</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="The New York Times" class="news-favicon">
+                                <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763674602.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
+                     onclick="window.open('https://news.google.com/search?q=artificial intelligence', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
+                        <div style="color: var(--primary-color); font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on Google News</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="2025-11-20T23:01:37.508049+00:00">Updated 2025-11-20T23:01:37.508049+00:00</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->
+        
+    </main>
+
+    <script>
+        // Client-side relative time formatting
+        function formatTimeAgo(timestamp) {
+            // Handle both ISO strings and Unix timestamps
+            let date;
+            if (typeof timestamp === 'string' && timestamp.includes('-')) {
+                // ISO timestamp (e.g., "2025-11-19T12:34:56")
+                date = new Date(timestamp);
+            } else {
+                // Unix timestamp (e.g., 1763582063.0)
+                date = new Date(parseFloat(timestamp) * 1000);
+            }
+
+            const now = new Date();
+            const seconds = Math.floor((now - date) / 1000);
+
+            if (seconds < 0) return 'just now';
+            if (seconds < 60) return seconds + 's ago';
+
+            const minutes = Math.floor(seconds / 60);
+            if (minutes < 60) return minutes + 'm ago';
+
+            const hours = Math.floor(minutes / 60);
+            if (hours < 24) return hours + 'h ago';
+
+            const days = Math.floor(hours / 24);
+            if (days < 30) return days + 'd ago';
+
+            const months = Math.floor(days / 30);
+            return months + 'mo ago';
+        }
+
+        // Update all timestamps on page load
+        function updateAllTimestamps() {
+            // Generic: update any element with data-timestamp attribute
+            // Widget footers show "Updated X ago", others show just "X ago"
+            const timestampElements = document.querySelectorAll('[data-timestamp]');
+            timestampElements.forEach(element => {
+                const timestamp = element.getAttribute('data-timestamp');
+                const isFooter = element.closest('.widget-footer') !== null;
+                const prefix = isFooter ? 'Updated ' : '';
+                element.textContent = prefix + formatTimeAgo(timestamp);
+            });
+        }
+
+        // Format dates (for ATH/ATL dates - show date only in user's timezone)
+        function formatDate(isoString) {
+            const date = new Date(isoString);
+            return date.toLocaleDateString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                year: 'numeric'
+            });
+        }
+
+        // Update all date elements
+        function updateAllDates() {
+            const dateElements = document.querySelectorAll('[data-date]');
+            dateElements.forEach(element => {
+                const isoDate = element.getAttribute('data-date');
+                element.textContent = formatDate(isoDate);
+            });
+        }
+
+        // Update timestamps on page load
+        updateAllTimestamps();
+        updateAllDates();
+
+        // Optionally: Update every 10 seconds for live pages
+        setInterval(updateAllTimestamps, 10000);
+
+        // Chart tab switching
+        function initChartTabs() {
+            const tabButtons = document.querySelectorAll('.chart-tab-btn');
+
+            tabButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    const targetTabId = this.getAttribute('data-tab');
+                    const tabContainer = this.closest('.widget-crypto-price-chart');
+
+                    // Remove active class from all buttons in this container
+                    tabContainer.querySelectorAll('.chart-tab-btn').forEach(btn => {
+                        btn.classList.remove('active');
+                    });
+
+                    // Hide all tab contents in this container
+                    tabContainer.querySelectorAll('.chart-tab-content').forEach(content => {
+                        content.style.display = 'none';
+                    });
+
+                    // Add active class to clicked button
+                    this.classList.add('active');
+
+                    // Show target tab content
+                    const targetContent = tabContainer.querySelector(`[data-tab-id="${targetTabId}"]`);
+                    if (targetContent) {
+                        targetContent.style.display = 'block';
+                    }
+                });
+            });
+        }
+
+        // Initialize tabs on page load
+        initChartTabs();
+
+        // ===== Shared Carousel Initialization =====
+        function initCarousel(carouselId) {
+            const carousel = document.getElementById(carouselId);
+            if (!carousel) return;
+
+            const cards = carousel.querySelectorAll('.carousel-card');
+            const prevBtn = carousel.parentElement.querySelector('.carousel-nav-prev');
+            const nextBtn = carousel.parentElement.querySelector('.carousel-nav-next');
+
+            if (!prevBtn || !nextBtn || !cards.length) return;
+
+            let currentIndex = 0;
+
+            function getVisibleCards() {
+                const cardWidth = cards[0].offsetWidth;
+                const gap = 16;
+                const containerWidth = carousel.offsetWidth;
+                return Math.floor(containerWidth / (cardWidth + gap)) || 1;
+            }
+
+            function scrollToIndex(index) {
+                const cardWidth = cards[0].offsetWidth;
+                const gap = 16;
+                const scrollPosition = index * (cardWidth + gap);
+                carousel.scrollTo({
+                    left: scrollPosition,
+                    behavior: 'smooth'
+                });
+                currentIndex = index;
+                updateButtonStates();
+            }
+
+            function scrollByBatch(direction) {
+                const visibleCards = getVisibleCards();
+                let newIndex;
+
+                if (direction === 'next') {
+                    newIndex = Math.min(currentIndex + visibleCards, cards.length - 1);
+                } else {
+                    newIndex = Math.max(currentIndex - visibleCards, 0);
+                }
+
+                scrollToIndex(newIndex);
+            }
+
+            function updateButtonStates() {
+                prevBtn.disabled = currentIndex === 0;
+                nextBtn.disabled = currentIndex >= cards.length - 1;
+            }
+
+            // Navigation buttons
+            prevBtn.addEventListener('click', (e) => {
+                e.preventDefault();
+                scrollByBatch('prev');
+            });
+
+            nextBtn.addEventListener('click', (e) => {
+                e.preventDefault();
+                scrollByBatch('next');
+            });
+
+            // Keyboard navigation
+            carousel.addEventListener('keydown', (e) => {
+                if (e.key === 'ArrowLeft') {
+                    e.preventDefault();
+                    scrollByBatch('prev');
+                } else if (e.key === 'ArrowRight') {
+                    e.preventDefault();
+                    scrollByBatch('next');
+                }
+            });
+
+            // Mouse wheel horizontal scroll
+            carousel.addEventListener('wheel', (e) => {
+                if (e.deltaY !== 0) {
+                    e.preventDefault();
+                    carousel.scrollLeft += e.deltaY;
+                }
+            }, { passive: false });
+
+            // Track scroll position
+            let scrollTimeout;
+            carousel.addEventListener('scroll', () => {
+                clearTimeout(scrollTimeout);
+                scrollTimeout = setTimeout(() => {
+                    const cardWidth = cards[0].offsetWidth;
+                    const gap = 16;
+                    const scrollPos = carousel.scrollLeft;
+                    const newIndex = Math.round(scrollPos / (cardWidth + gap));
+                    if (newIndex !== currentIndex) {
+                        currentIndex = newIndex;
+                        updateButtonStates();
+                    }
+                }, 100);
+            });
+
+            updateButtonStates();
+        }
+
+        // Auto-initialize all carousels on page
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('.carousel-track[id]').forEach(carousel => {
+                initCarousel(carousel.id);
+            });
+        });
+    </script>
+</body>
+</html>

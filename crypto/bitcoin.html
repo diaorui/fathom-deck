@@ -98,6 +98,113 @@
                 font-size: 2rem;
             }
         }
+
+        /* ===== Shared Carousel Styles ===== */
+        .carousel-container {
+            position: relative;
+            overflow: hidden;
+            padding: 0 40px;
+        }
+
+        .carousel-track {
+            display: flex;
+            gap: 16px;
+            overflow-x: auto;
+            scroll-behavior: smooth;
+            scroll-snap-type: x mandatory;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+            padding: 4px 0;
+        }
+
+        .carousel-track::-webkit-scrollbar {
+            display: none;
+        }
+
+        .carousel-card {
+            scroll-snap-align: start;
+            flex: 0 0 280px;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 8px;
+            padding: 14px;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            min-height: 140px;
+        }
+
+        .carousel-card:hover {
+            background: rgba(255, 255, 255, 0.06);
+            transform: translateY(-2px);
+        }
+
+        .carousel-nav {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(0, 0, 0, 0.5);
+            border: none;
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+            z-index: 10;
+        }
+
+        .carousel-nav:hover {
+            background: var(--primary-color);
+            transform: translateY(-50%) scale(1.1);
+        }
+
+        .carousel-nav:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .carousel-nav-prev {
+            left: 4px;
+        }
+
+        .carousel-nav-next {
+            right: 4px;
+        }
+
+        @media (min-width: 768px) {
+            .carousel-card {
+                flex: 0 0 320px;
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .carousel-card {
+                flex: 0 0 280px;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .carousel-container {
+                padding: 0;
+            }
+
+            .carousel-track {
+                padding: 0 16px;
+            }
+
+            .carousel-card {
+                flex: 0 0 calc(85% - 8px);
+            }
+
+            .carousel-nav {
+                display: none;
+            }
+        }
     </style>
 </head>
 <body>
@@ -165,25 +272,25 @@
     </div>
     <div class="widget-body">
         <div class="price-display">
-            <span class="price-value">$86,360.05</span>
+            <span class="price-value">$86,459.18</span>
         </div>
         <div class="price-details">
             <div>
                 <div class="detail-label">Bid</div>
-                <div class="detail-value">$86,366.00</div>
+                <div class="detail-value">$86,436.53</div>
             </div>
             <div>
                 <div class="detail-label">Ask</div>
-                <div class="detail-value">$86,390.29</div>
+                <div class="detail-value">$86,459.55</div>
             </div>
             <div>
                 <div class="detail-label">24h Volume</div>
-                <div class="detail-value">$66.85M</div>
+                <div class="detail-value">$69.60M</div>
             </div>
         </div>
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-20T19:00:05.234126+00:00">Updated 2025-11-20T19:00:05.234126+00:00</small>
+        <small data-timestamp="2025-11-20T19:12:11.608331+00:00">Updated 2025-11-20T19:12:11.608331+00:00</small>
     </div>
 </div>
         
@@ -275,7 +382,7 @@
                 <canvas id="chart-btcusd-tab-0"></canvas>
             </div>
             <div class="widget-footer">
-                <small data-timestamp="2025-11-20T19:00:05.708552+00:00">Updated 2025-11-20T19:00:05.708552+00:00</small>
+                <small data-timestamp="2025-11-20T19:12:12.228418+00:00">Updated 2025-11-20T19:12:12.228418+00:00</small>
             </div>
         </div>
     
@@ -285,7 +392,7 @@
                 <canvas id="chart-btcusd-tab-1"></canvas>
             </div>
             <div class="widget-footer">
-                <small data-timestamp="2025-11-20T19:00:05.708552+00:00">Updated 2025-11-20T19:00:05.708552+00:00</small>
+                <small data-timestamp="2025-11-20T19:12:12.228418+00:00">Updated 2025-11-20T19:12:12.228418+00:00</small>
             </div>
         </div>
     
@@ -295,7 +402,7 @@
                 <canvas id="chart-btcusd-tab-2"></canvas>
             </div>
             <div class="widget-footer">
-                <small data-timestamp="2025-11-20T19:00:05.708552+00:00">Updated 2025-11-20T19:00:05.708552+00:00</small>
+                <small data-timestamp="2025-11-20T19:12:12.228418+00:00">Updated 2025-11-20T19:12:12.228418+00:00</small>
             </div>
         </div>
     
@@ -305,7 +412,7 @@
                 <canvas id="chart-btcusd-tab-3"></canvas>
             </div>
             <div class="widget-footer">
-                <small data-timestamp="2025-11-20T19:00:05.708552+00:00">Updated 2025-11-20T19:00:05.708552+00:00</small>
+                <small data-timestamp="2025-11-20T19:12:12.228418+00:00">Updated 2025-11-20T19:12:12.228418+00:00</small>
             </div>
         </div>
     
@@ -315,7 +422,7 @@
                 <canvas id="chart-btcusd-tab-4"></canvas>
             </div>
             <div class="widget-footer">
-                <small data-timestamp="2025-11-20T19:00:05.708552+00:00">Updated 2025-11-20T19:00:05.708552+00:00</small>
+                <small data-timestamp="2025-11-20T19:12:12.228418+00:00">Updated 2025-11-20T19:12:12.228418+00:00</small>
             </div>
         </div>
     
@@ -697,13 +804,13 @@
         <div class="market-stats-grid">
             <div class="stat-item">
                 <div class="stat-label">Market Cap</div>
-                <div class="stat-value stat-value-large">$1722.42B</div>
+                <div class="stat-value stat-value-large">$1719.07B</div>
                 <div class="stat-meta">Rank #1</div>
             </div>
             <div class="stat-item">
                 <div class="stat-label">24h Change</div>
                 <div class="stat-value stat-value-large" style="color: var(--color-negative);">
-                    -3.01%
+                    -3.20%
                 </div>
             </div>
             <div class="stat-item">
@@ -728,52 +835,17 @@
         </div>
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-20T19:00:05.934156+00:00">Updated 2025-11-20T19:00:05.934156+00:00</small>
+        <small data-timestamp="2025-11-20T19:12:12.390335+00:00">Updated 2025-11-20T19:12:12.390335+00:00</small>
     </div>
 </div>
         
         <style>
-/* Carousel container */
-.widget-hackernews-posts .carousel-container {
-    position: relative;
-    overflow: hidden;
-    padding: 0 40px; /* Space for nav buttons */
-}
-
-.widget-hackernews-posts .carousel-track {
-    display: flex;
-    gap: 16px;
-    overflow-x: auto;
-    scroll-behavior: smooth;
-    scroll-snap-type: x mandatory;
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none; /* IE/Edge */
-    padding: 4px 0; /* Prevent shadow clipping */
-}
-
-.widget-hackernews-posts .carousel-track::-webkit-scrollbar {
-    display: none; /* Chrome/Safari */
-}
-
-/* Card styling */
-.widget-hackernews-posts .post-card {
-    flex: 0 0 280px; /* Fixed width cards */
-    scroll-snap-align: start;
-    background: rgba(255, 255, 255, 0.03);
-    border-radius: 8px;
+/* HackerNews-specific card styling */
+.widget-hackernews-posts .carousel-card {
     border-left: 3px solid #ff6600;
-    padding: 14px;
-    transition: all 0.2s ease;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    cursor: pointer;
-    display: flex;
-    flex-direction: column;
-    min-height: 140px; /* Ensure consistent card height */
 }
 
-.widget-hackernews-posts .post-card:hover {
-    background: rgba(255, 255, 255, 0.06);
-    transform: translateY(-2px);
+.widget-hackernews-posts .carousel-card:hover {
     box-shadow: 0 4px 12px rgba(255, 102, 0, 0.2);
 }
 
@@ -786,7 +858,7 @@
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    flex: 1; /* Title takes available space, pushing meta to bottom */
+    flex: 1;
 }
 
 .widget-hackernews-posts .post-title a {
@@ -826,80 +898,6 @@
 .widget-hackernews-posts .article-link:hover {
     text-decoration: underline;
 }
-
-/* Navigation buttons */
-.widget-hackernews-posts .carousel-nav {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: rgba(0, 0, 0, 0.5);
-    border: none;
-    color: white;
-    width: 32px;
-    height: 32px;
-    border-radius: 50%;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all 0.2s ease;
-    z-index: 10;
-}
-
-.widget-hackernews-posts .carousel-nav:hover {
-    background: #ff6600;
-    transform: translateY(-50%) scale(1.1);
-}
-
-.widget-hackernews-posts .carousel-nav:disabled {
-    opacity: 0.3;
-    cursor: not-allowed;
-}
-
-.widget-hackernews-posts .carousel-nav-prev {
-    left: 4px;
-}
-
-.widget-hackernews-posts .carousel-nav-next {
-    right: 4px;
-}
-
-/* Responsive - show more cards on wider screens */
-@media (min-width: 768px) {
-    .widget-hackernews-posts .post-card {
-        flex: 0 0 320px;
-    }
-}
-
-@media (min-width: 1024px) {
-    .widget-hackernews-posts .post-card {
-        flex: 0 0 280px;
-    }
-}
-
-/* Mobile - show card peek and hide buttons */
-@media (max-width: 640px) {
-    .widget-hackernews-posts .carousel-container {
-        padding: 0; /* Remove button padding on mobile */
-    }
-
-    .widget-hackernews-posts .carousel-track {
-        padding: 0 16px; /* Add side padding to container */
-    }
-
-    .widget-hackernews-posts .post-card {
-        flex: 0 0 calc(85% - 8px); /* Show 85% of card + peek of next */
-    }
-
-    /* Hide navigation buttons on mobile */
-    .widget-hackernews-posts .carousel-nav {
-        display: none;
-    }
-}
-
-.widget-hackernews-posts .view-all-btn:hover {
-    background: rgba(255, 102, 0, 0.15) !important;
-}
 </style>
 
 <div class="widget widget-hackernews-posts widget-full">
@@ -907,7 +905,7 @@
         <h3>
             Hacker News Stories
             <span style="font-size: 0.75rem; color: #9ca3af; font-weight: normal; margin-left: 8px;">
-                "bitcoin"
+                "Bitcoin"
                 
                 · 🕒 Latest
                 
@@ -923,9 +921,9 @@
             </button>
 
             <!-- Carousel track -->
-            <div class="carousel-track" id="hn-carousel-bitcoin">
+            <div class="carousel-track" id="hn-carousel-Bitcoin">
                 
-                <div class="post-card" onclick="window.open('https://news.ycombinator.com/item?id=45993647', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45993647', '_blank')">
                     <div class="post-title">
                         <a href="https://news.ycombinator.com/item?id=45993647" target="_blank" onclick="event.stopPropagation();">Will Strategy Inc. Crash Bitcoin?</a>
                     </div>
@@ -952,7 +950,7 @@
                     </div>
                 </div>
                 
-                <div class="post-card" onclick="window.open('https://news.ycombinator.com/item?id=45993267', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45993267', '_blank')">
                     <div class="post-title">
                         <a href="https://news.ycombinator.com/item?id=45993267" target="_blank" onclick="event.stopPropagation();">How to perform adaptive batching for massive remote LLM calls</a>
                     </div>
@@ -979,7 +977,7 @@
                     </div>
                 </div>
                 
-                <div class="post-card" onclick="window.open('https://news.ycombinator.com/item?id=45980865', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45980865', '_blank')">
                     <div class="post-title">
                         <a href="https://news.ycombinator.com/item?id=45980865" target="_blank" onclick="event.stopPropagation();">Show HN: Moneydevkit – The fastest way for anyone to take payments</a>
                     </div>
@@ -1006,7 +1004,7 @@
                     </div>
                 </div>
                 
-                <div class="post-card" onclick="window.open('https://news.ycombinator.com/item?id=45979797', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45979797', '_blank')">
                     <div class="post-title">
                         <a href="https://news.ycombinator.com/item?id=45979797" target="_blank" onclick="event.stopPropagation();">Show HN: OTS-SDK – a tiny OpenTimestamps API that never keeps your data</a>
                     </div>
@@ -1033,7 +1031,7 @@
                     </div>
                 </div>
                 
-                <div class="post-card" onclick="window.open('https://news.ycombinator.com/item?id=45975769', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45975769', '_blank')">
                     <div class="post-title">
                         <a href="https://news.ycombinator.com/item?id=45975769" target="_blank" onclick="event.stopPropagation();">Billionaire warns 'last time to buy' as Bitcoin crashes</a>
                     </div>
@@ -1060,7 +1058,7 @@
                     </div>
                 </div>
                 
-                <div class="post-card" onclick="window.open('https://news.ycombinator.com/item?id=45970661', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45970661', '_blank')">
                     <div class="post-title">
                         <a href="https://news.ycombinator.com/item?id=45970661" target="_blank" onclick="event.stopPropagation();">Inside a Wild Bitcoin Heist: Five-Star Hotels, Cash, and Vanishing Funds</a>
                     </div>
@@ -1087,7 +1085,7 @@
                     </div>
                 </div>
                 
-                <div class="post-card" onclick="window.open('https://news.ycombinator.com/item?id=45969287', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45969287', '_blank')">
                     <div class="post-title">
                         <a href="https://news.ycombinator.com/item?id=45969287" target="_blank" onclick="event.stopPropagation();">Why crypto is melting down and stocks keep falling</a>
                     </div>
@@ -1114,7 +1112,7 @@
                     </div>
                 </div>
                 
-                <div class="post-card" onclick="window.open('https://news.ycombinator.com/item?id=45967608', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45967608', '_blank')">
                     <div class="post-title">
                         <a href="https://news.ycombinator.com/item?id=45967608" target="_blank" onclick="event.stopPropagation();">ZkOrigoPlus – Compliance Validator Bridging Bank and Blockchain via ISO20022</a>
                     </div>
@@ -1135,7 +1133,7 @@
                     </div>
                 </div>
                 
-                <div class="post-card" onclick="window.open('https://news.ycombinator.com/item?id=45964428', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45964428', '_blank')">
                     <div class="post-title">
                         <a href="https://news.ycombinator.com/item?id=45964428" target="_blank" onclick="event.stopPropagation();">Show HN: Kassouf-Btc-Options – Thorp-Kassouf Option Models on Bitcoin</a>
                     </div>
@@ -1162,7 +1160,7 @@
                     </div>
                 </div>
                 
-                <div class="post-card" onclick="window.open('https://news.ycombinator.com/item?id=45961612', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=45961612', '_blank')">
                     <div class="post-title">
                         <a href="https://news.ycombinator.com/item?id=45961612" target="_blank" onclick="event.stopPropagation();">Bitcoin Leads Global Stocks Selloff, Bonds Rally: Markets Wrap</a>
                     </div>
@@ -1191,8 +1189,8 @@
                 
 
                 <!-- View All button at end of carousel -->
-                <div class="post-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
-                     onclick="window.open('https://hn.algolia.com/?query=bitcoin&type=story&sort=byDate', '_blank')">
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
+                     onclick="window.open('https://hn.algolia.com/?query=Bitcoin&type=story&sort=byDate', '_blank')">
                     <div style="text-align: center;">
                         <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
                         <div style="color: #ff6600; font-weight: 500; font-size: 0.9rem;">View All</div>
@@ -1209,149 +1207,28 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-20T19:00:06.224900+00:00">Updated 2025-11-20T19:00:06.224900+00:00</small>
+        <small data-timestamp="2025-11-20T19:12:12.734611+00:00">Updated 2025-11-20T19:12:12.734611+00:00</small>
     </div>
 </div>
 
-<script>
-(function() {
-    const carouselId = 'hn-carousel-bitcoin';
-    const carousel = document.getElementById(carouselId);
-
-    if (!carousel) return;
-
-    const cards = carousel.querySelectorAll('.post-card');
-    const prevBtn = carousel.parentElement.querySelector('.carousel-nav-prev');
-    const nextBtn = carousel.parentElement.querySelector('.carousel-nav-next');
-
-    // Exit if buttons don't exist (shouldn't happen, but safety check)
-    if (!prevBtn || !nextBtn) return;
-
-    let currentIndex = 0;
-
-    function getVisibleCards() {
-        if (!cards.length) return 1;
-        const cardWidth = cards[0].offsetWidth;
-        const gap = 16; // gap between cards
-        const containerWidth = carousel.offsetWidth;
-        return Math.floor(containerWidth / (cardWidth + gap)) || 1;
-    }
-
-    function scrollToIndex(index) {
-        if (!cards.length) return;
-        const cardWidth = cards[0].offsetWidth;
-        const gap = 16;
-        const scrollPosition = index * (cardWidth + gap);
-        carousel.scrollTo({
-            left: scrollPosition,
-            behavior: 'smooth'
-        });
-        currentIndex = index;
-        updateButtonStates();
-    }
-
-    function scrollByBatch(direction) {
-        const visibleCards = getVisibleCards();
-        let newIndex;
-
-        if (direction === 'next') {
-            newIndex = Math.min(currentIndex + visibleCards, cards.length - 1);
-        } else {
-            newIndex = Math.max(currentIndex - visibleCards, 0);
-        }
-
-        scrollToIndex(newIndex);
-    }
-
-    function updateButtonStates() {
-        if (!prevBtn || !nextBtn) return;
-        prevBtn.disabled = currentIndex === 0;
-        nextBtn.disabled = currentIndex >= cards.length - 1;
-    }
-
-    // Navigation buttons - scroll by batch on desktop
-    prevBtn.addEventListener('click', (e) => {
-        e.preventDefault();
-        scrollByBatch('prev');
-    });
-
-    nextBtn.addEventListener('click', (e) => {
-        e.preventDefault();
-        scrollByBatch('next');
-    });
-
-    // Keyboard navigation
-    carousel.addEventListener('keydown', (e) => {
-        if (e.key === 'ArrowLeft') {
-            e.preventDefault();
-            scrollByBatch('prev');
-        } else if (e.key === 'ArrowRight') {
-            e.preventDefault();
-            scrollByBatch('next');
-        }
-    });
-
-    // Mouse wheel horizontal scroll
-    carousel.addEventListener('wheel', (e) => {
-        if (e.deltaY !== 0) {
-            e.preventDefault();
-            carousel.scrollLeft += e.deltaY;
-        }
-    }, { passive: false });
-
-    // Track scroll position to update button states
-    let scrollTimeout;
-    carousel.addEventListener('scroll', () => {
-        clearTimeout(scrollTimeout);
-        scrollTimeout = setTimeout(() => {
-            if (!cards.length) return;
-            const cardWidth = cards[0].offsetWidth;
-            const gap = 16;
-            const scrollPos = carousel.scrollLeft;
-            const newIndex = Math.round(scrollPos / (cardWidth + gap));
-            if (newIndex !== currentIndex) {
-                currentIndex = newIndex;
-                updateButtonStates();
-            }
-        }, 100);
-    });
-
-    // Initialize
-    updateButtonStates();
-})();
-</script>
+<!-- Carousel initialized by shared page.html script -->
         
         <style>
-.widget-google-news .news-list {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-}
-
-.widget-google-news .news-item {
-    padding: 10px;
-    background: rgba(255, 255, 255, 0.03);
-    border-radius: 6px;
+/* Google News specific card styling */
+.widget-google-news .carousel-card {
     border-left: 3px solid var(--primary-color);
-    transition: background 0.2s ease;
-}
-
-.widget-google-news .news-favicon {
-    width: 16px;
-    height: 16px;
-    margin-right: 6px;
-    border-radius: 2px;
-}
-
-.widget-google-news .news-item:hover {
-    background: rgba(255, 255, 255, 0.05);
 }
 
 .widget-google-news .news-headline {
     font-size: 0.95rem;
     font-weight: 500;
-    margin-bottom: 6px;
+    margin-bottom: 10px;
     line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1;
 }
 
 .widget-google-news .news-headline a {
@@ -1366,8 +1243,8 @@
 .widget-google-news .news-meta {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
-    font-size: 0.75rem;
+    gap: 8px;
+    font-size: 0.72rem;
     color: #9ca3af;
 }
 
@@ -1375,6 +1252,13 @@
     font-weight: 500;
     display: flex;
     align-items: center;
+}
+
+.widget-google-news .news-favicon {
+    width: 14px;
+    height: 14px;
+    margin-right: 4px;
+    border-radius: 2px;
 }
 
 .widget-google-news .news-source a {
@@ -1385,214 +1269,272 @@
 .widget-google-news .news-source a:hover {
     color: var(--primary-color);
 }
-
-.widget-google-news .view-all-btn:hover {
-    background: rgba(255, 255, 255, 0.08) !important;
-}
 </style>
 
 <div class="widget widget-google-news widget-full">
     <div class="widget-header">
         <h3>
-            News
+            Google News
             <span style="font-size: 0.75rem; color: #9ca3af; font-weight: normal; margin-left: 8px;">
-                Google News
+                "Bitcoin"
             </span>
         </h3>
     </div>
     <div class="widget-body">
-        <div class="news-list">
-            
-            <div class="news-item">
-                <div class="news-headline">
-                    <a href="https://news.google.com/rss/articles/CBMijwNBVV95cUxQcVV5TVBzMW9NTV9ENm1kY2FVUDNpb3o2SXhnUmtKbERSeWc4MWgtMHNMRVZSS3dldGdRX1hEYkxtUVF6RXVaSUVIWkI5eW5RcVgyZ3VLeDdZRVVKT2IwRHJvbEN5N3FTRjFNdHpYSV9Ycm8weU1kbDA2dEI1d1dzeDg4UVA4R1AxeFJjQ2VJNlhkcUp6Z1AtSm1BYlFrTjI5Yi0xY0ViUV91TFVWUXNFc1A0ZThXSVVIRnMwUF9sbEJzR1BrTWZhaC0ySXM5cWYxY3Rvb0JFa1JTNE8wV1FfR0hiMWdId3hjTkViZmhFYnJSZkhseUtLeTJNQ2IxUGRkNkhDbEwyVGJrLUdqeDJ0dVgyQzZsYXhuRjJOb2tBeEh3b05MN3JSSVNlWTAyLUhXZ01jVFdYYlpUOTY4QnB3dllaVkZqS0t2NElBdmVfVFFhQlR6YlR4UV90ZTdob1BaU2FMdHFRVF9NeENiaEtGLXd1Uy1lc05oSmlKdTdENVFRcTVFTDNoLW9kWFpBX2s?oc=5" target="_blank">Bitcoin Price Falls Below $90K. Why Aren’t Cryptos Rallying Today?</a>
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="news-carousel-Bitcoin">
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMilANBVV95cUxQWlh3N3NMTlZaMFhkSTRYV0RwTjRFNXJkZ0c0LUxVbENvUkhMOHVzdVJldnFqWTM1OHV3TEUyeTJsZjlKajZPNlZCLVlkTEdEZENfSExRczdoLURoUHZIazFCZEpuWV9Ra0EzMk1LYVVhalA4SkN6ak15SDdGSlJNVEhTZUs0aWhGVVRic291OHdhOUxIYTRKcEYtYW8zbUFpQndQRDRfcG1hV3diUHY3R0phOXpYZHF2c1M1YS1NalRhNTBzcG5NekRqbDZGUXNHZG5zZ1ZuZm53YkZwVGtoblJ4MFpobnlKTmV0M1hEY0gxelJCa2puZnZjNk96SzRmSFFGVzRiNk45T1dVZzZyRW9NejBnbVlYN25QRVhNZTNtUDJtRGNLYktZaFl4Z3NqaXh6cXNKNFA2bG9TU3JHcHNqSGVtcTQ1Qm4tMW8yTk9KQUhzZ0RyMzF3TVFiSDEyVnpadWgxQWFYZnpDR054MUI4ZXo0UmIxdGFlemtjZENEZTNFenBtOTA4Uk9ReFFQNXJseA?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMilANBVV95cUxQWlh3N3NMTlZaMFhkSTRYV0RwTjRFNXJkZ0c0LUxVbENvUkhMOHVzdVJldnFqWTM1OHV3TEUyeTJsZjlKajZPNlZCLVlkTEdEZENfSExRczdoLURoUHZIazFCZEpuWV9Ra0EzMk1LYVVhalA4SkN6ak15SDdGSlJNVEhTZUs0aWhGVVRic291OHdhOUxIYTRKcEYtYW8zbUFpQndQRDRfcG1hV3diUHY3R0phOXpYZHF2c1M1YS1NalRhNTBzcG5NekRqbDZGUXNHZG5zZ1ZuZm53YkZwVGtoblJ4MFpobnlKTmV0M1hEY0gxelJCa2puZnZjNk96SzRmSFFGVzRiNk45T1dVZzZyRW9NejBnbVlYN25QRVhNZTNtUDJtRGNLYktZaFl4Z3NqaXh6cXNKNFA2bG9TU3JHcHNqSGVtcTQ1Qm4tMW8yTk9KQUhzZ0RyMzF3TVFiSDEyVnpadWgxQWFYZnpDR054MUI4ZXo0UmIxdGFlemtjZENEZTNFenBtOTA4Uk9ReFFQNXJseA?oc=5" target="_blank" onclick="event.stopPropagation();">Bitcoin Price Falls Again. Why Cryptos Are Still Down Today—and What Could Change That.</a>
+                    </div>
+                    <div class="news-meta">
+                        
+                        <div class="news-source">
+                            
+                            <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                 alt="Barron's" class="news-favicon">
+                            <a href="https://www.barrons.com" target="_blank" onclick="event.stopPropagation();">Barron's</a>
+                            
+                        </div>
+                        
+                        
+                        <div class="news-date">
+                            <span data-timestamp="1763568060.0"></span>
+                        </div>
+                        
+                    </div>
                 </div>
-                <div class="news-meta">
-                    
-                    <div class="news-source">
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jcllGdmx3bEhJRXM4U3ZVT2JzbF9KUlV3QU5CY0YzYnAzT2FPai0zYmJTNFl0Rkh1T1o0Y1RhWmVFcDBQNTYzcHFiNXNFaXZ0NE9UM3FZZmRQTkU?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jcllGdmx3bEhJRXM4U3ZVT2JzbF9KUlV3QU5CY0YzYnAzT2FPai0zYmJTNFl0Rkh1T1o0Y1RhWmVFcDBQNTYzcHFiNXNFaXZ0NE9UM3FZZmRQTkU?oc=5" target="_blank" onclick="event.stopPropagation();">Just Bitcoin</a>
+                    </div>
+                    <div class="news-meta">
                         
-                        <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                             alt="Barron's" class="news-favicon">
-                        <a href="https://www.barrons.com" target="_blank">Barron's</a>
+                        <div class="news-source">
+                            
+                            <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                 alt="x.com" class="news-favicon">
+                            <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
+                            
+                        </div>
+                        
+                        
+                        <div class="news-date">
+                            <span data-timestamp="1763644317.0"></span>
+                        </div>
                         
                     </div>
-                    
-                    
-                    <div class="news-date">
-                        <span data-timestamp="1763657820.0"></span>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemxhVUhkLUNEbVZBT3FyTlBFaFNjc0kyQl9JQm1RSWwwWUdGdDBkUGc1b1RXaEtxS2lVckpFdThha1B2MG5zWVE1TjVCd1hFdXBiQmdUYWtpbEpKS3VoM0d3ckZ5bjZ6RmJTUWppYURsY2pfbkdXOEI5X2VhcnE4Y3Y2LWZXQTB2ZTZqemlqR0xMc01MSWptQ1Q2N1hMbG1vejBRS0diNHYza3M4dkZGLTdteEloUTEy?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemxhVUhkLUNEbVZBT3FyTlBFaFNjc0kyQl9JQm1RSWwwWUdGdDBkUGc1b1RXaEtxS2lVckpFdThha1B2MG5zWVE1TjVCd1hFdXBiQmdUYWtpbEpKS3VoM0d3ckZ5bjZ6RmJTUWppYURsY2pfbkdXOEI5X2VhcnE4Y3Y2LWZXQTB2ZTZqemlqR0xMc01MSWptQ1Q2N1hMbG1vejBRS0diNHYza3M4dkZGLTdteEloUTEy?oc=5" target="_blank" onclick="event.stopPropagation();">Bitcoin's Price May Be Falling, But Michael Saylor Feels 'Indestructible'</a>
                     </div>
-                    
+                    <div class="news-meta">
+                        
+                        <div class="news-source">
+                            
+                            <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                 alt="Investopedia" class="news-favicon">
+                            <a href="https://www.investopedia.com" target="_blank" onclick="event.stopPropagation();">Investopedia</a>
+                            
+                        </div>
+                        
+                        
+                        <div class="news-date">
+                            <span data-timestamp="1763581004.0"></span>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiigFBVV95cUxPRjVhdTRNUmgtcldUQmVxRzhJUnQ1SnRBZ2hCRHpBT0pLWlhmM2dDZW5TZi1xemlyWXBKYnVmUG5tcm9XTWd4M1ZQSHJ1cWJUV0FzQTZhekJMbUpERlo5MUd4X0xwRFNIb0cwS1VKNDN0VWFnYWZmbkFxSXZoemliZ0R2SE45MXZGTVE?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPRjVhdTRNUmgtcldUQmVxRzhJUnQ1SnRBZ2hCRHpBT0pLWlhmM2dDZW5TZi1xemlyWXBKYnVmUG5tcm9XTWd4M1ZQSHJ1cWJUV0FzQTZhekJMbUpERlo5MUd4X0xwRFNIb0cwS1VKNDN0VWFnYWZmbkFxSXZoemliZ0R2SE45MXZGTVE?oc=5" target="_blank" onclick="event.stopPropagation();">Saylor Says Strategy Can Survive Another 90% Bitcoin Crash — Analysts Warn Otherwise</a>
+                    </div>
+                    <div class="news-meta">
+                        
+                        <div class="news-source">
+                            
+                            <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                 alt="Yahoo Finance" class="news-favicon">
+                            <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                            
+                        </div>
+                        
+                        
+                        <div class="news-date">
+                            <span data-timestamp="1763544081.0"></span>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3BxMlE2LWN2WEVtRWR4VGVoSjJHMmdULXN6Uy00WDAyeXl0Q1NLZUZCc2JMdW5CX0ZBVXpMd3ZSd01jSGxKY2ZoRGJ5YWhEMjVlU1R2dDBFZ2RiU2FMempKNEo3WTBEaGRXSklfUUNwemxPaDY2MEZ3UzAxTUJLOVN5d1hhaDV2alZiMWtSd1UtcjdaSHJiMDJTcjY2SVM2aTBLNURxRGFmejhLd2NuM3FWZ20wX29Ucjc0Vg?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3BxMlE2LWN2WEVtRWR4VGVoSjJHMmdULXN6Uy00WDAyeXl0Q1NLZUZCc2JMdW5CX0ZBVXpMd3ZSd01jSGxKY2ZoRGJ5YWhEMjVlU1R2dDBFZ2RiU2FMempKNEo3WTBEaGRXSklfUUNwemxPaDY2MEZ3UzAxTUJLOVN5d1hhaDV2alZiMWtSd1UtcjdaSHJiMDJTcjY2SVM2aTBLNURxRGFmejhLd2NuM3FWZ20wX29Ucjc0Vg?oc=5" target="_blank" onclick="event.stopPropagation();">How a Maine couple gave their $1.3 million retirement savings to bitcoin scammers</a>
+                    </div>
+                    <div class="news-meta">
+                        
+                        <div class="news-source">
+                            
+                            <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pressherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                 alt="The Portland Press Herald" class="news-favicon">
+                            <a href="https://www.pressherald.com" target="_blank" onclick="event.stopPropagation();">The Portland Press Herald</a>
+                            
+                        </div>
+                        
+                        
+                        <div class="news-date">
+                            <span data-timestamp="1763654321.0"></span>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiuwNBVV95cUxPel9kNUNLWDYxRzJDTjNKQ1ZWUzZIQW5xZ3NXQ2c5Q2s2N09jbmhXVG9DOUQwZXVzRThSQW9Jd2I1c1FPWHpkTHlOeVRmWm45OTRoQ1Q1TDh6aGVuQnJpaUllVG11MEFITzlJd09ZTkNIcmxGQlNyME5SMUdUVmxsdklPSXBidF9XTmRDSWpYWU1LZHJhSjc3MjczVThHMG4wYk5VeEplcWdKT2FfaHpHcGlwc2hBZ2ZhWlJYb2Jwb1JvRlltNXJZbXRUbWZQclNZWWp5dm9fdUhFZldMZ01XSkQyVS1TWm92R01LU2p0NGdaUVdrby1RTHF2MklwY0wyWFVGQXJKVkU0OGZrNC0zdzJUX0lveUdRZElyMmZZRDExUkZodDlMbUhjUFBBMjdSYXBsQWNzVnFoaTZGMUgzWnhpa3dBbXJOSlZKX285N3QyNU53d2N6ejY2ZmQyZ3B2MUFsM3dqM1RtczQ1akVGeVV1QTBhLVFVUTJIeXR2aS11UW1HdVZlWXIxQWh3SG9WaTVBbTNHblR3V0N6M2pNZVE2YUE1SXh5clcxeVRnTkR6TDh2QzhTaFBWWQ?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiuwNBVV95cUxPel9kNUNLWDYxRzJDTjNKQ1ZWUzZIQW5xZ3NXQ2c5Q2s2N09jbmhXVG9DOUQwZXVzRThSQW9Jd2I1c1FPWHpkTHlOeVRmWm45OTRoQ1Q1TDh6aGVuQnJpaUllVG11MEFITzlJd09ZTkNIcmxGQlNyME5SMUdUVmxsdklPSXBidF9XTmRDSWpYWU1LZHJhSjc3MjczVThHMG4wYk5VeEplcWdKT2FfaHpHcGlwc2hBZ2ZhWlJYb2Jwb1JvRlltNXJZbXRUbWZQclNZWWp5dm9fdUhFZldMZ01XSkQyVS1TWm92R01LU2p0NGdaUVdrby1RTHF2MklwY0wyWFVGQXJKVkU0OGZrNC0zdzJUX0lveUdRZElyMmZZRDExUkZodDlMbUhjUFBBMjdSYXBsQWNzVnFoaTZGMUgzWnhpa3dBbXJOSlZKX285N3QyNU53d2N6ejY2ZmQyZ3B2MUFsM3dqM1RtczQ1akVGeVV1QTBhLVFVUTJIeXR2aS11UW1HdVZlWXIxQWh3SG9WaTVBbTNHblR3V0N6M2pNZVE2YUE1SXh5clcxeVRnTkR6TDh2QzhTaFBWWQ?oc=5" target="_blank" onclick="event.stopPropagation();">‘My retirement is completely in bitcoin’: Why don’t more people do what I do?</a>
+                    </div>
+                    <div class="news-meta">
+                        
+                        <div class="news-source">
+                            
+                            <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketwatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                 alt="MarketWatch" class="news-favicon">
+                            <a href="https://www.marketwatch.com" target="_blank" onclick="event.stopPropagation();">MarketWatch</a>
+                            
+                        </div>
+                        
+                        
+                        <div class="news-date">
+                            <span data-timestamp="1763547300.0"></span>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMihgFBVV95cUxNRE1rdWY5QzFmOS0tbWRoU3pUWjNFSnUtczdUZXJlSVRPckpVU05Yd3hDZzNUcy12UWtuMnZnbW5VTUhiTDlfRzNJLS1KVVI1bU5fYldkMUxyUWw0OVl2UC1xQW93RExHNHB6UmJmdjFfN3hUSEFWSGU5TEtlMnZtOWdwZm9MZw?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNRE1rdWY5QzFmOS0tbWRoU3pUWjNFSnUtczdUZXJlSVRPckpVU05Yd3hDZzNUcy12UWtuMnZnbW5VTUhiTDlfRzNJLS1KVVI1bU5fYldkMUxyUWw0OVl2UC1xQW93RExHNHB6UmJmdjFfN3hUSEFWSGU5TEtlMnZtOWdwZm9MZw?oc=5" target="_blank" onclick="event.stopPropagation();">Investors pull record $523 million from BlackRock's flagship bitcoin ETF</a>
+                    </div>
+                    <div class="news-meta">
+                        
+                        <div class="news-source">
+                            
+                            <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                 alt="Yahoo Finance" class="news-favicon">
+                            <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                            
+                        </div>
+                        
+                        
+                        <div class="news-date">
+                            <span data-timestamp="1763554589.0"></span>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMifkFVX3lxTFA0czFOY0ZnNWJMV2pvOGlzc3dWWVI4LXltMVRuWWtlU2pSbU1zYW1FM0tMSkNMQUJQNXk4bUtES1J2X1BvSjNRZjI4X1pZc0Q0WGFZMUZGY2pRUTIzSG9rQUtCZlUzbGhSYmVfQURHU1F0Q2NwZE1Qa3BpR09qZ9IBgwFBVV95cUxONTQ5N1RibjFLcW9RZmZSS1FjTDdqWkJTcXhLVW01SHE1WVVnOEtsUTEwTW9OX1BLbV92blIxczV0dm5tRmRpcHNRV3BXLVdSWXJwdHEyQXdYMjgxVndiV281Ym5FRm1JZUFueGhlRzlVazRhQk8wR0g4OEdpWGpDcFM5QQ?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFA0czFOY0ZnNWJMV2pvOGlzc3dWWVI4LXltMVRuWWtlU2pSbU1zYW1FM0tMSkNMQUJQNXk4bUtES1J2X1BvSjNRZjI4X1pZc0Q0WGFZMUZGY2pRUTIzSG9rQUtCZlUzbGhSYmVfQURHU1F0Q2NwZE1Qa3BpR09qZ9IBgwFBVV95cUxONTQ5N1RibjFLcW9RZmZSS1FjTDdqWkJTcXhLVW01SHE1WVVnOEtsUTEwTW9OX1BLbV92blIxczV0dm5tRmRpcHNRV3BXLVdSWXJwdHEyQXdYMjgxVndiV281Ym5FRm1JZUFueGhlRzlVazRhQk8wR0g4OEdpWGpDcFM5QQ?oc=5" target="_blank" onclick="event.stopPropagation();">BlackRock's bitcoin ETF posts record-setting outflows worth $523 million</a>
+                    </div>
+                    <div class="news-meta">
+                        
+                        <div class="news-source">
+                            
+                            <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theblock.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                 alt="theblock.co" class="news-favicon">
+                            <a href="https://www.theblock.co" target="_blank" onclick="event.stopPropagation();">theblock.co</a>
+                            
+                        </div>
+                        
+                        
+                        <div class="news-date">
+                            <span data-timestamp="1763540265.0"></span>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZfMTh4V1gwc0dwdnFIeEJaajFwWmQxb1BvcnZneC1PYVczbHIxb1RXbnJJZ2dQV2JvRTZZY3lrZ3lzZ2lQNjNtbzlROWRCSEZwVVhtMWpLeFZPUW5sdWh2N3lOVEs4VjI2eWZVVXlEeG9feTBiYkM1aWh2eDJEMzk2bWtjMkRVN3R2cGN6LWJrMmNLTXY4OFNCMjByUUg1bVNzeW1Pdy1LNTVaQ2Q2ck8zYTlNUQ?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZfMTh4V1gwc0dwdnFIeEJaajFwWmQxb1BvcnZneC1PYVczbHIxb1RXbnJJZ2dQV2JvRTZZY3lrZ3lzZ2lQNjNtbzlROWRCSEZwVVhtMWpLeFZPUW5sdWh2N3lOVEs4VjI2eWZVVXlEeG9feTBiYkM1aWh2eDJEMzk2bWtjMkRVN3R2cGN6LWJrMmNLTXY4OFNCMjByUUg1bVNzeW1Pdy1LNTVaQ2Q2ck8zYTlNUQ?oc=5" target="_blank" onclick="event.stopPropagation();">Abu Dhabi Fund Tripled Bitcoin Bet in Months Before Crypto Crash</a>
+                    </div>
+                    <div class="news-meta">
+                        
+                        <div class="news-source">
+                            
+                            <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                 alt="Bloomberg.com" class="news-favicon">
+                            <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                            
+                        </div>
+                        
+                        
+                        <div class="news-date">
+                            <span data-timestamp="1763553992.0"></span>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TamZvdG1fV210Q2hEUDIwSzhkZ1BTTEJiVXF1RDR0OHB0S3pTN3Y5cTdjZzRkelphazFZTjlFa05VcFFXY0wzNkRlazcwbVplSXFaQlVXa0VnbDNKVlBzaURBZWNyWkE?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TamZvdG1fV210Q2hEUDIwSzhkZ1BTTEJiVXF1RDR0OHB0S3pTN3Y5cTdjZzRkelphazFZTjlFa05VcFFXY0wzNkRlazcwbVplSXFaQlVXa0VnbDNKVlBzaURBZWNyWkE?oc=5" target="_blank" onclick="event.stopPropagation();">Stocks and bitcoin slide as nerves fray ahead of Nvidia earnings</a>
+                    </div>
+                    <div class="news-meta">
+                        
+                        <div class="news-source">
+                            
+                            <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                 alt="CNN" class="news-favicon">
+                            <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                            
+                        </div>
+                        
+                        
+                        <div class="news-date">
+                            <span data-timestamp="1763409052.0"></span>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
+                     onclick="window.open('https://news.google.com/search?q=Bitcoin', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
+                        <div style="color: var(--primary-color); font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on Google News</div>
+                    </div>
                 </div>
             </div>
-            
-            <div class="news-item">
-                <div class="news-headline">
-                    <a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3BxMlE2LWN2WEVtRWR4VGVoSjJHMmdULXN6Uy00WDAyeXl0Q1NLZUZCc2JMdW5CX0ZBVXpMd3ZSd01jSGxKY2ZoRGJ5YWhEMjVlU1R2dDBFZ2RiU2FMempKNEo3WTBEaGRXSklfUUNwemxPaDY2MEZ3UzAxTUJLOVN5d1hhaDV2alZiMWtSd1UtcjdaSHJiMDJTcjY2SVM2aTBLNURxRGFmejhLd2NuM3FWZ20wX29Ucjc0Vg?oc=5" target="_blank">How a Maine couple gave their $1.3 million retirement savings to bitcoin scammers</a>
-                </div>
-                <div class="news-meta">
-                    
-                    <div class="news-source">
-                        
-                        <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pressherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                             alt="The Portland Press Herald" class="news-favicon">
-                        <a href="https://www.pressherald.com" target="_blank">The Portland Press Herald</a>
-                        
-                    </div>
-                    
-                    
-                    <div class="news-date">
-                        <span data-timestamp="1763654321.0"></span>
-                    </div>
-                    
-                </div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-headline">
-                    <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jcllGdmx3bEhJRXM4U3ZVT2JzbF9KUlV3QU5CY0YzYnAzT2FPai0zYmJTNFl0Rkh1T1o0Y1RhWmVFcDBQNTYzcHFiNXNFaXZ0NE9UM3FZZmRQTkU?oc=5" target="_blank">Just Bitcoin</a>
-                </div>
-                <div class="news-meta">
-                    
-                    <div class="news-source">
-                        
-                        <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                             alt="x.com" class="news-favicon">
-                        <a href="https://x.com" target="_blank">x.com</a>
-                        
-                    </div>
-                    
-                    
-                    <div class="news-date">
-                        <span data-timestamp="1763644317.0"></span>
-                    </div>
-                    
-                </div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-headline">
-                    <a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNRE1rdWY5QzFmOS0tbWRoU3pUWjNFSnUtczdUZXJlSVRPckpVU05Yd3hDZzNUcy12UWtuMnZnbW5VTUhiTDlfRzNJLS1KVVI1bU5fYldkMUxyUWw0OVl2UC1xQW93RExHNHB6UmJmdjFfN3hUSEFWSGU5TEtlMnZtOWdwZm9MZw?oc=5" target="_blank">Investors pull record $523 million from BlackRock's flagship bitcoin ETF</a>
-                </div>
-                <div class="news-meta">
-                    
-                    <div class="news-source">
-                        
-                        <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                             alt="Yahoo Finance" class="news-favicon">
-                        <a href="https://finance.yahoo.com" target="_blank">Yahoo Finance</a>
-                        
-                    </div>
-                    
-                    
-                    <div class="news-date">
-                        <span data-timestamp="1763554589.0"></span>
-                    </div>
-                    
-                </div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-headline">
-                    <a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVY4QUhZT2k1cWlqZ0xLSndHNVFVbDlac2ZKbmUxVi1sN2ExX01BQjBVM2I2QVlFdUltVTdvcDFxQk4wdjlyQjAzYk5pVzdBX3RlR1Z4eWRvVDRGN0FTU0pOajlseFFMempaSDV2ckI5djA0SUVkeW9wTUh6YXBwcW9COA?oc=5" target="_blank">Bitcoin ETF Flows Turn Positive, But Experts Warn of Defensive Shift</a>
-                </div>
-                <div class="news-meta">
-                    
-                    <div class="news-source">
-                        
-                        <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                             alt="Yahoo Finance" class="news-favicon">
-                        <a href="https://finance.yahoo.com" target="_blank">Yahoo Finance</a>
-                        
-                    </div>
-                    
-                    
-                    <div class="news-date">
-                        <span data-timestamp="1763641580.0"></span>
-                    </div>
-                    
-                </div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-headline">
-                    <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZfMTh4V1gwc0dwdnFIeEJaajFwWmQxb1BvcnZneC1PYVczbHIxb1RXbnJJZ2dQV2JvRTZZY3lrZ3lzZ2lQNjNtbzlROWRCSEZwVVhtMWpLeFZPUW5sdWh2N3lOVEs4VjI2eWZVVXlEeG9feTBiYkM1aWh2eDJEMzk2bWtjMkRVN3R2cGN6LWJrMmNLTXY4OFNCMjByUUg1bVNzeW1Pdy1LNTVaQ2Q2ck8zYTlNUQ?oc=5" target="_blank">Abu Dhabi Fund Tripled Bitcoin Bet in Months Before Crypto Crash</a>
-                </div>
-                <div class="news-meta">
-                    
-                    <div class="news-source">
-                        
-                        <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                             alt="Bloomberg.com" class="news-favicon">
-                        <a href="https://www.bloomberg.com" target="_blank">Bloomberg.com</a>
-                        
-                    </div>
-                    
-                    
-                    <div class="news-date">
-                        <span data-timestamp="1763553992.0"></span>
-                    </div>
-                    
-                </div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-headline">
-                    <a href="https://news.google.com/rss/articles/CBMiuwNBVV95cUxPSm84NHg1VW5DbmtoRE5melA3blEtUjZuZ01hSnlqV0ZxQlhEZ0h2eGVOLXlpVDlZdzRaRDhXRUEtSUZtZ0s5cktpcTNCNnFTeFBxQkJpQlpqUTg2YmxFdVRxSzRIQXdTTFRQZ2RZQU1hdTM0dzhCUm11RkdnekZkbHh5UlZJSHg0OTh5cVh1RzlvLWhXVmc0Z1lwellRVjM1MHl2WHd6bFJGX1JGTDN4SlVrSEhDTW9ySzE3bUtXYVc5S2pKdW1zcVFBNG1xVDRRM1JDV2hsekRGeDc4M1h2VVp1WXMwOGduNHA3X0V2NGRDUFpYb3FNenUtWlA2QnNHc19jOHNrOXZKWHROdG9sZFFZS2JnSzcyYVhWV0N0T3JiT3pJcUhNOEpBUmUzNkl2VE1Yd21EcFlhT3JJQk51YThKNkVKZGlMS1JERS00dFVxTHkyMFA3djVRWkZLalpEcU12d0hEY0ZReFJiMG1zZEJVakJBQ21qb0NxS2ZQcE9xd0hRZVA5YWQxeHVpOEJwZXdjTVdRM0NPZE9mbXRqZDJTd1dxTDJKOFViWkhWb3RpekxjMThVd0lESQ?oc=5" target="_blank">‘My retirement is completely in bitcoin’: Why don’t more people do what I do?</a>
-                </div>
-                <div class="news-meta">
-                    
-                    <div class="news-source">
-                        
-                        <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketwatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                             alt="MarketWatch" class="news-favicon">
-                        <a href="https://www.marketwatch.com" target="_blank">MarketWatch</a>
-                        
-                    </div>
-                    
-                    
-                    <div class="news-date">
-                        <span data-timestamp="1763547300.0"></span>
-                    </div>
-                    
-                </div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-headline">
-                    <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HQk1Pbmw0VjZvRTRRMmtjMTRYVy0tdDNMZTdnQ1JyWmtHN1RQbm9GN0lwb3pmNHRPTnlJb19fQ2VXM3VGU1MtRm9sZ2RScUlDb3hTNkRxejQzRFk?oc=5" target="_blank">New GOP tax proposal eyes Bitcoin, crypto payments with 'no capital gains'</a>
-                </div>
-                <div class="news-meta">
-                    
-                    <div class="news-source">
-                        
-                        <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                             alt="Fox Business" class="news-favicon">
-                        <a href="https://www.foxbusiness.com" target="_blank">Fox Business</a>
-                        
-                    </div>
-                    
-                    
-                    <div class="news-date">
-                        <span data-timestamp="1763655566.0"></span>
-                    </div>
-                    
-                </div>
-            </div>
-            
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
         </div>
-        <div style="margin-top: 12px; text-align: center;">
-            <a href="https://news.google.com/search?q=Bitcoin" target="_blank" class="view-all-btn"
-               style="display: inline-block; padding: 8px 16px; background: rgba(255, 255, 255, 0.05);
-                      border-radius: 6px; color: var(--primary-color); text-decoration: none;
-                      font-size: 0.85rem; font-weight: 500; transition: background 0.2s ease;">
-                View All on Google News →
-            </a>
-        </div>
+
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-20T19:00:06.856413+00:00">Updated 2025-11-20T19:00:06.856413+00:00</small>
+        <small data-timestamp="2025-11-20T19:12:13.568099+00:00">Updated 2025-11-20T19:12:13.568099+00:00</small>
     </div>
 </div>
+
+<!-- Carousel initialized by shared page.html script -->
         
     </main>
 
@@ -1680,6 +1622,112 @@
 
         // Initialize tabs on page load
         initChartTabs();
+
+        // ===== Shared Carousel Initialization =====
+        function initCarousel(carouselId) {
+            const carousel = document.getElementById(carouselId);
+            if (!carousel) return;
+
+            const cards = carousel.querySelectorAll('.carousel-card');
+            const prevBtn = carousel.parentElement.querySelector('.carousel-nav-prev');
+            const nextBtn = carousel.parentElement.querySelector('.carousel-nav-next');
+
+            if (!prevBtn || !nextBtn || !cards.length) return;
+
+            let currentIndex = 0;
+
+            function getVisibleCards() {
+                const cardWidth = cards[0].offsetWidth;
+                const gap = 16;
+                const containerWidth = carousel.offsetWidth;
+                return Math.floor(containerWidth / (cardWidth + gap)) || 1;
+            }
+
+            function scrollToIndex(index) {
+                const cardWidth = cards[0].offsetWidth;
+                const gap = 16;
+                const scrollPosition = index * (cardWidth + gap);
+                carousel.scrollTo({
+                    left: scrollPosition,
+                    behavior: 'smooth'
+                });
+                currentIndex = index;
+                updateButtonStates();
+            }
+
+            function scrollByBatch(direction) {
+                const visibleCards = getVisibleCards();
+                let newIndex;
+
+                if (direction === 'next') {
+                    newIndex = Math.min(currentIndex + visibleCards, cards.length - 1);
+                } else {
+                    newIndex = Math.max(currentIndex - visibleCards, 0);
+                }
+
+                scrollToIndex(newIndex);
+            }
+
+            function updateButtonStates() {
+                prevBtn.disabled = currentIndex === 0;
+                nextBtn.disabled = currentIndex >= cards.length - 1;
+            }
+
+            // Navigation buttons
+            prevBtn.addEventListener('click', (e) => {
+                e.preventDefault();
+                scrollByBatch('prev');
+            });
+
+            nextBtn.addEventListener('click', (e) => {
+                e.preventDefault();
+                scrollByBatch('next');
+            });
+
+            // Keyboard navigation
+            carousel.addEventListener('keydown', (e) => {
+                if (e.key === 'ArrowLeft') {
+                    e.preventDefault();
+                    scrollByBatch('prev');
+                } else if (e.key === 'ArrowRight') {
+                    e.preventDefault();
+                    scrollByBatch('next');
+                }
+            });
+
+            // Mouse wheel horizontal scroll
+            carousel.addEventListener('wheel', (e) => {
+                if (e.deltaY !== 0) {
+                    e.preventDefault();
+                    carousel.scrollLeft += e.deltaY;
+                }
+            }, { passive: false });
+
+            // Track scroll position
+            let scrollTimeout;
+            carousel.addEventListener('scroll', () => {
+                clearTimeout(scrollTimeout);
+                scrollTimeout = setTimeout(() => {
+                    const cardWidth = cards[0].offsetWidth;
+                    const gap = 16;
+                    const scrollPos = carousel.scrollLeft;
+                    const newIndex = Math.round(scrollPos / (cardWidth + gap));
+                    if (newIndex !== currentIndex) {
+                        currentIndex = newIndex;
+                        updateButtonStates();
+                    }
+                }, 100);
+            });
+
+            updateButtonStates();
+        }
+
+        // Auto-initialize all carousels on page
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('.carousel-track[id]').forEach(carousel => {
+                initCarousel(carousel.id);
+            });
+        });
     </script>
 </body>
 </html>

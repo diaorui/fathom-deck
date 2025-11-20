@@ -62,7 +62,7 @@ widgets:
     update_minutes: 30
     params:
       query: bitcoin
-      limit: 8
+      limit: 10
       min_points: 0
       sort_by: date
 

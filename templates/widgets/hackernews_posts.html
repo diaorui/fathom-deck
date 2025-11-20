@@ -1,34 +1,58 @@
 <style>
-.widget-hackernews-posts .post-list {
+/* Carousel container */
+.widget-hackernews-posts .carousel-container {
+    position: relative;
+    overflow: hidden;
+    padding: 0 40px; /* Space for nav buttons */
+}
+
+.widget-hackernews-posts .carousel-track {
+    display: flex;
+    gap: 16px;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE/Edge */
+    padding: 4px 0; /* Prevent shadow clipping */
+}
+
+.widget-hackernews-posts .carousel-track::-webkit-scrollbar {
+    display: none; /* Chrome/Safari */
+}
+
+/* Card styling */
+.widget-hackernews-posts .post-card {
+    flex: 0 0 280px; /* Fixed width cards */
+    scroll-snap-align: start;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 8px;
+    border-left: 3px solid #ff6600;
+    padding: 14px;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    min-height: 140px; /* Ensure consistent card height */
 }
 
-.widget-hackernews-posts .post-item {
-    display: flex;
-    gap: 10px;
-    padding: 10px;
-    background: rgba(255, 255, 255, 0.03);
-    border-radius: 6px;
-    border-left: 3px solid #ff6600;
-    transition: background 0.2s ease;
-}
-
-.widget-hackernews-posts .post-item:hover {
-    background: rgba(255, 255, 255, 0.05);
-}
-
-.widget-hackernews-posts .post-content {
-    flex: 1;
-    min-width: 0;
+.widget-hackernews-posts .post-card:hover {
+    background: rgba(255, 255, 255, 0.06);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(255, 102, 0, 0.2);
 }
 
 .widget-hackernews-posts .post-title {
     font-size: 0.95rem;
     font-weight: 500;
-    margin-bottom: 6px;
+    margin-bottom: 10px;
     line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1; /* Title takes available space, pushing meta to bottom */
 }
 
 .widget-hackernews-posts .post-title a {
@@ -43,15 +67,15 @@
 .widget-hackernews-posts .post-meta {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
-    font-size: 0.75rem;
+    gap: 8px;
+    font-size: 0.72rem;
     color: #9ca3af;
 }
 
 .widget-hackernews-posts .post-meta-item {
     display: flex;
     align-items: center;
-    gap: 4px;
+    gap: 3px;
 }
 
 .widget-hackernews-posts .post-points {
@@ -59,14 +83,84 @@
     font-weight: 500;
 }
 
-.widget-hackernews-posts .hn-link {
-    color: #ff6600;
+.widget-hackernews-posts .article-link {
+    color: #60a5fa;
     text-decoration: none;
-    font-weight: 500;
+    font-size: 0.7rem;
 }
 
-.widget-hackernews-posts .hn-link:hover {
+.widget-hackernews-posts .article-link:hover {
     text-decoration: underline;
+}
+
+/* Navigation buttons */
+.widget-hackernews-posts .carousel-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: white;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    z-index: 10;
+}
+
+.widget-hackernews-posts .carousel-nav:hover {
+    background: #ff6600;
+    transform: translateY(-50%) scale(1.1);
+}
+
+.widget-hackernews-posts .carousel-nav:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+}
+
+.widget-hackernews-posts .carousel-nav-prev {
+    left: 4px;
+}
+
+.widget-hackernews-posts .carousel-nav-next {
+    right: 4px;
+}
+
+/* Responsive - show more cards on wider screens */
+@media (min-width: 768px) {
+    .widget-hackernews-posts .post-card {
+        flex: 0 0 320px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .widget-hackernews-posts .post-card {
+        flex: 0 0 280px;
+    }
+}
+
+/* Mobile - show card peek and hide buttons */
+@media (max-width: 640px) {
+    .widget-hackernews-posts .carousel-container {
+        padding: 0; /* Remove button padding on mobile */
+    }
+
+    .widget-hackernews-posts .carousel-track {
+        padding: 0 16px; /* Add side padding to container */
+    }
+
+    .widget-hackernews-posts .post-card {
+        flex: 0 0 calc(85% - 8px); /* Show 85% of card + peek of next */
+    }
+
+    /* Hide navigation buttons on mobile */
+    .widget-hackernews-posts .carousel-nav {
+        display: none;
+    }
 }
 
 .widget-hackernews-posts .view-all-btn:hover {
@@ -92,12 +186,18 @@
         </h3>
     </div>
     <div class="widget-body">
-        <div class="post-list">
-            {% for post in posts %}
-            <div class="post-item">
-                <div class="post-content">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="hn-carousel-{{ query|replace(' ', '-') }}">
+                {% for post in posts %}
+                <div class="post-card" onclick="window.open('{{ post.hn_url }}', '_blank')">
                     <div class="post-title">
-                        <a href="{{ post.hn_url }}" target="_blank">{{ post.title }}</a>
+                        <a href="{{ post.hn_url }}" target="_blank" onclick="event.stopPropagation();">{{ post.title }}</a>
                     </div>
                     <div class="post-meta">
                         <div class="post-meta-item">
@@ -114,26 +214,142 @@
                         </div>
                         {% if post.url != post.hn_url %}
                         <div class="post-meta-item">
-                            <a href="{{ post.url }}" target="_blank" style="color: #60a5fa; text-decoration: none; font-size: 0.7rem;">
+                            <a href="{{ post.url }}" target="_blank" class="article-link" onclick="event.stopPropagation();">
                                 🔗 article
                             </a>
                         </div>
                         {% endif %}
                     </div>
                 </div>
+                {% endfor %}
+
+                <!-- View All button at end of carousel -->
+                <div class="post-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
+                     onclick="window.open('https://hn.algolia.com/?query={{ query }}&type=story&sort=byDate', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
+                        <div style="color: #ff6600; font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on Hacker News</div>
+                    </div>
+                </div>
             </div>
-            {% endfor %}
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
         </div>
-        <div style="margin-top: 12px; text-align: center;">
-            <a href="https://hn.algolia.com/?query={{ query }}&type=story&sort=byDate" target="_blank" class="view-all-btn"
-               style="display: inline-block; padding: 8px 16px; background: rgba(255, 102, 0, 0.1);
-                      border-radius: 6px; color: #ff6600; text-decoration: none;
-                      font-size: 0.85rem; font-weight: 500; transition: background 0.2s ease;">
-                View All on Hacker News →
-            </a>
-        </div>
+
     </div>
     <div class="widget-footer">
         <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
     </div>
 </div>
+
+<script>
+(function() {
+    const carouselId = 'hn-carousel-{{ query|replace(" ", "-") }}';
+    const carousel = document.getElementById(carouselId);
+
+    if (!carousel) return;
+
+    const cards = carousel.querySelectorAll('.post-card');
+    const prevBtn = carousel.parentElement.querySelector('.carousel-nav-prev');
+    const nextBtn = carousel.parentElement.querySelector('.carousel-nav-next');
+
+    // Exit if buttons don't exist (shouldn't happen, but safety check)
+    if (!prevBtn || !nextBtn) return;
+
+    let currentIndex = 0;
+
+    function getVisibleCards() {
+        if (!cards.length) return 1;
+        const cardWidth = cards[0].offsetWidth;
+        const gap = 16; // gap between cards
+        const containerWidth = carousel.offsetWidth;
+        return Math.floor(containerWidth / (cardWidth + gap)) || 1;
+    }
+
+    function scrollToIndex(index) {
+        if (!cards.length) return;
+        const cardWidth = cards[0].offsetWidth;
+        const gap = 16;
+        const scrollPosition = index * (cardWidth + gap);
+        carousel.scrollTo({
+            left: scrollPosition,
+            behavior: 'smooth'
+        });
+        currentIndex = index;
+        updateButtonStates();
+    }
+
+    function scrollByBatch(direction) {
+        const visibleCards = getVisibleCards();
+        let newIndex;
+
+        if (direction === 'next') {
+            newIndex = Math.min(currentIndex + visibleCards, cards.length - 1);
+        } else {
+            newIndex = Math.max(currentIndex - visibleCards, 0);
+        }
+
+        scrollToIndex(newIndex);
+    }
+
+    function updateButtonStates() {
+        if (!prevBtn || !nextBtn) return;
+        prevBtn.disabled = currentIndex === 0;
+        nextBtn.disabled = currentIndex >= cards.length - 1;
+    }
+
+    // Navigation buttons - scroll by batch on desktop
+    prevBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        scrollByBatch('prev');
+    });
+
+    nextBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        scrollByBatch('next');
+    });
+
+    // Keyboard navigation
+    carousel.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowLeft') {
+            e.preventDefault();
+            scrollByBatch('prev');
+        } else if (e.key === 'ArrowRight') {
+            e.preventDefault();
+            scrollByBatch('next');
+        }
+    });
+
+    // Mouse wheel horizontal scroll
+    carousel.addEventListener('wheel', (e) => {
+        if (e.deltaY !== 0) {
+            e.preventDefault();
+            carousel.scrollLeft += e.deltaY;
+        }
+    }, { passive: false });
+
+    // Track scroll position to update button states
+    let scrollTimeout;
+    carousel.addEventListener('scroll', () => {
+        clearTimeout(scrollTimeout);
+        scrollTimeout = setTimeout(() => {
+            if (!cards.length) return;
+            const cardWidth = cards[0].offsetWidth;
+            const gap = 16;
+            const scrollPos = carousel.scrollLeft;
+            const newIndex = Math.round(scrollPos / (cardWidth + gap));
+            if (newIndex !== currentIndex) {
+                currentIndex = newIndex;
+                updateButtonStates();
+            }
+        }, 100);
+    });
+
+    // Initialize
+    updateButtonStates();
+})();
+</script>

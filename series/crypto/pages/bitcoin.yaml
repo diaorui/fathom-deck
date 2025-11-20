@@ -63,7 +63,7 @@ widgets:
     params:
       query: bitcoin
       limit: 8
-      min_points: 10
+      min_points: 0
       sort_by: date
 
   # Row 5: News from Google News

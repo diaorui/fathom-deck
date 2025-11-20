@@ -127,7 +127,7 @@ class GoogleNewsWidget(BaseWidget):
             data = {
                 "query": query,
                 "articles": articles,
-                "fetched_at": datetime.now().isoformat(),
+                "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
             print(f"✅ Fetched {len(articles)} news articles for '{query}'")

@@ -1,7 +1,7 @@
 """Reddit posts widget using Reddit JSON API."""
 
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Any, Dict, List
 from tenacity import retry, stop_after_attempt, wait_exponential
 
@@ -88,7 +88,7 @@ class RedditPostsWidget(BaseWidget):
                 "subreddit": subreddit,
                 "sort": sort,
                 "posts": posts,
-                "fetched_at": datetime.now().isoformat(),
+                "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
             print(f"✅ Fetched {len(posts)} posts from r/{subreddit}")

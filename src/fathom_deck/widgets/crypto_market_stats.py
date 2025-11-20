@@ -1,7 +1,7 @@
 """Crypto market stats widget using CoinGecko API."""
 
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Any, Dict
 from tenacity import retry, stop_after_attempt, wait_exponential
 
@@ -81,7 +81,7 @@ class CryptoMarketStatsWidget(BaseWidget):
                 },
                 "price_change_24h_percent": market_data.get("price_change_percentage_24h", 0),
                 "market_cap_rank": coin_data.get("market_cap_rank"),
-                "fetched_at": datetime.now().isoformat(),
+                "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
             print(f"✅ Fetched market stats for {coin_data['name']}")

@@ -1,7 +1,7 @@
 """HackerNews posts widget using Algolia Search API."""
 
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Any, Dict, List
 from tenacity import retry, stop_after_attempt, wait_exponential
 
@@ -98,7 +98,7 @@ class HackernewsPostsWidget(BaseWidget):
                 "min_points": min_points,
                 "posts": posts,
                 "total_hits": hn_data["nbHits"],
-                "fetched_at": datetime.now().isoformat(),
+                "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
             print(f"✅ Fetched {len(posts)} HN posts for query '{query}'")

@@ -1,7 +1,7 @@
 """Crypto price widget using Gemini API."""
 
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Any, Dict
 from tenacity import retry, stop_after_attempt, wait_exponential
 
@@ -63,7 +63,7 @@ class CryptoPriceWidget(BaseWidget):
                 },
                 "bid": float(ticker_data["bid"]),
                 "ask": float(ticker_data["ask"]),
-                "fetched_at": datetime.now().isoformat(),
+                "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
             print(f"✅ Fetched {symbol.upper()}: ${data['price']:,.2f}")

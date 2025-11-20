@@ -1,7 +1,7 @@
 """Crypto price chart widget using Gemini candles API."""
 
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Any, Dict, List
 from tenacity import retry, stop_after_attempt, wait_exponential
 
@@ -68,7 +68,7 @@ class CryptoPriceChartWidget(BaseWidget):
         data = {
             "symbol": symbol.upper(),
             "tabs": all_tabs_data,
-            "fetched_at": datetime.now().isoformat(),
+            "fetched_at": datetime.now(timezone.utc).isoformat(),
         }
         print(f"✅ Fetched {len(all_tabs_data)} tabs for {symbol.upper()}")
         return data

@@ -97,16 +97,14 @@
             <div class="post-item">
                 <div class="post-content">
                     <div class="post-title">
-                        <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+                        <a href="{{ post.hn_url }}" target="_blank">{{ post.title }}</a>
                     </div>
                     <div class="post-meta">
                         <div class="post-meta-item">
                             <span class="post-points">▲ {{ post.points }}</span>
                         </div>
                         <div class="post-meta-item">
-                            <a href="{{ post.hn_url }}" target="_blank" class="hn-link" style="color: #9ca3af; text-decoration: none;">
-                                💬 {{ post.num_comments }}
-                            </a>
+                            <span style="color: #9ca3af;">💬 {{ post.num_comments }}</span>
                         </div>
                         <div class="post-meta-item">
                             by {{ post.author }}
@@ -114,6 +112,13 @@
                         <div class="post-meta-item">
                             <span class="post-age" data-timestamp="{{ post.created_at }}"></span>
                         </div>
+                        {% if post.url != post.hn_url %}
+                        <div class="post-meta-item">
+                            <a href="{{ post.url }}" target="_blank" style="color: #60a5fa; text-decoration: none; font-size: 0.7rem;">
+                                🔗 article
+                            </a>
+                        </div>
+                        {% endif %}
                     </div>
                 </div>
             </div>

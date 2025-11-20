@@ -56,7 +56,17 @@ widgets:
   #     limit: 8
   #     sort: hot
 
-  # Row 4: News from Google News
+  # Row 4: HackerNews discussions
+  - type: hackernews-posts
+    size: full
+    update_minutes: 30
+    params:
+      query: bitcoin
+      limit: 8
+      min_points: 10
+      sort_by: date
+
+  # Row 5: News from Google News
   - type: google-news
     size: full
     update_minutes: 30

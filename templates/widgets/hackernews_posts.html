@@ -1,0 +1,134 @@
+<style>
+.widget-hackernews-posts .post-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.widget-hackernews-posts .post-item {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 6px;
+    border-left: 3px solid #ff6600;
+    transition: background 0.2s ease;
+}
+
+.widget-hackernews-posts .post-item:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.widget-hackernews-posts .post-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.widget-hackernews-posts .post-title {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 6px;
+    line-height: 1.4;
+}
+
+.widget-hackernews-posts .post-title a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-hackernews-posts .post-title a:hover {
+    color: #ff6600;
+}
+
+.widget-hackernews-posts .post-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: 0.75rem;
+    color: #9ca3af;
+}
+
+.widget-hackernews-posts .post-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.widget-hackernews-posts .post-points {
+    color: #ff6600;
+    font-weight: 500;
+}
+
+.widget-hackernews-posts .hn-link {
+    color: #ff6600;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.widget-hackernews-posts .hn-link:hover {
+    text-decoration: underline;
+}
+
+.widget-hackernews-posts .view-all-btn:hover {
+    background: rgba(255, 102, 0, 0.15) !important;
+}
+</style>
+
+<div class="widget widget-hackernews-posts widget-{{ size }}">
+    <div class="widget-header">
+        <h3>
+            HackerNews Stories
+            <span style="font-size: 0.75rem; color: #9ca3af; font-weight: normal; margin-left: 8px;">
+                "{{ query }}"
+                {% if sort_by == 'date' %}
+                · 🕒 Latest
+                {% elif sort_by == 'relevance' %}
+                · ⭐ Popular
+                {% endif %}
+                {% if min_points > 0 %}
+                · {{ min_points }}+ pts
+                {% endif %}
+            </span>
+        </h3>
+    </div>
+    <div class="widget-body">
+        <div class="post-list">
+            {% for post in posts %}
+            <div class="post-item">
+                <div class="post-content">
+                    <div class="post-title">
+                        <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+                    </div>
+                    <div class="post-meta">
+                        <div class="post-meta-item">
+                            <span class="post-points">▲ {{ post.points }}</span>
+                        </div>
+                        <div class="post-meta-item">
+                            <a href="{{ post.hn_url }}" target="_blank" class="hn-link" style="color: #9ca3af; text-decoration: none;">
+                                💬 {{ post.num_comments }}
+                            </a>
+                        </div>
+                        <div class="post-meta-item">
+                            by {{ post.author }}
+                        </div>
+                        <div class="post-meta-item">
+                            <span class="post-age" data-timestamp="{{ post.created_at }}"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <div style="margin-top: 12px; text-align: center;">
+            <a href="https://hn.algolia.com/?query={{ query }}&type=story" target="_blank" class="view-all-btn"
+               style="display: inline-block; padding: 8px 16px; background: rgba(255, 102, 0, 0.1);
+                      border-radius: 6px; color: #ff6600; text-decoration: none;
+                      font-size: 0.85rem; font-weight: 500; transition: background 0.2s ease;">
+                Search HN: "{{ query }}" →
+            </a>
+        </div>
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
+    </div>
+</div>

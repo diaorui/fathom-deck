@@ -222,6 +222,762 @@
     <main class="widgets-grid">
         
         <style>
+/* Google News specific card styling */
+.widget-google-news .carousel-card {
+    border-left: 3px solid var(--primary-color);
+}
+
+.widget-google-news .news-headline {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1;
+}
+
+.widget-google-news .news-headline a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-google-news .news-headline a:hover {
+    color: var(--primary-color);
+}
+
+.widget-google-news .news-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+}
+
+.widget-google-news .news-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.widget-google-news .news-source {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    min-width: 0;
+}
+
+.widget-google-news .news-source a,
+.widget-google-news .news-source span {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.widget-google-news .news-favicon {
+    width: 14px;
+    height: 14px;
+    margin-right: 4px;
+    border-radius: 2px;
+}
+
+.widget-google-news .news-source a {
+    color: #9ca3af;
+    text-decoration: none;
+}
+
+.widget-google-news .news-source a:hover {
+    color: var(--primary-color);
+}
+</style>
+
+<div class="widget widget-google-news widget-full">
+    <div class="widget-header">
+        <h3>Google News</h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            "ai"
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="news-carousel-ai">
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzE4elRsR2pSZGFVS1o0c2tZS0oxa3g3R1JOVktaM09YSmt2YVdaRU9EQ0l6Y1pLQW1yUlNxZDh1UEpHYmx4VFZ4ZU9lQVh2STZ3aWUxTkkwNWNUdW9rbHFtVm5BaEtKSU5CYVA0bVJwV1ZRM3VadDc1VF9DQzEwbk5LaHF1SUJLbGFCcGx4RmU?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzE4elRsR2pSZGFVS1o0c2tZS0oxa3g3R1JOVktaM09YSmt2YVdaRU9EQ0l6Y1pLQW1yUlNxZDh1UEpHYmx4VFZ4ZU9lQVh2STZ3aWUxTkkwNWNUdW9rbHFtVm5BaEtKSU5CYVA0bVJwV1ZRM3VadDc1VF9DQzEwbk5LaHF1SUJLbGFCcGx4RmU?oc=5" target="_blank" onclick="event.stopPropagation();">Trump renews effort to block states from regulating AI, raising alarms about safety</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="CNN" class="news-favicon">
+                                <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763657098.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiggFBVV95cUxORG9CY01zal9DSF9Ga0x3YzNXbEVVallMdW50aXYxbVRYcXdEV2pnLWt6OFp4NU83REhuekJuRXRIaGZLTFZUd3VaaVZtLWZvTGgyVHRMR3ROOTczMFNaaWowWERvcXhfU2lESnFzQWtnTkRMZ05oNzY4RFp1M21EVWRR?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxORG9CY01zal9DSF9Ga0x3YzNXbEVVallMdW50aXYxbVRYcXdEV2pnLWt6OFp4NU83REhuekJuRXRIaGZLTFZUd3VaaVZtLWZvTGgyVHRMR3ROOTczMFNaaWowWERvcXhfU2lESnFzQWtnTkRMZ05oNzY4RFp1M21EVWRR?oc=5" target="_blank" onclick="event.stopPropagation();">Family Affair: Commerce Secretary’s Sons Cash In on A.I. Frenzy</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="The New York Times" class="news-favicon">
+                                <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763632845.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMitgFBVV95cUxOMTBvYjNLYWpVSkxlWWx5RVpIeTloYldLblR1enJYSWU3MlB6QzJRczFCNmxuM1dkQWRscGhtN1JxXzNCOEF2bENGUEhNb01NUU91dWJMdGZzdzhBRVEyRWQwNW12NFF0dE8tSE9GV0hiZGVYNmdBZ3BuUmNOR0lxYUFNRkZJY1JoeE1JeVg3V2lvVC1ZSU5mYlEtSUtJYWhCYXVPWDE3UENFWWpEVW5RQkRXdlFVUQ?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOMTBvYjNLYWpVSkxlWWx5RVpIeTloYldLblR1enJYSWU3MlB6QzJRczFCNmxuM1dkQWRscGhtN1JxXzNCOEF2bENGUEhNb01NUU91dWJMdGZzdzhBRVEyRWQwNW12NFF0dE8tSE9GV0hiZGVYNmdBZ3BuUmNOR0lxYUFNRkZJY1JoeE1JeVg3V2lvVC1ZSU5mYlEtSUtJYWhCYXVPWDE3UENFWWpEVW5RQkRXdlFVUQ?oc=5" target="_blank" onclick="event.stopPropagation();">Nvidia sent a strong signal on AI infrastructure — but is it a bubble barometer?</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="CNBC" class="news-favicon">
+                                <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763628605.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMifEFVX3lxTFBrakRsZXBMRG1UVHZhelJRMndLWHZ1UE1lTnp2N0ZaM0hTeXpQa1RIMjZMUHdDUmYwTjlYQTBSR3piS3FoTFhhUHZ3Y21wTXZpN1pZWVBDRW54OUV0THNLZXdaRFk5aUlqX1VBbV9hTHlRWW95a0lDSmlUMjQ?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMifEFVX3lxTFBrakRsZXBMRG1UVHZhelJRMndLWHZ1UE1lTnp2N0ZaM0hTeXpQa1RIMjZMUHdDUmYwTjlYQTBSR3piS3FoTFhhUHZ3Y21wTXZpN1pZWVBDRW54OUV0THNLZXdaRFk5aUlqX1VBbV9hTHlRWW95a0lDSmlUMjQ?oc=5" target="_blank" onclick="event.stopPropagation();">Did Nvidia Do Enough to Chill A.I. Bubble Fears?</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="The New York Times" class="news-favicon">
+                                <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763650122.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMi6wJBVV95cUxNcnJadHpLcEZDdXJwMVRWdl9ReGVCV1M4MU5CYjlJTXdlSk1STlVZMmtSbXRwZmlseGxqM3BBZHgtcUQ3NkRpYV91Um54ank5NXpqaXRvekhCOHBfM0JPZmJGUUVObEFCU2ZiVm03SXluZUlHbEk5MW02TGF2NnpRdlpoTi1meXFmRVM2MExGNjhfRGtFWjJPcFZ5VGFnMHdCRVB0Nkxad3pPbXlQRmV1VXA0ejBOUGJkb2REdGJBVjM0bmZVQW5BclU2ODBjanh2UDJQVHNWZUM4ZXNVcE01M3lEYmU2LWZuVE8xbHpCSndXZFJ6TlpXMHhCRTZZSi10ZEVlV2ZlYjVLcDFWYmZGWUI5aWxBd1dwT1ZTMFpQc05mTndLdFdSZHJ4ZlRZNk8tcFRaV2EwblhrNGRvbGVVQTd3eHFVaUt4MENpeEJ4QXc2bnJPTFYtdXh5MkxHUXFGNkNkWENyeEl1bHM?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMi6wJBVV95cUxNcnJadHpLcEZDdXJwMVRWdl9ReGVCV1M4MU5CYjlJTXdlSk1STlVZMmtSbXRwZmlseGxqM3BBZHgtcUQ3NkRpYV91Um54ank5NXpqaXRvekhCOHBfM0JPZmJGUUVObEFCU2ZiVm03SXluZUlHbEk5MW02TGF2NnpRdlpoTi1meXFmRVM2MExGNjhfRGtFWjJPcFZ5VGFnMHdCRVB0Nkxad3pPbXlQRmV1VXA0ejBOUGJkb2REdGJBVjM0bmZVQW5BclU2ODBjanh2UDJQVHNWZUM4ZXNVcE01M3lEYmU2LWZuVE8xbHpCSndXZFJ6TlpXMHhCRTZZSi10ZEVlV2ZlYjVLcDFWYmZGWUI5aWxBd1dwT1ZTMFpQc05mTndLdFdSZHJ4ZlRZNk8tcFRaV2EwblhrNGRvbGVVQTd3eHFVaUt4MENpeEJ4QXc2bnJPTFYtdXh5MkxHUXFGNkNkWENyeEl1bHM?oc=5" target="_blank" onclick="event.stopPropagation();">The Chip CEO Staring Down Nvidia and Talk of an AI Bubble</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="The Wall Street Journal" class="news-favicon">
+                                <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763686920.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVlURTdUQW9tT0NNQk94aGRWbjdabVhDNmg5S3RUeGQ3YVFSbllpRl9pWnVaMVlnMGt0b2s3RHh6eTQtbTI1UlFEZkwzSk44UE0xbHREZ0wtT1RkdHZuUnJyMnp5cHZ3ckdUaXVnNngwc21CM3ZzdVZEWEJZZTlzLUY1YWhEWjRGNXpuWXA2cWxIRUxkbEtJYkR5SjFURURRSjlMTFR1VjA1S1NLQVp0X3BGWkxtY0xIT25uY2pxVnludFRYdk9TOTZB?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVlURTdUQW9tT0NNQk94aGRWbjdabVhDNmg5S3RUeGQ3YVFSbllpRl9pWnVaMVlnMGt0b2s3RHh6eTQtbTI1UlFEZkwzSk44UE0xbHREZ0wtT1RkdHZuUnJyMnp5cHZ3ckdUaXVnNngwc21CM3ZzdVZEWEJZZTlzLUY1YWhEWjRGNXpuWXA2cWxIRUxkbEtJYkR5SjFURURRSjlMTFR1VjA1S1NLQVp0X3BGWkxtY0xIT25uY2pxVnludFRYdk9TOTZB?oc=5" target="_blank" onclick="event.stopPropagation();">Gmail can read your emails and attachments to train its AI, unless you opt out</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.malwarebytes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="Malwarebytes" class="news-favicon">
+                                <a href="https://www.malwarebytes.com" target="_blank" onclick="event.stopPropagation();">Malwarebytes</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763648120.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waHhZR2RoNnpCWE1oWXJNRW5lX05FSUJ2WDl4RmVuc2hrUWJGR3FndHNpdzRqSXdqZ0d1VVJuUGsydEMtWHZOYkpqY1dVTV9vN1R3bEhjNkp0Z9IBX0FVX3lxTFA2RGtrTDlnT3c0R0FGSktfSUc1bjRLQTNMYzE5VGxUbXoxX1Nia3hRd3pmU3JnenhMQWh6SkNDWXBCVjR2NlN1WThXVnVaYk1kUFkwWUtpclFTVDVmLUdz?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waHhZR2RoNnpCWE1oWXJNRW5lX05FSUJ2WDl4RmVuc2hrUWJGR3FndHNpdzRqSXdqZ0d1VVJuUGsydEMtWHZOYkpqY1dVTV9vN1R3bEhjNkp0Z9IBX0FVX3lxTFA2RGtrTDlnT3c0R0FGSktfSUc1bjRLQTNMYzE5VGxUbXoxX1Nia3hRd3pmU3JnenhMQWh6SkNDWXBCVjR2NlN1WThXVnVaYk1kUFkwWUtpclFTVDVmLUdz?oc=5" target="_blank" onclick="event.stopPropagation();">AI godfather Yann LeCun to leave Meta and start own firm</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="BBC" class="news-favicon">
+                                <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763638557.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVhWZWpxZmJIdzl2cFVySUZGalE1dGlqblFIUDV0aC1rUExleG92VmF3Nk5MckVGdGxKWUhhV3ROanZVVGozeXJndmZYRjVUMF9DMkdoMFI4LTlydWhndzdFMTFOSWFMNUpoLU4tNjJxbDlnR1NRLUw1MG9TTHJWcmk1V2QxZkpDWTY5TW1mR2M0elRwOTJZZi1qWHhWc0xx?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVhWZWpxZmJIdzl2cFVySUZGalE1dGlqblFIUDV0aC1rUExleG92VmF3Nk5MckVGdGxKWUhhV3ROanZVVGozeXJndmZYRjVUMF9DMkdoMFI4LTlydWhndzdFMTFOSWFMNUpoLU4tNjJxbDlnR1NRLUw1MG9TTHJWcmk1V2QxZkpDWTY5TW1mR2M0elRwOTJZZi1qWHhWc0xx?oc=5" target="_blank" onclick="event.stopPropagation();">One of the world’s most popular economists on why AI is ‘undoubtedly going to crash’: It’s built off ‘digital lettuce’—and the U.S. will be just fine anyway</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="Fortune" class="news-favicon">
+                                <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763636400.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiX0FVX3lxTE81eFc0WmRGVnBjc2RqT0RkT3EycWQtTW1McUxmZFQzLXZDZG5pbUdCdm9FTi1QR21mS0VraUlldmMxNFFmZ2hxZEtwcUJIMy1Tc3dyUWlRT0EtNjFQS3o4?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE81eFc0WmRGVnBjc2RqT0RkT3EycWQtTW1McUxmZFQzLXZDZG5pbUdCdm9FTi1QR21mS0VraUlldmMxNFFmZ2hxZEtwcUJIMy1Tc3dyUWlRT0EtNjFQS3o4?oc=5" target="_blank" onclick="event.stopPropagation();">Introducing Nano Banana Pro</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="The Keyword" class="news-favicon">
+                                <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">The Keyword</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763651223.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMid0FVX3lxTE9iNXppb3pRZzJCUUo3OGVndWdlajlFTFBPem1POHJKX2RSUVhqNlNDOGFXQ3V5b1RmU0R1bGc2Tl9GMEpVUjQxNVBzU1JkbS02ckFkZEJoQk9HeDZBNlBpd2h0WWJxS01fOU16UlhRWjhVdHJhS0Zv0gF8QVVfeXFMTmZXWUVHTlJoc1RaUWZ1TEtFYl95RW1NT3haTHkzVUNEMlZaSC1MMVhtTENvMkRxQXl6U0xSX0NiREFWQlBOMnRuQ3JTUjlwSV9ITFVWd3dPNEphenFuQU9EZmRTV0pPdVlNbU8teWpPajhhYmNnVlpneEl4OQ?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9iNXppb3pRZzJCUUo3OGVndWdlajlFTFBPem1POHJKX2RSUVhqNlNDOGFXQ3V5b1RmU0R1bGc2Tl9GMEpVUjQxNVBzU1JkbS02ckFkZEJoQk9HeDZBNlBpd2h0WWJxS01fOU16UlhRWjhVdHJhS0Zv0gF8QVVfeXFMTmZXWUVHTlJoc1RaUWZ1TEtFYl95RW1NT3haTHkzVUNEMlZaSC1MMVhtTENvMkRxQXl6U0xSX0NiREFWQlBOMnRuQ3JTUjlwSV9ITFVWd3dPNEphenFuQU9EZmRTV0pPdVlNbU8teWpPajhhYmNnVlpneEl4OQ?oc=5" target="_blank" onclick="event.stopPropagation();">Google launches Nano Banana Pro, an updated AI image generator powered by Gemini 3</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="CNBC" class="news-favicon">
+                                <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763650801.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
+                     onclick="window.open('https://news.google.com/search?q=ai', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
+                        <div style="color: var(--primary-color); font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on Google News</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="2025-11-21T01:31:35.422924+00:00">Updated 2025-11-21T01:31:35.422924+00:00</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->
+        
+        <style>
+/* Google News specific card styling */
+.widget-google-news .carousel-card {
+    border-left: 3px solid var(--primary-color);
+}
+
+.widget-google-news .news-headline {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1;
+}
+
+.widget-google-news .news-headline a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-google-news .news-headline a:hover {
+    color: var(--primary-color);
+}
+
+.widget-google-news .news-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+}
+
+.widget-google-news .news-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.widget-google-news .news-source {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    min-width: 0;
+}
+
+.widget-google-news .news-source a,
+.widget-google-news .news-source span {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.widget-google-news .news-favicon {
+    width: 14px;
+    height: 14px;
+    margin-right: 4px;
+    border-radius: 2px;
+}
+
+.widget-google-news .news-source a {
+    color: #9ca3af;
+    text-decoration: none;
+}
+
+.widget-google-news .news-source a:hover {
+    color: var(--primary-color);
+}
+</style>
+
+<div class="widget widget-google-news widget-full">
+    <div class="widget-header">
+        <h3>Posts from X</h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            "ai site:x.com"
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="news-carousel-ai-site-x-com">
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLN1YtMWNzRHNPQmF5N2ZUVXhxUFN0UTRXbHRBY0tSWmZQTlVaWFBQSDlCdFpXd3pSY1p5b1hwOUFGOHJ0MTVhWXFaLS1ISVk4T0lucmV4clFydWs0OHhHV25GWnpzY0E?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLN1YtMWNzRHNPQmF5N2ZUVXhxUFN0UTRXbHRBY0tSWmZQTlVaWFBQSDlCdFpXd3pSY1p5b1hwOUFGOHJ0MTVhWXFaLS1ISVk4T0lucmV4clFydWs0OHhHV25GWnpzY0E?oc=5" target="_blank" onclick="event.stopPropagation();">AI changes forever today. Introducing JohnPork.ai, the first ever talking human-pig-AI. He remembers you. He gets you. And somehow he's the conversation you've been missing.</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="x.com" class="news-favicon">
+                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763655243.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wdnRXWlZmaU81NXdYbHdubDZzYUVrZnpwTXhraVZSWDZuOTlvN2xvS2RnZTYwWmdicEdVeUlOaWtkNnJNbVAwMjA4a0xGR2U1aEdDR0M4OA?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wdnRXWlZmaU81NXdYbHdubDZzYUVrZnpwTXhraVZSWDZuOTlvN2xvS2RnZTYwWmdicEdVeUlOaWtkNnJNbVAwMjA4a0xGR2U1aEdDR0M4OA?oc=5" target="_blank" onclick="event.stopPropagation();">AI bringing people together</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="x.com" class="news-favicon">
+                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763596115.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYUXpzMl9xSEF0aFktM3VselphVE54UlBrelBHaEt3a1pNc1dqUkkzWUVHLXlfN0Q0S1pFUjZkakZlUFpXWERiLWVNUTZfYjdnYWpiMThsNHBkMWRZM2N3?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYUXpzMl9xSEF0aFktM3VselphVE54UlBrelBHaEt3a1pNc1dqUkkzWUVHLXlfN0Q0S1pFUjZkakZlUFpXWERiLWVNUTZfYjdnYWpiMThsNHBkMWRZM2N3?oc=5" target="_blank" onclick="event.stopPropagation();">Today, we present a step-change in robotic AI @sundayrobotics. Introducing ACT-1: A frontier robot foundation model trained on zero robot data. - Ultra long-horizon tasks - Zero-shot generalization - Advanced dexterity 🧵-></a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="x.com" class="news-favicon">
+                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763575203.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQm9hRGFRMDIzbkNLbjIxdjN6aWxKZzhLTFIzQl9yX1ptSHFMZ1pkUGdGeHlncXlzNGxMUFo0TUtjWHVzRjV6SlJlTXpvZXl6ZXlHN1hIV015T3lWeFpObXN3?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQm9hRGFRMDIzbkNLbjIxdjN6aWxKZzhLTFIzQl9yX1ptSHFMZ1pkUGdGeHlncXlzNGxMUFo0TUtjWHVzRjV6SlJlTXpvZXl6ZXlHN1hIV015T3lWeFpObXN3?oc=5" target="_blank" onclick="event.stopPropagation();">Gemini 3 shows that scaling laws for pretraining are intact. This is the most important AI datapoint since the release of o1. This means that Blackwell models are likely to show a significant increase in performance when they come out in the second quarter of 20</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="x.com" class="news-favicon">
+                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763585676.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsRkExdTgwTEVMWmpLTE9xUnduT3FIaHZhLS1jQXhMVzF3bnI5c2lUM3JQMXVsWGRld3F0OU1pTXJuVVAwWEs1czViSFlJX3RlTDF4aDlkaTBFMmRLXzNLYTB3?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsRkExdTgwTEVMWmpLTE9xUnduT3FIaHZhLS1jQXhMVzF3bnI5c2lUM3JQMXVsWGRld3F0OU1pTXJuVVAwWEs1czViSFlJX3RlTDF4aDlkaTBFMmRLXzNLYTB3?oc=5" target="_blank" onclick="event.stopPropagation();">JUST IN: Elon Musk says AI and humanoid robots will "eliminate poverty" and "make everyone wealthy."</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="x.com" class="news-favicon">
+                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763569697.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VZW1RRXFfNmYyd1lkendqWWlGejRmRmpobjhBcWhWbzBMZmJ3V3ZBUWNzNURQVm13Ukl1YkliVnBFM0NuX3hWeGR4YW1zZHFzalJ3dFlZRG4yOXE0MWlwcTU4dFlpZw?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VZW1RRXFfNmYyd1lkendqWWlGejRmRmpobjhBcWhWbzBMZmJ3V3ZBUWNzNURQVm13Ukl1YkliVnBFM0NuX3hWeGR4YW1zZHFzalJ3dFlZRG4yOXE0MWlwcTU4dFlpZw?oc=5" target="_blank" onclick="event.stopPropagation();">Microsoft's AI CEO has said he's mindblown over people who are unimpressed with recent AI announcements</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="x.com" class="news-favicon">
+                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763572634.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GVjZuc1pibUw3ekFRbllOYW9wVUZWNU9yUWxueUdRSFhyem43MldlRHIxYXRCU0dGbmRCMjF0UHRzMlY2dzU5U0FZRWo3ZVdoX0lWOUpSR2kyeHBYZHc?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GVjZuc1pibUw3ekFRbllOYW9wVUZWNU9yUWxueUdRSFhyem43MldlRHIxYXRCU0dGbmRCMjF0UHRzMlY2dzU5U0FZRWo3ZVdoX0lWOUpSR2kyeHBYZHc?oc=5" target="_blank" onclick="event.stopPropagation();">Sharing an interesting recent conversation on AI's impact on the economy. AI has been compared to various historical precedents: electricity, industrial revolution, etc., I think the strongest analogy is that of AI as a new computing paradigm (Software 2.0) becau</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="x.com" class="news-favicon">
+                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763315762.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lU0l3NVY0dWNwTjMwNkl3Q0lsMGxXUDVzdlJEcHJOWHFFOXpueUxqUGZrazdOMHRMOHdGWFR6bE1fVlJVRjVsT1RITGh4STB1RDU0YU5BcGp0dUI2VXc?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lU0l3NVY0dWNwTjMwNkl3Q0lsMGxXUDVzdlJEcHJOWHFFOXpueUxqUGZrazdOMHRMOHdGWFR6bE1fVlJVRjVsT1RITGh4STB1RDU0YU5BcGp0dUI2VXc?oc=5" target="_blank" onclick="event.stopPropagation();">The most likely outcome is that AI and robots make everyone wealthy. In fact, far wealthier than the richest person on Earth 👀 By this, I mean that people will have access to everything from medical care that is superhuman to games that are far more fun that wh</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="x.com" class="news-favicon">
+                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763583306.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlNWNpWkgwaEZWVUtSTFF5LXpINEU0Y2FvNEdGeER6SG41M0duS3llMHBHOWlTRGFOM19DTVhjTGF1YTJzaVJpbDg3UGwzV0lzNXBqTWVCZ3pyd256V3phR0gya1A?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlNWNpWkgwaEZWVUtSTFF5LXpINEU0Y2FvNEdGeER6SG41M0duS3llMHBHOWlTRGFOM19DTVhjTGF1YTJzaVJpbDg3UGwzV0lzNXBqTWVCZ3pyd256V3phR0gya1A?oc=5" target="_blank" onclick="event.stopPropagation();">AI trace-over of the new hero 'Fencer' (VIA @Hxsykhia)</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="x.com" class="news-favicon">
+                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763610661.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wSUVwci1yS0I2ZlRMOGtOcWcwSDFib3ZXby1Cb3JSUml0eUI1ZWVyc291TGd3RlVva0dxUjBvMmg3a2VNTTRDMTVzdmUxR05VMEhwUHJn?oc=5', '_blank')">
+                    <div class="news-headline">
+                        <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wSUVwci1yS0I2ZlRMOGtOcWcwSDFib3ZXby1Cb3JSUml0eUI1ZWVyc291TGd3RlVva0dxUjBvMmg3a2VNTTRDMTVzdmUxR05VMEhwUHJn?oc=5" target="_blank" onclick="event.stopPropagation();">Elon Musk predicted that AI and robots would eventually allow work to become optional for human beings, that money would become “irrelevant” and poverty would cease to exist.</a>
+                    </div>
+                    <div class="news-meta">
+                        <div class="news-meta-line">
+                            
+                            <div class="news-source">
+                                
+                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                     alt="x.com" class="news-favicon">
+                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="news-meta-line">
+                            
+                            <div class="news-date">
+                                <span data-timestamp="1763589247.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
+                     onclick="window.open('https://news.google.com/search?q=ai site:x.com', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
+                        <div style="color: var(--primary-color); font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on Google News</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="2025-11-21T01:31:36.046477+00:00">Updated 2025-11-21T01:31:36.046477+00:00</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->
+        
+        <style>
 /* HackerNews-specific card styling */
 .widget-hackernews-posts .carousel-card {
     border-left: 3px solid #ff6600;
@@ -328,10 +1084,10 @@
                     <div class="post-meta">
                         <div class="post-meta-line">
                             <div class="post-meta-item">
-                                <span class="post-points">▲ 1</span>
+                                <span class="post-points">▲ 2</span>
                             </div>
                             <div class="post-meta-item">
-                                <span style="color: #9ca3af;">💬 5</span>
+                                <span style="color: #9ca3af;">💬 13</span>
                             </div>
                             <div class="post-meta-item">
                                 by kaven1234
@@ -359,7 +1115,7 @@
                     <div class="post-meta">
                         <div class="post-meta-line">
                             <div class="post-meta-item">
-                                <span class="post-points">▲ 8</span>
+                                <span class="post-points">▲ 9</span>
                             </div>
                             <div class="post-meta-item">
                                 <span style="color: #9ca3af;">💬 0</span>
@@ -390,7 +1146,7 @@
                     <div class="post-meta">
                         <div class="post-meta-line">
                             <div class="post-meta-item">
-                                <span class="post-points">▲ 10</span>
+                                <span class="post-points">▲ 16</span>
                             </div>
                             <div class="post-meta-item">
                                 <span style="color: #9ca3af;">💬 7</span>
@@ -651,21 +1407,45 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-20T23:52:27.446850+00:00">Updated 2025-11-20T23:52:27.446850+00:00</small>
+        <small data-timestamp="2025-11-21T01:31:36.338527+00:00">Updated 2025-11-21T01:31:36.338527+00:00</small>
     </div>
 </div>
 
 <!-- Carousel initialized by shared page.html script -->
         
         <style>
-/* Google News specific card styling */
-.widget-google-news .carousel-card {
-    border-left: 3px solid var(--primary-color);
+/* GitHub-specific card styling */
+.widget-github-repos .carousel-card {
+    border-left: 3px solid #238636;
 }
 
-.widget-google-news .news-headline {
+.widget-github-repos .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(35, 134, 54, 0.2);
+}
+
+.widget-github-repos .repo-name {
     font-size: 0.95rem;
     font-weight: 500;
+    margin-bottom: 8px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.widget-github-repos .repo-name a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-github-repos .repo-name a:hover {
+    color: #238636;
+}
+
+.widget-github-repos .repo-description {
+    font-size: 0.72rem;
+    color: #9ca3af;
     margin-bottom: 10px;
     line-height: 1.4;
     display: -webkit-box;
@@ -675,16 +1455,7 @@
     flex: 1;
 }
 
-.widget-google-news .news-headline a {
-    color: var(--text-color);
-    text-decoration: none;
-}
-
-.widget-google-news .news-headline a:hover {
-    color: var(--primary-color);
-}
-
-.widget-google-news .news-meta {
+.widget-github-repos .repo-meta {
     display: flex;
     flex-direction: column;
     gap: 4px;
@@ -692,51 +1463,50 @@
     color: #9ca3af;
 }
 
-.widget-google-news .news-meta-line {
+.widget-github-repos .repo-meta-line {
     display: flex;
     align-items: center;
     gap: 8px;
-    overflow: hidden;
-    white-space: nowrap;
+    flex-wrap: wrap;
 }
 
-.widget-google-news .news-source {
-    font-weight: 500;
+.widget-github-repos .repo-meta-line.tags-line {
+    min-height: calc((1rem + 4px) * 2 + 2px);
+    max-height: calc((1rem + 4px) * 2 + 2px);
+    overflow: hidden;
+    align-items: flex-start;
+    row-gap: 2px;
+    column-gap: 8px;
+}
+
+.widget-github-repos .repo-meta-item {
     display: flex;
     align-items: center;
-    overflow: hidden;
-    min-width: 0;
-}
-
-.widget-google-news .news-source a,
-.widget-google-news .news-source span {
-    overflow: hidden;
-    text-overflow: ellipsis;
+    gap: 3px;
     white-space: nowrap;
 }
 
-.widget-google-news .news-favicon {
-    width: 14px;
-    height: 14px;
-    margin-right: 4px;
-    border-radius: 2px;
+.widget-github-repos .repo-tag {
+    background: rgba(35, 134, 54, 0.15);
+    color: #238636;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    font-weight: 500;
+    line-height: 1;
 }
 
-.widget-google-news .news-source a {
+.widget-github-repos .repo-stats {
     color: #9ca3af;
-    text-decoration: none;
-}
-
-.widget-google-news .news-source a:hover {
-    color: var(--primary-color);
+    font-weight: 500;
 }
 </style>
 
-<div class="widget widget-google-news widget-full">
+<div class="widget widget-github-repos widget-full">
     <div class="widget-header">
-        <h3>Google News</h3>
+        <h3>GitHub Repos</h3>
         <div style="font-size: 0.75rem; color: #9ca3af;">
-            "artificial intelligence"
+            "ai machine-learning llm" · Last 7 days
         </div>
     </div>
     <div class="widget-body">
@@ -747,262 +1517,412 @@
             </button>
 
             <!-- Carousel track -->
-            <div class="carousel-track" id="news-carousel-artificial-intelligence">
+            <div class="carousel-track" id="github-repos-carousel">
                 
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVlPWHBqMTl4N0UzZ20wTW85UWdFb0VHYWtpdVdhR2JzTW96QWtJanFpeGczVTByX3lISUE1V1BCYkFuamVaOW9yZW9BUlJTYkZmWUVHSDA3ZXphQlBWakF3OUp5cHljbHJJU3dmNkZRTnpqTWszNnRjLTRfSGx1ZU9waERIMVhDelY2Y0ttTkw2Z2lOSFV3bEwzVk1HUG9CYzZkRTVpQWZPVlU1VkpsMUdwOEFqVGZQ?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVlPWHBqMTl4N0UzZ20wTW85UWdFb0VHYWtpdVdhR2JzTW96QWtJanFpeGczVTByX3lISUE1V1BCYkFuamVaOW9yZW9BUlJTYkZmWUVHSDA3ZXphQlBWakF3OUp5cHljbHJJU3dmNkZRTnpqTWszNnRjLTRfSGx1ZU9waERIMVhDelY2Y0ttTkw2Z2lOSFV3bEwzVk1HUG9CYzZkRTVpQWZPVlU1VkpsMUdwOEFqVGZQ?oc=5" target="_blank" onclick="event.stopPropagation();">Teachers and parents weigh benefits and risks of artificial intelligence in schools</a>
+                <div class="carousel-card" onclick="window.open('https://github.com/rasbt/LLMs-from-scratch', '_blank')">
+                    <div class="repo-name">
+                        <a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank" onclick="event.stopPropagation();">rasbt/LLMs-from-scratch</a>
                     </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
+                    
+                    <div class="repo-description">
+                        Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+                    </div>
+                    
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
                             
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="PBS" class="news-favicon">
-                                <a href="https://www.pbs.org" target="_blank" onclick="event.stopPropagation();">PBS</a>
-                                
-                            </div>
+                            <span class="repo-tag">Jupyter Notebook</span>
+                            
+                            
+                            <span class="repo-tag">ai</span>
+                            
+                            <span class="repo-tag">artificial-intelligence</span>
+                            
+                            <span class="repo-tag">chatbot</span>
                             
                         </div>
-                        <div class="news-meta-line">
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ 79.1k</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">11.7k</span>
+                            </div>
                             
-                            <div class="news-date">
-                                <span data-timestamp="1763595040.0"></span>
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="2025-11-21T01:29:19Z"></span>
                             </div>
                             
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMikAFBVV95cUxORU1WaXR1M044ekQxYmotdk9uSUpkSHRQdlhmMml3QnV2eDJDUHBkc0NXdDJwbzNKbFVBOXJmY09PTGJDc1c5ZzFad0EwM201a3pWWjQ4aDYwU2wyXzNQSks0T3JHYTVCZTd6c0hMUFNtRGxVb3hKbzVwcHFUMEFELU9BclN4SXQtRXpoRHpyb3c?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxORU1WaXR1M044ekQxYmotdk9uSUpkSHRQdlhmMml3QnV2eDJDUHBkc0NXdDJwbzNKbFVBOXJmY09PTGJDc1c5ZzFad0EwM201a3pWWjQ4aDYwU2wyXzNQSks0T3JHYTVCZTd6c0hMUFNtRGxVb3hKbzVwcHFUMEFELU9BclN4SXQtRXpoRHpyb3c?oc=5" target="_blank" onclick="event.stopPropagation();">Artificial intelligence is front and centre at COP30</a>
+                <div class="carousel-card" onclick="window.open('https://github.com/ray-project/ray', '_blank')">
+                    <div class="repo-name">
+                        <a href="https://github.com/ray-project/ray" target="_blank" onclick="event.stopPropagation();">ray-project/ray</a>
                     </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
+                    
+                    <div class="repo-description">
+                        Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+                    </div>
+                    
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
                             
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://theconversation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="The Conversation" class="news-favicon">
-                                <a href="https://theconversation.com" target="_blank" onclick="event.stopPropagation();">The Conversation</a>
-                                
-                            </div>
+                            <span class="repo-tag">Python</span>
+                            
+                            
+                            <span class="repo-tag">data-science</span>
+                            
+                            <span class="repo-tag">deep-learning</span>
+                            
+                            <span class="repo-tag">deployment</span>
                             
                         </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763570987.0"></span>
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ 39.9k</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">6.9k</span>
                             </div>
                             
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMivwFBVV95cUxPazVYd1NyMDc5RGt4SUtPM3dLQWw3aW5ONzhaYzNYelZJNVgxeFVyVnQwaDFSN0FkbEY4c2RYWG5uNUJ3WkVxSEJPN0ViWGRPZVd6ZzQ1MzZGV1gzMWU5YS1JSkloREFxRTVEX0gtdy1OWU90QWRBT3YzTS1Dc1VHeFZsVlkxUUVIMVRJVVpKcEhzSlFLcENEcEZPcXotbUZ3UDBxUVEyeWNsYkpKR2d3ZXg2dnd6Z0xYNlZlMjRPZw?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPazVYd1NyMDc5RGt4SUtPM3dLQWw3aW5ONzhaYzNYelZJNVgxeFVyVnQwaDFSN0FkbEY4c2RYWG5uNUJ3WkVxSEJPN0ViWGRPZVd6ZzQ1MzZGV1gzMWU5YS1JSkloREFxRTVEX0gtdy1OWU90QWRBT3YzTS1Dc1VHeFZsVlkxUUVIMVRJVVpKcEhzSlFLcENEcEZPcXotbUZ3UDBxUVEyeWNsYkpKR2d3ZXg2dnd6Z0xYNlZlMjRPZw?oc=5" target="_blank" onclick="event.stopPropagation();">U.S. Cyber Command has a new Chief Artificial Intelligence Officer</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://federalnewsnetwork.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="Federal News Network" class="news-favicon">
-                                <a href="https://federalnewsnetwork.com" target="_blank" onclick="event.stopPropagation();">Federal News Network</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763590050.0"></span>
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="2025-11-20T23:44:41Z"></span>
                             </div>
                             
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUNWRTVkczhSdWRKdjFSbUxId2kxdDdBdzh1ZmE5TWNJbUxsQ05tYUZaaDdvaF9qX2o4ek9NQUVWRGFZZklDTUw5RWEyQUd3X1FMbElZaHpPTGFNQXFUb21xM3dDV2k0Y3hDcWpOa29OcHpiLXFMS3huZVhlMTV6bHdrczRPLXZ0VnNZaTFJanQ5Q2ZCWDZUOUZGaHAyZ0RlWHI5bk5OdGZ4d3BsTTNYcUE4Mk1jak0?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUNWRTVkczhSdWRKdjFSbUxId2kxdDdBdzh1ZmE5TWNJbUxsQ05tYUZaaDdvaF9qX2o4ek9NQUVWRGFZZklDTUw5RWEyQUd3X1FMbElZaHpPTGFNQXFUb21xM3dDV2k0Y3hDcWpOa29OcHpiLXFMS3huZVhlMTV6bHdrczRPLXZ0VnNZaTFJanQ5Q2ZCWDZUOUZGaHAyZ0RlWHI5bk5OdGZ4d3BsTTNYcUE4Mk1jak0?oc=5" target="_blank" onclick="event.stopPropagation();">NASA, Industry Weave Data Fabric with Artificial Intelligence</a>
+                <div class="carousel-card" onclick="window.open('https://github.com/deepset-ai/haystack', '_blank')">
+                    <div class="repo-name">
+                        <a href="https://github.com/deepset-ai/haystack" target="_blank" onclick="event.stopPropagation();">deepset-ai/haystack</a>
                     </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
+                    
+                    <div class="repo-description">
+                        AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
+                    </div>
+                    
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
                             
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nasa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="NASA (.gov)" class="news-favicon">
-                                <a href="https://www.nasa.gov" target="_blank" onclick="event.stopPropagation();">NASA (.gov)</a>
-                                
-                            </div>
+                            <span class="repo-tag">MDX</span>
+                            
+                            
+                            <span class="repo-tag">agent</span>
+                            
+                            <span class="repo-tag">agents</span>
+                            
+                            <span class="repo-tag">ai</span>
                             
                         </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763405606.0"></span>
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ 23.4k</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">2.5k</span>
                             </div>
                             
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMimAFBVV95cUxOYTFIaThmcVFzV1RRWF9WRW54VEwtaHNaRGtHX3RlaG5XZlZ3TFFtX0FRRVpnYnBxUE5tNVlnWmNURkw2QzBXODZyTUcxbHVGZk5CM1d6M29HbzJmaGVpMWR3WnRNVTdQODI1VWx2dmpyOWRGdzFVZmZhOTBaUHBuWFJxSTdBVW01TnhTVjI2elg3a2FPbFU0bA?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOYTFIaThmcVFzV1RRWF9WRW54VEwtaHNaRGtHX3RlaG5XZlZ3TFFtX0FRRVpnYnBxUE5tNVlnWmNURkw2QzBXODZyTUcxbHVGZk5CM1d6M29HbzJmaGVpMWR3WnRNVTdQODI1VWx2dmpyOWRGdzFVZmZhOTBaUHBuWFJxSTdBVW01TnhTVjI2elg3a2FPbFU0bA?oc=5" target="_blank" onclick="event.stopPropagation();">10 Artificial Intelligence (AI) Infrastructure Stocks to Buy for the $400 Billion Buildout</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="The Motley Fool" class="news-favicon">
-                                <a href="https://www.fool.com" target="_blank" onclick="event.stopPropagation();">The Motley Fool</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763473500.0"></span>
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="2025-11-20T18:14:26Z"></span>
                             </div>
                             
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMimAFBVV95cUxQMU5nakRwYzRGWTVjNm0wZnFPdFdRY1oySk9tSXdTUVZRUVoxTWFkSk5QM1VrTjlnOXdGajk0blVpX2h2Q0s0akpGeFI3YV9RZFN5V0JOUFE5OEZsbTBIZkFVVDNab3IyWDhTWWd3bnhZZW5zQURIYWtkQ1o4cmJtcXdBY0JSTmJxWEQ3RzdTYUVRamo3aUdCOA?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQMU5nakRwYzRGWTVjNm0wZnFPdFdRY1oySk9tSXdTUVZRUVoxTWFkSk5QM1VrTjlnOXdGajk0blVpX2h2Q0s0akpGeFI3YV9RZFN5V0JOUFE5OEZsbTBIZkFVVDNab3IyWDhTWWd3bnhZZW5zQURIYWtkQ1o4cmJtcXdBY0JSTmJxWEQ3RzdTYUVRamo3aUdCOA?oc=5" target="_blank" onclick="event.stopPropagation();">The EU promised to lead on regulating artificial intelligence. Now it’s hitting pause.</a>
+                <div class="carousel-card" onclick="window.open('https://github.com/patchy631/ai-engineering-hub', '_blank')">
+                    <div class="repo-name">
+                        <a href="https://github.com/patchy631/ai-engineering-hub" target="_blank" onclick="event.stopPropagation();">patchy631/ai-engineering-hub</a>
                     </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
+                    
+                    <div class="repo-description">
+                        In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+                    </div>
+                    
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
                             
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="politico.eu" class="news-favicon">
-                                <a href="https://www.politico.eu" target="_blank" onclick="event.stopPropagation();">politico.eu</a>
-                                
-                            </div>
+                            <span class="repo-tag">Jupyter Notebook</span>
+                            
+                            
+                            <span class="repo-tag">agents</span>
+                            
+                            <span class="repo-tag">ai</span>
+                            
+                            <span class="repo-tag">llms</span>
                             
                         </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763521680.0"></span>
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ 21.0k</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">3.5k</span>
                             </div>
                             
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoaWJRYWE2a3hkWWZsVm96OHFMRXUwdkZhM0dWVE0weEpCbURQeGhZRFVQaTdTX2xoVnFCZ2F3SnpWMXlhZzM5clVEQUtxUkUtZjNyRC1vdzQzVzdjYmQ0?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoaWJRYWE2a3hkWWZsVm96OHFMRXUwdkZhM0dWVE0weEpCbURQeGhZRFVQaTdTX2xoVnFCZ2F3SnpWMXlhZzM5clVEQUtxUkUtZjNyRC1vdzQzVzdjYmQ0?oc=5" target="_blank" onclick="event.stopPropagation();">Harnessing artificial intelligence to advance CRISPR-based genome editing technologies</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="Nature" class="news-favicon">
-                                <a href="https://www.nature.com" target="_blank" onclick="event.stopPropagation();">Nature</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763473668.0"></span>
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="2025-11-21T01:29:05Z"></span>
                             </div>
                             
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHZQOEFzR3dYQXhGRFE2ZUNjTG9sNXVhaTdQeF9qMDFwOXl0UEM0bnJ1aWdxRXBpNDlhbWZBc0cycXFyNE53T1V1eGp4Z003RFhfYkpHTnBJTW5wNUZRY0xzTmtUM1FZS3dXdUtkcFlzbVc3ZEFPMzg1OG1CREt4cXlDUXo?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHZQOEFzR3dYQXhGRFE2ZUNjTG9sNXVhaTdQeF9qMDFwOXl0UEM0bnJ1aWdxRXBpNDlhbWZBc0cycXFyNE53T1V1eGp4Z003RFhfYkpHTnBJTW5wNUZRY0xzTmtUM1FZS3dXdUtkcFlzbVc3ZEFPMzg1OG1CREt4cXlDUXo?oc=5" target="_blank" onclick="event.stopPropagation();">Artificial Intelligence Solutions</a>
+                <div class="carousel-card" onclick="window.open('https://github.com/arc53/DocsGPT', '_blank')">
+                    <div class="repo-name">
+                        <a href="https://github.com/arc53/DocsGPT" target="_blank" onclick="event.stopPropagation();">arc53/DocsGPT</a>
                     </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
+                    
+                    <div class="repo-description">
+                        Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
+                    </div>
+                    
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
                             
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fiercehealthcare.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="Fierce Healthcare" class="news-favicon">
-                                <a href="https://www.fiercehealthcare.com" target="_blank" onclick="event.stopPropagation();">Fierce Healthcare</a>
-                                
-                            </div>
+                            <span class="repo-tag">Python</span>
+                            
+                            
+                            <span class="repo-tag">agent-builder</span>
+                            
+                            <span class="repo-tag">agents</span>
+                            
+                            <span class="repo-tag">ai</span>
                             
                         </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763577752.0"></span>
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ 17.4k</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">1.9k</span>
                             </div>
                             
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5" target="_blank" onclick="event.stopPropagation();">The A.I. Boom Has Found Another Gear. Why Can’t People Shake Their Worries?</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="The New York Times" class="news-favicon">
-                                <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763674602.0"></span>
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="2025-11-21T00:36:14Z"></span>
                             </div>
                             
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVNnd1VXd2FaS0xrQnkxX2ZVTEc1YnpzNmxfY18wZlhWT2FkMk5UaEI3dzd0aFJVUl9EOGVya3pSN0ZsNUVLOS0ySUVBVHRmNndwazVIWkN5d2hZenI5Si1naEtxYUplZXFfS1JSd2Q4dWVnR196dy1zc05QeVkwZnIyVkl1a2YwNm1CbjZQYUJ0WS14Z3pUT1JVWGNXdVpSaFd4RnY1VHVKaVRmRXRldQ?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVNnd1VXd2FaS0xrQnkxX2ZVTEc1YnpzNmxfY18wZlhWT2FkMk5UaEI3dzd0aFJVUl9EOGVya3pSN0ZsNUVLOS0ySUVBVHRmNndwazVIWkN5d2hZenI5Si1naEtxYUplZXFfS1JSd2Q4dWVnR196dy1zc05QeVkwZnIyVkl1a2YwNm1CbjZQYUJ0WS14Z3pUT1JVWGNXdVpSaFd4RnY1VHVKaVRmRXRldQ?oc=5" target="_blank" onclick="event.stopPropagation();">Don’t blindly trust everything AI tools say, warns Alphabet boss</a>
+                <div class="carousel-card" onclick="window.open('https://github.com/neuml/txtai', '_blank')">
+                    <div class="repo-name">
+                        <a href="https://github.com/neuml/txtai" target="_blank" onclick="event.stopPropagation();">neuml/txtai</a>
                     </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
+                    
+                    <div class="repo-description">
+                        💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
+                    </div>
+                    
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
                             
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="The Guardian" class="news-favicon">
-                                <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                
+                            <span class="repo-tag">Python</span>
+                            
+                            
+                            <span class="repo-tag">ai</span>
+                            
+                            <span class="repo-tag">artificial-intelligence</span>
+                            
+                            <span class="repo-tag">embeddings</span>
+                            
+                        </div>
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ 11.8k</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">759</span>
+                            </div>
+                            
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="2025-11-21T00:04:44Z"></span>
                             </div>
                             
                         </div>
-                        <div class="news-meta-line">
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://github.com/tensorzero/tensorzero', '_blank')">
+                    <div class="repo-name">
+                        <a href="https://github.com/tensorzero/tensorzero" target="_blank" onclick="event.stopPropagation();">tensorzero/tensorzero</a>
+                    </div>
+                    
+                    <div class="repo-description">
+                        TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+                    </div>
+                    
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
                             
-                            <div class="news-date">
-                                <span data-timestamp="1763454720.0"></span>
+                            <span class="repo-tag">Rust</span>
+                            
+                            
+                            <span class="repo-tag">ai</span>
+                            
+                            <span class="repo-tag">ai-engineering</span>
+                            
+                            <span class="repo-tag">anthropic</span>
+                            
+                        </div>
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ 10.6k</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">729</span>
+                            </div>
+                            
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="2025-11-21T00:09:19Z"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://github.com/Netflix/metaflow', '_blank')">
+                    <div class="repo-name">
+                        <a href="https://github.com/Netflix/metaflow" target="_blank" onclick="event.stopPropagation();">Netflix/metaflow</a>
+                    </div>
+                    
+                    <div class="repo-description">
+                        Build, Manage and Deploy AI/ML Systems
+                    </div>
+                    
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
+                            
+                            <span class="repo-tag">Python</span>
+                            
+                            
+                            <span class="repo-tag">agents</span>
+                            
+                            <span class="repo-tag">ai</span>
+                            
+                            <span class="repo-tag">aws</span>
+                            
+                        </div>
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ 9.6k</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">933</span>
+                            </div>
+                            
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="2025-11-21T00:57:10Z"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://github.com/bentoml/BentoML', '_blank')">
+                    <div class="repo-name">
+                        <a href="https://github.com/bentoml/BentoML" target="_blank" onclick="event.stopPropagation();">bentoml/BentoML</a>
+                    </div>
+                    
+                    <div class="repo-description">
+                        The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
+                    </div>
+                    
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
+                            
+                            <span class="repo-tag">Python</span>
+                            
+                            
+                            <span class="repo-tag">ai-inference</span>
+                            
+                            <span class="repo-tag">deep-learning</span>
+                            
+                            <span class="repo-tag">generative-ai</span>
+                            
+                        </div>
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ 8.2k</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">889</span>
+                            </div>
+                            
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="2025-11-21T00:45:35Z"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://github.com/evidentlyai/evidently', '_blank')">
+                    <div class="repo-name">
+                        <a href="https://github.com/evidentlyai/evidently" target="_blank" onclick="event.stopPropagation();">evidentlyai/evidently</a>
+                    </div>
+                    
+                    <div class="repo-description">
+                        Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.
+                    </div>
+                    
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
+                            
+                            <span class="repo-tag">Jupyter Notebook</span>
+                            
+                            
+                            <span class="repo-tag">data-drift</span>
+                            
+                            <span class="repo-tag">data-quality</span>
+                            
+                            <span class="repo-tag">data-science</span>
+                            
+                        </div>
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ 6.8k</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">749</span>
+                            </div>
+                            
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="2025-11-21T00:33:27Z"></span>
                             </div>
                             
                         </div>
@@ -1011,12 +1931,14 @@
                 
 
                 <!-- View All button at end of carousel -->
-                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
-                     onclick="window.open('https://news.google.com/search?q=artificial intelligence', '_blank')">
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(35, 134, 54, 0.05); border-color: #238636;"
+                     onclick="window.open('https://github.com/trending', '_blank')">
                     <div style="text-align: center;">
-                        <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
-                        <div style="color: var(--primary-color); font-weight: 500; font-size: 0.9rem;">View All</div>
-                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on Google News</div>
+                        <svg height="48" width="48" viewBox="0 0 16 16" style="margin-bottom: 8px; fill: #238636;">
+                            <path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
+                        </svg>
+                        <div style="color: #238636; font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on GitHub</div>
                     </div>
                 </div>
             </div>
@@ -1029,7 +1951,1062 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-20T23:52:27.906207+00:00">Updated 2025-11-20T23:52:27.906207+00:00</small>
+        <small data-timestamp="2025-11-21T01:31:36.647308+00:00">Updated 2025-11-21T01:31:36.647308+00:00</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->
+        
+        <style>
+/* HuggingFace Papers-specific card styling */
+.widget-huggingface-papers .carousel-card {
+    border-left: 3px solid #ff9d00;
+}
+
+.widget-huggingface-papers .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(255, 157, 0, 0.2);
+}
+
+.widget-huggingface-papers .paper-title {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 8px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: calc(0.95rem * 1.4 * 3);
+}
+
+.widget-huggingface-papers .paper-title a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-huggingface-papers .paper-title a:hover {
+    color: #ff9d00;
+}
+
+.widget-huggingface-papers .paper-authors {
+    font-size: 0.75rem;
+    color: #9ca3af;
+    margin-bottom: 8px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.widget-huggingface-papers .paper-summary {
+    font-size: 0.72rem;
+    color: #9ca3af;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1;
+}
+
+.widget-huggingface-papers .paper-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+}
+
+.widget-huggingface-papers .paper-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.widget-huggingface-papers .paper-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    white-space: nowrap;
+}
+
+.widget-huggingface-papers .paper-link {
+    color: #60a5fa;
+    text-decoration: none;
+    font-size: 0.7rem;
+}
+
+.widget-huggingface-papers .paper-link:hover {
+    text-decoration: underline;
+}
+
+.widget-huggingface-papers .paper-stats {
+    color: #ff9d00;
+    font-weight: 500;
+}
+</style>
+
+<div class="widget widget-huggingface-papers widget-full">
+    <div class="widget-header">
+        <h3>HuggingFace Papers</h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            
+            🔥 Trending
+            
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="hf-papers-carousel">
+                
+                <div class="carousel-card" onclick="window.open('https://arxiv.org/abs/2511.13720', '_blank')">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2511.13720" target="_blank" onclick="event.stopPropagation();">Back to Basics: Let Denoising Generative Models Denoise</a>
+                    </div>
+                    <div class="paper-authors">
+                        Tianhong Li, Kaiming He
+                    </div>
+                    <div class="paper-summary">
+                        Today's denoising diffusion models do not "denoise" in the classical sense, i.e., they do not directly predict clean images. Rather, the neural networks predict noise or a noised quantity. In this paper, we suggest that predicting clean data and predicting noised quantities are fundamentally different. According to the manifold assumption, natural data should lie on a low-dimensional manifold, whereas noised quantities do not. With this assumption, we advocate for models that directly predict clean data, which allows apparently under-capacity networks to operate effectively in very high-dimensional spaces. We show that simple, large-patch Transformers on pixels can be strong generative models: using no tokenizer, no pre-training, and no extra loss. Our approach is conceptually nothing more than "Just image Transformers", or JiT, as we call it. We report competitive results using JiT with large patch sizes of 16 and 32 on ImageNet at resolutions of 256 and 512, where predicting high-dimensional noised quantities can fail catastrophically. With our networks mapping back to the basics of the manifold, our research goes back to basics and pursues a self-contained paradigm for Transformer-based diffusion on raw natural data.
+                    </div>
+                    <div class="paper-meta">
+                        <div class="paper-meta-line">
+                            <div class="paper-meta-item">
+                                <span class="paper-stats">▲ 26</span>
+                            </div>
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">💬 1</span>
+                            </div>
+                            
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">⭐ 906</span>
+                            </div>
+                            
+                        </div>
+                        <div class="paper-meta-line">
+                            
+                            <div class="paper-meta-item">
+                                <span class="paper-age" data-timestamp="2025-11-17T13:59:57.000Z"></span>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://github.com/LTH14/JiT" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    💻 code
+                                </a>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://arxiv.org/abs/2511.10647', '_blank')">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2511.10647" target="_blank" onclick="event.stopPropagation();">Depth Anything 3: Recovering the Visual Space from Any Views</a>
+                    </div>
+                    <div class="paper-authors">
+                        Haotong Lin, Sili Chen, Junhao Liew et al. (8 authors)
+                    </div>
+                    <div class="paper-summary">
+                        We present Depth Anything 3 (DA3), a model that predicts spatially consistent geometry from an arbitrary number of visual inputs, with or without known camera poses. In pursuit of minimal modeling, DA3 yields two key insights: a single plain transformer (e.g., vanilla DINO encoder) is sufficient as a backbone without architectural specialization, and a singular depth-ray prediction target obviates the need for complex multi-task learning. Through our teacher-student training paradigm, the model achieves a level of detail and generalization on par with Depth Anything 2 (DA2). We establish a new visual geometry benchmark covering camera pose estimation, any-view geometry and visual rendering. On this benchmark, DA3 sets a new state-of-the-art across all tasks, surpassing prior SOTA VGGT by an average of 44.3% in camera pose accuracy and 25.1% in geometric accuracy. Moreover, it outperforms DA2 in monocular depth estimation. All models are trained exclusively on public academic datasets.
+                    </div>
+                    <div class="paper-meta">
+                        <div class="paper-meta-line">
+                            <div class="paper-meta-item">
+                                <span class="paper-stats">▲ 75</span>
+                            </div>
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">💬 4</span>
+                            </div>
+                            
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">⭐ 2,424</span>
+                            </div>
+                            
+                        </div>
+                        <div class="paper-meta-line">
+                            
+                            <div class="paper-meta-item">
+                                <span class="paper-age" data-timestamp="2025-11-13T13:59:53.000Z"></span>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://github.com/ByteDance-Seed/depth-anything-3" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    💻 code
+                                </a>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://depth-anything-3.github.io/" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    🔗 project
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://arxiv.org/abs/2511.15586', '_blank')">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2511.15586" target="_blank" onclick="event.stopPropagation();">MHR: Momentum Human Rig</a>
+                    </div>
+                    <div class="paper-authors">
+                        Aaron Ferguson, Ahmed A. A. Osman, Berta Bescos et al. (41 authors)
+                    </div>
+                    <div class="paper-summary">
+                        We present MHR, a parametric human body model that combines the decoupled skeleton/shape paradigm of ATLAS with a flexible, modern rig and pose corrective system inspired by the Momentum library. Our model enables expressive, anatomically plausible human animation, supporting non-linear pose correctives, and is designed for robust integration in AR/VR and graphics pipelines.
+                    </div>
+                    <div class="paper-meta">
+                        <div class="paper-meta-line">
+                            <div class="paper-meta-item">
+                                <span class="paper-stats">▲ 7</span>
+                            </div>
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">💬 0</span>
+                            </div>
+                            
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">⭐ 191</span>
+                            </div>
+                            
+                        </div>
+                        <div class="paper-meta-line">
+                            
+                            <div class="paper-meta-item">
+                                <span class="paper-age" data-timestamp="2025-11-19T11:18:02.000Z"></span>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://github.com/facebookresearch/MHR" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    💻 code
+                                </a>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://arxiv.org/abs/2511.13648', '_blank')">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2511.13648" target="_blank" onclick="event.stopPropagation();">PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image</a>
+                    </div>
+                    <div class="paper-authors">
+                        Ziang Cao, Fangzhou Hong, Zhaoxi Chen et al. (5 authors)
+                    </div>
+                    <div class="paper-summary">
+                        3D modeling is shifting from static visual representations toward physical, articulated assets that can be directly used in simulation and interaction. However, most existing 3D generation methods overlook key physical and articulation properties, thereby limiting their utility in embodied AI. To bridge this gap, we introduce PhysX-Anything, the first simulation-ready physical 3D generative framework that, given a single in-the-wild image, produces high-quality sim-ready 3D assets with explicit geometry, articulation, and physical attributes. Specifically, we propose the first VLM-based physical 3D generative model, along with a new 3D representation that efficiently tokenizes geometry. It reduces the number of tokens by 193x, enabling explicit geometry learning within standard VLM token budgets without introducing any special tokens during fine-tuning and significantly improving generative quality. In addition, to overcome the limited diversity of existing physical 3D datasets, we construct a new dataset, PhysX-Mobility, which expands the object categories in prior physical 3D datasets by over 2x and includes more than 2K common real-world objects with rich physical annotations. Extensive experiments on PhysX-Mobility and in-the-wild images demonstrate that PhysX-Anything delivers strong generative performance and robust generalization. Furthermore, simulation-based experiments in a MuJoCo-style environment validate that our sim-ready assets can be directly used for contact-rich robotic policy learning. We believe PhysX-Anything can substantially empower a broad range of downstream applications, especially in embodied AI and physics-based simulation.
+                    </div>
+                    <div class="paper-meta">
+                        <div class="paper-meta-line">
+                            <div class="paper-meta-item">
+                                <span class="paper-stats">▲ 43</span>
+                            </div>
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">💬 2</span>
+                            </div>
+                            
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">⭐ 361</span>
+                            </div>
+                            
+                        </div>
+                        <div class="paper-meta-line">
+                            
+                            <div class="paper-meta-item">
+                                <span class="paper-age" data-timestamp="2025-11-17T12:59:53.000Z"></span>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://github.com/ziangcao0312/PhysX-Anything" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    💻 code
+                                </a>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://physx-anything.github.io/" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    🔗 project
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://arxiv.org/abs/2410.05779', '_blank')">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2410.05779" target="_blank" onclick="event.stopPropagation();">LightRAG: Simple and Fast Retrieval-Augmented Generation</a>
+                    </div>
+                    <div class="paper-authors">
+                        Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)
+                    </div>
+                    <div class="paper-summary">
+                        Retrieval-Augmented Generation (RAG) systems enhance large language models
+(LLMs) by integrating external knowledge sources, enabling more accurate and
+contextually relevant responses tailored to user needs. However, existing RAG
+systems have significant limitations, including reliance on flat data
+representations and inadequate contextual awareness, which can lead to
+fragmented answers that fail to capture complex inter-dependencies. To address
+these challenges, we propose LightRAG, which incorporates graph structures into
+text indexing and retrieval processes. This innovative framework employs a
+dual-level retrieval system that enhances comprehensive information retrieval
+from both low-level and high-level knowledge discovery. Additionally, the
+integration of graph structures with vector representations facilitates
+efficient retrieval of related entities and their relationships, significantly
+improving response times while maintaining contextual relevance. This
+capability is further enhanced by an incremental update algorithm that ensures
+the timely integration of new data, allowing the system to remain effective and
+responsive in rapidly changing data environments. Extensive experimental
+validation demonstrates considerable improvements in retrieval accuracy and
+efficiency compared to existing approaches. We have made our LightRAG
+open-source and available at the link: https://github.com/HKUDS/LightRAG.
+                    </div>
+                    <div class="paper-meta">
+                        <div class="paper-meta-line">
+                            <div class="paper-meta-item">
+                                <span class="paper-stats">▲ 16</span>
+                            </div>
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">💬 0</span>
+                            </div>
+                            
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">⭐ 23,906</span>
+                            </div>
+                            
+                        </div>
+                        <div class="paper-meta-line">
+                            
+                            <div class="paper-meta-item">
+                                <span class="paper-age" data-timestamp="2024-10-08T04:00:12.000Z"></span>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://github.com/hkuds/lightrag" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    💻 code
+                                </a>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://arxiv.org/abs/2510.14528', '_blank')">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2510.14528" target="_blank" onclick="event.stopPropagation();">PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B
+  Ultra-Compact Vision-Language Model</a>
+                    </div>
+                    <div class="paper-authors">
+                        Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)
+                    </div>
+                    <div class="paper-summary">
+                        In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model
+tailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a
+compact yet powerful vision-language model (VLM) that integrates a NaViT-style
+dynamic resolution visual encoder with the ERNIE-4.5-0.3B language model to
+enable accurate element recognition. This innovative model efficiently supports
+109 languages and excels in recognizing complex elements (e.g., text, tables,
+formulas, and charts), while maintaining minimal resource consumption. Through
+comprehensive evaluations on widely used public benchmarks and in-house
+benchmarks, PaddleOCR-VL achieves SOTA performance in both page-level document
+parsing and element-level recognition. It significantly outperforms existing
+solutions, exhibits strong competitiveness against top-tier VLMs, and delivers
+fast inference speeds. These strengths make it highly suitable for practical
+deployment in real-world scenarios.
+                    </div>
+                    <div class="paper-meta">
+                        <div class="paper-meta-line">
+                            <div class="paper-meta-item">
+                                <span class="paper-stats">▲ 94</span>
+                            </div>
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">💬 6</span>
+                            </div>
+                            
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">⭐ 64,428</span>
+                            </div>
+                            
+                        </div>
+                        <div class="paper-meta-line">
+                            
+                            <div class="paper-meta-item">
+                                <span class="paper-age" data-timestamp="2025-10-16T06:18:48.000Z"></span>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    💻 code
+                                </a>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://arxiv.org/abs/2511.11793', '_blank')">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2511.11793" target="_blank" onclick="event.stopPropagation();">MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling</a>
+                    </div>
+                    <div class="paper-authors">
+                        MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)
+                    </div>
+                    <div class="paper-summary">
+                        We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
+                    </div>
+                    <div class="paper-meta">
+                        <div class="paper-meta-line">
+                            <div class="paper-meta-item">
+                                <span class="paper-stats">▲ 142</span>
+                            </div>
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">💬 4</span>
+                            </div>
+                            
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">⭐ 944</span>
+                            </div>
+                            
+                        </div>
+                        <div class="paper-meta-line">
+                            
+                            <div class="paper-meta-item">
+                                <span class="paper-age" data-timestamp="2025-11-14T13:52:07.000Z"></span>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://github.com/MiroMindAI/MiroThinker" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    💻 code
+                                </a>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://dr.miromind.ai/" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    🔗 project
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://arxiv.org/abs/2510.22543', '_blank')">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2510.22543" target="_blank" onclick="event.stopPropagation();">FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable
+  Reasoning</a>
+                    </div>
+                    <div class="paper-authors">
+                        Yuyang Ding, Chi Zhang, Juntao Li et al. (6 authors)
+                    </div>
+                    <div class="paper-summary">
+                        Reinforcement learning with verifiable rewards (RLVR) has emerged as a
+promising paradigm for enhancing the reasoning capabilities of large language
+models (LLMs). In this context, models explore reasoning trajectories and
+exploit rollouts with correct answers as positive signals for policy
+optimization. However, these rollouts might involve flawed patterns such as
+answer-guessing and jump-in-reasoning. Such flawed-positive rollouts are
+rewarded identically to fully correct ones, causing policy models to
+internalize these unreliable reasoning patterns. In this work, we first conduct
+a systematic study of flawed-positive rollouts in RL and find that they enable
+rapid capability gains during the early optimization stage, while constraining
+reasoning capability later by reinforcing unreliable patterns. Building on
+these insights, we propose Flawed-Aware Policy Optimization (FAPO), which
+presents a parameter-free reward penalty for flawed-positive rollouts, enabling
+the policy to leverage them as useful shortcuts in the warm-up stage, securing
+stable early gains, while gradually shifting optimization toward reliable
+reasoning in the later refinement stage. To accurately and comprehensively
+detect flawed-positive rollouts, we introduce a generative reward model (GenRM)
+with a process-level reward that precisely localizes reasoning errors.
+Experiments show that FAPO is effective in broad domains, improving outcome
+correctness, process reliability, and training stability without increasing the
+token budget.
+                    </div>
+                    <div class="paper-meta">
+                        <div class="paper-meta-line">
+                            <div class="paper-meta-item">
+                                <span class="paper-stats">▲ 8</span>
+                            </div>
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">💬 1</span>
+                            </div>
+                            
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">⭐ 16,206</span>
+                            </div>
+                            
+                        </div>
+                        <div class="paper-meta-line">
+                            
+                            <div class="paper-meta-item">
+                                <span class="paper-age" data-timestamp="2025-10-26T01:49:38.000Z"></span>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://github.com/volcengine/verl/tree/main/recipe/fapo" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    💻 code
+                                </a>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://fapo-rl.github.io/" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    🔗 project
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://arxiv.org/abs/2511.14993', '_blank')">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2511.14993" target="_blank" onclick="event.stopPropagation();">Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation</a>
+                    </div>
+                    <div class="paper-authors">
+                        Vladimir Arkhipkin, Vladimir Korviakov, Nikolai Gerasimenko et al. (25 authors)
+                    </div>
+                    <div class="paper-summary">
+                        This report introduces Kandinsky 5.0, a family of state-of-the-art foundation models for high-resolution image and 10-second video synthesis. The framework comprises three core line-up of models: Kandinsky 5.0 Image Lite - a line-up of 6B parameter image generation models, Kandinsky 5.0 Video Lite - a fast and lightweight 2B parameter text-to-video and image-to-video models, and Kandinsky 5.0 Video Pro - 19B parameter models that achieves superior video generation quality. We provide a comprehensive review of the data curation lifecycle - including collection, processing, filtering and clustering - for the multi-stage training pipeline that involves extensive pre-training and incorporates quality-enhancement techniques such as self-supervised fine-tuning (SFT) and reinforcement learning (RL)-based post-training. We also present novel architectural, training, and inference optimizations that enable Kandinsky 5.0 to achieve high generation speeds and state-of-the-art performance across various tasks, as demonstrated by human evaluation. As a large-scale, publicly available generative framework, Kandinsky 5.0 leverages the full potential of its pre-training and subsequent stages to be adapted for a wide range of generative applications. We hope that this report, together with the release of our open-source code and training checkpoints, will substantially advance the development and accessibility of high-quality generative models for the research community.
+                    </div>
+                    <div class="paper-meta">
+                        <div class="paper-meta-line">
+                            <div class="paper-meta-item">
+                                <span class="paper-stats">▲ 126</span>
+                            </div>
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">💬 4</span>
+                            </div>
+                            
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">⭐ 260</span>
+                            </div>
+                            
+                        </div>
+                        <div class="paper-meta-line">
+                            
+                            <div class="paper-meta-item">
+                                <span class="paper-age" data-timestamp="2025-11-18T19:23:22.000Z"></span>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://github.com/kandinskylab/kandinsky-5" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    💻 code
+                                </a>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://kandinskylab.ai/" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    🔗 project
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://arxiv.org/abs/2511.09611', '_blank')">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2511.09611" target="_blank" onclick="event.stopPropagation();">MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation</a>
+                    </div>
+                    <div class="paper-authors">
+                        Ye Tian, Ling Yang, Jiongfan Yang et al. (13 authors)
+                    </div>
+                    <div class="paper-summary">
+                        While thinking-aware generation aims to improve performance on complex tasks, we identify a critical failure mode where existing sequential, autoregressive approaches can paradoxically degrade performance due to error propagation. To systematically analyze this issue, we propose ParaBench, a new benchmark designed to evaluate both text and image output modalities. Our analysis using ParaBench reveals that this performance degradation is strongly correlated with poor alignment between the generated reasoning and the final image. To resolve this, we propose a parallel multimodal diffusion framework, MMaDA-Parallel, that enables continuous, bidirectional interaction between text and images throughout the entire denoising trajectory. MMaDA-Parallel is trained with supervised finetuning and then further optimized by Parallel Reinforcement Learning (ParaRL), a novel strategy that applies semantic rewards along the trajectory to enforce cross-modal consistency. Experiments validate that our model significantly improves cross-modal alignment and semantic consistency, achieving a 6.9\% improvement in Output Alignment on ParaBench compared to the state-of-the-art model, Bagel, establishing a more robust paradigm for thinking-aware image synthesis. Our code is open-sourced at https://github.com/tyfeld/MMaDA-Parallel
+                    </div>
+                    <div class="paper-meta">
+                        <div class="paper-meta-line">
+                            <div class="paper-meta-item">
+                                <span class="paper-stats">▲ 61</span>
+                            </div>
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">💬 3</span>
+                            </div>
+                            
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">⭐ 229</span>
+                            </div>
+                            
+                        </div>
+                        <div class="paper-meta-line">
+                            
+                            <div class="paper-meta-item">
+                                <span class="paper-age" data-timestamp="2025-11-12T13:58:21.000Z"></span>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://github.com/tyfeld/MMaDA-Parallel" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    💻 code
+                                </a>
+                            </div>
+                            
+                            
+                            <div class="paper-meta-item">
+                                <a href="https://tyfeld.github.io/mmadaparellel.github.io/" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    🔗 project
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 157, 0, 0.05); border-color: #ff9d00;"
+                     onclick="window.open('https://huggingface.co/papers', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">📄</div>
+                        <div style="color: #ff9d00; font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on HuggingFace</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="2025-11-21T01:31:36.747260+00:00">Updated 2025-11-21T01:31:36.747260+00:00</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->
+        
+        <style>
+/* HuggingFace-specific card styling */
+.widget-huggingface-models .carousel-card {
+    border-left: 3px solid #ff9d00;
+}
+
+.widget-huggingface-models .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(255, 157, 0, 0.2);
+}
+
+.widget-huggingface-models .model-name {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 12px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1;
+}
+
+.widget-huggingface-models .model-name a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-huggingface-models .model-name a:hover {
+    color: #ff9d00;
+}
+
+.widget-huggingface-models .model-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+}
+
+.widget-huggingface-models .model-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.widget-huggingface-models .model-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    white-space: nowrap;
+}
+
+.widget-huggingface-models .model-tag {
+    background: rgba(255, 157, 0, 0.15);
+    color: #ff9d00;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    font-weight: 500;
+}
+
+.widget-huggingface-models .model-stats {
+    color: #9ca3af;
+    font-weight: 500;
+}
+</style>
+
+<div class="widget widget-huggingface-models widget-full">
+    <div class="widget-header">
+        <h3>HuggingFace Models</h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            🔥 Trending
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="hf-models-carousel">
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/facebook/sam3', '_blank')">
+                    <div class="model-name">
+                        <a href="https://huggingface.co/facebook/sam3" target="_blank" onclick="event.stopPropagation();">facebook/sam3</a>
+                    </div>
+                    <div class="model-meta">
+                        <div class="model-meta-line">
+                            
+                            <span class="model-tag">mask-generation</span>
+                            
+                            
+                            <span class="model-tag">859.9M</span>
+                            
+                        </div>
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-stats">⬇️ 4,858</span>
+                            </div>
+                            <div class="model-meta-item">
+                                <span class="model-stats">❤️ 291</span>
+                            </div>
+                        </div>
+                        
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-age" data-timestamp="2025-11-20T22:05:08.000Z"></span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/WeiboAI/VibeThinker-1.5B', '_blank')">
+                    <div class="model-name">
+                        <a href="https://huggingface.co/WeiboAI/VibeThinker-1.5B" target="_blank" onclick="event.stopPropagation();">WeiboAI/VibeThinker-1.5B</a>
+                    </div>
+                    <div class="model-meta">
+                        <div class="model-meta-line">
+                            
+                            <span class="model-tag">text-generation</span>
+                            
+                            
+                            <span class="model-tag">1.8B</span>
+                            
+                        </div>
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-stats">⬇️ 10,517</span>
+                            </div>
+                            <div class="model-meta-item">
+                                <span class="model-stats">❤️ 412</span>
+                            </div>
+                        </div>
+                        
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-age" data-timestamp="2025-11-15T05:18:10.000Z"></span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/moonshotai/Kimi-K2-Thinking', '_blank')">
+                    <div class="model-name">
+                        <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank" onclick="event.stopPropagation();">moonshotai/Kimi-K2-Thinking</a>
+                    </div>
+                    <div class="model-meta">
+                        <div class="model-meta-line">
+                            
+                            <span class="model-tag">text-generation</span>
+                            
+                            
+                        </div>
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-stats">⬇️ 177,029</span>
+                            </div>
+                            <div class="model-meta-item">
+                                <span class="model-stats">❤️ 1,328</span>
+                            </div>
+                        </div>
+                        
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-age" data-timestamp="2025-11-08T07:48:46.000Z"></span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/eigen-ai-labs/eigen-banana-qwen-image-edit', '_blank')">
+                    <div class="model-name">
+                        <a href="https://huggingface.co/eigen-ai-labs/eigen-banana-qwen-image-edit" target="_blank" onclick="event.stopPropagation();">eigen-ai-labs/eigen-banana-qwen-image-edit</a>
+                    </div>
+                    <div class="model-meta">
+                        <div class="model-meta-line">
+                            
+                            <span class="model-tag">text-to-image</span>
+                            
+                            
+                        </div>
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-stats">⬇️ 235</span>
+                            </div>
+                            <div class="model-meta-item">
+                                <span class="model-stats">❤️ 185</span>
+                            </div>
+                        </div>
+                        
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-age" data-timestamp="2025-11-16T04:54:03.000Z"></span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/maya-research/maya1', '_blank')">
+                    <div class="model-name">
+                        <a href="https://huggingface.co/maya-research/maya1" target="_blank" onclick="event.stopPropagation();">maya-research/maya1</a>
+                    </div>
+                    <div class="model-meta">
+                        <div class="model-meta-line">
+                            
+                            <span class="model-tag">text-to-speech</span>
+                            
+                            
+                            <span class="model-tag">3.3B</span>
+                            
+                        </div>
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-stats">⬇️ 35,150</span>
+                            </div>
+                            <div class="model-meta-item">
+                                <span class="model-stats">❤️ 709</span>
+                            </div>
+                        </div>
+                        
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-age" data-timestamp="2025-11-12T00:53:50.000Z"></span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/salakash/SamKash-Tolstoy', '_blank')">
+                    <div class="model-name">
+                        <a href="https://huggingface.co/salakash/SamKash-Tolstoy" target="_blank" onclick="event.stopPropagation();">salakash/SamKash-Tolstoy</a>
+                    </div>
+                    <div class="model-meta">
+                        <div class="model-meta-line">
+                            
+                            <span class="model-tag">text-generation</span>
+                            
+                            
+                        </div>
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-stats">⬇️ 2,510</span>
+                            </div>
+                            <div class="model-meta-item">
+                                <span class="model-stats">❤️ 279</span>
+                            </div>
+                        </div>
+                        
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-age" data-timestamp="2025-11-17T08:50:08.000Z"></span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/dx8152/Qwen-Edit-2509-Multiple-angles', '_blank')">
+                    <div class="model-name">
+                        <a href="https://huggingface.co/dx8152/Qwen-Edit-2509-Multiple-angles" target="_blank" onclick="event.stopPropagation();">dx8152/Qwen-Edit-2509-Multiple-angles</a>
+                    </div>
+                    <div class="model-meta">
+                        <div class="model-meta-line">
+                            
+                            <span class="model-tag">image-to-image</span>
+                            
+                            
+                        </div>
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-stats">⬇️ 77,367</span>
+                            </div>
+                            <div class="model-meta-item">
+                                <span class="model-stats">❤️ 706</span>
+                            </div>
+                        </div>
+                        
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-age" data-timestamp="2025-11-12T09:16:16.000Z"></span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/baidu/ERNIE-4.5-VL-28B-A3B-Thinking', '_blank')">
+                    <div class="model-name">
+                        <a href="https://huggingface.co/baidu/ERNIE-4.5-VL-28B-A3B-Thinking" target="_blank" onclick="event.stopPropagation();">baidu/ERNIE-4.5-VL-28B-A3B-Thinking</a>
+                    </div>
+                    <div class="model-meta">
+                        <div class="model-meta-line">
+                            
+                            <span class="model-tag">image-text-to-text</span>
+                            
+                            
+                            <span class="model-tag">29.7B</span>
+                            
+                        </div>
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-stats">⬇️ 21,090</span>
+                            </div>
+                            <div class="model-meta-item">
+                                <span class="model-stats">❤️ 492</span>
+                            </div>
+                        </div>
+                        
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-age" data-timestamp="2025-11-14T10:15:29.000Z"></span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/deepseek-ai/DeepSeek-OCR', '_blank')">
+                    <div class="model-name">
+                        <a href="https://huggingface.co/deepseek-ai/DeepSeek-OCR" target="_blank" onclick="event.stopPropagation();">deepseek-ai/DeepSeek-OCR</a>
+                    </div>
+                    <div class="model-meta">
+                        <div class="model-meta-line">
+                            
+                            <span class="model-tag">image-text-to-text</span>
+                            
+                            
+                            <span class="model-tag">3.3B</span>
+                            
+                        </div>
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-stats">⬇️ 5,107,434</span>
+                            </div>
+                            <div class="model-meta-item">
+                                <span class="model-stats">❤️ 2,783</span>
+                            </div>
+                        </div>
+                        
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-age" data-timestamp="2025-11-04T02:36:12.000Z"></span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/Supertone/supertonic', '_blank')">
+                    <div class="model-name">
+                        <a href="https://huggingface.co/Supertone/supertonic" target="_blank" onclick="event.stopPropagation();">Supertone/supertonic</a>
+                    </div>
+                    <div class="model-meta">
+                        <div class="model-meta-line">
+                            
+                            <span class="model-tag">text-to-speech</span>
+                            
+                            
+                        </div>
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-stats">⬇️ 85</span>
+                            </div>
+                            <div class="model-meta-item">
+                                <span class="model-stats">❤️ 112</span>
+                            </div>
+                        </div>
+                        
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-age" data-timestamp="2025-11-20T09:44:17.000Z"></span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 157, 0, 0.05); border-color: #ff9d00;"
+                     onclick="window.open('https://huggingface.co/models?sort=trending', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">🤗</div>
+                        <div style="color: #ff9d00; font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on HuggingFace</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="2025-11-21T01:31:36.818421+00:00">Updated 2025-11-21T01:31:36.818421+00:00</small>
     </div>
 </div>
 

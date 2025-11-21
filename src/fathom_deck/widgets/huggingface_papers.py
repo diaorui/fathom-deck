@@ -59,7 +59,10 @@ class HuggingfacePapersWidget(BaseWidget):
                     "title": item.get("title") or paper.get("title"),
                     "authors": author_str,
                     "summary": item.get("summary") or paper.get("summary", ""),
-                    "arxiv_url": f"https://arxiv.org/abs/{paper_id}",
+                    "ai_summary": paper.get("ai_summary", ""),  # Concise AI-generated summary
+                    "hf_url": f"https://huggingface.co/papers/{paper_id}",  # Primary link
+                    "arxiv_url": f"https://arxiv.org/abs/{paper_id}",  # Secondary link
+                    "thumbnail": item.get("thumbnail", ""),  # Paper preview image
                     "upvotes": paper.get("upvotes", 0),
                     "num_comments": item.get("numComments", 0),
                     "published_at": item.get("publishedAt") or paper.get("publishedAt"),

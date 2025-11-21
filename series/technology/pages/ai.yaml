@@ -26,6 +26,15 @@ widgets:
       site: x.com
       limit: 10
 
+  # ProductHunt AI products
+  - type: producthunt
+    size: full
+    update_minutes: 60
+    params:
+      title: ProductHunt
+      category: ai
+      limit: 10
+
   # HackerNews AI discussions
   - type: hackernews-posts
     size: full

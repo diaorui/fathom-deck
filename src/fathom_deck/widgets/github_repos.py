@@ -5,6 +5,7 @@ from typing import Any, Dict, List
 
 from ..core.base_widget import BaseWidget
 from ..core.http_cache import get_http_client
+from ..core.url_metadata import get_url_metadata_extractor
 
 
 class GithubReposWidget(BaseWidget):
@@ -61,6 +62,9 @@ class GithubReposWidget(BaseWidget):
             }
             response = client.get(url, params=params, headers=headers, response_type="json")
 
+            # Get metadata extractor for preview images
+            metadata_extractor = get_url_metadata_extractor()
+
             # Extract repos from response
             repos = []
             for repo in response.get("items", []):
@@ -78,12 +82,22 @@ class GithubReposWidget(BaseWidget):
                 else:
                     forks_display = str(forks)
 
+                # Extract metadata for preview image
+                repo_url = repo["html_url"]
+                metadata = metadata_extractor.extract(repo_url)
+                preview_image = metadata.image if metadata else None
+
+                # Get owner avatar from API
+                owner_avatar = repo["owner"].get("avatar_url", "")
+
                 repos.append({
                     "full_name": repo["full_name"],
                     "name": repo["name"],
                     "owner": repo["owner"]["login"],
+                    "owner_avatar": owner_avatar,
                     "description": repo.get("description", ""),
-                    "url": repo["html_url"],
+                    "url": repo_url,
+                    "preview_image": preview_image,
                     "stars": stars,
                     "stars_display": stars_display,
                     "forks": forks,

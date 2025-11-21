@@ -61,11 +61,49 @@
 .widget-huggingface-papers .paper-authors {
     font-size: 0.75rem;
     color: #9ca3af;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
     display: -webkit-box;
     -webkit-line-clamp: 1;
     -webkit-box-orient: vertical;
     overflow: hidden;
+}
+
+/* Organization line with avatar - always takes one line for consistent card height */
+.widget-huggingface-papers .paper-organization {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 8px;
+    overflow: hidden;
+    min-width: 0;
+    font-size: 0.75rem;
+    line-height: 1.2;
+    min-height: calc(0.75rem * 1.2); /* Reserve space even when empty */
+}
+
+.widget-huggingface-papers .org-avatar {
+    width: 18px;
+    height: 18px;
+    border-radius: 3px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.widget-huggingface-papers .paper-organization a {
+    color: #ff9d00;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-decoration: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    flex: 1;
+    min-width: 0;
+    line-height: 1.2;
+}
+
+.widget-huggingface-papers .paper-organization a:hover {
+    text-decoration: underline;
 }
 
 /* Rich description (AI summary or full summary) */
@@ -156,6 +194,18 @@
                         <!-- Authors -->
                         <div class="paper-authors">
                             {{ paper.authors }}
+                        </div>
+
+                        <!-- Organization (always reserve space for consistent card height) -->
+                        <div class="paper-organization">
+                            {% if paper.organization_fullname %}
+                                {% if paper.organization_avatar %}
+                                <img src="{{ paper.organization_avatar }}" alt="{{ paper.organization_fullname }}" class="org-avatar">
+                                {% endif %}
+                                <a href="https://huggingface.co/{{ paper.organization_name }}" target="_blank" onclick="event.stopPropagation();">
+                                    {{ paper.organization_fullname }}
+                                </a>
+                            {% endif %}
                         </div>
 
                         <!-- Rich description (AI summary if available, otherwise full summary) -->

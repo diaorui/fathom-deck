@@ -51,6 +51,16 @@ class HuggingfacePapersWidget(BaseWidget):
                 if len(authors) > 3:
                     author_str += f" et al. ({len(authors)} authors)"
 
+                # Extract organization info (if available)
+                org = item.get("organization") or paper.get("organization")
+                org_name = None
+                org_fullname = None
+                org_avatar = None
+                if org:
+                    org_name = org.get("name")
+                    org_fullname = org.get("fullname")
+                    org_avatar = org.get("avatar")
+
                 # Use root-level fields which have some duplicates
                 paper_id = paper["id"]
 
@@ -58,6 +68,9 @@ class HuggingfacePapersWidget(BaseWidget):
                     "id": paper_id,
                     "title": item.get("title") or paper.get("title"),
                     "authors": author_str,
+                    "organization_name": org_name,
+                    "organization_fullname": org_fullname,
+                    "organization_avatar": org_avatar,
                     "summary": item.get("summary") or paper.get("summary", ""),
                     "ai_summary": paper.get("ai_summary", ""),  # Concise AI-generated summary
                     "hf_url": f"https://huggingface.co/papers/{paper_id}",  # Primary link

@@ -52,6 +52,12 @@ class Cache:
         # For long/complex params, use hash to keep filename short
         param_str = "_".join(f"{k}={v}" for k, v in sorted(widget_params.items()))
 
+        # Sanitize filename - replace characters invalid on NTFS and other filesystems
+        # Invalid chars: " : < > | * ? \r \n
+        invalid_chars = [':', '"', '<', '>', '|', '*', '?', '\r', '\n']
+        for char in invalid_chars:
+            param_str = param_str.replace(char, '-')
+
         # If param string is too long (> 100 chars), use hash instead
         if len(param_str) > 100:
             param_hash = hashlib.md5(param_str.encode()).hexdigest()[:12]

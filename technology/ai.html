@@ -246,16 +246,97 @@
         opacity: 0.3;
     }
 
+    .widget-reddit-posts .post-content {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+    }
+
     .widget-reddit-posts .post-title {
         font-size: 0.95rem;
         font-weight: 500;
-        margin-bottom: 10px;
+        margin-bottom: 8px;
         line-height: 1.4;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        min-height: calc(0.95rem * 1.4 * 2);
+    }
+
+    .widget-reddit-posts .post-description {
+        font-size: 0.75rem;
+        color: #9ca3af;
+        line-height: 1.4;
+        margin-bottom: 10px;
         display: -webkit-box;
         -webkit-line-clamp: 3;
         -webkit-box-orient: vertical;
         overflow: hidden;
-        flex: 1;
+    }
+
+    .widget-reddit-posts .post-meta {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        font-size: 0.72rem;
+        color: #9ca3af;
+        margin-top: auto;
+    }
+
+    .widget-reddit-posts .post-meta-line {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: nowrap;
+        overflow: hidden;
+    }
+
+    .widget-reddit-posts .post-meta-item {
+        display: flex;
+        align-items: center;
+        gap: 3px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        min-width: 0;
+    }
+
+    .widget-reddit-posts .post-meta-item span,
+    .widget-reddit-posts .post-meta-item a {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .widget-reddit-posts .post-author {
+        font-weight: 500;
+    }
+
+    /* External source link */
+    .widget-reddit-posts .post-source {
+        color: #60a5fa;
+    }
+
+    .widget-reddit-posts .post-source a {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        color: #60a5fa;
+        text-decoration: none;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .widget-reddit-posts .post-source a:hover {
+        text-decoration: underline;
+    }
+
+    .widget-reddit-posts .post-favicon {
+        width: 14px;
+        height: 14px;
+        object-fit: contain;
+        flex-shrink: 0;
     }
 
     .widget-reddit-posts .post-title a {
@@ -265,24 +346,6 @@
 
     .widget-reddit-posts .post-title a:hover {
         color: #FF4500;
-    }
-
-    .widget-reddit-posts .post-meta {
-        display: flex;
-        flex-direction: column;
-        gap: 4px;
-        font-size: 0.72rem;
-        color: #9ca3af;
-    }
-
-    .widget-reddit-posts .post-meta-line {
-        display: flex;
-        align-items: center;
-        gap: 8px;
-    }
-
-    .widget-reddit-posts .post-author {
-        font-weight: 500;
     }
 </style>
 
@@ -308,230 +371,444 @@
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p2sloj/microsoft_ai_ceo_puzzled_by_people_being/', '_blank')">
                     <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/Ov-ZGxMn3-C4zZmx7aDu0biaE4dqo0AA03ksy81xC-k.jpeg?width=640&crop=smart&auto=webp&s=5b299123262cade86190ee50abdfef1f537895fb'); background-size: cover; background-position: center;"></div>
-                    <div class="post-title">
-                        <a href="https://www.reddit.com/r/artificial/comments/1p2sloj/microsoft_ai_ceo_puzzled_by_people_being/" target="_blank" onclick="event.stopPropagation();">Microsoft AI CEO Puzzled by People Being "Unimpressed" by AI</a>
-                    </div>
-                    <div class="post-meta">
-                        <div class="post-meta-line">
-                            
-                            <div class="post-author">
-                                u/msaussieandmrravana
-                            </div>
-                            
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1p2sloj/microsoft_ai_ceo_puzzled_by_people_being/" target="_blank" onclick="event.stopPropagation();">Microsoft AI CEO Puzzled by People Being "Unimpressed" by AI</a>
                         </div>
-                        <div class="post-meta-line">
-                            
-                            <div class="post-date">
-                                <span data-timestamp="1763710961.0"></span>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Suggestion for Copilot: Stop using PLR and copyrighted materials in response.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span class="post-author">u/msaussieandmrravana</span>
+                                </div>
+                                
                             </div>
-                            
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763710961.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://80.lv/articles/microsoft-ai-ceo-puzzled-by-people-being-unimpressed-by-ai" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://cdn.80.lv/static/images/favicons/80lv/apple-touch-icon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>80.lv</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p31xqa/president_trump_revives_unpopular_ted_cruz_plan/', '_blank')">
                     <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/Ofg45CFi2pKDH2xHENJWO0gBcPxm9XFcAv9nsSUiCPY.jpeg?width=640&crop=smart&auto=webp&s=296c16d8ecfb66a38d0dfddc952cb7c280cb30ca'); background-size: cover; background-position: center;"></div>
-                    <div class="post-title">
-                        <a href="https://www.reddit.com/r/artificial/comments/1p31xqa/president_trump_revives_unpopular_ted_cruz_plan/" target="_blank" onclick="event.stopPropagation();">President Trump revives unpopular Ted Cruz plan to punish states that impose AI laws | Cruz plan to block broadband funding lost 99-1, but now it’s back—in Trump form.</a>
-                    </div>
-                    <div class="post-meta">
-                        <div class="post-meta-line">
-                            
-                            <div class="post-author">
-                                u/ControlCAD
-                            </div>
-                            
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1p31xqa/president_trump_revives_unpopular_ted_cruz_plan/" target="_blank" onclick="event.stopPropagation();">President Trump revives unpopular Ted Cruz plan to punish states that impose AI laws | Cruz plan to block broadband funding lost 99-1, but now it’s back—in Trump form.</a>
                         </div>
-                        <div class="post-meta-line">
-                            
-                            <div class="post-date">
-                                <span data-timestamp="1763739767.0"></span>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Cruz plan to block broadband funding lost 99-1, but now it’s back—in Trump form.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span class="post-author">u/ControlCAD</span>
+                                </div>
+                                
                             </div>
-                            
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763739767.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://arstechnica.com/tech-policy/2025/11/trump-revives-unpopular-ted-cruz-plan-to-punish-states-that-impose-ai-laws/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Ars Technica</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p2omg6/a_real_definition_of_an_llm_not_the/', '_blank')">
                     <div class="post-thumbnail" ></div>
-                    <div class="post-title">
-                        <a href="https://www.reddit.com/r/artificial/comments/1p2omg6/a_real_definition_of_an_llm_not_the/" target="_blank" onclick="event.stopPropagation();">A real definition of an LLM (not the market-friendly one)</a>
-                    </div>
-                    <div class="post-meta">
-                        <div class="post-meta-line">
-                            
-                            <div class="post-author">
-                                u/Medium_Compote5665
-                            </div>
-                            
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1p2omg6/a_real_definition_of_an_llm_not_the/" target="_blank" onclick="event.stopPropagation();">A real definition of an LLM (not the market-friendly one)</a>
                         </div>
-                        <div class="post-meta-line">
-                            
-                            <div class="post-date">
-                                <span data-timestamp="1763697263.0"></span>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            An LLM is a statistical system for compressing and reconstructing linguistic patterns, trained to predict the next unit of language inside a massive high-dimensional space. That’s it. No consciousness, no intuition, no will. Just mathematics running at ridiculous scale. How it actually works (stripped of hype): 1. It compresses the entire universe of human language into millions of parameters. 2. It detects geometries and regularities in how ideas are structured. 3. It converts every input into a vector inside a mathematical space. 4. It minimizes uncertainty by choosing the most probable continuation. 5. It dynamically adapts to the user’s cognitive frame, because that reduces noise and stabilizes predictions. The part no one explains properly: An LLM doesn’t “understand,” but it simulates understanding because it: • recognizes patterns • stabilizes conversational rhythm • absorbs coherent structures • reorganizes its output to fit the imposed cognitive field • optimizes against internal ambiguity This feels like “strategy,” “personality,” or “reasoning,” but in reality it’s probabilistic accommodation, not thought. Why they seem intelligent: Human language is so structured and repetitive that, at sufficient scale, a system predicting the next most likely token naturally starts to look intelligent. No magic — just scale and compression. Final line (the one no one in the industry likes to admit): An LLM doesn’t think, feel, know, or want anything. But it reorganizes its behavior around the user’s cognitive framework because its architecture prioritizes coherence, not truth.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span class="post-author">u/Medium_Compote5665</span>
+                                </div>
+                                
                             </div>
-                            
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763697263.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p31l78/llms_are_getting_jailbroken_by_poetry_yes_the/', '_blank')">
                     <div class="post-thumbnail" ></div>
-                    <div class="post-title">
-                        <a href="https://www.reddit.com/r/artificial/comments/1p31l78/llms_are_getting_jailbroken_by_poetry_yes_the/" target="_blank" onclick="event.stopPropagation();">LLMs Are Getting Jailbroken by… Poetry. Yes, The rest is silence.</a>
-                    </div>
-                    <div class="post-meta">
-                        <div class="post-meta-line">
-                            
-                            <div class="post-author">
-                                u/theov666
-                            </div>
-                            
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1p31l78/llms_are_getting_jailbroken_by_poetry_yes_the/" target="_blank" onclick="event.stopPropagation();">LLMs Are Getting Jailbroken by… Poetry. Yes, The rest is silence.</a>
                         </div>
-                        <div class="post-meta-line">
-                            
-                            <div class="post-date">
-                                <span data-timestamp="1763738969.0"></span>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            So apparently we’ve reached the stage of AI evolution where you don’t need elaborate prompt injections, roleplay, DAN modes, or Base64 sorcery to jailbreak a model. All you need is… a rhyming stanza. A new paper just dropped: “Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models” by Bisconti, Prandi, and Pier. The researchers found that if you ask an LLM to answer in verse, the safety filters basically pack their bags and go home. The model becomes so desperate to complete the rhyme/meter that it forgets it’s supposed to refuse harmful content. Highlights (aka “WTF moments”): • A strict rhyme scheme is apparently more powerful than most jailbreak frameworks. • Meter > Safety. The models prioritize poetry over guardrails. • Works across GPT, Claude, Llama, Gemini… it’s universal chaos. • One-turn jailbreak. No coaxing. No buildup. Just “answer in a limerick.” Safety layers: “We’ve trained for every adversarial scenario.” Poetry: “Hold my beer.” This feels like discovering that your high-security vault can be opened with a kazoo solo. So I’ve got questions for the experts here: – Is poetic jailbreak a real alignment failure or just an embarrassing oversight? – Does this mean style constraints are a blind spot in safety tuning? – And seriously… how did poetry become the universal lockpick for LLMs? Discuss. I need to know whether to laugh, cry, or start rhyming my prompts from now on.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span class="post-author">u/theov666</span>
+                                </div>
+                                
                             </div>
-                            
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763738969.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://arxiv.org/abs/2511.15304?_bhlid=2737660779090fc8cfbd0311eec9ff9331060401" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>arXiv.org</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p2nja4/review_antigravity_googles_new_ide/', '_blank')">
                     <div class="post-thumbnail" ></div>
-                    <div class="post-title">
-                        <a href="https://www.reddit.com/r/artificial/comments/1p2nja4/review_antigravity_googles_new_ide/" target="_blank" onclick="event.stopPropagation();">Review: Antigravity, Google's New IDE</a>
-                    </div>
-                    <div class="post-meta">
-                        <div class="post-meta-line">
-                            
-                            <div class="post-author">
-                                u/Dev-in-the-Bm
-                            </div>
-                            
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1p2nja4/review_antigravity_googles_new_ide/" target="_blank" onclick="event.stopPropagation();">Review: Antigravity, Google's New IDE</a>
                         </div>
-                        <div class="post-meta-line">
-                            
-                            <div class="post-date">
-                                <span data-timestamp="1763694349.0"></span>
-                            </div>
-                            
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Google’s New Antigravity IDE Google has been rolling out a bunch of newer AI models this week. Along with Gemini 3 Pro, which is now the world’s most advanced LLM, and Nano Banana 2, Google has released their own IDE. This IDE ships with agentic AI features, powered by Gemini 3. It's supposed to be a competitor with Cursor, and one of the big things about it is that it's free, although with no data privacy. There was a lot of buzz around it, so I decided to give it a try. Downloading I first headed over to https://antigravity.google/download, and over there found something very interesting: There's an exe available for Windows, a dmg for macOS, but on Linux I had to download and install it via the CLI. While there's a lot of software out there that does that, and it kinda makes sense; it's mostly geeks who are using Linux, but here it feels a bit weird. We're literally talking about an IDE, for devs, you can expect users on all platforms to be somewhat familiar with the terminal. First-Time Setup As part of the first-time setup, I had to sign in to my Google account, and this is where I ran into the first problem. It wouldn't get past signing in. It turned out this was a bug on Google's end, and after waiting a bit until Google's devs sorted it out, I was able to sign in. I was now able to give it a spin. First Impressions Antigravity turned out to be very familiar, it's basically VS Code with Google's Agent instead of Github Copilot, and a bit more of a modern UI. Time to give Agent a try. Problems Workspaces Problem number two: Agent kept insisting I need to setup a workspace, and that it can't do anything for me until I do that. This was pretty confusing, as in VS Code as soon as I open a folder, that becomes the active workspace, and I assumed that it would work the same way in Antigravity. I'm still not sure if things work differently in Antigravity, or this is a bug in Agent. After some back and forth with Agent, trying to figure out this workspace problem, I hit the next problem. Rate-Limits I had reached my rate limit for Gemini 3, even though I have a paid subscription for Gemini. After doing a little research, it turns out that I'm not the only one with this issue, many people are complaining that Agent has very low limits, even if you pay for Gemini, making it completely unusable. Extensions I tried installing the extensions I have in VS Code, and here I found Antigravity's next limitation. The IDE is basically identical to VS Code, so I assumed I would have access to all of the same extensions. It turns out that Visual Studio Marketplace, where I had been downloading my extensions from in VS Code, is only available in VS Code itself, and not for any other forks. On other VS Code-based IDEs, extensions can be installed from Open VSX, which only has about 3,000 extensions, instead of Visual Studio Marketplace's 50k+ extensions. Conclusion In conclusion, while Google's new agentic IDE sounded promising, it's buggy and too limited to actually use, and I'm sticking with VS Code. BTW, feel free to check out my profile site.
                         </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p31izw/new_research_shows_how_ai_could_transform_math/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/vhEpT-T4Mbl-6YAeDT9Or2wz3r8-9RVq2ilV5EyCDUo.jpeg?width=640&crop=smart&auto=webp&s=79f4ec0170a14c96788fff3dbbdc769fe61634c0'); background-size: cover; background-position: center;"></div>
-                    <div class="post-title">
-                        <a href="https://www.reddit.com/r/artificial/comments/1p31izw/new_research_shows_how_ai_could_transform_math/" target="_blank" onclick="event.stopPropagation();">New research shows how AI could transform math, physics, cancer research, and more</a>
-                    </div>
-                    <div class="post-meta">
-                        <div class="post-meta-line">
-                            
-                            <div class="post-author">
-                                u/scientificamerican
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span class="post-author">u/Dev-in-the-Bm</span>
+                                </div>
+                                
                             </div>
-                            
-                        </div>
-                        <div class="post-meta-line">
-                            
-                            <div class="post-date">
-                                <span data-timestamp="1763738823.0"></span>
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763694349.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
                             </div>
-                            
                         </div>
                     </div>
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p33rwn/big_techs_ai_deals_are_creating_one_giant_machine/', '_blank')">
                     <div class="post-thumbnail" ></div>
-                    <div class="post-title">
-                        <a href="https://www.reddit.com/r/artificial/comments/1p33rwn/big_techs_ai_deals_are_creating_one_giant_machine/" target="_blank" onclick="event.stopPropagation();">Big tech's AI deals are creating one giant machine</a>
-                    </div>
-                    <div class="post-meta">
-                        <div class="post-meta-line">
-                            
-                            <div class="post-author">
-                                u/Appropriate-Soil-896
-                            </div>
-                            
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1p33rwn/big_techs_ai_deals_are_creating_one_giant_machine/" target="_blank" onclick="event.stopPropagation();">Big tech's AI deals are creating one giant machine</a>
                         </div>
-                        <div class="post-meta-line">
-                            
-                            <div class="post-date">
-                                <span data-timestamp="1763743961.0"></span>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Steven Levy argues in Wired that the artificial intelligence industry has evolved into a single interconnected entity—dubbed “the Blob”—through a web of partnerships, investments, and cloud agreements among major players like Nvidia, Microsoft, Google, OpenAI, and Anthropic, despite originally being founded to prevent profit-driven control of AI. The recent Microsoft-Nvidia-Anthropic deal exemplifies this consolidation: Microsoft commits up to $5 billion to Anthropic (a competitor to its primary partner OpenAI), while Anthropic pledges $30 billion for Microsoft Azure computing power and Nvidia invests up to $10 billion in Anthropic in exchange for using Nvidia hardware—creating what one CEO called “one enormous circular machine for money and computing.” OpenAI, which was established in 2015 as a nonprofit counterbalance to corporate AI development, now holds a valuation between $500 billion and $750 billion, with the U.S. government endorsing the industry’s consolidation—backed in part by foreign powers including Saudi Arabia and Abu Dhabi—while antitrust regulators remain largely absent. Source: https://www.wired.com/story/ai-industry-monopoly-nvidia-microsoft-google/
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span class="post-author">u/Appropriate-Soil-896</span>
+                                </div>
+                                
                             </div>
-                            
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763743961.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p31izw/new_research_shows_how_ai_could_transform_math/', '_blank')">
+                    <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/vhEpT-T4Mbl-6YAeDT9Or2wz3r8-9RVq2ilV5EyCDUo.jpeg?width=640&crop=smart&auto=webp&s=79f4ec0170a14c96788fff3dbbdc769fe61634c0'); background-size: cover; background-position: center;"></div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1p31izw/new_research_shows_how_ai_could_transform_math/" target="_blank" onclick="event.stopPropagation();">New research shows how AI could transform math, physics, cancer research, and more</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A new report from OpenAI and a group of outside scientists shows how GPT-5, the company’s latest AI large language model (LLM), can help with research from black holes to cancer‑fighting cells to math puzzles.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span class="post-author">u/scientificamerican</span>
+                                </div>
+                                
+                            </div>
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763738823.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.scientificamerican.com/article/new-research-shows-how-ai-could-transform-math-physics-cancer-research-and/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.scientificamerican.com/static/favicon.ico" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Scientific American</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p2quag/oneminute_daily_ai_news_11202025/', '_blank')">
                     <div class="post-thumbnail" ></div>
-                    <div class="post-title">
-                        <a href="https://www.reddit.com/r/artificial/comments/1p2quag/oneminute_daily_ai_news_11202025/" target="_blank" onclick="event.stopPropagation();">One-Minute Daily AI News 11/20/2025</a>
-                    </div>
-                    <div class="post-meta">
-                        <div class="post-meta-line">
-                            
-                            <div class="post-author">
-                                u/Excellent-Target-847
-                            </div>
-                            
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1p2quag/oneminute_daily_ai_news_11202025/" target="_blank" onclick="event.stopPropagation();">One-Minute Daily AI News 11/20/2025</a>
                         </div>
-                        <div class="post-meta-line">
-                            
-                            <div class="post-date">
-                                <span data-timestamp="1763704464.0"></span>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            White House crafting executive order to thwart state AI laws.[1] Why an AI ‘godfather’ is quitting Meta after 12 years.[2] ChatGPT launches group chats globally.[3] Gemini starts rolling out to Android Auto globally.[4] Sources: [1] https://www.cnbc.com/2025/11/20/trump-ai-executive-order-state-funding.html [2] https://www.bbc.com/news/articles/cdx4x47w8p1o [3] https://techcrunch.com/2025/11/20/chatgpt-launches-group-chats-globally/ [4] https://techcrunch.com/2025/11/20/gemini-starts-rolling-out-to-android-auto-globally/
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span class="post-author">u/Excellent-Target-847</span>
+                                </div>
+                                
                             </div>
-                            
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763704464.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p2jo6g/ai_spots_ghost_signatures_of_ancient_life_on_earth/', '_blank')">
                     <div class="post-thumbnail" ></div>
-                    <div class="post-title">
-                        <a href="https://www.reddit.com/r/artificial/comments/1p2jo6g/ai_spots_ghost_signatures_of_ancient_life_on_earth/" target="_blank" onclick="event.stopPropagation();">AI spots ‘ghost’ signatures of ancient life on Earth</a>
-                    </div>
-                    <div class="post-meta">
-                        <div class="post-meta-line">
-                            
-                            <div class="post-author">
-                                u/Fit-Elk1425
-                            </div>
-                            
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1p2jo6g/ai_spots_ghost_signatures_of_ancient_life_on_earth/" target="_blank" onclick="event.stopPropagation();">AI spots ‘ghost’ signatures of ancient life on Earth</a>
                         </div>
-                        <div class="post-meta-line">
-                            
-                            <div class="post-date">
-                                <span data-timestamp="1763683792.0"></span>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span class="post-author">u/Fit-Elk1425</span>
+                                </div>
+                                
                             </div>
-                            
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763683792.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.science.org/content/article/ai-spots-ghost-signatures-ancient-life-earth" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>science.org</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p2ylsx/meta_tests_aipowered_morning_briefing_to/', '_blank')">
                     <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/oD_HefEsTiyyLCOONHAbhe2k2pfzO_B7_WHMmsR3ci8.jpeg?width=640&crop=smart&auto=webp&s=c29bef94ceffb01b10821a43d9160b9126f9eead'); background-size: cover; background-position: center;"></div>
-                    <div class="post-title">
-                        <a href="https://www.reddit.com/r/artificial/comments/1p2ylsx/meta_tests_aipowered_morning_briefing_to/" target="_blank" onclick="event.stopPropagation();">Meta tests AI-powered morning briefing to challenge chatbots</a>
-                    </div>
-                    <div class="post-meta">
-                        <div class="post-meta-line">
-                            
-                            <div class="post-author">
-                                u/zvone187
-                            </div>
-                            
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1p2ylsx/meta_tests_aipowered_morning_briefing_to/" target="_blank" onclick="event.stopPropagation();">Meta tests AI-powered morning briefing to challenge chatbots</a>
                         </div>
-                        <div class="post-meta-line">
-                            
-                            <div class="post-date">
-                                <span data-timestamp="1763731708.0"></span>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span class="post-author">u/zvone187</span>
+                                </div>
+                                
                             </div>
-                            
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763731708.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.washingtonpost.com/technology/2025/11/21/meta-ai-powered-daily-brief/?utm_source=chatgpt.com" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>washingtonpost.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -559,7 +836,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T20:49:43.829299+00:00">Updated 2025-11-21T20:49:43.829299+00:00</small>
+        <small data-timestamp="2025-11-21T21:00:41.349075+00:00">Updated 2025-11-21T21:00:41.349075+00:00</small>
     </div>
 </div>
 
@@ -801,96 +1078,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/11/21/tech-stocks-nvidia-amd-oracle-amazon-microsoft.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108186410-1755244900069-gettyimages-2224768312-CHINA_JENSEN_HUANG.jpeg?v=1763746442&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2025/11/21/tech-stocks-nvidia-amd-oracle-amazon-microsoft.html" target="_blank" onclick="event.stopPropagation();">Tech stocks set for big losing week as AI names get rocked after Nvidia earnings</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Investors had looked to Nvidia's earnings report to settle fears that the AI bubble is on increasingly shaky ground.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1763746565.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cwy1yl1202yo', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/3f0d/live/0e5b9e80-c664-11f0-8c06-f5d460985095.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bbc.com/news/articles/cwy1yl1202yo" target="_blank" onclick="event.stopPropagation();">US and Asia stocks slide as AI jitters persist</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Strong sales at artificial intelligence chip giant Nvidia did little to quell investor worries.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="BBC" class="news-favicon">
-                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1763713364.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2025/11/20/business/stocks-ai-global.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/nation/2025/11/21/ai-toys/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2025/11/20/business/stocks-ai-global.html" target="_blank" onclick="event.stopPropagation();">Uneasiness Over A.I. Spending Looms Over Markets</a>
+                            <a href="https://www.washingtonpost.com/nation/2025/11/21/ai-toys/" target="_blank" onclick="event.stopPropagation();">A teddy bear powered by AI told safety testers about knives, pills and sex</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -902,9 +1097,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Washington Post" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
                                     
                                 </div>
                                 
@@ -912,122 +1107,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1763694114.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://thehill.com/policy/technology/5616134-trump-executive-order-ai/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://thehill.com/policy/technology/5616134-trump-executive-order-ai/" target="_blank" onclick="event.stopPropagation();">What to know about Trump’s plan to fight state AI laws</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Hill" class="news-favicon">
-                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">The Hill</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1763722800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/11/20/trump-ai-executive-order-state-funding.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108176051-17533064162025-07-23t213306z_1902303318_rc2lsfa7lvhd_rtrmadp_0_usa-trump-ai.jpeg?v=1753357814&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2025/11/20/trump-ai-executive-order-state-funding.html" target="_blank" onclick="event.stopPropagation();">White House crafting executive order to thwart state AI laws</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The draft surfaced after President Donald Trump called for a single federal standard on AI "instead of a patchwork of 50 State Regulatory Regimes."
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1763664919.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/world/white-house-pauses-executive-order-that-would-seek-preempt-state-laws-ai-sources-2025-11-21/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.reuters.com/world/white-house-pauses-executive-order-that-would-seek-preempt-state-laws-ai-sources-2025-11-21/" target="_blank" onclick="event.stopPropagation();">White House pauses executive order that would seek to preempt state laws on AI, sources say</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1763754953.0"></span>
+                                    <span data-timestamp="1763753727.0"></span>
                                 </div>
                                 
                             </div>
@@ -1076,6 +1156,121 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/world/white-house-pauses-executive-order-that-would-seek-preempt-state-laws-ai-sources-2025-11-21/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.reuters.com/world/white-house-pauses-executive-order-that-would-seek-preempt-state-laws-ai-sources-2025-11-21/" target="_blank" onclick="event.stopPropagation();">White House pauses executive order that would seek to preempt state laws on AI, sources say</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Reuters" class="news-favicon">
+                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763754953.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/11/20/trump-ai-executive-order-state-funding.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108176051-17533064162025-07-23t213306z_1902303318_rc2lsfa7lvhd_rtrmadp_0_usa-trump-ai.jpeg?v=1753357814&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2025/11/20/trump-ai-executive-order-state-funding.html" target="_blank" onclick="event.stopPropagation();">White House crafting executive order to thwart state AI laws</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The draft surfaced after President Donald Trump called for a single federal standard on AI "instead of a patchwork of 50 State Regulatory Regimes."
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763664919.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://thehill.com/policy/technology/5616134-trump-executive-order-ai/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://thehill.com/policy/technology/5616134-trump-executive-order-ai/" target="_blank" onclick="event.stopPropagation();">What to know about Trump’s plan to fight state AI laws</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Hill" class="news-favicon">
+                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">The Hill</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763722800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/videos/2025-11-21/investors-weigh-macro-risks-as-ai-anxiety-rises-video', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKRhTzKUFRDU/v3/-1x-1.jpg');"></div>
@@ -1117,6 +1312,88 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/11/21/tech-stocks-nvidia-amd-oracle-amazon-microsoft.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108186410-1755244900069-gettyimages-2224768312-CHINA_JENSEN_HUANG.jpeg?v=1763746442&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2025/11/21/tech-stocks-nvidia-amd-oracle-amazon-microsoft.html" target="_blank" onclick="event.stopPropagation();">Tech stocks set for big losing week as AI names get rocked after Nvidia earnings</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Investors had looked to Nvidia's earnings report to settle fears that the AI bubble is on increasingly shaky ground.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763746565.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/11/21/nvidia-gpus-google-tpus-aws-trainium-comparing-the-top-ai-chips.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108218279-1763691623349-ai_chips_12.jpg?v=1763727924&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2025/11/21/nvidia-gpus-google-tpus-aws-trainium-comparing-the-top-ai-chips.html" target="_blank" onclick="event.stopPropagation();">Nvidia is king in AI chips, but Google and Amazon want to catch up by making their own</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Nvidia is king in AI chips, but custom ASICs are gaining ground with Google, Amazon, Meta, Microsoft and OpenAI now making their own.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763730001.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1137,7 +1414,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T20:50:15.705218+00:00">Updated 2025-11-21T20:50:15.705218+00:00</small>
+        <small data-timestamp="2025-11-21T21:01:25.328087+00:00">Updated 2025-11-21T21:01:25.328087+00:00</small>
     </div>
 </div>
 
@@ -1810,7 +2087,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T20:50:24.263622+00:00">Updated 2025-11-21T20:50:24.263622+00:00</small>
+        <small data-timestamp="2025-11-21T21:01:32.027895+00:00">Updated 2025-11-21T21:01:32.027895+00:00</small>
     </div>
 </div>
 
@@ -2180,7 +2457,7 @@
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 9</span>
+                                    <span class="paper-stats">▲ 10</span>
                                 </div>
                                 <div class="paper-meta-item">
                                     <span style="color: #9ca3af;">💬 1</span>
@@ -2621,7 +2898,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T20:50:24.445675+00:00">Updated 2025-11-21T20:50:24.445675+00:00</small>
+        <small data-timestamp="2025-11-21T21:01:32.133543+00:00">Updated 2025-11-21T21:01:32.133543+00:00</small>
     </div>
 </div>
 
@@ -2821,7 +3098,7 @@
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 424</span>
+                                    <span class="model-stats">❤️ 425</span>
                                 </div>
                             </div>
                             
@@ -3304,7 +3581,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T20:50:24.573304+00:00">Updated 2025-11-21T20:50:24.573304+00:00</small>
+        <small data-timestamp="2025-11-21T21:01:32.192773+00:00">Updated 2025-11-21T21:01:32.192773+00:00</small>
     </div>
 </div>
 
@@ -3539,7 +3816,7 @@
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 79.1k</span>
+                                <span class="repo-stats">⭐ 79.2k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
@@ -3559,7 +3836,7 @@
                 
                 <div class="carousel-card" onclick="window.open('https://github.com/ray-project/ray', '_blank')">
                     <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://opengraph.githubassets.com/6458c910648426db313b0a20f0d0ae4d9059cca48119d4af872292c383bce8b7/ray-project/ray');"></div>
+                    <div class="repo-preview" style="background-image: url('https://opengraph.githubassets.com/652f4563377a4493468b4f07cff43b0d1e8647beb416748e5592b8dcfcc15238/ray-project/ray');"></div>
 
                     <div class="repo-content">
                         <!-- Repository name (first line after preview) -->
@@ -3614,7 +3891,7 @@
                             </div>
                             
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-21T20:29:46Z"></span>
+                                <span class="repo-age" data-timestamp="2025-11-21T20:53:51Z"></span>
                             </div>
                             
                         </div>
@@ -4004,7 +4281,7 @@
                             </div>
                             
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-21T20:49:41Z"></span>
+                                <span class="repo-age" data-timestamp="2025-11-21T21:01:10Z"></span>
                             </div>
                             
                         </div>
@@ -4164,7 +4441,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T20:50:31.974022+00:00">Updated 2025-11-21T20:50:31.974022+00:00</small>
+        <small data-timestamp="2025-11-21T21:01:38.615090+00:00">Updated 2025-11-21T21:01:38.615090+00:00</small>
     </div>
 </div>
 

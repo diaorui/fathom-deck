@@ -1,143 +1,143 @@
 <style>
-.widget-reddit-posts .post-list {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-}
+    /* Reddit specific card styling */
+    .widget-reddit-posts .carousel-card {
+        border-left: 3px solid #FF4500;
+    }
 
-.widget-reddit-posts .post-item {
-    display: flex;
-    gap: 10px;
-    padding: 10px;
-    background: rgba(255, 255, 255, 0.03);
-    border-radius: 6px;
-    border-left: 3px solid var(--primary-color);
-    transition: background 0.2s ease;
-}
+    .widget-reddit-posts .post-thumbnail {
+        width: 100%;
+        height: 140px;
+        object-fit: cover;
+        border-radius: 4px;
+        margin-bottom: 10px;
+        background: rgba(255, 255, 255, 0.03);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 3rem;
+    }
 
-.widget-reddit-posts .post-item:hover {
-    background: rgba(255, 255, 255, 0.05);
-}
+    .widget-reddit-posts .post-thumbnail:not([style*="background-image"])::before {
+        content: "💬";
+        opacity: 0.3;
+    }
 
-.widget-reddit-posts .post-thumbnail {
-    flex-shrink: 0;
-    width: 60px;
-    height: 60px;
-    border-radius: 4px;
-    object-fit: cover;
-    background: rgba(255, 255, 255, 0.05);
-}
+    .widget-reddit-posts .post-title {
+        font-size: 0.95rem;
+        font-weight: 500;
+        margin-bottom: 10px;
+        line-height: 1.4;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        flex: 1;
+    }
 
-.widget-reddit-posts .post-content {
-    flex: 1;
-    min-width: 0;
-}
+    .widget-reddit-posts .post-title a {
+        color: var(--text-color);
+        text-decoration: none;
+    }
 
-.widget-reddit-posts .post-title {
-    font-size: 0.95rem;
-    font-weight: 500;
-    margin-bottom: 6px;
-    line-height: 1.4;
-}
+    .widget-reddit-posts .post-title a:hover {
+        color: #FF4500;
+    }
 
-.widget-reddit-posts .post-title a {
-    color: var(--text-color);
-    text-decoration: none;
-}
+    .widget-reddit-posts .post-meta {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        font-size: 0.72rem;
+        color: #9ca3af;
+    }
 
-.widget-reddit-posts .post-title a:hover {
-    color: var(--primary-color);
-}
+    .widget-reddit-posts .post-meta-line {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
 
-.widget-reddit-posts .post-meta {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    font-size: 0.75rem;
-    color: #9ca3af;
-}
-
-.widget-reddit-posts .post-meta-item {
-    display: flex;
-    align-items: center;
-    gap: 4px;
-}
-
-.widget-reddit-posts .post-score {
-    color: var(--primary-color);
-    font-weight: 500;
-}
-
-.widget-reddit-posts .subreddit-link {
-    color: var(--primary-color);
-    text-decoration: none;
-    font-weight: 500;
-}
-
-.widget-reddit-posts .subreddit-link:hover {
-    text-decoration: underline;
-}
-
-.widget-reddit-posts .view-all-btn:hover {
-    background: rgba(255, 255, 255, 0.08) !important;
-}
+    .widget-reddit-posts .post-author {
+        font-weight: 500;
+    }
 </style>
 
 <div class="widget widget-reddit-posts widget-{{ size }}">
     <div class="widget-header">
         <h3>Reddit Discussions</h3>
         <div style="font-size: 0.75rem; color: #9ca3af;">
-            <a href="https://www.reddit.com/r/{{ subreddit }}" target="_blank" class="subreddit-link" style="color: #9ca3af; text-decoration: none;">
-                r/{{ subreddit }}
-            </a>
+            r/{{ subreddit }}
             {% if timeframe == 'day' %}
-            · ⭐ Top Today
+            · Top Today
             {% elif timeframe == 'week' %}
-            · ⭐ Top This Week
+            · Top This Week
             {% elif timeframe == 'month' %}
-            · ⭐ Top This Month
+            · Top This Month
             {% elif timeframe == 'year' %}
-            · ⭐ Top This Year
+            · Top This Year
             {% elif timeframe == 'all' %}
-            · ⭐ Top All Time
+            · Top All Time
             {% endif %}
         </div>
     </div>
     <div class="widget-body">
-        <div class="post-list">
-            {% for post in posts %}
-            <div class="post-item">
-                {% if post.thumbnail %}
-                <img src="{{ post.thumbnail }}" alt="Post thumbnail" class="post-thumbnail">
-                {% endif %}
-                <div class="post-content">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="reddit-carousel-{{ subreddit|replace('_', '-')|lower }}">
+                {% for post in posts %}
+                <div class="carousel-card" onclick="window.open('{{ post.url }}', '_blank')">
+                    <div class="post-thumbnail" {% if post.thumbnail %}style="background-image: url('{{ post.thumbnail }}'); background-size: cover; background-position: center;"{% endif %}></div>
                     <div class="post-title">
-                        <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+                        <a href="{{ post.url }}" target="_blank" onclick="event.stopPropagation();">{{ post.title }}</a>
                     </div>
                     <div class="post-meta">
-                        <div class="post-meta-item">
-                            u/{{ post.author }}
+                        <div class="post-meta-line">
+                            {% if post.author %}
+                            <div class="post-author">
+                                u/{{ post.author }}
+                            </div>
+                            {% endif %}
                         </div>
-                        {% if post.published %}
-                        <div class="post-meta-item">
-                            <span class="post-age" data-timestamp="{{ post.published }}"></span>
+                        <div class="post-meta-line">
+                            {% if post.published %}
+                            <div class="post-date">
+                                <span data-timestamp="{{ post.published }}"></span>
+                            </div>
+                            {% endif %}
                         </div>
-                        {% endif %}
+                    </div>
+                </div>
+                {% endfor %}
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card"
+                    style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 69, 0, 0.05); border-color: #FF4500;"
+                    onclick="window.open('https://www.reddit.com/r/{{ subreddit }}/top?t={{ timeframe }}', '_blank')">
+                    <div style="text-align: center;">
+                        <svg width="48" height="48" viewBox="0 0 24 24" style="margin-bottom: 8px; fill: #FF4500;">
+                            <path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/>
+                        </svg>
+                        <div style="color: #FF4500; font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on Reddit</div>
                     </div>
                 </div>
             </div>
-            {% endfor %}
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
         </div>
-        <div style="margin-top: 12px; text-align: center;">
-            <a href="https://www.reddit.com/r/{{ subreddit }}/top?t={{ timeframe }}" target="_blank" class="view-all-btn"
-               style="display: inline-block; padding: 8px 16px; background: rgba(255, 255, 255, 0.05);
-                      border-radius: 6px; color: var(--primary-color); text-decoration: none;
-                      font-size: 0.85rem; font-weight: 500; transition: background 0.2s ease;">
-                View All on Reddit →
-            </a>
-        </div>
+
     </div>
     <div class="widget-footer">
         <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
     </div>
 </div>
+
+<!-- Carousel initialized by shared page.html script -->

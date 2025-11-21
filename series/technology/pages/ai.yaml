@@ -6,9 +6,18 @@ description: AI news, discussions, and developments
 icon: "🤖"
 enabled: true
 
-# Widget layout
+# Widget layout (ordered by time sensitivity - most real-time first)
 widgets:
-  # Google News about AI
+  # 1. Reddit discussions (direct RSS, top posts today)
+  - type: reddit-posts
+    size: full
+    update_minutes: 30
+    params:
+      subreddit: artificial
+      limit: 10
+      timeframe: day
+
+  # 2. Google News (breaking news)
   - type: google-news
     size: full
     update_minutes: 30
@@ -16,26 +25,7 @@ widgets:
       query: ai
       limit: 10
 
-  # Posts from X (via Google News)
-  - type: google-news
-    size: full
-    update_minutes: 30
-    params:
-      title: Posts from X
-      query: ai
-      site: x.com
-      limit: 10
-
-  # ProductHunt AI products
-  - type: producthunt
-    size: full
-    update_minutes: 60
-    params:
-      title: ProductHunt
-      category: ai
-      limit: 10
-
-  # HackerNews AI discussions
+  # 3. HackerNews (direct API, sorted by date)
   - type: hackernews-posts
     size: full
     update_minutes: 30
@@ -45,16 +35,26 @@ widgets:
       min_points: 0
       sort_by: date
 
-  # Trending AI GitHub repos
-  - type: github-repos
+  # 4. Posts from X (delayed through Google News indexing)
+  - type: google-news
+    size: full
+    update_minutes: 30
+    params:
+      title: Posts from X
+      query: ai
+      site: x.com
+      limit: 10
+
+  # 5. ProductHunt (daily new product launches)
+  - type: producthunt
     size: full
     update_minutes: 60
     params:
-      query: ai machine-learning llm
-      days: 7
+      title: ProductHunt
+      category: ai
       limit: 10
 
-  # HuggingFace daily papers
+  # 6. HuggingFace papers (daily research publications)
   - type: huggingface-papers
     size: full
     update_minutes: 60
@@ -62,18 +62,18 @@ widgets:
       limit: 10
       sort: trending
 
-  # Trending HuggingFace models
+  # 7. HuggingFace models (trending over days)
   - type: huggingface-models
     size: full
     update_minutes: 30
     params:
       limit: 10
 
-  # Reddit discussions from r/artificial
-  - type: reddit-posts
+  # 8. GitHub repos (trending over 7 days)
+  - type: github-repos
     size: full
-    update_minutes: 30
+    update_minutes: 60
     params:
-      subreddit: artificial
+      query: ai machine-learning llm
+      days: 7
       limit: 10
-      timeframe: day

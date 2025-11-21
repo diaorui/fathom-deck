@@ -1,6 +1,8 @@
 """Utility functions for FathomDeck."""
 
 from datetime import datetime
+from urllib.parse import urlparse, quote
+from typing import Optional
 
 
 def format_time_ago(timestamp_str: str) -> str:
@@ -79,3 +81,137 @@ def format_large_number(value: float) -> str:
         return f"${value / 1_000:.2f}K"
     else:
         return f"${value:.2f}"
+
+
+def extract_domain(url: str) -> str:
+    """Extract domain from URL.
+
+    Args:
+        url: Full URL
+
+    Returns:
+        Domain name (e.g., "example.com")
+
+    Example:
+        >>> extract_domain("https://www.example.com/path?query=1")
+        "www.example.com"
+    """
+    try:
+        parsed = urlparse(url)
+        return parsed.netloc
+    except Exception:
+        return ""
+
+
+def get_favicon_url(url: str) -> str:
+    """Get favicon URL for a domain using Google's favicon service.
+
+    Args:
+        url: Any URL from the domain
+
+    Returns:
+        URL to domain's favicon via Google service
+
+    Example:
+        >>> get_favicon_url("https://example.com/article")
+        "https://www.google.com/s2/favicons?domain=example.com&sz=32"
+
+    Notes:
+        - Google's favicon service is reliable and handles missing favicons
+        - Returns default icon if domain has no favicon
+        - 32px size is good for most use cases
+    """
+    domain = extract_domain(url)
+    if not domain:
+        return ""
+    return f"https://www.google.com/s2/favicons?domain={domain}&sz=32"
+
+
+def truncate_text(text: str, max_length: int = 100, suffix: str = "...") -> str:
+    """Truncate text to maximum length, adding suffix if truncated.
+
+    Args:
+        text: Text to truncate
+        max_length: Maximum length including suffix
+        suffix: String to append if truncated (default: "...")
+
+    Returns:
+        Truncated text with suffix if needed
+
+    Example:
+        >>> truncate_text("This is a very long text", max_length=15)
+        "This is a ve..."
+    """
+    if not text or len(text) <= max_length:
+        return text
+
+    return text[:max_length - len(suffix)] + suffix
+
+
+def is_valid_url(url: str) -> bool:
+    """Check if a string is a valid URL.
+
+    Args:
+        url: String to validate
+
+    Returns:
+        True if valid URL, False otherwise
+
+    Example:
+        >>> is_valid_url("https://example.com")
+        True
+        >>> is_valid_url("not a url")
+        False
+    """
+    try:
+        result = urlparse(url)
+        return all([result.scheme, result.netloc])
+    except Exception:
+        return False
+
+
+def normalize_url(url: str) -> str:
+    """Normalize URL by removing tracking parameters and fragments.
+
+    Args:
+        url: URL to normalize
+
+    Returns:
+        Normalized URL
+
+    Example:
+        >>> normalize_url("https://example.com/article?utm_source=twitter#section")
+        "https://example.com/article"
+
+    Notes:
+        - Removes common tracking parameters (utm_*, fbclid, etc.)
+        - Removes URL fragments (#section)
+        - Useful for deduplication and caching
+    """
+    try:
+        parsed = urlparse(url)
+
+        # Remove common tracking parameters
+        tracking_params = {
+            'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content',
+            'fbclid', 'gclid', 'msclkid', 'mc_cid', 'mc_eid',
+        }
+
+        # Parse query string and filter out tracking params
+        from urllib.parse import parse_qs, urlencode
+        query_dict = parse_qs(parsed.query)
+        filtered_query = {
+            k: v for k, v in query_dict.items()
+            if k not in tracking_params
+        }
+
+        # Reconstruct URL without fragment and tracking params
+        clean_query = urlencode(filtered_query, doseq=True) if filtered_query else ''
+        clean_url = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+        if clean_query:
+            clean_url += f"?{clean_query}"
+
+        return clean_url
+
+    except Exception:
+        return url

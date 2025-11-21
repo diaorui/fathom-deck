@@ -1,4 +1,4 @@
-"""Google News widget using RSS feed."""
+"""Google News widget using RSS feed with rich metadata extraction."""
 
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -6,10 +6,15 @@ from typing import Any, Dict, List
 
 from ..core.base_widget import BaseWidget
 from ..core.http_cache import get_http_client
+from ..core.url_metadata import get_url_metadata_extractor
+from ..core.utils import resolve_google_news_url
 
 
 class GoogleNewsWidget(BaseWidget):
-    """Displays recent news articles from Google News RSS feed.
+    """Displays recent news articles from Google News RSS feed with rich metadata.
+
+    Resolves Google News redirect URLs and extracts rich metadata (images,
+    descriptions) from the final article URLs using aggressive 30-day caching.
 
     Required params:
         - query: Search query (e.g., "Bitcoin", "Ethereum", "ai")
@@ -20,13 +25,14 @@ class GoogleNewsWidget(BaseWidget):
         - limit: Number of articles to show (default: 5)
         - locale: Language and region (default: "en-US")
         - region: Region code (default: "US")
+        - extract_metadata: Extract rich metadata from article URLs (default: True)
     """
 
     def get_required_params(self) -> list[str]:
         return ["query"]
 
     def fetch_data(self) -> Dict[str, Any]:
-        """Fetch news articles from Google News."""
+        """Fetch news articles from Google News with rich metadata."""
         self.validate_params()
 
         query = self.merged_params["query"]
@@ -35,6 +41,7 @@ class GoogleNewsWidget(BaseWidget):
         limit = self.merged_params.get("limit", 5)
         locale = self.merged_params.get("locale", "en-US")
         region = self.merged_params.get("region", "US")
+        extract_meta = self.merged_params.get("extract_metadata", True)
         client = get_http_client()
 
         # Combine query and site filter if site is specified
@@ -100,9 +107,52 @@ class GoogleNewsWidget(BaseWidget):
                     "headline": headline,
                     "source": source_name,
                     "source_url": source_url,
-                    "url": link_elem.text,
+                    "url": link_elem.text,  # Google News redirect URL
                     "pub_date": pub_date_timestamp,
+
+                    # Metadata fields (populated below if enabled)
+                    "article_url": None,  # Resolved final article URL
+                    "image": None,
+                    "description": None,
                 })
+
+            print(f"✅ Fetched {len(articles)} news articles for '{search_query}'")
+
+            # Resolve URLs and extract rich metadata
+            if extract_meta and articles:
+                print(f"🔗 Resolving Google News redirect URLs...")
+
+                # Step 1: Resolve all Google News redirect URLs
+                for i, article in enumerate(articles):
+                    google_url = article['url']
+                    resolved_url = resolve_google_news_url(google_url, timeout=10)
+
+                    if resolved_url != google_url:
+                        article['article_url'] = resolved_url
+                        print(f"   {i+1}/{len(articles)}: Resolved")
+                    else:
+                        print(f"   {i+1}/{len(articles)}: Failed to resolve")
+
+                # Step 2: Extract metadata from resolved URLs
+                print(f"📸 Extracting metadata from article URLs...")
+                extractor = get_url_metadata_extractor()
+
+                for i, article in enumerate(articles):
+                    if not article['article_url']:
+                        continue
+
+                    # Extract metadata from resolved article URL (only image and description)
+                    metadata = extractor.extract(article['article_url'])
+
+                    if metadata:
+                        article['image'] = metadata.image
+                        article['description'] = metadata.description
+
+                # Count articles with rich metadata
+                resolved_count = sum(1 for a in articles if a['article_url'])
+                rich_count = sum(1 for a in articles if a['image'] or a['description'])
+                print(f"   ✅ {resolved_count}/{len(articles)} URLs resolved")
+                print(f"   ✅ {rich_count}/{len(articles)} articles with rich previews")
 
             data = {
                 "title": title,
@@ -110,10 +160,10 @@ class GoogleNewsWidget(BaseWidget):
                 "site": site,
                 "search_query": search_query,
                 "articles": articles,
+                "has_metadata": extract_meta,
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
-            print(f"✅ Fetched {len(articles)} news articles for '{search_query}'")
             return data
 
         except Exception as e:
@@ -127,6 +177,7 @@ class GoogleNewsWidget(BaseWidget):
         site = processed_data["site"]
         search_query = processed_data["search_query"]
         articles = processed_data["articles"]
+        has_metadata = processed_data["has_metadata"]
         timestamp_iso = processed_data["fetched_at"]
 
         return self.render_template(
@@ -137,5 +188,6 @@ class GoogleNewsWidget(BaseWidget):
             site=site,
             search_query=search_query,
             articles=articles,
+            has_metadata=has_metadata,
             timestamp_iso=timestamp_iso
         )

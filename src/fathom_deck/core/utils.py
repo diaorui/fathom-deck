@@ -1,8 +1,13 @@
 """Utility functions for FathomDeck."""
 
+import json
+import time
 from datetime import datetime
 from urllib.parse import urlparse, quote
 from typing import Optional
+
+import requests
+from bs4 import BeautifulSoup
 
 
 def format_time_ago(timestamp_str: str) -> str:
@@ -215,3 +220,69 @@ def normalize_url(url: str) -> str:
 
     except Exception:
         return url
+
+
+def resolve_google_news_url(google_rss_url: str, timeout: float = 10.0) -> str:
+    """Resolve the final redirect URL from a Google News RSS article link.
+
+    Google News RSS feeds contain redirect URLs that need to be resolved
+    to get the actual article URL. This function handles the resolution
+    using Google's internal batch execute API.
+
+    Args:
+        google_rss_url: Google News RSS article URL
+        timeout: Request timeout in seconds (default: 10.0)
+
+    Returns:
+        Final article URL, or original URL if resolution fails
+
+    Example:
+        >>> url = "https://news.google.com/rss/articles/CBMi..."
+        >>> resolve_google_news_url(url)
+        "https://www.example.com/article"
+
+    Notes:
+        - Only resolves URLs starting with "https://news.google.com/rss/"
+        - Includes 1-second delay to prevent rate limiting
+        - Gracefully returns original URL on any error
+        - Uses Google's internal batch execute API
+    """
+    if not google_rss_url.startswith("https://news.google.com/rss/"):
+        return google_rss_url
+
+    # Add delay to prevent rate limiting
+    time.sleep(1)
+
+    try:
+        # Step 1: Fetch Google News page to extract data-p attribute
+        resp = requests.get(google_rss_url, timeout=timeout)
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        c_wiz = soup.select_one('c-wiz[data-p]')
+
+        if not c_wiz:
+            return google_rss_url
+
+        data = c_wiz.get('data-p')
+        obj = json.loads(data.replace('%.@.', '["garturlreq",'))
+
+    except Exception:
+        return google_rss_url
+
+    # Step 2: Use batch execute API to resolve final URL
+    payload = {
+        'f.req': json.dumps([[['Fbv4je', json.dumps(obj[:-6] + obj[-2:]), 'null', 'generic']]])
+    }
+
+    headers = {
+        'content-type': 'application/x-www-form-urlencoded;charset=UTF-8',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36',
+    }
+
+    url = "https://news.google.com/_/DotsSplashUi/data/batchexecute"
+    try:
+        response = requests.post(url, headers=headers, data=payload, timeout=timeout)
+        array_string = json.loads(response.text.replace(")]}'", ""))[0][2]
+        article_url = json.loads(array_string)[1]
+        return article_url
+    except Exception:
+        return google_rss_url

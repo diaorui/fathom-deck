@@ -42,12 +42,11 @@
     font-weight: 500;
     margin-bottom: 8px;
     line-height: 1.4;
-    /* Fixed height: exactly 3 lines */
-    height: calc(0.95rem * 1.4 * 3);
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    min-height: calc(0.95rem * 1.4 * 2);
 }
 
 .widget-hackernews-posts .post-title a {
@@ -66,7 +65,7 @@
     line-height: 1.4;
     margin-bottom: 10px;
     display: -webkit-box;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
 }

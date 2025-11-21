@@ -71,13 +71,3 @@ widgets:
     params:
       query: bitcoin
       limit: 10
-
-  # Row 6: Posts from X (via Google News)
-  - type: google-news
-    size: full
-    update_minutes: 30
-    params:
-      title: Posts from X
-      query: bitcoin
-      site: x.com
-      limit: 10

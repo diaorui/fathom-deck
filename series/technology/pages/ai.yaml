@@ -35,17 +35,7 @@ widgets:
       min_points: 0
       sort_by: date
 
-  # 4. Posts from X (delayed through Google News indexing)
-  - type: google-news
-    size: full
-    update_minutes: 30
-    params:
-      title: Posts from X
-      query: ai
-      site: x.com
-      limit: 10
-
-  # 5. ProductHunt (daily new product launches)
+  # 4. ProductHunt (daily new product launches)
   # category filter only supports tech, games, books?
   - type: producthunt
     size: full
@@ -55,7 +45,7 @@ widgets:
       category: tech
       limit: 10
 
-  # 6. HuggingFace papers (daily research publications)
+  # 5. HuggingFace papers (daily research publications)
   - type: huggingface-papers
     size: full
     update_minutes: 60
@@ -63,14 +53,14 @@ widgets:
       limit: 10
       sort: trending
 
-  # 7. HuggingFace models (trending over days)
+  # 6. HuggingFace models (trending over days)
   - type: huggingface-models
     size: full
     update_minutes: 30
     params:
       limit: 10
 
-  # 8. GitHub repos (trending over 7 days)
+  # 7. GitHub repos (trending over 7 days)
   - type: github-repos
     size: full
     update_minutes: 60

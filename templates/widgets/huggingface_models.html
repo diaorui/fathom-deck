@@ -1,0 +1,141 @@
+<style>
+/* HuggingFace-specific card styling */
+.widget-huggingface-models .carousel-card {
+    border-left: 3px solid #ff9d00;
+}
+
+.widget-huggingface-models .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(255, 157, 0, 0.2);
+}
+
+.widget-huggingface-models .model-name {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 12px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1;
+}
+
+.widget-huggingface-models .model-name a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-huggingface-models .model-name a:hover {
+    color: #ff9d00;
+}
+
+.widget-huggingface-models .model-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+}
+
+.widget-huggingface-models .model-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.widget-huggingface-models .model-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    white-space: nowrap;
+}
+
+.widget-huggingface-models .model-tag {
+    background: rgba(255, 157, 0, 0.15);
+    color: #ff9d00;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    font-weight: 500;
+}
+
+.widget-huggingface-models .model-stats {
+    color: #9ca3af;
+    font-weight: 500;
+}
+</style>
+
+<div class="widget widget-huggingface-models widget-{{ size }}">
+    <div class="widget-header">
+        <h3>HuggingFace Models</h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            🔥 Trending
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="hf-models-carousel">
+                {% for model in models %}
+                <div class="carousel-card" onclick="window.open('{{ model.url }}', '_blank')">
+                    <div class="model-name">
+                        <a href="{{ model.url }}" target="_blank" onclick="event.stopPropagation();">{{ model.id }}</a>
+                    </div>
+                    <div class="model-meta">
+                        <div class="model-meta-line">
+                            {% if model.pipeline_tag %}
+                            <span class="model-tag">{{ model.pipeline_tag }}</span>
+                            {% endif %}
+                            {% if model.num_parameters %}
+                            <span class="model-tag">{{ model.num_parameters }}</span>
+                            {% endif %}
+                        </div>
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-stats">⬇️ {{ "{:,}".format(model.downloads) }}</span>
+                            </div>
+                            <div class="model-meta-item">
+                                <span class="model-stats">❤️ {{ "{:,}".format(model.likes) }}</span>
+                            </div>
+                        </div>
+                        {% if model.last_modified %}
+                        <div class="model-meta-line">
+                            <div class="model-meta-item">
+                                <span class="model-age" data-timestamp="{{ model.last_modified }}"></span>
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endfor %}
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 157, 0, 0.05); border-color: #ff9d00;"
+                     onclick="window.open('https://huggingface.co/models?sort=trending', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">🤗</div>
+                        <div style="color: #ff9d00; font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on HuggingFace</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->

@@ -8,6 +8,30 @@ enabled: true
 
 # Widget layout
 widgets:
+  # Trending HuggingFace models
+  - type: huggingface-models
+    size: full
+    update_minutes: 30
+    params:
+      limit: 10
+
+  # Trending AI GitHub repos
+  - type: github-repos
+    size: full
+    update_minutes: 60
+    params:
+      query: ai machine-learning llm
+      days: 7
+      limit: 10
+
+  # HuggingFace daily papers
+  - type: huggingface-papers
+    size: full
+    update_minutes: 60
+    params:
+      limit: 10
+      sort: trending
+
   # HackerNews AI discussions
   - type: hackernews-posts
     size: full
@@ -23,5 +47,5 @@ widgets:
     size: full
     update_minutes: 30
     params:
-      query: artificial intelligence
+      query: ai
       limit: 10

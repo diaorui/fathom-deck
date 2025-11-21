@@ -1,0 +1,99 @@
+"""HuggingFace daily papers widget using HuggingFace API."""
+
+from datetime import datetime, timezone
+from typing import Any, Dict, List
+
+from ..core.base_widget import BaseWidget
+from ..core.http_cache import get_http_client
+
+
+class HuggingfacePapersWidget(BaseWidget):
+    """Displays daily AI research papers from HuggingFace.
+
+    Optional params:
+        - limit: Number of papers to show (default: 10)
+        - sort: Sort order - "trending" or "publishedAt" (default: "trending")
+    """
+
+    def get_required_params(self) -> list[str]:
+        return []
+
+    def fetch_data(self) -> Dict[str, Any]:
+        """Fetch daily papers from HuggingFace."""
+        self.validate_params()
+
+        limit = self.merged_params.get("limit", 10)
+        sort = self.merged_params.get("sort", "trending")
+        client = get_http_client()
+
+        try:
+            # Fetch daily papers from HuggingFace API
+            url = "https://huggingface.co/api/daily_papers"
+            params = {
+                "limit": limit,
+                "sort": sort
+            }
+
+            headers = {
+                "User-Agent": "fathom-deck/1.0.0"
+            }
+            response = client.get(url, params=params, headers=headers, response_type="json")
+
+            # Extract papers from response
+            papers = []
+            for item in response:
+                # Paper data is nested inside "paper" key
+                paper = item.get("paper", {})
+
+                # Extract author names
+                authors = [author.get("name", "") for author in paper.get("authors", [])]
+                author_str = ", ".join(authors[:3])  # Show first 3 authors
+                if len(authors) > 3:
+                    author_str += f" et al. ({len(authors)} authors)"
+
+                # Use root-level fields which have some duplicates
+                paper_id = paper["id"]
+
+                papers.append({
+                    "id": paper_id,
+                    "title": item.get("title") or paper.get("title"),
+                    "authors": author_str,
+                    "summary": item.get("summary") or paper.get("summary", ""),
+                    "arxiv_url": f"https://arxiv.org/abs/{paper_id}",
+                    "upvotes": paper.get("upvotes", 0),
+                    "num_comments": item.get("numComments", 0),
+                    "published_at": item.get("publishedAt") or paper.get("publishedAt"),
+                    "github_repo": paper.get("githubRepo"),
+                    "github_stars": paper.get("githubStars"),
+                    "project_page": paper.get("projectPage"),
+                })
+
+            data = {
+                "papers": papers,
+                "limit": limit,
+                "sort": sort,
+                "fetched_at": datetime.now(timezone.utc).isoformat(),
+            }
+
+            print(f"✅ Fetched {len(papers)} HuggingFace daily papers")
+            return data
+
+        except Exception as e:
+            print(f"❌ Failed to fetch HuggingFace daily papers: {e}")
+            raise
+
+    def render(self, processed_data: Dict[str, Any]) -> str:
+        """Render HuggingFace papers widget HTML."""
+        papers = processed_data["papers"]
+        limit = processed_data["limit"]
+        sort = processed_data["sort"]
+        timestamp_iso = processed_data["fetched_at"]
+
+        return self.render_template(
+            "widgets/huggingface_papers.html",
+            size=self.size,
+            papers=papers,
+            limit=limit,
+            sort=sort,
+            timestamp_iso=timestamp_iso
+        )

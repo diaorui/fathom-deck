@@ -1,0 +1,185 @@
+<style>
+/* HuggingFace Papers-specific card styling */
+.widget-huggingface-papers .carousel-card {
+    border-left: 3px solid #ff9d00;
+}
+
+.widget-huggingface-papers .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(255, 157, 0, 0.2);
+}
+
+.widget-huggingface-papers .paper-title {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 8px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: calc(0.95rem * 1.4 * 3);
+}
+
+.widget-huggingface-papers .paper-title a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-huggingface-papers .paper-title a:hover {
+    color: #ff9d00;
+}
+
+.widget-huggingface-papers .paper-authors {
+    font-size: 0.75rem;
+    color: #9ca3af;
+    margin-bottom: 8px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.widget-huggingface-papers .paper-summary {
+    font-size: 0.72rem;
+    color: #9ca3af;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1;
+}
+
+.widget-huggingface-papers .paper-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+}
+
+.widget-huggingface-papers .paper-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.widget-huggingface-papers .paper-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    white-space: nowrap;
+}
+
+.widget-huggingface-papers .paper-link {
+    color: #60a5fa;
+    text-decoration: none;
+    font-size: 0.7rem;
+}
+
+.widget-huggingface-papers .paper-link:hover {
+    text-decoration: underline;
+}
+
+.widget-huggingface-papers .paper-stats {
+    color: #ff9d00;
+    font-weight: 500;
+}
+</style>
+
+<div class="widget widget-huggingface-papers widget-{{ size }}">
+    <div class="widget-header">
+        <h3>HuggingFace Papers</h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            {% if sort == 'trending' %}
+            🔥 Trending
+            {% else %}
+            📅 Latest
+            {% endif %}
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="hf-papers-carousel">
+                {% for paper in papers %}
+                <div class="carousel-card" onclick="window.open('{{ paper.arxiv_url }}', '_blank')">
+                    <div class="paper-title">
+                        <a href="{{ paper.arxiv_url }}" target="_blank" onclick="event.stopPropagation();">{{ paper.title }}</a>
+                    </div>
+                    <div class="paper-authors">
+                        {{ paper.authors }}
+                    </div>
+                    <div class="paper-summary">
+                        {{ paper.summary }}
+                    </div>
+                    <div class="paper-meta">
+                        <div class="paper-meta-line">
+                            <div class="paper-meta-item">
+                                <span class="paper-stats">▲ {{ paper.upvotes }}</span>
+                            </div>
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">💬 {{ paper.num_comments }}</span>
+                            </div>
+                            {% if paper.github_stars %}
+                            <div class="paper-meta-item">
+                                <span style="color: #9ca3af;">⭐ {{ "{:,}".format(paper.github_stars) }}</span>
+                            </div>
+                            {% endif %}
+                        </div>
+                        <div class="paper-meta-line">
+                            {% if paper.published_at %}
+                            <div class="paper-meta-item">
+                                <span class="paper-age" data-timestamp="{{ paper.published_at }}"></span>
+                            </div>
+                            {% endif %}
+                            {% if paper.github_repo %}
+                            <div class="paper-meta-item">
+                                <a href="{{ paper.github_repo }}" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    💻 code
+                                </a>
+                            </div>
+                            {% endif %}
+                            {% if paper.project_page %}
+                            <div class="paper-meta-item">
+                                <a href="{{ paper.project_page }}" target="_blank" class="paper-link" onclick="event.stopPropagation();">
+                                    🔗 project
+                                </a>
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 157, 0, 0.05); border-color: #ff9d00;"
+                     onclick="window.open('https://huggingface.co/papers', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">📄</div>
+                        <div style="color: #ff9d00; font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on HuggingFace</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->

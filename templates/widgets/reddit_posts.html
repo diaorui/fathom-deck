@@ -23,16 +23,97 @@
         opacity: 0.3;
     }
 
+    .widget-reddit-posts .post-content {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+    }
+
     .widget-reddit-posts .post-title {
         font-size: 0.95rem;
         font-weight: 500;
-        margin-bottom: 10px;
+        margin-bottom: 8px;
         line-height: 1.4;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        min-height: calc(0.95rem * 1.4 * 2);
+    }
+
+    .widget-reddit-posts .post-description {
+        font-size: 0.75rem;
+        color: #9ca3af;
+        line-height: 1.4;
+        margin-bottom: 10px;
         display: -webkit-box;
         -webkit-line-clamp: 3;
         -webkit-box-orient: vertical;
         overflow: hidden;
-        flex: 1;
+    }
+
+    .widget-reddit-posts .post-meta {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        font-size: 0.72rem;
+        color: #9ca3af;
+        margin-top: auto;
+    }
+
+    .widget-reddit-posts .post-meta-line {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: nowrap;
+        overflow: hidden;
+    }
+
+    .widget-reddit-posts .post-meta-item {
+        display: flex;
+        align-items: center;
+        gap: 3px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        min-width: 0;
+    }
+
+    .widget-reddit-posts .post-meta-item span,
+    .widget-reddit-posts .post-meta-item a {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .widget-reddit-posts .post-author {
+        font-weight: 500;
+    }
+
+    /* External source link */
+    .widget-reddit-posts .post-source {
+        color: #60a5fa;
+    }
+
+    .widget-reddit-posts .post-source a {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        color: #60a5fa;
+        text-decoration: none;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .widget-reddit-posts .post-source a:hover {
+        text-decoration: underline;
+    }
+
+    .widget-reddit-posts .post-favicon {
+        width: 14px;
+        height: 14px;
+        object-fit: contain;
+        flex-shrink: 0;
     }
 
     .widget-reddit-posts .post-title a {
@@ -42,24 +123,6 @@
 
     .widget-reddit-posts .post-title a:hover {
         color: #FF4500;
-    }
-
-    .widget-reddit-posts .post-meta {
-        display: flex;
-        flex-direction: column;
-        gap: 4px;
-        font-size: 0.72rem;
-        color: #9ca3af;
-    }
-
-    .widget-reddit-posts .post-meta-line {
-        display: flex;
-        align-items: center;
-        gap: 8px;
-    }
-
-    .widget-reddit-posts .post-author {
-        font-weight: 500;
     }
 </style>
 
@@ -93,23 +156,54 @@
                 {% for post in posts %}
                 <div class="carousel-card" onclick="window.open('{{ post.url }}', '_blank')">
                     <div class="post-thumbnail" {% if post.thumbnail %}style="background-image: url('{{ post.thumbnail }}'); background-size: cover; background-position: center;"{% endif %}></div>
-                    <div class="post-title">
-                        <a href="{{ post.url }}" target="_blank" onclick="event.stopPropagation();">{{ post.title }}</a>
-                    </div>
-                    <div class="post-meta">
-                        <div class="post-meta-line">
-                            {% if post.author %}
-                            <div class="post-author">
-                                u/{{ post.author }}
-                            </div>
-                            {% endif %}
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="{{ post.url }}" target="_blank" onclick="event.stopPropagation();">{{ post.title }}</a>
                         </div>
-                        <div class="post-meta-line">
-                            {% if post.published %}
-                            <div class="post-date">
-                                <span data-timestamp="{{ post.published }}"></span>
+
+                        <!-- Rich description (if available) -->
+                        {% if post.description %}
+                        <div class="post-description">
+                            {{ post.description }}
+                        </div>
+                        {% endif %}
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                {% if post.author %}
+                                <div class="post-meta-item">
+                                    <span class="post-author">u/{{ post.author }}</span>
+                                </div>
+                                {% endif %}
                             </div>
-                            {% endif %}
+                            <div class="post-meta-line">
+                                {% if post.published %}
+                                <div class="post-meta-item">
+                                    <span data-timestamp="{{ post.published }}"></span>
+                                </div>
+                                {% endif %}
+                                <!-- External article source (on same line as time) -->
+                                {% if post.external_url %}
+                                <div class="post-meta-item post-source">
+                                    <a href="{{ post.external_url }}" target="_blank" onclick="event.stopPropagation();">
+                                        {% if post.site_name %}
+                                            {% if post.favicon %}
+                                            <img src="{{ post.favicon }}" alt="" class="post-favicon">
+                                            {% else %}
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            {% endif %}
+                                        {% endif %}
+                                        <span>{{ post.site_name or '🔗 article' }}</span>
+                                    </a>
+                                </div>
+                                {% endif %}
+                            </div>
                         </div>
                     </div>
                 </div>

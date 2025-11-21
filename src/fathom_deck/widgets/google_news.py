@@ -12,9 +12,10 @@ class GoogleNewsWidget(BaseWidget):
     """Displays recent news articles from Google News RSS feed.
 
     Required params:
-        - query: Search query (e.g., "Bitcoin", "Ethereum")
+        - query: Search query (e.g., "Bitcoin", "Ethereum", "ai site:x.com")
 
     Optional params:
+        - title: Custom widget title (default: "Google News")
         - limit: Number of articles to show (default: 5)
         - locale: Language and region (default: "en-US")
         - region: Region code (default: "US")
@@ -28,6 +29,7 @@ class GoogleNewsWidget(BaseWidget):
         self.validate_params()
 
         query = self.merged_params["query"]
+        title = self.merged_params.get("title", "Google News")
         limit = self.merged_params.get("limit", 5)
         locale = self.merged_params.get("locale", "en-US")
         region = self.merged_params.get("region", "US")
@@ -98,6 +100,7 @@ class GoogleNewsWidget(BaseWidget):
                 })
 
             data = {
+                "title": title,
                 "query": query,
                 "articles": articles,
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
@@ -112,6 +115,7 @@ class GoogleNewsWidget(BaseWidget):
 
     def render(self, processed_data: Dict[str, Any]) -> str:
         """Render Google News widget HTML."""
+        title = processed_data["title"]
         query = processed_data["query"]
         articles = processed_data["articles"]
         timestamp_iso = processed_data["fetched_at"]
@@ -119,6 +123,7 @@ class GoogleNewsWidget(BaseWidget):
         return self.render_template(
             "widgets/google_news.html",
             size=self.size,
+            title=title,
             query=query,
             articles=articles,
             timestamp_iso=timestamp_iso

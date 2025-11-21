@@ -8,12 +8,32 @@ enabled: true
 
 # Widget layout
 widgets:
-  # Trending HuggingFace models
-  - type: huggingface-models
+  # Google News about AI
+  - type: google-news
     size: full
     update_minutes: 30
     params:
+      query: ai
       limit: 10
+
+  # Posts from X (via Google News)
+  - type: google-news
+    size: full
+    update_minutes: 30
+    params:
+      title: Posts from X
+      query: ai site:x.com
+      limit: 10
+
+  # HackerNews AI discussions
+  - type: hackernews-posts
+    size: full
+    update_minutes: 30
+    params:
+      query: artificial intelligence
+      limit: 10
+      min_points: 0
+      sort_by: date
 
   # Trending AI GitHub repos
   - type: github-repos
@@ -32,20 +52,9 @@ widgets:
       limit: 10
       sort: trending
 
-  # HackerNews AI discussions
-  - type: hackernews-posts
+  # Trending HuggingFace models
+  - type: huggingface-models
     size: full
     update_minutes: 30
     params:
-      query: artificial intelligence
-      limit: 10
-      min_points: 0
-      sort_by: date
-
-  # Google News about AI
-  - type: google-news
-    size: full
-    update_minutes: 30
-    params:
-      query: ai
       limit: 10

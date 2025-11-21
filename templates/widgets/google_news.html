@@ -75,7 +75,7 @@
 
 <div class="widget widget-google-news widget-{{ size }}">
     <div class="widget-header">
-        <h3>Google News</h3>
+        <h3>{{ title }}</h3>
         <div style="font-size: 0.75rem; color: #9ca3af;">
             "{{ query }}"
         </div>
@@ -88,7 +88,7 @@
             </button>
 
             <!-- Carousel track -->
-            <div class="carousel-track" id="news-carousel-{{ query|replace(' ', '-') }}">
+            <div class="carousel-track" id="news-carousel-{{ query|replace(' ', '-')|replace(':', '-')|replace('.', '-') }}">
                 {% for article in articles %}
                 <div class="carousel-card" onclick="window.open('{{ article.url }}', '_blank')">
                     <div class="news-headline">

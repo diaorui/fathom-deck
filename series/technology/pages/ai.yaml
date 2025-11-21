@@ -46,12 +46,13 @@ widgets:
       limit: 10
 
   # 5. ProductHunt (daily new product launches)
+  # category filter only supports tech, games, books?
   - type: producthunt
     size: full
     update_minutes: 60
     params:
       title: ProductHunt
-      category: ai
+      category: tech
       limit: 10
 
   # 6. HuggingFace papers (daily research publications)

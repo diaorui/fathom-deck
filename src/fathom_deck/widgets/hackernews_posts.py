@@ -2,6 +2,7 @@
 
 from datetime import datetime, timezone
 from typing import Any, Dict, List
+from urllib.parse import urlparse
 
 from ..core.base_widget import BaseWidget
 from ..core.http_cache import get_http_client
@@ -103,12 +104,26 @@ class HackernewsPostsWidget(BaseWidget):
                         # Add rich preview data
                         post['image'] = metadata.image
                         post['description'] = metadata.description
-                        post['site_name'] = metadata.site_name
 
-                        # Only set favicon if we have site_name (favicon without name is confusing)
-                        if metadata.site_name:
-                            # Use metadata favicon if available, otherwise Google favicon service
-                            post['favicon'] = metadata.favicon or get_favicon_url(post['url'])
+                        # Get site name (prefer og:site_name, fallback to domain)
+                        post['site_name'] = metadata.site_name
+                        if not post['site_name']:
+                            # Fallback to cleaned domain
+                            parsed = urlparse(post['url'])
+                            domain = parsed.netloc.lower()
+                            if domain:
+                                post['site_name'] = domain.replace('www.', '')
+
+                        # Get favicon from metadata (don't use Google fallback, let HTML show SVG icon instead)
+                        if post['site_name']:
+                            post['favicon'] = metadata.favicon
+                    else:
+                        # No metadata extracted - fallback to domain name
+                        parsed = urlparse(post['url'])
+                        domain = parsed.netloc.lower()
+                        if domain:
+                            post['site_name'] = domain.replace('www.', '')
+                            # Don't set favicon - let HTML template show SVG icon
 
                 # Count posts with rich metadata
                 rich_count = sum(1 for p in posts if p['image'] or p['description'])

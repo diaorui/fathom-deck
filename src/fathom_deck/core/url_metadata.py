@@ -416,12 +416,23 @@ class URLMetadataExtractor:
         ]
 
         for tag_name, attrs in favicon_selectors:
-            tag = soup.find(tag_name, attrs=attrs)
-            if tag and tag.get('href'):
-                favicon_url = tag['href']
-                # Resolve relative URLs
-                metadata.favicon = urljoin(base_url, favicon_url)
-                return
+            # Use find_all to check ALL matching links (not just first)
+            tags = soup.find_all(tag_name, attrs=attrs)
+            for tag in tags:
+                if tag and tag.get('href'):
+                    favicon_url = tag['href'].strip()
+
+                    # Skip invalid hrefs (fragments, empty, javascript:, data:)
+                    if not favicon_url or favicon_url in ['#', ''] or favicon_url.startswith(('javascript:', 'data:')):
+                        continue
+
+                    # Resolve relative URLs
+                    resolved_url = urljoin(base_url, favicon_url)
+
+                    # Skip if resolution resulted in the base URL (means it was just a fragment)
+                    if resolved_url != base_url and resolved_url != base_url + '#':
+                        metadata.favicon = resolved_url
+                        return
 
         # Fallback to default /favicon.ico
         metadata.favicon = default_favicon

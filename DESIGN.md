@@ -980,6 +980,36 @@ Many widgets use a horizontal carousel layout for browsing content (news, papers
 - Natural endpoint to scrolling
 - Consistent pattern across all carousel widgets
 
+**10. Responsive image containers with aspect-ratio**
+- Use CSS `aspect-ratio` property, not fixed heights
+- Maintains correct proportions across all screen sizes
+- Standard ratios: 2:1 for most platforms (GitHub, Reddit, HackerNews, Google News, ProductHunt), 1.85:1 for HuggingFace
+- Same aspect ratio on desktop and mobile - only override `background-size` when needed
+- Desktop: `background-size: contain` for GitHub (no cropping), `cover` for others (fills space)
+- Mobile: Can switch to `contain` (e.g., HuggingFace) to prevent cropping on small screens
+- Benefits: More maintainable (adapts to card width changes), explicit intent (ratio visible in code), no layout shift
+
+```css
+/* ✅ GOOD: Responsive with aspect-ratio */
+.thumbnail {
+    width: 100%;
+    aspect-ratio: 2 / 1;  /* Explicit, maintainable */
+    background-size: cover;
+}
+
+@media (max-width: 768px) {
+    .thumbnail {
+        background-size: contain;  /* Only override what changes */
+    }
+}
+
+/* ❌ BAD: Fixed height breaks on different card widths */
+.thumbnail {
+    width: 100%;
+    height: 140px;  /* Only correct for one specific width */
+}
+```
+
 ### Why These Principles Matter
 
 These aren't just code patterns - they solve real UX problems:
@@ -989,8 +1019,9 @@ These aren't just code patterns - they solve real UX problems:
 - **Empty space** looks broken and unprofessional (principle 6)
 - **Overflow content** breaks visual rhythm (principle 7)
 - **Random dimensions** creates visual chaos (principles 1, 8)
+- **Fixed heights** break on responsive layouts (principle 10)
 
-Following these principles creates carousels that feel polished, professional, and easy to scan - even when displaying very different content types (papers vs posts vs repos).
+Following these principles creates carousels that feel polished, professional, and easy to scan - even when displaying very different content types (papers vs posts vs repos). The aspect-ratio approach ensures images look perfect on any screen size without manual height calculations.
 
 ---
 

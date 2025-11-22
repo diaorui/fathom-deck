@@ -15,7 +15,7 @@
 /* Thumbnail section with placeholder */
 .widget-producthunt .product-thumbnail {
     width: 100%;
-    height: 140px;
+    aspect-ratio: 2 / 1;
     background-color: rgba(255, 255, 255, 0.03);
     border-radius: 4px;
     margin-bottom: 10px;
@@ -103,6 +103,10 @@
 
 /* Mobile adjustments: more lines for better readability */
 @media (max-width: 768px) {
+    .widget-producthunt .product-thumbnail {
+        /* aspect-ratio already set above */
+    }
+
     .widget-producthunt .product-name {
         -webkit-line-clamp: 3;
         min-height: calc(0.95rem * 1.4 * 3);

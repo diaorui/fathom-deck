@@ -15,9 +15,9 @@
 /* Rich preview image (model thumbnail) */
 .widget-huggingface-models .model-thumbnail {
     width: 100%;
-    height: 140px;
+    aspect-ratio: 1.85 / 1;
     background-size: cover;
-    background-position: left top;
+    background-position: center;
     border-radius: 4px;
     margin-bottom: 10px;
     background-color: rgba(255, 255, 255, 0.03);
@@ -152,6 +152,10 @@
 
 /* Mobile adjustments: no changes needed for model name (stays 1 line) */
 @media (max-width: 768px) {
+    .widget-huggingface-models .model-thumbnail {
+        background-size: contain;
+    }
+
     .widget-huggingface-models .model-tag {
         padding: 4px 6px;
     }

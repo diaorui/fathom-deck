@@ -15,7 +15,7 @@
 /* Rich preview image */
 .widget-google-news .article-thumbnail {
     width: 100%;
-    height: 140px;
+    aspect-ratio: 2 / 1;
     background-size: cover;
     background-position: center;
     border-radius: 4px;
@@ -139,6 +139,10 @@
 
 /* Mobile adjustments: more lines for better readability */
 @media (max-width: 768px) {
+    .widget-google-news .article-thumbnail {
+        /* aspect-ratio already set above */
+    }
+
     .widget-google-news .news-headline {
         -webkit-line-clamp: 3;
         min-height: calc(0.95rem * 1.4 * 3);

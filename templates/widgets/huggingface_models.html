@@ -39,7 +39,7 @@
     flex: 1;
 }
 
-/* Model name (first line after thumbnail) */
+/* Model name (first line after thumbnail) - single line only */
 .widget-huggingface-models .model-name {
     font-size: 0.95rem;
     font-weight: 600;
@@ -48,6 +48,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    min-height: calc(0.95rem * 1.4);
 }
 
 .widget-huggingface-models .model-name a {
@@ -78,7 +79,7 @@
 }
 
 .widget-huggingface-models .model-author {
-    color: #9ca3af;
+    color: #ff9d00;
     font-size: 0.8rem;
     font-weight: 400;
     overflow: hidden;
@@ -89,12 +90,11 @@
 }
 
 .widget-huggingface-models .model-author a {
-    color: #9ca3af;
+    color: #ff9d00;
     text-decoration: none;
 }
 
 .widget-huggingface-models .model-author a:hover {
-    color: #ff9d00;
     text-decoration: underline;
 }
 
@@ -115,6 +115,14 @@
     overflow: hidden;
 }
 
+.widget-huggingface-models .model-meta-line.tags-line {
+    min-height: calc(0.7rem + 4px);
+    max-height: calc(0.7rem + 4px);
+    overflow: hidden;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
 .widget-huggingface-models .model-meta-item {
     display: flex;
     align-items: center;
@@ -132,11 +140,26 @@
     border-radius: 3px;
     font-size: 0.7rem;
     font-weight: 500;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
 }
 
 .widget-huggingface-models .model-stats {
     color: #9ca3af;
     font-weight: 500;
+}
+
+/* Mobile adjustments: no changes needed for model name (stays 1 line) */
+@media (max-width: 768px) {
+    .widget-huggingface-models .model-tag {
+        padding: 4px 6px;
+    }
+
+    .widget-huggingface-models .model-meta-line.tags-line {
+        min-height: calc(0.7rem + 8px);
+        max-height: calc(0.7rem + 8px);
+    }
 }
 </style>
 
@@ -181,7 +204,7 @@
 
                         <!-- Metadata (tags, stats, time) -->
                         <div class="model-meta">
-                            <div class="model-meta-line">
+                            <div class="model-meta-line tags-line">
                                 {% if model.pipeline_tag %}
                                 <span class="model-tag">{{ model.pipeline_tag }}</span>
                                 {% endif %}

@@ -136,6 +136,19 @@
     object-fit: contain;
     flex-shrink: 0;
 }
+
+/* Mobile adjustments: more lines for better readability */
+@media (max-width: 768px) {
+    .widget-google-news .news-headline {
+        -webkit-line-clamp: 3;
+        min-height: calc(0.95rem * 1.4 * 3);
+    }
+
+    .widget-google-news .article-description {
+        -webkit-line-clamp: 4;
+        min-height: calc(0.75rem * 1.4 * 4);
+    }
+}
 </style>
 
 <div class="widget widget-google-news widget-{{ size }}">

@@ -137,6 +137,19 @@
     object-fit: contain;
     flex-shrink: 0;
 }
+
+/* Mobile adjustments: more lines for better readability */
+@media (max-width: 768px) {
+    .widget-hackernews-posts .post-title {
+        -webkit-line-clamp: 3;
+        min-height: calc(0.95rem * 1.4 * 3);
+    }
+
+    .widget-hackernews-posts .post-description {
+        -webkit-line-clamp: 4;
+        min-height: calc(0.75rem * 1.4 * 4);
+    }
+}
 </style>
 
 <div class="widget widget-hackernews-posts widget-{{ size }}">

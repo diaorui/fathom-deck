@@ -100,6 +100,19 @@
 .widget-producthunt .product-maker {
     font-weight: 500;
 }
+
+/* Mobile adjustments: more lines for better readability */
+@media (max-width: 768px) {
+    .widget-producthunt .product-name {
+        -webkit-line-clamp: 3;
+        min-height: calc(0.95rem * 1.4 * 3);
+    }
+
+    .widget-producthunt .product-tagline {
+        -webkit-line-clamp: 4;
+        min-height: calc(0.75rem * 1.4 * 4);
+    }
+}
 </style>
 
 <div class="widget widget-producthunt widget-{{ size }}">

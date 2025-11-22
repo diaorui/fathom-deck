@@ -160,6 +160,19 @@
     color: #ff9d00;
     font-weight: 500;
 }
+
+/* Mobile adjustments: more lines for better readability */
+@media (max-width: 768px) {
+    .widget-huggingface-papers .paper-title {
+        -webkit-line-clamp: 3;
+        min-height: calc(0.95rem * 1.4 * 3);
+    }
+
+    .widget-huggingface-papers .paper-summary {
+        -webkit-line-clamp: 4;
+        min-height: calc(0.75rem * 1.4 * 4);
+    }
+}
 </style>
 
 <div class="widget widget-huggingface-papers widget-{{ size }}">

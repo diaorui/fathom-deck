@@ -45,7 +45,7 @@
     flex: 1;
 }
 
-/* Repository name (first line after preview) */
+/* Repository name (first line after preview) - single line only */
 .widget-github-repos .repo-name {
     font-size: 0.95rem;
     font-weight: 600;
@@ -54,6 +54,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    min-height: calc(0.95rem * 1.4);
 }
 
 .widget-github-repos .repo-name a {
@@ -133,11 +134,11 @@
 }
 
 .widget-github-repos .repo-meta-line.tags-line {
-    min-height: calc((1rem + 4px) * 2 + 2px);
-    max-height: calc((1rem + 4px) * 2 + 2px);
+    min-height: calc((0.7rem + 4px) * 2 + 4px);
+    max-height: calc((0.7rem + 4px) * 2 + 4px);
     overflow: hidden;
     align-items: flex-start;
-    row-gap: 2px;
+    row-gap: 4px;
     column-gap: 8px;
 }
 
@@ -156,11 +157,30 @@
     font-size: 0.7rem;
     font-weight: 500;
     line-height: 1;
+    display: inline-flex;
+    align-items: center;
 }
 
 .widget-github-repos .repo-stats {
     color: #9ca3af;
     font-weight: 500;
+}
+
+/* Mobile adjustments: more lines for better readability */
+@media (max-width: 768px) {
+    .widget-github-repos .repo-description {
+        -webkit-line-clamp: 4;
+        min-height: calc(0.72rem * 1.4 * 4);
+    }
+
+    .widget-github-repos .repo-tag {
+        padding: 4px 6px;
+    }
+
+    .widget-github-repos .repo-meta-line.tags-line {
+        min-height: calc((0.7rem + 8px) * 2 + 4px);
+        max-height: calc((0.7rem + 8px) * 2 + 4px);
+    }
 }
 </style>
 
@@ -228,12 +248,14 @@
                                 </svg>
                                 <span class="repo-stats">{{ repo.forks_display }}</span>
                             </div>
-                            {% if repo.updated_at %}
+                        </div>
+                        {% if repo.updated_at %}
+                        <div class="repo-meta-line">
                             <div class="repo-meta-item">
                                 <span class="repo-age" data-timestamp="{{ repo.updated_at }}"></span>
                             </div>
-                            {% endif %}
                         </div>
+                        {% endif %}
                     </div>
                     </div>
                 </div>

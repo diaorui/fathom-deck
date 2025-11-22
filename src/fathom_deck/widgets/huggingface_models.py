@@ -54,9 +54,10 @@ class HuggingfaceModelsWidget(BaseWidget):
                         else:
                             num_params = f"{num_params:,}"
 
-                # Get author avatar from authorData
+                # Get author info from authorData
                 author_data = model.get("authorData", {})
                 avatar_url = author_data.get("avatarUrl", "")
+                author_fullname = author_data.get("fullname", "")
 
                 # Construct thumbnail URL (same pattern as papers)
                 model_id = model["id"]
@@ -65,6 +66,7 @@ class HuggingfaceModelsWidget(BaseWidget):
                 models.append({
                     "id": model_id,
                     "author": model.get("author", model_id.split("/")[0]),
+                    "author_fullname": author_fullname,
                     "name": model_id.split("/")[-1],
                     "url": f"https://huggingface.co/{model_id}",
                     "thumbnail": thumbnail_url,

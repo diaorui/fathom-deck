@@ -172,10 +172,10 @@
                         <!-- Author with avatar (second line) -->
                         <div class="model-author-line">
                             {% if model.avatar %}
-                            <img src="{{ model.avatar }}" alt="{{ model.author }}" class="model-avatar">
+                            <img src="{{ model.avatar }}" alt="{{ model.author_fullname or model.author }}" class="model-avatar">
                             {% endif %}
                             <div class="model-author">
-                                <a href="https://huggingface.co/{{ model.author }}" target="_blank" onclick="event.stopPropagation();">{{ model.author }}</a>
+                                <a href="https://huggingface.co/{{ model.author }}" target="_blank" onclick="event.stopPropagation();">{{ model.author_fullname or model.author }}</a>
                             </div>
                         </div>
 

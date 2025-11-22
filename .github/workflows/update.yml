@@ -40,12 +40,17 @@ jobs:
           # Try to fetch and restore cache from data branch (shallow fetch)
           if git fetch --depth=1 origin data:refs/remotes/origin/data 2>/dev/null && \
              git ls-remote --exit-code --heads origin data >/dev/null 2>&1; then
-            echo "📦 Restoring cache from data branch..."
+            echo "📦 Restoring data from data branch..."
             git checkout origin/data -- data/cache/ 2>/dev/null || true
-            if [ -d data/cache ]; then
-              echo "✅ Cache restored successfully"
+            git checkout origin/data -- data/raw/ 2>/dev/null || true
+            git checkout origin/data -- data/processed/ 2>/dev/null || true
+            if [ -d data/cache ] || [ -d data/raw ] || [ -d data/processed ]; then
+              echo "✅ Data restored successfully"
+              [ -d data/cache ] && echo "   - Cache timestamps restored"
+              [ -d data/raw ] && echo "   - Raw data restored"
+              [ -d data/processed ] && echo "   - Processed data restored"
             else
-              echo "⚠️  No cache found on data branch"
+              echo "⚠️  No data found on data branch"
             fi
           else
             echo "ℹ️  Data branch doesn't exist yet, starting fresh"
@@ -93,6 +98,8 @@ jobs:
           mkdir -p /tmp/fathom-build
           cp -r docs /tmp/fathom-build/ || true
           cp -r data/cache /tmp/fathom-build/ || true
+          cp -r data/raw /tmp/fathom-build/ || true
+          cp -r data/processed /tmp/fathom-build/ || true
 
           # Fetch data branch (or create if doesn't exist) - shallow fetch
           git fetch --depth=1 origin data:refs/remotes/origin/data || true
@@ -100,7 +107,7 @@ jobs:
           # Check if data branch exists on remote
           if git ls-remote --exit-code --heads origin data; then
             git checkout -B data origin/data
-            # Keep only docs/ and data/cache/, remove everything else
+            # Keep only docs/ and data/, remove everything else
             git rm -rf . 2>/dev/null || true
           else
             # Create new orphan branch (no history from main)
@@ -112,10 +119,12 @@ jobs:
           cp -r /tmp/fathom-build/docs . || true
           mkdir -p data
           cp -r /tmp/fathom-build/cache data/ || true
+          cp -r /tmp/fathom-build/raw data/ || true
+          cp -r /tmp/fathom-build/processed data/ || true
 
           # Add only generated files (no source code)
-          # Use -f to force add docs/ which is in .gitignore
-          git add -f docs/ data/cache/
+          # Use -f to force add docs/ and data/ which may be in .gitignore
+          git add -f docs/ data/
 
           # Commit if there are changes
           git diff --quiet && git diff --staged --quiet || \

@@ -72,6 +72,15 @@ def process_all():
                     skipped_count += 1
                     continue
 
+                # Check if processed data already exists and is up-to-date
+                processed_file = data_processed_dir / f"{cache_key}.json"
+                if processed_file.exists():
+                    # Only skip if processed data is newer than raw data
+                    if processed_file.stat().st_mtime >= raw_file.stat().st_mtime:
+                        skipped_count += 1
+                        continue
+                    # Otherwise, raw data is newer - reprocess it
+
                 # Load raw data
                 try:
                     with open(raw_file, 'r') as f:
@@ -101,7 +110,6 @@ def process_all():
                     processed_data = widget.process_data(raw_data)
 
                     # Save processed data
-                    processed_file = data_processed_dir / f"{cache_key}.json"
                     with open(processed_file, 'w') as f:
                         json.dump(processed_data, f, indent=2)
 

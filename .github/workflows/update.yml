@@ -41,14 +41,25 @@ jobs:
           if git fetch --depth=1 origin data:refs/remotes/origin/data 2>/dev/null && \
              git ls-remote --exit-code --heads origin data >/dev/null 2>&1; then
             echo "📦 Restoring data from data branch..."
-            git checkout origin/data -- data/cache/ 2>/dev/null || true
-            git checkout origin/data -- data/raw/ 2>/dev/null || true
-            git checkout origin/data -- data/processed/ 2>/dev/null || true
+
+            # Check and restore each directory individually
+            if git ls-tree -r origin/data --name-only | grep -q "^data/cache/"; then
+              git checkout origin/data -- data/cache/
+              echo "   - Cache timestamps restored"
+            fi
+
+            if git ls-tree -r origin/data --name-only | grep -q "^data/raw/"; then
+              git checkout origin/data -- data/raw/
+              echo "   - Raw data restored"
+            fi
+
+            if git ls-tree -r origin/data --name-only | grep -q "^data/processed/"; then
+              git checkout origin/data -- data/processed/
+              echo "   - Processed data restored"
+            fi
+
             if [ -d data/cache ] || [ -d data/raw ] || [ -d data/processed ]; then
               echo "✅ Data restored successfully"
-              [ -d data/cache ] && echo "   - Cache timestamps restored"
-              [ -d data/raw ] && echo "   - Raw data restored"
-              [ -d data/processed ] && echo "   - Processed data restored"
             else
               echo "⚠️  No data found on data branch"
             fi

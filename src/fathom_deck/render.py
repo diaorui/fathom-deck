@@ -129,6 +129,14 @@ def render_all():
             print(f"    ❌ Failed to render page: {e}")
             failed_pages += 1
 
+    # Generate index.html
+    print("\n📑 Generating index.html...")
+    try:
+        generate_index(page_files, docs_dir, templates_dir)
+        print("    ✅ Index generated")
+    except Exception as e:
+        print(f"    ❌ Failed to generate index: {e}")
+
     # Print summary
     print(f"\n{'='*60}")
     print(f"📊 Render Summary:")
@@ -136,6 +144,43 @@ def render_all():
     print(f"   ❌ Failed: {failed_pages} pages")
     print(f"   📁 Output: {docs_dir}")
     print(f"{'='*60}\n")
+
+
+def generate_index(page_files: list, docs_dir: Path, templates_dir: Path):
+    """Generate index.html that lists all pages grouped by category."""
+    from collections import defaultdict
+
+    # Load all page configs and group by category
+    pages_by_category = defaultdict(list)
+
+    for page_file in page_files:
+        try:
+            page_config = load_page_config(page_file)
+            if page_config.enabled:
+                pages_by_category[page_config.category].append(page_config)
+        except Exception as e:
+            print(f"    ⚠️  Skipping {page_file.name} in index: {e}")
+            continue
+
+    # Sort pages within each category by name
+    for category in pages_by_category:
+        pages_by_category[category].sort(key=lambda p: p.name)
+
+    # Set up Jinja2 environment
+    env = Environment(loader=FileSystemLoader(templates_dir))
+    template = env.get_template("pages/index.html")
+
+    # Render index
+    index_html = template.render(
+        pages_by_category=dict(pages_by_category),
+        categories=sorted(pages_by_category.keys()),
+        generated_at=datetime.now().isoformat()
+    )
+
+    # Save index.html
+    index_output = docs_dir / "index.html"
+    with open(index_output, 'w') as f:
+        f.write(index_html)
 
 
 if __name__ == "__main__":

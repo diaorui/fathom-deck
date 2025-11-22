@@ -37,6 +37,13 @@
         .page-header h1 {
             font-size: 2.5rem;
             margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .page-icon {
+            font-size: 2.5rem;
         }
 
         .page-header p {
@@ -98,8 +105,18 @@
                 grid-column: span 12;
             }
 
+            .page-header {
+                text-align: center;
+            }
+
             .page-header h1 {
-                font-size: 2rem;
+                font-size: 1.8rem;
+                flex-direction: column;
+                gap: 8px;
+            }
+
+            .page-icon {
+                font-size: 3rem;
             }
         }
 
@@ -213,7 +230,10 @@
 </head>
 <body>
     <header class="page-header">
-        <h1>{% if page.icon %}{{ page.icon }} {% endif %}{{ page.name }}</h1>
+        <h1>
+            {% if page.icon %}<span class="page-icon">{{ page.icon }}</span>{% endif %}
+            <span>{{ page.name }}</span>
+        </h1>
         {% if page.description %}
         <p>{{ page.description }}</p>
         {% endif %}

@@ -910,6 +910,90 @@ class WidgetConfig(BaseModel):
 
 ---
 
+## Carousel Widget Design Principles
+
+Many widgets use a horizontal carousel layout for browsing content (news, papers, repos, posts). These design principles ensure carousels look polished and professional:
+
+### Core Layout Principles
+
+**1. Fixed card dimensions**
+- Every card has the same width (typically 280px on desktop, 100% on mobile)
+- Creates visual rhythm and predictable horizontal scanning
+- Users build muscle memory for scrolling distance
+- Prevents jarring size changes that break focus
+
+**2. Uniform layout within carousel**
+- Every card in the same carousel follows identical structure
+- Reduces cognitive load - users learn the pattern once
+- Information is always in expected locations (title top, metadata bottom)
+- Enables fast scanning without re-learning each card
+
+**3. Reserved space for all elements**
+- Every element has fixed height, even when empty
+- Use `min-height: calc()` to reserve space for optional content
+- Prevents layout shift - cards don't jump when scrolling
+- Professional polish and visual stability
+
+### Information Hierarchy
+
+**4. Three-part card structure**
+- **Top**: Thumbnail/preview image (140px height)
+- **Middle**: Main content (title, description) with `flex: 1`
+- **Bottom**: Metadata/actions (stats, links, timestamps)
+- Natural reading order: preview → content → details
+- Clear visual hierarchy guides the eye
+
+**5. Metadata pinned to bottom**
+- Use `margin-top: auto` to push metadata to bottom
+- Consistent location for timestamps, links, stats
+- Users know exactly where to look for actions
+- Creates visual anchor point across all cards
+
+### Content Handling
+
+**6. Graceful empty states**
+- Placeholder images (emoji via `::before`) for missing thumbnails
+- Maintains visual balance and completeness
+- Empty space looks broken; placeholder shows intentional design
+- Subtle emoji maintains brand personality without overwhelming
+
+**7. Controlled overflow**
+- Use `-webkit-line-clamp` with `overflow: hidden` for text
+- Multi-line title: 2 lines with `line-height: 1.4`
+- Single-line metadata: `white-space: nowrap` with `text-overflow: ellipsis`
+- One verbose title doesn't break the entire layout
+- Forces uniform information density
+
+**8. Consistent dimensions**
+- Thumbnails: 140px height across all carousel widgets
+- Spacing: 6-10px margins, standardized across widgets
+- Line heights: 1.4 for multi-line content, 1.2 for single-line
+- Cross-widget familiarity - users build mental model
+- Creates visual harmony despite different content types
+
+### Navigation
+
+**9. "View All" card at end**
+- Final card in carousel links to full view on source site
+- Clear call-to-action without disrupting carousel flow
+- Suggests more content exists beyond preview
+- Natural endpoint to scrolling
+- Consistent pattern across all carousel widgets
+
+### Why These Principles Matter
+
+These aren't just code patterns - they solve real UX problems:
+
+- **Layout shift** destroys user trust (principle 3)
+- **Inconsistent structure** forces users to re-learn each card (principle 2)
+- **Empty space** looks broken and unprofessional (principle 6)
+- **Overflow content** breaks visual rhythm (principle 7)
+- **Random dimensions** creates visual chaos (principles 1, 8)
+
+Following these principles creates carousels that feel polished, professional, and easy to scan - even when displaying very different content types (papers vs posts vs repos).
+
+---
+
 ## Key Learnings & Best Practices
 
 **These are non-obvious patterns learned from TopicRadar that are easy to overlook:**

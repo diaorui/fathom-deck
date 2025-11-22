@@ -1,8 +1,14 @@
 <style>
-    /* Reddit specific card styling */
-    .widget-reddit-posts .carousel-card {
-        border-left: 3px solid #FF4500;
-    }
+/* Reddit specific card styling */
+.widget-reddit-posts .carousel-card {
+    border-left: 3px solid #FF4500;
+    display: flex;
+    flex-direction: column;
+}
+
+.widget-reddit-posts .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(255, 69, 0, 0.2);
+}
 
     .widget-reddit-posts .post-thumbnail {
         width: 100%;
@@ -50,6 +56,7 @@
         -webkit-line-clamp: 3;
         -webkit-box-orient: vertical;
         overflow: hidden;
+        min-height: calc(0.75rem * 1.4 * 3);
     }
 
     .widget-reddit-posts .post-meta {

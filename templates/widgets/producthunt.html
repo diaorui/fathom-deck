@@ -1,58 +1,103 @@
 <style>
-    /* ProductHunt specific card styling */
-    .widget-producthunt .carousel-card {
-        border-left: 3px solid #DA552F;
-    }
+/* ProductHunt specific card styling */
+.widget-producthunt .carousel-card {
+    border-left: 3px solid #DA552F;
+    display: flex;
+    flex-direction: column;
+}
 
-    .widget-producthunt .product-name {
-        font-size: 0.95rem;
-        font-weight: 500;
-        margin-bottom: 10px;
-        line-height: 1.4;
-        display: -webkit-box;
-        -webkit-line-clamp: 2;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-    }
+.widget-producthunt .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(218, 85, 47, 0.2);
+}
 
-    .widget-producthunt .product-name a {
-        color: var(--text-color);
-        text-decoration: none;
-    }
+/* Thumbnail section with placeholder */
+.widget-producthunt .product-thumbnail {
+    width: 100%;
+    height: 140px;
+    background-color: rgba(255, 255, 255, 0.03);
+    border-radius: 4px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
 
-    .widget-producthunt .product-name a:hover {
-        color: #DA552F;
-    }
+/* Always show placeholder (ProductHunt RSS has no images) */
+.widget-producthunt .product-thumbnail::before {
+    content: "🚀";
+    opacity: 0.3;
+}
 
-    .widget-producthunt .product-tagline {
-        font-size: 0.72rem;
-        color: #9ca3af;
-        margin-bottom: 10px;
-        line-height: 1.4;
-        display: -webkit-box;
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-        flex: 1;
-    }
+.widget-producthunt .product-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
 
-    .widget-producthunt .product-meta {
-        display: flex;
-        flex-direction: column;
-        gap: 4px;
-        font-size: 0.72rem;
-        color: #9ca3af;
-    }
+.widget-producthunt .product-name {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 8px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: calc(0.95rem * 1.4 * 2);
+}
 
-    .widget-producthunt .product-meta-line {
-        display: flex;
-        align-items: center;
-        gap: 8px;
-    }
+.widget-producthunt .product-name a {
+    color: var(--text-color);
+    text-decoration: none;
+}
 
-    .widget-producthunt .product-maker {
-        font-weight: 500;
-    }
+.widget-producthunt .product-name a:hover {
+    color: #DA552F;
+}
+
+.widget-producthunt .product-tagline {
+    font-size: 0.75rem;
+    color: #9ca3af;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: calc(0.75rem * 1.4 * 3);
+}
+
+.widget-producthunt .product-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+    margin-top: auto;
+}
+
+.widget-producthunt .product-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: nowrap;
+    overflow: hidden;
+}
+
+.widget-producthunt .product-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+}
+
+.widget-producthunt .product-maker {
+    font-weight: 500;
+}
 </style>
 
 <div class="widget widget-producthunt widget-{{ size }}">
@@ -76,29 +121,36 @@
                 id="producthunt-carousel-{{ category|default('all')|replace(' ', '-')|replace(':', '-')|replace('.', '-') }}">
                 {% for product in products %}
                 <div class="carousel-card" onclick="window.open('{{ product.url }}', '_blank')">
-                    <div class="product-name">
-                        <a href="{{ product.url }}" target="_blank" onclick="event.stopPropagation();">{{ product.name
-                            }}</a>
-                    </div>
-                    {% if product.tagline %}
-                    <div class="product-tagline">
-                        {{ product.tagline }}
-                    </div>
-                    {% endif %}
-                    <div class="product-meta">
-                        <div class="product-meta-line">
-                            {% if product.maker %}
-                            <div class="product-maker">
-                                by {{ product.maker }}
-                            </div>
-                            {% endif %}
+                    <!-- Thumbnail with placeholder -->
+                    <div class="product-thumbnail"></div>
+
+                    <div class="product-content">
+                        <!-- Product name -->
+                        <div class="product-name">
+                            <a href="{{ product.url }}" target="_blank" onclick="event.stopPropagation();">{{ product.name }}</a>
                         </div>
-                        <div class="product-meta-line">
-                            {% if product.pub_date %}
-                            <div class="product-date">
-                                <span data-timestamp="{{ product.pub_date }}"></span>
+
+                        <!-- Tagline (always reserve space) -->
+                        <div class="product-tagline">
+                            {{ product.tagline or '' }}
+                        </div>
+
+                        <!-- Metadata -->
+                        <div class="product-meta">
+                            <div class="product-meta-line">
+                                {% if product.maker %}
+                                <div class="product-meta-item product-maker">
+                                    by {{ product.maker }}
+                                </div>
+                                {% endif %}
                             </div>
-                            {% endif %}
+                            <div class="product-meta-line">
+                                {% if product.pub_date %}
+                                <div class="product-meta-item">
+                                    <span data-timestamp="{{ product.pub_date }}"></span>
+                                </div>
+                                {% endif %}
+                            </div>
                         </div>
                     </div>
                 </div>

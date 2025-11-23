@@ -1,6 +1,6 @@
 # GitHub Setup Guide
 
-This guide walks you through deploying FathomDeck to GitHub Pages with automatic updates.
+This guide walks you through deploying PeekDeck to GitHub Pages with automatic updates.
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ git init
 
 # Add all files
 git add .
-git commit -m "Initial commit: FathomDeck MVP"
+git commit -m "Initial commit: PeekDeck MVP"
 
 # Create repo on GitHub, then:
 git remote add origin https://github.com/YOUR_USERNAME/fathom-deck.git
@@ -124,9 +124,9 @@ widgets:
 
 ## Troubleshooting
 
-### Workflow fails with "No module named 'fathom_deck'"
+### Workflow fails with "No module named 'peek_deck'"
 
-This is handled by `PYTHONPATH` in the workflow. If it still fails, check that `src/fathom_deck/` exists in your repo.
+This is handled by `PYTHONPATH` in the workflow. If it still fails, check that `src/peek_deck/` exists in your repo.
 
 ### API rate limits
 

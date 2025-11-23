@@ -1,12 +1,18 @@
 """Configuration and widget loading utilities."""
 
 import importlib
+import sys
 import yaml
 from pathlib import Path
 from typing import Dict, List, Type
 
 from .base_widget import BaseWidget
 from .config import PageConfig
+
+# Import package name from central config
+_project_root = Path(__file__).parent.parent.parent.parent
+sys.path.insert(0, str(_project_root))
+from project_config import PACKAGE_NAME
 
 
 def load_yaml(file_path: Path) -> dict:
@@ -55,8 +61,8 @@ def load_widget_class(widget_type: str) -> Type[BaseWidget]:
     module_name = widget_type.replace("-", "_")
 
     try:
-        # Import the widget module
-        module = importlib.import_module(f"fathom_deck.widgets.{module_name}")
+        # Import the widget module (using centralized package name)
+        module = importlib.import_module(f"{PACKAGE_NAME}.widgets.{module_name}")
 
         # Convert to PascalCase for class name
         # e.g., "crypto_price" -> "CryptoPriceWidget"
@@ -72,8 +78,8 @@ def load_widget_class(widget_type: str) -> Type[BaseWidget]:
 
     except ImportError as e:
         raise ImportError(
-            f"Widget module 'fathom_deck.widgets.{module_name}' not found. "
-            f"Expected file: src/fathom_deck/widgets/{module_name}.py"
+            f"Widget module '{PACKAGE_NAME}.widgets.{module_name}' not found. "
+            f"Expected file: src/{PACKAGE_NAME}/widgets/{module_name}.py"
         ) from e
     except AttributeError as e:
         raise AttributeError(

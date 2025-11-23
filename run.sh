@@ -1,5 +1,5 @@
 #!/bin/bash
-# Convenience script to run FathomDeck pipeline
+# Convenience script to run PeekDeck pipeline
 
 export PYTHONPATH="${PYTHONPATH}:${PWD}/src"
 
@@ -9,4 +9,4 @@ if [ "$1" = "all" ]; then
     rm -rf data
 fi
 
-python -m fathom_deck "$@"
+python -m peek_deck "$@"

@@ -1,6 +1,6 @@
-# FathomDeck
+# PeekDeck
 
-> **Still waters, moving data.**
+> **A glance is all you need.**
 
 A configurable, widget-based monitoring system that generates static dashboards for tracking various data sources.
 
@@ -17,15 +17,15 @@ pip install -r requirements.txt
 ```bash
 # Run all stages (fetch, process, render)
 export PYTHONPATH="${PYTHONPATH}:${PWD}/src"
-python -m fathom_deck all
+python -m peek_deck all
 ```
 
 Or run individual stages:
 
 ```bash
-python -m fathom_deck fetch    # Stage 1: Fetch data from APIs
-python -m fathom_deck process  # Stage 2: Process raw data
-python -m fathom_deck render   # Stage 3: Render HTML
+python -m peek_deck fetch    # Stage 1: Fetch data from APIs
+python -m peek_deck process  # Stage 2: Process raw data
+python -m peek_deck render   # Stage 3: Render HTML
 ```
 
 ### 3. View the Output
@@ -36,7 +36,7 @@ Open `docs/crypto/bitcoin.html` in your browser to see the Bitcoin dashboard.
 
 ```
 fathom-deck/
-├── src/fathom_deck/           # Python source code
+├── src/peek_deck/             # Python source code
 │   ├── core/                  # Core framework
 │   │   ├── base_widget.py     # BaseWidget class
 │   │   ├── cache.py           # Cache system
@@ -100,7 +100,7 @@ Then run the pipeline:
 
 ## GitHub Actions (Automated Updates)
 
-FathomDeck includes a GitHub Actions workflow that automatically updates your dashboards every 5 minutes.
+PeekDeck includes a GitHub Actions workflow that automatically updates your dashboards every 5 minutes.
 
 **Setup:**
 1. Push your repo to GitHub

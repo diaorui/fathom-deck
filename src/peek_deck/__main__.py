@@ -1,12 +1,18 @@
-"""CLI entry point for FathomDeck."""
+"""CLI entry point for PeekDeck."""
 
 import sys
+from pathlib import Path
+
+# Import package name from central config
+_project_root = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(_project_root))
+from project_config import PACKAGE_NAME
 
 
 def main():
     """Main CLI entry point."""
     if len(sys.argv) < 2:
-        print("Usage: python -m fathom_deck <command>")
+        print(f"Usage: python -m {PACKAGE_NAME} <command>")
         print("\nCommands:")
         print("  fetch    - Stage 1: Fetch data from external APIs")
         print("  process  - Stage 2: Process raw data")

@@ -1,10 +1,10 @@
-# FathomDeck Design Document
+# PeekDeck Design Document
 
-> **Still waters, moving data.**
+> **A glance is all you need.**
 
 ## Overview
 
-FathomDeck is a configurable, widget-based monitoring system that generates static dashboards for tracking various data sources. Users define pages with widgets, each widget fetches and visualizes specific data, and the system outputs static HTML pages deployed via GitHub Actions.
+PeekDeck is a configurable, widget-based monitoring system that generates static dashboards for tracking various data sources. Users define pages with widgets, each widget fetches and visualizes specific data, and the system outputs static HTML pages deployed via GitHub Actions.
 
 **First Use Case:** Cryptocurrency monitoring dashboards (Bitcoin, Ethereum, etc.)
 
@@ -61,7 +61,7 @@ A **widget** is a self-contained component that:
 
 ```
 fathom-deck/
-├── src/fathom_deck/           # Python source code
+├── src/peek_deck/           # Python source code
 │   ├── core/                  # Core framework (BaseWidget, cache, renderer)
 │   └── widgets/               # All widgets (flat structure)
 │       ├── crypto_price.py
@@ -225,7 +225,7 @@ sort_by: name  # Options: name, category, recent
 
 Widgets are loaded dynamically based on page configs:
 - Page config specifies `type: crypto-price`
-- Pipeline imports `src/fathom_deck/widgets/crypto_price.py` (converts kebab-case to snake_case)
+- Pipeline imports `src/peek_deck/widgets/crypto_price.py` (converts kebab-case to snake_case)
 - Instantiates the `BaseWidget` subclass found in that module
 - Only used widgets are loaded (lazy loading)
 - Config is the source of truth, not the filesystem
@@ -706,18 +706,18 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Stage 1 - Fetch data
-        run: python -m fathom_deck fetch
+        run: python -m peek_deck fetch
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
 
       - name: Stage 2 - Process data
-        run: python -m fathom_deck process
+        run: python -m peek_deck process
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}  # For LLM calls
 
       - name: Stage 3 - Render HTML
-        run: python -m fathom_deck render
+        run: python -m peek_deck render
 
       - name: Commit and push to data branch
         run: |
@@ -1033,7 +1033,7 @@ Following these principles creates carousels that feel polished, professional, a
 **Solution:** In-memory URL response cache (per workflow run):
 
 ```python
-# src/fathom_deck/core/http_cache.py
+# src/peek_deck/core/http_cache.py
 from datetime import datetime, timedelta
 
 class URLCache:
@@ -1213,9 +1213,9 @@ data = json.loads(response)  # Guaranteed to work!
 
 ### 6. PYTHONPATH Workaround (GitHub Actions)
 
-**Problem:** `python -m fathom_deck.fetch` fails in GitHub Actions:
+**Problem:** `python -m peek_deck.fetch` fails in GitHub Actions:
 ```
-ModuleNotFoundError: No module named 'fathom_deck'
+ModuleNotFoundError: No module named 'peek_deck'
 ```
 
 **Solution:** Set PYTHONPATH in workflow:
@@ -1224,7 +1224,7 @@ steps:
   - name: Stage 1 - Fetch
     run: |
       export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}/src"
-      python -m fathom_deck.fetch
+      python -m peek_deck.fetch
 ```
 
 **Why needed?** GitHub Actions doesn't preserve environment between steps.

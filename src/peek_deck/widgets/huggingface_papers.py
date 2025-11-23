@@ -35,10 +35,7 @@ class HuggingfacePapersWidget(BaseWidget):
                 "sort": sort
             }
 
-            headers = {
-                "User-Agent": "fathom-deck/1.0.0"
-            }
-            response = client.get(url, params=params, headers=headers, response_type="json")
+            response = client.get(url, params=params, response_type="json")
 
             # Extract papers from response
             papers = []

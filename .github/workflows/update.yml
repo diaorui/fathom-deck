@@ -76,7 +76,7 @@ jobs:
       - name: Stage 1 - Fetch data
         run: |
           export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}/src"
-          python -m fathom_deck fetch
+          python -m peek_deck fetch
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
@@ -84,14 +84,14 @@ jobs:
       - name: Stage 2 - Process data
         run: |
           export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}/src"
-          python -m fathom_deck process
+          python -m peek_deck process
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Stage 3 - Render HTML
         run: |
           export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}/src"
-          python -m fathom_deck render
+          python -m peek_deck render
 
       - name: Upload artifacts for debugging
         if: always()

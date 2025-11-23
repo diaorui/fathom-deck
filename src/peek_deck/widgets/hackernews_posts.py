@@ -72,10 +72,7 @@ class HackernewsPostsWidget(BaseWidget):
             if filters:
                 params["numericFilters"] = ",".join(filters)
 
-            headers = {
-                "User-Agent": "fathom-deck/1.0.0"
-            }
-            hn_data = client.get(base_url, params=params, headers=headers, response_type="json")
+            hn_data = client.get(base_url, params=params, response_type="json")
 
             # Extract posts from HN API response
             posts = []

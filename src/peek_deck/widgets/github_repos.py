@@ -58,7 +58,6 @@ class GithubReposWidget(BaseWidget):
             }
 
             headers = {
-                "User-Agent": "fathom-deck/1.0.0",
                 "Accept": "application/vnd.github.v3+json"
             }
             response = client.get(url, params=params, headers=headers, response_type="json")

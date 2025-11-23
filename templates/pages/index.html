@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FathomDeck - Dashboard Index</title>
+    <title>{{ project_name }} - Dashboard Index</title>
     <style>
         :root {
             --background: #1a1a1a;
@@ -130,8 +130,8 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>FathomDeck</h1>
-            <p>Your Personal Dashboard Collection</p>
+            <h1>{{ project_name }}</h1>
+            <p>{{ project_tagline }}</p>
         </div>
 
         {% for category in categories %}
@@ -157,7 +157,7 @@
 
         <div class="footer">
             Generated at {{ generated_at }}<br>
-            Powered by FathomDeck
+            Powered by {{ project_name }}
         </div>
     </div>
 </body>

@@ -650,6 +650,179 @@ The system uses a clean 3-stage pipeline for data flow:
 
 ---
 
+## SEO & AEO Strategy
+
+### Overview
+
+PeekDeck generates static HTML dashboards that need to be discoverable by both traditional search engines (Google, Bing) and AI-powered answer engines (ChatGPT, Perplexity, Gemini).
+
+**Key Statistics (2025):**
+- 65% of searches end without a click (zero-click searches)
+- 34% of U.S. adults use ChatGPT for search
+- Pages with schema markup see 30-50% increase in search impressions
+- Perplexity traffic converts at 20-30% on well-structured pages
+- Listicle format accounts for 32% of all LLM citations
+
+### Current Gaps
+
+**Missing SEO components:**
+- Meta descriptions, Open Graph tags, Twitter Cards
+- Structured data (JSON-LD schema)
+- Canonical URLs, robots meta tags
+- Sitemap.xml, robots.txt
+- Favicon & app icons
+
+**Missing AEO optimizations:**
+- Year markers for recency (2025)
+- Listicle content structure
+- Descriptive widget headers
+- Page summaries for AI extraction
+
+### Architecture Design
+
+#### 1. SEO Configuration in Page YAML
+
+Add optional `seo` section to page configs:
+
+```yaml
+# pages/bitcoin.yaml
+seo:
+  title: "Bitcoin Dashboard 2025 - Live Price, Charts & Market Stats"
+  description: "Track Bitcoin price, market cap, and news with live updates..."
+  keywords: ["bitcoin", "BTC", "cryptocurrency", "price tracker"]
+  og_image: "https://yourdomain.com/images/bitcoin-og.png"  # Optional
+```
+
+**Fallback behavior:** If `seo` section missing, auto-generate from page name/description/widgets.
+
+#### 2. SEOManager Class
+
+Create `src/peek_deck/core/seo_manager.py` with:
+
+**Responsibilities:**
+- Generate SEO metadata (title, description, keywords, canonical URL)
+- Auto-generate from page config if custom SEO not provided
+- Create JSON-LD structured data (WebApplication, BreadcrumbList, Dataset schemas)
+- Generate sitemap.xml (all pages + index with priorities)
+- Generate robots.txt (allow all, point to sitemap)
+
+**Key methods:**
+- `generate_metadata(page_config, custom_seo)` → SEOMetadata
+- `generate_structured_data(page_config, metadata)` → JSON-LD dict
+- `generate_sitemap(pages, base_url)` → sitemap.xml string
+- `generate_robots_txt(base_url)` → robots.txt string
+
+#### 3. Meta Tags in Page Template
+
+Update `templates/pages/page.html` with comprehensive meta tags:
+
+**Categories:**
+- **Primary:** title, description, keywords, author, robots, canonical
+- **Open Graph:** og:type, og:url, og:title, og:description, og:image, og:site_name
+- **Twitter:** twitter:card, twitter:url, twitter:title, twitter:description, twitter:image
+- **Icons:** favicon (16x16, 32x32), apple-touch-icon, manifest
+- **Additional:** theme-color (from page theme), updated timestamp
+
+#### 4. Structured Data (JSON-LD)
+
+Add `<script type="application/ld+json">` to page template with:
+
+**Schema types:**
+- `WebApplication` - Dashboard metadata (name, description, URL, author, dateModified)
+- `BreadcrumbList` - Navigation hierarchy (Home → Page)
+- `Dataset` - Data collection metadata (optional, for data-focused pages)
+
+**Format:** JSON-LD (Google's recommended format, easier to maintain)
+
+#### 5. Integration in render.py
+
+**Render stage modifications:**
+1. Initialize SEOManager with base_url and project_name
+2. For each page: generate SEO metadata and structured data
+3. Pass to template via `seo` and `structured_data` context variables
+4. After all pages: generate sitemap.xml and robots.txt in docs/
+
+### AEO Content Optimization
+
+**Strategies for Answer Engine visibility:**
+
+**1. Year Markers**
+- Include "2025" in titles and descriptions for recency signals
+- LLMs favor recent content
+
+**2. Listicle Format (32% of citations)**
+- Add page summary as bulleted list at top of page
+- "What's on this dashboard:" followed by widget descriptions
+- LLMs extract from structured lists more reliably
+
+**3. Descriptive Headers**
+- Widget H3 titles: "Bitcoin Price Tracker 2025" (not just "Price")
+- Context-rich headers help AI understand content purpose
+
+**4. Comprehensive Single-Source**
+- Each dashboard is self-contained with all relevant information
+- LLMs prefer extracting from one comprehensive source
+
+**5. Platform-Specific Optimization**
+- **ChatGPT:** Comprehensive coverage, clear headers
+- **Perplexity:** High-intent queries, specific titles (6-10x higher CTR)
+- **Common sources:** Wikipedia-style summaries, Reddit-style discussions
+
+### Implementation Phases
+
+**Phase 1: Core SEO** (High Priority)
+- SEOManager class with metadata generation
+- SEO fields in page YAML schema
+- Meta tags in page template
+- Sitemap.xml and robots.txt generation
+
+**Phase 2: Structured Data** (Medium Priority)
+- JSON-LD generation (WebApplication, BreadcrumbList)
+- Schema validation with Google Rich Results Test
+
+**Phase 3: AEO Optimization** (Medium Priority)
+- Year markers in auto-generated titles
+- Page summary lists (listicle format)
+- Descriptive widget headers
+
+**Phase 4: Social & Advanced** (Low Priority)
+- Programmatic OG image generation
+- FAQ schema for common questions
+- Widget-specific structured data
+
+### Expected Results
+
+**SEO:**
+- 30-50% increase in search impressions (schema markup)
+- 20-30% improvement in CTR (proper meta tags)
+- Complete indexing coverage (sitemap)
+
+**AEO:**
+- 32% higher citation rate (listicle format)
+- Better recency signals (year markers)
+- 20-30% conversion on Perplexity traffic
+
+### Configuration
+
+Create `seo_config.py` for deployment-specific settings:
+- BASE_URL (GitHub Pages URL)
+- DEFAULT_OG_IMAGE
+- SITEMAP_CHANGEFREQ, PRIORITY settings
+
+### References
+
+SEO Best Practices:
+- [Meta tags in SEO](https://searchengineland.com/guide/meta-tags)
+- [SEO Meta Data Best Practices for 2025](https://saleshive.com/blog/seo-meta-data-best-practices-rankings-2025/)
+- [SEO HTML Tags 2025](https://mangools.com/blog/seo-html-tags/)
+
+AEO Best Practices:
+- [Answer Engine Optimization](https://neilpatel.com/blog/answer-engine-optimization/)
+- [AEO for ChatGPT, Perplexity, and Gemini](https://www.poweredbysearch.com/blog/aeo-llm-seo-best-practices/)
+- [Complete Guide to AEO 2025](https://www.o8.agency/blog/ai/answer-engine-optimization-guide)
+
+---
+
 ## Update Frequency & GitHub Actions
 
 ### Widget Update Frequency

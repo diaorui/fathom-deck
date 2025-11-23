@@ -6,58 +6,87 @@ A configurable, widget-based monitoring system that generates static dashboards 
 
 ## Quick Start
 
-### 1. Install Dependencies
+### Local Development
 
 ```bash
+# Install dependencies
 pip install -r requirements.txt
-```
 
-### 2. Run the Pipeline
-
-```bash
 # Run all stages (fetch, process, render)
-export PYTHONPATH="${PYTHONPATH}:${PWD}/src"
-python -m peek_deck all
+./run.sh all
+
+# Or run individual stages
+./run.sh fetch    # Stage 1: Fetch data from APIs
+./run.sh process  # Stage 2: Process raw data
+./run.sh render   # Stage 3: Render HTML
+
+# View the output
+open docs/bitcoin.html
 ```
 
-Or run individual stages:
+### GitHub Pages Deployment
+
+**1. Push to GitHub**
 
 ```bash
-python -m peek_deck fetch    # Stage 1: Fetch data from APIs
-python -m peek_deck process  # Stage 2: Process raw data
-python -m peek_deck render   # Stage 3: Render HTML
+git remote add origin https://github.com/YOUR_USERNAME/peek-deck.git
+git push -u origin main
 ```
 
-### 3. View the Output
+**2. Configure Secrets (Optional)**
 
-Open `docs/crypto/bitcoin.html` in your browser to see the Bitcoin dashboard.
+Go to **Settings** → **Secrets and variables** → **Actions** and add:
+- `YOUTUBE_API_KEY` - For YouTube widget (required if using youtube-videos widget)
+
+**3. Enable GitHub Pages**
+
+- Go to **Settings** → **Pages**
+- Set **Source** to `gh-pages` branch
+- Save
+
+**4. Run Workflow**
+
+- Go to **Actions** → **Update Widgets**
+- Click **Run workflow**
+
+Your dashboards will be live at:
+`https://YOUR_USERNAME.github.io/peek-deck/bitcoin.html`
+
+The workflow runs every 5 minutes and only fetches data for widgets that need updating (based on `update_minutes`).
 
 ## Project Structure
 
 ```
 peek-deck/
+├── pages/                     # Page configurations
+│   ├── bitcoin.yaml
+│   ├── ethereum.yaml
+│   └── ai.yaml
+│
 ├── src/peek_deck/             # Python source code
 │   ├── core/                  # Core framework
 │   │   ├── base_widget.py     # BaseWidget class
 │   │   ├── cache.py           # Cache system
 │   │   ├── config.py          # Pydantic models
 │   │   └── loader.py          # Config/widget loaders
-│   ├── widgets/               # All widgets
-│   │   └── crypto_price.py    # Crypto price widget
+│   ├── widgets/               # Widget implementations
+│   │   ├── crypto_price.py
+│   │   ├── crypto_price_chart.py
+│   │   ├── crypto_market_stats.py
+│   │   ├── google_news.py
+│   │   ├── reddit_posts.py
+│   │   ├── hackernews_posts.py
+│   │   ├── youtube_videos.py
+│   │   ├── github_repos.py
+│   │   ├── huggingface_models.py
+│   │   └── huggingface_papers.py
 │   ├── fetch.py               # Stage 1: Fetch data
 │   ├── process.py             # Stage 2: Process data
 │   └── render.py              # Stage 3: Render HTML
 │
 ├── templates/                 # Jinja2 templates
-│   ├── widgets/               # Widget templates (future)
-│   └── pages/
-│       └── page.html          # Page layout
-│
-├── series/                    # Series configurations
-│   └── crypto/
-│       ├── config.yaml        # Series theme/config
-│       └── pages/
-│           └── bitcoin.yaml   # Bitcoin page config
+│   ├── widgets/               # Widget templates
+│   └── pages/                 # Page templates
 │
 ├── data/                      # Generated data (gitignored)
 │   ├── raw/                   # Raw API responses
@@ -65,69 +94,83 @@ peek-deck/
 │   └── cache/                 # Cache metadata
 │
 └── docs/                      # Generated HTML (gitignored locally)
-    └── crypto/
-        └── bitcoin.html       # Bitcoin dashboard
+    ├── index.html
+    ├── bitcoin.html
+    └── ai.html
 ```
+
+## Available Widgets
+
+### Crypto Widgets
+- **crypto-price** - Current price, bid, ask, volume (Binance API)
+- **crypto-price-chart** - Historical price charts with multiple timeframes
+- **crypto-market-stats** - Market cap, supply, volume, ATH/ATL (CoinGecko API)
+
+### News & Discussion
+- **google-news** - News articles from Google News RSS
+- **reddit-posts** - Top posts from any subreddit
+- **hackernews-posts** - Search HackerNews stories
+- **youtube-videos** - YouTube search results
+
+### Tech & AI
+- **github-repos** - Trending GitHub repositories
+- **huggingface-models** - Trending models from Hugging Face
+- **huggingface-papers** - Latest papers from Hugging Face
 
 ## Adding a New Page
 
-Create a YAML file in `series/crypto/pages/`:
+Create a YAML file in `pages/`:
 
 ```yaml
-# ethereum.yaml
-series: crypto
+# pages/ethereum.yaml
+category: crypto
 id: ethereum
 name: Ethereum
 description: Real-time Ethereum monitoring
 icon: "Ξ"
 enabled: true
 
+theme:
+  primary_color: "#627eea"
+  background: "#1a1a1a"
+  text_color: "#ffffff"
+  card_background: "#2d2d2d"
+  border_radius: "8px"
+
 params:
-  symbol: ethusd
+  symbol: ETHUSDT
   coin_id: ethereum
 
 widgets:
   - type: crypto-price
-    size: medium
+    size: small
     update_minutes: 5
+
+  - type: crypto-price-chart
+    size: large
+    update_minutes: 10
+
+  - type: crypto-market-stats
+    size: full
+    update_minutes: 30
 ```
 
-Then run the pipeline:
+Run the pipeline:
 
 ```bash
 ./run.sh all
 ```
 
-## GitHub Actions (Automated Updates)
-
-PeekDeck includes a GitHub Actions workflow that automatically updates your dashboards every 5 minutes.
-
-**Setup:**
-1. Push your repo to GitHub
-2. Follow the instructions in `SETUP.md`
-3. Enable GitHub Pages pointing to the `gh-pages` branch
-
-The workflow will:
-- Run every 5 minutes
-- Only fetch data for widgets that need updating (based on `update_minutes`)
-- Automatically deploy to GitHub Pages
-- Store generated content in a separate `data` branch
-
-**Your dashboards will be live at:**
-`https://YOUR_USERNAME.github.io/peek-deck/crypto/bitcoin.html`
-
-See `SETUP.md` for complete deployment instructions.
-
 ## How It Works
 
 ### 3-Stage Pipeline
 
-1. **Fetch** - Gets raw data from external APIs (Gemini, etc.)
+1. **Fetch** - Gets raw data from external APIs
    - Checks cache to avoid unnecessary API calls
    - Saves raw JSON to `data/raw/`
 
 2. **Process** - Transforms/enriches data
-   - Currently just passes through (for LLM summaries later)
+   - Applies any data transformations
    - Saves to `data/processed/`
 
 3. **Render** - Generates static HTML
@@ -140,23 +183,13 @@ See `SETUP.md` for complete deployment instructions.
 - Tracks last update time for each widget instance
 - Skips fetching if widget was updated recently
 - Configured per-widget via `update_minutes`
-- Uses unique keys: `{series}_{page}_{widget_type}_{params}`
+- Only updates widgets that need refreshing
 
-### Current Widgets
+### Branch Structure (GitHub)
 
-- **crypto-price** - Fetches cryptocurrency prices from Gemini API
-  - Required params: `symbol` (e.g., "btcusd")
-  - Shows: current price, bid, ask, volume
-
-## Next Steps
-
-See `DESIGN.md` for the complete architecture and roadmap.
-
-**MVP is complete!** The next steps would be:
-1. Add more widgets (news, charts, market stats)
-2. Set up GitHub Actions workflow
-3. Improve templates with Jinja2 widget templates
-4. Add more cryptocurrencies
+- **main** - Code, configs, templates (you edit this)
+- **data** - Generated content (docs/ + cache/) - auto-updated by workflow
+- **gh-pages** - Deployed HTML for GitHub Pages - auto-deployed from docs/
 
 ## Design Principles
 

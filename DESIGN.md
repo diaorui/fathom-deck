@@ -744,70 +744,85 @@ Add `<script type="application/ld+json">` to page template with:
 
 ### AEO Content Optimization
 
-**Strategies for Answer Engine visibility:**
+**Decision: Minimal AEO optimizations for live dashboards**
 
-**1. Year Markers**
-- Include "2025" in titles and descriptions for recency signals
-- LLMs favor recent content
+Unlike static content (blog posts, articles), PeekDeck displays **live data** that updates frequently. Aggressive AEO tactics don't fit this use case well:
 
-**2. Listicle Format (32% of citations)**
-- Add page summary as bulleted list at top of page
-- "What's on this dashboard:" followed by widget descriptions
-- LLMs extract from structured lists more reliably
+**What we skipped:**
+- ❌ **Year markers in titles** - Live dashboards with hourly updates don't need "2025" labels. Widget timestamps prove freshness better than a year in the title. Would look outdated when shared/bookmarked later.
+- ❌ **Listicle summaries** - "What's on this dashboard" lists are redundant and annoying for users who came to see actual data, not a list of what they're about to see. Hurts UX without clear benefit.
 
-**3. Descriptive Headers**
-- Widget H3 titles: "Bitcoin Price Tracker 2025" (not just "Price")
-- Context-rich headers help AI understand content purpose
+**What provides natural AEO value:**
+- ✅ **Descriptive page names** - "Bitcoin", "Ethereum", "Artificial Intelligence" (clear topics)
+- ✅ **Comprehensive single-source** - Each dashboard is self-contained with all relevant information
+- ✅ **Structured data** - JSON-LD WebApplication schema signals what the page contains
+- ✅ **Meta descriptions** - Clearly describe dashboard purpose
+- ✅ **Regular updates** - Sitemap shows `changefreq: hourly`, signaling freshness
 
-**4. Comprehensive Single-Source**
-- Each dashboard is self-contained with all relevant information
-- LLMs prefer extracting from one comprehensive source
+**Philosophy:** For live dashboards, data freshness speaks louder than SEO tricks. Focus on accurate metadata and let the content quality drive discoverability.
 
-**5. Platform-Specific Optimization**
-- **ChatGPT:** Comprehensive coverage, clear headers
-- **Perplexity:** High-intent queries, specific titles (6-10x higher CTR)
-- **Common sources:** Wikipedia-style summaries, Reddit-style discussions
+### Implementation Status
 
-### Implementation Phases
+**Phase 1: Core SEO** ✅ Complete
+- Meta tags in page/index templates (description, author, robots, theme-color)
+- Canonical URLs with base_url from config/index.yaml
+- Open Graph tags for social sharing
+- Twitter Card meta tags
+- Sitemap.xml generation (all pages with priorities and changefreq)
+- Robots.txt generation (allow all, points to sitemap)
 
-**Phase 1: Core SEO** (High Priority)
-- SEOManager class with metadata generation
-- SEO fields in page YAML schema
-- Meta tags in page template
-- Sitemap.xml and robots.txt generation
+**Phase 2: Structured Data** ✅ Complete
+- JSON-LD WebApplication schema for dashboard pages
+- JSON-LD WebSite schema for index page
+- BreadcrumbList navigation hierarchy
 
-**Phase 2: Structured Data** (Medium Priority)
-- JSON-LD generation (WebApplication, BreadcrumbList)
-- Schema validation with Google Rich Results Test
+**Phase 3: AEO Optimization** ✅ Simplified
+- Decided against year markers (not needed for live data)
+- Decided against listicle summaries (hurts UX)
+- Focus on natural signals: descriptive names, structured data, fresh content
 
-**Phase 3: AEO Optimization** (Medium Priority)
-- Year markers in auto-generated titles
-- Page summary lists (listicle format)
-- Descriptive widget headers
-
-**Phase 4: Social & Advanced** (Low Priority)
+**Phase 4: Social & Advanced** ⏸️ Optional/Future
 - Programmatic OG image generation
 - FAQ schema for common questions
 - Widget-specific structured data
 
 ### Expected Results
 
-**SEO:**
-- 30-50% increase in search impressions (schema markup)
-- 20-30% improvement in CTR (proper meta tags)
-- Complete indexing coverage (sitemap)
+**SEO Benefits:**
+- Complete indexing coverage via sitemap.xml
+- Rich results potential from structured data (WebApplication schema)
+- Better social sharing appearance (Open Graph + Twitter Cards)
+- Clear crawling guidance via robots.txt
+- Proper canonical URLs prevent duplicate content issues
 
-**AEO:**
-- 32% higher citation rate (listicle format)
-- Better recency signals (year markers)
-- 20-30% conversion on Perplexity traffic
+**AEO Benefits:**
+- Structured data helps LLMs understand page purpose
+- Descriptive page names and meta descriptions provide clear context
+- Hourly update frequency signals fresh, relevant data
+- Self-contained dashboards are easy for AI to extract and summarize
+
+**Measurement:**
+- Monitor in Google Search Console after deployment
+- Track social sharing appearance via Open Graph validators
+- Test structured data with Google Rich Results Test
 
 ### Configuration
 
-Create `seo_config.py` for deployment-specific settings:
-- BASE_URL (GitHub Pages URL)
-- DEFAULT_OG_IMAGE
-- SITEMAP_CHANGEFREQ, PRIORITY settings
+SEO settings are configured in `config/index.yaml`:
+
+```yaml
+# Base URL for deployment (required for canonical URLs, sitemap, Open Graph)
+base_url: "https://yourdomain.com"
+
+# Optional: Custom SEO metadata for index page
+seo:
+  description: "Your custom index description"
+```
+
+**Why config/index.yaml:**
+- Deployment-specific (different per user)
+- Already required for index page configuration
+- Single location for site-wide settings
 
 ### References
 

@@ -76,6 +76,10 @@ class HuggingfaceModelsWidget(BaseWidget):
                     "last_modified": model.get("lastModified"),
                 })
 
+            # Enforce limit - defensive check in case API returns more than requested
+            if len(models) > limit:
+                models = models[:limit]
+
             data = {
                 "models": models,
                 "limit": limit,

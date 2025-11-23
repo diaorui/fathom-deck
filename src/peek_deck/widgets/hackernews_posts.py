@@ -96,6 +96,10 @@ class HackernewsPostsWidget(BaseWidget):
                     "site_name": None,
                 })
 
+            # Enforce limit - defensive check in case API returns more than requested
+            if len(posts) > limit:
+                posts = posts[:limit]
+
             OutputManager.log(f"✅ Fetched {len(posts)} HN posts for query '{query}'")
 
             # Extract rich metadata for external article links

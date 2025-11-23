@@ -82,6 +82,10 @@ class HuggingfacePapersWidget(BaseWidget):
                     "project_page": paper.get("projectPage"),
                 })
 
+            # Enforce limit - defensive check in case API returns more than requested
+            if len(papers) > limit:
+                papers = papers[:limit]
+
             data = {
                 "papers": papers,
                 "limit": limit,

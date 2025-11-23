@@ -227,6 +227,11 @@ class YoutubeVideosWidget(BaseWidget):
                     "url": f"https://www.youtube.com/watch?v={video_id}",
                 })
 
+            # Enforce limit - defensive check in case API returns more than requested
+            if len(videos) > limit:
+                OutputManager.log(f"⚠️  YouTube API returned {len(videos)} videos, limiting to {limit}")
+                videos = videos[:limit]
+
             OutputManager.log(f"✅ Fetched {len(videos)} YouTube videos for '{query}'")
 
             # Step 2: Fetch video details (duration, statistics) in batch

@@ -107,6 +107,10 @@ class GithubReposWidget(BaseWidget):
                     "updated_at": repo.get("pushed_at"),  # Use pushed_at to match GitHub.com
                 })
 
+            # Enforce limit - defensive check in case API returns more than requested
+            if len(repos) > limit:
+                repos = repos[:limit]
+
             data = {
                 "repos": repos,
                 "query": query,

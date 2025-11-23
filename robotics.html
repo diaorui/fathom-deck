@@ -1,0 +1,2700 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robotics - PeekDeck</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Robotics research and industry news">
+    <meta name="author" content="PeekDeck">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#E74C3C">
+    <link rel="canonical" href="https://peekdeck.ruidiao.dev/robotics.html">
+
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Robotics - PeekDeck">
+    <meta property="og:description" content="Robotics research and industry news">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="PeekDeck">
+    <meta property="og:url" content="https://peekdeck.ruidiao.dev/robotics.html">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Robotics - PeekDeck">
+    <meta name="twitter:description" content="Robotics research and industry news">
+    <meta name="twitter:url" content="https://peekdeck.ruidiao.dev/robotics.html">
+
+    
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebApplication",
+          "name": "Robotics Dashboard",
+          "applicationCategory": "BusinessApplication",
+          "description": "Robotics research and industry news",
+          "url": "https://peekdeck.ruidiao.dev/robotics.html",
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+          },
+          "author": {
+            "@type": "Organization",
+            "name": "PeekDeck",
+            "url": "https://peekdeck.ruidiao.dev"
+          },
+          "dateModified": "2025-11-23T21:24:27.401122+00:00"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://peekdeck.ruidiao.dev/index.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Robotics",
+              "item": "https://peekdeck.ruidiao.dev/robotics.html"
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+    
+
+    <style>
+        :root {
+            --primary-color: #E74C3C;
+            --background: #1a1a1a;
+            --text-color: #ffffff;
+            --card-background: #2d2d2d;
+            --border-radius: 8px;
+            --color-positive: #10b981;
+            --color-negative: #ef4444;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: var(--background);
+            color: var(--text-color);
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .nav-bar {
+            max-width: 1400px;
+            margin: 0 auto 24px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .breadcrumb {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.9rem;
+            color: #9ca3af;
+        }
+
+        .breadcrumb-link {
+            color: #9ca3af;
+            text-decoration: none;
+            padding: 6px 10px;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            line-height: 1;
+        }
+
+        .breadcrumb-link svg {
+            flex-shrink: 0;
+        }
+
+        .breadcrumb-link:hover {
+            color: var(--primary-color);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .breadcrumb-separator {
+            color: #555;
+            font-weight: 300;
+        }
+
+        .breadcrumb-current {
+            color: var(--text-color);
+            font-weight: 500;
+        }
+
+        .page-header {
+            max-width: 1400px;
+            margin: 0 auto 30px;
+        }
+
+        .page-header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .page-icon {
+            font-size: 2.5rem;
+        }
+
+        .page-header p {
+            color: #9ca3af;
+            font-size: 1.1rem;
+        }
+
+        footer {
+            max-width: 1400px;
+            margin: 40px auto 20px;
+            padding: 20px 0;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            text-align: center;
+            font-size: 0.9rem;
+            color: #9ca3af;
+        }
+
+        footer a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        .widgets-grid {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            gap: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .widget {
+            background: var(--card-background);
+            border-radius: var(--border-radius);
+            padding: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        }
+
+        .widget-small { grid-column: span 3; }
+        .widget-medium { grid-column: span 6; }
+        .widget-large { grid-column: span 9; }
+        .widget-full { grid-column: span 12; }
+
+        .widget-header {
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .widget-header h3 {
+            font-size: 1.2rem;
+            color: var(--primary-color);
+            margin: 0;
+        }
+
+        .widget-body {
+            margin-bottom: 15px;
+        }
+
+        .widget-footer {
+            padding-top: 10px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            color: #9ca3af;
+            font-size: 0.85rem;
+        }
+
+        @media (max-width: 768px) {
+            .widget-small,
+            .widget-medium,
+            .widget-large,
+            .widget-full {
+                grid-column: span 12;
+            }
+
+            .nav-bar {
+                margin-bottom: 16px;
+            }
+
+            .breadcrumb {
+                font-size: 0.85rem;
+            }
+
+            .breadcrumb-link svg {
+                width: 14px;
+                height: 14px;
+            }
+
+            .page-header {
+                text-align: center;
+            }
+
+            .page-header h1 {
+                font-size: 1.8rem;
+                flex-direction: column;
+                gap: 8px;
+            }
+
+            .page-icon {
+                font-size: 3rem;
+            }
+        }
+
+        /* ===== Shared Carousel Styles ===== */
+        .carousel-container {
+            position: relative;
+            overflow: hidden;
+            padding: 0 40px;
+        }
+
+        .carousel-track {
+            display: flex;
+            gap: 16px;
+            overflow-x: auto;
+            scroll-behavior: smooth;
+            scroll-snap-type: x mandatory;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+            padding: 4px 0;
+        }
+
+        .carousel-track::-webkit-scrollbar {
+            display: none;
+        }
+
+        .carousel-card {
+            scroll-snap-align: start;
+            flex: 0 0 280px;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 8px;
+            padding: 14px;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            min-height: 140px;
+        }
+
+        .carousel-card:hover {
+            background: rgba(255, 255, 255, 0.06);
+            transform: translateY(-2px);
+        }
+
+        .carousel-nav {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(0, 0, 0, 0.5);
+            border: none;
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+            z-index: 10;
+        }
+
+        .carousel-nav:hover {
+            background: var(--primary-color);
+            transform: translateY(-50%) scale(1.1);
+        }
+
+        .carousel-nav:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .carousel-nav-prev {
+            left: 4px;
+        }
+
+        .carousel-nav-next {
+            right: 4px;
+        }
+
+        @media (min-width: 768px) {
+            .carousel-card {
+                flex: 0 0 320px;
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .carousel-card {
+                flex: 0 0 280px;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .carousel-container {
+                padding: 0;
+            }
+
+            .carousel-track {
+                padding: 0 16px;
+            }
+
+            .carousel-card {
+                flex: 0 0 calc(85% - 8px);
+            }
+
+            .carousel-nav {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="nav-bar">
+        <div class="breadcrumb">
+            <a href="index.html" class="breadcrumb-link">
+                <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor">
+                    <path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z"/>
+                </svg>
+                PeekDeck
+            </a>
+            <span class="breadcrumb-separator">/</span>
+            <span class="breadcrumb-current">Robotics</span>
+        </div>
+    </nav>
+
+    <header class="page-header">
+        <h1>
+            <span class="page-icon">🤖</span>
+            <span>Robotics</span>
+        </h1>
+        
+        <p>Robotics research and industry news</p>
+        
+    </header>
+
+    <main class="widgets-grid">
+        
+        <style>
+/* Reddit specific card styling */
+.widget-reddit-posts .carousel-card {
+    border-left: 3px solid #FF4500;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%; /* Prevent any child from expanding card */
+    min-width: 0; /* Allow flex children to shrink below content size */
+    flex-shrink: 0;
+}
+
+.widget-reddit-posts .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(255, 69, 0, 0.2);
+}
+
+    .widget-reddit-posts .post-thumbnail {
+        width: 100%;
+        aspect-ratio: 2 / 1;
+        border-radius: 4px;
+        margin-bottom: 10px;
+        background-color: rgba(255, 255, 255, 0.03);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 3rem;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .widget-reddit-posts .post-thumbnail img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+    }
+
+    /* Fallback icon - always shown by default */
+    .widget-reddit-posts .post-thumbnail::before {
+        content: "💬";
+        opacity: 0.3;
+        z-index: 0;
+        position: relative;
+    }
+
+    .widget-reddit-posts .post-content {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        min-width: 0; /* Allow flex children to shrink below content size */
+    }
+
+    .widget-reddit-posts .post-title {
+        font-size: 0.95rem;
+        font-weight: 500;
+        margin-bottom: 8px;
+        line-height: 1.4;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        min-height: calc(0.95rem * 1.4 * 2);
+        min-width: 0;
+    }
+
+    .widget-reddit-posts .post-description {
+        font-size: 0.75rem;
+        color: #9ca3af;
+        line-height: 1.4;
+        margin-bottom: 10px;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        min-height: calc(0.75rem * 1.4 * 3);
+        min-width: 0;
+    }
+
+    .widget-reddit-posts .post-meta {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        font-size: 0.72rem;
+        color: #9ca3af;
+        margin-top: auto;
+        min-width: 0;
+    }
+
+    .widget-reddit-posts .post-meta-line {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: nowrap;
+        overflow: hidden;
+        min-width: 0;
+    }
+
+    .widget-reddit-posts .post-meta-item {
+        display: flex;
+        align-items: center;
+        gap: 3px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        min-width: 0;
+    }
+
+    .widget-reddit-posts .post-meta-item span,
+    .widget-reddit-posts .post-meta-item a {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    /* Prioritize time over link when space is limited */
+    .widget-reddit-posts .post-meta-item:has([data-timestamp]) {
+        flex-shrink: 0;
+    }
+
+    .widget-reddit-posts .post-meta-item.post-source {
+        flex-shrink: 1;
+        min-width: 0;
+    }
+
+    .widget-reddit-posts .post-author {
+        font-weight: 500;
+    }
+
+    /* External source link */
+    .widget-reddit-posts .post-source {
+        color: #60a5fa;
+    }
+
+    .widget-reddit-posts .post-source a {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        color: #60a5fa;
+        text-decoration: none;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .widget-reddit-posts .post-source a:hover {
+        text-decoration: underline;
+    }
+
+    .widget-reddit-posts .post-favicon {
+        width: 14px;
+        height: 14px;
+        object-fit: contain;
+        flex-shrink: 0;
+    }
+
+    .widget-reddit-posts .post-title a {
+        color: var(--text-color);
+        text-decoration: none;
+    }
+
+    .widget-reddit-posts .post-title a:hover {
+        color: #FF4500;
+    }
+
+    /* Mobile adjustments: more lines for better readability */
+    @media (max-width: 768px) {
+        .widget-reddit-posts .post-thumbnail {
+            /* aspect-ratio already set above */
+        }
+
+        .widget-reddit-posts .post-title {
+            -webkit-line-clamp: 3;
+            min-height: calc(0.95rem * 1.4 * 3);
+        }
+
+        .widget-reddit-posts .post-description {
+            -webkit-line-clamp: 4;
+            min-height: calc(0.75rem * 1.4 * 4);
+        }
+    }
+</style>
+
+<div class="widget widget-reddit-posts widget-full">
+    <div class="widget-header">
+        <h3><a href="https://www.reddit.com/r/robotics/rising" target="_blank" style="color: inherit; text-decoration: none;">Reddit Discussions</a></h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            r/robotics · Rising
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="reddit-carousel-robotics">
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p4lg88/magiclab_z_a_bipedal_humanoid_shows_his_agility/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/czd4bHU5d3kwMDNnMblU5K_C_dAkX7Cdnie-bEA-6uVVUIN14c1W8w-oCHlT.png?width=640&crop=smart&auto=webp&s=6e0a66ef212462fa183644c24bcda242c9f3cb14" alt="MagicLab Z, a bipedal humanoid shows his agility" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p4lg88/magiclab_z_a_bipedal_humanoid_shows_his_agility/" target="_blank" onclick="event.stopPropagation();">MagicLab Z, a bipedal humanoid shows his agility</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            MagicLab website: https://www.magiclab.top/en From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1991895323246219551
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763900621.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p4omza/ai_robotics_what_we_havent_solved_yet_new_podcast/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/ZjN4czhqYzNzMDNnMYXgxMMuYx4vai6r2mJi_BHAgiZEJjckW20es6HzzCMG.png?width=640&crop=smart&auto=webp&s=3fa5049f4928a1b1a0ba7d0776169ae2c520f9f6" alt="AI Robotics: What We Haven’t Solved… Yet - New Podcast Episode" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p4omza/ai_robotics_what_we_havent_solved_yet_new_podcast/" target="_blank" onclick="event.stopPropagation();">AI Robotics: What We Haven’t Solved… Yet - New Podcast Episode</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Full video: https://youtu.be/D_eXUkDf7UU?si=9JL-OhVQXgD1X8pv
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763909677.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p4pobn/how_do_i_make_my_robot_walkbalance_dynamically_i/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://a.thumbs.redditmedia.com/x2S3dzba9Jzg9EzgvPdycmj1I6a69b-f49_iAE0WLi0.jpg" alt="How do I make my robot walk/balance dynamically? I don’t know how to use simulations such as Isaac sim since im new to robotics." onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p4pobn/how_do_i_make_my_robot_walkbalance_dynamically_i/" target="_blank" onclick="event.stopPropagation();">How do I make my robot walk/balance dynamically? I don’t know how to use simulations such as Isaac sim since im new to robotics.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763912222.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p46i59/figure_ai_sued_by_whistleblower_who_warned_that/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p46i59/figure_ai_sued_by_whistleblower_who_warned_that/" target="_blank" onclick="event.stopPropagation();">Figure AI sued by whistleblower who warned that startup's robots could 'fracture a human skull'</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Im curious how many others from Figure or other Humanoid Robot companies will start to step forward and speak up. Safety is something that is not talked about enough.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763851569.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2025/11/21/figure-ai-sued.html" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://sc-cnbcfm-com.cdn.ampproject.org/i/s/sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>CNBC</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p4l5qp/laws_of_mbotics_part_3/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/dGlveHNvcGR6ejJnMRXI4obYmEqYNMkEKM6Hy5WveFtry4ahIfu16Zi3tlnD.png?width=640&crop=smart&auto=webp&s=9ff13e4022550b272ff95863d563b63e61a0ce02" alt="Laws of mBotics : Part 3" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p4l5qp/laws_of_mbotics_part_3/" target="_blank" onclick="event.stopPropagation();">Laws of mBotics : Part 3</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763899687.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p4st5z/short_survey_how_do_your_robots_handle_find_this/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/5bK5CiOWjc485PiC-qsbAMODVPYDerssUz9X2_BqUHA.png?width=640&crop=smart&auto=webp&s=4d8a44c744f6b344b723ff877296bb5b5284d181" alt="Short survey: how do your robots handle “find this asset/location” tasks?" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p4st5z/short_survey_how_do_your_robots_handle_find_this/" target="_blank" onclick="event.stopPropagation();">Short survey: how do your robots handle “find this asset/location” tasks?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi everyone, I’m Swalihu, a ROS/robotics engineer and founder of SeekSense, a small UK startup exploring semantic navigation for indoor mobile robots. I’m running a short 3–4 minute survey to understand how teams currently support tasks like: – “find this specific trolley/cart/tool/asset” – “go to the visitor kiosk in atrium B / bed 12 in ward C” in warehouses, hospitals, labs and campuses – and how painful these behaviours are to maintain over time. The context: we’re experimenting with a training-free semantic navigation API (vision–language + mapping + frontier selection), and I’d like to sanity-check whether this is solving a real problem for people deploying ROS/ROS 2 systems. If you’re working with AMRs, AGVs, hospital/campus robots, mobile manipulators or research platforms, and can spare a few minutes. Responses are aggregated and anonymised. With your permission, I may use the results as part of the market-research evidence for a UK Innovator Founder Visa application, and I’m happy to share a short summary of the findings back here once we’ve collected enough data. https://www.seeksense-ai.com/
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763919635.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://forms.gle/aTTfxVCs3u3QoLSj9" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://ssl.gstatic.com/docs/forms/device_home/ios_120.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>Google Docs</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p4kqt0/free_guide_studentwritten_150_page_robotics_book/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p4kqt0/free_guide_studentwritten_150_page_robotics_book/" target="_blank" onclick="event.stopPropagation();">[Free Guide] Student-written 150+ page robotics book for WRO/FLL/FTC/FRC (Play to Purpose)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763898251.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p4p3ob/ch32v003_works_only_for_some_time_after_flashing/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p4p3ob/ch32v003_works_only_for_some_time_after_flashing/" target="_blank" onclick="event.stopPropagation();">CH32V003 works only for some time after flashing, then becomes unresponsive on bare IC</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hey guys, I’m currently working with the CH32V003, and during my testing I found a strange issue. After flashing the firmware, the chip works perfectly — even if power interruptions happen. But after some time, when I try to power it back on, the system becomes completely dead. It does nothing. Even a hardware reset doesn’t bring it back. It feels like flash or memory corruption. What’s confusing is that the factory-made dev board runs the same code without any issues, consistently. The problem only happens when I use a bare CH32V003 IC on my own hardware. Has anyone faced this before? Any idea what could cause this? Power rail… reset circuitry… bootloader corruption… missing pull-ups… flash stability…? Please help me sort this out 🙏
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763910839.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p41c8f/what_could_be_the_cause_help/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/Z2s0czRpam93dTJnMb6_nVy7BZNGLIMluS2jp1Spua81unX75_5434-OCVTV.png?width=640&crop=smart&auto=webp&s=94405ca6ae67ffed7411845201c177a318aec4f5" alt="what could be the cause ? HELP" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p41c8f/what_could_be_the_cause_help/" target="_blank" onclick="event.stopPropagation();">what could be the cause ? HELP</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            im trying to power this brushless motor using a STEVAL-STSPIN3201using FOC sensorless control , I can not use Motor Profiler since the ST-link of the board is corrupted (I'm programming the main MCU with an External ST-link dongle). The BLCD motor as shown is only vibrating (seems like it want to rotate but it can't) What can be the problem? am i missing something
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763838257.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p3h0cp/aloha_mini_600_opensource_home_robot/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/c2RpZmIwaWpzcDJnMS5b30bsaPUDJiW6VUb-QjWrGGJxn2vUJ6qnBBR8T0rP.png?width=640&crop=smart&auto=webp&s=6f6afda9a35e4446b8ee0fcaa0d0063f26086a2c" alt="Aloha Mini- $600 Open-Source Home Robot" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p3h0cp/aloha_mini_600_opensource_home_robot/" target="_blank" onclick="event.stopPropagation();">Aloha Mini- $600 Open-Source Home Robot</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Aloha Mini is a dual-arm mobile robot with a motorized vertical lift designed to make real-world mobile manipulation and embodied AI research accessible. The robot is fully 3D-printable and can be assembled in ~60 minutes. Technical highlights: • Dual-arm control with LeRobot teleoperation + imitation learning • Fully 3D-printed arm and lift mechanism • Omni-directional mobile base • Multi-task demos: sock picking, table wiping, fridge opening, toilet scrubbing • Designed to lower the barrier of entry to real robotics • Material cost around $600 when self-printed GitHub Open-Source Code & Files: https://github.com/liyiteng/AlohaMini
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763776330.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card"
+                    style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 69, 0, 0.05); border-color: #FF4500;"
+                    onclick="window.open('https://www.reddit.com/r/robotics/rising', '_blank')">
+                    <div style="text-align: center;">
+                        <svg width="48" height="48" viewBox="0 0 24 24" style="margin-bottom: 8px; fill: #FF4500;">
+                            <path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/>
+                        </svg>
+                        <div style="color: #FF4500; font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on Reddit</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="2025-11-23T21:24:01.305094+00:00">Updated 2025-11-23T21:24:01.305094+00:00</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->
+        
+        <style>
+/* Google News specific card styling */
+.widget-google-news .carousel-card {
+    border-left: 3px solid var(--primary-color);
+    display: flex;
+    flex-direction: column;
+    max-width: 100%; /* Prevent any child from expanding card */
+    min-width: 0; /* Allow flex children to shrink below content size */
+    flex-shrink: 0;
+}
+
+.widget-google-news .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(var(--primary-color-rgb, 66, 153, 225), 0.2);
+}
+
+/* Rich preview image */
+.widget-google-news .article-thumbnail {
+    width: 100%;
+    aspect-ratio: 2 / 1;
+    background-size: cover;
+    background-position: center;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.03);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+/* Fallback icon for articles without images */
+.widget-google-news .article-thumbnail:not([style*="background-image"])::before {
+    content: "📰";
+    opacity: 0.3;
+}
+
+.widget-google-news .article-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 0; /* Allow flex children to shrink below content size */
+}
+
+.widget-google-news .news-headline {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 8px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: calc(0.95rem * 1.4 * 2);
+    min-width: 0;
+}
+
+.widget-google-news .news-headline a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-google-news .news-headline a:hover {
+    color: var(--primary-color);
+}
+
+/* Rich description */
+.widget-google-news .article-description {
+    font-size: 0.75rem;
+    color: #9ca3af;
+    line-height: 1.4;
+    margin-bottom: 10px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: calc(0.75rem * 1.4 * 3);
+    min-width: 0;
+}
+
+.widget-google-news .news-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+    margin-top: auto;
+    min-width: 0;
+}
+
+.widget-google-news .news-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    min-width: 0;
+}
+
+.widget-google-news .news-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+}
+
+.widget-google-news .news-meta-item span,
+.widget-google-news .news-meta-item a {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.widget-google-news .news-source {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    min-width: 0;
+}
+
+.widget-google-news .news-source a,
+.widget-google-news .news-source span {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.widget-google-news .news-source a {
+    color: #9ca3af;
+    text-decoration: none;
+}
+
+.widget-google-news .news-source a:hover {
+    color: var(--primary-color);
+}
+
+.widget-google-news .news-favicon {
+    width: 14px;
+    height: 14px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+/* Mobile adjustments: more lines for better readability */
+@media (max-width: 768px) {
+    .widget-google-news .article-thumbnail {
+        /* aspect-ratio already set above */
+    }
+
+    .widget-google-news .news-headline {
+        -webkit-line-clamp: 3;
+        min-height: calc(0.95rem * 1.4 * 3);
+    }
+
+    .widget-google-news .article-description {
+        -webkit-line-clamp: 4;
+        min-height: calc(0.75rem * 1.4 * 4);
+    }
+}
+</style>
+
+<div class="widget widget-google-news widget-full">
+    <div class="widget-header">
+        <h3><a href="https://news.google.com/search?q=robotics" target="_blank" style="color: inherit; text-decoration: none;">Google News</a></h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            "robotics"
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="news-carousel-robotics">
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPgk8M14E1eI/v1/1200x800.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding" target="_blank" onclick="event.stopPropagation();">Robotics Startup Physical Intelligence Valued at $5.6 Billion in New Funding</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Physical Intelligence, a startup developing artificial intelligence software to help robots learn a wide range of tasks, has raised $600 million in a new round of funding that values the company at $5.6 billion, according to people with knowledge of the matter.Alphabet Inc.’s independent growth fund CapitalG led the round, with participation from existing investors Lux Capital, Thrive Capital and Amazon.com Inc. founder Jeff Bezos, said the people, who asked not to be identified discussing priva
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763658039.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/11/21/figure-ai-sued.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2025/11/21/figure-ai-sued.html" target="_blank" onclick="event.stopPropagation();">Figure AI sued by whistleblower who warned that startup's robots could 'fracture a human skull'</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763769128.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/" target="_blank" onclick="event.stopPropagation();">Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fortune" class="news-favicon">
+                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763663820.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.scmp.com/tech/big-tech/article/3333787/xiaomi-open-sources-ai-model-spanning-autonomous-driving-and-robotics', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/22/a3b60646-2a8f-4358-9d8e-0df2feab2d46_6b73773b.jpg?itok=QrbmmjT1&v=1763795339');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.scmp.com/tech/big-tech/article/3333787/xiaomi-open-sources-ai-model-spanning-autonomous-driving-and-robotics" target="_blank" onclick="event.stopPropagation();">Xiaomi open-sources AI model spanning autonomous driving and robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            EV and AI initiatives have become an increasingly important part of Xiaomi’s business.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scmp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="South China Morning Post" class="news-favicon">
+                                    <a href="https://www.scmp.com" target="_blank" onclick="event.stopPropagation();">South China Morning Post</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763796613.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://gizmodo.com/you-must-read-this-riveting-whistleblower-lawsuit-about-allegedly-dangerous-robots-2000688737', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://gizmodo.com/app/uploads/2025/11/figure-02-1200x675.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://gizmodo.com/you-must-read-this-riveting-whistleblower-lawsuit-about-allegedly-dangerous-robots-2000688737" target="_blank" onclick="event.stopPropagation();">You Must Read This Riveting Whistleblower Lawsuit About Allegedly Dangerous Robots</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A safety technician was fired as a company allegedly rushed ahead in commercializing a powerful humanoid robot with bone-crunching capabilities.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://gizmodo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Gizmodo" class="news-favicon">
+                                    <a href="https://gizmodo.com" target="_blank" onclick="event.stopPropagation();">Gizmodo</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763838302.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.crunchbase.com/venture/robotic-brain-building-startup-flexion-raise/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://news.crunchbase.com/wp-content/uploads/AI_Brain.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://news.crunchbase.com/venture/robotic-brain-building-startup-flexion-raise/" target="_blank" onclick="event.stopPropagation();">Exclusive: Founded By Ex-Nvidia Researchers, Flexion Lands $50M To Build The 'Brain' for Humanoid Robots</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A startup founded by former Nvidia researchers that’s “building the brain for humanoid and human-capable robots,” Flexion has raised $50 million in funding, it tells Crunchbase News exclusively.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.crunchbase.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Crunchbase News" class="news-favicon">
+                                    <a href="https://news.crunchbase.com" target="_blank" onclick="event.stopPropagation();">Crunchbase News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763650850.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.pymnts.com/artificial-intelligence-2/2025/the-weekender-robots-robots-everywhere-even-at-the-litter-box/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.pymnts.com/wp-content/uploads/2025/11/weekender-generative-ai-robotics-technology-automation-artificial-intelligence-main-feature-saturday.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.pymnts.com/artificial-intelligence-2/2025/the-weekender-robots-robots-everywhere-even-at-the-litter-box/" target="_blank" onclick="event.stopPropagation();">The Weekender: Robots, Robots Everywhere (Even at the Litter Box)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Blame the elves. They saw generative artificial intelligence (AI) coming for their jobs and outsourced Christmas to robots. This holiday season, the
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="PYMNTS.com" class="news-favicon">
+                                    <a href="https://www.pymnts.com" target="_blank" onclick="event.stopPropagation();">PYMNTS.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763802119.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/humanoid-robots-get-real-world-intelligence', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2025/11/OpenMind.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://interestingengineering.com/ai-robotics/humanoid-robots-get-real-world-intelligence" target="_blank" onclick="event.stopPropagation();">Humanoid robots get ‘real-world intelligence’, full autonomy with US firm’s BrainPack</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            OpenMind's modular unit allows robots to perform advanced functions like self-guided patrols and real-time 3D mapping.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Interesting Engineering" class="news-favicon">
+                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763820240.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/sunday-robotics-home-robot-training-hands-loading-dishwasher-2025-11', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/691fed00e1a9cbb014deaf72?width=1200&format=jpeg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.businessinsider.com/sunday-robotics-home-robot-training-hands-loading-dishwasher-2025-11" target="_blank" onclick="event.stopPropagation();">This startup bucked mainstream robotics training methods to teach a robot how to load the dishes</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Sunday Robotics spent less than 2 years in stealth figuring out how to train robots to complete complex tasks like handling dishes using human data.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763776020.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.usatoday.com/press-release/story/19080/parallax-worlds-raises-49m-to-stress-test-robots-before-they-hit-the-factory-floor/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://usatoday.xpr-gannett.com/wp-content/uploads/sites/3/2025/10/access-newswire-1761595137026.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.usatoday.com/press-release/story/19080/parallax-worlds-raises-49m-to-stress-test-robots-before-they-hit-the-factory-floor/" target="_blank" onclick="event.stopPropagation();">Parallax Worlds Raises $4.9M To Stress-Test Robots Before They Hit The Factory Floor</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Capital will fuel product development, hiring, and expansion into large-scale manufacturing SAN FRANCISCO, CA / ACCESS Newswire / November 20, 2025 / Parallax Worlds, the company building hyper-realistic simulations to stress-test robots before deployment, today announced a $4 million seed round, bringing total pre-seed and seed funding to $4.9 million. The round was led by […]
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="USA Today" class="news-favicon">
+                                    <a href="https://www.usatoday.com" target="_blank" onclick="event.stopPropagation();">USA Today</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763824152.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
+                     onclick="window.open('https://news.google.com/search?q=robotics', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
+                        <div style="color: var(--primary-color); font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on Google News</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="2025-11-23T21:24:26.519068+00:00">Updated 2025-11-23T21:24:26.519068+00:00</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->
+        
+        <style>
+/* YouTube Videos specific card styling */
+.widget-youtube-videos .carousel-card {
+    border-left: 3px solid var(--primary-color);
+    display: flex;
+    flex-direction: column;
+    max-width: 100%; /* Prevent any child from expanding card */
+    min-width: 0; /* Allow flex children to shrink below content size */
+    flex-shrink: 0;
+}
+
+.widget-youtube-videos .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(var(--primary-color-rgb, 66, 153, 225), 0.2);
+}
+
+/* Video thumbnail with YouTube aspect ratio (16:9) */
+.widget-youtube-videos .video-thumbnail {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background-size: cover;
+    background-position: center;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.03);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Duration badge (bottom-right corner) */
+.widget-youtube-videos .duration-badge {
+    position: absolute;
+    bottom: 6px;
+    right: 6px;
+    background: rgba(0, 0, 0, 0.85);
+    color: white;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    z-index: 2;
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 0.5px;
+}
+
+/* Fallback icon for videos without thumbnails */
+.widget-youtube-videos .video-thumbnail:not([style*="background-image"])::before {
+    content: "🎥";
+    opacity: 0.3;
+    font-size: 3rem;
+}
+
+.widget-youtube-videos .video-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 0; /* Allow flex children to shrink below content size */
+}
+
+.widget-youtube-videos .video-title {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-bottom: 8px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: calc(0.95rem * 1.4 * 2);
+    min-width: 0;
+}
+
+.widget-youtube-videos .video-title a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.widget-youtube-videos .video-title a:hover {
+    color: var(--primary-color);
+}
+
+/* Video description */
+.widget-youtube-videos .video-description {
+    font-size: 0.75rem;
+    color: #9ca3af;
+    line-height: 1.4;
+    margin-bottom: 10px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: calc(0.75rem * 1.4 * 3);
+    min-width: 0;
+}
+
+.widget-youtube-videos .video-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.72rem;
+    color: #9ca3af;
+    margin-top: auto;
+    min-width: 0;
+}
+
+.widget-youtube-videos .video-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    min-width: 0;
+}
+
+.widget-youtube-videos .video-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+}
+
+.widget-youtube-videos .video-channel {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 0; /* Spacing handled by avatar margin-right */
+    overflow: hidden;
+    min-width: 0;
+}
+
+.widget-youtube-videos .video-channel a {
+    color: #9ca3af;
+    text-decoration: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.widget-youtube-videos .video-channel a:hover {
+    color: var(--primary-color);
+}
+
+.widget-youtube-videos .channel-avatar {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+    margin-right: 6px;
+}
+
+/* Mobile adjustments: more lines for better readability */
+@media (max-width: 768px) {
+    .widget-youtube-videos .video-title {
+        -webkit-line-clamp: 3;
+        min-height: calc(0.95rem * 1.4 * 3);
+    }
+
+    .widget-youtube-videos .video-description {
+        -webkit-line-clamp: 4;
+        min-height: calc(0.75rem * 1.4 * 4);
+    }
+}
+</style>
+
+<div class="widget widget-youtube-videos widget-full">
+    <div class="widget-header">
+        <h3><a href="https://www.youtube.com/results?search_query=robotics" target="_blank" style="color: inherit; text-decoration: none;">YouTube Videos</a></h3>
+        <div style="font-size: 0.75rem; color: #9ca3af;">
+            "robotics"
+        </div>
+    </div>
+    <div class="widget-body">
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="youtube-carousel-robotics">
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=_1b4q8UfNcs', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/_1b4q8UfNcs/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">13:18</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=_1b4q8UfNcs" target="_blank" onclick="event.stopPropagation();">All Fake! China’s Robots Are Just Remote-Control Toys, Masked as AI Automation</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Recently, the robotics industry was exposed for staging deceptive demonstrations. Several companies used puppetry-like setups, ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_lS7Y4yWjsV0HHK9m0XVdJtIgElVGfJ-5pnPzhpDzySPlg=s88-c-k-c0x00ffffff-no-rj" alt="China Observer" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCT2kPBcD6tXn8TP_aV7BmgA" target="_blank" onclick="event.stopPropagation();">China Observer</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 29K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 1K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 346</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1763863241.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=jjOfpsMRhL4', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/jjOfpsMRhL4/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">4:10</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=jjOfpsMRhL4" target="_blank" onclick="event.stopPropagation();">ACT-1: A Robot Foundation Model Trained on Zero Robot Data</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Introducing ACT-1, a frontier robot foundation model trained with zero robot data.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/AA2A4fD8X4nYV4ByUaN2fQ9EzkOzDBmPJZR6HSOOkoRMQgZ0AvfnB6aZCr2_rpdS9LC4bo5btZ8=s88-c-k-c0x00ffffff-no-rj" alt="Sunday Robotics" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCidfjXA-Z5GHkGqqANDu0eA" target="_blank" onclick="event.stopPropagation();">Sunday Robotics</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 31K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 1K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 194</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1763581342.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=rwP2LXqPrWY', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/rwP2LXqPrWY/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:57</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=rwP2LXqPrWY" target="_blank" onclick="event.stopPropagation();">When the South gets AI robots 😂 #funny #comedy #ai #robot #tesla #chatgpt #artificialintelligence</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/np40bMwYwcTYWhNH3UvXN0yFMYTzReVlL9XstvloE8CT0RovYRpzWraTx3x1MN884OGeMfZH=s88-c-k-c0x00ffffff-no-rj" alt="Matt & Justus" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC8dVW9u_aNeGVl1WQnNh6yg" target="_blank" onclick="event.stopPropagation();">Matt & Justus</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 5.7M</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 302K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 5K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1763404685.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=Ah_uuTwGOYU', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Ah_uuTwGOYU/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">18:24</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=Ah_uuTwGOYU" target="_blank" onclick="event.stopPropagation();">World&#39;s Fastest Man Vs Robot!</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            You won't believe what happened in the final challenge Unlock the power of fusion and get your own unique MrBeast Lab Hybrid ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s88-c-k-c0x00ffffff-no-rj" alt="MrBeast" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA" target="_blank" onclick="event.stopPropagation();">MrBeast</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 31.2M</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 981K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 40K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1763830801.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=MSBi7Zlnwcs', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/MSBi7Zlnwcs/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">11:36</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=MSBi7Zlnwcs" target="_blank" onclick="event.stopPropagation();">AI Robots Crossed the Line This Week as Unitree Goes HUMAN-LEVEL</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Humanoid robotics just hit one of the craziest turning points of the year. China rolled out breakthrough after breakthrough in a ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj" alt="AI Revolution" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC5l7RouTQ60oUjLjt1Nh-UQ" target="_blank" onclick="event.stopPropagation();">AI Revolution</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 81K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 1K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 234</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1763336936.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=0mlelaHp96s', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/0mlelaHp96s/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:16</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=0mlelaHp96s" target="_blank" onclick="event.stopPropagation();">This NEW Robotic AI BARBER is AMAZING?! #barber #roboticbarber #aibarber</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Witness the FUTURE of hairstyling! This NEW Robotic AI Barber is transforming the way we get haircuts. With advanced AI ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/o0mXSA_Xa_JjOHP_KdnbGphnFDbZyD8jJZrPMErI9Khe7XexVOFdCvZ4oad9MH3K2dzKuIx2Ug=s88-c-k-c0x00ffffff-no-rj" alt="AsianVillageCookingTV" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCoEQhJQ9id2die9AkFgGU1Q" target="_blank" onclick="event.stopPropagation();">AsianVillageCookingTV</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 24K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 231</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 1</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1763865719.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=SMMWwN1hm-I', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/SMMWwN1hm-I/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:51</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=SMMWwN1hm-I" target="_blank" onclick="event.stopPropagation();">Robots Have Evolved! 🤖⚡ Physical AI Is HERE — And It Changes EVERYTHING! #robot #ai</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Curious how Physical AI actually learns? Watch my full Reinforcement Learning tutorial: https://youtu.be/sgsQZmlJbSY.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_ngt_N86CG1gQ576UmAbpFyxnCZddjPWzzKXzTfxljsZkM=s88-c-k-c0x00ffffff-no-rj" alt="Python Simplified" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCKQdc0-Targ4nDIAUrlfKiA" target="_blank" onclick="event.stopPropagation();">Python Simplified</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 17K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 433</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 46</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1763388054.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=LVp_w4SIKMo', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/LVp_w4SIKMo/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:16</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=LVp_w4SIKMo" target="_blank" onclick="event.stopPropagation();">This NEW Robotic AI BARBER actually WORKS?! #barber #roboticbarber #aibarber</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            This NEW Robotic AI BARBER Actually WORKS?! ✂️ You've NEVER seen anything like this before! A brand-new AI-powered ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/o0mXSA_Xa_JjOHP_KdnbGphnFDbZyD8jJZrPMErI9Khe7XexVOFdCvZ4oad9MH3K2dzKuIx2Ug=s88-c-k-c0x00ffffff-no-rj" alt="AsianVillageCookingTV" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCoEQhJQ9id2die9AkFgGU1Q" target="_blank" onclick="event.stopPropagation();">AsianVillageCookingTV</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 914K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 4K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 42</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1763616232.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=FRMcuLgiU54', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/FRMcuLgiU54/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:25</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=FRMcuLgiU54" target="_blank" onclick="event.stopPropagation();">First Steps of an AI Humanoid Robot Inside a Silicon Valley Robotics Lab #AIrobot #RoboticsLab</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Inside a cutting-edge robotics lab in Silicon Valley, engineers guide an advanced AI humanoid robot through its very first steps.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/4qX6-G9gHopZPN8C4HBLdJWrjuhrnh4sBL2axywA3qS-hWKg9Jo6YbRJTI0JrWIurhAihIy2wA=s88-c-k-c0x00ffffff-no-rj" alt="AI Robot Lab" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCXdSb7M6eChl5--gF5prnrA" target="_blank" onclick="event.stopPropagation();">AI Robot Lab</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 139K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 1K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 10</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1763744505.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=By_OJF52Pnw', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/By_OJF52Pnw/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:29</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=By_OJF52Pnw" target="_blank" onclick="event.stopPropagation();">This AI Robot Girl Is Getting Ready for a Paris Runway Show #AIrobot #RunwayShow</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            In the backstage of a major Paris fashion show, an ultra-realistic AI humanoid robot girl is being prepared by top stylists. Created ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/4qX6-G9gHopZPN8C4HBLdJWrjuhrnh4sBL2axywA3qS-hWKg9Jo6YbRJTI0JrWIurhAihIy2wA=s88-c-k-c0x00ffffff-no-rj" alt="AI Robot Lab" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCXdSb7M6eChl5--gF5prnrA" target="_blank" onclick="event.stopPropagation();">AI Robot Lab</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 277K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 3K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 54</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1763592068.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
+                     onclick="window.open('https://www.youtube.com/results?search_query=robotics', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">🎥</div>
+                        <div style="color: var(--primary-color); font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on YouTube</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
+        </div>
+
+    </div>
+    <div class="widget-footer">
+        <small data-timestamp="2025-11-23T21:23:58.956368+00:00">Updated 2025-11-23T21:23:58.956368+00:00</small>
+    </div>
+</div>
+
+<!-- Carousel initialized by shared page.html script -->
+        
+    </main>
+
+    
+    <footer>
+        Built with <a href="https://github.com/diaorui/peek-deck" target="_blank" rel="noopener noreferrer">PeekDeck</a> • Open Source
+    </footer>
+    
+
+    <script>
+        // Client-side relative time formatting
+        function formatTimeAgo(timestamp) {
+            // Handle both ISO strings and Unix timestamps
+            let date;
+            if (typeof timestamp === 'string' && timestamp.includes('-')) {
+                // ISO timestamp (e.g., "2025-11-19T12:34:56")
+                date = new Date(timestamp);
+            } else {
+                // Unix timestamp (e.g., 1763582063.0)
+                date = new Date(parseFloat(timestamp) * 1000);
+            }
+
+            const now = new Date();
+            const seconds = Math.floor((now - date) / 1000);
+
+            if (seconds < 0) return 'just now';
+            if (seconds < 60) return seconds + 's ago';
+
+            const minutes = Math.floor(seconds / 60);
+            if (minutes < 60) return minutes + 'm ago';
+
+            const hours = Math.floor(minutes / 60);
+            if (hours < 24) return hours + 'h ago';
+
+            const days = Math.floor(hours / 24);
+            if (days < 30) return days + 'd ago';
+
+            const months = Math.floor(days / 30);
+            return months + 'mo ago';
+        }
+
+        // Update all timestamps on page load
+        function updateAllTimestamps() {
+            // Generic: update any element with data-timestamp attribute
+            // Widget footers show "Updated X ago", others show just "X ago"
+            const timestampElements = document.querySelectorAll('[data-timestamp]');
+            timestampElements.forEach(element => {
+                const timestamp = element.getAttribute('data-timestamp');
+                const isFooter = element.closest('.widget-footer') !== null;
+                const prefix = isFooter ? 'Updated ' : '';
+                element.textContent = prefix + formatTimeAgo(timestamp);
+            });
+        }
+
+        // Format dates (for ATH/ATL dates - show date only in user's timezone)
+        function formatDate(isoString) {
+            const date = new Date(isoString);
+            return date.toLocaleDateString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                year: 'numeric'
+            });
+        }
+
+        // Update all date elements
+        function updateAllDates() {
+            const dateElements = document.querySelectorAll('[data-date]');
+            dateElements.forEach(element => {
+                const isoDate = element.getAttribute('data-date');
+                element.textContent = formatDate(isoDate);
+            });
+        }
+
+        // Update timestamps on page load
+        updateAllTimestamps();
+        updateAllDates();
+
+        // Optionally: Update every 10 seconds for live pages
+        setInterval(updateAllTimestamps, 10000);
+
+        // Chart tab switching
+        function initChartTabs() {
+            const tabButtons = document.querySelectorAll('.chart-tab-btn');
+
+            tabButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    const targetTabId = this.getAttribute('data-tab');
+                    const tabContainer = this.closest('.widget-crypto-price-chart');
+
+                    // Remove active class from all buttons in this container
+                    tabContainer.querySelectorAll('.chart-tab-btn').forEach(btn => {
+                        btn.classList.remove('active');
+                    });
+
+                    // Hide all tab contents in this container
+                    tabContainer.querySelectorAll('.chart-tab-content').forEach(content => {
+                        content.style.display = 'none';
+                    });
+
+                    // Add active class to clicked button
+                    this.classList.add('active');
+
+                    // Show target tab content
+                    const targetContent = tabContainer.querySelector(`[data-tab-id="${targetTabId}"]`);
+                    if (targetContent) {
+                        targetContent.style.display = 'block';
+                    }
+                });
+            });
+        }
+
+        // Initialize tabs on page load
+        initChartTabs();
+
+        // ===== Shared Carousel Initialization =====
+        function initCarousel(carouselId) {
+            const carousel = document.getElementById(carouselId);
+            if (!carousel) return;
+
+            const cards = carousel.querySelectorAll('.carousel-card');
+            const prevBtn = carousel.parentElement.querySelector('.carousel-nav-prev');
+            const nextBtn = carousel.parentElement.querySelector('.carousel-nav-next');
+
+            if (!prevBtn || !nextBtn || !cards.length) return;
+
+            let currentIndex = 0;
+
+            function getVisibleCards() {
+                const cardWidth = cards[0].offsetWidth;
+                const gap = 16;
+                const containerWidth = carousel.offsetWidth;
+                return Math.floor(containerWidth / (cardWidth + gap)) || 1;
+            }
+
+            function scrollToIndex(index) {
+                const cardWidth = cards[0].offsetWidth;
+                const gap = 16;
+                const scrollPosition = index * (cardWidth + gap);
+                carousel.scrollTo({
+                    left: scrollPosition,
+                    behavior: 'smooth'
+                });
+                currentIndex = index;
+                updateButtonStates();
+            }
+
+            function scrollByBatch(direction) {
+                const visibleCards = getVisibleCards();
+                let newIndex;
+
+                if (direction === 'next') {
+                    newIndex = Math.min(currentIndex + visibleCards, cards.length - 1);
+                } else {
+                    newIndex = Math.max(currentIndex - visibleCards, 0);
+                }
+
+                scrollToIndex(newIndex);
+            }
+
+            function updateButtonStates() {
+                prevBtn.disabled = currentIndex === 0;
+                nextBtn.disabled = currentIndex >= cards.length - 1;
+            }
+
+            // Navigation buttons
+            prevBtn.addEventListener('click', (e) => {
+                e.preventDefault();
+                scrollByBatch('prev');
+            });
+
+            nextBtn.addEventListener('click', (e) => {
+                e.preventDefault();
+                scrollByBatch('next');
+            });
+
+            // Keyboard navigation
+            carousel.addEventListener('keydown', (e) => {
+                if (e.key === 'ArrowLeft') {
+                    e.preventDefault();
+                    scrollByBatch('prev');
+                } else if (e.key === 'ArrowRight') {
+                    e.preventDefault();
+                    scrollByBatch('next');
+                }
+            });
+
+            // Mouse wheel horizontal scroll
+            carousel.addEventListener('wheel', (e) => {
+                if (e.deltaY !== 0) {
+                    e.preventDefault();
+                    carousel.scrollLeft += e.deltaY;
+                }
+            }, { passive: false });
+
+            // Track scroll position
+            let scrollTimeout;
+            carousel.addEventListener('scroll', () => {
+                clearTimeout(scrollTimeout);
+                scrollTimeout = setTimeout(() => {
+                    const cardWidth = cards[0].offsetWidth;
+                    const gap = 16;
+                    const scrollPos = carousel.scrollLeft;
+                    const newIndex = Math.round(scrollPos / (cardWidth + gap));
+                    if (newIndex !== currentIndex) {
+                        currentIndex = newIndex;
+                        updateButtonStates();
+                    }
+                }, 100);
+            });
+
+            updateButtonStates();
+        }
+
+        // Auto-initialize all carousels on page
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('.carousel-track[id]').forEach(carousel => {
+                initCarousel(carousel.id);
+            });
+        });
+    </script>
+</body>
+</html>

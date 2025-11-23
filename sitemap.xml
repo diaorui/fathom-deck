@@ -20,4 +20,9 @@
     <priority>0.8</priority>
     <changefreq>hourly</changefreq>
   </url>
+  <url>
+    <loc>https://peekdeck.ruidiao.dev/robotics.html</loc>
+    <priority>0.8</priority>
+    <changefreq>hourly</changefreq>
+  </url>
 </urlset>

@@ -78,8 +78,9 @@
         }
 
         .header h1 {
-            font-size: 3rem;
-            margin-bottom: 10px;
+            font-size: 2.5rem;
+            margin-bottom: 12px;
+            font-weight: 700;
             background: linear-gradient(135deg, #f7931a 0%, #4A90E2 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -88,7 +89,8 @@
 
         .header p {
             color: #9ca3af;
-            font-size: 1.2rem;
+            font-size: 1.1rem;
+            font-weight: 400;
         }
 
         .category-section {
@@ -96,64 +98,98 @@
         }
 
         .category-header {
-            font-size: 1.8rem;
-            margin-bottom: 20px;
-            padding-bottom: 10px;
-            border-bottom: 2px solid #444;
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-bottom: 24px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.1);
             text-transform: capitalize;
+            color: var(--primary-color);
         }
 
         .pages-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 20px;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 24px;
         }
 
         .page-card {
             background: var(--card-background);
-            border-radius: var(--border-radius);
-            padding: 24px;
+            border-radius: 12px;
+            padding: 28px;
             text-decoration: none;
             color: var(--text-color);
-            transition: transform 0.2s, box-shadow 0.2s;
-            border: 1px solid #444;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .page-card::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: 4px;
+            background: var(--primary-color);
+            opacity: 0;
+            transition: opacity 0.3s ease;
         }
 
         .page-card:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            transform: translateY(-6px);
+            box-shadow: 0 8px 24px rgba(247, 147, 26, 0.15);
             border-color: var(--primary-color);
+        }
+
+        .page-card:hover::before {
+            opacity: 1;
         }
 
         .page-card-header {
             display: flex;
             align-items: center;
-            gap: 12px;
-            margin-bottom: 12px;
+            gap: 16px;
+            margin-bottom: 14px;
         }
 
         .page-icon {
-            font-size: 2rem;
+            font-size: 2.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 60px;
+            height: 60px;
+            background: rgba(247, 147, 26, 0.1);
+            border-radius: 12px;
+            transition: transform 0.3s ease;
+        }
+
+        .page-card:hover .page-icon {
+            transform: scale(1.1);
         }
 
         .page-name {
-            font-size: 1.5rem;
+            font-size: 1.35rem;
             font-weight: 600;
+            line-height: 1.3;
         }
 
         .page-description {
             color: #9ca3af;
             font-size: 0.95rem;
-            line-height: 1.5;
+            line-height: 1.6;
         }
 
         .footer {
             text-align: center;
             margin-top: 60px;
             padding-top: 30px;
-            border-top: 1px solid #444;
-            color: #666;
-            font-size: 0.9rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            color: #9ca3af;
+            font-size: 0.875rem;
+            line-height: 1.8;
         }
 
         .footer a:hover {
@@ -161,12 +197,48 @@
         }
 
         @media (max-width: 768px) {
+            body {
+                padding: 24px 16px;
+            }
+
+            .header {
+                margin-bottom: 40px;
+            }
+
             .header h1 {
                 font-size: 2rem;
             }
 
+            .header p {
+                font-size: 1rem;
+            }
+
+            .category-header {
+                font-size: 1.3rem;
+                margin-bottom: 20px;
+            }
+
             .pages-grid {
                 grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .page-card {
+                padding: 24px;
+            }
+
+            .page-icon {
+                width: 52px;
+                height: 52px;
+                font-size: 2.2rem;
+            }
+
+            .page-name {
+                font-size: 1.2rem;
+            }
+
+            .page-description {
+                font-size: 0.9rem;
             }
         }
     </style>

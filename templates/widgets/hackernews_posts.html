@@ -182,6 +182,9 @@
             {% elif sort_by == 'relevance' %}
             · ⭐ Popular
             {% endif %}
+            {% if days %}
+            · Last {{ days }}d
+            {% endif %}
             {% if min_points > 0 %}
             · {{ min_points }}+ pts
             {% endif %}
@@ -254,7 +257,7 @@
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
-                     onclick="window.open('https://hn.algolia.com/?query={{ query|urlencode }}&type=story&sort=byDate', '_blank')">
+                     onclick="window.open('https://hn.algolia.com/?q={{ query|urlencode }}', '_blank')">
                     <div style="text-align: center;">
                         <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
                         <div style="color: #ff6600; font-weight: 500; font-size: 0.9rem;">View All</div>

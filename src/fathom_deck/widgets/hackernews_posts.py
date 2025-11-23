@@ -1,8 +1,9 @@
 """HackerNews posts widget using Algolia Search API with rich metadata."""
 
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from typing import Any, Dict, List
 from urllib.parse import urlparse
+import time
 
 from ..core.base_widget import BaseWidget
 from ..core.http_cache import get_http_client
@@ -23,6 +24,7 @@ class HackernewsPostsWidget(BaseWidget):
         - limit: Number of posts to show (default: 8)
         - min_points: Minimum points threshold for quality filter (default: 10)
         - sort_by: Sort order - "date" or "relevance" (default: "date")
+        - days: Filter stories created within last N days (optional, e.g., 7 for last week)
         - extract_metadata: Extract rich metadata from article URLs (default: True)
     """
 
@@ -37,6 +39,7 @@ class HackernewsPostsWidget(BaseWidget):
         limit = self.merged_params.get("limit", 8)
         min_points = self.merged_params.get("min_points", 10)
         sort_by = self.merged_params.get("sort_by", "date")
+        days = self.merged_params.get("days")
         extract_meta = self.merged_params.get("extract_metadata", True)
         client = get_http_client()
 
@@ -53,9 +56,20 @@ class HackernewsPostsWidget(BaseWidget):
                 "hitsPerPage": limit,
             }
 
-            # Add numeric filter for minimum points
+            # Build numeric filters (can combine multiple filters with comma)
+            filters = []
+
+            # Add minimum points filter
             if min_points > 0:
-                params["numericFilters"] = f"points>{min_points}"
+                filters.append(f"points>{min_points}")
+
+            # Add date range filter (stories created within last N days)
+            if days:
+                cutoff_timestamp = int((datetime.now(timezone.utc) - timedelta(days=days)).timestamp())
+                filters.append(f"created_at_i>{cutoff_timestamp}")
+
+            if filters:
+                params["numericFilters"] = ",".join(filters)
 
             headers = {
                 "User-Agent": "fathom-deck/1.0.0"
@@ -133,6 +147,7 @@ class HackernewsPostsWidget(BaseWidget):
                 "query": query,
                 "sort_by": sort_by,
                 "min_points": min_points,
+                "days": days,
                 "posts": posts,
                 "total_hits": hn_data["nbHits"],
                 "has_metadata": extract_meta,
@@ -150,6 +165,7 @@ class HackernewsPostsWidget(BaseWidget):
         query = processed_data["query"]
         sort_by = processed_data["sort_by"]
         min_points = processed_data["min_points"]
+        days = processed_data["days"]
         posts = processed_data["posts"]
         total_hits = processed_data["total_hits"]
         has_metadata = processed_data["has_metadata"]
@@ -161,6 +177,7 @@ class HackernewsPostsWidget(BaseWidget):
             query=query,
             sort_by=sort_by,
             min_points=min_points,
+            days=days,
             posts=posts,
             total_hits=total_hits,
             has_metadata=has_metadata,

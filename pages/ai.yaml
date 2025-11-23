@@ -33,15 +33,16 @@ widgets:
       query: ai
       limit: 10
 
-  # 3. HackerNews (direct API, sorted by date)
+  # 3. HackerNews (direct API, sorted by relevance, last 7 days)
   - type: hackernews-posts
     size: full
     update_minutes: 30
     params:
-      query: artificial intelligence
+      query: ai
       limit: 10
       min_points: 0
-      sort_by: date
+      sort_by: relevance
+      days: 3
 
   # 4. HuggingFace papers (daily research publications)
   - type: huggingface-papers
@@ -64,5 +65,5 @@ widgets:
     update_minutes: 60
     params:
       query: ai machine-learning llm
-      days: 7
+      days: 3
       limit: 10

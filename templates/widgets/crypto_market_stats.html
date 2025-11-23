@@ -47,7 +47,11 @@
             <div class="stat-item">
                 <div class="stat-label">Circulating Supply</div>
                 <div class="stat-value">{{ circulating_display }} {{ symbol }}</div>
+                {% if supply_percent != "N/A" %}
                 <div class="stat-meta">{{ supply_percent }} of max</div>
+                {% else %}
+                <div class="stat-meta">No max supply</div>
+                {% endif %}
             </div>
             <div class="stat-item">
                 <div class="stat-label">All-Time High</div>

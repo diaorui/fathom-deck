@@ -1,4 +1,4 @@
-"""Configuration models for FathomDeck."""
+"""Configuration models."""
 
 from typing import Any, Dict, List, Literal, Optional, Union
 from pydantic import BaseModel, Field

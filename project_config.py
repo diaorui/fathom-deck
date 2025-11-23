@@ -13,7 +13,7 @@ When renaming the project, only update this file - all other references should i
 PROJECT_NAME = "PeekDeck"
 
 # Package name (Python import, lowercase with underscore)
-PACKAGE_NAME = "peek_deck"  # ✅ Renamed from fathom_deck
+PACKAGE_NAME = "peek_deck"
 
 # Tagline
 PROJECT_TAGLINE = "A glance is all you need"

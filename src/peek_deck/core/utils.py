@@ -1,4 +1,4 @@
-"""Utility functions for FathomDeck."""
+"""Utility functions."""
 
 import json
 import time

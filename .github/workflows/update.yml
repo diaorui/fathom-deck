@@ -106,11 +106,11 @@ jobs:
       - name: Commit and push to data branch
         run: |
           # Store generated files temporarily
-          mkdir -p /tmp/fathom-build
-          cp -r docs /tmp/fathom-build/ || true
-          cp -r data/cache /tmp/fathom-build/ || true
-          cp -r data/raw /tmp/fathom-build/ || true
-          cp -r data/processed /tmp/fathom-build/ || true
+          mkdir -p /tmp/my-build
+          cp -r docs /tmp/my-build/ || true
+          cp -r data/cache /tmp/my-build/ || true
+          cp -r data/raw /tmp/my-build/ || true
+          cp -r data/processed /tmp/my-build/ || true
 
           # Fetch data branch (or create if doesn't exist) - shallow fetch
           git fetch --depth=1 origin data:refs/remotes/origin/data || true
@@ -127,11 +127,11 @@ jobs:
           fi
 
           # Copy generated files back
-          cp -r /tmp/fathom-build/docs . || true
+          cp -r /tmp/my-build/docs . || true
           mkdir -p data
-          cp -r /tmp/fathom-build/cache data/ || true
-          cp -r /tmp/fathom-build/raw data/ || true
-          cp -r /tmp/fathom-build/processed data/ || true
+          cp -r /tmp/my-build/cache data/ || true
+          cp -r /tmp/my-build/raw data/ || true
+          cp -r /tmp/my-build/processed data/ || true
 
           # Add only generated files (no source code)
           # Use -f to force add docs/ and data/ which may be in .gitignore

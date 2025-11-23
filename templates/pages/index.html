@@ -25,6 +25,25 @@
     <meta name="twitter:description" content="{{ index_description }}">
     {% if base_url %}<meta name="twitter:url" content="{{ base_url }}/index.html">{% endif %}
 
+    {% if base_url %}
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "{{ project_name }}",
+      "description": "{{ index_description }}",
+      "url": "{{ base_url }}",
+      "author": {
+        "@type": "Organization",
+        "name": "{{ project_name }}",
+        "url": "{{ base_url }}"
+      },
+      "dateModified": "{{ generated_at }}"
+    }
+    </script>
+    {% endif %}
+
     <style>
         :root {
             --background: #1a1a1a;

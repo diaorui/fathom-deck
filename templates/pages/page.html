@@ -25,6 +25,52 @@
     <meta name="twitter:description" content="{{ page.description }}">
     {% if base_url %}<meta name="twitter:url" content="{{ base_url }}/{{ page.id }}.html">{% endif %}
 
+    {% if base_url %}
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebApplication",
+          "name": "{{ page.name }} Dashboard",
+          "applicationCategory": "BusinessApplication",
+          "description": "{{ page.description }}",
+          "url": "{{ base_url }}/{{ page.id }}.html",
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+          },
+          "author": {
+            "@type": "Organization",
+            "name": "{{ project_name }}",
+            "url": "{{ base_url }}"
+          },
+          "dateModified": "{{ generated_at }}"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "{{ base_url }}/index.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "{{ page.name }}",
+              "item": "{{ base_url }}/{{ page.id }}.html"
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+    {% endif %}
+
     <style>
         :root {
             --primary-color: {{ theme.primary_color }};

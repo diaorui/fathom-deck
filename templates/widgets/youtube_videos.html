@@ -170,7 +170,7 @@
 
 <div class="widget widget-youtube-videos widget-{{ size }}">
     <div class="widget-header">
-        <h3>{{ title }}</h3>
+        <h3><a href="https://www.youtube.com/results?search_query={{ query|urlencode }}" target="_blank" style="color: inherit; text-decoration: none;">{{ title }}</a></h3>
         <div style="font-size: 0.75rem; color: #9ca3af;">
             "{{ query }}"{% if order != "relevance" %} • sorted by {{ order }}{% endif %}
         </div>

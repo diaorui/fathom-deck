@@ -163,7 +163,7 @@
 
 <div class="widget widget-google-news widget-{{ size }}">
     <div class="widget-header">
-        <h3>{{ title }}</h3>
+        <h3><a href="https://news.google.com/search?q={{ search_query|urlencode }}" target="_blank" style="color: inherit; text-decoration: none;">{{ title }}</a></h3>
         <div style="font-size: 0.75rem; color: #9ca3af;">
             "{{ search_query }}"
         </div>

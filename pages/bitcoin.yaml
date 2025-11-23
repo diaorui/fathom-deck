@@ -79,3 +79,14 @@ widgets:
     params:
       query: bitcoin
       limit: 10
+
+  # Row 6: YouTube videos (Bitcoin news and analysis)
+  - type: youtube-videos
+    size: full
+    update_minutes: 120
+    params:
+      query: bitcoin
+      limit: 10
+      order: relevance
+      days: 3
+      relevance_language: en        

@@ -66,3 +66,14 @@ widgets:
       query: ai machine-learning llm
       days: 3
       limit: 10
+
+  # 7. YouTube videos (AI tutorials and talks)
+  - type: youtube-videos
+    size: full
+    update_minutes: 120
+    params:
+      query: ai
+      limit: 10
+      order: relevance
+      days: 3
+      relevance_language: en          # English content

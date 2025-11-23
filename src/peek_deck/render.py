@@ -1,7 +1,7 @@
 """Stage 3: Render HTML from processed data."""
 
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from jinja2 import Environment, FileSystemLoader
 
@@ -116,7 +116,7 @@ def render_all():
                 page=page_config,
                 theme=page_theme,
                 widgets=widget_htmls,
-                generated_at=datetime.now().isoformat(),
+                generated_at=datetime.now(timezone.utc).isoformat(),
                 project_name=PROJECT_NAME,
                 project_tagline=PROJECT_TAGLINE
             )
@@ -178,7 +178,7 @@ def generate_index(page_files: list, docs_dir: Path, templates_dir: Path):
     index_html = template.render(
         pages_by_category=dict(pages_by_category),
         categories=sorted(pages_by_category.keys()),
-        generated_at=datetime.now().isoformat(),
+        generated_at=datetime.now(timezone.utc).isoformat(),
         project_name=PROJECT_NAME,
         project_tagline=PROJECT_TAGLINE
     )

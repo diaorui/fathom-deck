@@ -1013,6 +1013,156 @@ Following these principles creates carousels that feel polished, professional, a
 
 ---
 
+## Timezone Handling
+
+### The Problem: Server Time vs User Time
+
+PeekDeck has a unique timezone challenge:
+- **Server time**: GitHub Actions runs in UTC
+- **Data timestamps**: APIs return timestamps in various timezones (UTC, local, etc.)
+- **User time**: Viewers of the dashboard are in different timezones worldwide
+- **Static HTML**: No server-side rendering to convert timestamps per-user
+
+### Design Principle: Store UTC, Display Local
+
+**All timestamps MUST be stored in UTC internally, converted to user's local timezone in the browser.**
+
+### Implementation Rules
+
+**Rule 1: Always use `datetime.now(timezone.utc)` in Python**
+```python
+# ✅ CORRECT: UTC-aware timestamp
+from datetime import datetime, timezone
+fetched_at = datetime.now(timezone.utc).isoformat()
+
+# ❌ WRONG: Uses server's local timezone
+fetched_at = datetime.now().isoformat()  # Bug! Will break if server timezone changes
+```
+
+**Rule 2: Store timestamps in UTC in data files**
+```json
+{
+  "fetched_at": "2025-01-15T10:30:00+00:00",  // ✅ UTC timezone explicit
+  "articles": [
+    {
+      "pub_date": 1705318200.0  // ✅ Unix timestamp (always UTC)
+    }
+  ]
+}
+```
+
+**Rule 3: Use `data-timestamp` attribute for client-side conversion**
+```html
+<!-- Backend passes UTC timestamp -->
+<small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
+
+<!-- JavaScript converts to user's local time -->
+<script>
+  const elem = document.querySelector('[data-timestamp]');
+  const utcTimestamp = elem.getAttribute('data-timestamp');
+  const localTime = formatTimeAgo(utcTimestamp);  // Converts to user's timezone
+  elem.textContent = localTime;  // "5m ago" in user's timezone
+</script>
+```
+
+**Rule 4: JavaScript Date() handles timezone conversion automatically**
+```javascript
+// Browser's Date() constructor automatically converts to user's local timezone
+const utcString = "2025-01-15T10:30:00Z";  // UTC timestamp from backend
+const date = new Date(utcString);  // Converts to user's browser timezone
+
+// Example: User in PST sees "Jan 15, 2:30 AM"
+//          User in JST sees "Jan 15, 7:30 PM"
+```
+
+### Common Timezone Bugs
+
+**Bug 1: Cache update scheduling with local time**
+```python
+# ❌ WRONG: Compares UTC timestamp with local time
+last_update = datetime.fromisoformat("2025-01-15T10:30:00+00:00")  # UTC
+time_since = datetime.now() - last_update  # Local time! Breaks if server is not UTC
+
+# ✅ CORRECT: Both in UTC
+last_update = datetime.fromisoformat("2025-01-15T10:30:00+00:00")
+time_since = datetime.now(timezone.utc) - last_update
+```
+
+**Bug 2: Mixing aware and naive datetimes**
+```python
+# ❌ WRONG: Cannot compare naive and aware datetimes
+utc_time = datetime.now(timezone.utc)  # Timezone-aware
+local_time = datetime.now()  # Timezone-naive
+diff = utc_time - local_time  # TypeError!
+
+# ✅ CORRECT: Both timezone-aware
+utc_time = datetime.now(timezone.utc)
+other_time = datetime.fromisoformat("2025-01-15T10:30:00Z").replace(tzinfo=timezone.utc)
+diff = utc_time - other_time
+```
+
+**Bug 3: Forgetting to parse timezone from ISO strings**
+```python
+# ❌ WRONG: Strips timezone information
+timestamp = "2025-01-15T10:30:00+00:00"
+dt = datetime.fromisoformat(timestamp.replace("+00:00", ""))  # Loses timezone!
+
+# ✅ CORRECT: Preserves timezone
+dt = datetime.fromisoformat(timestamp)  # Keeps timezone info
+```
+
+### Files That Must Use UTC
+
+| File | Lines to Check | Reason |
+|------|---------------|--------|
+| `cache.py` | All `datetime.now()` calls | Cache timestamps compared across workflow runs |
+| `render.py` | `generated_at` timestamp | Consistency with widget timestamps |
+| `url_fetch_manager.py` | HTTP cache TTL | In-memory cache persists across widget fetches |
+| `url_metadata.py` | Metadata cache TTL | File-based cache persists across runs |
+| `utils.py` | Relative time calculations | Must match UTC timestamps from widgets |
+| All widgets | `fetched_at` timestamp | Displayed to users in multiple timezones |
+
+### Testing Timezone Correctness
+
+**Test 1: Verify UTC storage**
+```bash
+# Check that all timestamps in data files are UTC
+grep -r "fetched_at" data/processed/
+# Should see: "2025-01-15T10:30:00+00:00" or "2025-01-15T10:30:00Z"
+```
+
+**Test 2: Simulate different server timezones**
+```bash
+# Run locally with different TZ to verify code doesn't break
+TZ=America/Los_Angeles python -m peek_deck fetch
+TZ=Asia/Tokyo python -m peek_deck fetch
+# Cache should still work correctly
+```
+
+**Test 3: Browser timezone conversion**
+```javascript
+// Open browser console, change system timezone, reload page
+// Timestamps should update to show correct "X ago" relative to new timezone
+```
+
+### Why This Matters
+
+**GitHub Actions runs in UTC** - If code uses local time, it works in CI but breaks when run locally in other timezones.
+
+**Users are worldwide** - A dashboard generated at 10:00 UTC should show:
+- "10:00 AM" to London user
+- "2:00 AM" to Los Angeles user
+- "7:00 PM" to Tokyo user
+
+**Cache consistency** - If cache uses local time, widget update scheduling breaks when:
+- Running locally vs in CI
+- Moving server to different region
+- Daylight saving time changes
+
+**Static HTML** - Can't do server-side timezone conversion per-user. Must use JavaScript to convert UTC → user's local time.
+
+---
+
 ## Key Learnings & Best Practices
 
 **These are non-obvious patterns learned from TopicRadar that are easy to overlook:**

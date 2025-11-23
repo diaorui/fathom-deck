@@ -2,7 +2,7 @@
 
 import json
 import hashlib
-from datetime import datetime, timedelta
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from threading import Lock
 from typing import Any, Dict, Optional
@@ -91,7 +91,7 @@ class Cache:
 
             try:
                 last_update = datetime.fromisoformat(self.timestamps[cache_key])
-                time_since_update = datetime.now() - last_update
+                time_since_update = datetime.now(timezone.utc) - last_update
                 threshold = timedelta(minutes=update_minutes)
                 needs_update = time_since_update >= threshold
 
@@ -109,7 +109,7 @@ class Cache:
     def mark_updated(self, cache_key: str):
         """Mark widget as updated at current time (thread-safe)."""
         with self._lock:
-            self.timestamps[cache_key] = datetime.now().isoformat()
+            self.timestamps[cache_key] = datetime.now(timezone.utc).isoformat()
 
     def get_last_update(self, cache_key: str) -> Optional[datetime]:
         """Get the last update time for a widget (thread-safe)."""

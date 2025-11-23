@@ -78,15 +78,12 @@ jobs:
           export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}/src"
           python -m peek_deck fetch
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
       - name: Stage 2 - Process data
         run: |
           export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}/src"
           python -m peek_deck process
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Stage 3 - Render HTML
         run: |

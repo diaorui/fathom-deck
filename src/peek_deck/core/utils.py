@@ -2,7 +2,7 @@
 
 import json
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from urllib.parse import urlparse, quote
 from typing import Optional
 
@@ -26,7 +26,7 @@ def format_time_ago(timestamp_str: str) -> str:
         else:
             timestamp = datetime.fromisoformat(timestamp_str)
 
-        now = datetime.now()
+        now = datetime.now(timezone.utc)
         delta = now - timestamp
 
         # Calculate time difference

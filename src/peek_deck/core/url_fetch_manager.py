@@ -4,7 +4,7 @@ import hashlib
 import json
 import requests
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timezone, timedelta
 from threading import Lock, Semaphore
 from typing import Any, Dict, Optional, Literal
 from urllib.parse import urlparse
@@ -141,7 +141,7 @@ class URLFetchManager:
         with self._cache_lock:
             if cache_key in self._cache:
                 data, timestamp = self._cache[cache_key]
-                if datetime.now() - timestamp < self._cache_ttl:
+                if datetime.now(timezone.utc) - timestamp < self._cache_ttl:
                     return data
                 else:
                     # Expired, remove it
@@ -151,7 +151,7 @@ class URLFetchManager:
     def _store_cache(self, cache_key: str, data: Any):
         """Store data in cache (thread-safe)."""
         with self._cache_lock:
-            self._cache[cache_key] = (data, datetime.now())
+            self._cache[cache_key] = (data, datetime.now(timezone.utc))
 
     def _make_request(
         self,

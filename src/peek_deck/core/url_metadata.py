@@ -14,7 +14,7 @@ Follows design patterns from DESIGN.md (graceful degradation, retry logic, emoji
 import json
 import hashlib
 from pathlib import Path
-from datetime import datetime, timedelta
+from datetime import datetime, timezone, timedelta
 from typing import Dict, Any, Optional
 from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
@@ -123,7 +123,7 @@ class PersistentURLMetadataCache:
 
             # Check if cache is expired
             cached_at = datetime.fromisoformat(cache_data['cached_at'])
-            if datetime.now() - cached_at > self.default_ttl:
+            if datetime.now(timezone.utc) - cached_at > self.default_ttl:
                 # Cache expired, delete it
                 cache_path.unlink()
                 return None
@@ -148,7 +148,7 @@ class PersistentURLMetadataCache:
         try:
             cache_data = {
                 'url': url,
-                'cached_at': datetime.now().isoformat(),
+                'cached_at': datetime.now(timezone.utc).isoformat(),
                 'metadata': metadata.to_dict(),
             }
 
@@ -169,7 +169,7 @@ class PersistentURLMetadataCache:
                     cache_data = json.load(f)
 
                 cached_at = datetime.fromisoformat(cache_data['cached_at'])
-                if datetime.now() - cached_at > self.default_ttl:
+                if datetime.now(timezone.utc) - cached_at > self.default_ttl:
                     cache_file.unlink()
                     expired_count += 1
 

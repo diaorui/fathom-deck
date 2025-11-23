@@ -90,7 +90,6 @@ class CryptoMarketStatsWidget(BaseWidget):
         # Format values
         market_cap_display = format_large_number(market_cap)
         circulating_display = f"{circulating_supply:,.0f}" if circulating_supply else "N/A"
-        max_supply_display = f"{max_supply:,.0f}" if max_supply else "∞"
         supply_percent = f"{(circulating_supply / max_supply * 100):.1f}%" if (circulating_supply and max_supply) else "N/A"
 
         # Pass ISO date strings for client-side formatting
@@ -111,7 +110,6 @@ class CryptoMarketStatsWidget(BaseWidget):
             rank=rank,
             circulating_display=circulating_display,
             supply_percent=supply_percent,
-            max_supply_display=max_supply_display,
             ath_price=ath['price'],
             ath_date_iso=ath_date_iso,
             ath_change_percent=ath_change_percent,

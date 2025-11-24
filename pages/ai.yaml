@@ -60,7 +60,7 @@ widgets:
   - type: github-repos
     update_minutes: 60
     params:
-      query: ai machine-learning llm
+      query: ai
       days: 30
       date_filter: created
       limit: 10

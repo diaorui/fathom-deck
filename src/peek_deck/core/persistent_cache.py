@@ -52,6 +52,7 @@ class PersistentCache(Generic[T]):
         base_dir: str = "data/cache",
         serializer: Optional[Callable[[T], Any]] = None,
         deserializer: Optional[Callable[[Any], T]] = None,
+        auto_cleanup: bool = True,
     ):
         """Initialize persistent cache.
 
@@ -61,12 +62,30 @@ class PersistentCache(Generic[T]):
             base_dir: Base cache directory (default: "data/cache")
             serializer: Optional function to convert T to JSON-serializable data
             deserializer: Optional function to convert JSON data back to T
+            auto_cleanup: Automatically clean expired entries on init (default: True)
         """
         self.cache_dir = Path(base_dir) / cache_subdir
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.ttl = timedelta(days=ttl_days)
         self.serializer = serializer or (lambda x: x)
         self.deserializer = deserializer or (lambda x: x)
+
+        # Auto-cleanup expired entries on initialization
+        if auto_cleanup:
+            self._auto_cleanup()
+
+    def _auto_cleanup(self):
+        """Silently clean expired entries on initialization.
+
+        This runs automatically to prevent cache buildup without requiring
+        explicit cleanup calls. Failures are silently ignored to avoid
+        breaking cache initialization.
+        """
+        try:
+            self.clear_expired()
+        except Exception:
+            # Silently ignore cleanup failures - cache will still work
+            pass
 
     def _get_cache_path(self, key: str) -> Path:
         """Convert cache key to file path using SHA256 hash.

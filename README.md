@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://peekdeck.ruidiao.dev/og-image.png" alt="PeekDeck - A glance is all you need" width="600" height="240" style="object-fit: cover; object-position: center;">
+<img src="readme-banner.png" alt="PeekDeck - A glance is all you need" width="600">
 
 *A configurable, widget-based monitoring system that generates static dashboards for tracking various data sources.*
 

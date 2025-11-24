@@ -9,7 +9,7 @@
     <meta name="description" content="{{ index_description }}">
     <meta name="author" content="{{ project_name }}">
     <meta name="robots" content="index, follow">
-    <meta name="theme-color" content="#f7931a">
+    <meta name="theme-color" content="#627eea">
     {% if base_url %}<link rel="canonical" href="{{ base_url }}/index.html">{% endif %}
 
     <!-- Open Graph Meta Tags -->
@@ -68,7 +68,7 @@
             --text-color: #ffffff;
             --card-background: #2d2d2d;
             --border-radius: 8px;
-            --primary-color: #f7931a;
+            --primary-color: #627eea;
         }
 
         * {
@@ -99,7 +99,7 @@
             font-size: 2.5rem;
             margin-bottom: 16px;
             font-weight: 700;
-            background: linear-gradient(135deg, #f7931a 0%, #4A90E2 100%);
+            background: linear-gradient(135deg, #627eea 0%, #8e9eeb 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
@@ -309,7 +309,7 @@
         <div class="footer">
             Generated at {{ generated_at }}<br>
             {% if github_url %}
-            Built with <a href="{{ github_url }}" target="_blank" rel="noopener noreferrer" style="color: #f7931a; text-decoration: none;">{{ project_name }}</a> • Open Source
+            Built with <a href="{{ github_url }}" target="_blank" rel="noopener noreferrer" style="color: #627eea; text-decoration: none;">{{ project_name }}</a> • Open Source
             {% else %}
             Powered by {{ project_name }}
             {% endif %}

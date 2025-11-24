@@ -69,6 +69,9 @@
             --card-background: #2d2d2d;
             --border-radius: 8px;
             --primary-color: #627eea;
+            --text-muted: #9ca3af;
+            --gradient-start: #627eea;
+            --gradient-end: #8e9eeb;
         }
 
         * {
@@ -99,7 +102,7 @@
             font-size: 2.5rem;
             margin-bottom: 16px;
             font-weight: 700;
-            background: linear-gradient(135deg, #627eea 0%, #8e9eeb 100%);
+            background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
@@ -107,7 +110,7 @@
         }
 
         .header p {
-            color: #9ca3af;
+            color: var(--text-muted);
             font-size: 1.1rem;
             font-weight: 400;
             letter-spacing: 0.01em;
@@ -202,7 +205,7 @@
         }
 
         .page-description {
-            color: #9ca3af;
+            color: var(--text-muted);
             font-size: 0.95rem;
             line-height: 1.6;
         }
@@ -212,7 +215,7 @@
             margin-top: 80px;
             padding-top: 32px;
             border-top: 1px solid rgba(255, 255, 255, 0.1);
-            color: #9ca3af;
+            color: var(--text-muted);
             font-size: 0.875rem;
             line-height: 1.8;
         }
@@ -309,7 +312,7 @@
         <div class="footer">
             Generated at {{ generated_at }}<br>
             {% if github_url %}
-            Built with <a href="{{ github_url }}" target="_blank" rel="noopener noreferrer" style="color: #627eea; text-decoration: none;">{{ project_name }}</a> • Open Source
+            Built with <a href="{{ github_url }}" target="_blank" rel="noopener noreferrer" style="color: var(--primary-color); text-decoration: none;">{{ project_name }}</a> • Open Source
             {% else %}
             Powered by {{ project_name }}
             {% endif %}

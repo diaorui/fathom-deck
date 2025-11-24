@@ -96,6 +96,8 @@
             --text-color: {{ theme.text_color }};
             --card-background: {{ theme.card_background }};
             --border-radius: {{ theme.border_radius }};
+            --text-muted: #9ca3af;
+            --text-separator: #555;
             --color-positive: #10b981;
             --color-negative: #ef4444;
         }
@@ -127,11 +129,11 @@
             align-items: center;
             gap: 8px;
             font-size: 0.9rem;
-            color: #9ca3af;
+            color: var(--text-muted);
         }
 
         .breadcrumb-link {
-            color: #9ca3af;
+            color: var(--text-muted);
             text-decoration: none;
             padding: 6px 10px;
             border-radius: 6px;
@@ -152,7 +154,7 @@
         }
 
         .breadcrumb-separator {
-            color: #555;
+            color: var(--text-separator);
             font-weight: 300;
         }
 
@@ -179,7 +181,7 @@
         }
 
         .page-header p {
-            color: #9ca3af;
+            color: var(--text-muted);
             font-size: 1.1rem;
         }
 
@@ -190,7 +192,7 @@
             border-top: 1px solid rgba(255, 255, 255, 0.1);
             text-align: center;
             font-size: 0.9rem;
-            color: #9ca3af;
+            color: var(--text-muted);
         }
 
         footer a {
@@ -241,7 +243,7 @@
         .widget-footer {
             padding-top: 10px;
             border-top: 1px solid rgba(255,255,255,0.1);
-            color: #9ca3af;
+            color: var(--text-muted);
             font-size: 0.85rem;
         }
 

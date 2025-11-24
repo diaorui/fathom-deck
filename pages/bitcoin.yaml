@@ -22,11 +22,11 @@ params:
 # Widget layout
 widgets:
   - type: crypto-price
-    size: small
+    size: full
     update_minutes: 5
 
   - type: crypto-price-chart
-    size: large
+    size: full
     update_minutes: 10
     params:
       tabs:
@@ -49,6 +49,10 @@ widgets:
   - type: crypto-market-stats
     size: full
     update_minutes: 30
+
+  - type: crypto-fear-greed
+    size: full
+    update_minutes: 360
 
   - type: reddit-posts
     size: full

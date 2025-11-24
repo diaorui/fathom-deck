@@ -11,16 +11,13 @@ Uses persistent disk cache with long TTL to minimize fetches (most metadata does
 Follows design patterns from DESIGN.md (graceful degradation, retry logic, emoji logging).
 """
 
-import json
-import hashlib
-from pathlib import Path
-from datetime import datetime, timezone, timedelta
 from typing import Dict, Any, Optional
 from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 
 from .url_fetch_manager import get_url_fetch_manager
 from .output_manager import OutputManager
+from .persistent_cache import PersistentCache
 
 
 class URLMetadata:
@@ -67,131 +64,6 @@ class URLMetadata:
         return metadata
 
 
-class PersistentURLMetadataCache:
-    """Persistent disk cache for URL metadata with long TTL.
-
-    Saves extracted metadata to disk to minimize fetches. Most website metadata
-    doesn't change frequently, so we use a default 30-day TTL.
-
-    Cache is stored in data/cache/url_metadata/ as JSON files.
-    """
-
-    def __init__(
-        self,
-        cache_dir: str = "data/cache/url_metadata",
-        default_ttl_days: int = 30
-    ):
-        """Initialize persistent cache.
-
-        Args:
-            cache_dir: Directory to store cache files
-            default_ttl_days: Default cache TTL in days (default: 30)
-        """
-        self.cache_dir = Path(cache_dir)
-        self.cache_dir.mkdir(parents=True, exist_ok=True)
-        self.default_ttl = timedelta(days=default_ttl_days)
-
-    def _get_cache_key(self, url: str) -> str:
-        """Generate cache key (filename) from URL.
-
-        Uses SHA256 hash of URL to avoid filesystem issues with special characters.
-        """
-        return hashlib.sha256(url.encode()).hexdigest()
-
-    def _get_cache_path(self, url: str) -> Path:
-        """Get cache file path for URL."""
-        cache_key = self._get_cache_key(url)
-        return self.cache_dir / f"{cache_key}.json"
-
-    def get(self, url: str) -> Optional[URLMetadata]:
-        """Get cached metadata for URL if still valid.
-
-        Args:
-            url: URL to lookup
-
-        Returns:
-            URLMetadata if cached and not expired, None otherwise
-        """
-        cache_path = self._get_cache_path(url)
-
-        if not cache_path.exists():
-            return None
-
-        try:
-            with open(cache_path, 'r', encoding='utf-8') as f:
-                cache_data = json.load(f)
-
-            # Check if cache is expired
-            cached_at = datetime.fromisoformat(cache_data['cached_at'])
-            if datetime.now(timezone.utc) - cached_at > self.default_ttl:
-                # Cache expired, delete it
-                cache_path.unlink()
-                return None
-
-            # Return cached metadata
-            return URLMetadata.from_dict(cache_data['metadata'])
-
-        except Exception as e:
-            # If cache read fails, just return None (will refetch)
-            OutputManager.log(f"⚠️  Failed to read cache for {url}: {e}")
-            return None
-
-    def set(self, url: str, metadata: URLMetadata):
-        """Save metadata to cache.
-
-        Args:
-            url: URL to cache
-            metadata: Metadata to save
-        """
-        cache_path = self._get_cache_path(url)
-
-        try:
-            cache_data = {
-                'url': url,
-                'cached_at': datetime.now(timezone.utc).isoformat(),
-                'metadata': metadata.to_dict(),
-            }
-
-            with open(cache_path, 'w', encoding='utf-8') as f:
-                json.dump(cache_data, f, indent=2)
-
-        except Exception as e:
-            # If cache write fails, just log it (non-critical)
-            OutputManager.log(f"⚠️  Failed to write cache for {url}: {e}")
-
-    def clear_expired(self):
-        """Remove all expired cache entries."""
-        expired_count = 0
-
-        for cache_file in self.cache_dir.glob('*.json'):
-            try:
-                with open(cache_file, 'r', encoding='utf-8') as f:
-                    cache_data = json.load(f)
-
-                cached_at = datetime.fromisoformat(cache_data['cached_at'])
-                if datetime.now(timezone.utc) - cached_at > self.default_ttl:
-                    cache_file.unlink()
-                    expired_count += 1
-
-            except Exception:
-                # If we can't read it, delete it
-                cache_file.unlink()
-                expired_count += 1
-
-        if expired_count > 0:
-            OutputManager.log(f"🗑️  Cleared {expired_count} expired URL metadata cache entries")
-
-    def clear_all(self):
-        """Remove all cache entries."""
-        count = 0
-        for cache_file in self.cache_dir.glob('*.json'):
-            cache_file.unlink()
-            count += 1
-
-        if count > 0:
-            OutputManager.log(f"🗑️  Cleared {count} URL metadata cache entries")
-
-
 class URLMetadataExtractor:
     """Extract rich metadata from web pages.
 
@@ -209,14 +81,19 @@ class URLMetadataExtractor:
             OutputManager.log(f"Description: {metadata.description}")
     """
 
-    def __init__(self, persistent_cache: Optional[PersistentURLMetadataCache] = None):
+    def __init__(self, persistent_cache: Optional[PersistentCache[URLMetadata]] = None):
         """Initialize metadata extractor with HTTP client and persistent cache.
 
         Args:
             persistent_cache: Persistent cache instance (creates new one if not provided)
         """
         self.http_client = get_url_fetch_manager()
-        self.persistent_cache = persistent_cache or PersistentURLMetadataCache()
+        self.persistent_cache = persistent_cache or PersistentCache[URLMetadata](
+            cache_subdir="url_metadata",
+            ttl_days=30,
+            serializer=lambda meta: meta.to_dict(),
+            deserializer=URLMetadata.from_dict
+        )
 
     def extract(
         self,

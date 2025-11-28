@@ -46,6 +46,17 @@
       "description": "The boom in metal-intensive technologies like data centers and electric vehicles has made it a prime time to be in the US aluminum business. Prices are booming. Part of that is because inside every data center are cooling units, server racks, radiators, and a litany of other pieces and parts made out of aluminum. No wonder demand is high. But data centers guzzle enormous amounts of power, and electricity prices are skyrocketing. In the US alone, electricity demand is expected to grow five to 10 times faster over the next 10 years than it did in the previous decade, per Bank of America. For aluminum smelters, this is a problem."
     },
     {
+      "title": "Question: Do we know where and for what the bulk of AI compute is utilized?",
+      "author": "Quizzelbuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1p92xq5/question_do_we_know_where_and_for_what_the_bulk/",
+      "published": 1764356179.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "If we were to assign responsibility to A user base or user set for the bulk of harm AI is doing to our water and electricity as a resource, what group of people or entities are doing the most harm? Some one told me \"ChatGPT, Gemini, Grok, and all the other slop factories are what is consuming the overwhelming majority of AI resources.\" but i thought that just normal people asking chat GPT random questions or Grok being some one's waifu was the left overs from other applications. I had thought the servers and AI algorithms were being turned towards education, government, corporate works and other people received de-prioritized access after paying businesses got their needs processed. Am i wrong? Are Chat GPT queries from randos online really the supposed genesis of 20xxs impending water scarcity?"
+    },
+    {
       "title": "Best AI for writing analysis, identifying subtext and developing ideas?",
       "author": "doublecheeseburger",
       "url": "https://www.reddit.com/r/artificial/comments/1p96514/best_ai_for_writing_analysis_identifying_subtext/",
@@ -68,28 +79,6 @@
       "description": "Mexico announced on Wednesday plans to build Coatlicue, a 314-petaflop supercomputer that will become Latin America's most powerful."
     },
     {
-      "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
-      "published": 1764326221.0,
-      "thumbnail": "https://external-preview.redd.it/pCU_L14NP5B0d5_n_QHNSysSeBYi7z_wBdVM9dGTEIA.jpeg?width=640&crop=smart&auto=webp&s=8fdf0c8d299e3e3249decddd43e5b18bc6196eb0",
-      "external_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
-    },
-    {
-      "title": "Question: Do we know where and for what the bulk of AI compute is utilized?",
-      "author": "Quizzelbuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1p92xq5/question_do_we_know_where_and_for_what_the_bulk/",
-      "published": 1764356179.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "If we were to assign responsibility to A user base or user set for the bulk of harm AI is doing to our water and electricity as a resource, what group of people or entities are doing the most harm? Some one told me \"ChatGPT, Gemini, Grok, and all the other slop factories are what is consuming the overwhelming majority of AI resources.\" but i thought that just normal people asking chat GPT random questions or Grok being some one's waifu was the left overs from other applications. I had thought the servers and AI algorithms were being turned towards education, government, corporate works and other people received de-prioritized access after paying businesses got their needs processed. Am i wrong? Are Chat GPT queries from randos online really the supposed genesis of 20xxs impending water scarcity?"
-    },
-    {
       "title": "Experts judge Digital Minds to be possible in principle, with a median probability estimate of 90%",
       "author": "willm8032",
       "url": "https://www.reddit.com/r/artificial/comments/1p8s6kp/experts_judge_digital_minds_to_be_possible_in/",
@@ -99,6 +88,17 @@
       "site_name": "The Partnership for Research Into Sentient Machines",
       "favicon": "https://images.squarespace-cdn.com/content/v1/67a5fecb009cf6236dc0d38c/bb387d65-f3bf-4d01-9ef7-d8097e0df000/favicon.ico?format=100w",
       "description": "Lucius Caviola is an Assistant Professor in the Social Science of AI at the University of Cambridge's Leverhulme Centre for the Future of Intelligence and a Research Associate in Psychology at Harvard University. His research explores how the potential arrival of conscious AI will reshape our social"
+    },
+    {
+      "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
+      "published": 1764326221.0,
+      "thumbnail": "https://external-preview.redd.it/pCU_L14NP5B0d5_n_QHNSysSeBYi7z_wBdVM9dGTEIA.jpeg?width=640&crop=smart&auto=webp&s=8fdf0c8d299e3e3249decddd43e5b18bc6196eb0",
+      "external_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
     },
     {
       "title": "EU Reaches Landmark Deal on World's First Comprehensive AI Act",
@@ -112,5 +112,5 @@
       "description": "European Union lawmakers have secured a historic agreement on the Artificial Intelligence Act."
     }
   ],
-  "fetched_at": "2025-11-28T21:19:02.613809+00:00"
+  "fetched_at": "2025-11-28T21:53:57.203540+00:00"
 }

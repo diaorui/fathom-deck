@@ -55,14 +55,14 @@
       "description": "William Chen and Guan Wang believe they will be the first ones to build artificial general intelligence."
     },
     {
-      "headline": "'Green light' away from AI trade: Two ETF executives see a key market shift underway",
+      "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTdud0hpenpCbDFLNVRsRXlsU0tYZVo5SW9fRU53QnJzR2FmT1JSa0NfX0stTEJsc1lCc1VIZFFJQzBJanBZenZwODk1ckIwLV9wMThXZFpMekxPY01YYk1uRy1nOEhHcEc2TUVpZV9ydFRxNXY1ZnZ3UVRPVDZuWk4zWW9YS3RSZXpTNURnX3FoOWFWR21WMGJueWx0SUF5QmFmNTJR0gGrAUFVX3lxTE9NcjdMVHdudEVHQndfX2Q0bzE2QTR6VDZ6WHpyWkt1Q19EVXdXd0xvNkZweXVudU1Ya0xhTnRNVkM0dXBkSnJsS05SV0VQUWR0MGlxSzJTckEwZlY2NGZIMWFpMlRRUFd1YVFKcFhsQVdSeGhxQ0p6a1M5M2ZHdXYwLUVNem5OZU0tMGJ2djNiXzZGZHJfT0lrVzdQX003aFFiMFVsNFlxSmxzTQ?oc=5",
-      "pub_date": 1764277201.0,
-      "article_url": "https://www.cnbc.com/2025/11/27/green-light-away-from-ai-trade-two-etf-ceos-see-a-key-market-shift.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108180547-1754063406081-IMG_8885.jpg?v=1754063887&w=1920&h=1080",
-      "description": "Markets may have entered a new cycle. Here's why."
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVibzRUdk5hYUE4WVk0eThiRWt3S2MzVGRCc0lfWkRsMU85bTBsYWJxX3RlYVc5ekhqcGJobDYtbEpJSmpvTERJU3k5VzhJSExIS3dmZ0w4dWpiRlpjZzk1RFBYR3JnNUFXZHpvYjZHYVRYM3pTaHZoNDU4TlpDbWRCMTE1ZGNPSHB5Qzh1a3NRNWw5Qkg1SEZ3WjJ4dDVIcC1ZeWNEQXZza1nSAbABQVVfeXFMUENGUGUxOV9sUEdJSWpyN2JmNU9DWk8wZEY2cFJ0N2RuRmxGVVVEcy12VlNjNGRQb1Jqa3dGNFZobV9CNmtIRF9KcHBzeFk4S1JmYUI4dFB2RFJhN0pJc0hKT2UzckJQZFlJamhoZnloczJyTnp0RkVKNmdVTzBzenFLUGtmQ2YyRmFwUHF1OE8tZUFCQTB5aWdQeVVpVWE2SjB6Z3dDaml0clJ3Rk1KeDk?oc=5",
+      "pub_date": 1764169201.0,
+      "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
+      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
     },
     {
       "headline": "After a teddy bear talked about kink, AI watchdogs are warning parents against smart toys",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T21:19:15.669164+00:00"
+  "fetched_at": "2025-11-28T21:54:10.199425+00:00"
 }

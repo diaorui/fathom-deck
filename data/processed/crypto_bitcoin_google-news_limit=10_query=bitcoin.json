@@ -15,16 +15,6 @@
       "description": null
     },
     {
-      "headline": "Economist Paul Krugman says Bitcoin\u2019s crash shows the \u2018unraveling of the Trump trade\u2019",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDNKZFppR0RvX2k4Uk8ta2t3azhpN3VqMmZWSWpkTHJKNC1fQ2RSTjc0LVJHSEdLMDJOSHdtOUI5UHFPcFFLMVJrN3ZMUFhUdWVDOHY1V2tIZXVpdHhBeFdfYjVkUk9maF9oRHJJdEhTdGtWc1JRY3cwQ3VaUnVyNWlBSHBQU3pZc2lsMm8yVHc1QWZHeDIyeXFvZnJSdzlFQVQ3ZkMtYw?oc=5",
-      "pub_date": 1764185760.0,
-      "article_url": "https://fortune.com/2025/11/26/nobel-laureate-paul-krugman-bitcoin-meltdown-trump-approval-waning-power/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246770067-e1764178051768.jpg?resize=1200,600",
-      "description": "The Trump family, with ample crypto ventures, has lost an estimated $1 billion from the monthlong cryptocurrency freefall."
-    },
-    {
       "headline": "Largest private gold holder shuts down Bitcoin mining operations",
       "source": "TheStreet",
       "source_url": "https://www.thestreet.com",
@@ -33,6 +23,26 @@
       "article_url": "https://www.thestreet.com/crypto/business/tether-shuts-down-bitcoin-mining-operations-fires-staff",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin set to rally back to $100,000, BTIG says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjZmS1ZfcTREb0pEbTM1WHRZQ0UyUldmS0h1b2d2eFIwcmZBNG9fTjJYQVBKT0RaSlJIQU5DNnFlaGJqSEE3RngzaG50b1JzcXBCdnJ3clBtZHBQbU11eHgwOTVud3dTSDJHc2Y3bUtxdnFVRFRqNWV3T3UwNzJ5VVRyc3VmLTJranc?oc=5",
+      "pub_date": 1764339461.0,
+      "article_url": "https://www.cnbc.com/2025/11/28/bitcoin-set-to-rally-back-to-100000-btig-says.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
+    },
+    {
+      "headline": "Economist Paul Krugman says Bitcoin\u2019s crash shows the \u2018unraveling of the Trump trade\u2019",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDNKZFppR0RvX2k4Uk8ta2t3azhpN3VqMmZWSWpkTHJKNC1fQ2RSTjc0LVJHSEdLMDJOSHdtOUI5UHFPcFFLMVJrN3ZMUFhUdWVDOHY1V2tIZXVpdHhBeFdfYjVkUk9maF9oRHJJdEhTdGtWc1JRY3cwQ3VaUnVyNWlBSHBQU3pZc2lsMm8yVHc1QWZHeDIyeXFvZnJSdzlFQVQ3ZkMtYw?oc=5",
+      "pub_date": 1764185760.0,
+      "article_url": "https://fortune.com/2025/11/26/nobel-laureate-paul-krugman-bitcoin-meltdown-trump-approval-waning-power/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246770067-e1764178051768.jpg?resize=1200,600",
+      "description": "The Trump family, with ample crypto ventures, has lost an estimated $1 billion from the monthlong cryptocurrency freefall."
     },
     {
       "headline": "The fatal flaw in using bitcoin as a currency",
@@ -93,18 +103,8 @@
       "article_url": "https://www.ccn.com/news/crypto/tom-lee-three-reasons-ethereum-beat-bitcoin-can-eth-rally-9000/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "JPMorgan reveals new Bitcoin target amid market pullback",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXE2ZVdQajVZN1hsTFlBMEVqYkZnT0hWY25YUlZGaE55TndGNzBod0xaWG9GQkd2SUdsUWdLanM4ZmdPQnlrX2hXS2ZfbExmektpRFYtMDUwNDBlMFUyOTM2QmE5Q3JKWlRwRFZ3d3I5N2JJZE5jY2Z2STVfVVJpMTVHWHczS2xLWEpEYll2WU5vSERhQjBuNUkwWDRjdw?oc=5",
-      "pub_date": 1764170735.0,
-      "article_url": "https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-target-amid-market-pullback",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T21:19:22.577564+00:00"
+  "fetched_at": "2025-11-28T21:54:11.848732+00:00"
 }

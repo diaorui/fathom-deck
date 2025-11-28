@@ -9,7 +9,7 @@
       "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
       "hn_url": "https://news.ycombinator.com/item?id=46062504",
       "author": "cyclecount",
-      "points": 584,
+      "points": 585,
       "num_comments": 306,
       "created_at": "2025-11-26T21:25:36Z",
       "object_id": "46062504",
@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46072002",
       "author": "_tk_",
       "points": 418,
-      "num_comments": 173,
+      "num_comments": 175,
       "created_at": "2025-11-27T18:37:41Z",
       "object_id": "46072002",
       "image": "https://replaceyourboss.ai/OGImage.jpg",
@@ -51,8 +51,8 @@
       "url": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
       "hn_url": "https://news.ycombinator.com/item?id=46069048",
       "author": "vegasbrianc",
-      "points": 390,
-      "num_comments": 286,
+      "points": 391,
+      "num_comments": 288,
       "created_at": "2025-11-27T13:28:34Z",
       "object_id": "46069048",
       "image": "https://substackcdn.com/image/fetch/$s_!H_F9!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff173524-b98d-4a2b-9f77-7a130ad395a7_1024x1024.png",
@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46068777",
       "author": "jonymo",
       "points": 210,
-      "num_comments": 289,
+      "num_comments": 290,
       "created_at": "2025-11-27T12:48:12Z",
       "object_id": "46068777",
       "image": "https://shujisado.org/wp-content/uploads/2025/11/chatgpt-image-2025e5b9b411e69c8827e697a5-21_13_41.png",
@@ -89,6 +89,20 @@
       "site_name": "The Verge"
     },
     {
+      "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
+      "url": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1",
+      "hn_url": "https://news.ycombinator.com/item?id=46077038",
+      "author": "thm",
+      "points": 117,
+      "num_comments": 126,
+      "created_at": "2025-11-28T09:21:55Z",
+      "object_id": "46077038",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "wsj.com"
+    },
+    {
       "title": "AirDrop support for Pixel 10 likely exists because of the EU ruling",
       "url": "https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/",
       "hn_url": "https://news.ycombinator.com/item?id=46062483",
@@ -103,26 +117,12 @@
       "site_name": "9to5Google"
     },
     {
-      "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
-      "url": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1",
-      "hn_url": "https://news.ycombinator.com/item?id=46077038",
-      "author": "thm",
-      "points": 93,
-      "num_comments": 104,
-      "created_at": "2025-11-28T09:21:55Z",
-      "object_id": "46077038",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "wsj.com"
-    },
-    {
       "title": "A trillion dollars (potentially) wasted on gen-AI",
       "url": "https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible",
       "hn_url": "https://news.ycombinator.com/item?id=46078407",
       "author": "flail",
-      "points": 70,
-      "num_comments": 51,
+      "points": 94,
+      "num_comments": 89,
       "created_at": "2025-11-28T13:21:17Z",
       "object_id": "46078407",
       "image": null,
@@ -136,7 +136,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46058361",
       "author": "tiahura",
       "points": 61,
-      "num_comments": 60,
+      "num_comments": 61,
       "created_at": "2025-11-26T15:32:06Z",
       "object_id": "46058361",
       "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
@@ -145,7 +145,7 @@
       "site_name": "CNBC"
     }
   ],
-  "total_hits": 410,
+  "total_hits": 393,
   "has_metadata": true,
-  "fetched_at": "2025-11-28T15:35:11.313908+00:00"
+  "fetched_at": "2025-11-28T16:33:57.612946+00:00"
 }

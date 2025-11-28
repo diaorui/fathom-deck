@@ -24,15 +24,15 @@
       "description": null
     },
     {
-      "title": "Mexico to build Latin America's most powerful 314-petaflop supercomputer",
-      "author": "sksarkpoes3",
-      "url": "https://www.reddit.com/r/artificial/comments/1p85s5y/mexico_to_build_latin_americas_most_powerful/",
-      "published": 1764259295.0,
-      "thumbnail": "https://external-preview.redd.it/Jx3Xh9MqOzxZaY5sAupk4RPwtwBZjc5d7LBF51nZeGk.jpeg?width=640&crop=smart&auto=webp&s=15d463ef41c2785466be21899eb42d4522dbc7ea",
-      "external_url": "https://interestingengineering.com/innovation/314-petaflop-mexico-powerful-supercomputer",
-      "site_name": "Interesting Engineering",
-      "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
-      "description": "Mexico announced on Wednesday plans to build Coatlicue, a 314-petaflop supercomputer that will become Latin America's most powerful."
+      "title": "AI data centers' massive demand for aluminum is crushing the US aluminum industry",
+      "author": "yahoofinance",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8y39c/ai_data_centers_massive_demand_for_aluminum_is/",
+      "published": 1764344829.0,
+      "thumbnail": "https://external-preview.redd.it/z-nht86sCah1F4RXbb5IBQqKGlNgxRCY_RK5lAuaGkY.jpeg?width=640&crop=smart&auto=webp&s=4377d6bd4fc3d7c28471a76c9f7a50c467adf281",
+      "external_url": "http://finance.yahoo.com/news/ai-data-centers-massive-demand-for-aluminum-is-crushing-the-us-aluminum-industry-110035572.html",
+      "site_name": "Yahoo Finance",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+      "description": "The boom in metal-intensive technologies like data centers and electric vehicles has made it a prime time to be in the US aluminum business. Prices are booming. Part of that is because inside every data center are cooling units, server racks, radiators, and a litany of other pieces and parts made out of aluminum. No wonder demand is high. But data centers guzzle enormous amounts of power, and electricity prices are skyrocketing. In the US alone, electricity demand is expected to grow five to 10 times faster over the next 10 years than it did in the previous decade, per Bank of America. For aluminum smelters, this is a problem."
     },
     {
       "title": "Experts judge Digital Minds to be possible in principle, with a median probability estimate of 90%",
@@ -44,6 +44,17 @@
       "site_name": "The Partnership for Research Into Sentient Machines",
       "favicon": "https://images.squarespace-cdn.com/content/v1/67a5fecb009cf6236dc0d38c/bb387d65-f3bf-4d01-9ef7-d8097e0df000/favicon.ico?format=100w",
       "description": "Lucius Caviola is an Assistant Professor in the Social Science of AI at the University of Cambridge's Leverhulme Centre for the Future of Intelligence and a Research Associate in Psychology at Harvard University. His research explores how the potential arrival of conscious AI will reshape our social"
+    },
+    {
+      "title": "Mexico to build Latin America's most powerful 314-petaflop supercomputer",
+      "author": "sksarkpoes3",
+      "url": "https://www.reddit.com/r/artificial/comments/1p85s5y/mexico_to_build_latin_americas_most_powerful/",
+      "published": 1764259295.0,
+      "thumbnail": "https://external-preview.redd.it/Jx3Xh9MqOzxZaY5sAupk4RPwtwBZjc5d7LBF51nZeGk.jpeg?width=640&crop=smart&auto=webp&s=15d463ef41c2785466be21899eb42d4522dbc7ea",
+      "external_url": "https://interestingengineering.com/innovation/314-petaflop-mexico-powerful-supercomputer",
+      "site_name": "Interesting Engineering",
+      "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
+      "description": "Mexico announced on Wednesday plans to build Coatlicue, a 314-petaflop supercomputer that will become Latin America's most powerful."
     },
     {
       "title": "Lifetime access to AI-for-evil WormGPT 4 costs just $220 | 'Ah, I see you're ready to escalate. Let's make digital destruction simple and effective.'",
@@ -66,17 +77,6 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
-    },
-    {
-      "title": "AI data centers' massive demand for aluminum is crushing the US aluminum industry",
-      "author": "yahoofinance",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8y39c/ai_data_centers_massive_demand_for_aluminum_is/",
-      "published": 1764344829.0,
-      "thumbnail": null,
-      "external_url": "http://finance.yahoo.com/news/ai-data-centers-massive-demand-for-aluminum-is-crushing-the-us-aluminum-industry-110035572.html",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "The boom in metal-intensive technologies like data centers and electric vehicles has made it a prime time to be in the US aluminum business. Prices are booming. Part of that is because inside every data center are cooling units, server racks, radiators, and a litany of other pieces and parts made out of aluminum. No wonder demand is high. But data centers guzzle enormous amounts of power, and electricity prices are skyrocketing. In the US alone, electricity demand is expected to grow five to 10 times faster over the next 10 years than it did in the previous decade, per Bank of America. For aluminum smelters, this is a problem."
     },
     {
       "title": "EU Reaches Landmark Deal on World's First Comprehensive AI Act",
@@ -112,5 +112,5 @@
       "description": "Users are waking up to discover OpenAI leaked their data this morning via a faulty third-party plugin. Here's what you need to know."
     }
   ],
-  "fetched_at": "2025-11-28T15:47:34.232330+00:00"
+  "fetched_at": "2025-11-28T16:33:57.752146+00:00"
 }

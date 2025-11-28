@@ -25,26 +25,6 @@
       "description": null
     },
     {
-      "headline": "Will AI ever make big profits? Experts weigh in as bubble fears loom",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3U1UEY0d3NrWmhXY3htOWVnOC1hWnFScWthQ2ozZ0pIdXlzbjItYVMwVVVYRy02VEVGUFRmY1JxMDdWYUYwU0JJYjFFVFZtMGJPRUFfOHFWd0wtT3M5aC00cEhyVzJiYUZMd3lsWV80Tk8zTGVvakZoSEY0d0t1TjFVNDZyckVvZHFRZVJhck41V1Ntc2NtckFmN0QxZ9IBowFBVV95cUxPb3NjellMU3F2ZkU3SjNPXzdmMFVoQktUZFViekxFb2RNZHZjdzVKdE5hdjg1WVhHLVFqcE5GdzFqS1VCNHJUXzd2SWF6WWVYajd5V0R4NjVkam1tOVFzdmZpMG5qTGMxSXV1T3pnLXpVejJubERIZlgwblVsWFlOSUVaR0pkVzJta3NnVm9EMzBEUnZrZ3o2TXRMMEllQ3NTTTNv?oc=5",
-      "pub_date": 1764356050.0,
-      "article_url": "https://abcnews.go.com/Business/ai-make-big-profits-experts-weigh-bubble-fears/story?id=127858140",
-      "image": "https://i.abcnewsfe.com/a/40e42138-e82f-4c35-a38b-2b29befe6b02/data-center-as-gmh-240508_1715180111066_hpMain_2_16x9.jpg?w=1600",
-      "description": "The U.S. economy has come to increasingly depend on the AI boom, despite risks."
-    },
-    {
-      "headline": "Slumping AI program makes encouraging prediction in Week 13 Chargers-Raiders game",
-      "source": "Sports Illustrated",
-      "source_url": "https://www.si.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeDNrUm5YUlE2LURjM2ZpOE9yb1Q3RDdranBJU3lQbmg1QVFJS2ZJNzJSdWFKVHhUR2NZdndKb3lVTHFqc1UzUzRWZnlhbDVtQzZFZHlrbXJtT282MkVDcXJhYnpJZ25tSkIwUG5rZ3dqaUxxOE12M0Yzc3YyVmR5Ui1zeHcycVQ1LXNsaHA4bGpNSExRMEdNS0Ffaw?oc=5",
-      "pub_date": 1764354669.0,
-      "article_url": "https://www.si.com/nfl/chargers/onsi/chargers-raiders-prediction-final-score-week-13-ai-program",
-      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4130,h_2323/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/charger_report/01kb5skj1crqp0vqrxdc.jpg",
-      "description": "Though it missed all three NFL  picks on Thanksgiving, a successful AI program predicts the Los Angeles Chargers will easily beat the Las Vegas Raiders."
-    },
-    {
       "headline": "AI is upending the porn industry",
       "source": "The Economist",
       "source_url": "https://www.economist.com",
@@ -53,6 +33,26 @@
       "article_url": "https://www.economist.com/international/2025/11/27/ai-is-upending-the-porn-industry",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVibzRUdk5hYUE4WVk0eThiRWt3S2MzVGRCc0lfWkRsMU85bTBsYWJxX3RlYVc5ekhqcGJobDYtbEpJSmpvTERJU3k5VzhJSExIS3dmZ0w4dWpiRlpjZzk1RFBYR3JnNUFXZHpvYjZHYVRYM3pTaHZoNDU4TlpDbWRCMTE1ZGNPSHB5Qzh1a3NRNWw5Qkg1SEZ3WjJ4dDVIcC1ZeWNEQXZza1nSAbABQVVfeXFMUENGUGUxOV9sUEdJSWpyN2JmNU9DWk8wZEY2cFJ0N2RuRmxGVVVEcy12VlNjNGRQb1Jqa3dGNFZobV9CNmtIRF9KcHBzeFk4S1JmYUI4dFB2RFJhN0pJc0hKT2UzckJQZFlJamhoZnloczJyTnp0RkVKNmdVTzBzenFLUGtmQ2YyRmFwUHF1OE8tZUFCQTB5aWdQeVVpVWE2SjB6Z3dDaml0clJ3Rk1KeDk?oc=5",
+      "pub_date": 1764169201.0,
+      "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
+      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
+    },
+    {
+      "headline": "Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain\u2014and it's outperformed models from OpenAI and Anthropic",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWRSSjV1VU9XcTg3OWlxY2dkMTRZSWFYTkRjeWJXQVlXOXVkSXBSQXRfRVhrYVRlbENibUQtejUwUUVrMDZWb0E5NTJIVG45S1E1b3NpZXBjbzAzQlhPQWlQNXZOdllhVEVkbTVCTlA2ay1WbGVoLVlaMUhTRW8ycEVDb3ZraENrRGRFTDZoVGxQOUxfRW5BbmNGWkp0UzlVMUNN?oc=5",
+      "pub_date": 1764327900.0,
+      "article_url": "https://fortune.com/2025/11/28/sapient-intelligence-william-chen-guan-wang-turned-down-elon-musk-agi/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/54672477647_bfd1d00050_o-e1764185045333.jpg?resize=1200,600",
+      "description": "William Chen and Guan Wang believe they will be the first ones to build artificial general intelligence."
     },
     {
       "headline": "The U.S. has been cutting cyber defenses as AI boosts attacks",
@@ -75,14 +75,14 @@
       "description": "Advocates are fighting against the $16.7bn global smart-toy market, decrying surveillance and a lack of regulation"
     },
     {
-      "headline": "'Green light' away from AI trade: Two ETF executives see a key market shift underway",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTdud0hpenpCbDFLNVRsRXlsU0tYZVo5SW9fRU53QnJzR2FmT1JSa0NfX0stTEJsc1lCc1VIZFFJQzBJanBZenZwODk1ckIwLV9wMThXZFpMekxPY01YYk1uRy1nOEhHcEc2TUVpZV9ydFRxNXY1ZnZ3UVRPVDZuWk4zWW9YS3RSZXpTNURnX3FoOWFWR21WMGJueWx0SUF5QmFmNTJR0gGrAUFVX3lxTE9NcjdMVHdudEVHQndfX2Q0bzE2QTR6VDZ6WHpyWkt1Q19EVXdXd0xvNkZweXVudU1Ya0xhTnRNVkM0dXBkSnJsS05SV0VQUWR0MGlxSzJTckEwZlY2NGZIMWFpMlRRUFd1YVFKcFhsQVdSeGhxQ0p6a1M5M2ZHdXYwLUVNem5OZU0tMGJ2djNiXzZGZHJfT0lrVzdQX003aFFiMFVsNFlxSmxzTQ?oc=5",
-      "pub_date": 1764277201.0,
-      "article_url": "https://www.cnbc.com/2025/11/27/green-light-away-from-ai-trade-two-etf-ceos-see-a-key-market-shift.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108180547-1754063406081-IMG_8885.jpg?v=1754063887&w=1920&h=1080",
-      "description": "Markets may have entered a new cycle. Here's why."
+      "headline": "China's DeepSeek Releases New Open Source AI Model Amid Google's Gemini 3 Roll Out",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3dJa3cxX2ZqZFg4TWZ5Z3d4QXpFT3E4Zno4MTBJVUpKRXphcWZoRC16ZkdyR244dW5jUDJaOWxWd1hJTlRvNzFRRk5VeUtXZFRoWEdkdWhKaEc3OGdxWVNLdU1HNjNRWnRBUE1CS0FQdV9FZEIwWGwwcndMNVhYVGR3SFk4M0V0ZlozbTNwM2dRaHV0RjdrdTFpYVY0enN6eUUtMWE4aXA?oc=5",
+      "pub_date": 1764337800.0,
+      "article_url": "https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Here\u2019s a glimmer of hope about AI and jobs",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T19:08:55.431749+00:00"
+  "fetched_at": "2025-11-28T19:49:39.089421+00:00"
 }

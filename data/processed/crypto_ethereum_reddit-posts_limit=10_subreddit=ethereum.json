@@ -24,6 +24,17 @@
       "description": "So crypto games have a bad rap in mainstream because of past scams. Also, a lot of them get criticized because of the poor gameplay quality, and because of the fact that they focus more on earning rather than the actual gameplay mechanics (which I agree with). However, using crypto seems beneficial because you can track all of the transactions on the blockchain online (nothing is hidden). If, for example, you do an esports type of tournament with a cash prize pool given to players, you can literally track how that pool is given to players on the blockchain. But without crypto, you have to trust the companies on how the pool is being distributed (because you don't know what their doing behind the scene). Also, the transaction fees with some crypto chains are pretty low (in the milli-cents, compared to using credit cards to buy in-game virtual currencies, like Fortnite VBucks)... But the fact that crypto games haven't taken off tells me that gamers really don't care about transparency and fees...They trust the centralized gaming companies/publishers, and are willing to pay premiums for skins and other in-game assets without being the true owners of those assets. As gamers, do you guys agree with this? Do you see any case where gamers would prefer to transition to crypto instead of traditional credit card systems?"
     },
     {
+      "title": "To truly \"Be Your Own Bank,\" you must trust your code, not your vendor.",
+      "author": "unchikuso",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p93ucz/to_truly_be_your_own_bank_you_must_trust_your/",
+      "published": 1764358314.0,
+      "thumbnail": null,
+      "external_url": "https://brainwallet.io",
+      "site_name": "Brainwallet.io",
+      "favicon": "https://brainwallet.io/favicon.ico",
+      "description": "Open source client-side cryptocurrency wallet generator for Bitcoin, Litecoin, Ethereum, and Dogecoin. Secure offline paper wallet and cold storage solution."
+    },
+    {
       "title": "Ethereal news weekly #0 | Gas limit increased to 60M, Fusaka upgrade December 3, FOCIL not in Glamsterdam upgrade",
       "author": "abcoathup",
       "url": "https://www.reddit.com/r/ethereum/comments/1p8szlr/ethereal_news_weekly_0_gas_limit_increased_to_60m/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Concentrated Liquidity (CL) Basics",
-      "author": "bigrkg",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p7vq97/concentrated_liquidity_cl_basics/",
-      "published": 1764227041.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-28T19:08:42.375878+00:00"
+  "fetched_at": "2025-11-28T19:49:28.819501+00:00"
 }

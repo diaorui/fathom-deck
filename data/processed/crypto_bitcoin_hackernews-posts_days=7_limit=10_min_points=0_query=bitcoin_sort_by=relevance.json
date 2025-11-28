@@ -5,20 +5,6 @@
   "days": 7,
   "posts": [
     {
-      "title": "The Harvard Endowment's Biggest Public Investment Is Now Bitcoin",
-      "url": "https://gizmodo.com/the-harvard-endowments-biggest-public-investment-is-now-bitcoin-2000686439",
-      "hn_url": "https://news.ycombinator.com/item?id=46008102",
-      "author": "paulpauper",
-      "points": 7,
-      "num_comments": 1,
-      "created_at": "2025-11-21T19:39:30Z",
-      "object_id": "46008102",
-      "image": "https://gizmodo.com/app/uploads/2025/11/harvard-front-gate-1200x675.jpg",
-      "description": "The endowment dramatically increased its holdings of a spot bitcoin ETF since its previous such report.\u00c2",
-      "favicon": "https://gizmodo.com/apple-touch-icon.png?v1",
-      "site_name": "Gizmodo"
-    },
-    {
       "title": "Bitcoin isn't anonymous \u2013 investigators can trace transactions on the blockchain",
       "url": "https://boingboing.net/2025/11/13/bitcoin-isnt-anonymous-investigators-can-trace-every-transaction-on-the-blockchain.html",
       "hn_url": "https://news.ycombinator.com/item?id=46060819",
@@ -131,7 +117,7 @@
       "site_name": "vidsbo.com"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2025-11-28T19:08:41.082307+00:00"
+  "fetched_at": "2025-11-28T19:49:26.193359+00:00"
 }

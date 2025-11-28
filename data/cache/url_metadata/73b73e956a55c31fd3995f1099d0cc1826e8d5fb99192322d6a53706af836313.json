@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-11-28T19:49:28.818231+00:00",
+  "data": {
+    "url": "https://brainwallet.io",
+    "title": "Brainwallet.io - Deterministic Cryptocurrency Address Generator",
+    "description": "Open source client-side cryptocurrency wallet generator for Bitcoin, Litecoin, Ethereum, and Dogecoin. Secure offline paper wallet and cold storage solution.",
+    "image": null,
+    "favicon": "https://brainwallet.io/favicon.ico",
+    "site_name": "Brainwallet.io",
+    "author": "Daniel Routman",
+    "keywords": "brainwallet, bitcoin, litecoin, ethereum, dogecoin, cryptocurrency, paper wallet, cold storage, argon2, deterministic wallet, offline wallet generator"
+  }
+}

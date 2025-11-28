@@ -46,17 +46,6 @@
       "description": "The boom in metal-intensive technologies like data centers and electric vehicles has made it a prime time to be in the US aluminum business. Prices are booming. Part of that is because inside every data center are cooling units, server racks, radiators, and a litany of other pieces and parts made out of aluminum. No wonder demand is high. But data centers guzzle enormous amounts of power, and electricity prices are skyrocketing. In the US alone, electricity demand is expected to grow five to 10 times faster over the next 10 years than it did in the previous decade, per Bank of America. For aluminum smelters, this is a problem."
     },
     {
-      "title": "Question: Do we know where and for what the bulk of AI compute is utilized?",
-      "author": "Quizzelbuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1p92xq5/question_do_we_know_where_and_for_what_the_bulk/",
-      "published": 1764356179.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "If we were to assign responsibility to A user base or user set for the bulk of harm AI is doing to our water and electricity as a resource, what group of people or entities are doing the most harm? Some one told me \"ChatGPT, Gemini, Grok, and all the other slop factories are what is consuming the overwhelming majority of AI resources.\" but i thought that just normal people asking chat GPT random questions or Grok being some one's waifu was the left overs from other applications. I had thought the servers and AI algorithms were being turned towards education, government, corporate works and other people received de-prioritized access after paying businesses got their needs processed. Am i wrong? Are Chat GPT queries from randos online really the supposed genesis of 20xxs impending water scarcity?"
-    },
-    {
       "title": "Best AI for writing analysis, identifying subtext and developing ideas?",
       "author": "doublecheeseburger",
       "url": "https://www.reddit.com/r/artificial/comments/1p96514/best_ai_for_writing_analysis_identifying_subtext/",
@@ -77,6 +66,17 @@
       "site_name": "Interesting Engineering",
       "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
       "description": "Mexico announced on Wednesday plans to build Coatlicue, a 314-petaflop supercomputer that will become Latin America's most powerful."
+    },
+    {
+      "title": "Question: Do we know where and for what the bulk of AI compute is utilized?",
+      "author": "Quizzelbuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1p92xq5/question_do_we_know_where_and_for_what_the_bulk/",
+      "published": 1764356179.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "If we were to assign responsibility to A user base or user set for the bulk of harm AI is doing to our water and electricity as a resource, what group of people or entities are doing the most harm? Some one told me \"ChatGPT, Gemini, Grok, and all the other slop factories are what is consuming the overwhelming majority of AI resources.\" but i thought that just normal people asking chat GPT random questions or Grok being some one's waifu was the left overs from other applications. I had thought the servers and AI algorithms were being turned towards education, government, corporate works and other people received de-prioritized access after paying businesses got their needs processed. Am i wrong? Are Chat GPT queries from randos online really the supposed genesis of 20xxs impending water scarcity?"
     },
     {
       "title": "Experts judge Digital Minds to be possible in principle, with a median probability estimate of 90%",
@@ -112,5 +112,5 @@
       "description": "European Union lawmakers have secured a historic agreement on the Artificial Intelligence Act."
     }
   ],
-  "fetched_at": "2025-11-28T21:53:57.203540+00:00"
+  "fetched_at": "2025-11-28T22:36:02.481016+00:00"
 }

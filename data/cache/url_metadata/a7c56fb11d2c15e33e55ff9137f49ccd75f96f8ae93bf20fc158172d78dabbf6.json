@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-11-28T22:36:04.721522+00:00",
+  "data": {
+    "url": "https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/",
+    "title": "A Tale of Two AI Failures: Debugging a Simple Bug with LLMs",
+    "description": "A subtle string formatting bug defeated two leading AI coding tools in completely different ways. Here\u2019s what their failures revealed during a recent Hackathon.",
+    "image": "https://bitmovin.com/wp-content/uploads/2025/11/Bitmovin_2025_Blog_Hackathon_Lessons-min-768x403.jpg",
+    "favicon": "https://bitmovin.com/wp-content/uploads/2023/11/bitmovin_favicon.svg",
+    "site_name": "Bitmovin",
+    "author": null,
+    "keywords": null
+  }
+}

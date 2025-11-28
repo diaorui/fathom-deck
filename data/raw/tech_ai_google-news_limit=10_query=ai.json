@@ -25,22 +25,22 @@
       "description": null
     },
     {
+      "headline": "Why investors may want to be careful with AI trades in December",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWtoX2VNS1dEYjJ2cjFEc0VMMkdtWmxtQWpuOUJzMHVvMlRXTk10bFo5ZmEtbUpqRzBxSE5mbmh6SUNxVlJTQnQ4TWtRNUFmNVRtWmtyeFNNWVo2ZHhRWHZQZG1ERkJCMjZTdnZkQjZNQXpEbXhmdTdPWUlrU2xLWk1kSQ?oc=5",
+      "pub_date": 1764367200.0,
+      "article_url": "https://finance.yahoo.com/video/why-investors-may-want-careful-220000541.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/jM5TkLihha4g.stCN_4lBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODc-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/558e3820-7886-11f0-b47e-7c7789a02a24",
+      "description": "After being pummeled earlier in the month, a number of the big-name AI stocks have recovered a good part of their losses as November comes to a close. Marketgauge.com chief strategist Michele Schneider, Yahoo Finance Senior Reporter Ines Ferr\u00e9, and Envestnet Solutions co-chief investment officer and group president Dana D\u2019Auria discuss what they're watching in the AI trade. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid."
+    },
+    {
       "headline": "AI is upending the porn industry",
       "source": "The Economist",
       "source_url": "https://www.economist.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFJQTU1XOExNVGFCc25xZ1llOGRVTTRGUGtOTGRKWjhGYkV6S1RBNG4ySkQydFBDMUJvVHJkWU42OGI1Vk14cWtuS1BUdzVIZTQwQkFFeDlIbVQ3Z0tHZDltTWhpX0ZQelc5N29QQVZUdUxPOVZ4MDhFVXVEb1hMU2VqUFB4bWVNSGNF?oc=5",
       "pub_date": 1764252394.0,
       "article_url": "https://www.economist.com/international/2025/11/27/ai-is-upending-the-porn-industry",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The U.S. has been cutting cyber defenses as AI boosts attacks",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Nc1d0bk1QV0NjOHdyaFhwS1o5dFhaSWN5a1p4amIxMjFuVUhJdF9DaUYzWjVzaDIzM2lNdm5SeGROeE4wblFySFFXSWdPNVpGWEN5NzhaaXRQaG95VURvZUlzMUhSSXNjTnMzelNFSnhVNVlqQjJDTUFZYktmVHM?oc=5",
-      "pub_date": 1764352831.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/11/28/cyberdefense-ai-cisa/",
       "image": null,
       "description": null
     },
@@ -85,6 +85,16 @@
       "description": "The U.S. economy has come to increasingly depend on the AI boom, despite risks."
     },
     {
+      "headline": "The U.S. has been cutting cyber defenses as AI boosts attacks",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Nc1d0bk1QV0NjOHdyaFhwS1o5dFhaSWN5a1p4amIxMjFuVUhJdF9DaUYzWjVzaDIzM2lNdm5SeGROeE4wblFySFFXSWdPNVpGWEN5NzhaaXRQaG95VURvZUlzMUhSSXNjTnMzelNFSnhVNVlqQjJDTUFZYktmVHM?oc=5",
+      "pub_date": 1764352831.0,
+      "article_url": "https://www.washingtonpost.com/technology/2025/11/28/cyberdefense-ai-cisa/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
       "source": "WIRED",
       "source_url": "https://www.wired.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
       "image": "https://media.wired.com/photos/6925f9abe38648aa0f225be3/191:100/w_1280,c_limit/sec-poetry-ai-nukes-517442570-522586638.jpg",
       "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
-    },
-    {
-      "headline": "China's DeepSeek Releases New Open Source AI Model Amid Google's Gemini 3 Roll Out",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3dJa3cxX2ZqZFg4TWZ5Z3d4QXpFT3E4Zno4MTBJVUpKRXphcWZoRC16ZkdyR244dW5jUDJaOWxWd1hJTlRvNzFRRk5VeUtXZFRoWEdkdWhKaEc3OGdxWVNLdU1HNjNRWnRBUE1CS0FQdV9FZEIwWGwwcndMNVhYVGR3SFk4M0V0ZlozbTNwM2dRaHV0RjdrdTFpYVY0enN6eUUtMWE4aXA?oc=5",
-      "pub_date": 1764337800.0,
-      "article_url": "https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T21:54:10.199425+00:00"
+  "fetched_at": "2025-11-28T22:36:17.503874+00:00"
 }

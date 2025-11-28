@@ -15,14 +15,24 @@
       "description": "Data from the Census Bureau and Ramp shows that AI adoption rates are starting to flatten out across all firm..."
     },
     {
-      "headline": "A.I. and the Trillion-Dollar Question",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVdGWUxSRko5TUpCeFRFcVhGcEVVYl9jVGlSaWJ4R0lyWENPMWQ1eFhHNkVwR2lRY0lvd3dGYlNDZ01FN0pDQU5QYWpjUmdvb2JUcm5YZE5XNjZXcE5NSVFsaXhNMkp5ejR4MDVCUGUtUFRxck5ldTE2Q0VJVURPS1A4TFBfSm12VllZeDQzNnJ0cXdrUzZV?oc=5",
-      "pub_date": 1764307575.0,
-      "article_url": "https://www.nytimes.com/2025/11/28/world/ai-valuations-markets-technology-hongkong-fire.html",
-      "image": null,
-      "description": null
+      "headline": "Will AI ever make big profits? Experts weigh in as bubble fears loom",
+      "source": "ABC News",
+      "source_url": "https://abcnews.go.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3U1UEY0d3NrWmhXY3htOWVnOC1hWnFScWthQ2ozZ0pIdXlzbjItYVMwVVVYRy02VEVGUFRmY1JxMDdWYUYwU0JJYjFFVFZtMGJPRUFfOHFWd0wtT3M5aC00cEhyVzJiYUZMd3lsWV80Tk8zTGVvakZoSEY0d0t1TjFVNDZyckVvZHFRZVJhck41V1Ntc2NtckFmN0QxZ9IBowFBVV95cUxPb3NjellMU3F2ZkU3SjNPXzdmMFVoQktUZFViekxFb2RNZHZjdzVKdE5hdjg1WVhHLVFqcE5GdzFqS1VCNHJUXzd2SWF6WWVYajd5V0R4NjVkam1tOVFzdmZpMG5qTGMxSXV1T3pnLXpVejJubERIZlgwblVsWFlOSUVaR0pkVzJta3NnVm9EMzBEUnZrZ3o2TXRMMEllQ3NTTTNv?oc=5",
+      "pub_date": 1764356050.0,
+      "article_url": "https://abcnews.go.com/Business/ai-make-big-profits-experts-weigh-bubble-fears/story?id=127858140",
+      "image": "https://i.abcnewsfe.com/a/40e42138-e82f-4c35-a38b-2b29befe6b02/data-center-as-gmh-240508_1715180111066_hpMain_2_16x9.jpg?w=1600",
+      "description": "The U.S. economy has come to increasingly depend on the AI boom, despite risks."
+    },
+    {
+      "headline": "We need therapist-in-the-loop oversight and clear diagnostic boundaries now.",
+      "source": "Psychology Today",
+      "source_url": "https://www.psychologytoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQklsRFNVal8zNWk1WFBweG1xS3VDbkxobkJJbkotUGNrWmlFNDd0M2RBX0pRdUotWHpGQTg5NXBfME16VVoydUxiYkFDSkVieG0tTWRwYXMzMi0zbmh6UDdWdVdpTVhNa0VyTlNnR09ucFh1alJiaHZ2cnhkRENEMG5rcDc2Tm1fSnAyQjlTaXJLN2ZQMGRiX2N1VjAta1Uwal9MMUFlWlVaejZuSTU1YmpNRk1scUZf0gG-AUFVX3lxTE05YTJIR3pieUJ1QUdfNi1UTkdJWi1Pd1pXZjhqeXRJRkVqdmFmODBLVGhGYnp1dGdGWlhJZUh4bUtENlRqb09reDd0YTdoNVN6UjVDSjR5SHhEZl9XTU80M0hGc21nRUpzSnRySWhlblR3U0xVYzJ0U1Zpc0ZuTW04ZzZTRElxTmNyaE45emRzdTZKaUNKdEdINUo3bTlXRFVmLWFhMTVjSGd3cWEwa3dMZW9EQkEyZ0hYTEVmWkE?oc=5",
+      "pub_date": 1764360660.0,
+      "article_url": "https://www.psychologytoday.com/us/blog/the-body-knows-the-way-home/202511/ai-therapy-skipped-the-most-important-step",
+      "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-11/Psychology%20Today.png.jpg?itok=u2YpFyS5",
+      "description": "Tessa, the NEDA chatbot, gave problematic eating disorder advice to someone in recovery. AI therapy needs safety measures."
     },
     {
       "headline": "AI is upending the porn industry",
@@ -35,26 +45,6 @@
       "description": null
     },
     {
-      "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVibzRUdk5hYUE4WVk0eThiRWt3S2MzVGRCc0lfWkRsMU85bTBsYWJxX3RlYVc5ekhqcGJobDYtbEpJSmpvTERJU3k5VzhJSExIS3dmZ0w4dWpiRlpjZzk1RFBYR3JnNUFXZHpvYjZHYVRYM3pTaHZoNDU4TlpDbWRCMTE1ZGNPSHB5Qzh1a3NRNWw5Qkg1SEZ3WjJ4dDVIcC1ZeWNEQXZza1nSAbABQVVfeXFMUENGUGUxOV9sUEdJSWpyN2JmNU9DWk8wZEY2cFJ0N2RuRmxGVVVEcy12VlNjNGRQb1Jqa3dGNFZobV9CNmtIRF9KcHBzeFk4S1JmYUI4dFB2RFJhN0pJc0hKT2UzckJQZFlJamhoZnloczJyTnp0RkVKNmdVTzBzenFLUGtmQ2YyRmFwUHF1OE8tZUFCQTB5aWdQeVVpVWE2SjB6Z3dDaml0clJ3Rk1KeDk?oc=5",
-      "pub_date": 1764169201.0,
-      "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
-      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
-    },
-    {
-      "headline": "Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain\u2014and it's outperformed models from OpenAI and Anthropic",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWRSSjV1VU9XcTg3OWlxY2dkMTRZSWFYTkRjeWJXQVlXOXVkSXBSQXRfRVhrYVRlbENibUQtejUwUUVrMDZWb0E5NTJIVG45S1E1b3NpZXBjbzAzQlhPQWlQNXZOdllhVEVkbTVCTlA2ay1WbGVoLVlaMUhTRW8ycEVDb3ZraENrRGRFTDZoVGxQOUxfRW5BbmNGWkp0UzlVMUNN?oc=5",
-      "pub_date": 1764327900.0,
-      "article_url": "https://fortune.com/2025/11/28/sapient-intelligence-william-chen-guan-wang-turned-down-elon-musk-agi/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/54672477647_bfd1d00050_o-e1764185045333.jpg?resize=1200,600",
-      "description": "William Chen and Guan Wang believe they will be the first ones to build artificial general intelligence."
-    },
-    {
       "headline": "The U.S. has been cutting cyber defenses as AI boosts attacks",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
@@ -63,6 +53,26 @@
       "article_url": "https://www.washingtonpost.com/technology/2025/11/28/cyberdefense-ai-cisa/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "A.I. and the Trillion-Dollar Question",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVdGWUxSRko5TUpCeFRFcVhGcEVVYl9jVGlSaWJ4R0lyWENPMWQ1eFhHNkVwR2lRY0lvd3dGYlNDZ01FN0pDQU5QYWpjUmdvb2JUcm5YZE5XNjZXcE5NSVFsaXhNMkp5ejR4MDVCUGUtUFRxck5ldTE2Q0VJVURPS1A4TFBfSm12VllZeDQzNnJ0cXdrUzZV?oc=5",
+      "pub_date": 1764307575.0,
+      "article_url": "https://www.nytimes.com/2025/11/28/world/ai-valuations-markets-technology-hongkong-fire.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVibzRUdk5hYUE4WVk0eThiRWt3S2MzVGRCc0lfWkRsMU85bTBsYWJxX3RlYVc5ekhqcGJobDYtbEpJSmpvTERJU3k5VzhJSExIS3dmZ0w4dWpiRlpjZzk1RFBYR3JnNUFXZHpvYjZHYVRYM3pTaHZoNDU4TlpDbWRCMTE1ZGNPSHB5Qzh1a3NRNWw5Qkg1SEZ3WjJ4dDVIcC1ZeWNEQXZza1nSAbABQVVfeXFMUENGUGUxOV9sUEdJSWpyN2JmNU9DWk8wZEY2cFJ0N2RuRmxGVVVEcy12VlNjNGRQb1Jqa3dGNFZobV9CNmtIRF9KcHBzeFk4S1JmYUI4dFB2RFJhN0pJc0hKT2UzckJQZFlJamhoZnloczJyTnp0RkVKNmdVTzBzenFLUGtmQ2YyRmFwUHF1OE8tZUFCQTB5aWdQeVVpVWE2SjB6Z3dDaml0clJ3Rk1KeDk?oc=5",
+      "pub_date": 1764169201.0,
+      "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
+      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
     },
     {
       "headline": "After a teddy bear talked about kink, AI watchdogs are warning parents against smart toys",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "Here\u2019s a glimmer of hope about AI and jobs",
-      "source": "vox.com",
-      "source_url": "https://www.vox.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRmdQZlltSDVMVzZCWGU3cFJfemxPSklyV0pvZVN3ZDlnLXl6YzR5bExNUkk5TndIWVpUclpsamF6bHJMSlIxM0RCamVxaU9yNE1tY0d0bHZMVXFIenFBdXR5NkdGQUc2RVVMWA?oc=5",
-      "pub_date": 1764330300.0,
-      "article_url": "https://www.vox.com/technology/470688/ai-jobs-chatgpt-bubble",
-      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2188013015-copy.jpg?quality=90&strip=all&crop=0%2C5.4290400603788%2C100%2C89.141919879242&w=1200",
-      "description": "What history can teach us about the AI job apocalypse."
-    },
-    {
-      "headline": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONlJpRmNBbjVJRDZnM3R6bXVuc0hoMkt2ZXIyTVpHVVB0X1NscjF1cWFtSktEeWpyRVJoRmV5N3pKYW53TmlWWVlSQ3l0aVVJMERQQmFTN2RTbDI1TW1MS2RsOEtJUklVamxYV2NFQlFsZ3hxck9fVzI4T0pHSWxDVkZkamhqTnhvRE10VWxxMA?oc=5",
-      "pub_date": 1764324000.0,
-      "article_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
-      "image": "https://media.wired.com/photos/6925f9abe38648aa0f225be3/191:100/w_1280,c_limit/sec-poetry-ai-nukes-517442570-522586638.jpg",
-      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
+      "headline": "Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain\u2014and it's outperformed models from OpenAI and Anthropic",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWRSSjV1VU9XcTg3OWlxY2dkMTRZSWFYTkRjeWJXQVlXOXVkSXBSQXRfRVhrYVRlbENibUQtejUwUUVrMDZWb0E5NTJIVG45S1E1b3NpZXBjbzAzQlhPQWlQNXZOdllhVEVkbTVCTlA2ay1WbGVoLVlaMUhTRW8ycEVDb3ZraENrRGRFTDZoVGxQOUxfRW5BbmNGWkp0UzlVMUNN?oc=5",
+      "pub_date": 1764327900.0,
+      "article_url": "https://fortune.com/2025/11/28/sapient-intelligence-william-chen-guan-wang-turned-down-elon-musk-agi/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/54672477647_bfd1d00050_o-e1764185045333.jpg?resize=1200,600",
+      "description": "William Chen and Guan Wang believe they will be the first ones to build artificial general intelligence."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T19:49:39.089421+00:00"
+  "fetched_at": "2025-11-28T20:31:06.873955+00:00"
 }

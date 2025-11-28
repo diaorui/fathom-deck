@@ -46,17 +46,6 @@
       "description": ": 'Ah, I see you're ready to escalate. Let's make digital destruction simple and effective.'"
     },
     {
-      "title": "Experts judge Digital Minds to be possible in principle, with a median probability estimate of 90%",
-      "author": "willm8032",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8s6kp/experts_judge_digital_minds_to_be_possible_in/",
-      "published": 1764327860.0,
-      "thumbnail": "https://external-preview.redd.it/RBYDS4CQFa6CpIM5NfVVbFjWyFmd6dhB6unu9xV-Dfc.png?width=640&crop=smart&auto=webp&s=19af711c95062eda3e36f32680e3b1eb55dd367e",
-      "external_url": "https://www.prism-global.com/podcast/lucius-caviola-a-future-with-digital-minds",
-      "site_name": "The Partnership for Research Into Sentient Machines",
-      "favicon": "https://images.squarespace-cdn.com/content/v1/67a5fecb009cf6236dc0d38c/bb387d65-f3bf-4d01-9ef7-d8097e0df000/favicon.ico?format=100w",
-      "description": "Lucius Caviola is an Assistant Professor in the Social Science of AI at the University of Cambridge's Leverhulme Centre for the Future of Intelligence and a Research Associate in Psychology at Harvard University. His research explores how the potential arrival of conscious AI will reshape our social"
-    },
-    {
       "title": "Mexico to build Latin America's most powerful 314-petaflop supercomputer",
       "author": "sksarkpoes3",
       "url": "https://www.reddit.com/r/artificial/comments/1p85s5y/mexico_to_build_latin_americas_most_powerful/",
@@ -66,6 +55,17 @@
       "site_name": "Interesting Engineering",
       "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
       "description": "Mexico announced on Wednesday plans to build Coatlicue, a 314-petaflop supercomputer that will become Latin America's most powerful."
+    },
+    {
+      "title": "Experts judge Digital Minds to be possible in principle, with a median probability estimate of 90%",
+      "author": "willm8032",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8s6kp/experts_judge_digital_minds_to_be_possible_in/",
+      "published": 1764327860.0,
+      "thumbnail": "https://external-preview.redd.it/RBYDS4CQFa6CpIM5NfVVbFjWyFmd6dhB6unu9xV-Dfc.png?width=640&crop=smart&auto=webp&s=19af711c95062eda3e36f32680e3b1eb55dd367e",
+      "external_url": "https://www.prism-global.com/podcast/lucius-caviola-a-future-with-digital-minds",
+      "site_name": "The Partnership for Research Into Sentient Machines",
+      "favicon": "https://images.squarespace-cdn.com/content/v1/67a5fecb009cf6236dc0d38c/bb387d65-f3bf-4d01-9ef7-d8097e0df000/favicon.ico?format=100w",
+      "description": "Lucius Caviola is an Assistant Professor in the Social Science of AI at the University of Cambridge's Leverhulme Centre for the Future of Intelligence and a Research Associate in Psychology at Harvard University. His research explores how the potential arrival of conscious AI will reshape our social"
     },
     {
       "title": "Question: Do we know where and for what the bulk of AI compute is utilized?",
@@ -79,17 +79,6 @@
       "description": "If we were to assign responsibility to A user base or user set for the bulk of harm AI is doing to our water and electricity as a resource, what group of people or entities are doing the most harm? Some one told me \"ChatGPT, Gemini, Grok, and all the other slop factories are what is consuming the overwhelming majority of AI resources.\" but i thought that just normal people asking chat GPT random questions or Grok being some one's waifu was the left overs from other applications. I had thought the servers and AI algorithms were being turned towards education, government, corporate works and other people received de-prioritized access after paying businesses got their needs processed. Am i wrong? Are Chat GPT queries from randos online really the supposed genesis of 20xxs impending water scarcity?"
     },
     {
-      "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
-      "published": 1764326221.0,
-      "thumbnail": "https://external-preview.redd.it/pCU_L14NP5B0d5_n_QHNSysSeBYi7z_wBdVM9dGTEIA.jpeg?width=640&crop=smart&auto=webp&s=8fdf0c8d299e3e3249decddd43e5b18bc6196eb0",
-      "external_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
-    },
-    {
       "title": "My concern on how AI will shape the future of the US.",
       "author": "Embuum",
       "url": "https://www.reddit.com/r/artificial/comments/1p92mp5/my_concern_on_how_ai_will_shape_the_future_of_the/",
@@ -99,6 +88,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I\u2019m increasingly worried that the United States is entering a structural crisis driven by rapid AI advancement. As AI systems replace both physical and cognitive labor, companies are economically incentivized to automate at the fastest possible pace. In our current capitalist framework, firms that retain human workers for moral reasons will be outcompeted by those that prioritize efficiency, accelerating widespread job displacement. At the same time, national economic growth is becoming heavily dependent on a small number of AI and semiconductor giants\u2014such as NVIDIA and the major cloud providers\u2014concentrating wealth and influence in ways that weaken broader economic participation. This creates a feedback loop where economic power translates into political influence, shaping regulation and public policy around the interests of the AI sector rather than the public. If this trajectory continues unchecked, the U.S. risks rising unemployment, extreme wealth inequality, political capture by AI-driven corporate interests, and a society where economic prosperity is controlled by a small technological elite while the majority of citizens are increasingly marginalized. The US, and society in general, wasn't structured with automated intelligence. I fear that the only solution is to create federal law limiting AI in the work force, but again, that may never happen because of the tech giants, and fear of lackluster competition with other countries."
+    },
+    {
+      "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
+      "published": 1764326221.0,
+      "thumbnail": "https://external-preview.redd.it/pCU_L14NP5B0d5_n_QHNSysSeBYi7z_wBdVM9dGTEIA.jpeg?width=640&crop=smart&auto=webp&s=8fdf0c8d299e3e3249decddd43e5b18bc6196eb0",
+      "external_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
     },
     {
       "title": "EU Reaches Landmark Deal on World's First Comprehensive AI Act",
@@ -112,5 +112,5 @@
       "description": "European Union lawmakers have secured a historic agreement on the Artificial Intelligence Act."
     }
   ],
-  "fetched_at": "2025-11-28T19:49:25.032638+00:00"
+  "fetched_at": "2025-11-28T20:30:52.771463+00:00"
 }

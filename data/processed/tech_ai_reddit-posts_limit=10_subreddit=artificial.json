@@ -68,6 +68,17 @@
       "description": "Mexico announced on Wednesday plans to build Coatlicue, a 314-petaflop supercomputer that will become Latin America's most powerful."
     },
     {
+      "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
+      "published": 1764326221.0,
+      "thumbnail": "https://external-preview.redd.it/pCU_L14NP5B0d5_n_QHNSysSeBYi7z_wBdVM9dGTEIA.jpeg?width=640&crop=smart&auto=webp&s=8fdf0c8d299e3e3249decddd43e5b18bc6196eb0",
+      "external_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
+    },
+    {
       "title": "Question: Do we know where and for what the bulk of AI compute is utilized?",
       "author": "Quizzelbuck",
       "url": "https://www.reddit.com/r/artificial/comments/1p92xq5/question_do_we_know_where_and_for_what_the_bulk/",
@@ -90,17 +101,6 @@
       "description": "Lucius Caviola is an Assistant Professor in the Social Science of AI at the University of Cambridge's Leverhulme Centre for the Future of Intelligence and a Research Associate in Psychology at Harvard University. His research explores how the potential arrival of conscious AI will reshape our social"
     },
     {
-      "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
-      "published": 1764326221.0,
-      "thumbnail": "https://external-preview.redd.it/pCU_L14NP5B0d5_n_QHNSysSeBYi7z_wBdVM9dGTEIA.jpeg?width=640&crop=smart&auto=webp&s=8fdf0c8d299e3e3249decddd43e5b18bc6196eb0",
-      "external_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
-    },
-    {
       "title": "EU Reaches Landmark Deal on World's First Comprehensive AI Act",
       "author": "vishesh_07_028",
       "url": "https://www.reddit.com/r/artificial/comments/1p8mssq/eu_reaches_landmark_deal_on_worlds_first/",
@@ -112,5 +112,5 @@
       "description": "European Union lawmakers have secured a historic agreement on the Artificial Intelligence Act."
     }
   ],
-  "fetched_at": "2025-11-28T22:36:02.481016+00:00"
+  "fetched_at": "2025-11-28T23:25:05.473361+00:00"
 }

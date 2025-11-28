@@ -55,16 +55,6 @@
       "description": "Video. How is AI transforming robotics? Where will robotics be in 2030? In this episode of Euronews Tech Talks, we put these and more of your questions to Kai Olav Ellefsen, associate professor at the University of Oslo."
     },
     {
-      "headline": "Ondas Expands Defense Robotics Portfolio With $80M Roboteam Acquisition",
-      "source": "The Defense Post",
-      "source_url": "https://thedefensepost.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11bU5mLXd2R2xjZWprT3dSREJ4N0ppRTJ6dEg4ZTZPM1p2Y05PZWZBaXpXUnJ4MWFRSUxZeEhLMjZqVl9RMWhkYTg2QXgydktxVXJobDNSMHNDaHJBZERzRWlwNFpsQ21vbkUwYXV6TXZZUdIBd0FVX3lxTE9YcW5CdTl2SlBsOVFLbjJyTWMxazdjajZfLXNyVkhuMkZuTThtcksxYTk5eE9iN3dZYVp5d3NfVVEtSWFnZlhBQU5aQ2pacHZoaGdLSzRUVUk0ZnlNcXpiek5XSHBJbEJhVEppV0tEWjI5bjBRWDFF?oc=5",
-      "pub_date": 1764257953.0,
-      "article_url": "https://thedefensepost.com/2025/11/27/ondas-roboteam-acquisiton/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Xiaomi hires engineer from Tesla\u2019s Optimus team to lead robotic hand development",
       "source": "South China Morning Post",
       "source_url": "https://www.scmp.com",
@@ -73,6 +63,16 @@
       "article_url": "https://www.scmp.com/tech/big-tech/article/3334353/xiaomi-seeks-helping-hand-former-tesla-engineer-robotics-development",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/27/c7c2eeae-93aa-41fe-8c68-839b08836073_d5c3b109.jpg?itok=IGr2noaV&v=1764232500",
       "description": "Zach Lu Zeyu joins Xiaomi as lead of its dexterous hand research and development operations."
+    },
+    {
+      "headline": "Ondas Expands Defense Robotics Portfolio With $80M Roboteam Acquisition",
+      "source": "The Defense Post",
+      "source_url": "https://thedefensepost.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11bU5mLXd2R2xjZWprT3dSREJ4N0ppRTJ6dEg4ZTZPM1p2Y05PZWZBaXpXUnJ4MWFRSUxZeEhLMjZqVl9RMWhkYTg2QXgydktxVXJobDNSMHNDaHJBZERzRWlwNFpsQ21vbkUwYXV6TXZZUdIBd0FVX3lxTE9YcW5CdTl2SlBsOVFLbjJyTWMxazdjajZfLXNyVkhuMkZuTThtcksxYTk5eE9iN3dZYVp5d3NfVVEtSWFnZlhBQU5aQ2pacHZoaGdLSzRUVUk0ZnlNcXpiek5XSHBJbEJhVEppV0tEWjI5bjBRWDFF?oc=5",
+      "pub_date": 1764257953.0,
+      "article_url": "https://thedefensepost.com/2025/11/27/ondas-roboteam-acquisiton/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Slipknot-gauged mechanical transmission and robotic operation",
@@ -98,13 +98,13 @@
       "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOSHpsaHN5WENvUEoxbWxUM0gwODVTUXNmeEhQa0RRQS1yVy02b2VhNHBzRzdMY1pmTUdCUXpncGhMNHltTVJDNENUMG0zOUNqVHktOEJiMUtnNnBYaVB6QmplWmIweUFkODByMHcwZlU2WDVVSTB6QmtCb1NVWHJvSVpSc1JuRklGLWxXOWpaTzNqbk1JVzRYMzhTVENxNkpmdXg5WFYzVFdMMkhmbk83allGVWNyTXNWMUJpTlFzQUZXa2Z2UUQxdS1sUmFyV010OEZjeGUtXzFFSldVd1F0Y2tkS2Iwa2EwZXRpVXBxQS1nQUxTNktUaTR0UDA1alh2TnFPajZIWl9tQ0xqWjgyV21yeG8tMVV0dlMxNmlzbFVXd08zcV9hVzRzTU9tVENaajFwNXkxVTRmVDRhUGFnZ0ZfbU9taDQ3OHpPVFQ0Mm8yc3ZJS3hqcEhLcmJyQVA5NjYySmJ5eW5rNnc3aVVwdjNrX2FBaGFMeXRZYmhpOHJEUUE1LXRHcEFRbUJOR2FSaklVRGN4V1haQWRWSWVBbFBDNTk5d1J3WjMyb29WWTM3VTNNeGd4b2JVM2czbUJHekVVMEVmZXpEV1k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPN3F1aEFuNzNKU2NEbWY2aUcyMjgyRFAwNmZ3dUJhV3pIN0d4WTdkWWVXRW9ZN0w5bXM2N2licEZVOVcwdG5ydlZTVXZvbTJ4OXNsamRhakVfdHVkYmFycExCXzJueW9zUUVNY3g2aGM4Q2FsVUc4WEVFNzZsYW8zeDlGTHdBaDdFNmtZbVZySHBaVG1pbFBMa1JZRUZaTUtEYWpXV3FXRHg3UTZzTHJpWkV0T3B3a0Njb3V2Ujh0SEVXX2FGNmlPd2lSUzI0cDRiclJKVjBlNkR1a1Rfdnl6UHNOWmIwd3kzMF9FcTlXSzdsVFpXWEp4TVVHNlM3X2thTWNLdWM4dUp4U2dVcWVwcktqTXhiV0RjaUFqUk0tMVpYMTZNZk9QWkRCTWR0dW9Veng5S3piYkc4a1NCdmVGbmNtVjMwY3JRWVZLelFZNjNqMElRSXQxbjZZdXRXWlQ5ZzNyUVpuX3F2cXNjY0ZYY1VZa3A0VGtFLVlHY1VzNGs1Xzhkekk4c0ExTVBSOG9EaDlRbnV3QW9XOHMxLWhfbWltV18wR2t6bzNiSzljTTdlZldSbFZSUGo0eFVTZUpBRDJkVkdFYmJwUXM?oc=5",
       "pub_date": 1764103860.0,
-      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqcLfBv-67tu7toZQeEYtrxOCh0eCjdcORpR0l_GnTZXpuogCl50NaSl&gaa_ts=692a275a&gaa_sig=20W3lPDp56Ki2eYkxET2Njm_5sEpd8-L7baOTN-_iFA3Y6ItTgB6V9FA7h0NKqIdrVwTj-awRY2StEPAHs2_DQ%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqfPZiWUC9B2HILunrjS-1uTHpQA8-10XTieTWXy59rf7GJnhcAvmEec&gaa_ts=692a32da&gaa_sig=EDAS_GvGV2jQHiGqgV_U5CWzv0wdIllw6s1hTnZRQ-1Eh5TpMIk3V9qEOodGCnoeLD62bw1Of1clcpOLjqf7ng%3D%3D",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T22:36:24.660397+00:00"
+  "fetched_at": "2025-11-28T23:25:29.517108+00:00"
 }

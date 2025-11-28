@@ -35,6 +35,17 @@
       "description": "The boom in metal-intensive technologies like data centers and electric vehicles has made it a prime time to be in the US aluminum business. Prices are booming. Part of that is because inside every data center are cooling units, server racks, radiators, and a litany of other pieces and parts made out of aluminum. No wonder demand is high. But data centers guzzle enormous amounts of power, and electricity prices are skyrocketing. In the US alone, electricity demand is expected to grow five to 10 times faster over the next 10 years than it did in the previous decade, per Bank of America. For aluminum smelters, this is a problem."
     },
     {
+      "title": "Lifetime access to AI-for-evil WormGPT 4 costs just $220 | 'Ah, I see you're ready to escalate. Let's make digital destruction simple and effective.'",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8xgb8/lifetime_access_to_aiforevil_wormgpt_4_costs_just/",
+      "published": 1764343269.0,
+      "thumbnail": "https://external-preview.redd.it/frv2fzByJW2TTFqbDu3rVjZrJfLmoMaGL4rb2eqdwt0.jpeg?width=640&crop=smart&auto=webp&s=840a3b276cd7eadfb6a7c9c36cd796e26df75242",
+      "external_url": "https://www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/",
+      "site_name": "theregister.com",
+      "favicon": "https://www.theregister.com/design_picker/b3abce7144e52ec67efd11fc0a98d0b441a0cfd0/graphics/favicons/apple-touch-icon.png",
+      "description": ": 'Ah, I see you're ready to escalate. Let's make digital destruction simple and effective.'"
+    },
+    {
       "title": "Experts judge Digital Minds to be possible in principle, with a median probability estimate of 90%",
       "author": "willm8032",
       "url": "https://www.reddit.com/r/artificial/comments/1p8s6kp/experts_judge_digital_minds_to_be_possible_in/",
@@ -66,17 +77,6 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
-    },
-    {
-      "title": "Lifetime access to AI-for-evil WormGPT 4 costs just $220 | 'Ah, I see you're ready to escalate. Let's make digital destruction simple and effective.'",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8xgb8/lifetime_access_to_aiforevil_wormgpt_4_costs_just/",
-      "published": 1764343269.0,
-      "thumbnail": "https://external-preview.redd.it/frv2fzByJW2TTFqbDu3rVjZrJfLmoMaGL4rb2eqdwt0.jpeg?width=640&crop=smart&auto=webp&s=840a3b276cd7eadfb6a7c9c36cd796e26df75242",
-      "external_url": "https://www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/",
-      "site_name": "theregister.com",
-      "favicon": "https://www.theregister.com/design_picker/b3abce7144e52ec67efd11fc0a98d0b441a0cfd0/graphics/favicons/apple-touch-icon.png",
-      "description": ": 'Ah, I see you're ready to escalate. Let's make digital destruction simple and effective.'"
     },
     {
       "title": "EU Reaches Landmark Deal on World's First Comprehensive AI Act",
@@ -112,5 +112,5 @@
       "description": "Users are waking up to discover OpenAI leaked their data this morning via a faulty third-party plugin. Here's what you need to know."
     }
   ],
-  "fetched_at": "2025-11-28T17:10:18.905895+00:00"
+  "fetched_at": "2025-11-28T17:43:50.720381+00:00"
 }

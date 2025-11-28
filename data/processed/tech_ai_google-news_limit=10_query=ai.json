@@ -25,6 +25,26 @@
       "description": "Data from the Census Bureau and Ramp shows that AI adoption rates are starting to flatten out across all firm..."
     },
     {
+      "headline": "Michael Burry Takes on Nvidia's AI Surge",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNempoZ1ZoT2pJMnZMWTdFMmI2bTFVVWkwcVlILUswVGRtNGhCMUhKeEZzRllKc1VWX3RVMkFqV1BxZENKSGhyOE1vVklDRVlPN3phWk1IWWtMUmRLZjZHZ3pZLU1FeTFLbmNiMVVXazhsdUFVb0dHbG1Yb2xxRG5PNFBR?oc=5",
+      "pub_date": 1764349403.0,
+      "article_url": "https://finance.yahoo.com/news/michael-burry-takes-nvidias-ai-170323250.html",
+      "image": "https://media.zenfs.com/en/us.finance.gurufocus/528af7acf1b685a79f0a0ee8c34ab69c",
+      "description": "Big Short investor ramps up pressure on $4 trillion giant"
+    },
+    {
+      "headline": "AI And Human Connection Lead Top 5 Work Trends For 2026",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnhEOTF5QXI1aG5paFR3TjdWODBnMW5zSTRwSGllYXI2Vl9vcVN2R0wxemxhcDdSaXpEMlFYVm9UUmtfdk5DOFAxVDkzNzNBNDdrblhtZURYUFpicmo4dHpPZk9KSnYwYTZ5N2J4M3Q0SzRhcTc3bm9uLXNnOWU5QXRfTUhHWk45cG0wQkc4UkpvalQ3UHZrTC13bkFaODVxSUoxRHhtM1lsN2tsbEFVSzZ5b19NZlhj?oc=5",
+      "pub_date": 1764350131.0,
+      "article_url": "https://www.forbes.com/sites/drsamanthamadhosingh/2025/11/28/ai-and-human-connection-lead-top-5-work-trends-for-2026/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69297ad518031c15759b776e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "AI leads top 5 work trends. What else should employees and businesses be expecting to see happen in the year ahead?"
+    },
+    {
       "headline": "'Green light' away from AI trade: Two ETF executives see a key market shift underway",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -33,16 +53,6 @@
       "article_url": "https://www.cnbc.com/2025/11/27/green-light-away-from-ai-trade-two-etf-ceos-see-a-key-market-shift.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108180547-1754063406081-IMG_8885.jpg?v=1754063887&w=1920&h=1080",
       "description": "Markets may have entered a new cycle. Here's why."
-    },
-    {
-      "headline": "Here\u2019s a glimmer of hope about AI and jobs",
-      "source": "vox.com",
-      "source_url": "https://www.vox.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRmdQZlltSDVMVzZCWGU3cFJfemxPSklyV0pvZVN3ZDlnLXl6YzR5bExNUkk5TndIWVpUclpsamF6bHJMSlIxM0RCamVxaU9yNE1tY0d0bHZMVXFIenFBdXR5NkdGQUc2RVVMWA?oc=5",
-      "pub_date": 1764330300.0,
-      "article_url": "https://www.vox.com/technology/470688/ai-jobs-chatgpt-bubble",
-      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2188013015-copy.jpg?quality=90&strip=all&crop=0%2C5.4290400603788%2C100%2C89.141919879242&w=1200",
-      "description": "What history can teach us about the AI job apocalypse."
     },
     {
       "headline": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate",
@@ -55,14 +65,34 @@
       "description": "Workers say the firm\u2019s \u2018warp-speed\u2019 approach fuels pressure, layoffs and rising emissions"
     },
     {
+      "headline": "The U.S. has been cutting cyber defenses as AI boosts attacks",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Nc1d0bk1QV0NjOHdyaFhwS1o5dFhaSWN5a1p4amIxMjFuVUhJdF9DaUYzWjVzaDIzM2lNdm5SeGROeE4wblFySFFXSWdPNVpGWEN5NzhaaXRQaG95VURvZUlzMUhSSXNjTnMzelNFSnhVNVlqQjJDTUFZYktmVHM?oc=5",
+      "pub_date": 1764351125.0,
+      "article_url": "https://www.washingtonpost.com/technology/2025/11/28/cyberdefense-ai-cisa/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "A.I. and the Trillion-Dollar Question",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVdGWUxSRko5TUpCeFRFcVhGcEVVYl9jVGlSaWJ4R0lyWENPMWQ1eFhHNkVwR2lRY0lvd3dGYlNDZ01FN0pDQU5QYWpjUmdvb2JUcm5YZE5XNjZXcE5NSVFsaXhNMkp5ejR4MDVCUGUtUFRxck5ldTE2Q0VJVURPS1A4TFBfSm12VllZeDQzNnJ0cXdrUzZV?oc=5",
-      "pub_date": 1764307575.0,
+      "pub_date": 1764307800.0,
       "article_url": "https://www.nytimes.com/2025/11/28/world/ai-valuations-markets-technology-hongkong-fire.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Here\u2019s a glimmer of hope about AI and jobs",
+      "source": "vox.com",
+      "source_url": "https://www.vox.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRmdQZlltSDVMVzZCWGU3cFJfemxPSklyV0pvZVN3ZDlnLXl6YzR5bExNUkk5TndIWVpUclpsamF6bHJMSlIxM0RCamVxaU9yNE1tY0d0bHZMVXFIenFBdXR5NkdGQUc2RVVMWA?oc=5",
+      "pub_date": 1764330300.0,
+      "article_url": "https://www.vox.com/technology/470688/ai-jobs-chatgpt-bubble",
+      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2188013015-copy.jpg?quality=90&strip=all&crop=0%2C5.4290400603788%2C100%2C89.141919879242&w=1200",
+      "description": "What history can teach us about the AI job apocalypse."
     },
     {
       "headline": "MAGA is divided over the promise and perils of AI",
@@ -73,38 +103,8 @@
       "article_url": "https://www.economist.com/united-states/2025/11/27/maga-is-divided-over-the-promise-and-perils-of-ai",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Why US Utility Stocks Are Falling After the AI Power Surge",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWFreWtreENWeHZMcktLX3ZFSVl6NVIxVDB4Vkl2NllmSjhRcGtqZmszVFlJdE05dFVWUUluQmxlOWFJS0lTdnozS1Bfc0JFX1U4bFB2NGR1ZVlKLTFPSEFqV2JOM3VZaldXUkxHVmxlanB3U0xpWXFwTmdsQjZKRlJqckNuOXV0RkdKeWEySlBTRF8xeDhNOGVnVGZEcEpjVkNTNDFERkdrWkE1TmJhbTBFTEZ5UDN2cDg5aDRObFo4MEVhdHNz?oc=5",
-      "pub_date": 1764329400.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-28/ai-boom-sends-utility-stocks-soaring-then-crashing-as-data-center-deals-stall",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China's DeepSeek Releases New Open Source AI Model Amid Google's Gemini 3 Roll Out",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3dJa3cxX2ZqZFg4TWZ5Z3d4QXpFT3E4Zno4MTBJVUpKRXphcWZoRC16ZkdyR244dW5jUDJaOWxWd1hJTlRvNzFRRk5VeUtXZFRoWEdkdWhKaEc3OGdxWVNLdU1HNjNRWnRBUE1CS0FQdV9FZEIwWGwwcndMNVhYVGR3SFk4M0V0ZlozbTNwM2dRaHV0RjdrdTFpYVY0enN6eUUtMWE4aXA?oc=5",
-      "pub_date": 1764337800.0,
-      "article_url": "https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "How OpenAI and Google see AI changing go-to-market strategies",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0Q2SmtSNU9tbVpuZTlDZ3dYWlJBSXhvVFBEWXRRYm1xenhHWE1zeGk5MDJwcTcwdE10b1VYNEhMVjI5MFhtZVgtWjBTcnVCQUVaWjd0TzV6eFBJd1JKZXpTdVotcTlidTNURGlqb25VQ3k4RF90dTFEbTlGbEpJX0tVMWNQTVd1M0dFc08wY1RiajZJUVlQbnJTMGw?oc=5",
-      "pub_date": 1764345600.0,
-      "article_url": "https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/gtm-disrupt-2025.jpeg?resize=1200,745",
-      "description": "AI is changing how investors and startups bring their products to market. Three experts offered their insights at TechCrunch Disrupt."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T17:10:34.839930+00:00"
+  "fetched_at": "2025-11-28T17:44:25.809424+00:00"
 }

@@ -117,20 +117,6 @@
       "site_name": "nytimes.com"
     },
     {
-      "title": "Crypto plunge wipes out nearly $400B in a week",
-      "url": "https://www.axios.com/2025/11/21/bitcoin-value-price-crypto-coin-sell-off",
-      "hn_url": "https://news.ycombinator.com/item?id=46006538",
-      "author": "doener",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2025-11-21T17:22:23Z",
-      "object_id": "46006538",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "axios.com"
-    },
-    {
       "title": "Show HN: VidSbo \u2013 AI Storyboard Generator from Videos and Ideas",
       "url": "https://vidsbo.com",
       "hn_url": "https://news.ycombinator.com/item?id=46079280",
@@ -145,7 +131,7 @@
       "site_name": "vidsbo.com"
     }
   ],
-  "total_hits": 10,
+  "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2025-11-28T17:10:20.086771+00:00"
+  "fetched_at": "2025-11-28T17:43:51.970399+00:00"
 }

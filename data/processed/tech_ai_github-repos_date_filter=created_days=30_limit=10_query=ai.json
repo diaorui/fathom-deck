@@ -1,26 +1,6 @@
 {
   "repos": [
     {
-      "full_name": "liujuntao123/smart-excalidraw-next",
-      "name": "smart-excalidraw-next",
-      "owner": "liujuntao123",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/22583601?v=4",
-      "description": "A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language",
-      "url": "https://github.com/liujuntao123/smart-excalidraw-next",
-      "preview_image": "https://opengraph.githubassets.com/7dc6e7a2aa2e5f6261deb6fd2aab56f3f00fe2d57ae1127a3e15ec0557210a06/liujuntao123/smart-excalidraw-next",
-      "stars": 2098,
-      "stars_display": "2.1k",
-      "forks": 262,
-      "forks_display": "262",
-      "language": "JavaScript",
-      "topics": [
-        "ai",
-        "chart",
-        "excalidraw"
-      ],
-      "updated_at": "2025-11-27T07:00:01Z"
-    },
-    {
       "full_name": "ZeroLu/awesome-nanobanana-pro",
       "name": "awesome-nanobanana-pro",
       "owner": "ZeroLu",
@@ -28,10 +8,10 @@
       "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
       "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
       "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
-      "stars": 1968,
+      "stars": 1988,
       "stars_display": "2.0k",
-      "forks": 155,
-      "forks_display": "155",
+      "forks": 156,
+      "forks_display": "156",
       "language": null,
       "topics": [
         "gemini",
@@ -110,22 +90,6 @@
       "updated_at": "2025-11-27T01:28:19Z"
     },
     {
-      "full_name": "xiamuceer-j/MuMuAINovel",
-      "name": "MuMuAINovel",
-      "owner": "xiamuceer-j",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/188125299?v=4",
-      "description": "\u4e00\u6b3e\u57fa\u4e8e AI \u7684\u667a\u80fd\u5c0f\u8bf4\u521b\u4f5c\u52a9\u624b\uff0c\u5e2e\u52a9\u4f60\u8f7b\u677e\u521b\u4f5c\u7cbe\u5f69\u6545\u4e8b",
-      "url": "https://github.com/xiamuceer-j/MuMuAINovel",
-      "preview_image": "https://opengraph.githubassets.com/96aa5e0ff15c368b60d113d16c8bdefef60479d55a085016e1b4c6bc907f030f/xiamuceer-j/MuMuAINovel",
-      "stars": 789,
-      "stars_display": "789",
-      "forks": 159,
-      "forks_display": "159",
-      "language": "Python",
-      "topics": [],
-      "updated_at": "2025-11-28T13:03:38Z"
-    },
-    {
       "full_name": "HugeCatLab/ChatTutor",
       "name": "ChatTutor",
       "owner": "HugeCatLab",
@@ -188,12 +152,49 @@
         "continuous-ai"
       ],
       "updated_at": "2025-11-28T13:01:16Z"
+    },
+    {
+      "full_name": "Ryandonofrio3/osgrep",
+      "name": "osgrep",
+      "owner": "Ryandonofrio3",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/97113725?v=4",
+      "description": "Open Source Semantic Search for your AI Agent",
+      "url": "https://github.com/Ryandonofrio3/osgrep",
+      "preview_image": "https://opengraph.githubassets.com/d6f904bedb3bcbfddcb55a5ebb459b30a448d7a9be6f868c8f862737aa9dd35f/Ryandonofrio3/osgrep",
+      "stars": 705,
+      "stars_display": "705",
+      "forks": 32,
+      "forks_display": "32",
+      "language": "TypeScript",
+      "topics": [
+        "colbert",
+        "embeddings",
+        "grep",
+        "grep-search"
+      ],
+      "updated_at": "2025-11-28T06:58:58Z"
+    },
+    {
+      "full_name": "gensyn-ai/codeassist",
+      "name": "codeassist",
+      "owner": "gensyn-ai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/64313183?v=4",
+      "description": "A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.",
+      "url": "https://github.com/gensyn-ai/codeassist",
+      "preview_image": "https://opengraph.githubassets.com/c7d66709cd39264681936d3c120e2b1605b8e26a06bdbd8ba0b810f453d82263/gensyn-ai/codeassist",
+      "stars": 679,
+      "stars_display": "679",
+      "forks": 120,
+      "forks_display": "120",
+      "language": "Python",
+      "topics": [],
+      "updated_at": "2025-11-13T14:23:42Z"
     }
   ],
   "query": "ai",
-  "search_query": "ai created:>2025-10-29",
+  "search_query": "ai created:>2025-10-30",
   "days": 30,
   "limit": 10,
-  "total_count": 219880,
-  "fetched_at": "2025-11-28T22:58:07.172139+00:00"
+  "total_count": 213141,
+  "fetched_at": "2025-11-29T00:40:31.062916+00:00"
 }

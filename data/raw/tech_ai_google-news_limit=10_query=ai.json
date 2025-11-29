@@ -25,16 +25,6 @@
       "description": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
     },
     {
-      "headline": "The use of AI-generated deepfakes in campaign ads: Lying is the problem, not AI",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3dWtUYW50QTU2SUl2T1M0RF9lWG50UXlvSXBKSmNiRWVkUXV1cl9UdnVwMkE5cTFsTmxHZmpETHZYMk9fa3VQZ2tJbkdsUmdDLV9KX2RnWGNSQlNMeWQ3dU9tbmNJcG9zZzBPa1VkVkVtSlVhaDhGNHhnMHFJZ9IBgwFBVV95cUxQVEp5UExYSGg1LWs5NU1CM193TVdrUFNlTm91azZRNDVZTXgzTDRqZkJCNGk2Sk9lay0zVndKbzFjVkMzQ3J0dkgwcUlsTWJEVC1kVVI0Vm9sVzktTE9QT0JRejI3bU9XejdaaG02VHdwbE9RVTktLS1GTkt6XzRfZUNmSQ?oc=5",
-      "pub_date": 1764439200.0,
-      "article_url": "https://thehill.com/opinion/technology/5624624-lying-ai-problem-politics/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "The hottest new AI company is\u2026Google?",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -53,6 +43,16 @@
       "article_url": "https://www.bbc.com/news/articles/c7vm5d42r8mo",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e0bf/live/c05536c0-cc52-11f0-a892-01d657345866.jpg",
       "description": "There\u2019s a new social media trend taking over - influencers are using AI to add animals to their photos."
+    },
+    {
+      "headline": "Thousands of Amazon employees send open letter to CEO Andy Jassy; say: We\u2019re the workers who develop, tra",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNUkUtaFRENVN0aVdWT1FOWU1FODlEUS0zSG1ZM0dKZ0wzcFBZazQzVlZ3UWlsQk5NVTd1SklOSExwLWp1VUxYZWxLRG5sVEN6aEN3TS1EaXpVRnBFTHlTdDRFWl9BRmtHcG42TDI2a0ZMaC1ibVNSZlBmem1VM2JuX0ROaVRSUDJKbmI2aTJ3X3VVd3gxTTVIcEZKNjJQbjVrS0JIcDJZQUMwRHZrTWZJLUdmMGUxS2QxWEh3bEhWWVNWZE5DQV96bU1fVFBFUEhhVTJVOFBvOTlsN0hPaC1WYTNnT1F0cFQ2YmFjOHFKUG0tcFNvdnhNdEl3RG9UdFZzbENVajBtUzhrd25nRC1nTVVVdm5SVTFEVlZiZGJHUzBQSE9HTUV2OEFWRTN0Qk1MR0JJ0gG4AkFVX3lxTE1feHZVeWlYTHVocktaX1FjcU1leTRJcV9oMThwbTdvY01Hc2xrQUxTWHhCeXd5NVV2RnN3cTVRNk1UdDBTODl1ajFrS2hpNlZHeUlPQlRtX3lXZnQ4U0ZzbGc2UWNVZlVqSGhuOGlzMnc0M3NWTklTdE55MjBJZTZyRHNEVWx0dGd6a190ZG00czhEdXFqZ1ZwTHFKZ2s3R191X1BqRDhiTkpxWTloUUh6eS1kNEJ0QkZpM2tHS1ctTExGY0pCRUxnWDlMbEt6SmdkYjlyLUhVbzNGU3o1Tm5UaE84Z1I2THZMNGFidzhMRXRocGlZeml2NnJaSjdmVU50SUxmNjNhT0pkZWVxNElsYXE3U1hZREJIZ3kzMVhKRVpjNVBxNHduNnF0anJtOHVjQlI2YTdSZA?oc=5",
+      "pub_date": 1764361500.0,
+      "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/thousands-of-amazon-employees-send-open-letter-to-ceo-andy-jassy-say-were-the-workers-who-develop-train-and-use-ai-so-we-have-/articleshow/125646835.cms",
+      "image": "https://static.toiimg.com/thumb/msid-125646821,width-1070,height-580,imgsize-53200,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "description": "Tech News News: Over 1,000 Amazon employees have signed an open letter warning of dire consequences from the company's rapid AI development. They argue Amazon is sacr"
     },
     {
       "headline": "Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain\u2014and it's outperformed models from OpenAI and Anthropic",
@@ -75,16 +75,6 @@
       "description": null
     },
     {
-      "headline": "As the 2025 Atlantic hurricane season ends, the future of forecasting is AI",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNODNBNzJQSkdJX0lkbDIzZW1SbXJsczRWaUNFejJwanlfNEpuNXdhVGZTUVN5ZDlhSzFXbFRRbF9VcUZ6NEw1M1ZWMUE1bmhEZkk5WDZfa0dCR2w5UUhSN0oxZDhaQVNjVjg1djhPRGpabjJzQS13U2ZUTUJPVk5Rdm9YenhKNzlIdHU5VndfaThfdWM?oc=5",
-      "pub_date": 1764414000.0,
-      "article_url": "https://www.npr.org/2025/11/29/nx-s1-5604290/atlantic-hurricane-season-forecast-ai-google",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4128x2322+0+93/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2Ff1%2F322c37e64b2f803c2015ae3f7a3e%2Fgettyimages-2243550709.jpg",
-      "description": "Meteorologists are surprised that the weather model that did the best job forecasting hurricanes this year was a new one, introduced by Google. AI may be the beginning of a new era of forecasting."
-    },
-    {
       "headline": "Jenna Ortega Says It\u2019s \u2018Very Easy to Be Terrified\u2019 of AI: \u2018It Feels Like We\u2019ve Opened Pandora\u2019s Box,\u2019 but \u2018There\u2019s Certain Things It\u2019s Just Not Able to Replicate\u2019",
       "source": "Variety",
       "source_url": "https://variety.com",
@@ -95,16 +85,26 @@
       "description": "Jenna Ortega sounded off on artificial intelligence at the Marrakech Film Festival, saying \"it's very easy to be terrified\" of it."
     },
     {
+      "headline": "Ukrainian drone pilots look to AI for battlefield edge",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWjZYcEFOOGFPbVA0NHhtSVgxT2dwT1VoVkNiNmtVQ3BUZXdPODRETDByQk9PM3hPQ3VZRVAwMEdGNlpWZEhKMU95RUFUQ1lmU3hDa2JXVHhRcVc4b1NwbkY0Tk1oMzZHeWpfeVN1ZnFsRTRlZHJKUmhUNS1MMk9aTVE4VUZGQkJBSkhmVlIxZnNaYkZTQmpfVmFIRmVBeFNMWl9FQ3BvOEZFLWZMM25R?oc=5",
+      "pub_date": 1764436721.0,
+      "article_url": "https://www.reuters.com/business/aerospace-defense/ukrainian-drone-pilots-look-ai-battlefield-edge-2025-11-29/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPY0Q1TlVOMnF4N0M1bzVxRkwzSVd0ZzJEZmZrWFJOOEhHamQ4cDJWSlNpUG9FQ0JSYTduZ1VQTEJYQU8wc1cwazkxNFRwNjIySmRObDlWY0VYRndJckR2cllhX3Y4QTJvNGt6TUFveVFUby1zUFNoRlg1a0JnQ1FKYjZSUEFEMk5HY3B1QmNiWDdoM044eUFiUlo1NVIydUhfNGIxbm5TUkZ3T1hiZnE3VFJpanQ0YktmN0NpaFMyTm0waWpjc0ZiU3ZxR3lvQm5hcXpkMWE0aEJSMlMxbG1IU00taUF2N2FTd2RoMUpUXzRFd1VlZnowVzI5SFdraVVIMDBHTzV3UDNCRmhKaDVoSUdlZkpBWmtjR0oyM2hnQllDOWtLQVdScXFDVWlIZE1rallNRXF3clJ4aXZPZkdueS12eUc0QUFidjhUQTBRLWtOMVJ1TW40VGRjMXA5TF9md1pyemRxSmtnNUxRS1JTMTM5MVRiaGpaM2lDUEIyQXhDWGVMUnI4MXlCRGg2VDlPTUczcnVrMk0xTjRGaXdRbFRNNFVKWThnNlJHMDB6YmROUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOdGxibFBtZGNXZDJaMk01TTYyYUpYYUFQLV9vWGppVTk5bEpXemNielM5TzBZd01uWWVpR3RNcjVjQ2FsRXdILUdqcHk1Tjl0Sk82VzZ5Q2E3NzNFbTBoX2dSa0hPYVFqeU5aaHBGaFhLX2pCT3RJMVp1RDVRQ1hpUFFtRDYzbGpCT29OMXJVWV9uZkptajdTQV93b0FGOFZCVGw5eTMzekVZbkVaMzRqWFZGSTRKVWZRYnpsWHNJOUhCcFA5dDVtVUpxSXA0SHRKcVBsQ05ySE1oajA1REJWWHBHRUNFTGU1d0xRVHJNQUEwNkNxQ0FyaFRqaG5EcDZUUVdHb0pJd0hNdGVjY2xrcVJ3Zk1WXzEtQ2lqd01YbEpDNnNHWGl6d3I2VE5XaHd1Q2tpZHphaXktNkk4RUxlS2ZqVkVhQ1VheDdUYm9DV1publFFc04wTjZoM0pOdG1nMXF1ckpKR2NjM1FKU0VDbVo5OVFwRVhmRzF0MjlQSjBlaWZ2d1NNWDFYbmpOd3FWTllSLWxUTEo0OWxQazItLXo3Z0VhbFJBakszR001UHM3dw?oc=5",
       "pub_date": 1764295200.0,
-      "article_url": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1?gaa_at=eafs&gaa_n=AWEtsqdwoAY9FCN0MW7BXj73_oz1bHIy4TpYrEYseZDg8oLS1OZ8YYaZpBFi&gaa_ts=692b4545&gaa_sig=JN2DV0zy6NcL9eVgRICebsNEp_VSvHM_Gs4qZquEFUVcFc87DKS-SemRjm2gGiJDrpM6qkjK4uVRPEnZe3kM3A%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1?gaa_at=eafs&gaa_n=AWEtsqfxpLgOilsMvwy0sTUi7Ayb9B8OmEu6hwWWdXZS8OTNUbk-FeTgBqRx&gaa_ts=692b4d16&gaa_sig=ZN47IJIIqRX5Sch-jpPhYF8jV8dRTaETsbKD8ZKVw3oOgQVtZgArV1CDDgmBouiyKP0nvg4xLEWA4Km1aquZWg%3D%3D",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T18:56:19.527124+00:00"
+  "fetched_at": "2025-11-29T19:29:40.491513+00:00"
 }

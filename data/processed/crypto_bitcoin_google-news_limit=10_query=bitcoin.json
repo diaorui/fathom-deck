@@ -15,12 +15,12 @@
       "description": "Bitcoin has struggled to bounce back meaningfully despite a price uptick on Wednesday."
     },
     {
-      "headline": "Bitcoin Price (BTC) News: Small Gains on Friday",
+      "headline": "Crypto Markets Today: BTC Price Rises, but Faces Make-or-Break Resistance",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjIzZVd5bFZWMmhOem5OR2tuNzE2bjZiU215Qnp4WUZyM2hoN3N4SnJzXzJZUUM3Y3EwVUZweGQ5V0hrdzFheE5NSnFnVTBNZ1FxN3lEZFpuWndiQk8yUkhZT09UNm5yU3lFNDBvQnRhTmp4R0JTdDdJb01tTngyZmM5dUhDVlJ1RTlNMjBmUjJfZFZsVkhrXzNZS2t6ZlNjZWFsZDlMZzVJdHhY?oc=5",
-      "pub_date": 1764343397.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/28/crypto-miners-surge-as-bitcoin-climbs-and-fed-rate-cut-bets-rise",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHl2TnVCUTFRazdzS3hZV1RWN3ZVdUN6WU1QU0cwOEFqMnpDMjlvbHlzMkpndjVUbTJ4emhPTzFZRlFSSUtnZWxLQjRWTnR0YnprblRmZXoweERzTWwyeHFLMGJsamNkcTI0N2RSTDVtT2hUWVdXSDVQeno4d1BTS3dmWFotNVV1dUl1QTRaTFdHdzlZWXpMeDl3bWdTcm82a3lJVXZoSS1jOE0?oc=5",
+      "pub_date": 1764329616.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/28/crypto-markets-today-bitcoin-rebounds-but-downtrend-still-looms",
       "image": null,
       "description": null
     },
@@ -65,22 +65,22 @@
       "description": "Bitcoin headwinds mount as the token hovers around $86,000."
     },
     {
-      "headline": "Bitwise Analyst on Bitcoin: 'You\u2019re Not Even Remotely Bullish Enough'",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHNfQmlHeXRvVzlpeldwZHhwdmYzRU1IZU5LWTlhUmNNc2dsYk01M1dDb21VYTJjeGpqazBMc19qUG9nbVgyN1B4S0tqcHM3elAxZmlmZ1MxcTlEaTVESmlDZUVocG9uSFgyaFBCWTB4MFZveUpRVkRrWlZWeU5xVUdmdUNDVE9kY3ctclpXR0d5WVlkQ29mLWxDUkpVY3REQmdINEFFZExuZXJBSlJidVhSSkNNYi1HWVE5THhwcWtHX0Fha1dWZ2w4NkdSN3Q3WVo1MzFLbw?oc=5",
-      "pub_date": 1764433125.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/29/bitcoin-pricing-in-most-bearish-global-growth-outlook-since-covid-and-ftx-crash-bitwise-research",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "21 Rules of Bitcoin",
       "source": "x.com",
       "source_url": "https://x.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5NHFLOXVTbnR1SGd0TkNtZVp2NDFaY0Z3V3h2dnExeHhkUVQwYy1sRDVoNXoyMTY3THJGSWVrOXgweDk5a2NNZjNfekNMY1pldm1wNDQxQWE2d1k?oc=5",
       "pub_date": 1764423803.0,
       "article_url": "https://x.com/saylor/status/1994764128901370349",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitwise Analyst on Bitcoin: 'You\u2019re Not Even Remotely Bullish Enough'",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHNfQmlHeXRvVzlpeldwZHhwdmYzRU1IZU5LWTlhUmNNc2dsYk01M1dDb21VYTJjeGpqazBMc19qUG9nbVgyN1B4S0tqcHM3elAxZmlmZ1MxcTlEaTVESmlDZUVocG9uSFgyaFBCWTB4MFZveUpRVkRrWlZWeU5xVUdmdUNDVE9kY3ctclpXR0d5WVlkQ29mLWxDUkpVY3REQmdINEFFZExuZXJBSlJidVhSSkNNYi1HWVE5THhwcWtHX0Fha1dWZ2w4NkdSN3Q3WVo1MzFLbw?oc=5",
+      "pub_date": 1764433125.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/29/bitcoin-pricing-in-most-bearish-global-growth-outlook-since-covid-and-ftx-crash-bitwise-research",
       "image": null,
       "description": null
     },
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T18:56:17.829732+00:00"
+  "fetched_at": "2025-11-29T19:29:34.552723+00:00"
 }

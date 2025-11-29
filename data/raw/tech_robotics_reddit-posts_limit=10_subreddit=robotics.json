@@ -24,6 +24,17 @@
       "description": "Science Robotics: Foldable and rollable interlaced structure for deployable robotic systems: https://www.science.org/doi/10.1126/scirobotics.adv4696"
     },
     {
+      "title": "Ball Balancing Robot",
+      "author": "JohanLink",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9n1hd/ball_balancing_robot/",
+      "published": 1764416833.0,
+      "thumbnail": "https://external-preview.redd.it/aGtrMW40bTBwNjRnMbErayzCi0ja_0kg845fe681GMgl3J5WLjfTaWRly87D.png?width=640&crop=smart&auto=webp&s=36be5efabf278b9da75633b323c247ee89954a1d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
+    },
+    {
       "title": "Family bot build?",
       "author": "Morgoroth37",
       "url": "https://www.reddit.com/r/robotics/comments/1p9l3ya/family_bot_build/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I want to make a huamnoid robot using otto diy 3d models, but i found it its really small. So i want to scale it up, what implicaitons i could have? I cant just scale it's size up and everything will work, right?"
-    },
-    {
-      "title": "How to use Pepper?",
-      "author": "K1moon",
-      "url": "https://www.reddit.com/r/robotics/comments/1p8r0bi/how_to_use_pepper/",
-      "published": 1764323381.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm a university student, and I have to write a program for pepper, I'm following the guide contained in the softbanks robotics documentation, but all the links to download the python SDK are not working, can someone direct me?"
     }
   ],
-  "fetched_at": "2025-11-29T11:21:35.025636+00:00"
+  "fetched_at": "2025-11-29T11:55:54.276189+00:00"
 }

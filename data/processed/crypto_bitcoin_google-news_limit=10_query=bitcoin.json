@@ -25,26 +25,6 @@
       "description": "Bitcoin has struggled to bounce back meaningfully despite a price uptick on Wednesday."
     },
     {
-      "headline": "Bitcoin Price (BTC) News: Small Gains on Friday",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjIzZVd5bFZWMmhOem5OR2tuNzE2bjZiU215Qnp4WUZyM2hoN3N4SnJzXzJZUUM3Y3EwVUZweGQ5V0hrdzFheE5NSnFnVTBNZ1FxN3lEZFpuWndiQk8yUkhZT09UNm5yU3lFNDBvQnRhTmp4R0JTdDdJb01tTngyZmM5dUhDVlJ1RTlNMjBmUjJfZFZsVkhrXzNZS2t6ZlNjZWFsZDlMZzVJdHhY?oc=5",
-      "pub_date": 1764343397.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/28/crypto-miners-surge-as-bitcoin-climbs-and-fed-rate-cut-bets-rise",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Climbs to End Terrible Month for Cryptos. What History Says Happens Next.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQY1hiQk1qanZVbG9pTlFTUTVYbk9Xclo4dGl2alBsNktzWWVDeXJqZllQNEwxWGNfeVktQUl6dUQ4UWVIcHpBTEo2bjZEcGx3NlZfV0ZhUnJUUE1iTklZckZ2S3NqN3EzYnpvREw0MFlMR1ZkV1BXY2pxQnczeGFPSlZScFd3T0x1Ny11bTdwM21MMENQNUJmbDU2V3B4cG80Tnc3LVJneE1ja29QUDN3V3FodlVVSFJKSG1DUHQwZ3pZYUlfUHlxUmdKakkzZkF4VzZ2MXp2cXlRZGhfaWNmNjZEM0dSUF82ZS1zbGJPWWxRNkJJZEppYnI0QnRyekVRMENLVjQ4bC1WcnZmS2h4NkVINmI2WkxHQVJ2NUNGeUZLd0wzZW1iNS0yY2N6enRmOTJORUJSQkZ1d041Y1hzZV9Qd1NxM3JraGZxc3VNOGF2T3JhcWxkdFltcUZ1SEpXOTNXNm5NYjg5NUEzNHdVMjdveW56dlZOc0F1Q2ZOMUUyNFh6cUZIRUs5WGtidw?oc=5",
-      "pub_date": 1764335760.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-8cc13d60?gaa_at=eafs&gaa_n=AWEtsqevjBfqCckp76mTKprjn4wTbobev8KF7mapw7WgPPkolChFsdReYk4g&gaa_ts=692adabf&gaa_sig=fLvwEhj7NcB_shTImmtDYlP4KnrMQpnyo_DEFY_I6gJZ1XJOwQmiIULodybDmbHMdiMVOJumQQOrbrYw_XGeTA%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -65,22 +45,22 @@
       "description": null
     },
     {
-      "headline": "Strategy's Interest Costs Are Set To Rise; MSTR Stock, Bitcoin Rally Fade",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSUlUZTlQdFV3ZUs4Ml9wYnBOVVpDZVFkSVBTLXRYY29NSDdDYmZJZnRfZGdCQTNvNEcxbEt6dHhDVzlvcWVMSjhSb1FycGZqYWRpUWlqOUtYb3JEWkIyODJsSlJUeHE1bldTN1FlWnJxQzVvM09jX2dOQUJVUnl3TmpHRW9wNks5VzhVZWdpRktzMkdqa0FfMw?oc=5",
-      "pub_date": 1764352440.0,
-      "article_url": "https://www.investors.com/news/mstr-stock-strategy-bitcoin-price-interest-costs-mnav-premium/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Largest private gold holder shuts down Bitcoin mining operations",
       "source": "TheStreet",
       "source_url": "https://www.thestreet.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmQ5N0VubzZIaDB3RW02dHg5a01abF9ZcjQtS0pGc2Q2SGhEYkZtT1lHRTNUWXg3bFVVcVVSd0NPMUJ5V1R6UlMwOFBncWZQY3JzVm5DQVFqdm1oSTg5UldTd2JxeXIxNnhRYXJTZkVXTEVuQVFjS2JiUDdzaVNLdldwdGlLWGFZVmFLMUlzZ19FU2dtME9od2p5bnRIdw?oc=5",
       "pub_date": 1764350706.0,
       "article_url": "https://www.thestreet.com/crypto/business/tether-shuts-down-bitcoin-mining-operations-fires-staff",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Strategy's Interest Costs Are Set To Rise; MSTR Stock, Bitcoin Rally Fade",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSUlUZTlQdFV3ZUs4Ml9wYnBOVVpDZVFkSVBTLXRYY29NSDdDYmZJZnRfZGdCQTNvNEcxbEt6dHhDVzlvcWVMSjhSb1FycGZqYWRpUWlqOUtYb3JEWkIyODJsSlJUeHE1bldTN1FlWnJxQzVvM09jX2dOQUJVUnl3TmpHRW9wNks5VzhVZWdpRktzMkdqa0FfMw?oc=5",
+      "pub_date": 1764352440.0,
+      "article_url": "https://www.investors.com/news/mstr-stock-strategy-bitcoin-price-interest-costs-mnav-premium/",
       "image": null,
       "description": null
     },
@@ -103,8 +83,28 @@
       "article_url": "https://fortune.com/2025/11/26/nobel-laureate-paul-krugman-bitcoin-meltdown-trump-approval-waning-power/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246770067-e1764178051768.jpg?resize=1200,600",
       "description": "The Trump family, with ample crypto ventures, has lost an estimated $1 billion from the monthlong cryptocurrency freefall."
+    },
+    {
+      "headline": "Crypto hoarding company shares under pressure as risk appetite wanes",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlo3NW9teTJCQnFiZDZNMnVYb3FiaU1rNHJjMHNuemU0UnduV0dUT0J0VlpkVE1QcnZTTGRMbVZTMTIxUWp6SW03MWlCTWotS0hpVVZGMGxxWkllMmhlc1BSMGFoZDRmRE1hWkdFbEZZaTIzNHR6ck9ZZ0x2ZktVM3haNEVqLXljanlwVU5Id3ZjWUFUYkFyX3ZxUXNUTVFHYnFXcGRqcThqY0ZsTTNJeHAtWm1XUHJYYWc?oc=5",
+      "pub_date": 1764326148.0,
+      "article_url": "https://www.reuters.com/business/finance/crypto-hoarding-company-shares-under-pressure-risk-appetite-wanes-2025-11-28/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "While Everyone Argued About Bitcoin Price, El Salvador Used It To Bulletproof Its Democracy",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM0FQOG5YQ0pqUmlTbDhnQzg2V1FnYmF5eTczVEdNN0dva21kUk1rd0QyeXZydFgtU21ZMnY5TDVNSGdNY0w3aGhYS3czRkQwNEs4SFV4c0R6SVd1MHFHOGg0ZExaOWJod00wdTg4aEpkdk5CM1JUN2RVVGhMREJIT2xFNGUzNy00ek5vWW1qTjdNdm1UWXhSOU5ncXdhdVVkVEZzc1BhNjlzYU9DMW0ydl83aE9CM0FQbnlTbm5fY2l4UzFlVzJBVE5IU0NZc2RwZVF4VGFIT0gxcjhhdDFaVg?oc=5",
+      "pub_date": 1764340900.0,
+      "article_url": "https://bitcoinmagazine.com/el-salvador-bitcoin-news/el-salvador-partners-with-simple-proof-to-timestamp-government-documents-on-bitcoin-blockchain",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/08/A_futuristic_digital_interface_glowing_wit_3.webp",
+      "description": "Official reports, diplomatic memos, and environmental files are now eternally verifiable on the Bitcoin blockchain \u2014 no trust required."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T11:21:49.714525+00:00"
+  "fetched_at": "2025-11-29T11:56:04.701514+00:00"
 }

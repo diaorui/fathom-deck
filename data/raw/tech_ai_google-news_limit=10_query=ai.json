@@ -35,6 +35,16 @@
       "description": "Meteorologists are surprised that the weather model that did the best job forecasting hurricanes this year was a new one, introduced by Google. AI may be the beginning of a new era of forecasting."
     },
     {
+      "headline": "AI Tools Are 'Deskilling' Workers, Philosophy Professor Says",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjFRVzhvWTdQU0dmbm9jUFJtNFpGV1F3QS1OQjYzSml6YW8yOGR5MHB2Wmg3dDg1T2ViZklBRW8tZlcxVnVrYWUwWmpBWW9EbElIYlpuaDhsdUlFa185MjF3SVg5VHRtdVBweE03Mjh2VGtCaGsxMm4xX29xVnJQRlc1bkdTcFNsVUJCM2FrMHpBeHBmWGow?oc=5",
+      "pub_date": 1764412980.0,
+      "article_url": "https://www.businessinsider.com/ai-tools-are-deskilling-workers-philosophy-professor-2025-11",
+      "image": "https://i.insider.com/69297c44abd5e944effbaa28?width=1200&format=jpeg",
+      "description": "A philosophy professor warns that AI reliance is weakening workers' judgment, creativity, and problem-solving."
+    },
+    {
       "headline": "The AI Bubble Debate Is Slowly Making Its Way to Washington",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -43,16 +53,6 @@
       "article_url": "https://www.businessinsider.com/ai-bubble-debate-politicians-capitol-hill-2025-11",
       "image": "https://i.insider.com/691f5f4789026fbb4d0e13c0?width=1200&format=jpeg",
       "description": "Rep. Alexandria Ocasio-Cortez is warning about an AI bubble. Lots of other lawmakers aren't sure if they see one yet."
-    },
-    {
-      "headline": "The hottest Stanford computer science class isn't banning AI tools \u2014 it's embracing them",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXBGTFAtb2k1azZDNWRkZkRacy1ObWNWczhyakxLN3dsOEdRZGpjei0wd1ZzbVlkZk9YaDQtQTA5UUhDc3V3QzF4VFBGeHBtWlVvQU95MnBlaUIwMzc2MjRpeWZHNTk2aDJ0Z2o0dWFGcDIyZXZQWERoZUE1cTl5WTJjaFdmYnJma2plUkNZZHo4U21ZTWVlX0RfUTk?oc=5",
-      "pub_date": 1764410460.0,
-      "article_url": "https://www.businessinsider.com/uneasy-time-to-be-a-computer-science-student-at-stanford-2025-11",
-      "image": "https://i.insider.com/69260d5289026fbb4d0e685b?width=1200&format=jpeg",
-      "description": "One of the hottest Stanford CS courses this semester embraces rather than bans AI coding tools like Cursor and Claude."
     },
     {
       "headline": "Thousands of Amazon employees send open letter to CEO Andy Jassy; say: We\u2019re the workers who develop, train, and use AI, so we have ...",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T11:21:46.555273+00:00"
+  "fetched_at": "2025-11-29T11:56:03.303957+00:00"
 }

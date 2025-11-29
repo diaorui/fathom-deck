@@ -24,17 +24,6 @@
       "description": null
     },
     {
-      "title": "Does anybody feel the same?",
-      "author": "PoisonGlen",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p9653p/does_anybody_feel_the_same/",
-      "published": 1764364009.0,
-      "thumbnail": "https://preview.redd.it/zkkzeuwxb24g1.png?width=320&crop=smart&auto=webp&s=c1df1f9bba308d0f7d8dd527c51cef066ac02e7e",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "... back in 2020 vs now."
-    },
-    {
       "title": "According to this pattern 2026 BTC will be extremely bullish and reach 1 million USD",
       "author": "Last-Ad-8470",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p9e57d/according_to_this_pattern_2026_btc_will_be/",
@@ -57,6 +46,17 @@
       "description": null
     },
     {
+      "title": "According to this pattern, Bitcoin will reach $10B dollars next year.",
+      "author": "CW8_Fan",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p9j7wl/according_to_this_pattern_bitcoin_will_reach_10b/",
+      "published": 1764402687.0,
+      "thumbnail": "https://preview.redd.it/m4bpcd42j54g1.jpeg?width=640&crop=smart&auto=webp&s=1b2ff999f148bae33520d7d5f5fd7592616dcfc7",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Very accurate",
       "author": "No-Performer7392",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p91zpz/very_accurate/",
@@ -66,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Does anybody feel the same?",
+      "author": "PoisonGlen",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p9653p/does_anybody_feel_the_same/",
+      "published": 1764364009.0,
+      "thumbnail": "https://preview.redd.it/zkkzeuwxb24g1.png?width=320&crop=smart&auto=webp&s=c1df1f9bba308d0f7d8dd527c51cef066ac02e7e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "... back in 2020 vs now."
     },
     {
       "title": "Me and my fam in 16 years with the 0.01 bitcoin i bought in the past week",
@@ -90,17 +101,6 @@
       "description": null
     },
     {
-      "title": "short story",
-      "author": "Mo81m",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p97sqy/short_story/",
-      "published": 1764368155.0,
-      "thumbnail": "https://preview.redd.it/ihuqco2co24g1.png?width=640&crop=smart&auto=webp&s=ade2561419cdec00adc512c84580e948261e0ddd",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Fun fact: 13 years ago today, one Bitcoin was worth $12.45",
       "author": "latheefonchain",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p9ibgc/fun_fact_13_years_ago_today_one_bitcoin_was_worth/",
@@ -112,5 +112,5 @@
       "description": "there is no second best money in this world. HODL"
     }
   ],
-  "fetched_at": "2025-11-29T08:44:18.774057+00:00"
+  "fetched_at": "2025-11-29T09:23:57.496465+00:00"
 }

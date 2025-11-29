@@ -8,10 +8,10 @@
       "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
       "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
       "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
-      "stars": 2462,
+      "stars": 2487,
       "stars_display": "2.5k",
-      "forks": 185,
-      "forks_display": "185",
+      "forks": 190,
+      "forks_display": "190",
       "language": null,
       "topics": [
         "gemini",
@@ -30,13 +30,29 @@
       "description": "Gausian - Rust-based local video editor for AI video production",
       "url": "https://github.com/gausian-AI/Gausian_native_editor",
       "preview_image": "https://opengraph.githubassets.com/00b325081b4d8d90054b919e75ae8b0f8bb82d16befdd2579a46d96946d5088c/gausian-AI/Gausian_native_editor",
-      "stars": 1231,
+      "stars": 1232,
       "stars_display": "1.2k",
       "forks": 17,
       "forks_display": "17",
       "language": "Rust",
       "topics": [],
       "updated_at": "2025-11-19T07:47:20Z"
+    },
+    {
+      "full_name": "Norsico/Video-Materials-AutoGEN-Workstation",
+      "name": "Video-Materials-AutoGEN-Workstation",
+      "owner": "Norsico",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/138738955?v=4",
+      "description": "\u4e00\u4e2a\u96c6\u5185\u5bb9\u7b56\u5212\u3001AI\u6587\u6848\u81ea\u52a8\u751f\u6210\u3001TTS \u6279\u91cf\u81ea\u52a8\u914d\u97f3\u3001(AI)\u56fe\u7247\u7d20\u6750\u5408\u6210\u3001ASR\u81ea\u52a8\u63d0\u53d6\u8bed\u8a00\u5b57\u5e55\u811a\u672c\u3001AI\u81ea\u7531\u521b\u4f5c\u4e8e\u4e00\u4f53\u7684(\u77ed\u89c6\u9891)\u751f\u6210\u5de5\u4f5c\u7ad9\u3002\u65b9\u4fbf\u7ba1\u7406\u6bcf\u671f\u7684\u89c6\u9891\u9879\u76ee\u3002",
+      "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
+      "preview_image": "https://opengraph.githubassets.com/0ca6ecdb80ca700af163d1d6071825efe12a7b8e56fcb982f95131834556cf81/Norsico/Video-Materials-AutoGEN-Workstation",
+      "stars": 970,
+      "stars_display": "970",
+      "forks": 196,
+      "forks_display": "196",
+      "language": "Python",
+      "topics": [],
+      "updated_at": "2025-11-28T07:43:12Z"
     },
     {
       "full_name": "f/git-rewrite-commits",
@@ -56,22 +72,6 @@
         "pre-commit-hook"
       ],
       "updated_at": "2025-11-29T14:20:01Z"
-    },
-    {
-      "full_name": "Norsico/Video-Materials-AutoGEN-Workstation",
-      "name": "Video-Materials-AutoGEN-Workstation",
-      "owner": "Norsico",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/138738955?v=4",
-      "description": "\u4e00\u4e2a\u96c6\u5185\u5bb9\u7b56\u5212\u3001AI\u6587\u6848\u81ea\u52a8\u751f\u6210\u3001TTS \u6279\u91cf\u81ea\u52a8\u914d\u97f3\u3001(AI)\u56fe\u7247\u7d20\u6750\u5408\u6210\u3001ASR\u81ea\u52a8\u63d0\u53d6\u8bed\u8a00\u5b57\u5e55\u811a\u672c\u3001AI\u81ea\u7531\u521b\u4f5c\u4e8e\u4e00\u4f53\u7684(\u77ed\u89c6\u9891)\u751f\u6210\u5de5\u4f5c\u7ad9\u3002\u65b9\u4fbf\u7ba1\u7406\u6bcf\u671f\u7684\u89c6\u9891\u9879\u76ee\u3002",
-      "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
-      "preview_image": "https://opengraph.githubassets.com/0ca6ecdb80ca700af163d1d6071825efe12a7b8e56fcb982f95131834556cf81/Norsico/Video-Materials-AutoGEN-Workstation",
-      "stars": 969,
-      "stars_display": "969",
-      "forks": 195,
-      "forks_display": "195",
-      "language": "Python",
-      "topics": [],
-      "updated_at": "2025-11-28T07:43:12Z"
     },
     {
       "full_name": "openpcc/openpcc",
@@ -161,8 +161,8 @@
       "description": "Open Source Semantic Search for your AI Agent",
       "url": "https://github.com/Ryandonofrio3/osgrep",
       "preview_image": "https://opengraph.githubassets.com/d6f904bedb3bcbfddcb55a5ebb459b30a448d7a9be6f868c8f862737aa9dd35f/Ryandonofrio3/osgrep",
-      "stars": 710,
-      "stars_display": "710",
+      "stars": 711,
+      "stars_display": "711",
       "forks": 33,
       "forks_display": "33",
       "language": "TypeScript",
@@ -195,6 +195,6 @@
   "search_query": "ai created:>2025-10-30",
   "days": 30,
   "limit": 10,
-  "total_count": 218363,
-  "fetched_at": "2025-11-29T17:51:11.204820+00:00"
+  "total_count": 218714,
+  "fetched_at": "2025-11-29T18:56:02.070402+00:00"
 }

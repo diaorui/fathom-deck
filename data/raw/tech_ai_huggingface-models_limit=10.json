@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 31451,
-      "likes": 1284,
+      "likes": 1285,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-28T13:15:09.000Z",
@@ -54,7 +54,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-Math-V2.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png",
       "downloads": 2642,
-      "likes": 454,
+      "likes": 455,
       "pipeline_tag": "text-generation",
       "num_parameters": "685.4B",
       "last_modified": "2025-11-27T10:35:52.000Z",
@@ -144,7 +144,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/PrimeIntellect/INTELLECT-3.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/61e020e4a343274bb132e138/H2mcdPRWtl4iKLd-OYYBc.jpeg",
       "downloads": 1561,
-      "likes": 133,
+      "likes": 134,
       "pipeline_tag": "text-generation",
       "num_parameters": "106.9B",
       "last_modified": "2025-11-27T03:51:19.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-29T18:16:01.195562+00:00"
+  "fetched_at": "2025-11-29T18:56:13.975906+00:00"
 }

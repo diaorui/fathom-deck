@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin set to rally back to $100,000, BTIG says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjZmS1ZfcTREb0pEbTM1WHRZQ0UyUldmS0h1b2d2eFIwcmZBNG9fTjJYQVBKT0RaSlJIQU5DNnFlaGJqSEE3RngzaG50b1JzcXBCdnJ3clBtZHBQbU11eHgwOTVud3dTSDJHc2Y3bUtxdnFVRFRqNWV3T3UwNzJ5VVRyc3VmLTJranc?oc=5",
-      "pub_date": 1764339461.0,
-      "article_url": "https://www.cnbc.com/2025/11/28/bitcoin-set-to-rally-back-to-100000-btig-says.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
+      "headline": "Bitcoin rises above $90,000 as cryptocurrency attempts recovery amid stock market gains",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1Q0alJEcUdySjUwZmxfX2ZQaXBEU002eVhrVVo2VU5mZFA2aGpZWTB3c2xiZm5MNWpaZERudHVwZUh6aXJzdjdBRkp1VzBTMFNDT2ZOWmtLTHRYTF9DeGdLcy1Za1JucXp6aHJIU0tOczNWYTJ0TUlTZ0k2b3JpNlY5TUN1SXdkZTJfVjZTTWhuT2RJaF9sQ3ZsY0VoNzF4eTZ4RXhhTGFDNHFnaVZtUjF5R2hjaXhNYWdobC1rbWY3UGxmOFpIdmU3Zw?oc=5",
+      "pub_date": 1764185645.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-rises-above-90000-as-cryptocurrency-attempts-recovery-amid-stock-market-gains-193405385.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/.Z5tyxKY78q5nSzRFNKQXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/5af69a20-a8e5-11eb-bf7f-5f2e9fe992ce",
+      "description": "Bitcoin has struggled to bounce back meaningfully despite a price uptick on Wednesday."
     },
     {
       "headline": "Bitcoin Price (BTC) News: Small Gains on Friday",
@@ -25,24 +25,24 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Climbs to End Terrible Month for Cryptos. What History Says Happens Next.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOMXlGVWJYR3A4VDFySXBNNThVcmlITE82QVdIeEpqWUJsV2txWHhkXzdtOExBWXpOMmhPM085cFk3UGw1WnJBMGE4Ui1VeExsb0k4Zi1OaFJaM3REMy1SNUdIZTRwTFNhM0M1U0Ytc1gwV3AtdGhubmFBQlV3bzlEWklSSlBNRG04QnNZeWU2Y3YzWXhybzRBTy1hY3ZiSnllM0ItVEFZMkt3ZVNFRnV3QmkwYzdQaG9TWWp1bmx3bUNuU0VhbWJhZDRIYlRtY0x4OG5uV3R1Ny14MWlCUUdlQkZyQXB1dnN3aldWa0VUTUlWTy1aSk9TaHNUNVEwWGdvNWdvLVVkZDYzZVBZRHlwN2VNcFlPbWZ2NVFyX3A4OU1OUGtuN2RFYjZqSGJyY2tqbnI4cVV6b0UwM0dxcWM3RmVLZzZNN1hoTWYzVzZkZ1N4S1lESmpYMzdHTElhLUhvVzEzcUFFRXZlM3l2cW9TSUl2M1dadDE2eUFHa0E1cFFWVHliMTBzeEtreVhNZw?oc=5",
-      "pub_date": 1764335760.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-8cc13d60?gaa_at=eafs&gaa_n=AWEtsqdjj9DXryPRqk2pM4mhUZIo9gpk3ESvO8BGR2amMt3D-GMyvPHqGoQd&gaa_ts=692b3b96&gaa_sig=Kp_vWItFXO_E1Hoki5ntpOoZPyT8U-XvPGLaPMDrj--2F9qF7ESr2osPvdn_oKVFueIKakGiW2ocg8-r1CBwXA%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin set to rally back to $100,000, BTIG says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjZmS1ZfcTREb0pEbTM1WHRZQ0UyUldmS0h1b2d2eFIwcmZBNG9fTjJYQVBKT0RaSlJIQU5DNnFlaGJqSEE3RngzaG50b1JzcXBCdnJ3clBtZHBQbU11eHgwOTVud3dTSDJHc2Y3bUtxdnFVRFRqNWV3T3UwNzJ5VVRyc3VmLTJranc?oc=5",
+      "pub_date": 1764339461.0,
+      "article_url": "https://www.cnbc.com/2025/11/28/bitcoin-set-to-rally-back-to-100000-btig-says.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
     },
     {
-      "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1BFSTZjVzJNQ2NwRmY5bWplVEhkSndFSml2Wm1ENjBzRWU0eFM2d25haU03Ny1ZaDFWZm96NHAyZUFwQzlQa01xWVBKUmxCSEdPRWFLY1NleGg5Y2xpNjR0QlhKWTUzYVdhUFgwWmFMMWtrd0RqVHpDS3g5MV9ZN3ozNV9mTGFfMmFfZmF6OUZJS2Jn?oc=5",
-      "pub_date": 1764367250.0,
-      "article_url": "https://finance.yahoo.com/news/michael-saylors-microstrategy-moves-billions-220050534.html",
-      "image": "https://media.zenfs.com/en/thestreet_881/d1aa5494f6ca9d52fa64ef014153b18a",
-      "description": "The world's leading Bitcoin (BTC) treasury company, MicroStrategy (Nasdaq: MSTR), now rebranded to Strategy, has been moving billions in BTC. Led by co-founder and executive chairman Michael Saylor, Strategy is a software company that began accumulating Bitcoin in 2020. Now, it is the ..."
+      "headline": "Opinion: Bitcoin is now the barometer for the buckwild U.S. economy, and it looks bad",
+      "source": "The Globe and Mail",
+      "source_url": "https://www.theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTHJTSG00aHdiY2hMWWRiT1pfQ0VaaGYwdkNHQjdEZkxiUmFNaUE2VU5Od0Z4MEpwNk54ck56RzI4ZWtEd192bF9HVnN0azZIT3RYUXBiNjYxYm5OalUtUkNYQzRPYzZrUjkzS2tCZHhEaDlENlVydk9ncVRsNjBXWXZjZldYRFV0MDBuT3Q4UzJzYm1pY1VIQktvQmtBeUZzaWxTWEFlLTN6WS1KSHNKNHF4MWFuZjdLelVJdDlPbk1zVm80LWc?oc=5",
+      "pub_date": 1764410400.0,
+      "article_url": "https://www.theglobeandmail.com/business/commentary/article-bitcoin-is-now-the-barometer-for-the-us-economy-and-it-doesnt-look/",
+      "image": "https://www.theglobeandmail.com/resizer/v2/PFVA5JTNDJFNTKJQFNVHZRDBLY.jpg?auth=18c50b3034ef23f4f9f3f64d081246543c7c3f53afbd19c8209c457ea0e27451&width=1200&height=800&quality=80&smart=true",
+      "description": "The next Fed Reserve rate-setting meeting could offer a signpost to bitcoin\u2019s performance in 2026"
     },
     {
       "headline": "BTC USD forecast 2025: Why Arthur Hayes predicts Bitcoin price will hit $250,000 by year-end & why $80,600",
@@ -53,6 +53,16 @@
       "article_url": "https://m.economictimes.com/news/international/us/btc-usd-forecast-2025-why-arthur-hayes-predicts-bitcoin-price-will-hit-250000-by-year-end-why-80600-dip-marks-the-market-bottom/articleshow/125659869.cms",
       "image": "https://img.etimg.com/thumb/msid-125660481,width-1200,height-630,imgsize-51972,overlay-economictimes/articleshow.jpg",
       "description": "Bitcoin price prediction 2025: Bitcoin expert Arthur Hayes predicts a price increase to $250,000 by year-end 2025, attributing recent price movements to technical repositioning rather than institutional sell-offs. Learn more about Hayes' insights into Bitcoin's future and market trends."
+    },
+    {
+      "headline": "Bitcoin faces 3 headwinds as the cryptocurrency sits 28% below record high",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR25KMUVPU2NjUkxVeWt0VWYzQ3NkUGNFWUowZGVySjhjRmdEX1Jwd0txTUoyanBNRmxpX0JmSzNDNDE5NGZYWkV1TEdDZ1duLTk5RlYzbXVrdXNURWhKaVBKa0lLVmRyLVkzaUU2Q1RZaTRzYVRfM2ZfWHM3WUFzZXMtRzRKUGxRLTE5aWNzWTQ3d3hQR3BuVlRtZUk4Y21oU0QtUEdSVTBRWDh4S0JOVF9xU2JsUkswbWtB?oc=5",
+      "pub_date": 1764439313.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-faces-3-headwinds-as-the-cryptocurrency-sits-28-below-record-high-213736627.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/j9TUOg8GIxjPxGeMD6MmjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/79dfbd80-c72c-11f0-bbfd-7afdd601f2f5",
+      "description": "Bitcoin headwinds mount as the token hovers around $86,000."
     },
     {
       "headline": "Bitwise Analyst on Bitcoin: 'You\u2019re Not Even Remotely Bullish Enough'",
@@ -75,22 +85,12 @@
       "description": null
     },
     {
-      "headline": "Opinion: Bitcoin is now the barometer for the buckwild U.S. economy, and it looks bad",
-      "source": "The Globe and Mail",
-      "source_url": "https://www.theglobeandmail.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTHJTSG00aHdiY2hMWWRiT1pfQ0VaaGYwdkNHQjdEZkxiUmFNaUE2VU5Od0Z4MEpwNk54ck56RzI4ZWtEd192bF9HVnN0azZIT3RYUXBiNjYxYm5OalUtUkNYQzRPYzZrUjkzS2tCZHhEaDlENlVydk9ncVRsNjBXWXZjZldYRFV0MDBuT3Q4UzJzYm1pY1VIQktvQmtBeUZzaWxTWEFlLTN6WS1KSHNKNHF4MWFuZjdLelVJdDlPbk1zVm80LWc?oc=5",
-      "pub_date": 1764410400.0,
-      "article_url": "https://www.theglobeandmail.com/business/commentary/article-bitcoin-is-now-the-barometer-for-the-us-economy-and-it-doesnt-look/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/PFVA5JTNDJFNTKJQFNVHZRDBLY.jpg?auth=18c50b3034ef23f4f9f3f64d081246543c7c3f53afbd19c8209c457ea0e27451&width=1200&height=800&quality=80&smart=true",
-      "description": "The next Fed Reserve rate-setting meeting could offer a signpost to bitcoin\u2019s performance in 2026"
-    },
-    {
-      "headline": "Veteran fund manager says Bitcoin looks like Google in 2017",
+      "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
       "source": "TheStreet",
       "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1ljU3lmM085MmVaTEpLNjFhTWwzYk1wTzRwTDRObTlMVk9VTmNkbHVpNXJfbDFsdG1xUGg3QS0zUVN3cXQxbDVPUTFYRG45dnFONEZaN2xsOFN5MndSc0dwUDJxWDF2RlU5ZXlKakllcGVXYU9uVWpZb3d2ejAxbm1leHE5ekZkZEp2SS1DRXhLMVdRdWRkLXRGdw?oc=5",
-      "pub_date": 1764341136.0,
-      "article_url": "https://www.thestreet.com/crypto/trading/veteran-fund-manager-bitcoin-looks-like-google-in-2017",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFZDWWlYdmZZN3RXU1ZTQVdOdTdEbzZOcnB3ektrZnNGZjlVMHdJQUhEeUwweHM4cHJ1RUhObG9fVmZibDgtM0JIT3QwM25tRDFMdGpvc2FMZWhGUy0yQlA3MURUUVhaZUNNOGpSSFVhbWJQQU1sV3lQZUdUVFpKR1M1M0w4NHRYMnBsZkRBSkY4blhHZFpLSjhBOEQ?oc=5",
+      "pub_date": 1764356450.0,
+      "article_url": "https://www.thestreet.com/crypto/trading/michael-saylors-microstrategy-moves-billions-in-bitcoin",
       "image": null,
       "description": null
     },
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T18:16:08.994335+00:00"
+  "fetched_at": "2025-11-29T18:56:17.829732+00:00"
 }

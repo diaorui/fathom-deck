@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "Ball Balancing Robot",
-      "author": "JohanLink",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9n1hd/ball_balancing_robot/",
-      "published": 1764416833.0,
-      "thumbnail": "https://external-preview.redd.it/aGtrMW40bTBwNjRnMbErayzCi0ja_0kg845fe681GMgl3J5WLjfTaWRly87D.png?width=640&crop=smart&auto=webp&s=36be5efabf278b9da75633b323c247ee89954a1d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
-    },
-    {
       "title": "Full-size humanoid hobot LimX's Oli walks over construction debris (standing 165 cm tall and weighing 55 kg)",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1p9lmwl/fullsize_humanoid_hobot_limxs_oli_walks_over/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "From LimX Dynamics on \ud835\udd4f: https://x.com/LimX_Dynamics/status/1994408054989987939?s=20"
+    },
+    {
+      "title": "Ball Balancing Robot",
+      "author": "JohanLink",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9n1hd/ball_balancing_robot/",
+      "published": 1764416833.0,
+      "thumbnail": "https://external-preview.redd.it/aGtrMW40bTBwNjRnMbErayzCi0ja_0kg845fe681GMgl3J5WLjfTaWRly87D.png?width=640&crop=smart&auto=webp&s=36be5efabf278b9da75633b323c247ee89954a1d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
     },
     {
       "title": "Actuator/servo",
@@ -112,5 +112,5 @@
       "description": "Hi guys. I have an upcoming project in school where I have to draw 3 letters using the KUKA arm and a marker. I created an autocad drawing of the 3 letters on a 60x30 grid. I wrote down the coordinates for every point. What I would like to know is, how can I program the arm so that it moves a certain distance between each coordinate. for example pt 1,0 and 0,1 are 10mm apart, same between 1,0 and 1,0. Thank you !!!"
     }
   ],
-  "fetched_at": "2025-11-29T21:59:19.564234+00:00"
+  "fetched_at": "2025-11-29T22:43:02.498033+00:00"
 }

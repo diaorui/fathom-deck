@@ -5,26 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Crypto Markets Today: Bitcoin (BTC) Price Rally Reignites Year-End Optimism",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnh4eDk4cHZzSmdWdjBhc294LXVsZzU2NEc4U1NBNDZEMWhKQXJhRnlSaXJib2Z6UElINTk2ZGxjRTRHVnVtd2xRc3lNUXZJMjE3MmJYSGFPSE1wV2F3VDl1R2dvaXhXTnVUeEN3Z0t4MDlnOXpmeW1wanppS3d4Z0VPOWV4cHA0bE02RXI2M0gwRHhfNHIxSzVGaGE1ZDhsY09UYjNhcjU2eHJ5T1JXTVZZU0hpNTRWQktfcEY2dk1xLWNlVmJMcA?oc=5",
-      "pub_date": 1764243219.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/27/crypto-markets-today-bitcoin-leads-broad-recovery-as-traders-eye-possible-santa-rally",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Crypto Markets Today: BTC Price Rises, but Faces Make-or-Break Resistance",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHl2TnVCUTFRazdzS3hZV1RWN3ZVdUN6WU1QU0cwOEFqMnpDMjlvbHlzMkpndjVUbTJ4emhPTzFZRlFSSUtnZWxLQjRWTnR0YnprblRmZXoweERzTWwyeHFLMGJsamNkcTI0N2RSTDVtT2hUWVdXSDVQeno4d1BTS3dmWFotNVV1dUl1QTRaTFdHdzlZWXpMeDl3bWdTcm82a3lJVXZoSS1jOE0?oc=5",
-      "pub_date": 1764329616.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/28/crypto-markets-today-bitcoin-rebounds-but-downtrend-still-looms",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin set to rally back to $100,000, BTIG says",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -33,6 +13,26 @@
       "article_url": "https://www.cnbc.com/2025/11/28/bitcoin-set-to-rally-back-to-100000-btig-says.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
       "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
+    },
+    {
+      "headline": "Bitcoin Price (BTC) News: Small Gains on Friday",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjIzZVd5bFZWMmhOem5OR2tuNzE2bjZiU215Qnp4WUZyM2hoN3N4SnJzXzJZUUM3Y3EwVUZweGQ5V0hrdzFheE5NSnFnVTBNZ1FxN3lEZFpuWndiQk8yUkhZT09UNm5yU3lFNDBvQnRhTmp4R0JTdDdJb01tTngyZmM5dUhDVlJ1RTlNMjBmUjJfZFZsVkhrXzNZS2t6ZlNjZWFsZDlMZzVJdHhY?oc=5",
+      "pub_date": 1764343397.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/28/crypto-miners-surge-as-bitcoin-climbs-and-fed-rate-cut-bets-rise",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Climbs to End Terrible Month for Cryptos. What History Says Happens Next.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNSEZuRmlFLVNSZERSbVNqRkt2c2s2Sld5MTJuQlI3VHN1dTdWdmVXeG5zWXF3azZPYjg2YzhCOWFVNnhValdQeWEyMFlONGVsZ1pkTy1FNFRjaTR0eDh6aEtqOTlaREF6UmxNSlhqcDhVWnFGcjlFZ1llQW9TZ3ZtM0N3blc1aHlwRDRHUzFOd00tekh2bTFQYVhabzVPMWJiMkdVWWpobzNYNFg5Wm1DQ0lQM3NUNXhmLTJJckd3WjVwcFlaZHhsdkZDUllLRHNXT2llYnlYQnkzUWtDTFo2bEtPOEMwSzVtSVpmME1URDNLZzdOa3N4TGdZNjAtbFAySWZNejl2N1NpVXVMcGtTY29IejhoRXMtQUl6V25BNXV4VEVPRnhsRERFYVlteEhLa1RGNW5rTDNiYWZrV05hMl9hVkl2N3BtQkg5M3Y2OGJ4WDdabmVocUNfQUd6MnByeDJQSWdLQUpFZkhrdXkxaGstdkdWUTRWU1BFcGhvMVZlajZOdUxSa18weEVIQQ?oc=5",
+      "pub_date": 1764335760.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-8cc13d60?gaa_at=eafs&gaa_n=AWEtsqeVSd27zxfgpgGqRrOco0RuTDrjuWsj8hkDorbWYx2w_dRKFdcbZ6p9&gaa_ts=692b7a76&gaa_sig=uHjlEPEy5UB6vp4krVK3vrIAWhwb7ol3lP133ki5HkSQRVAILis2lgKUdUA-LsmuVedPWpNpbCXYOd6PrEBI8w%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
@@ -55,16 +55,6 @@
       "description": "The firm's US-listed spot bitcoin ETF IBIT, launched in January 2024, reached $70 billion in assets in record time and has generated hundreds of millions in fees."
     },
     {
-      "headline": "Why Gold Shines at +55% While Bitcoin Tanks: The Great Divergence of 2025",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xNjZzaThsVHVtSUthd3dGSE1qalBYeDZ2bDhhYV93OEhFTjkzUHc2dUUwYjRsMWg4RXpNdW5lWDNPUVh3Q2pXZklxeUdaZUE3TFoxOE04eVZMUkxUblhTZlREcktZUEtWSFQ4VFd2R0lMNG1ieUo4X19n?oc=5",
-      "pub_date": 1764444523.0,
-      "article_url": "https://finance.yahoo.com/news/why-gold-shines-55-while-192843547.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/DOvmmEV28wNU59PKdDzU2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/24_7_wall_st__718/cd1809babf5aa3d4f18803b33aa9af02",
-      "description": "In 2025, precious metals and crypto took radically different paths. Gold closed the year up over 55%, its strongest performance in over a decade and the best return among all major asset classes. Bitcoin (CRYPTO: BTC), by contrast, slipped into bear market territory after a spectacular rally earlier in the year. BTC fell below $90,000 ... Why Gold Shines at +55% While Bitcoin Tanks: The Great Divergence of 2025"
-    },
-    {
       "headline": "Global financial crash warning: Why Robert Kiyosaki urges buying Bitcoin (BTC USD), Ethereum (ETH), gold &",
       "source": "The Economic Times",
       "source_url": "https://m.economictimes.com",
@@ -73,6 +63,16 @@
       "article_url": "https://m.economictimes.com/news/international/us/biggest-crash-in-history-warning-why-robert-kiyosaki-urges-buying-bitcoin-btc-usd-ethereum-eth-gold-silver-now/articleshow/125663779.cms",
       "image": "https://img.etimg.com/thumb/msid-125664211,width-1200,height-630,imgsize-87470,overlay-economictimes/articleshow.jpg",
       "description": "Biggest market crash warning: Bestselling author Robert Kiyosaki warns investors of an imminent global financial crisis and urges them to invest in Bitcoin, Ethereum, gold, and silver before the market crash intensifies. Learn why he believes these assets are crucial for wealth protection."
+    },
+    {
+      "headline": "Kalshi Traders Price Bearish Odds on $100K Bitcoin Rebound in 2025",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORkxhTEdrWXY3WV9ZOHNYR1MxVjVENDVLOWtvWVVFVlptV0xuQ0xuODBwUWpFR2U3QXo5S3p4a1Fyd2I1R1JOTWFWRWFkeGg4aEdud0NhR2RlYWtuY2ZhSUVjdW44ejZQOE01TUYxbE5nbjIwaUg5aWpUUFJHek5EZVlHOGZiQQ?oc=5",
+      "pub_date": 1764444175.0,
+      "article_url": "https://finance.yahoo.com/news/kalshi-traders-price-bearish-odds-192255695.html",
+      "image": "https://media.zenfs.com/en/coinspeaker_us_106/f79dba8c8d9b29e3266955f26454f4d9",
+      "description": "Bitcoin price rebounded 17%, moving from lows near $82,000 on November 21 to graze the $93,000 level on November 28. Bitcoin ETFs recorded a combined $221 million in net inflows between Nov. 25 and Nov. 28. Still, despite closing Friday with a modest $74 million net-positive session, BTC failed to ..."
     },
     {
       "headline": "21 Rules of Bitcoin",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T21:59:31.614662+00:00"
+  "fetched_at": "2025-11-29T22:43:18.505760+00:00"
 }

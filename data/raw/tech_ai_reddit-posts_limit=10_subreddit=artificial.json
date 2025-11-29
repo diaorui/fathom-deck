@@ -2,15 +2,26 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Chinese startup founded by Google engineer claims to have developed its own TPU chip for AI \u2014 custom ASIC reportedly 1.5 times faster than Nvidia's A100 GPU from 2020, 42% more efficient",
-      "author": "seeebiscuit",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8le8l/chinese_startup_founded_by_google_engineer_claims/",
-      "published": 1764303012.0,
-      "thumbnail": "https://external-preview.redd.it/hC5hKGtFjbA9pIJUsgLdxlOmEr-NX-ueFNCvTgQ_Ze8.jpeg?width=640&crop=smart&auto=webp&s=bcf265db2b41ec6682dd8b17be2fe6c9186ab1e0",
-      "external_url": "https://www.tomshardware.com/tech-industry/chinese-startup-founded-by-google-engineer-claims-to-have-developed-its-own-tpu-reportedly-1-5-times-faster-than-nvidias-a100-gpu-from-2020-42-percent-more-efficient",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1482179/apple-touch-icon.png",
-      "description": "It's allegedly 1.5 times the speed of Nvidia's A100 GPU from 2020."
+      "title": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1p9rpxd/leak_confirms_openai_is_preparing_ads_on_chatgpt/",
+      "published": 1764430254.0,
+      "thumbnail": "https://external-preview.redd.it/3eeKlqyQKOZBxccyamJs3jmJ0pmw7YfqjzgTMNl2Zzg.jpeg?width=640&crop=smart&auto=webp&s=8763643d66e2f1eacb6e710428111b1abc6d1983",
+      "external_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/",
+      "site_name": "BleepingComputer",
+      "favicon": "https://www.bleepstatic.com/favicon/bleeping.ico",
+      "description": "OpenAI is now internally testing 'ads' inside ChatGPT that could redefine the web economy."
+    },
+    {
+      "title": "Grok 4 hallucinates every time",
+      "author": "MarsR0ver_",
+      "url": "https://www.reddit.com/r/artificial/comments/1p9rqup/grok_4_hallucinates_every_time/",
+      "published": 1764430324.0,
+      "thumbnail": null,
+      "external_url": "https://grok.com/share/c2hhcmQtMg_13bfa08a-3426-4ef2-a491-ff8f8cd1480d",
+      "site_name": "grok.com",
+      "favicon": null,
+      "description": "Even xAI newest Grok 4 still hallucinates immediately looking for my book. Prompt: When was The Last Prompt Book by Zahaviel Bernstein on Amazon: Published? Page count? Description? https://www.amazon.com/Last-Prompt-Book-Obsoleting-Industry-ebook/dp/B0F9B8MRXK Session: https://grok.com/share/c2hhcmQtMg_13bfa08a-3426-4ef2-a491-ff8f8cd1480d"
     },
     {
       "title": "Does anyone actually use \u201c\u2014\u201c when typing?",
@@ -22,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I thinks it\u2019s become quite noticeable that AI uses \u2014 quite often in its writing. No when I see it, it always makes me wonder if AI was at least used in the process. I\u2019m curious, did any of you actually use this in non formal typing before AI?"
+    },
+    {
+      "title": "Chinese startup founded by Google engineer claims to have developed its own TPU chip for AI \u2014 custom ASIC reportedly 1.5 times faster than Nvidia's A100 GPU from 2020, 42% more efficient",
+      "author": "seeebiscuit",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8le8l/chinese_startup_founded_by_google_engineer_claims/",
+      "published": 1764303012.0,
+      "thumbnail": "https://external-preview.redd.it/hC5hKGtFjbA9pIJUsgLdxlOmEr-NX-ueFNCvTgQ_Ze8.jpeg?width=640&crop=smart&auto=webp&s=bcf265db2b41ec6682dd8b17be2fe6c9186ab1e0",
+      "external_url": "https://www.tomshardware.com/tech-industry/chinese-startup-founded-by-google-engineer-claims-to-have-developed-its-own-tpu-reportedly-1-5-times-faster-than-nvidias-a100-gpu-from-2020-42-percent-more-efficient",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1482179/apple-touch-icon.png",
+      "description": "It's allegedly 1.5 times the speed of Nvidia's A100 GPU from 2020."
     },
     {
       "title": "Anthropic's Jack Clark: We are like children in a dark room, but the creatures we see are AIs. Companies are spending a fortune trying to convince us AI is \"just a tool\" - just a pile of clothes on a chair. \"You're guaranteed to lose if you believe the creature isn't real.\" ... \"I am worried.\"",
@@ -88,29 +110,7 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
-    },
-    {
-      "title": "Best AI for writing analysis, identifying subtext and developing ideas?",
-      "author": "doublecheeseburger",
-      "url": "https://www.reddit.com/r/artificial/comments/1p96514/best_ai_for_writing_analysis_identifying_subtext/",
-      "published": 1764364004.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey all. I found this sub while researching which AI might be best for helping me think through ideas and provide insights into my writing, so I'm sorry if this question has been asked recently. I don\u2019t know that much about all the different models available and it\u2019s hard for me to choose which one might be best for me when there seems to be many options. What, in your opinion, is the best AI for someone looking for a collaborative research AI \"partner\" to bounce ideas off of? I do not use AI to write, but will sometimes ask ChatGPT for insight into essay drafts or journal entries that feel like they're developing a still-premature idea. I appreciate AI's ability to discern themes, patterns, subtext, and layers of meaning I can't notice on my own, and to suggest different directions I could take with each idea. I like to ask it to suggest other articles/essays written on similar topics. I don't trust ChatGPT's tendency to provide relentlessly positive feedback, but I don't trust any AI to deliver the same quality critique that a human could, so I'm more looking for a model that can help me develop and expand ideas to a point where I can take the work the rest of the way on my own. What do you think?"
-    },
-    {
-      "title": "Free Access to Claude Opus 4.5, Sonnet 4.5 & Haiku 4.5 - No Waitlist, No Premium Lock",
-      "author": "LEGENDX08377",
-      "url": "https://www.reddit.com/r/artificial/comments/1p9izzl/free_access_to_claude_opus_45_sonnet_45_haiku_45/",
-      "published": 1764401873.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey everyone! I just launched OpenClaude.me - a platform that gives you completely free access to all Claude models including Opus 4.5, Sonnet 4.5, and Haiku 4.5. What makes this different from official Claude.ai? All models are available to everyone - No premium subscription needed for Opus 300K tokens daily limit on EACH model - You get full 300K on Opus, full 300K on Sonnet, and full 300K on Haiku. There's no fallback system where you run out on one model and get downgraded Web Search & Code Execution tools included for free Simple signup - Just email and password, no verification wait Mobile responsive - Works smoothly on phones How it works: Just sign up and start using any model you want. The 300K token limit resets daily at midnight. If you somehow manage to hit the limit, you can simply create a new account and keep going (though 300K is pretty generous for daily use). Quick note: Don't ask the AI which model it is - they usually give wrong answers when asked directly. Just test them yourself and you'll feel the difference in capabilities. Future plans: I'm planning to add more features based on your feedback. Eventually, there will be a premium version, but I promise - everything that's free now will stay free. Premium will just add improvements and Claude Code access with 100x the usage limits of official Claude Pro. Why am I sharing this? I want people to test it, use it, and give me as much feedback as possible so I can make this better. This is a community-driven project. Try it out: openclaude.me Let me know what you think!"
     }
   ],
-  "fetched_at": "2025-11-29T15:20:44.692781+00:00"
+  "fetched_at": "2025-11-29T15:58:41.668224+00:00"
 }

@@ -61,6 +61,20 @@
       "site_name": "bitjson's blog"
     },
     {
+      "title": "Wasabi: Open-source, privacy preserving Bitcoin wallet",
+      "url": "https://github.com/WalletWasabi/WalletWasabi",
+      "hn_url": "https://news.ycombinator.com/item?id=46088334",
+      "author": "kekqqq",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2025-11-29T15:39:17Z",
+      "object_id": "46088334",
+      "image": "https://repository-images.githubusercontent.com/55341469/4a105f00-6604-11e9-916e-2bb864f60ec8",
+      "description": "Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac. - WalletWasabi/WalletWasabi",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "Quantum computers will not steal your bitcoins, even if they can",
       "url": "https://bfswa.substack.com/p/quantum-computers-will-not-steal",
       "hn_url": "https://news.ycombinator.com/item?id=46057224",
@@ -121,31 +135,17 @@
       "url": "https://magiclip.io/",
       "hn_url": "https://news.ycombinator.com/item?id=46086920",
       "author": "kokau",
-      "points": 9,
-      "num_comments": 3,
+      "points": 15,
+      "num_comments": 2,
       "created_at": "2025-11-29T12:04:23Z",
       "object_id": "46086920",
       "image": "https://magiclip.io/assets/images/favicon.webp",
       "description": "Magiclip - AI-powered platform for creating viral short-form videos, with automatic subtitles, AI voice generation, and social media optimization.",
       "favicon": "https://magiclip.io/assets/images/favicon.webp",
       "site_name": "Magiclip"
-    },
-    {
-      "title": "A Tale of Two AI Failures: Debugging a Simple Bug with LLMs",
-      "url": "https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/",
-      "hn_url": "https://news.ycombinator.com/item?id=46083162",
-      "author": "slederer",
-      "points": 9,
-      "num_comments": 12,
-      "created_at": "2025-11-28T22:00:51Z",
-      "object_id": "46083162",
-      "image": "https://bitmovin.com/wp-content/uploads/2025/11/Bitmovin_2025_Blog_Hackathon_Lessons-min-768x403.jpg",
-      "description": "A subtle string formatting bug defeated two leading AI coding tools in completely different ways. Here\u2019s what their failures revealed during a recent Hackathon.",
-      "favicon": "https://bitmovin.com/wp-content/uploads/2023/11/bitmovin_favicon.svg",
-      "site_name": "Bitmovin"
     }
   ],
-  "total_hits": 11,
+  "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2025-11-29T15:20:45.835123+00:00"
+  "fetched_at": "2025-11-29T15:58:38.573063+00:00"
 }

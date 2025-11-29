@@ -65,6 +65,16 @@
       "description": "The next Fed Reserve rate-setting meeting could offer a signpost to bitcoin\u2019s performance in 2026"
     },
     {
+      "headline": "\u2018Just The Beginning\u2019\u2014$6.6 Trillion December Fed Flip Predicted To Trigger Massive Bitcoin Price Shock",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRl9fTWI0X2tUcnFLSUVUQWpkVVcwZXNLZ25TbkplaWdrblJLbTNRQ0dzd1hBRGU2MEVLdnNwYWRQUEN3VFgwbWc4cF9RTzE0MzMyc0ZleGJRNTZhVzRCb296dC1sRkpzdHV6SUY4VmQyNTluVXIycXlYQ2UzOGFxOV9KYU5EalFpd1RGenpxWHA2dXZkRld4YUlnZFdERTJaWHJvQm92aE5lZjdocmUxMGFuNmpOa0tVU1lhUnluWVc2ZEVqT0FITFl5TUNQanJkN0pJZEtaYVVzdUxxX2ZZODBaSjBHTnNu?oc=5",
+      "pub_date": 1764420314.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2025/11/29/just-the-beginning-66-trillion-december-fed-flip-predicted-to-trigger-massive-bitcoin-price-shock/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/633c2741f081733a2a78b209/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Some of the most bullish bitcoin and crypto speculators have said they expect a December Federal Reserve bombshell to power a bitcoin price boom..."
+    },
+    {
       "headline": "Largest private gold holder shuts down Bitcoin mining operations",
       "source": "TheStreet",
       "source_url": "https://www.thestreet.com",
@@ -75,24 +85,14 @@
       "description": null
     },
     {
-      "headline": "Strategy's Interest Costs Are Set To Rise; MSTR Stock, Bitcoin Rally Fade",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSUlUZTlQdFV3ZUs4Ml9wYnBOVVpDZVFkSVBTLXRYY29NSDdDYmZJZnRfZGdCQTNvNEcxbEt6dHhDVzlvcWVMSjhSb1FycGZqYWRpUWlqOUtYb3JEWkIyODJsSlJUeHE1bldTN1FlWnJxQzVvM09jX2dOQUJVUnl3TmpHRW9wNks5VzhVZWdpRktzMkdqa0FfMw?oc=5",
-      "pub_date": 1764352440.0,
-      "article_url": "https://www.investors.com/news/mstr-stock-strategy-bitcoin-price-interest-costs-mnav-premium/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The fatal flaw in using bitcoin as a currency",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5",
-      "pub_date": 1764133249.0,
-      "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
-      "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
+      "headline": "Should You Forget Bitcoin and Buy XRP Instead?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZExVdXZCSURZeV9lNHVHSjRZUHBtRFlqeWFfbWl5di1CandoU1VZZHBfTFN6WUN0UHFqZXJyZlZRNmVUdzREMXdNR3UzYmpMVEFGQW5GNGVfWGthdnlqY3p3b0RZaHRadTM3dlAxaGY5MV9VNnhSWkZObzdjb0l2bVRjdE1JQ1VJZ3o0MkxpME93Zw?oc=5",
+      "pub_date": 1764335820.0,
+      "article_url": "https://www.fool.com/investing/2025/11/28/should-you-forget-bitcoin-and-buy-xrp-instead/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844655%2Fthinking-robot-flipped.jpg&w=1200&op=resize",
+      "description": "XRP is up while Bitcoin is down this year. One of these leading cryptocurrencies is wildly overvalued -- and it may not be the one you think."
     },
     {
       "headline": "I/O Fund Called the Bitcoin Selloff: What Liquidity & DXY Data Predict Next",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T15:21:04.599474+00:00"
+  "fetched_at": "2025-11-29T15:58:53.096048+00:00"
 }

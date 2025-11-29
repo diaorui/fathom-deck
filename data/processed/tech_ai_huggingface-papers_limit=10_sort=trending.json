@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 4607,
+      "github_stars": 4627,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 95,
+      "upvotes": 96,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -92,27 +92,8 @@
       "num_comments": 2,
       "published_at": "2025-11-24T23:15:14.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL",
-      "github_stars": 596,
+      "github_stars": 606,
       "project_page": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL"
-    },
-    {
-      "id": "2510.14528",
-      "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-      "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
-      "organization_name": "PaddlePaddle",
-      "organization_fullname": "PaddlePaddle",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1654942635336-5f3ff69679c1ba4c353d0c5a.png",
-      "summary": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) that integrates a NaViT-style\ndynamic resolution visual encoder with the ERNIE-4.5-0.3B language model to\nenable accurate element recognition. This innovative model efficiently supports\n109 languages and excels in recognizing complex elements (e.g., text, tables,\nformulas, and charts), while maintaining minimal resource consumption. Through\ncomprehensive evaluations on widely used public benchmarks and in-house\nbenchmarks, PaddleOCR-VL achieves SOTA performance in both page-level document\nparsing and element-level recognition. It significantly outperforms existing\nsolutions, exhibits strong competitiveness against top-tier VLMs, and delivers\nfast inference speeds. These strengths make it highly suitable for practical\ndeployment in real-world scenarios.",
-      "ai_summary": "PaddleOCR-VL, a vision-language model combining NaViT-style visual encoder and ERNIE-4.5 language model, achieves state-of-the-art performance in document parsing with minimal resource consumption.",
-      "hf_url": "https://huggingface.co/papers/2510.14528",
-      "arxiv_url": "https://arxiv.org/abs/2510.14528",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png",
-      "upvotes": 98,
-      "num_comments": 6,
-      "published_at": "2025-10-16T06:18:48.000Z",
-      "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65243,
-      "project_page": null
     },
     {
       "id": "2410.05779",
@@ -134,6 +115,25 @@
       "project_page": null
     },
     {
+      "id": "2510.14528",
+      "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
+      "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
+      "organization_name": "PaddlePaddle",
+      "organization_fullname": "PaddlePaddle",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1654942635336-5f3ff69679c1ba4c353d0c5a.png",
+      "summary": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) that integrates a NaViT-style\ndynamic resolution visual encoder with the ERNIE-4.5-0.3B language model to\nenable accurate element recognition. This innovative model efficiently supports\n109 languages and excels in recognizing complex elements (e.g., text, tables,\nformulas, and charts), while maintaining minimal resource consumption. Through\ncomprehensive evaluations on widely used public benchmarks and in-house\nbenchmarks, PaddleOCR-VL achieves SOTA performance in both page-level document\nparsing and element-level recognition. It significantly outperforms existing\nsolutions, exhibits strong competitiveness against top-tier VLMs, and delivers\nfast inference speeds. These strengths make it highly suitable for practical\ndeployment in real-world scenarios.",
+      "ai_summary": "PaddleOCR-VL, a vision-language model combining NaViT-style visual encoder and ERNIE-4.5 language model, achieves state-of-the-art performance in document parsing with minimal resource consumption.",
+      "hf_url": "https://huggingface.co/papers/2510.14528",
+      "arxiv_url": "https://arxiv.org/abs/2510.14528",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png",
+      "upvotes": 98,
+      "num_comments": 6,
+      "published_at": "2025-10-16T06:18:48.000Z",
+      "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
+      "github_stars": 65265,
+      "project_page": null
+    },
+    {
       "id": "2511.16043",
       "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
       "authors": "Peng Xia, Kaide Zeng, Jiaqi Liu et al. (8 authors)",
@@ -149,7 +149,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T00:01:57.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0",
-      "github_stars": 598,
+      "github_stars": 607,
       "project_page": null
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
-      "github_stars": 285,
+      "github_stars": 315,
       "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-29T00:40:30.250671+00:00"
+  "fetched_at": "2025-11-29T02:21:00.492833+00:00"
 }

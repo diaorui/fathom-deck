@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Dominance Defies Pattern During 30% Decline, Dropping Instead of Climbing",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkpRdmstNmc5S1FlMU5pNW15RFZFNm5uV0d3U1BTOGRJZVR3dEU1My1jMDhQVFZmX0JWS1d1MndGT3NCUFloTV8xX281TEJJc010eFJ3M29pdFR6UEUtV0tPNmJydDVlVC1xcDNPcGQ3N3gxbmRuWEg4SXBNR1RfOEluZ3F5U1NDb2FZMll6eWdSbnFhUVVoUnBTWG0xa3J4ejk0WjNLMHZsVUszeTZwMTJXRk5UVTAwMVNwa2l0OGI?oc=5",
-      "pub_date": 1764338063.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/28/bitcoin-dominance-defies-pattern-during-30-decline-dropping-instead-of-climbing",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin set to rally back to $100,000, BTIG says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjZmS1ZfcTREb0pEbTM1WHRZQ0UyUldmS0h1b2d2eFIwcmZBNG9fTjJYQVBKT0RaSlJIQU5DNnFlaGJqSEE3RngzaG50b1JzcXBCdnJ3clBtZHBQbU11eHgwOTVud3dTSDJHc2Y3bUtxdnFVRFRqNWV3T3UwNzJ5VVRyc3VmLTJranc?oc=5",
+      "pub_date": 1764339461.0,
+      "article_url": "https://www.cnbc.com/2025/11/28/bitcoin-set-to-rally-back-to-100000-btig-says.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
     },
     {
       "headline": "Largest private gold holder shuts down Bitcoin mining operations",
@@ -35,14 +35,14 @@
       "description": "USDT stablecoin issuer Tether is halting its Bitcoin mining operations in Uruguay due to high energy costs, local media has reported."
     },
     {
-      "headline": "Largest private gold holder shuts down Bitcoin mining operations",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZno2MFY1UHBUYURWeXo2YlFNRzk2U2dMd1J3cFVsOHlYbWhFNlhlelRlNEN2aFNmYnVrTkMyQldoa0h1MlBpakRiMU82Z0RzajRtSHY5dmJSTE16YmdUYTE3VzBZRjNjZlR0c1lVWFlHM01Zak9MaDdWOU82dlFpb2F2WHd3UQ?oc=5",
-      "pub_date": 1764355224.0,
-      "article_url": "https://finance.yahoo.com/news/largest-private-gold-holder-shuts-184024685.html",
-      "image": "https://media.zenfs.com/en/thestreet_881/4bd3734c9fbf7f3e078f2208e221f917",
-      "description": "When Tether Holdings chose Uruguay for its Bitcoin (BTC) mining activity, the reason was simple: cheap energy costs. But once a lucrative affair, Bitcoin mining is no longer drawing the same kind of enthusiasm from Tether and other industry leaders. Tether, the ..."
+      "headline": "S&P Downgrades Tether's USDT Stability to 'Weak' Due to Bitcoin Backing Concerns",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTThzMUpMSUxlcEpJTThOQlJEZFNlZnF5QnRvTFNkazk0RkpZZTUzeWsyWWlkNExNM2xrWC1VcHBJS3NfSFBwSU1odEgxRWp5aTdlMkxtYlpydjUtOGZob0VYWFlYNzlrbjZocGladm1rSDlxN1FLMzAwSllKQktzNUZfdUR6UW9ITzY5OTVyY01NdUdIUlHSAZ4BQVVfeXFMTmhUX1RYX2VFQmdwdU9zaEpYYy12SUtkN3h1UXpPZF90UDhHWnBJcS1FakZ1TjlqQkhvVXNWbERFa3ljOFZlZVJTc1l3NVVncWp2blBodlhJQm9KMzlDTVB2VTZHOVJSRXUzd3FoV216azFSazNGQ2hvdldRRVhWamMwV2w1a1UxbkN3ZUxoNTdScl81WlZpS2lxMWhWdEE?oc=5",
+      "pub_date": 1764188886.0,
+      "article_url": "https://decrypt.co/350136/sp-downgrades-tether-usdt-stability-weak-bitcoin-backing-concerns",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/tether-usdt-decrypt-style-01-gID_7.png",
+      "description": "S&P Global Ratings has downgraded Tether's USDT, warning that the industry-leading stablecoin could suffer if Bitcoin's price crashes."
     },
     {
       "headline": "Economist Paul Krugman says Bitcoin\u2019s crash shows the \u2018unraveling of the Trump trade\u2019",
@@ -75,16 +75,6 @@
       "description": "Official reports, diplomatic memos, and environmental files are now eternally verifiable on the Bitcoin blockchain \u2014 no trust required."
     },
     {
-      "headline": "Top Stock Movers Now: Intel Rises, Nvidia and Oracle Slip; Bitcoin Price Near $92,000",
-      "source": "Investopedia",
-      "source_url": "https://www.investopedia.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3N0MUJYNy13UE40MF9paGhfWHJab3lMSzdFSFhycDRkR3lUSkxCN0ZaWERuZkRKRzN3WUlwTTA2SHl5bE4xNnp3Nno2WTB4VTZZdlV4OEhrSTlUdWwxVVFrLVA0WHBqdFVfT1l2NlptR3lobzlRdmJaRFlWOWIxMUptMjB1a1ZEd2dKUHRHaXlhNWVTQmxmNV9TbEkxdl9LQlE4Vm5IaWZzalF5WnRXeTZjcldQZFF6UzNGOEpn?oc=5",
-      "pub_date": 1764347768.0,
-      "article_url": "https://www.investopedia.com/top-stock-movers-now-intel-rises-nvidia-and-oracle-slip-bitcoin-price-near-usd92000-11858623",
-      "image": "https://www.investopedia.com/thmb/ldU1bJUpXe72pxewvQtZHT7PpRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2248267343-7c56b7874b8e45229765e46612f7407a.jpg",
-      "description": "Shares of U.S. chipmaker Intel were leading the S&P higher as stocks edged upward on a holiday-shortened Black Friday session expected to be light on trading volume and corporate news."
-    },
-    {
       "headline": "An \u2018Important\u2019 China \u2018Signal\u2019 Just Quietly Started Flashing As The Bitcoin Price Suddenly Bounces Back",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -95,16 +85,26 @@
       "description": "A report has revealed bitcoin has made a sudden return in China, defying a 2021 ban that tanked the bitcoin price..."
     },
     {
-      "headline": "Nasdaq Seeks to Boost Trading Cap for Options on Top Bitcoin ETF",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNG5DNEozbVRDR2xhZHcxLUxyTF9OSmt0djhaUTZyRXRzRUVHQlBYNlp5S0NDR010b0xDUkJ4ZTJ3X3J5NmtzZUxKMENMSzdxNURwenpXUHNNbFh1M1F3RHR6blN6Z2g3emJDYzktcTFDLVpaZ3NScWM0YXVla0tEaUZNU1NhSnp0OWlHMHZMcGx3TUhObHVCc0haTkR2YWpPRFFUb09BYjRzbllSZTh6aXNzUDU4dw?oc=5",
-      "pub_date": 1764238231.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-27/nasdaq-seeks-to-boost-trading-cap-for-options-on-top-bitcoin-etf",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibiVYjjXdZgU/v1/1200x800.jpg",
-      "description": "Nasdaq\u2019s International Securities Exchange proposed quadrupling the daily trading limit for options tied to BlackRock Inc.\u2019s iShares Bitcoin Trust ETF as demand from investors increases."
+      "headline": "Should You Forget Bitcoin and Buy XRP Instead?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZExVdXZCSURZeV9lNHVHSjRZUHBtRFlqeWFfbWl5di1CandoU1VZZHBfTFN6WUN0UHFqZXJyZlZRNmVUdzREMXdNR3UzYmpMVEFGQW5GNGVfWGthdnlqY3p3b0RZaHRadTM3dlAxaGY5MV9VNnhSWkZObzdjb0l2bVRjdE1JQ1VJZ3o0MkxpME93Zw?oc=5",
+      "pub_date": 1764335820.0,
+      "article_url": "https://www.fool.com/investing/2025/11/28/should-you-forget-bitcoin-and-buy-xrp-instead/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844655%2Fthinking-robot-flipped.jpg&w=1200&op=resize",
+      "description": "XRP is up while Bitcoin is down this year. One of these leading cryptocurrencies is wildly overvalued -- and it may not be the one you think."
+    },
+    {
+      "headline": "Top Stock Movers Now: Intel Rises, Nvidia and Oracle Slip; Bitcoin Price Near $92,000",
+      "source": "Investopedia",
+      "source_url": "https://www.investopedia.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3N0MUJYNy13UE40MF9paGhfWHJab3lMSzdFSFhycDRkR3lUSkxCN0ZaWERuZkRKRzN3WUlwTTA2SHl5bE4xNnp3Nno2WTB4VTZZdlV4OEhrSTlUdWwxVVFrLVA0WHBqdFVfT1l2NlptR3lobzlRdmJaRFlWOWIxMUptMjB1a1ZEd2dKUHRHaXlhNWVTQmxmNV9TbEkxdl9LQlE4Vm5IaWZzalF5WnRXeTZjcldQZFF6UzNGOEpn?oc=5",
+      "pub_date": 1764347768.0,
+      "article_url": "https://www.investopedia.com/top-stock-movers-now-intel-rises-nvidia-and-oracle-slip-bitcoin-price-near-usd92000-11858623",
+      "image": "https://www.investopedia.com/thmb/ldU1bJUpXe72pxewvQtZHT7PpRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2248267343-7c56b7874b8e45229765e46612f7407a.jpg",
+      "description": "Shares of U.S. chipmaker Intel were leading the S&P higher as stocks edged upward on a holiday-shortened Black Friday session expected to be light on trading volume and corporate news."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T00:40:49.720479+00:00"
+  "fetched_at": "2025-11-29T02:21:15.287284+00:00"
 }

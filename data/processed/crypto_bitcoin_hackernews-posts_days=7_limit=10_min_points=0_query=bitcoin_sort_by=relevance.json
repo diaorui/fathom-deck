@@ -122,7 +122,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46083162",
       "author": "slederer",
       "points": 6,
-      "num_comments": 7,
+      "num_comments": 8,
       "created_at": "2025-11-28T22:00:51Z",
       "object_id": "46083162",
       "image": "https://bitmovin.com/wp-content/uploads/2025/11/Bitmovin_2025_Blog_Hackathon_Lessons-min-768x403.jpg",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2025-11-29T00:40:30.499765+00:00"
+  "fetched_at": "2025-11-29T02:21:01.891381+00:00"
 }

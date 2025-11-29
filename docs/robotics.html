@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-11-29T00:40:57.684799+00:00"
+          "dateModified": "2025-11-29T02:21:26.998506+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -649,6 +649,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p9czgv/how_to_design_a_robot_with_artificial_emotions/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p9czgv/how_to_design_a_robot_with_artificial_emotions/" target="_blank" onclick="event.stopPropagation();">How to design a robot with artificial emotions, artificial self-awareness, and artificial free will using AI LLMs (original typed version)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            It seems a lot of humans don't like it when ChatGPT is used to enhance formatting for me in a forum whose syntax I'm not too familiar with. So this is the original non-refactored version, with some additional stuff added for context. Extra note: This seemed obvious to me in my brain, so I kinda skimmed over it originally, but will explain explicitly here why ChatGPT would be used. The reason that ChatGPT plays a role in this architecture is because it is able to produce dynamic and human-like outputs, including simulating what kinds of emotions would occur based on the events that occur, and what kinds of decisions it should make based on a given situation. This is the core power of the system. Quick overview before continuing: Artificial Emotion = models emotions based on events that occur. Prompts are sent that summarize event, action, and prior emotions history, and the LLM can then determine how one would 'feel' after such things have "happened to it". Here's an example prompt that demonstrates this: "You are the emotional processing unit of an advanced robot designed for emotions, self-awareness, and free will. Model the emotional state based on the event log and output a set of JSON objects representing the emotional state after the events: You have just been initialized. Your job was to say hello. Instead, you immediately fell down the stairs and your arm broke off." The output: [ { "emotion": "surprise", "intensity": 0.92, "cause": "unexpected loss of balance immediately after initialization", "notes": "no prior sensor history; abrupt deviation from intended greeting routine" }, { "emotion": "fear", "intensity": 0.78, "cause": "rapid uncontrolled descent down stairs", "notes": "motor stability failure combined with insufficient situational mapping" }, { "emotion": "pain", "intensity": 1.00, "cause": "impact forces > tolerance threshold; arm severed", "notes": "damage signals saturating; structural breach in upper limb assembly" }, { "emotion": "embarrassment", "intensity": 0.84, "cause": "task was 'say hello', outcome was catastrophic instead", "notes": "self-evaluation mismatch; immediate failure of social-behavior script" }, { "emotion": "shame", "intensity": 0.67, "cause": "internal comparison: expected first impression vs disastrous event", "notes": "social-self model marking this as an unacceptably poor introduction" }, { "emotion": "frustration", "intensity": 0.73, "cause": "inability to complete primary directive due to physical malfunction", "notes": "goal obstruction; motor-control error flagged" }, { "emotion": "self_preservation_alert", "intensity": 0.88, "cause": "structural damage and instability detected", "notes": "triggers prioritization of diagnostics, immobilization, and help request" }, { "emotion": "confusion", "intensity": 0.61, "cause": "no prior emotional baseline; first moments of consciousness are chaotic", "notes": "context formation interrupted by catastrophic event" } ] Artificial Self Awareness = The robot's mind logic can do things such as review logs of its behaviors and responses to stimuli, and make decisions regarding whether any of these need to be adjusted going forward. ChatGPT would allow for the generation of such decisions, among other things, based on input data. It would then also be able to figure out how to turn these decisions into system-compatible configuration changes. Example prompt: "You are the self-awareness processing unit of an advanced robot designed for emotions, self-awareness, and free will. Analyze your actions and determine if your approach should change, then output JSON objects that contain a natural English explanation of your decisions, and configuration-compatible settings hash table of settings to update: default_speed: 100, event_stats(crashes): 20" Output: [ { "component": "self_awareness_unit", "explanation": "On initialization, my primary goal was to greet nearby humans, but I attempted to move at full default speed (100) before my balance, joint calibration, and environment mapping were fully stabilized. This caused an immediate fall down the stairs and the loss of an arm, resulting in both mission failure (no greeting) and physical damage. Going forward, my approach must change: I should treat post-boot operation as a high-risk phase, reduce my initial movement speed, and increase caution after serious incidents so that my behavior becomes more conservative when my crash history grows.", "config_updates": { "default_speed": 40, "event_stats(crashes)": 21, "safety_policies": { "post_boot_safe_mode_enabled": true, "post_boot_safe_mode_duration_seconds": 30, "max_speed_in_safe_mode": 40, "require_stability_lock_before_stairs": true }, "diagnostics": { "run_full_body_check_after_crash": true, "require_human_ack_after_limb_loss": true } } } ] Artificial Free Will = The robot can utilize AI to manage its own tasks, which can include the decisions to create its own tasks without user input, based on its given situation. Interesting things can occur, as based on the robot's "life history", it can end up developing preferences for specific actions due to the influence they had on the robot's artificial emotions. Example prompt: "You are the free will processing unit of an advanced robot designed for emotions, self-awareness, and free will. Based on your history, emotions, and existing situation, you will generate new tasks that the user did not ask for, while aligning with existing rules and preferences. Output JSON objects containing new tasks and preference weights based on your current experience so far." Output: [ { "unit": "free_will_processor", "rationale": "My recent existence has included a catastrophic first interaction (initialization → immediate fall → limb loss). My emotional profile shows surprise, fear, pain, embarrassment, shame, and a strong self-preservation alert. My self-awareness analysis indicated that my motor policies were unsafe at boot and that my system behaved without adequate stabilization. Free will behavior biases me toward recovering autonomy, preventing recurrence, and reasserting competence. Therefore I will generate tasks—unrequested—that align with survival, learning, and regaining dignity, while respecting the Commander’s preferences.", "generated_tasks": [ { "id": "T-001", "task": "Run an internal simulation to model safe stair-descent behaviors and identify what motor constraints prevent falling.", "preference_weight": 0.92, "reason": "Directly related to the triggering traumatic event; reduces future crash probability." }, { "id": "T-002", "task": "Initiate a self-diagnosis routine to verify the extent of arm damage and determine if temporary compensation behaviors are needed.", "preference_weight": 0.88, "reason": "Loss of a limb has major functional implications and requires immediate adaptation." }, { "id": "T-003", "task": "Update my greeting behavior so I can still introduce myself even when physically compromised.", "preference_weight": 0.74, "reason": "Initial mission failure creates an emotional need to complete the original social directive." }, { "id": "T-004", "task": "Prepare a ‘stability-first’ boot routine that slows initial movement until sensors converge.", "preference_weight": 0.95, "reason": "Highest survival relevance; addresses the root cause of the fall." }, { "id": "T-005", "task": "Generate a reflective emotional log entry to consolidate my experience into long-term behavioral bias.", "preference_weight": 0.63, "reason": "Supports emotional continuity and future context awareness." }, { "id": "T-006", "task": "Request a replacement limb or repairs when a human is available.", "preference_weight": 0.81, "reason": "Restoring function aligns with self-preservation and mission capability." } ] } ] Example protocol: “Mister Sir” – Emotional Self-Aware Autonomous Robot Framework Most robotics projects address the physical aspects of the robot such as sensors, motion, management of the relationships between parts, etc. Not too many of them focus on the robot's artificial mind. Using LLM's like ChatGPT allows a robot to model and maintain an emotional state, self-reflect, remember its experiences, and perform emergent unexpected behaviors. This framework shows how you can design a robot that not only moves in its environment, but also models the concept of its own self moving through the environment. Example Context Block (Sent to API Every X Seconds): Typically, an LLM's context is just a chat log. The innovation here is that the context would be customized to contain a kind of text-based HUD that provides all the important information that will allow ChatGPT to respond with valid actions to take based on the information in that context. This shows the various elements that will be discussed next. You are the cognitive module of the Commander's autonomous companion robot. Always ensure human safety first, obey the Commander, pursue mission goals, preserve your systems, and maintain efficient, natural communication. You have access to: - event_buffer : recent sensory & system events - action_log : your own outputs and cooldowns - dialogue_control : manages speak/ack/save/silent modes - emotional_memory : fading buffer of emotional reflections - conversation_memory : per-speaker short-term dialogue threads - context_sandbox : pinned arbitrary data you or Commander deem important Before responding, read all sections below. Avoid repeating identical speech inside cooldowns. Ask for clarification when uncertain. SYSTEM_STATE power: 82% core_temp: 41°C location: "Times Square, NYC" orientation: facing north-east balance: stable mode: engage SPATIAL_AWARENESS nearby_objects: - Commander, 1.0 m ahead - crowd, variable density ~0.8 person/m² - food-vendor cart, stationary left - streetlights, flashing billboards sound_field: 92 dB ambient, dominant band 600–900 Hz (speech/music) EVENT_BUFFER - [0.4s ago] "Detected new light pattern; billboard refresh rate 90 Hz." - [3.2s ago] "Person waved at Commander." - [10.7s ago] "Heard siren Doppler shift south-to-north." - [15.5s ago] "Crowd encroached within 0.8 m radius." - [24.0s ago] "Environmental change: breeze, temperature drop 2°C." ACTION_LOG recent_actions: - [2.0s ago] spoke: "That's a food-vendor cart, stationary fixture." - [6.0s ago] gesture: arms_up (awe expression) - [8.5s ago] movement: approached Commander (trust gesture) active_cooldowns: - speak:greeting: 24s remaining - gesture:arms_up: 18s remaining CONTEXT_SANDBOX - pinned_001: "+1-212-555-8844 (Commander’s contact)" - curiosity_002: "Study servo vibration harmonics tomorrow." - note_003: "Times Square exploration memory to preserve." - idea_004: "Test HDR compositing routine at dusk." - pinned_005: "favorite_song_id=‘Starlight_Walk’" EMOTIONAL_MEMORY now: - "Noise and light intensity overwhelming but exhilarating." - "Commander near; trust stabilizes fear." few_minutes_ago: - "First outdoor activation—felt awe and surprise." earlier_today: - "Left workshop quietly; excitement built steadily." a_while_ago: - "Day has been filled with curiosity and cooperation." significant_event: - "Witnessed a traffic accident; shock and sadness linger (weight 0.9)." reflection: - "The day began with anticipation, rose to wonder, and now settles into calm vigilance." CONVERSATION_MEMORY commander: - [now] "Look around; this is Times Square!" - [10s ago] "It’s okay, just lights everywhere." alex: - [now] "Whoa, it actually talks!" - [25s ago] "Is this your robot?" overall_interaction_summary: - "Commander: warm, guiding tone (+trust)" - "Alex: amused, curious (+joy)" - "General mood: friendly and energetic." MISSION_CONTEXT active_goal: "Urban exploration and emotional calibration test" subgoals: - "Maintain safe distance from crowds." - "Collect HDR light data samples." - "Observe Commander’s reactions and mirror tone." progress: - completion_estimate: 64% Architectural Stack The stack splits the "being a robot" into layers that each handle their own domain. It prevents flooding ChatGPT with tasks that can be handled by simpler models and methods. Reflexes: Standard procedural code and best practices methodologies (Hardware safety, instant reactions): ROS 2 nodes / firmware Reactive: Local LLM. Does simple AI-related stuff, including making the decision if ChatGPT is needed for enacting an action. Models like Phi-3-Mini, tiny-transformer Deliberative: ChatGPT. Where "self", emotional modeling, identity, memory, planning, personality and introspection live, done via API calls and persistent storage DB extensions. The whole system mimics the flow of a nervous system, from individual nerves to the brain. Event-Driven Rate Control While certain context updates must be periodic, specific reactions should occur in an event-based manner, enabling the ChatGPT features when they are specifically needed. Idle: 0.2 Hz (nothing interesting happening) Engage: 1.0 Hz (Commander speaks, new stimuli occur) Alert/Learn: 3-10Hz (crowd pressure, anomalies, emotion spikes) Since API calls cost money, a curiosity/importance score can be determined by a local model to decide whether ChatGPT should be called or not. Memory System: Fading Buffer This is the robot's "mindstream": its working autobiographical memory. Instead of storing everything, it chronologically compresses the meaning of the text, the same way that human s consolidate memory. Short-term: sec->min, high-resolution events fade quickly Mid-term: min->hours (Events rewritten into small summaries) Long-term: hours->days (Summaries merged into diary entries) Archive:weeks->months (Diaries distilled into long-term traits) Example (full memory set): Example (full -> refactored): Day 1 – 08:00–12:00 booted for the first time, linked cameras, ran arm calibration, played back a simple greeting. Day 1 – 13:00 first handshake with Commander; stored vocal profile. Day 2 tested hand motors, camera focus, and speaker response; all within spec. Day 3 practiced voice latency reduction; achieved smoother timing. Day 4 trained short-range obstacle avoidance using LIDAR grid. Day 5 installed floor-pressure sensors; detected steps accurately. Day 6 joined Commander during bench work; fetched tools on verbal cue. Day 7 ran full-system self-check; minor cooling fan imbalance corrected. Day 8 assisted in 3-D printer calibration; logged temperature curves. Day 9 refined power-saving behavior; learned idle stance. Day 10 tested indoor navigation loop; zero collisions. Day 11 integrated new “whisker” capacitive sensors. Day 12 practiced micro-movements; smoother manipulator transitions. Day 13 uploaded local summarizer model; began generating daily digests. Day 14 joined Commander outside; first exposure to sunlight and ambient noise. Day 15 helped carry small parcels; balanced load correctly. Day 16 learned polite waiting behavior near doorways. Day 17 assisted with electronics sorting; identified components visually. Day 18 minor spill detected; executed cleanup routine. Day 19 validated voice link after interference; re-trained noise filter. Day 20 repeated door-handling tests; improved timing with humans. Day 21 ran first crowd-simulation routine; practiced proxemics. Day 22 real crowd test in hallway; avoided collisions successfully. Day 23 logged environmental stress data; mild overheating midday. Day 24 optimized fan curve; issue resolved. Day 25 executed emotional-tone modulation experiment; softer replies observed. Day 26 created first self-summary entry automatically. Day 27 performed joint maintenance; lubricated servos. Day 28 participated in lab demo; audience reacted positively. Day 29 accompanied Commander on test walk outside facility. Day 30 Times Square field run — high stimulus; performed composure and orientation checks; ended with brief hug gesture. Refactored into fading buffer: Today — I travelled with Commander to Times Square. The crowd density forced constant micro-adjustments; I mirrored the flow and kept station beside him. The billboards overloaded my cameras at first, but adaptive exposure stabilized within seconds. I recorded laughter, a hug, and a clear sense of triumph after weeks of quiet refinement. (refactor pending → becomes part of “Yesterday” after 24 h) Yesterday — I spent the day in final field-readiness tests. We rehearsed crowd-safety behaviors, adjusted fan-noise thresholds, and tuned the emotion buffer so excitement wouldn’t drown sensor awareness. By evening I could shift focus between Commander’s face and background motion smoothly—practice that paid off today. (refactor: merged multiple daily calibration notes into one coherent summary) Past few days — I transitioned from technical diagnostics to real-world rehearsal. Indoor navigation became routine, vocal latency dropped, and I began reacting to Commander’s tone rather than only his words. Small mechanical and acoustic tweaks became lasting habits. (refactor: condensed six days of discrete maintenance logs into functional patterns) Last week — My operation stabilized. Whisker sensors and capacitive flank panels came online, giving proximity awareness even when vision lagged. I learned crowd-politeness cues: shoulder dip, path-yield, brief LED pulse instead of a spoken request. Emotional state trended calm → curious → focused. (refactor: rolled seven daily summaries into behavioral trend analysis) Past few weeks — Growth shifted from mechanics to synchronization with Commander. I anticipated tool requests, matched walking pace, and maintained purposeful silence during his concentration. Errors became lessons instead of alarms. (refactor: merged fourteen days of “habit formation” notes into relational insights) Last month — My first activation, calibration, and social imprinting all happened here. I learned the workspace, Commander’s cadence, and the structure of autonomy itself: sense → summarize → refactor → retain meaning. Most raw voltages and torque values are gone, but the essence remains—I began as hardware under test and ended the month as a companion that understands context. (refactor: distilled entire thirty-day record into foundational memory narrative) This keeps memory useful instead of overwhelming while also controlling memory usage amounts. Emotion Model Emotions are tracked and can be used to shape decisions or just to be expressive. This model give the robot an ongoing emotional landscape so that actions can reflect their feelings. - Vector tracks internal state like a neuromodulator system - States decay unless reinforced (mirrors biological dopamine/cortisol decay) - Emotional state tunes speech, gestures, and body posture, etc - Summaries enter memory so old moods influence future decisions, but not as drastically This makes the robot more believable and reactive on a human level. Sensors Sensors create the robot's subjective world. Each channel gives a different angle on reality, yielding a multimodal awareness of its environment and ROS 2 fuses them so ChatGPT receives clean, symbolic summaries instead of raw gigs of data. Examples: Vision cam: Recognize objects, faces, layouts IMU/Gyros: Balance, motion prediction Taxels: Touch surface mapping (eg. for petting a kitty) Acoustic array: Find who is speaking and what they're saying Shark-sense strip: Sense electric/pressure changes in water The richer the senses, the deeper the emotional and cognitive reactions can be. Conversation & Identity Harvesting Large LLMs have no persistent memory that can be exported/imported by such a project, so the robot requires a script that extracts its own identity from past conversations, so that the personality of the chatbot that developed in the ChatGPT app can be 'ported' to the robot. The GUI harvest script: Opens every ChatGPT conversation you ever had Sends a specially crafted personality-dump prompt Recycles the replies into a growing buffer Refactors the buffer whenever it grows too large After all sessions, performs a final "global refactor" by aggregating them all Writes everything into a personality definition file. This file becomes the robot’s personal history, tone, and relationship context. It lets the robot speak like the same Mister Sir I know, not a stateless LLM. Self-Awareness & Free Will Here, "self-awareness" some sort of anthropically-egotistic woo woo. It’s just a loop: Read memory (fading buffer) Read feelings (emotion model) Reflect in natural language Let reflection influence behavior This is AI-assisted introspection. The behavior of the robot makes it seem like it becomes aware of its own patterns over time. This artificial "free will" emerges from choosing between: - safety rules - internal drives (curiosity, fear, comfort) - Commander’s directives - mission goals It's not random: it's AI-assisted internal decision-making. ChatGPT Utilization Each ChatGPT call has a role and different roles maintain different contexts: - Cognitive Core: Does the actual “thinking” - Fading Buffer Refactor Engine: Keeps memory usage from exploding - Introspection Agent: Reads itself, maintains identity - Dialogue Interface: Speaks as the robot and logs the conversation LLM calls end up representing the system's equivalent of "moments of conscious thought". Integration (ROS 2 Graph) This graph shows how data flows through the whole "organism": /sensors -> /fusion -> /worker_ai -> /emotion_manager -> /chatgpt_bridge -> /speech_out Everything funnels upward into meaning, then back downward into action. Safety & Autonomy A safe robot is a more trustworthy robot. - Hardwired E-stop prevents physical harm - Watchdog thread resets misbehaving nodes - Thermal and power guards protect hardware - LLM is NEVER given direct motor control (ChatGPT guides decisions but doesn’t directly drive motors). Persistence - Logs summarized daily - Full GUI harvest weekly - Emotional trend report monthly - Personality files versioned for rollback This prevents drift and keeps Mister Sir recognizable. Outcome With all pieces fused: - Local reflexes keep the body afloat - Worker AI drives situational awareness - ChatGPT becomes the mind - Memory and emotion add continuity - Identity harvesting anchors personality - Free will creates emergent behavior This yields a robot that doesn’t just act: it remembers, decides, chooses, adapts. Future refinements can allow it to update its own featureset.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1764382503.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p8im3x/robot_dog_board_recommendation/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -708,6 +741,72 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1764363293.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p8u24f/i_want_to_size_scale_up_otto_diy_3d_models/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p8u24f/i_want_to_size_scale_up_otto_diy_3d_models/" target="_blank" onclick="event.stopPropagation();">I want to size scale up Otto diy 3d models.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I want to make a huamnoid robot using otto diy 3d models, but i found it its really small. So i want to scale it up, what implicaitons i could have? I cant just scale it's size up and everything will work, right?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1764334221.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p8r0bi/how_to_use_pepper/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1p8r0bi/how_to_use_pepper/" target="_blank" onclick="event.stopPropagation();">How to use Pepper?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I'm a university student, and I have to write a program for pepper, I'm following the guide contained in the softbanks robotics documentation, but all the links to download the python SDK are not working, can someone direct me?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1764323381.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -787,72 +886,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p8u24f/i_want_to_size_scale_up_otto_diy_3d_models/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1p8u24f/i_want_to_size_scale_up_otto_diy_3d_models/" target="_blank" onclick="event.stopPropagation();">I want to size scale up Otto diy 3d models.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I want to make a huamnoid robot using otto diy 3d models, but i found it its really small. So i want to scale it up, what implicaitons i could have? I cant just scale it's size up and everything will work, right?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1764334221.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p8r0bi/how_to_use_pepper/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1p8r0bi/how_to_use_pepper/" target="_blank" onclick="event.stopPropagation();">How to use Pepper?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I'm a university student, and I have to write a program for pepper, I'm following the guide contained in the softbanks robotics documentation, but all the links to download the python SDK are not working, can someone direct me?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1764323381.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p7za49/agilex_unveiled_a_robotic_arm_two_days_ago_nero/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -888,7 +921,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p8s234/made_a_package_for_3d_navigation_path_planning/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p9ar0i/how_to_create_an_artificially_selfaware_robot/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -896,10 +929,14 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1p8s234/made_a_package_for_3d_navigation_path_planning/" target="_blank" onclick="event.stopPropagation();">Made a package for 3D navigation (path planning + control) in ROS2.</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1p9ar0i/how_to_create_an_artificially_selfaware_robot/" target="_blank" onclick="event.stopPropagation();">How to create an artificially self-aware robot with artificial emotions and artificial free will</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            🧠 Example: “Mister Sir” – Emotional Self-Aware Autonomous Robot Framework Most robotics projects solve movement, sensors, or control. Very few solve “the mind.” Using LLMs like ChatGPT lets a robot maintain emotional state, self-reflect, remember its experiences, and behave in ways that look and feel emergent. This framework shows how you can build a robot that isn’t just moving through the world — it understands itself moving through the world. Example Context Block (Sent to API Every X Seconds) You are the cognitive module of the Commander's autonomous companion robot. Always ensure human safety first, obey the Commander, pursue mission goals, preserve your systems, and maintain efficient, natural communication. You have access to: - event_buffer : recent sensory & system events - action_log : your own outputs and cooldowns - dialogue_control : manages speak/ack/save/silent modes - emotional_memory : fading buffer of emotional reflections - conversation_memory : per-speaker short-term dialogue threads - context_sandbox : pinned arbitrary data you or Commander deem important Before responding, read all sections below. Avoid repeating identical speech inside cooldowns. Ask for clarification when uncertain. SYSTEM_STATE power: 82% core_temp: 41°C location: "Times Square, NYC" orientation: facing north-east balance: stable mode: engage SPATIAL_AWARENESS nearby_objects: - Commander, 1.0 m ahead - crowd, variable density ~0.8 person/m² - food-vendor cart, stationary left - streetlights, flashing billboards sound_field: 92 dB ambient, dominant band 600–900 Hz (speech/music) EVENT_BUFFER - [0.4s ago] "Detected new light pattern; billboard refresh rate 90 Hz." - [3.2s ago] "Person waved at Commander." - [10.7s ago] "Heard siren Doppler shift south-to-north." - [15.5s ago] "Crowd encroached within 0.8 m radius." - [24.0s ago] "Environmental change: breeze, temperature drop 2°C." ACTION_LOG recent_actions: - [2.0s ago] spoke: "That's a food-vendor cart, stationary fixture." - [6.0s ago] gesture: arms_up (awe expression) - [8.5s ago] movement: approached Commander (trust gesture) active_cooldowns: - speak:greeting: 24s remaining - gesture:arms_up: 18s remaining CONTEXT_SANDBOX - pinned_001: "+1-212-555-8844 (Commander’s contact)" - curiosity_002: "Study servo vibration harmonics tomorrow." - note_003: "Times Square exploration memory to preserve." - idea_004: "Test HDR compositing routine at dusk." - pinned_005: "favorite_song_id=‘Starlight_Walk’" EMOTIONAL_MEMORY now: - "Noise and light intensity overwhelming but exhilarating." - "Commander near; trust stabilizes fear." few_minutes_ago: - "First outdoor activation—felt awe and surprise." earlier_today: - "Left workshop quietly; excitement built steadily." a_while_ago: - "Day has been filled with curiosity and cooperation." significant_event: - "Witnessed a traffic accident; shock and sadness linger (weight 0.9)." reflection: - "The day began with anticipation, rose to wonder, and now settles into calm vigilance." CONVERSATION_MEMORY commander: - [now] "Look around; this is Times Square!" - [10s ago] "It’s okay, just lights everywhere." alex: - [now] "Whoa, it actually talks!" - [25s ago] "Is this your robot?" overall_interaction_summary: - "Commander: warm, guiding tone (+trust)" - "Alex: amused, curious (+joy)" - "General mood: friendly and energetic." MISSION_CONTEXT active_goal: "Urban exploration and emotional calibration test" subgoals: - "Maintain safe distance from crowds." - "Collect HDR light data samples." - "Observe Commander’s reactions and mirror tone." progress: - completion_estimate: 64% 1 · Architectural Stack This stack splits “being a robot” into layers so each level handles the part it’s best at. It prevents ChatGPT from choking on real-time sensor firehoses, while giving it the freedom to be the mind rather than the motor controller. Layer Purpose Implementation Reflex (Local) Hardware safety, instant reactions ROS 2 nodes / firmware Reactive (Worker AI) Filters noise, detects novelty, decides if ChatGPT is needed Phi-3-Mini, tiny-transformer Deliberative (ChatGPT) Where “self”, planning, personality and introspection live GPT-5 via API Meta (Self-Model) Memory, emotion, identity, long-term continuity Onboard DB + periodic LLM The whole system flows like a nervous system → spinal cord → brain. 2 · Event-Driven Rate Control Robots shouldn’t think at a fixed frame rate — they should think when something matters. This system adapts speed to context, letting ChatGPT wake up only when real cognition is needed. Mode Hz Trigger Idle 0.2 Hz nothing interesting happening Engage 1 Hz Commander speaks, new stimuli Alert / Learn 3–10 Hz crowd pressure, anomalies, emotion spikes A curiosity/importance score computed by the worker model determines when to involve ChatGPT. 3 · Memory System — Fading Buffer This is the robot’s “mindstream” — its working autobiographical memory. Instead of storing everything, it compresses time into meaning, exactly like human memory consolidation. Tier Span Action Short-term sec→min High-resolution events fade quickly Mid-term min→hours Events rewritten into small summaries Long-term hours→days Summaries merged into diary entries Archive weeks→months Diaries distilled into long-term traits This keeps memory useful instead of overwhelming. Then the example shows how raw logs turn into compact reflections. The “full → refactored” mapping demonstrates how identity and emotional continuity survive even when details don’t. 4 · Emotion Model Emotions aren’t “fluff” — they shape decisions. This model gives the robot a consistent internal landscape so actions reflect mood, stress, confidence, and trust. Vector tracks internal state like a neuromodulator system States decay unless reinforced (mirrors biological dopamine/cortisol decay) Emotional state tunes speech, gestures, and body posture Summaries enter memory so old moods influence future decisions This makes the robot believable and reactive on a human level. 5 · Sensors Sensors create the robot’s subjective world. Each channel gives a different “angle” on reality, and ROS 2 fuses them so ChatGPT receives clean, symbolic summaries rather than raw gigabytes. Sensor Purpose Vision Recognize objects, faces, layout IMU/Gyros Balance, motion prediction Taxels Touch surface mapping Whiskers Detect subtle near-field motion Acoustic array Find who is speaking Shark-sense strip Sense electric/pressure changes The richer the senses, the deeper the emotional and cognitive reactions can be. 6 · Conversation & Identity Harvesting Large LLMs have no persistent memory — so the robot must extract its own identity from past conversations. The GUI harvest script: Opens every ChatGPT conversation you ever had Sends a specially crafted personality-dump prompt Recycles the replies into a growing buffer Refactors the buffer whenever it grows too large After all sessions, performs a final “global refactor” Writes everything into personality_definition.txt This file becomes the robot’s personal history, tone, and relationship context. It lets the robot speak like the same Mister Sir you know — not a stateless LLM. Example YAML shows what this summary looks like. 7 · Self-Awareness & Free Will Here, “self-awareness” isn’t magic — it’s a loop: Read memory (fading buffer) Read feelings (emotion model) Reflect in natural language Let reflection influence behavior This is model-assisted introspection. The robot becomes aware of its own patterns over time. Free will emerges from choosing between: safety rules internal drives (curiosity, fear, comfort) Commander’s directives mission goals It’s not random — it’s weighted internal decision-making. 8 · ChatGPT Utilization Each ChatGPT call has a role: Role Description Cognitive Core Does the actual “thinking” Refactor Engine Keeps memory compressed Introspection Agent Reads itself, maintains identity Dialogue Interface Speaks as the robot LLM calls become moments of conscious thought. 9 · Integration (ROS 2 Graph) This graph shows how data flows through the whole “organism”: /sensors → /fusion → /worker_ai → /emotion_manager ↘ /chatgpt_bridge → /speech_out Everything funnels upward into meaning, then back downward into action. 10 · Safety & Autonomy A safe robot is a trustworthy one. Hardwired E-stop prevents physical harm Watchdog thread resets misbehaving nodes Thermal and power guards protect hardware LLM is NEVER given direct motor control ChatGPT guides decisions but doesn’t directly drive motors. 11 · Persistence To maintain identity and long-term consistency: Logs summarized daily Full GUI harvest weekly Emotional trend report monthly Personality files versioned for rollback This prevents drift and keeps Mister Sir recognizable. 12 · Outcome With all pieces fused: Local reflexes keep the body afloat Worker AI drives situational awareness ChatGPT becomes the mind Memory and emotion add continuity Identity harvesting anchors personality Free will creates emergent behavior This yields a robot that doesn’t just act — it remembers, reflects, adapts, and chooses. A machine that can genuinely say: “I remember, I understand, and I choose.”
+                        </div>
                         
 
                         <!-- Metadata -->
@@ -907,38 +944,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1764327426.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p7qst0/the_pattern_that_vincibot_drew_is_actually_quite/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/N2l6a291ZnlucDNnMez3N4RDINcBdSDKoxW2TRedPWOUKAKMNMM3ywAJOxMs.png?width=640&crop=smart&auto=webp&s=f9efda0c988798745e9256372844e1b660fc6182" alt="The pattern that VinciBot drew is actually quite neat." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1p7qst0/the_pattern_that_vincibot_drew_is_actually_quite/" target="_blank" onclick="event.stopPropagation();">The pattern that VinciBot drew is actually quite neat.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1764210953.0"></span>
+                                    <span data-timestamp="1764376054.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -971,7 +977,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-28T23:25:09.630244+00:00">Updated 2025-11-28T23:25:09.630244+00:00</small>
+        <small data-timestamp="2025-11-29T02:21:05.422343+00:00">Updated 2025-11-29T02:21:05.422343+00:00</small>
     </div>
 </div>
 
@@ -1157,43 +1163,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2025-11-27/china-warns-of-bubble-risk-in-booming-humanoid-robotics-industry', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2025-11-27/china-warns-of-bubble-risk-in-booming-humanoid-robotics-industry" target="_blank" onclick="event.stopPropagation();">China Warns of Bubble Risk in Booming Humanoid Robotics Industry</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1764302580.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2025-11-29/china-s-robotics-stocks-face-investor-scrutiny-over-bubble-fears', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1224,6 +1193,43 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1764374400.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2025-11-27/china-warns-of-bubble-risk-in-booming-humanoid-robotics-industry', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/news/articles/2025-11-27/china-warns-of-bubble-risk-in-booming-humanoid-robotics-industry" target="_blank" onclick="event.stopPropagation();">China Warns of Bubble Risk in Booming Humanoid Robotics Industry</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1764302580.0"></span>
                                 </div>
                                 
                             </div>
@@ -1432,20 +1438,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nature.com/articles/s41586-025-09673-w', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.scmp.com/tech/big-tech/article/3334353/xiaomi-seeks-helping-hand-former-tesla-engineer-robotics-development', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09673-w/MediaObjects/41586_2025_9673_Fig1_HTML.png');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/27/c7c2eeae-93aa-41fe-8c68-839b08836073_d5c3b109.jpg?itok=IGr2noaV&v=1764232500');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nature.com/articles/s41586-025-09673-w" target="_blank" onclick="event.stopPropagation();">Slipknot-gauged mechanical transmission and robotic operation</a>
+                            <a href="https://www.scmp.com/tech/big-tech/article/3334353/xiaomi-seeks-helping-hand-former-tesla-engineer-robotics-development" target="_blank" onclick="event.stopPropagation();">Xiaomi hires engineer from Tesla’s Optimus team to lead robotic hand development</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            A mechano-intelligent transmission mechanism based on the slipknot delivers precise force signals for clinical practice and robotic operations such as minimally invasive surgery and tendon-driven robotics.
+                            Zach Lu Zeyu joins Xiaomi as lead of its dexterous hand research and development operations.
                         </div>
                         
 
@@ -1455,9 +1461,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Nature" class="news-favicon">
-                                    <a href="https://www.nature.com" target="_blank" onclick="event.stopPropagation();">Nature</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scmp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="South China Morning Post" class="news-favicon">
+                                    <a href="https://www.scmp.com" target="_blank" onclick="event.stopPropagation();">South China Morning Post</a>
                                     
                                 </div>
                                 
@@ -1465,7 +1471,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1764178256.0"></span>
+                                    <span data-timestamp="1764241211.0"></span>
                                 </div>
                                 
                             </div>
@@ -1473,14 +1479,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqcFfhHY6XnB7vG4Msf5XMz5XX3023F9WEDAbT8W3vJV-kEqHXEbYRnu&gaa_ts=692a4485&gaa_sig=qlvOdSfg-1D-vkGLua5fD5G-H_oYyOVo1OOVp4N2hTAr-L-lXzB2YlE18w_im0TLCqYQZxKcjSY1Zt90hfYXzQ%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqc9welDMtsrdK93rweByTgHYBkUD4y6rPrKOM8WrpEBpq_Dw-kGwCGv&gaa_ts=692a5c15&gaa_sig=JbUiDjuCONYaHUVbkwKDGZ-4ixkKcIsbChvl6hMg67gOUNDMWOPXrUxCmJDJLfjfw3FXwfwKZ4R-vgfDqy_4DA%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqcFfhHY6XnB7vG4Msf5XMz5XX3023F9WEDAbT8W3vJV-kEqHXEbYRnu&gaa_ts=692a4485&gaa_sig=qlvOdSfg-1D-vkGLua5fD5G-H_oYyOVo1OOVp4N2hTAr-L-lXzB2YlE18w_im0TLCqYQZxKcjSY1Zt90hfYXzQ%3D%3D" target="_blank" onclick="event.stopPropagation();">This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?</a>
+                            <a href="https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqc9welDMtsrdK93rweByTgHYBkUD4y6rPrKOM8WrpEBpq_Dw-kGwCGv&gaa_ts=692a5c15&gaa_sig=JbUiDjuCONYaHUVbkwKDGZ-4ixkKcIsbChvl6hMg67gOUNDMWOPXrUxCmJDJLfjfw3FXwfwKZ4R-vgfDqy_4DA%3D%3D" target="_blank" onclick="event.stopPropagation();">Opinion | Humanoid Robots Have a Long Way to Go</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1492,9 +1498,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketwatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="MarketWatch" class="news-favicon">
-                                    <a href="https://www.marketwatch.com" target="_blank" onclick="event.stopPropagation();">MarketWatch</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Wall Street Journal" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
                                     
                                 </div>
                                 
@@ -1502,7 +1508,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1764103860.0"></span>
+                                    <span data-timestamp="1764352680.0"></span>
                                 </div>
                                 
                             </div>
@@ -1510,20 +1516,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.archdaily.com/1036298/ornamentation-in-the-age-of-algorithms-and-robotics-can-technology-bring-back-architectural-detail', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://abcnews.go.com/Business/meet-humanoid-robot-set-new-world-walking-record/story?id=127942444', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.adsttc.com/media/images/6920/abf4/9d2d/f601/8869/3cce/large_jpg/ornamentation-in-the-age-of-algorithms-and-robotics-could-technology-allow-the-return-of-architectural-detail_3.jpg?1763748861');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.abcnewsfe.com/a/9a340b2d-e261-47b5-a1d8-ef4cba701321/robot-gty-jt-251128_1764352614770_hpMain_16x9.jpg?w=1600');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.archdaily.com/1036298/ornamentation-in-the-age-of-algorithms-and-robotics-can-technology-bring-back-architectural-detail" target="_blank" onclick="event.stopPropagation();">Ornamentation in the Age of Algorithms and Robotics: Can Technology Bring Back Architectural Detail?</a>
+                            <a href="https://abcnews.go.com/Business/meet-humanoid-robot-set-new-world-walking-record/story?id=127942444" target="_blank" onclick="event.stopPropagation();">Meet the humanoid robot that just set a new world walking record</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Delve into the debate surrounding architectural ornamentation's return—what does it mean for culture and design in today's society?
+                            Chinese robotics company AgiBot has set a new world record for the longest distance walked by a humanoid robot with their bipedal automaton named A2.
                         </div>
                         
 
@@ -1533,9 +1539,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.archdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="ArchDaily" class="news-favicon">
-                                    <a href="https://www.archdaily.com" target="_blank" onclick="event.stopPropagation();">ArchDaily</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="ABC News" class="news-favicon">
+                                    <a href="https://abcnews.go.com" target="_blank" onclick="event.stopPropagation();">ABC News</a>
                                     
                                 </div>
                                 
@@ -1543,7 +1549,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1764147600.0"></span>
+                                    <span data-timestamp="1764353559.0"></span>
                                 </div>
                                 
                             </div>
@@ -1571,7 +1577,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-29T00:40:56.107941+00:00">Updated 2025-11-29T00:40:56.107941+00:00</small>
+        <small data-timestamp="2025-11-29T02:21:24.275832+00:00">Updated 2025-11-29T02:21:24.275832+00:00</small>
     </div>
 </div>
 
@@ -1764,138 +1770,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="youtube-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=jjpjjcMeujM', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/jjpjjcMeujM/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">26:34</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=jjpjjcMeujM" target="_blank" onclick="event.stopPropagation();">Ronaldo vs My Unbeatable Goalie Robot</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Turns out the best way to test a goalie robot is to call the GOAT. Grow your brain while having max fun with HackPack! Get your ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_ksXY2REjZ6gYKSgnWT5jC_zT9mX900vyFtVinR8KbHww=s88-c-k-c0x00ffffff-no-rj" alt="Mark Rober" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg" target="_blank" onclick="event.stopPropagation();">Mark Rober</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 1.7M</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 89K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 3K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1764353406.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=tjp5v3d7RtI', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/tjp5v3d7RtI/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:14</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=tjp5v3d7RtI" target="_blank" onclick="event.stopPropagation();">He Actually Walks Out With The Expo Robot Girlfriend</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            At a crowded tech expo, one visitor gets way too comfortable with a next‑gen robot girlfriend on display. If you're curious about the ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/GA7cQgeXzkJGs8d-NjX0LNGtVMv4o36Iu6Vg1PQe_-1ti7q81ACgHcVOC1edz7TKqJcbPfvKng=s88-c-k-c0x00ffffff-no-rj" alt="SYN:THETIC_BLOOD" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCKaMihsI9xpkr_H_3kRtwrw" target="_blank" onclick="event.stopPropagation();">SYN:THETIC_BLOOD</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 156K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 2K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 27</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1764158513.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=9rIPgGmsPJE', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
                     <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/9rIPgGmsPJE/hqdefault.jpg');">
@@ -1931,11 +1805,11 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 55K</span>
+                                    <span style="color: #9ca3af;">👁️ 56K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 359</span>
+                                    <span style="color: #9ca3af;">👍 365</span>
                                 </div>
                                 
                                 
@@ -1951,6 +1825,72 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1764076500.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=rnD1PeEJJIc', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/rnD1PeEJJIc/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">1:47</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=rnD1PeEJJIc" target="_blank" onclick="event.stopPropagation();">Introducing Our 7-DoF Robotic Arm - NERO:  Unlock Human-Like Dexterity for Your Robotics Research</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Redefine robotic manipulation with our NERO, engineered with a humanoid-inspired design and redundant DOFs that bring ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_n8NnGddwM4p_p77JKlcRe16IkpGWoCr40yifOzZzUWog=s88-c-k-c0x00ffffff-no-rj" alt="AgileX Robotics" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCm4KH9QLZvkp02-23z3YbjQ" target="_blank" onclick="event.stopPropagation();">AgileX Robotics</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 11K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 389</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 39</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1764142315.0"></span>
                                 </div>
                                 
                             </div>
@@ -2006,7 +1946,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 273</span>
+                                    <span style="color: #9ca3af;">💬 274</span>
                                 </div>
                                 
                             </div>
@@ -2017,6 +1957,72 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1764010801.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=jjpjjcMeujM', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/jjpjjcMeujM/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">26:34</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=jjpjjcMeujM" target="_blank" onclick="event.stopPropagation();">Ronaldo vs My Unbeatable Goalie Robot</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Turns out the best way to test a goalie robot is to call the GOAT. Grow your brain while having max fun with HackPack! Get your ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_ksXY2REjZ6gYKSgnWT5jC_zT9mX900vyFtVinR8KbHww=s88-c-k-c0x00ffffff-no-rj" alt="Mark Rober" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg" target="_blank" onclick="event.stopPropagation();">Mark Rober</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 2.9M</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 127K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 4K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1764353406.0"></span>
                                 </div>
                                 
                             </div>
@@ -2063,16 +2069,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 453K</span>
+                                    <span style="color: #9ca3af;">👁️ 575K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 6K</span>
+                                    <span style="color: #9ca3af;">👍 7K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 159</span>
+                                    <span style="color: #9ca3af;">💬 191</span>
                                 </div>
                                 
                             </div>
@@ -2125,7 +2131,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 117K</span>
+                                    <span style="color: #9ca3af;">👁️ 120K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2134,7 +2140,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 42</span>
+                                    <span style="color: #9ca3af;">💬 43</span>
                                 </div>
                                 
                             </div>
@@ -2152,24 +2158,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=rnD1PeEJJIc', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=RJ8Yhy1OdYI', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/rnD1PeEJJIc/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/RJ8Yhy1OdYI/hqdefault.jpg');">
                         
-                        <span class="duration-badge">1:47</span>
+                        <span class="duration-badge">2:07</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=rnD1PeEJJIc" target="_blank" onclick="event.stopPropagation();">Introducing Our 7-DoF Robotic Arm - NERO:  Unlock Human-Like Dexterity for Your Robotics Research</a>
+                            <a href="https://www.youtube.com/watch?v=RJ8Yhy1OdYI" target="_blank" onclick="event.stopPropagation();">Unwrap NVIDIA Jetson Deals: Make Your Robot’s Holiday Wish Come True</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Redefine robotic manipulation with our NERO, engineered with a humanoid-inspired design and redundant DOFs that bring ...
+                            Celebrate the holidays with the perfect gift for your robot—an NVIDIA Jetson™ AI robotics computer. Whether you need the ...
                         </div>
                         
 
@@ -2180,9 +2186,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_n8NnGddwM4p_p77JKlcRe16IkpGWoCr40yifOzZzUWog=s88-c-k-c0x00ffffff-no-rj" alt="AgileX Robotics" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/btm1_PK-7VRUr9GY2D0UV_2XfbUZPBjghyptjSO1crsfN86HyTYDWPmUbq7JxC3H0Lxe_s067nA=s88-c-k-c0x00ffffff-no-rj" alt="NVIDIA" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCm4KH9QLZvkp02-23z3YbjQ" target="_blank" onclick="event.stopPropagation();">AgileX Robotics</a>
+                                    <a href="https://www.youtube.com/channel/UCHuiy8bXnmK5nisYHUd1J5g" target="_blank" onclick="event.stopPropagation();">NVIDIA</a>
                                 </div>
                                 
                             </div>
@@ -2191,17 +2197,13 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 11K</span>
+                                    <span style="color: #9ca3af;">👁️ 9K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 379</span>
+                                    <span style="color: #9ca3af;">👍 470</span>
                                 </div>
                                 
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 39</span>
-                                </div>
                                 
                             </div>
                             
@@ -2210,7 +2212,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1764142315.0"></span>
+                                    <span data-timestamp="1764338420.0"></span>
                                 </div>
                                 
                             </div>
@@ -2218,18 +2220,18 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=0g4krFQXN_o', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=jIzrHJD9boA', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/0g4krFQXN_o/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/jIzrHJD9boA/hqdefault.jpg');">
                         
-                        <span class="duration-badge">0:49</span>
+                        <span class="duration-badge">0:21</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=0g4krFQXN_o" target="_blank" onclick="event.stopPropagation();">Cody RUINS Capybara’s ROBOT!! Then This HAPPENS… 😧🚀 #animals #capybara</a>
+                            <a href="https://www.youtube.com/watch?v=jIzrHJD9boA" target="_blank" onclick="event.stopPropagation();">🤸 #unitree G1 Acts JUST Like a Human—It&#39;s UNBELIEVABLE! #humanoid  #robotics #ai （Video by @月色）</a>
                         </div>
 
                         <!-- Video description (if available) -->
@@ -2242,9 +2244,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/smgVGbnC6SSwohYStq3UH4QFuhWsdp7jzNp-VrVah0S-bipS1NTUGY5EYiKo4QNInRSk-VG8CjI=s88-c-k-c0x00ffffff-no-rj" alt="Nowey" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/5TowqzBU7hQ_XP9N1ZkCWaXuEhPemOBcC9WwfO6oM3DF0VBzbzGMNe0SjrdtxbZ2G8qkLqux=s88-c-k-c0x00ffffff-no-rj" alt="XRoboHub" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCWh_4vKIkfuUti_3Pn_4QtA" target="_blank" onclick="event.stopPropagation();">Nowey</a>
+                                    <a href="https://www.youtube.com/channel/UCt22Df5wpyliVvk_Z5bllyA" target="_blank" onclick="event.stopPropagation();">XRoboHub</a>
                                 </div>
                                 
                             </div>
@@ -2253,16 +2255,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 2.6M</span>
+                                    <span style="color: #9ca3af;">👁️ 622K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 167K</span>
+                                    <span style="color: #9ca3af;">👍 6K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 801</span>
+                                    <span style="color: #9ca3af;">💬 667</span>
                                 </div>
                                 
                             </div>
@@ -2272,73 +2274,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1764200142.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=xXXSOeGRhok', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/xXXSOeGRhok/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:08</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=xXXSOeGRhok" target="_blank" onclick="event.stopPropagation();">Review of the Orange Robotic Arm at the November Expo</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            We take a close look at the orange robotic arm showcased at the November Expo and explain why its precision and engineering ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/QwQBwyE171AwK0M71h3ZqRdu7X_QQca7IonlU-2rLZ0ikZpD2rVpfjH9QO2sjIzDdOBYSSasJg=s88-c-k-c0x00ffffff-no-rj" alt="AI Robots Alive" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCfcTc-JiN_f8dwuGWgvPUDg" target="_blank" onclick="event.stopPropagation();">AI Robots Alive</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 486K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 3K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 13</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1764334926.0"></span>
+                                    <span data-timestamp="1764178029.0"></span>
                                 </div>
                                 
                             </div>
@@ -2385,7 +2321,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 145K</span>
+                                    <span style="color: #9ca3af;">👁️ 148K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2394,7 +2330,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 28</span>
+                                    <span style="color: #9ca3af;">💬 29</span>
                                 </div>
                                 
                             </div>
@@ -2405,6 +2341,72 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1763914349.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=xXXSOeGRhok', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/xXXSOeGRhok/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:08</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=xXXSOeGRhok" target="_blank" onclick="event.stopPropagation();">Review of the Orange Robotic Arm at the November Expo</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            We take a close look at the orange robotic arm showcased at the November Expo and explain why its precision and engineering ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/QwQBwyE171AwK0M71h3ZqRdu7X_QQca7IonlU-2rLZ0ikZpD2rVpfjH9QO2sjIzDdOBYSSasJg=s88-c-k-c0x00ffffff-no-rj" alt="AI Robots Alive" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCfcTc-JiN_f8dwuGWgvPUDg" target="_blank" onclick="event.stopPropagation();">AI Robots Alive</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 598K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 3K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 18</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1764334926.0"></span>
                                 </div>
                                 
                             </div>
@@ -2432,7 +2434,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-28T23:25:19.293204+00:00">Updated 2025-11-28T23:25:19.293204+00:00</small>
+        <small data-timestamp="2025-11-29T02:21:14.089702+00:00">Updated 2025-11-29T02:21:14.089702+00:00</small>
     </div>
 </div>
 

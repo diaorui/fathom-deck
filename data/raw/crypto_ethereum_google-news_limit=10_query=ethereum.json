@@ -25,14 +25,14 @@
       "description": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
     },
     {
-      "headline": "Peter Schiff Says Bitcoin, Ethereum Treasury Companies Have 'No Viable Business Model'",
+      "headline": "Ethereum vs. Solana 2026: Which Blockchain Will Deliver Better Returns?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcC1Qalh1SzNIMmRmYlpNV3dWNERXRTg4cGl5YV9iUzd4clc1WHJMeklCRDZUbFZDNDFSSWhjWXNEVE9oREYyNTFYZUw5TmQwS3N4eEtxUzRwcnZKOTBILUVZbnBmTjNNYTFMMG9NOVRscUlpZ3hVb2RPRlRzWEZwenBGSEJTV2s?oc=5",
-      "pub_date": 1764270052.0,
-      "article_url": "https://finance.yahoo.com/news/peter-schiff-says-bitcoin-ethereum-190052789.html",
-      "image": "https://media.zenfs.com/en/benzinga_79/2fcea7f84db761ff86176652b79e7a5d",
-      "description": "Peter Schiff is once again sounding the alarm, this time warning that companies using Bitcoin (CRYPTO: BTC) or Ethereum (CRYPTO: ETH) as corporate treasury strategies are ultimately doomed. What Happened: Speaking on Schwab Network, Schiff argued that ..."
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0dUR1c0eFdpYlMwTzZiZnZDWHhWN3hpSjR4blRmVi1VMW0xX0tBQl82dDIyYnJXcjhsR3lZc3huZ3g5RVd3aG5HN1ZCdHFRWFdDbnVNaVBSVl9zQk9hM0hndlN4VjBMRU5FVERZS3dpTWNEVUI3SG9sZG1mOXFPVmxFREFfYkU?oc=5",
+      "pub_date": 1764173978.0,
+      "article_url": "https://finance.yahoo.com/news/ethereum-vs-solana-2026-blockchain-161938236.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/p.rE6dfgFSrj6SyxTgp7Yw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/c446a843c2217451f6f7664922f3af97",
+      "description": "Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) approach 2026 with contrasting positions. Ethereum remains institutionalized, but its expansion relies entirely on Layer 2s rather than mainnet power. Solana, on the other hand, is coming off a year of record on-chain activity: 186% year-over-year revenue growth, and rising institutional interest through new ETFs. Both chains have ... Ethereum vs. Solana 2026: Which Blockchain Will Deliver Better Returns?"
     },
     {
       "headline": "RWA News: European Asset Manager Amundi Debuts Tokenized Share Class on Ethereum",
@@ -45,16 +45,6 @@
       "description": null
     },
     {
-      "headline": "2 Catalysts That Suggest Ethereum's 12% Weekly Move Can Continue Into Year End",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTV9GRDhNV0trREVFQkIyTFVHMTB0eUNHeVJpYUJybENwbEdSdEJkeWZSMXA5VVkwYTJLZWJHaUJWY3lFRWEtbEtmZU50U2RBajJQN2R4czVyZmNNRTIwMmtPVnFmVVJqZVlaVHNYRnR0T0FFSnRiQVVISnBUUTd3QXVsMk0yeEVpNlBkQklibm9PUTNaRlVn?oc=5",
-      "pub_date": 1764362700.0,
-      "article_url": "https://www.fool.com/investing/2025/11/28/2-catalysts-that-suggest-ethereums-12-weekly-move/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844826%2Fethereum.jpg&w=1200&op=resize",
-      "description": "Ethereum's impressive rally over this past week could just be getting started."
-    },
-    {
       "headline": "How the Fusaka upgrade fits into Ethereum\u2019s long-term roadmap",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -65,12 +55,22 @@
       "description": "What is Fusaka?  On Dec. 3, 2025, Ethereum will activate the Fusaka upgrade on mainnet, its second major hard fork of the year after Pectra in May.Rollups now carry the bulk of Ethereum transactions and fee revenue, yet they are still constrained by how much data they can post back to the layer 1 a\u2026"
     },
     {
+      "headline": "2 Catalysts That Suggest Ethereum's 12% Weekly Move Can Continue Into Year End",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTV9GRDhNV0trREVFQkIyTFVHMTB0eUNHeVJpYUJybENwbEdSdEJkeWZSMXA5VVkwYTJLZWJHaUJWY3lFRWEtbEtmZU50U2RBajJQN2R4czVyZmNNRTIwMmtPVnFmVVJqZVlaVHNYRnR0T0FFSnRiQVVISnBUUTd3QXVsMk0yeEVpNlBkQklibm9PUTNaRlVn?oc=5",
+      "pub_date": 1764362700.0,
+      "article_url": "https://www.fool.com/investing/2025/11/28/2-catalysts-that-suggest-ethereums-12-weekly-move/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844826%2Fethereum.jpg&w=1200&op=resize",
+      "description": "Ethereum's impressive rally over this past week could just be getting started."
+    },
+    {
       "headline": "Bitcoin Surges Without Help From the U.S. Stock Market. Why That's a Good Sign for Cryptos.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPTExqWEtlT05QR3MwYnoyYXBkZHdEYkQ1MVFZVXdXTEU4eEhkVmY1RTZEaVVMVkhKblhrWWp5RFl4TWUybmptTi0tN3dXLWljV0NLZU5qYy1OemZPbVk1LXctNEI0SXF1a05jZEN3bGVLOGZZYTdPRkU0eDk1Nkgtd0tsa29BVlB2SVNkcTlIem5qTG03T3dDMGtzMkt0TkxpYTVGWHAtS05jbkJ0QlM5eUUzVk9JR2xCQmV6S0prMkpMOEtHSTVzZFRCdnhKRFFKUUt1VDM4VXI1OEZ6VHhEWFl5Q0FzS0pRUTRGSjNLOWlBYkJBd0xrM09za2JDeVhQd21uQ2F6R2dxQWNhV1M5cVRmVHBnRXFTaGludUN2X0VteVYtbV8wdXhQNjg5dHJ2ZUZoOGhZVGlKX0lYaDBSVDZxRlYtQWstQkZXTGo2NUR3eGMyR3hIMUl1cFlKREZ3aEF1Z2FfeFg4RHVfTDE5T1VndDM4Zlp0dmEzbTZ0ZEF2VkYzbE5pRl9NS3ZRdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOYTlDNHU2MUVMNHZqbzRQdjFoY0FiUFhSbTNFUkpDdmUtd2xqRV9OaUxUeXN5aWtLbFZuVTlXTFhIUFA1bm56SXlNZHlaZkE1aFAxdDhTMzlhcTEwQ3A5bWMwMVlTX0JGVm5ibFRTV0p0ZUFma2lyUXcyNG5vbjhvRk1sYTczQkJDM1JIQUM4OEROT2xXVVR2dTNhNlRfYUd6cGxnQmg0TTdwa3B1TUVocDVPWF9nUG9wNVJBeUtNb3d3eUtZNmJJcTk1TkdNOWxtelVWdWM2dFdoejh4d0lIcHBWdG85eEhXQlY2ak5VelVRMGtFRGE0ZFBlSzBJOHNsczdwTkRDdW1yX2FGRmowUVVWZ3BDQ2p5QXFTZjV4bEVsRncwajhBSzF6QWpCdEFtTFlkYzhxckxlQjFIdUdjeHREMzZkMGU1ZG1SZFpYT0ctcGY2aGtzUTB5dGx0Q09jSUlaaGdqWlpEa0p3V3hVV0NyTDhJR0UzRXFVR2lRV29LUGJ4bDhscWVxUVcyUQ?oc=5",
       "pub_date": 1764242580.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-thanksgiving-88abf9ff?gaa_at=eafs&gaa_n=AWEtsqfd8eEiQy6xfMZFS5IxUKkh7SGx4GMrZBsS9ELusHEbSDfTLgkXL0v1&gaa_ts=692a4483&gaa_sig=3kbeClBgs01p4nQIrDph72jJWZNf8APR5NehEHm3SZpDkMJSV6UIUkL8cK1I1az1JISwsPF2vhjCX-F4RNN8Cw%3D%3D",
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-thanksgiving-88abf9ff?gaa_at=eafs&gaa_n=AWEtsqcMkRISUqLRwnsfoJV0fC57y5grFeGgJEp-rfe1sxpW9hTfC2pURS4B&gaa_ts=692a5c13&gaa_sig=R-sbp08K11NMvMh-9OtHqzg3tGqBDXGnL7WjQyowBZph4wRmzsPyVglk5pFszpfyP-gzlSER6qvvwv8ECmRW6A%3D%3D",
       "image": null,
       "description": null
     },
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "Ethereum vs. Solana 2026: Which Blockchain Will Deliver Better Returns?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFhjVmRvbXNMNm1IV0NWNEFlV2IzU1BhUkt0SEYxNVFkNlk3WkhpSVlPNjNScG5ycWN5Ml9fbGNaRjZzUUxXeHhQdGZxQ1F6LVo2VzZfUXdGSWdxb18xMDRjYU4wMUp1aE9vRXBreVhNMHZPN1BzMHZsd19BaGh2bF9SNDdwOFVvdnY1RG5adzNvT0czQW1ncnhadERBd2J2NkRsckI0OVc3UTdhYlMwMWFR?oc=5",
-      "pub_date": 1764152378.0,
-      "article_url": "https://247wallst.com/investing/2025/11/26/ethereum-vs-solana-2026-which-blockchain-will-deliver-better-returns/",
-      "image": "https://247wallst.com/wp-content/uploads/2024/04/shutterstock-1106739479-huge-licensed-scaled.jpg",
-      "description": "Ethereum and Solana enter 2026 with diverging fundamentals. ETH relies on L2 scaling while SOL shows record activity and $476M ETF inflows."
+      "headline": "Large cryptocurrencies mixed as Ethereum increases",
+      "source": "marketwatch.com",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxObjZvTzlxYlVRd0RxaXJuLVVvYk1DbE84NFN4MXFmOVQ4ZUJGcVFIYjg3SmlOR1ZHWkViNWpvOUUyWkYtZHB4V2plTTlDUFg2V01RaVJrQ1M2SzZLNzdpd1F0ZzN0S1JWV3NWVEdDVHA1RWF6SFhEcGQ1c2JnWEFQVlpoWlY2RzVTSzk1Tm1WZ0hsZmxtWGtDWXNiODVYUFJlZ19RR01JaldzazBVTnBJQjh0TDJvVFhzU0trZlhlTHlUVGI4WHJRS01CSUMxaTZMS2hfVjExZUVxUm1mUnNpNUZKWDVab1ZXRVRmQXdvZmlLSFFtX2RzRGc3YV9aM3JjWkRjT2gtS1NaNW45RS1ReHk4NVRQNlFqMG5tNjh5ZUVLQWR6ei1pcU5CaUxjeC1uYWdCbkViVjVILUYyUXFZaV9YZDhYOVdqbnhHNXktQXRKYklzMW5aVjhjUFFOakhTMTBuWDF0ZERfcjFWUmZDYmdvVUNJZHZQZ0k4bU02MWR2ZUREQU9DUHItV25qMUlrUEpGYUNRSmNDTVctQU1fc1ZqUHRkWnQzS05OWldQeVB3cC05?oc=5",
+      "pub_date": 1764342000.0,
+      "article_url": "https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-increases-2d44796b-6512c9777c5b?gaa_at=eafs&gaa_n=AWEtsqfuUxp9e8Fkh4kJe8LVxx62iC77FHYqt9vbLKEqrcGfnP2jCXwmZBlw&gaa_ts=692a5c13&gaa_sig=NEwh-7EdwAP8my89XWQTkAwo_lcxcZz1_pCFhNGY5i6EsjgdU7RRA6On7QCuxCWfE9Mgx5QplXIX1fnHAfOqRw%3D%3D",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T00:40:50.278005+00:00"
+  "fetched_at": "2025-11-29T02:21:25.478670+00:00"
 }

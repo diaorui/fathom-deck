@@ -23,7 +23,7 @@
       "url": "https://replaceyourboss.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=46072002",
       "author": "_tk_",
-      "points": 433,
+      "points": 434,
       "num_comments": 175,
       "created_at": "2025-11-27T18:37:41Z",
       "object_id": "46072002",
@@ -37,7 +37,7 @@
       "url": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
       "hn_url": "https://news.ycombinator.com/item?id=46069048",
       "author": "vegasbrianc",
-      "points": 416,
+      "points": 417,
       "num_comments": 307,
       "created_at": "2025-11-27T13:28:34Z",
       "object_id": "46069048",
@@ -51,8 +51,8 @@
       "url": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
       "hn_url": "https://news.ycombinator.com/item?id=46083004",
       "author": "pyrophoenix",
-      "points": 358,
-      "num_comments": 101,
+      "points": 369,
+      "num_comments": 107,
       "created_at": "2025-11-28T21:40:21Z",
       "object_id": "46083004",
       "image": "https://www.airbus.com/sites/g/files/jlcbta136/files/styles/thumbnail/public/2025-09/airbus-sharing-default.png?itok=AqaYIUdZ",
@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46080289",
       "author": "azinman2",
       "points": 235,
-      "num_comments": 72,
+      "num_comments": 73,
       "created_at": "2025-11-28T16:49:12Z",
       "object_id": "46080289",
       "image": "https://objectiveunclear.com/images/airloom.png",
@@ -107,7 +107,7 @@
       "url": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1",
       "hn_url": "https://news.ycombinator.com/item?id=46077038",
       "author": "thm",
-      "points": 197,
+      "points": 198,
       "num_comments": 197,
       "created_at": "2025-11-28T09:21:55Z",
       "object_id": "46077038",
@@ -115,20 +115,6 @@
       "description": null,
       "favicon": null,
       "site_name": "wsj.com"
-    },
-    {
-      "title": "Indie game developers have a new sales pitch: being 'AI free'",
-      "url": "https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders",
-      "hn_url": "https://news.ycombinator.com/item?id=46057000",
-      "author": "01-_-",
-      "points": 192,
-      "num_comments": 159,
-      "created_at": "2025-11-26T13:05:33Z",
-      "object_id": "46057000",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_6151f4f1d8c8a80cf4e98f7381b775f3e405fb3b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "description": "\u201cWe can produce results that meet our quality standards without its assistance.\u201d",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "site_name": "The Verge"
     },
     {
       "title": "AI Adoption Rates Starting to Flatten Out",
@@ -143,9 +129,23 @@
       "description": "Data from the Census Bureau and Ramp shows that AI adoption rates are starting to flatten out across all firm...",
       "favicon": "https://www.apolloacademy.com/wp-content/uploads/2022/06/cropped-cropped-Apollo-Academy-Site-Icon-180x180.jpg",
       "site_name": "Apollo Academy"
+    },
+    {
+      "title": "A trillion dollars (potentially) wasted on gen-AI",
+      "url": "https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible",
+      "hn_url": "https://news.ycombinator.com/item?id=46078407",
+      "author": "flail",
+      "points": 122,
+      "num_comments": 123,
+      "created_at": "2025-11-28T13:21:17Z",
+      "object_id": "46078407",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "garymarcus.substack.com"
     }
   ],
-  "total_hits": 353,
+  "total_hits": 351,
   "has_metadata": true,
-  "fetched_at": "2025-11-29T12:42:57.343566+00:00"
+  "fetched_at": "2025-11-29T13:16:16.219537+00:00"
 }

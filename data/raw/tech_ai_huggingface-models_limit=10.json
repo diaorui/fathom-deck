@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 31451,
-      "likes": 1225,
+      "likes": 1232,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-28T13:15:09.000Z",
@@ -39,7 +39,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HunyuanOCR.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
       "downloads": 59610,
-      "likes": 502,
+      "likes": 504,
       "pipeline_tag": "image-text-to-text",
       "num_parameters": "996.2M",
       "last_modified": "2025-11-27T14:01:50.000Z",
@@ -69,7 +69,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/facebook/sam3.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1592839207516-noauth.png",
       "downloads": 234428,
-      "likes": 771,
+      "likes": 772,
       "pipeline_tag": "mask-generation",
       "num_parameters": "859.9M",
       "last_modified": "2025-11-20T22:05:08.000Z",
@@ -114,7 +114,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Comfy-Org/z_image_turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63462c815efccdc07f175568/3ZxGxVKftaTTjduryN7g7.png",
       "downloads": 679715,
-      "likes": 237,
+      "likes": 238,
       "pipeline_tag": null,
       "num_parameters": null,
       "last_modified": "2025-11-27T04:15:24.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-29T12:43:08.993591+00:00"
+  "fetched_at": "2025-11-29T13:16:27.657338+00:00"
 }

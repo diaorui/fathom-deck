@@ -45,16 +45,6 @@
       "description": "While China positions humanoid robotics as a future growth engine, officials now fear the market may be overheating."
     },
     {
-      "headline": "\u2018It is fake\u2019: why US industry leader refused to believe China\u2019s robot march clip",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVDMzMmhtRGswVmdaR0YzbWdqSG9hWHdZbXVfM2c3eHBQY0RRTGtySkJCSWlmVnY1MHBJbGFsVWNNclVSaldHNzZRaUxtMHBHR2NhOFJEWG83UVQ4M01SZGVmTFlyd1NJZFliTEFES25ERWtRNTZISVZJTTBQS3VrXzMxQjhxdUJmNDlhYUR5SWM2UExJOUFpazYxY3Y5dlozdV83Q2hTSzRVYk9aSHpYQ1B0bGw2NXpPTzhuRjExQzBoLWVKMVE?oc=5",
-      "pub_date": 1764417610.0,
-      "article_url": "https://www.scmp.com/news/china/science/article/3334443/it-fake-why-us-industry-leader-refused-believe-chinas-robot-march-video",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/28/71a8bd48-5ebf-468a-b640-0f97ec941500_d6f60cf7.jpg?itok=g0U2AJia&v=1764331285",
-      "description": "Doubt over dramatic footage due to a \u2018lack of understanding\u2019 about China\u2019s strong manufacturing capability and supply chain, UBtech says."
-    },
-    {
       "headline": "Exclusive: Gravis Robotics raises $23M to tackle construction\u2019s labor shortage with AI-powered machines",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -63,6 +53,16 @@
       "article_url": "https://fortune.com/2025/11/28/gravis-robotics-fundraise-23m-construction-labor-shortage-ai-automation-equipment/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/09_Gravis_Ryan_and_Dominicjpg.jpeg?resize=1200,600",
       "description": "The Swiss startup is aiming to automate construction equipment as the industry faces a severe shortage of skilled operators and surging demand."
+    },
+    {
+      "headline": "Ondas Expands Defense Robotics Portfolio With $80M Roboteam Acquisition",
+      "source": "The Defense Post",
+      "source_url": "https://thedefensepost.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11bU5mLXd2R2xjZWprT3dSREJ4N0ppRTJ6dEg4ZTZPM1p2Y05PZWZBaXpXUnJ4MWFRSUxZeEhLMjZqVl9RMWhkYTg2QXgydktxVXJobDNSMHNDaHJBZERzRWlwNFpsQ21vbkUwYXV6TXZZUdIBd0FVX3lxTE9YcW5CdTl2SlBsOVFLbjJyTWMxazdjajZfLXNyVkhuMkZuTThtcksxYTk5eE9iN3dZYVp5d3NfVVEtSWFnZlhBQU5aQ2pacHZoaGdLSzRUVUk0ZnlNcXpiek5XSHBJbEJhVEppV0tEWjI5bjBRWDFF?oc=5",
+      "pub_date": 1764257953.0,
+      "article_url": "https://thedefensepost.com/2025/11/27/ondas-roboteam-acquisiton/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "For This Engineer, Taking Deep Dives Is Part of the Job",
@@ -85,26 +85,26 @@
       "description": "Video. How is AI transforming robotics? Where will robotics be in 2030? In this episode of Euronews Tech Talks, we put these and more of your questions to Kai Olav Ellefsen, associate professor at the University of Oslo."
     },
     {
-      "headline": "Ondas Expands Defense Robotics Portfolio With $80M Roboteam Acquisition",
-      "source": "The Defense Post",
-      "source_url": "https://thedefensepost.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11bU5mLXd2R2xjZWprT3dSREJ4N0ppRTJ6dEg4ZTZPM1p2Y05PZWZBaXpXUnJ4MWFRSUxZeEhLMjZqVl9RMWhkYTg2QXgydktxVXJobDNSMHNDaHJBZERzRWlwNFpsQ21vbkUwYXV6TXZZUdIBd0FVX3lxTE9YcW5CdTl2SlBsOVFLbjJyTWMxazdjajZfLXNyVkhuMkZuTThtcksxYTk5eE9iN3dZYVp5d3NfVVEtSWFnZlhBQU5aQ2pacHZoaGdLSzRUVUk0ZnlNcXpiek5XSHBJbEJhVEppV0tEWjI5bjBRWDFF?oc=5",
-      "pub_date": 1764257953.0,
-      "article_url": "https://thedefensepost.com/2025/11/27/ondas-roboteam-acquisiton/",
+      "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQQ1A3MGlTNWFWTU0ybV8td3Vmc2FnUWhsZzZaRXVBVmQ0V3pKNDY5enBOYzJGTktyT3JsS3g0LUdVQVlqOS12bDdrOXB2NHUzcnMzY2pDZ3hRTnNzaXJjUFNoRWMzajNKT0w2LW40UFNzaVI4YjZlcXlBOHNkNUt1WTVYY3NLNUFOR1VlTnhwUWc3cHh0a2wxQW5BY3hkcV9Rd0FxYVZNd1MtaXp2T003SG9JcFlBRHRDQVFPbXIyVHlHcDRyUzE5VktVRlhDR09ERVRtVS1FUl9DMERadkItNmRXUEV4MFFYN1h5RXdydC1fTmhWWHFCVVgxYUV1WjFxbE1RRUY4MlF1Z2p5ZndtV09PaHpFX3g5bWhhVXFMdk1CQTVkOXppeFVPM2RwX0JXWWxOZ1laUGFjV2duRFEyTmNCcHAxd1R1UTRubnUyLWhlSXlDWG5fSXNqbFcwek1iUmVfem0zN2FQWDdvUldQUXg3SF9jdEF3djVuWGRCSGVsVmZp?oc=5",
+      "pub_date": 1764352680.0,
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqfqd9djpFdPFZ_WQuL4C0S5MmWn0dIefyjwZ7__UNOYFFkin7A271wm&gaa_ts=692af5a8&gaa_sig=Ty-v0FfQ23p_WCOtsPDKeZ6WPalZHQwoWrQwKISXyQ_psoTQYjIlxNS40F5Up9GK3mJ8cLlol13CTVYAtimGiw%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQWHh1SUNKR0p4bmxzcndWVmNPaWkxWHFtci1sTENRNi1PRURFS3JyY0plRmNObnA2T1Nya2JVbDV5TDFoQlJ3cTdGQm9iQ3cwUkRaTWJhMzQxQVFQUmxMZmEwejdIejBMQTJxX1AweF96UkhFZXhlZzI4a005akNkcFlCU1NNWE11dVRubXhhMWVCM1hyMzFqOERhMWZ0VlFNTGlZSWxjU09RQ2JBTTQ2UDZCR0QzZUl0SjhaOFVyX2xnY25CazhXMTJCUWVDazRxbkNxNmFZLTZXTEJFQkNTc2tHOGJmMDVDdGFxZndiUmFiYXdJd0xBZFE0TEJPU2o1UFkxZWJjWXZjbVdfRTBIdDZ1bFV5cFdtbjFUWGlCNnBLdE1wTXl3WVRkLTkwNnRJOG40MG5obFlMY0xxNVlPckx4MEYySGNNMXM4el80Z0JxLVZfMnhseTB6dWdrUk83WUJTYU4xTzREekczTzhWalZLdXlmellkcHltdVVGbkY5SGdY?oc=5",
-      "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqcYATCQ-ppJLqWe53KhEA262_Rwi3ryTcfQI8nhjNmbOTbGM2NKW0js&gaa_ts=692aedd8&gaa_sig=9j_F6bUWvt08zk-Fe1jjDJwyws0_I346Q6hwsPHthjzth1ZbhpslGP2hf6so3VSdKG1Did3cBVWRLxW0wUXyZA%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Meet the humanoid robot that just set a new world walking record",
+      "source": "ABC News",
+      "source_url": "https://abcnews.go.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbjk3TkxmTHpvTEM0bE1LSnczdkdIYm1NamZIVmJ0M2hRZUtIVk11b2V3elFOVWRaaFloQXVCemNUSTJpWDFfTG5HOVlBc19vSUxuZGc0cW45MmxBbFFqMzBjUzdrVHU2dEVhMHhMWkRDZmtVMzl2MUFLLXpOTHZ4UFBsMk5FSmhHaGQtTnZtUFBIQjJnaHA2Y2dTTlVJbS130gGmAUFVX3lxTE9mLWZPT2pSNlc1b0NhLUp0OThhclRMVUdIR3NtemlMek0xR1V3SWdCRF80SGJJSUItai1LRWdrT2JhS2JfMGVwaGFrb3pDcUZsY2NfSlNHZmFqbHpuNmkzX1BqeWtzSUY5T1NsY0JzQTNtVUlmbHpKMTRtVWJuN0lRcVdRZThrQWJkb3l5Nmc5N0ZXcGVEcnZ6NTVJQ2NlSm5XUUljdkE?oc=5",
+      "pub_date": 1764353559.0,
+      "article_url": "https://abcnews.go.com/Business/meet-humanoid-robot-set-new-world-walking-record/story?id=127942444",
+      "image": "https://i.abcnewsfe.com/a/9a340b2d-e261-47b5-a1d8-ef4cba701321/robot-gty-jt-251128_1764352614770_hpMain_16x9.jpg?w=1600",
+      "description": "Chinese robotics company AgiBot has set a new world record for the longest distance walked by a humanoid robot with their bipedal automaton named A2."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T12:43:19.728416+00:00"
+  "fetched_at": "2025-11-29T13:16:38.381617+00:00"
 }

@@ -112,5 +112,5 @@
       "description": "Hi guys. I have an upcoming project in school where I have to draw 3 letters using the KUKA arm and a marker. I created an autocad drawing of the 3 letters on a 60x30 grid. I wrote down the coordinates for every point. What I would like to know is, how can I program the arm so that it moves a certain distance between each coordinate. for example pt 1,0 and 0,1 are 10mm apart, same between 1,0 and 1,0. Thank you !!!"
     }
   ],
-  "fetched_at": "2025-11-29T22:43:02.498033+00:00"
+  "fetched_at": "2025-11-29T23:17:23.737383+00:00"
 }

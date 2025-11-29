@@ -88,11 +88,11 @@
       "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOa2tYa0Q0d05JcGx3anFLR3RlVTdWck82aEs2a1Vhenh0NWdsdThXU2NjbW9yMkJOUU90Q2IxQmF0VTVBUDdCR3hIRDcyUUxGS2tNM0xZMGR6Wk1zbTNlQ2JrMDlyT2o1QV9zMFdOOXBYYXZhWk45cG12YmY2VlB4eU8wSkNUWUV5cnRNOXc0VHFJOXNfTFpKdGM1RTlzelQyc0xQYmViemh4NlhiZmNrSUVhYjBza21zYnlSdkw1Y3MyRllDRTNkRnF0Y0wzMTBfck1PT2FlRDFSNWxiMDJPaE52YkRoTVBvYXFMakRzeHZpYnpnVkg3MU1IQ0RmdG5zeWx5aXZJTkRjVGRzV0V2MUFoUzlMUDg0eEFpejFScUpxU3o5OWhMd0JaVDFFamMzM3BlUEtOZjRCNFRfRmEtM0RvNG9LS1poejZFcEdzSldubTVBdWRjcF9Ia3Jkb3N1ell6dGRhQVVqZXVsN3ZhT2dsQVlyRGJ0aUwwRzAzS3FkSHo5?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQNTI2azNZVmg0eU5La1l4ZmVMaWNqZ0JHZ0FNeC1iTFNOVVNoa2EtRHBxbzFGLWtKd0F5c2duOXZfTXZLbzJuYkR5VkZIYzhKTmVmZXhBUTg3WEpPY05WdzhnQkhNdDJZaloydjZYcDljYmdXWHlnLUc3bmZMRG5WUXVfOXhRc1otQ3N2VEMzOF8xS29wOExTNmdmbW5nNDJaZmZwOThELUtiLUpNLUpWZ3p0X2kzZk5seVFhZC1BZjU2QkoyX0FNVG54dU5kS3NVWVhJYmdvNEJBTjE4bFRSTzFWV1hHYVZGa0lFN3NQV3hTLWEzUUZhc3FZVXFiemNhZDFmV29HUGg0Q2lhZ1dFejdfaEF6YVZ1bE9pYzhIVUEydG9XWGJIUl9VaV84MnltLVNId0EteGRFbm9Ib1RnQlp2NGU4b3hjSnVZY2hIaEZaUDBicGtfRmY5R1owTzB0b3JBMVlYbWpnUW45MjNzUDQxX19ZS056ekVXbGt2dlZVREhp?oc=5",
       "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqeHhjhy632vetM73_PPGtUwkQRkYEv3asn6mIrg8Zd3KhPqLQ0xQfU2&gaa_ts=692afdaf&gaa_sig=B42vlsuT0sGJe9BXZxECUr21Wp9nIANHSnCGFOVAPid-eZtOp1bB-WVm_OeksV3pTwcb2acVCxgnieQwvNKAtw%3D%3D",
-      "image": null,
-      "description": null
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqcAqKJa7YajqgNJAVaVrX0cqjoDYUWhz0vITb_CpxL_8JkQmVfX-d5-&gaa_ts=692b074d&gaa_sig=A1X1qj5cOhD6x1LmdyRBZaKchpBXqiPImQiV3Gl_7e8QLdGfKc3r65tiWRgMLCdRM6hDSvrDqbvkhZaJCldlkg%3D%3D",
+      "image": "https://opinion-images.wsj.net/im-95296683/social",
+      "description": "Robotic models that resemble people struggle to perform complex tasks with their hands."
     },
     {
       "headline": "Meet the humanoid robot that just set a new world walking record",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T13:50:53.907245+00:00"
+  "fetched_at": "2025-11-29T14:31:56.576144+00:00"
 }

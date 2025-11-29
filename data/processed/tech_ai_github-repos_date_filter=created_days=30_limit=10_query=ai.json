@@ -8,10 +8,10 @@
       "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
       "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
       "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
-      "stars": 2300,
+      "stars": 2344,
       "stars_display": "2.3k",
-      "forks": 175,
-      "forks_display": "175",
+      "forks": 178,
+      "forks_display": "178",
       "language": null,
       "topics": [
         "gemini",
@@ -55,7 +55,7 @@
         "git",
         "pre-commit-hook"
       ],
-      "updated_at": "2025-11-27T18:48:27Z"
+      "updated_at": "2025-11-29T14:20:01Z"
     },
     {
       "full_name": "Norsico/Video-Materials-AutoGEN-Workstation",
@@ -65,8 +65,8 @@
       "description": "\u4e00\u4e2a\u96c6\u5185\u5bb9\u7b56\u5212\u3001AI\u6587\u6848\u81ea\u52a8\u751f\u6210\u3001TTS \u6279\u91cf\u81ea\u52a8\u914d\u97f3\u3001(AI)\u56fe\u7247\u7d20\u6750\u5408\u6210\u3001ASR\u81ea\u52a8\u63d0\u53d6\u8bed\u8a00\u5b57\u5e55\u811a\u672c\u3001AI\u81ea\u7531\u521b\u4f5c\u4e8e\u4e00\u4f53\u7684(\u77ed\u89c6\u9891)\u751f\u6210\u5de5\u4f5c\u7ad9\u3002\u65b9\u4fbf\u7ba1\u7406\u6bcf\u671f\u7684\u89c6\u9891\u9879\u76ee\u3002",
       "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
       "preview_image": "https://opengraph.githubassets.com/0ca6ecdb80ca700af163d1d6071825efe12a7b8e56fcb982f95131834556cf81/Norsico/Video-Materials-AutoGEN-Workstation",
-      "stars": 965,
-      "stars_display": "965",
+      "stars": 968,
+      "stars_display": "968",
       "forks": 195,
       "forks_display": "195",
       "language": "Python",
@@ -97,8 +97,8 @@
       "description": "\ud83c\udf4cAwesome Prompts; Nano Banana\uff1bBanana Pro; Gemini\uff1bAI Studio\uff1bPrompt Quickly [\u5546\u5e97\u7248\u672c 1.2.1\uff0c\u6700\u65b0\u7248\u672c 1.3.0+\uff0c\u53ef\u9009\u62e9\u672c\u5730\u5b89\u88c5\u62a2\u5148\u4f53\u9a8c\u65b0\u529f\u80fd\uff0c\u5177\u4f53\u7248\u672c\u5dee\u5f02\u89c1\u4e0b\u65b9 release note]",
       "url": "https://github.com/glidea/banana-prompt-quicker",
       "preview_image": "https://opengraph.githubassets.com/375bae68ecaebf0a1a49c1a03fbc952041dce80eafd55379af04e509b5155928/glidea/banana-prompt-quicker",
-      "stars": 810,
-      "stars_display": "810",
+      "stars": 816,
+      "stars_display": "816",
       "forks": 70,
       "forks_display": "70",
       "language": "JavaScript",
@@ -117,8 +117,8 @@
       "description": "\ud83d\udc68\u200d\ud83c\udfeb ChatTutor: Visual and Interactive AI Tutor",
       "url": "https://github.com/HugeCatLab/ChatTutor",
       "preview_image": "https://opengraph.githubassets.com/e9157eb46672c03098222d401312ad77657411f4732f5747fb498b7aa7385f79/HugeCatLab/ChatTutor",
-      "stars": 741,
-      "stars_display": "741",
+      "stars": 740,
+      "stars_display": "740",
       "forks": 93,
       "forks_display": "93",
       "language": "TypeScript",
@@ -195,6 +195,6 @@
   "search_query": "ai created:>2025-10-30",
   "days": 30,
   "limit": 10,
-  "total_count": 216662,
-  "fetched_at": "2025-11-29T13:16:16.291155+00:00"
+  "total_count": 217142,
+  "fetched_at": "2025-11-29T14:31:34.053372+00:00"
 }

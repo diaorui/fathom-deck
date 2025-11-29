@@ -5,14 +5,44 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin set to rally back to $100,000, BTIG says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjZmS1ZfcTREb0pEbTM1WHRZQ0UyUldmS0h1b2d2eFIwcmZBNG9fTjJYQVBKT0RaSlJIQU5DNnFlaGJqSEE3RngzaG50b1JzcXBCdnJ3clBtZHBQbU11eHgwOTVud3dTSDJHc2Y3bUtxdnFVRFRqNWV3T3UwNzJ5VVRyc3VmLTJranc?oc=5",
-      "pub_date": 1764339461.0,
-      "article_url": "https://www.cnbc.com/2025/11/28/bitcoin-set-to-rally-back-to-100000-btig-says.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
+      "headline": "Bitcoin Surges Without Help From the U.S. Stock Market. Why That's a Good Sign for Cryptos.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOQzNNenJaTHd3djJxcjZFTGpnZk9xVE11MlFxeU4yUS1HLTQzZ0kyaldJbGpYQjdISHJhVEExczNqRnFhd1g4WlhnaDRiZVQ3STJkUkFZcUF3cVI4R2kxYUFsdDdsOGhsRUVMdEZJcHJRQTFzdUxjWktJNWxuVEh3Ukx6bllRR0ozSnhvamdGa0hHNnNnZHAteURuNmY1VDZSWlEtS0RiWHZlNFpYQTN3aDh2ZmtQZDlfNkpxR0tDNWhjeUl1WllPMFNlYmhzS09KNnNSb2l6c2otR0Q0VklGUllleUNvVzdSdzJZRmxrVldMS1pVcE9VZFNpdkRZamN3aDlIWUdSWnFYaFFWU28yWDBjc2VlVjhlUnpFemJjd1FLdTMxZExmWHNOcG5oeko1eDZmcjRadDh4Zy1GckNma0FLWFZIWHRxWC1IMnh6Q0kwTXRjUF9mdXBYdDgxaGFYZkJjTmhQRUJFS3RBUlNRRjlONjZJalhLNDdsc3ZGQ3gtTE04bm9OZFVEb2RwZw?oc=5",
+      "pub_date": 1764242580.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-thanksgiving-88abf9ff?gaa_at=eafs&gaa_n=AWEtsqdZz38f1wmfFrG1iOcPKrCc9AOLJKaC4fxaYg4hpgLaQCArUipp0qFn&gaa_ts=692a6ca5&gaa_sig=IMFBsu0TjZKkHXxnnKwX0ZpU3FaCvgsuYZ-Ts438Oeu2p_zpMdYaxKe_uFi6dHvQNx8fxts8iSlwzueukKEH7Q%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Strategy's Interest Costs Are Set To Rise; MSTR Stock, Bitcoin Rally Fade",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSUlUZTlQdFV3ZUs4Ml9wYnBOVVpDZVFkSVBTLXRYY29NSDdDYmZJZnRfZGdCQTNvNEcxbEt6dHhDVzlvcWVMSjhSb1FycGZqYWRpUWlqOUtYb3JEWkIyODJsSlJUeHE1bldTN1FlWnJxQzVvM09jX2dOQUJVUnl3TmpHRW9wNks5VzhVZWdpRktzMkdqa0FfMw?oc=5",
+      "pub_date": 1764352440.0,
+      "article_url": "https://www.investors.com/news/mstr-stock-strategy-bitcoin-price-interest-costs-mnav-premium/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFZDWWlYdmZZN3RXU1ZTQVdOdTdEbzZOcnB3ektrZnNGZjlVMHdJQUhEeUwweHM4cHJ1RUhObG9fVmZibDgtM0JIT3QwM25tRDFMdGpvc2FMZWhGUy0yQlA3MURUUVhaZUNNOGpSSFVhbWJQQU1sV3lQZUdUVFpKR1M1M0w4NHRYMnBsZkRBSkY4blhHZFpLSjhBOEQ?oc=5",
+      "pub_date": 1764356450.0,
+      "article_url": "https://www.thestreet.com/crypto/trading/michael-saylors-microstrategy-moves-billions-in-bitcoin",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "'It\u2019s Black Friday': Michael Saylor Hints at Potential Bitcoin Purchase",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlhnZ2k4MnZ0ZmZWYXM0dVBnaVFTeDVJV21oblJ2UmtpdWxKWHpUTG5YUE5aVlZJMDNkalp5QTZiald1bXl2LTRJRTRMZjF5YkxJQlRfcVpMdHNqQkJlTzlQZkFLRERMVjh0M29RbVF5dHJrYjBBWTEtdm1pa3RtWFh1RzlBZU1qRmRjZ0c0cU9DZHVZQm42eWFJblBwYmxvTDlSVThRZFV5YTBFcDRYVjBYTFk3VEpLZnNEZ0JpUTlESGdo?oc=5",
+      "pub_date": 1764352274.0,
+      "article_url": "https://www.tradingview.com/news/u_today:bc172fe1a094b:0-it-s-black-friday-michael-saylor-hints-at-potential-bitcoin-purchase/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Michael Saylor, a popular Bitcoin advocate and MicroStrategy\u2019s founder, has once again stirred bullish reactions following his recent post, stating that today is Black Friday.In a recent X post on Friday, November 28, Saylor issued a subtle reminder, \u201cIt\u2019s \u20bflack Friday,\u201d suggesting that he consider\u2026"
     },
     {
       "headline": "Largest private gold holder shuts down Bitcoin mining operations",
@@ -73,38 +103,8 @@
       "article_url": "https://bitcoinmagazine.com/el-salvador-bitcoin-news/el-salvador-partners-with-simple-proof-to-timestamp-government-documents-on-bitcoin-blockchain",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/08/A_futuristic_digital_interface_glowing_wit_3.webp",
       "description": "Official reports, diplomatic memos, and environmental files are now eternally verifiable on the Bitcoin blockchain \u2014 no trust required."
-    },
-    {
-      "headline": "An \u2018Important\u2019 China \u2018Signal\u2019 Just Quietly Started Flashing As The Bitcoin Price Suddenly Bounces Back",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbDEzR0ExTjNadGdGbFhqX2dHWkFYSHBSU1lzdnlBZzNuUURXNTNVOVJDakRKYmZsSVA5MzdnajRDdXlYdWZZUktuYkN4SGNMR2k3WnUwcHE3VkFCdElya01yVGNHUDV3U3Q1RkVQcGpDRWRWeDBpcmFpMzVibHRNY2NTRGcyTDRQSlRCcU9TQTZONkpxTG5hd3JXemRmXzM3RmF1TXhYYVZpaW9vSFFuVFExU3NwQTZGTUJlcmx5ZEJtQVJmQmMwYkJuMVdtcEotNjF4eEVjNWh6d2NBcXJ6T2xSUTRYME9zekE?oc=5",
-      "pub_date": 1764335807.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2025/11/28/an-important-china-signal-just-quietly-started-flashing-as-the-bitcoin-price-suddenly-bounces-back/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69299d2e65c424c1ecf37b06/0x0.jpg?format=jpg&crop=2898,1629,x152,y6,safe&height=900&width=1600&fit=bounds",
-      "description": "A report has revealed bitcoin has made a sudden return in China, defying a 2021 ban that tanked the bitcoin price..."
-    },
-    {
-      "headline": "Should You Forget Bitcoin and Buy XRP Instead?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZExVdXZCSURZeV9lNHVHSjRZUHBtRFlqeWFfbWl5di1CandoU1VZZHBfTFN6WUN0UHFqZXJyZlZRNmVUdzREMXdNR3UzYmpMVEFGQW5GNGVfWGthdnlqY3p3b0RZaHRadTM3dlAxaGY5MV9VNnhSWkZObzdjb0l2bVRjdE1JQ1VJZ3o0MkxpME93Zw?oc=5",
-      "pub_date": 1764335820.0,
-      "article_url": "https://www.fool.com/investing/2025/11/28/should-you-forget-bitcoin-and-buy-xrp-instead/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844655%2Fthinking-robot-flipped.jpg&w=1200&op=resize",
-      "description": "XRP is up while Bitcoin is down this year. One of these leading cryptocurrencies is wildly overvalued -- and it may not be the one you think."
-    },
-    {
-      "headline": "Top Stock Movers Now: Intel Rises, Nvidia and Oracle Slip; Bitcoin Price Near $92,000",
-      "source": "Investopedia",
-      "source_url": "https://www.investopedia.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3N0MUJYNy13UE40MF9paGhfWHJab3lMSzdFSFhycDRkR3lUSkxCN0ZaWERuZkRKRzN3WUlwTTA2SHl5bE4xNnp3Nno2WTB4VTZZdlV4OEhrSTlUdWwxVVFrLVA0WHBqdFVfT1l2NlptR3lobzlRdmJaRFlWOWIxMUptMjB1a1ZEd2dKUHRHaXlhNWVTQmxmNV9TbEkxdl9LQlE4Vm5IaWZzalF5WnRXeTZjcldQZFF6UzNGOEpn?oc=5",
-      "pub_date": 1764347768.0,
-      "article_url": "https://www.investopedia.com/top-stock-movers-now-intel-rises-nvidia-and-oracle-slip-bitcoin-price-near-usd92000-11858623",
-      "image": "https://www.investopedia.com/thmb/ldU1bJUpXe72pxewvQtZHT7PpRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2248267343-7c56b7874b8e45229765e46612f7407a.jpg",
-      "description": "Shares of U.S. chipmaker Intel were leading the S&P higher as stocks edged upward on a holiday-shortened Black Friday session expected to be light on trading volume and corporate news."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T02:21:15.287284+00:00"
+  "fetched_at": "2025-11-29T03:32:09.064186+00:00"
 }

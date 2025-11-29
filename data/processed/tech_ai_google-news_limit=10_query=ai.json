@@ -25,24 +25,14 @@
       "description": "William Chen and Guan Wang believe they will be the first ones to build artificial general intelligence."
     },
     {
-      "headline": "Sergey Brin Gifts $1.1 Billion in Alphabet Stock After AI Rally",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmREeGJ5WG9IbEZBdHlnX1ZxVU5SX0J6Z0ZhS01URkZxWlhiQmdsVWxhei1LbTF3VTAtREpLNXlSS2V0em04WHd0eVluU2ZWZ2xXZ18tNE1GbTg1bXdINXlGdVg5MUk4NjlxdkZxc0t4X3lRSXZYdF8weW9haVhocVU0WW5kUjV0TjM1SkZnU3hPWnJxQXZrei14LXlpUGd4cUhmUlo2MDk0RV90UnE2cllwUQ?oc=5",
-      "pub_date": 1764379380.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-29/sergey-brin-gifts-1-1-billion-in-alphabet-stock-after-ai-rally",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI is upending the porn industry",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFJQTU1XOExNVGFCc25xZ1llOGRVTTRGUGtOTGRKWjhGYkV6S1RBNG4ySkQydFBDMUJvVHJkWU42OGI1Vk14cWtuS1BUdzVIZTQwQkFFeDlIbVQ3Z0tHZDltTWhpX0ZQelc5N29QQVZUdUxPOVZ4MDhFVXVEb1hMU2VqUFB4bWVNSGNF?oc=5",
-      "pub_date": 1764252394.0,
-      "article_url": "https://www.economist.com/international/2025/11/27/ai-is-upending-the-porn-industry",
-      "image": null,
-      "description": null
+      "headline": "$150 Million AI Lobbying War Fuels The Fight Over Preemption",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2xrN1dEOUZsMl8zaC1qQkhfRnRiRllqRmJSYnVCOGliUmlHQm1GZDFVNE9GQ2M4dkhMZWNTalhKYUFxWWNPdm1hMGlwMlR0NzQtRmJUczE0d1ltT2lQeGo2Rm5ETXpINVpKSE5NODYwNmYyZ2lpOGpmSkU1VGk1QkFYRlFHM1NYMDllb1ItT1QzMUVOZVI5aF9NVjZyM2x0WWxfS1laanNKY0REaU1wS1B3?oc=5",
+      "pub_date": 1764383262.0,
+      "article_url": "https://www.forbes.com/sites/paulocarvao/2025/11/28/150-million-ai-lobbying-war-fuels-the-fight-over-preemption/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69296b6af72de3e7d5ecd3d7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "The $150 million AI lobbying war is reshaping U.S. tech policy as coalitions clash over federal preemption, state authority and the future of AI regulation."
     },
     {
       "headline": "A.I. and the Trillion-Dollar Question",
@@ -85,16 +75,6 @@
       "description": "The widespread use of AI has sparked a dilemma for teachers and professors. How do you tell the difference between assignments written by students, and those written by a bot?"
     },
     {
-      "headline": "No, your favourite influencer hasn't got a dozen Dachshund dogs. It's just AI",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSTdHZGY1WU9vR0ptOUdoNVRoOWxFS3RjSzFKM1dacTVnY3lqdHUwcHVqRnZoMl9TNkNiU1NKU011RXFyN0pDaDFuQ1B4OUJJRkNLUGtXYl9vQdIBX0FVX3lxTE10ckRqVl9SblZCTmZhYnk5M08xWVdkUzN4Q0tFQ1BOOU1TUzYwZXpKY281RkZybkNhaE9ZQ2V0SEFiTC1PU0dDNUpLVUd4dUZtay1UcmttaGowYWlTRldz?oc=5",
-      "pub_date": 1764374620.0,
-      "article_url": "https://www.bbc.com/news/articles/c7vm5d42r8mo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e0bf/live/c05536c0-cc52-11f0-a892-01d657345866.jpg",
-      "description": "There\u2019s a new social media trend taking over - influencers are using AI to add animals to their photos."
-    },
-    {
       "headline": "Will AI ever make big profits? Experts weigh in as bubble fears loom",
       "source": "ABC News",
       "source_url": "https://abcnews.go.com",
@@ -103,8 +83,28 @@
       "article_url": "https://abcnews.go.com/Business/ai-make-big-profits-experts-weigh-bubble-fears/story?id=127858140",
       "image": "https://i.abcnewsfe.com/a/40e42138-e82f-4c35-a38b-2b29befe6b02/data-center-as-gmh-240508_1715180111066_hpMain_2_16x9.jpg?w=1600",
       "description": "The U.S. economy has come to increasingly depend on the AI boom, despite risks."
+    },
+    {
+      "headline": "Inside the Shapeshifting AI Trade That Has the Stock Market Heading Higher Again",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQTFlfLXlhS2hoUG5ycmJoTUVYckN0YTB4c19xVC04ZmVrZWQtbzlqMGZIbHdkUTFxS1ZsRHRwdm5HN0J6LVpLcVRsMkpKRGlHMFdaYTg5dXhjQjdGbjZJcFItaWVIZXFRd3pJR1Yza3lCcnJqN18xODBFY3d0QmVsSnFpRmVGOVhVd25XUks4N3RnY1RJMXhrVkJraUx2cG1oVko5a3ktQXd4R3ZCU05FTVVVRWFiYklTXzNKYkZmUTUxZWg5eElfbEhIQUlPekVSRkFmR1JJT2gta205RzJDM0c5WHpYWTNqeXZnNVd2VzRtTEU3WlIzMy1OOExqNW9RbWJuYkZMejk3TW9LM2FNMms3azJSQVFrb0tVTkNaUDBNUkxURFl1N3BiZnNNd3hoMWdyWnNHRktqUkZDOGZWYk83RUdObXpuZ2xxdTBiSDJWZ3YtYU5LeWlSOEhONGM5R3cwNTJhbkYwQTRSVTJCNllwdlZHV2g2VFN6TzR6eW1TcjQzdGNIQ2NDdW9tWUFKaU41ZUZ4bEFqUQ?oc=5",
+      "pub_date": 1764309600.0,
+      "article_url": "https://www.barrons.com/articles/shapeshifting-ai-trade-stock-market-higher-again-08d123fa?gaa_at=eafs&gaa_n=AWEtsqfm2LWaunf7BV__t0F46OPj2CHXoY8HkzcDCIagzUUcrn3P9vt7MOnD&gaa_ts=692a6ca3&gaa_sig=8jIe669f6KdgAPuTIiiX_284ejlRaCgmONUu4puah8sJEign_7Z03e-Ndn3tUEYGldXvuwz_u45LFz8AAruGFQ%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China's DeepSeek Releases New Open Source AI Model Amid Google's Gemini 3 Roll Out",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3dJa3cxX2ZqZFg4TWZ5Z3d4QXpFT3E4Zno4MTBJVUpKRXphcWZoRC16ZkdyR244dW5jUDJaOWxWd1hJTlRvNzFRRk5VeUtXZFRoWEdkdWhKaEc3OGdxWVNLdU1HNjNRWnRBUE1CS0FQdV9FZEIwWGwwcndMNVhYVGR3SFk4M0V0ZlozbTNwM2dRaHV0RjdrdTFpYVY0enN6eUUtMWE4aXA?oc=5",
+      "pub_date": 1764365700.0,
+      "article_url": "https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T02:21:22.107836+00:00"
+  "fetched_at": "2025-11-29T03:32:07.758598+00:00"
 }

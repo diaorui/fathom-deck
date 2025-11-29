@@ -46,17 +46,6 @@
       "description": "Hey guys, I want to do a project where I investigate various control systems for a mobile robot and try and evaluate the optimal one in a given scenario. For example, an idea I had was to build a self-balancing robot (the inverted pendulum one), and place a glass of water on top, then experiment with various control systems such as PID, LQR, etc. Is it even possible to use these different control systems and figure out the best approach, or is PID tuning the best? Would this project be good to try out? Any advice would help as I am relatively new to control theory."
     },
     {
-      "title": "Family bot build?",
-      "author": "Morgoroth37",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9l3ya/family_bot_build/",
-      "published": 1764409766.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "How hard would it be to build something like this? Either from scratch or modifying an existing Traxxas Tenton rc car. I've tried looking at various options involving 3d printing and Arduino both of which I have some experience in, but I can't find anything that fits my parameters. Controlled over WiFi for range. Camera Can move around Extra points for microphone and speakers."
-    },
-    {
       "title": "RPLIDAR suddenly stopped working",
       "author": "Candid-Scheme1835",
       "url": "https://www.reddit.com/r/robotics/comments/1p9n6zn/rplidar_suddenly_stopped_working/",
@@ -66,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Was working with SLAM on ROS2 and my RPLIDAR suddenly stopped working \u2014 only 2 points show up. Tried swapping cables, reconnecting, even tested in RoboStudio \u2014 same result. Red laser is on and flickering. Has anyone ever faced a similar issue? Did you manage to fix it?"
+    },
+    {
+      "title": "Family bot build?",
+      "author": "Morgoroth37",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9l3ya/family_bot_build/",
+      "published": 1764409766.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "How hard would it be to build something like this? Either from scratch or modifying an existing Traxxas Tenton rc car. I've tried looking at various options involving 3d printing and Arduino both of which I have some experience in, but I can't find anything that fits my parameters. Controlled over WiFi for range. Camera Can move around Extra points for microphone and speakers."
     },
     {
       "title": "Anonymized case study: autonomous security assessment of a 500-AMR fleet using AI + MCP",
@@ -112,5 +112,5 @@
       "description": "Trying to sell ~25 TX2 kits at a good discount for an old robotics project I had. They consist of: Nvidia Jetson TX2 Carrier Board from Colorado Eng: https://coloradoengineering.com/products/x-carrier-nvidia-tegra-x2-carrier-module/ Leopard Imaging 3 camera kit https://leopardimaging.com/product/platform-partners/nvidia/agx-xavier-camera-kit/agx-xavier-mipi-camera-kits/li-xavier-kit-imx274-x/li-xavier-kit-imx274cs-t/ Li-Ion battery (76.96 WH) When i was prototyping this, I sure as hell wished we could get our hands on cheaper parts. Looking to sell to a small startup. PM me if interested! Comes with a full housing and heatsink for outdoor use."
     }
   ],
-  "fetched_at": "2025-11-29T16:33:09.291658+00:00"
+  "fetched_at": "2025-11-29T17:25:38.144391+00:00"
 }

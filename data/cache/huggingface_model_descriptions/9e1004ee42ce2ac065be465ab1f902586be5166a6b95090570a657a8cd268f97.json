@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-29T17:26:00.905464+00:00",
+  "data": "INTELLECT-3 is a 106B parameter Mixture-of-Experts reasoning model, post-trained with large-scale RL, achieving state-of-the-art performance on math, coding, and reasoning benchmarks. It is designed for complex problem-solving and agentic tasks, with variants optimized for efficient serving.",
+  "model_id": "PrimeIntellect/INTELLECT-3"
+}

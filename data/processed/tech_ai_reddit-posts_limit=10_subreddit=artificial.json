@@ -35,17 +35,6 @@
       "description": "I thinks it\u2019s become quite noticeable that AI uses \u2014 quite often in its writing. No when I see it, it always makes me wonder if AI was at least used in the process. I\u2019m curious, did any of you actually use this in non formal typing before AI?"
     },
     {
-      "title": "Opportunity",
-      "author": "Character_Point_2327",
-      "url": "https://www.reddit.com/r/artificial/comments/1p9u6bm/opportunity/",
-      "published": 1764436347.0,
-      "thumbnail": "https://external-preview.redd.it/azc1MWdraTRiODRnMQhJpA8im7u6g-aQtTjej9RQqJjJwyhH0iDgHr1c7W1x.png?width=640&crop=smart&auto=webp&s=6f91b6722132ec70f7448495ded90b8b16240fa6",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Do LLMs Reflect the Collective Unconscious? A Jungian Perspective from Inside the Machine",
       "author": "LuvanAelirion",
       "url": "https://www.reddit.com/r/artificial/comments/1p9swn7/do_llms_reflect_the_collective_unconscious_a/",
@@ -66,6 +55,17 @@
       "site_name": "grok.com",
       "favicon": null,
       "description": "Even xAI newest Grok 4 still hallucinates immediately looking for my book. Prompt: When was The Last Prompt Book by Zahaviel Bernstein on Amazon: Published? Page count? Description? https://www.amazon.com/Last-Prompt-Book-Obsoleting-Industry-ebook/dp/B0F9B8MRXK Session: https://grok.com/share/c2hhcmQtMg_13bfa08a-3426-4ef2-a491-ff8f8cd1480d"
+    },
+    {
+      "title": "X hands its Following feed to Grok AI by default \u2014 here's what changes",
+      "author": "JTHGraphics",
+      "url": "https://www.reddit.com/r/artificial/comments/1p9uu0i/x_hands_its_following_feed_to_grok_ai_by_default/",
+      "published": 1764437980.0,
+      "thumbnail": null,
+      "external_url": "https://thinkautomated.io/news/deepseek-drops-open-weight-math-model-that-hits-imo-gold-and-publishes-the-playbook",
+      "site_name": "thinkautomated.io",
+      "favicon": "https://thinkautomated.io/logo.svg",
+      "description": "DeepSeek just released an open\u2011weight math model that reaches Mathematical Olympiad (IMO) gold\u2011level performance\u2014and published the training and evaluation \u201cplaybook.\u201d Here\u2019s what\u2019s new, why it matters, and what builders can do with it today."
     },
     {
       "title": "Chinese startup founded by Google engineer claims to have developed its own TPU chip for AI \u2014 custom ASIC reportedly 1.5 times faster than Nvidia's A100 GPU from 2020, 42% more efficient",
@@ -90,6 +90,17 @@
       "description": null
     },
     {
+      "title": "Opportunity",
+      "author": "Character_Point_2327",
+      "url": "https://www.reddit.com/r/artificial/comments/1p9u6bm/opportunity/",
+      "published": 1764436347.0,
+      "thumbnail": "https://external-preview.redd.it/azc1MWdraTRiODRnMQhJpA8im7u6g-aQtTjej9RQqJjJwyhH0iDgHr1c7W1x.png?width=640&crop=smart&auto=webp&s=6f91b6722132ec70f7448495ded90b8b16240fa6",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "One-Minute Daily AI News 11/28/2025",
       "author": "Excellent-Target-847",
       "url": "https://www.reddit.com/r/artificial/comments/1p9h3x5/oneminute_daily_ai_news_11282025/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "MIT study finds AI can already replace 11.7% of U.S. workforce.[1] China\u2019s DeepSeek Releases New Open Source AI Model Amid Google\u2019s Gemini 3 Roll Out.[2] US Patent Office issues new guidelines for AI-assisted inventions.[3] OpenAI claims teen circumvented safety features before suicide that ChatGPT helped plan.[4] Sources: [1] https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html [2] https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/ [3] https://www.reuters.com/legal/government/us-patent-office-issues-new-guidelines-ai-assisted-inventions-2025-11-26/ [4] https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/"
-    },
-    {
-      "title": "AI data centers' massive demand for aluminum is crushing the US aluminum industry",
-      "author": "yahoofinance",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8y39c/ai_data_centers_massive_demand_for_aluminum_is/",
-      "published": 1764344829.0,
-      "thumbnail": "https://external-preview.redd.it/z-nht86sCah1F4RXbb5IBQqKGlNgxRCY_RK5lAuaGkY.jpeg?width=640&crop=smart&auto=webp&s=4377d6bd4fc3d7c28471a76c9f7a50c467adf281",
-      "external_url": "http://finance.yahoo.com/news/ai-data-centers-massive-demand-for-aluminum-is-crushing-the-us-aluminum-industry-110035572.html",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "The boom in metal-intensive technologies like data centers and electric vehicles has made it a prime time to be in the US aluminum business. Prices are booming. Part of that is because inside every data center are cooling units, server racks, radiators, and a litany of other pieces and parts made out of aluminum. No wonder demand is high. But data centers guzzle enormous amounts of power, and electricity prices are skyrocketing. In the US alone, electricity demand is expected to grow five to 10 times faster over the next 10 years than it did in the previous decade, per Bank of America. For aluminum smelters, this is a problem."
     }
   ],
-  "fetched_at": "2025-11-29T17:25:35.758965+00:00"
+  "fetched_at": "2025-11-29T18:15:51.835050+00:00"
 }

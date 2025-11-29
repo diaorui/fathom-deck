@@ -25,34 +25,44 @@
       "description": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
     },
     {
-      "headline": "AI is upending millions of jobs. Can universal basic income fill the gap?",
+      "headline": "The use of AI-generated deepfakes in campaign ads: Lying is the problem, not AI",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3dWtUYW50QTU2SUl2T1M0RF9lWG50UXlvSXBKSmNiRWVkUXV1cl9UdnVwMkE5cTFsTmxHZmpETHZYMk9fa3VQZ2tJbkdsUmdDLV9KX2RnWGNSQlNMeWQ3dU9tbmNJcG9zZzBPa1VkVkVtSlVhaDhGNHhnMHFJZ9IBgwFBVV95cUxQVEp5UExYSGg1LWs5NU1CM193TVdrUFNlTm91azZRNDVZTXgzTDRqZkJCNGk2Sk9lay0zVndKbzFjVkMzQ3J0dkgwcUlsTWJEVC1kVVI0Vm9sVzktTE9QT0JRejI3bU9XejdaaG02VHdwbE9RVTktLS1GTkt6XzRfZUNmSQ?oc=5",
+      "pub_date": 1764439200.0,
+      "article_url": "https://thehill.com/opinion/technology/5624624-lying-ai-problem-politics/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Fact Check Team: Exploring AI data centers' impact on U.S. resources",
+      "source": "KATU",
+      "source_url": "https://katu.com",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcUQ4ZlRSQ2QzY3gyM1luTUVFcVE4a1RueDNQMjlfNWhEdWg1dXZtSVQ1X2dUa0dKUWVaNmN3NEN5TU42RmpXN2JuTDFqOEhaMVhYbUhuUlZoNEpWdlB6eHNTN0Nqa05ma1Z2dXJNN0NEMmhhcDVDQ0tYWTRZTnF4UXlzQnMxN2xNNlBFaEIzbUNYNzV1ZXoweXdlMVNWZllzMmtKNHZXZkRITGplQnhHMzhEcXQ1NElOQl9MaHJoRjB2NGdNaUNpZ3djU1lQdTBoWVZtdVc3aGhLcm9Zb1FrSFp3ckZoOTRNS29aUjVCQU1zY0FxLVhQRE00a2lBUDNiZHBFQTl3ZzlQMFowOFNTOFBuYWFwVnc?oc=5",
+      "pub_date": 1764437774.0,
+      "article_url": "https://katu.com/news/nation-world/fact-check-team-exploring-ai-data-centers-impact-on-us-resources-power-grids-pew-research-center-innovation-energy-water-systems-environmental-challenges",
+      "image": "https://katu.com/resources/media2/16x9/5025/1320/0x292/90/5dc7c502-fcd0-4b76-abf7-f9abfcb15a73-GettyImages2242297318.jpg",
+      "description": "As the U.S. races to stay competitive in the global AI boom, data centers are multiplying at a record pace."
+    },
+    {
+      "headline": "The hottest new AI company is\u2026Google?",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzczNnpGZnZfYm5tYjh2S0NVRWx6Y1FyRlhmVnpqbUYtemhfdGJSRFQzRlhEb2E2ZDd3SFpucmFRbGotOGt4b2NBNzZTb2QwY0luM05nQUVKamxYNE1KNWF3azNhemY1MnJqUUJmUG9CMXJHMVc0VW1BRTJsNllCNWVNbUZ6bXlpamk3THVtU0I1bGRYWDlzVHZuMlhBVnBSamFOZ2FvZHJDSjNWMklQUg?oc=5",
-      "pub_date": 1764433420.0,
-      "article_url": "https://www.cnn.com/2025/11/29/us/video/ai-is-upending-millions-of-jobs-can-universal-basic-income-fill-the-gap",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-11-29-at-11-22-33-am.png?c=16x9&q=w_800,c_fill",
-      "description": "AI is eliminating jobs at a historic pace. Former 2020 presidential candidate Andrew Yang explains why he believes universal basic income may be the key to helping Americans navigate a rapidly changing economy."
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02NDZpb2E5a2x5bC01ZDc5WGktaGdLZ2ZldnhTLXZLMmVHVlRUUGt0dnNIZWZvMm83d2U4VUxOWW5sblVubEd1Z3hqUE9UcExyR1BpUVMzeUF4STRDLVpMSzUtTGx0S2I0UVRVZUw0SjlYTHBpb2M1aHJ2dw?oc=5",
+      "pub_date": 1764417664.0,
+      "article_url": "https://www.cnn.com/2025/11/29/tech/ai-chips-google-gemini-3-tpu-nvidia",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2215580727-20251128180836519.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Google just threw another twist in the fast-changing AI race. And its biggest competitors are taking notice."
     },
     {
       "headline": "AI is upending retirement planning",
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fcEd2bmZ4MUxoSmx2R2V2eUhsMFZNVHRuUFpsUjhEQXBEeUNJTDZwTG5ISGN1dzRUZjhRcE9oMV95ZWJkcDFiWFdDVEdHNXZDOHVjWnFsemtlbjJDdEpGajlyaHpMcmFnRWxFYVdTMF9jY2F3Tm1mQTRILTc?oc=5",
-      "pub_date": 1764435488.0,
+      "pub_date": 1764435484.0,
       "article_url": "https://www.axios.com/2025/11/29/ai-bubble-retirement-financial-planning",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "If no job is safe from AI, what happens next? This expert weighs in",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNS1oRUJ0bk1DekJObzJTcUluNjZqTzJYZmZPWU90Y2lXNzdQenVjRzhmLTlLRXViNTJqdi1uS1JLUjVLTlBHSTZ1UDQ2cG9OaVVHVFpHUVFvYmVXVURCSUg5QXl5WVlBeC1FX0hWb1otN19OVE9BTmxhSG9yb0NHSDIwVElIRFlWaHpRdE04NA?oc=5",
-      "pub_date": 1764433999.0,
-      "article_url": "https://www.cnn.com/2025/11/29/world/video/if-no-job-is-safe-from-ai-what-happens-next",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-11-29-at-11-30-55-am-20251129163114140.png?c=16x9&q=w_800,c_fill",
-      "description": "As AI rapidly advances toward human-level performance, some experts warn that no job will be safe from automation. Roman Yampolskiy, author of \u2018AI: Unexplainable, Unpredictable, Uncontrollable\u2019 joins Smerconish to discuss the future of the workforce."
     },
     {
       "headline": "Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain\u2014and it's outperformed models from OpenAI and Anthropic",
@@ -63,16 +73,6 @@
       "article_url": "https://fortune.com/2025/11/28/sapient-intelligence-william-chen-guan-wang-turned-down-elon-musk-agi/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/54672477647_bfd1d00050_o-e1764185045333.jpg?resize=1200,600",
       "description": "William Chen and Guan Wang believe they will be the first ones to build artificial general intelligence."
-    },
-    {
-      "headline": "Thousands of Amazon employees send open letter to CEO Andy Jassy; say: We\u2019re the workers who develop, tra",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNUkUtaFRENVN0aVdWT1FOWU1FODlEUS0zSG1ZM0dKZ0wzcFBZazQzVlZ3UWlsQk5NVTd1SklOSExwLWp1VUxYZWxLRG5sVEN6aEN3TS1EaXpVRnBFTHlTdDRFWl9BRmtHcG42TDI2a0ZMaC1ibVNSZlBmem1VM2JuX0ROaVRSUDJKbmI2aTJ3X3VVd3gxTTVIcEZKNjJQbjVrS0JIcDJZQUMwRHZrTWZJLUdmMGUxS2QxWEh3bEhWWVNWZE5DQV96bU1fVFBFUEhhVTJVOFBvOTlsN0hPaC1WYTNnT1F0cFQ2YmFjOHFKUG0tcFNvdnhNdEl3RG9UdFZzbENVajBtUzhrd25nRC1nTVVVdm5SVTFEVlZiZGJHUzBQSE9HTUV2OEFWRTN0Qk1MR0JJ0gG4AkFVX3lxTE1feHZVeWlYTHVocktaX1FjcU1leTRJcV9oMThwbTdvY01Hc2xrQUxTWHhCeXd5NVV2RnN3cTVRNk1UdDBTODl1ajFrS2hpNlZHeUlPQlRtX3lXZnQ4U0ZzbGc2UWNVZlVqSGhuOGlzMnc0M3NWTklTdE55MjBJZTZyRHNEVWx0dGd6a190ZG00czhEdXFqZ1ZwTHFKZ2s3R191X1BqRDhiTkpxWTloUUh6eS1kNEJ0QkZpM2tHS1ctTExGY0pCRUxnWDlMbEt6SmdkYjlyLUhVbzNGU3o1Tm5UaE84Z1I2THZMNGFidzhMRXRocGlZeml2NnJaSjdmVU50SUxmNjNhT0pkZWVxNElsYXE3U1hZREJIZ3kzMVhKRVpjNVBxNHduNnF0anJtOHVjQlI2YTdSZA?oc=5",
-      "pub_date": 1764361500.0,
-      "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/thousands-of-amazon-employees-send-open-letter-to-ceo-andy-jassy-say-were-the-workers-who-develop-train-and-use-ai-so-we-have-/articleshow/125646835.cms",
-      "image": "https://static.toiimg.com/thumb/msid-125646821,width-1070,height-580,imgsize-53200,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "description": "Tech News News: Over 1,000 Amazon employees have signed an open letter warning of dire consequences from the company's rapid AI development. They argue Amazon is sacr"
     },
     {
       "headline": "No, your favourite influencer hasn't got a dozen Dachshund dogs. It's just AI",
@@ -95,16 +95,16 @@
       "description": "Meteorologists are surprised that the weather model that did the best job forecasting hurricanes this year was a new one, introduced by Google. AI may be the beginning of a new era of forecasting."
     },
     {
-      "headline": "Will AI ever make big profits? Experts weigh in as bubble fears loom",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3U1UEY0d3NrWmhXY3htOWVnOC1hWnFScWthQ2ozZ0pIdXlzbjItYVMwVVVYRy02VEVGUFRmY1JxMDdWYUYwU0JJYjFFVFZtMGJPRUFfOHFWd0wtT3M5aC00cEhyVzJiYUZMd3lsWV80Tk8zTGVvakZoSEY0d0t1TjFVNDZyckVvZHFRZVJhck41V1Ntc2NtckFmN0QxZ9IBowFBVV95cUxPb3NjellMU3F2ZkU3SjNPXzdmMFVoQktUZFViekxFb2RNZHZjdzVKdE5hdjg1WVhHLVFqcE5GdzFqS1VCNHJUXzd2SWF6WWVYajd5V0R4NjVkam1tOVFzdmZpMG5qTGMxSXV1T3pnLXpVejJubERIZlgwblVsWFlOSUVaR0pkVzJta3NnVm9EMzBEUnZrZ3o2TXRMMEllQ3NTTTNv?oc=5",
-      "pub_date": 1764356050.0,
-      "article_url": "https://abcnews.go.com/Business/ai-make-big-profits-experts-weigh-bubble-fears/story?id=127858140",
-      "image": "https://i.abcnewsfe.com/a/40e42138-e82f-4c35-a38b-2b29befe6b02/data-center-as-gmh-240508_1715180111066_hpMain_2_16x9.jpg?w=1600",
-      "description": "The U.S. economy has come to increasingly depend on the AI boom, despite risks."
+      "headline": "Jenna Ortega Says It\u2019s \u2018Very Easy to Be Terrified\u2019 of AI: \u2018It Feels Like We\u2019ve Opened Pandora\u2019s Box,\u2019 but \u2018There\u2019s Certain Things It\u2019s Just Not Able to Replicate\u2019",
+      "source": "Variety",
+      "source_url": "https://variety.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNam1tdlhfU1VsYUlISk1QMWdkbERkT09OdmtrTm00UjJ6Q0F0c1Jndk1BYUlGWVVNSUtYXzh0UXNxemFmbW1xZE1RRUNyd21sd3RDc253amZVZXBRc2xPLVpVQlEzQkhWZGpFMGhnci0zN0VZZlJHSHFCZ0FMZk5yODBxMEFReEVVUUlvTXJ1OC1RWnp3NXNaWA?oc=5",
+      "pub_date": 1764410100.0,
+      "article_url": "https://variety.com/2025/film/festivals/jenna-ortega-ai-film-easy-to-be-terrified-1236594676/",
+      "image": "https://variety.com/wp-content/uploads/2025/11/jenna.jpg?w=1000&h=563&crop=1",
+      "description": "Jenna Ortega sounded off on artificial intelligence at the Marrakech Film Festival, saying \"it's very easy to be terrified\" of it."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T17:25:54.081423+00:00"
+  "fetched_at": "2025-11-29T18:16:09.036945+00:00"
 }

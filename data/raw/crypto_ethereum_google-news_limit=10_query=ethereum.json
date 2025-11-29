@@ -5,14 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Vitalik Buterin Donates $765K in Ethereum to Privacy Messaging Apps",
+      "headline": "Bitcoin and Ethereum Stall as Traders Brace for Holiday Volatility",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNG5JZW1JQ2pBYllVLWNnTWpMZ1h5aEY5NXpjZjVnQU5Pb0JMWmFTeGFYbGFGOVpGbldaWS1PY0pfSmtsX0tBbHBhbTRXY3lHWlhVUFV2bnMtc2YxVl85Um11Q1RIT1hJeDRVZDVZOE9zTmxiMnZOR2MwdlJhUklFbzVnMTdIb3VaNUJuODl2bjZrTm1TMExv0gGfAUFVX3lxTFBrT19QT29ZckYyX3Z2NENCVGNlZzRlME8yS290R0YwaFluM19RWm9lbTdkbVlWZWtLM1BDelBHMHFxSlkxNjlsSmxWQVo2U05kZlJnUUNJNVFXeDJwc0xPdDJab0RyN1U5a2d1RDMxSFREcHE0OS1Rc21udDZvODBXSjVPcWlwZ1k2UV9NTlFvcklTa3hfM2Y3R3BHNDRTTQ?oc=5",
-      "pub_date": 1764180120.0,
-      "article_url": "https://decrypt.co/350253/vitalik-buterin-donates-765k-in-ethereum-to-privacy-messaging-apps",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg",
-      "description": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WbFBmODc1S0x6NlQxanhYT05lNmFvTE43OXl4cUE5WV9jLXZuQUNnR3h4bUQ0X1NRRzY2T1h0UUR6a3UtUmlKdU5DV2lJLUxDaHE4REVZNk9LLTJuWDYyWXM0MV9CcnFZRTdTZHFKVzJkdTNNU1HSAX5BVV95cUxOOTNwZGRNaTZZcHNNSVE0eWJoVzJDTnhhSkJMUEhpWTVJbzUyS1VhMmZUTER3TXJCZ3JJUGkyZ1ZXYlFna0g5cmhIRjBPM1BKLWhJTFFLNmZhMXVtUFh4elRpdjlIM0tEYjhSdjVoYVdlOGVjb21yVkVabmFxOXc?oc=5",
+      "pub_date": 1764172993.0,
+      "article_url": "https://decrypt.co/350131/bitcoin-ethereum-stall-holiday-volatility",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
+      "description": "Bitcoin and Etehreum and the broader crypto market show modest declines before Thanksgiving as traders anticipate a December Fed rate cut."
     },
     {
       "headline": "Tom Lee Lists Three Reasons Why Ethereum Will Beat Bitcoin \u2014 But Can ETH Rally to $9,000?",
@@ -23,6 +23,26 @@
       "article_url": "https://finance.yahoo.com/news/tom-lee-lists-three-reasons-131715102.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/RcRGeKQQxno4TvMSmysFsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/de29a08ab7bd5fd956511abf5220cd23",
       "description": "Tom Lee believes Ethereum is positioned to win the crypto race, beating out other major players like Bitcoin. Lee forecasts a short-term dip to around ..."
+    },
+    {
+      "headline": "Ethereum Price Chart Flashes a Bearish Warning \u2014 Could This Be a \u2018Long-Term\u2019 Risk?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWdiaHE3UUJJT1dCZ2ZzRXJiQW9iTWRhN3RkOW1rdHFYaUpmeTR6ZTJUck12TGVya2loWkhKZzF4dWZETlRlR1JmWjctRDlHeVh1d08yREtjWU1Sd0w0RXFzcmptbWVVUFc2QXZrY3dtekRnOGFTbHA3Sy1mT3RvQk1tNnlKT01NRmc?oc=5",
+      "pub_date": 1764415800.0,
+      "article_url": "https://finance.yahoo.com/news/ethereum-price-chart-flashes-bearish-113000443.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/H4fyxstahTBy6KOfBERs8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/beincrypto_us_662/00ff3e176c33a6f47769930003a0f9b1",
+      "description": "The Ethereum price sits at a pressure point as key sellers return. Is this the start of a deeper trend shift? Here\u2019s what the data warns."
+    },
+    {
+      "headline": "Ethereum Price Prediction Today, November 29, 2025: Can ETH Hold $3,000 Ahead of the Fusaka Upgrade?",
+      "source": "ts2.tech",
+      "source_url": "https://ts2.tech",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcUZ0amlkd2M2RU84bTdqLTE0OFhtYkRGa1pGaHBJaXBzaUdHNF8yMmFCODlOVEw1b3Vlbl9pdklOa1NSN2ZVRHV0UVBEbVo1WldYR244Ump4aTR2bVN5WHBQM3FsdG1WdWhITFB5MVJuRjUwWDVVUm84RnV2bEVkX3lPY1kyYnJQaWQtSGdSVUMwZEZrZTVMWUdjdElGOC1zUFpDUVd2TE5kdnB6dWc4cWhWcm9fdw?oc=5",
+      "pub_date": 1764424252.0,
+      "article_url": "https://ts2.tech/en/ethereum-price-prediction-today-november-29-2025-can-eth-hold-3000-ahead-of-the-fusaka-upgrade/",
+      "image": "https://ts2.tech/wp-content/uploads/2025/11/ethereum-price-prediction-today-november-29-2025-can-eth-hold-3000-ahead-of-the-fusaka-upgrade-featured-1.jpg",
+      "description": "Ethereum Price Prediction Today, November 29, 2025: Can ETH Hold $3,000 Ahead of the Fusaka Upgrade? - TechStock\u00b2"
     },
     {
       "headline": "BitMine buys $44 million worth of Ethereum as Tom Lee gives bullish outlook",
@@ -65,46 +85,26 @@
       "description": "OKX exchange has\u00a0released its latest proof-of-reserve (PoR) report that shows a dip in users\u2019 Ethereum holdings. According to the report, assets like Bitcoin and Tether BINANCE:USDTUSD saw a significant jump, while Ethereum declined month-on-month.Ethereum liquidity crunch incoming?OKX released the\u2026"
     },
     {
-      "headline": "Ethereum raises block gas limit to 60M as ecosystem throughput hits new records ahead of Fusaka upgrade",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wcEliNmoxa0VQVUhLR2pCMXNaVzlWREJoVmlhTmdzSXpKczJfRXJncm1UVkpaZGlIdUZWbTFPRnlZRFhsVm04VUl4dmR3ZEthVkJHdXdITTFfLWpEQmkwRmh1Z3hxOUJOMXc5YTc1bGFySXdiZmfSAXtBVV95cUxQZGlNd3R5cl9uVUYyT1FPRGt2SmZjRWFMNnpiTkNkelF6OC1EdE5HSW5tcW4xQUt5VTVZa1ZUYWZaTk83ZFNoU1FJajlGeFNRUDR4eHVhbTRiZGJkVFZ1Zi1oZTlkWFZYTnhlWF9fY04waUpxOFpQY2RnSnM?oc=5",
-      "pub_date": 1764243325.0,
-      "article_url": "https://www.theblock.co/post/380687/ethereum-block-gas-limit-fusaka",
+      "headline": "Large cryptocurrencies mixed as Ethereum increases",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPZHZyaWRUSDRZS1AzLVpXcG5ldUJVOTJjcEJ1RWY1bWhKbjdaOUZnZ0ZORWMyZVJFcmZRUlk2eTdIc1FjM1hreWdlaHVIaGY5eE9lbWhKOTBnV3B6MXkxZlZGa2Y3NWY0WlQwYzdkTnBwXzdJQnBLVDB1V0ZDQ3QteTlkdG5mWXk1aWExZUZzdmZndUZPakFoZDA3ZjZSeEN6QTRNd19EUGdnd1dnSTRhTXdWLW9sa3RQUV9qY0VHRUdhcFRhMnNla0VZUzM0WHI1dHpLV1ZqNmxXTFJuS1VxMEpuNjNaN2pnVklLZlFnVzNuZ2ZvNER1ai1xa25oc2NoMmhuZXBJdG5Zcy1BaDZKTmdXYmw0Q05hSjVLRzk5ZW5CWGFRZmY2cWRGLVktaVJXR09SdVdNOVFsMTNMbTFhOS1nOWd1V1dZR2pqdVFfckxsRzdnT3g1R3FVSkM1RG9mQy1BeS1fWFZhdzB3NWU0ZDZreEd6RTV5b2FnWWllWDhrQ2NFdWF2OW4yelA0YjNaRUNGUk9zREJMeDhsTGxRcmYtZFc1dDVsakMwZXpMdTVnZnpn?oc=5",
+      "pub_date": 1764342000.0,
+      "article_url": "https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-increases-2d44796b-6512c9777c5b?gaa_at=eafs&gaa_n=AWEtsqcx3mdJSj1z99Uq19U652dv5HmG2khg7AVY3GPprgz9h6aB7zLpaEdJ&gaa_ts=692b3b97&gaa_sig=jxtjB7gIdRM_mgb6ZqZqXTtH3Ptz0hglP5_XaAD7bTDy5FXBGW7uPhIkUWk2QttebJQuAmbXpEwgWD2xlxTwFg%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Ethereum vs. Solana 2026: Which Blockchain Will Deliver Better Returns?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0dUR1c0eFdpYlMwTzZiZnZDWHhWN3hpSjR4blRmVi1VMW0xX0tBQl82dDIyYnJXcjhsR3lZc3huZ3g5RVd3aG5HN1ZCdHFRWFdDbnVNaVBSVl9zQk9hM0hndlN4VjBMRU5FVERZS3dpTWNEVUI3SG9sZG1mOXFPVmxFREFfYkU?oc=5",
-      "pub_date": 1764173978.0,
-      "article_url": "https://finance.yahoo.com/news/ethereum-vs-solana-2026-blockchain-161938236.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/p.rE6dfgFSrj6SyxTgp7Yw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/c446a843c2217451f6f7664922f3af97",
-      "description": "Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) approach 2026 with contrasting positions. Ethereum remains institutionalized, but its expansion relies entirely on Layer 2s rather than mainnet power. Solana, on the other hand, is coming off a year of record on-chain activity: 186% year-over-year revenue growth, and rising institutional interest through new ETFs. Both chains have ... Ethereum vs. Solana 2026: Which Blockchain Will Deliver Better Returns?"
-    },
-    {
-      "headline": "What Happens to Ethereum (ETH) After the Fusaka Upgrade?",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLTBLajV3QWVlNDZqdkNNVnRGbXJGR3VDdGJhdWxJZ2FGY25DMWZxcjlKb3pqenhUc3BxcUxScEpyekFqSDJTRGphanJLZnlzU3BEOG9venV6clRNbWFjVEdzQ1BhSGx2MWluZWtraUdRNjQ0cHhQVGNoMzh4Qzg4QUloX1U2SzlBTjc1anNXX1I?oc=5",
-      "pub_date": 1764421935.0,
-      "article_url": "https://www.ccn.com/education/crypto/will-eth-break-3500-after-ethereum-fusaka-upgrade/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Peter Schiff Says Bitcoin, Ethereum Treasury Companies Have 'No Viable Business Model'",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcC1Qalh1SzNIMmRmYlpNV3dWNERXRTg4cGl5YV9iUzd4clc1WHJMeklCRDZUbFZDNDFSSWhjWXNEVE9oREYyNTFYZUw5TmQwS3N4eEtxUzRwcnZKOTBILUVZbnBmTjNNYTFMMG9NOVRscUlpZ3hVb2RPRlRzWEZwenBGSEJTV2s?oc=5",
-      "pub_date": 1764270052.0,
-      "article_url": "https://finance.yahoo.com/news/peter-schiff-says-bitcoin-ethereum-190052789.html",
-      "image": "https://media.zenfs.com/en/benzinga_79/2fcea7f84db761ff86176652b79e7a5d",
-      "description": "Peter Schiff is once again sounding the alarm, this time warning that companies using Bitcoin (CRYPTO: BTC) or Ethereum (CRYPTO: ETH) as corporate treasury strategies are ultimately doomed. What Happened: Speaking on Schwab Network, Schiff argued that ..."
+      "headline": "SharpLink Gaming: How To Get Ethereum Exposure At A 17% Discount (NASDAQ:SBET)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWp2SmtOZGtzNkRXQndSdDBkNW1ETnRZZ01nb3Q4dVZxNG9XZE5PbEpfNElEejZXb3ZVa2lSaVdYQ1lzdHJ1NEh5d0l4WDBtWW83aTlaQ0dmNWJybEZaaEkzeEs2YWFBSHJmVnVfbDN0Zk9WMmd3Q0M1YmpVNXY0a0dfM01HVGpkbnp2ak1VeFdzOVFKWnJZOGw3OFJHNktRR0dha2FHdk1oNEJVZ3dlXw?oc=5",
+      "pub_date": 1764333532.0,
+      "article_url": "https://seekingalpha.com/article/4848497-sharplink-gaming-how-to-get-ethereum-exposure-at-a-17-percent-discount",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2171382770/image_2171382770.jpg?io=getty-c-w1536",
+      "description": "SharpLink Gaming offers exposure to Ethereum at a 17% discount to its net asset value, trading at 0.83x mNAV. Learn more about SBET stock here."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T17:25:54.547729+00:00"
+  "fetched_at": "2025-11-29T18:16:12.156900+00:00"
 }

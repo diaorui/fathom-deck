@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 31451,
-      "likes": 1280,
+      "likes": 1284,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-28T13:15:09.000Z",
@@ -162,6 +162,6 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-29T17:25:44.705755+00:00",
+  "fetched_at": "2025-11-29T18:16:01.195562+00:00",
   "has_descriptions": true
 }

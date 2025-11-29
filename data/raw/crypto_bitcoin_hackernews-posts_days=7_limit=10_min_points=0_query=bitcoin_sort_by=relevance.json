@@ -121,8 +121,8 @@
       "url": "https://magiclip.io/",
       "hn_url": "https://news.ycombinator.com/item?id=46086920",
       "author": "kokau",
-      "points": 29,
-      "num_comments": 4,
+      "points": 33,
+      "num_comments": 7,
       "created_at": "2025-11-29T12:04:23Z",
       "object_id": "46086920",
       "image": "https://magiclip.io/assets/images/favicon.webp",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2025-11-29T17:25:35.303348+00:00"
+  "fetched_at": "2025-11-29T18:15:51.647468+00:00"
 }

@@ -24,17 +24,6 @@
       "description": null
     },
     {
-      "title": "One-Minute Daily AI News 11/28/2025",
-      "author": "Excellent-Target-847",
-      "url": "https://www.reddit.com/r/artificial/comments/1p9h3x5/oneminute_daily_ai_news_11282025/",
-      "published": 1764395217.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "MIT study finds AI can already replace 11.7% of U.S. workforce.[1] China\u2019s DeepSeek Releases New Open Source AI Model Amid Google\u2019s Gemini 3 Roll Out.[2] US Patent Office issues new guidelines for AI-assisted inventions.[3] OpenAI claims teen circumvented safety features before suicide that ChatGPT helped plan.[4] Sources: [1] https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html [2] https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/ [3] https://www.reuters.com/legal/government/us-patent-office-issues-new-guidelines-ai-assisted-inventions-2025-11-26/ [4] https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/"
-    },
-    {
       "title": "Does anyone actually use \u201c\u2014\u201c when typing?",
       "author": "owenwags_",
       "url": "https://www.reddit.com/r/artificial/comments/1p9ghg0/does_anyone_actually_use_when_typing/",
@@ -44,6 +33,28 @@
       "site_name": null,
       "favicon": null,
       "description": "I thinks it\u2019s become quite noticeable that AI uses \u2014 quite often in its writing. No when I see it, it always makes me wonder if AI was at least used in the process. I\u2019m curious, did any of you actually use this in non formal typing before AI?"
+    },
+    {
+      "title": "Free Access to Claude Opus 4.5, Sonnet 4.5 & Haiku 4.5 - No Waitlist, No Premium Lock",
+      "author": "LEGENDX08377",
+      "url": "https://www.reddit.com/r/artificial/comments/1p9izzl/free_access_to_claude_opus_45_sonnet_45_haiku_45/",
+      "published": 1764401873.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone! I just launched OpenClaude.me - a platform that gives you completely free access to all Claude models including Opus 4.5, Sonnet 4.5, and Haiku 4.5. What makes this different from official Claude.ai? All models are available to everyone - No premium subscription needed for Opus 300K tokens daily limit on EACH model - You get full 300K on Opus, full 300K on Sonnet, and full 300K on Haiku. There's no fallback system where you run out on one model and get downgraded Web Search & Code Execution tools included for free Simple signup - Just email and password, no verification wait Mobile responsive - Works smoothly on phones How it works: Just sign up and start using any model you want. The 300K token limit resets daily at midnight. If you somehow manage to hit the limit, you can simply create a new account and keep going (though 300K is pretty generous for daily use). Quick note: Don't ask the AI which model it is - they usually give wrong answers when asked directly. Just test them yourself and you'll feel the difference in capabilities. Future plans: I'm planning to add more features based on your feedback. Eventually, there will be a premium version, but I promise - everything that's free now will stay free. Premium will just add improvements and Claude Code access with 100x the usage limits of official Claude Pro. Why am I sharing this? I want people to test it, use it, and give me as much feedback as possible so I can make this better. This is a community-driven project. Try it out: openclaude.me Let me know what you think!"
+    },
+    {
+      "title": "One-Minute Daily AI News 11/28/2025",
+      "author": "Excellent-Target-847",
+      "url": "https://www.reddit.com/r/artificial/comments/1p9h3x5/oneminute_daily_ai_news_11282025/",
+      "published": 1764395217.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "MIT study finds AI can already replace 11.7% of U.S. workforce.[1] China\u2019s DeepSeek Releases New Open Source AI Model Amid Google\u2019s Gemini 3 Roll Out.[2] US Patent Office issues new guidelines for AI-assisted inventions.[3] OpenAI claims teen circumvented safety features before suicide that ChatGPT helped plan.[4] Sources: [1] https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html [2] https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/ [3] https://www.reuters.com/legal/government/us-patent-office-issues-new-guidelines-ai-assisted-inventions-2025-11-26/ [4] https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/"
     },
     {
       "title": "AI data centers' massive demand for aluminum is crushing the US aluminum industry",
@@ -90,27 +101,16 @@
       "description": "If we were to assign responsibility to A user base or user set for the bulk of harm AI is doing to our water and electricity as a resource, what group of people or entities are doing the most harm? Some one told me \"ChatGPT, Gemini, Grok, and all the other slop factories are what is consuming the overwhelming majority of AI resources.\" but i thought that just normal people asking chat GPT random questions or Grok being some one's waifu was the left overs from other applications. I had thought the servers and AI algorithms were being turned towards education, government, corporate works and other people received de-prioritized access after paying businesses got their needs processed. Am i wrong? Are Chat GPT queries from randos online really the supposed genesis of 20xxs impending water scarcity?"
     },
     {
-      "title": "Best AI for writing analysis, identifying subtext and developing ideas?",
-      "author": "doublecheeseburger",
-      "url": "https://www.reddit.com/r/artificial/comments/1p96514/best_ai_for_writing_analysis_identifying_subtext/",
-      "published": 1764364004.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey all. I found this sub while researching which AI might be best for helping me think through ideas and provide insights into my writing, so I'm sorry if this question has been asked recently. I don\u2019t know that much about all the different models available and it\u2019s hard for me to choose which one might be best for me when there seems to be many options. What, in your opinion, is the best AI for someone looking for a collaborative research AI \"partner\" to bounce ideas off of? I do not use AI to write, but will sometimes ask ChatGPT for insight into essay drafts or journal entries that feel like they're developing a still-premature idea. I appreciate AI's ability to discern themes, patterns, subtext, and layers of meaning I can't notice on my own, and to suggest different directions I could take with each idea. I like to ask it to suggest other articles/essays written on similar topics. I don't trust ChatGPT's tendency to provide relentlessly positive feedback, but I don't trust any AI to deliver the same quality critique that a human could, so I'm more looking for a model that can help me develop and expand ideas to a point where I can take the work the rest of the way on my own. What do you think?"
-    },
-    {
-      "title": "Mexico to build Latin America's most powerful 314-petaflop supercomputer",
-      "author": "sksarkpoes3",
-      "url": "https://www.reddit.com/r/artificial/comments/1p85s5y/mexico_to_build_latin_americas_most_powerful/",
-      "published": 1764259295.0,
-      "thumbnail": "https://external-preview.redd.it/Jx3Xh9MqOzxZaY5sAupk4RPwtwBZjc5d7LBF51nZeGk.jpeg?width=640&crop=smart&auto=webp&s=15d463ef41c2785466be21899eb42d4522dbc7ea",
-      "external_url": "https://interestingengineering.com/innovation/314-petaflop-mexico-powerful-supercomputer",
-      "site_name": "Interesting Engineering",
-      "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
-      "description": "Mexico announced on Wednesday plans to build Coatlicue, a 314-petaflop supercomputer that will become Latin America's most powerful."
+      "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
+      "published": 1764326221.0,
+      "thumbnail": "https://external-preview.redd.it/pCU_L14NP5B0d5_n_QHNSysSeBYi7z_wBdVM9dGTEIA.jpeg?width=640&crop=smart&auto=webp&s=8fdf0c8d299e3e3249decddd43e5b18bc6196eb0",
+      "external_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
     }
   ],
-  "fetched_at": "2025-11-29T07:13:35.076203+00:00"
+  "fetched_at": "2025-11-29T07:53:33.222664+00:00"
 }

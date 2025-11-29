@@ -35,17 +35,6 @@
       "description": "Hi guys. I have an upcoming project in school where I have to draw 3 letters using the KUKA arm and a marker. I created an autocad drawing of the 3 letters on a 60x30 grid. I wrote down the coordinates for every point. What I would like to know is, how can I program the arm so that it moves a certain distance between each coordinate. for example pt 1,0 and 0,1 are 10mm apart, same between 1,0 and 1,0. Thank you !!!"
     },
     {
-      "title": "Robot Dog Board Recommendation",
-      "author": "p0tato___",
-      "url": "https://www.reddit.com/r/robotics/comments/1p8im3x/robot_dog_board_recommendation/",
-      "published": 1764294131.0,
-      "thumbnail": "https://b.thumbs.redditmedia.com/aWAx3TNuFjBky6DpoQsovRZCVNl-uW6Tzd0sg7mHFes.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "What board should I install on this robot dog I created, and what direction should I take in its development? Please leave a comment.\ud83d\ude3c\ud83d\udc4d"
-    },
-    {
       "title": "Getting rid of ~25 Nvidia Jetson TX2 Kits w/ Carrier Board, Camera Kit & Battery for robotics startups",
       "author": "Mr-Ababe",
       "url": "https://www.reddit.com/r/robotics/comments/1p95um5/getting_rid_of_25_nvidia_jetson_tx2_kits_w/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Trying to sell ~25 TX2 kits at a good discount for an old robotics project I had. They consist of: Nvidia Jetson TX2 Carrier Board from Colorado Eng: https://coloradoengineering.com/products/x-carrier-nvidia-tegra-x2-carrier-module/ Leopard Imaging 3 camera kit https://leopardimaging.com/product/platform-partners/nvidia/agx-xavier-camera-kit/agx-xavier-mipi-camera-kits/li-xavier-kit-imx274-x/li-xavier-kit-imx274cs-t/ Li-Ion battery (76.96 WH) When i was prototyping this, I sure as hell wished we could get our hands on cheaper parts. Looking to sell to a small startup. PM me if interested! Comes with a full housing and heatsink for outdoor use."
+    },
+    {
+      "title": "Robot Dog Board Recommendation",
+      "author": "p0tato___",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8im3x/robot_dog_board_recommendation/",
+      "published": 1764294131.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/aWAx3TNuFjBky6DpoQsovRZCVNl-uW6Tzd0sg7mHFes.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "What board should I install on this robot dog I created, and what direction should I take in its development? Please leave a comment.\ud83d\ude3c\ud83d\udc4d"
     },
     {
       "title": "I want to size scale up Otto diy 3d models.",
@@ -112,5 +112,5 @@
       "description": "AgileX Robotics on \ud835\udd4f: https://x.com/AgilexRobotics/status/1993218134246076721 Website: https://global.agilex.ai/"
     }
   ],
-  "fetched_at": "2025-11-29T07:13:39.380742+00:00"
+  "fetched_at": "2025-11-29T07:53:37.137467+00:00"
 }

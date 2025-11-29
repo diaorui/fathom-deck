@@ -25,6 +25,16 @@
       "description": "Palantir posted strong third-quarter earnings, but shares dropped 16% this month on valuation concerns and a short position from Michael Burry."
     },
     {
+      "headline": "AI shopping comes with its own perils this Black Friday",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNlpuYkFfb0FpekpWYmpBZXlTNW00OVJfQVFtMEVWS19OWmtUWE1DXzByNjdHRkNTbG5lSkVaWlFkeDNmZ2tWMEhOd2dNcFVLMjNGb2J5eTcxZUhlenBDY0I4YXZwc1JPRVFpMnl2blJxaHpIWDZjTGpMb2FmTWpPQUFWTnVBUDZRRkNGWHRnNmlQM0g3dGlGUkZ0c9IBoAFBVV95cUxOSnV4eWZrY3RlZFBzRVhBNEJOZEJ5Z1o1bGJYcGpLLVcxeVY5X2RHMXFlMEpVc2JPMnh6WTQxZTVBTXhHbGF1VEVLMlIxam1leVVyb2tEYjV5ZWlieXVuMDc4QUVybmNEOHMySW5qMlhQeEpKUVNTTjNiaTdPaUpacmRMbzR2TERpZTNSLS10QmxaVS1yWUJwaVI2SzJuOHI5?oc=5",
+      "pub_date": 1764331950.0,
+      "article_url": "https://www.cnbc.com/2025/11/28/black-friday-ai-agentic-shopping-comes-with-its-own-perils.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108233435-1764337549194-gettyimages-2248804951-hpet5395_cjmbfqif.jpeg?v=1764337911&w=1920&h=1080",
+      "description": "Agentic AI is transforming the way people shop online, and it comes with heigheted risks of digital fraud for retailers."
+    },
+    {
       "headline": "Online shopping scams are on the rise, with scammers using AI to dupe holiday shoppers",
       "source": "ABC7 Los Angeles",
       "source_url": "https://abc7.com",
@@ -33,6 +43,26 @@
       "article_url": "https://abc7.com/post/online-shopping-scams-are-rise-scammers-using-ai-dupe-holiday-shoppers/18223322/",
       "image": "https://cdn.abcotvs.com/dip/images/18224839_112825-kabc-7oysi-cyber-monday-scams-tn-img.jpg?w=1600",
       "description": "There's been a 250% spike in the creation of fake shopping sites, according to NordVPN. Scammers are using AI to make the duped shopping websites look very legit."
+    },
+    {
+      "headline": "China consumers use AI to alter product photos, claim refunds for \u2018damaged\u2019 goods",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcFVEQkpwdk9Zc2JGZl9YaGtvc3lWenBDTjZDMkNFbXhmVVctLUxpZXpiMU1Eb2dFbUROLUJrTktKUWVtVGFRZmRBOXpEZ2VSemZlZjNmMk5leEs3bDZLdE5qSDc0QjlPTW9Vc1p2S2hZNWRobHBmbW9Ob0FTVVVnMC1wVTVtRlJ3OFRYZ2xlQWRuM2lKNjdCRVB6ZEZlbWpTMlJxVndNM3cxR2xLSTRpVDZYT0duR0VhZTNFZGdVdllyRDd1OEFHcnUzOEFlcXk4NnNudjVpNFFaRDZjbUJ1YTk0eEzSAeQBQVVfeXFMTWFQN0NkUlFCWUViSmJpeTdEQm16UXlrZnJmb2FJWVdTd0ZyX3FTWFFRSlhXUTV3WVlsMk1GOHpmd2I0WEhCQUxHcHRnUmZWV1JsQXVNV3Vocjd5ZWhFNFhvQ3k0RTVvR2t0eS1Mbi1MQmFMQ2dDMU1pUlozakdGNkpRQUh2bTJpcml5alduUTVxbG52bjdyUHppSkNvLUVUakIwcUVVUV9HZEZ1elp6dFotOUdMZVQ2WkVrb0R6b0FxX19tcmVYQS16YmVyZVVYRU9hMnJuR1ExWWVLOVhrVnBadmU4?oc=5",
+      "pub_date": 1764396009.0,
+      "article_url": "https://www.scmp.com/news/people-culture/trending-china/article/3334109/china-consumers-use-ai-alter-product-photos-claim-refunds-goods-appear-damaged",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/25/b92e15cb-cdec-44e2-9434-8a399e056dc0_016fec32.jpg?itok=SpBNR7v7&v=1764066664",
+      "description": "\u2018Immoral\u2019 online buyers create fake discrepancies across range of products; experts warn AI bandits that they could be committing fraud."
+    },
+    {
+      "headline": "Beloved HGTV star Hilary Farr, 74, breaks silence on \u2018devastating\u2019 health rumors",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVlfUDlmUWlrNnNLR0s5NWhHNVlKS0FDUDROZWFBNW5RYnBFX1BUYkdnaTFuTl9Ic3dnS3lwalpWREtmMVU2aDZRcmxVT1JjR0xINkYwMkVZV2RKcW4zN09oWUZOM2NEQTFKMnY5Q201XzluRWpiMUg2TkVHaVhvUFRjbnRDN0Ywdm9LMzllMjd3UC1DaUVxOG9FM254Mzg2ZmFLY0w2ZWlRNjZCNEluTXhfUndnNlpacVE?oc=5",
+      "pub_date": 1764395040.0,
+      "article_url": "https://nypost.com/2025/11/29/entertainment/beloved-hgtv-star-hilary-farr-breaks-silence-on-devastating-health-rumors/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/11/116370536.jpg?quality=75&strip=all&w=1200",
+      "description": "The 74-year-old \u201cLove It or List It\u201d star reassured fans she\u2019s \u201calive and well\u201d after bogus AI images of her in an oxygen mask went viral."
     },
     {
       "headline": "AI is taking jobs \u2014 here\u2019s Coursera CEO's No. 1 tip for grads to stay competitive",
@@ -45,14 +75,14 @@
       "description": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
     },
     {
-      "headline": "No, your favourite influencer hasn't got a dozen Dachshund dogs. It's just AI",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSTdHZGY1WU9vR0ptOUdoNVRoOWxFS3RjSzFKM1dacTVnY3lqdHUwcHVqRnZoMl9TNkNiU1NKU011RXFyN0pDaDFuQ1B4OUJJRkNLUGtXYl9vQdIBX0FVX3lxTE10ckRqVl9SblZCTmZhYnk5M08xWVdkUzN4Q0tFQ1BOOU1TUzYwZXpKY281RkZybkNhaE9ZQ2V0SEFiTC1PU0dDNUpLVUd4dUZtay1UcmttaGowYWlTRldz?oc=5",
-      "pub_date": 1764374620.0,
-      "article_url": "https://www.bbc.com/news/articles/c7vm5d42r8mo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e0bf/live/c05536c0-cc52-11f0-a892-01d657345866.jpg",
-      "description": "There\u2019s a new social media trend taking over - influencers are using AI to add animals to their photos."
+      "headline": "After a teddy bear talked about kink, AI watchdogs are warning parents against smart toys",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNFNhZzBmVGdjbWlmN0N1R2JUTk5zRkNBeURvekdiMG1sS0tsZnRVV2NzUlNmVTA1bFcwVGY0SGpJSmZmZ1ZQNWdKYlBVNEJuYS1MYzlINVZndDQ2S2EwdFUxUDYyTlh0b29zNTNlWjY5MUFlUGZvZnRPQ3BSMU5ScVNhTEJBSlBET3RFY3dR?oc=5",
+      "pub_date": 1764353640.0,
+      "article_url": "https://www.theguardian.com/technology/2025/nov/28/artificial-intelligence-smart-toys",
+      "image": "https://i.guim.co.uk/img/media/42c0f54dfea88fcb538b1e9bf6ac0ad53997e5b6/399_0_4429_3543/master/4429.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3474ffa6e48609256a458f50a40519b5",
+      "description": "Advocates are fighting against the $16.7bn global smart-toy market, decrying surveillance and a lack of regulation"
     },
     {
       "headline": "Will AI ever make big profits? Experts weigh in as bubble fears loom",
@@ -65,46 +95,16 @@
       "description": "The U.S. economy has come to increasingly depend on the AI boom, despite risks."
     },
     {
-      "headline": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWFfcC1vV2RJTWIxMzdITVRRWVdTY2sxQUNzRmpiUnpjcDdMcDNPc1Y2bE9SZ2wzaUx0cnpCZ1p4NmF0UkpKRHNBZlFGUkNhMmZzSEpab0RraGF0cktabTMwdXdlY2lkdV9VVVdqckRzUldBUTRUUVJyUHdTMDM2UQ?oc=5",
-      "pub_date": 1764337800.0,
-      "article_url": "https://www.theguardian.com/technology/2025/nov/28/amazon-ai-climate-change",
-      "image": "https://i.guim.co.uk/img/media/6de165ca4360d0ab477a2910029b933d916d9d02/92_0_4703_3763/master/4703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b40cd58e096bb6e156b45715f04d754e",
-      "description": "Workers say the firm\u2019s \u2018warp-speed\u2019 approach fuels pressure, layoffs and rising emissions"
-    },
-    {
-      "headline": "AI Adoption Rates Starting to Flatten Out",
-      "source": "Apollo Academy",
-      "source_url": "https://www.apolloacademy.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1POGhsT2dhUU9jbmx1Y2xnVUdTYXkxXzdLYTZYOWlHemVXakZrdGFMUTBZck5ORWtqak1kU2RDRDJLcWQ4dWJ6Y0d6TXpsaVFobjVsdFdSSHMzeWpxeExBd1Z6TDNRQ2FlR2p4N2R0WXFOckN5MUNVXzl3X20?oc=5",
-      "pub_date": 1764327713.0,
-      "article_url": "https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/",
-      "image": "https://www.apolloacademy.com/wp-content/uploads/2025/11/Nov28-chart.jpg",
-      "description": "Data from the Census Bureau and Ramp shows that AI adoption rates are starting to flatten out across all firm..."
-    },
-    {
-      "headline": "Man vs. machine: Who does better at spotting \u2018AI slop\u2019?",
-      "source": "WHYY",
-      "source_url": "https://whyy.org",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uRi1aNGEzVWlMaUlBN1daWk1NaGNWN1RoYUdZcVRtNV9SS0s0d1VQdVVHMmhGaHo2eHBZakxwQlJwRWd5UE9ZZk9VUENuNzg2M29wSnJZQldBTjZUb1JSVnFFcFktLUdnMGo2VlhGM2VuczFLc0xDMQ?oc=5",
-      "pub_date": 1764326851.0,
-      "article_url": "https://whyy.org/articles/penn-professor-tests-ai-vs-human-detection/",
-      "image": "https://whyy.org/wp-content/uploads/2025/01/university-pennsylvania-2023-12-15.jpg",
-      "description": "The widespread use of AI has sparked a dilemma for teachers and professors. How do you tell the difference between assignments written by students, and those written by a bot?"
-    },
-    {
-      "headline": "A.I. and the Trillion-Dollar Question",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVdGWUxSRko5TUpCeFRFcVhGcEVVYl9jVGlSaWJ4R0lyWENPMWQ1eFhHNkVwR2lRY0lvd3dGYlNDZ01FN0pDQU5QYWpjUmdvb2JUcm5YZE5XNjZXcE5NSVFsaXhNMkp5ejR4MDVCUGUtUFRxck5ldTE2Q0VJVURPS1A4TFBfSm12VllZeDQzNnJ0cXdrUzZV?oc=5",
-      "pub_date": 1764307800.0,
-      "article_url": "https://www.nytimes.com/2025/11/28/world/ai-valuations-markets-technology-hongkong-fire.html",
-      "image": null,
-      "description": null
+      "headline": "No, your favourite influencer hasn't got a dozen Dachshund dogs. It's just AI",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSTdHZGY1WU9vR0ptOUdoNVRoOWxFS3RjSzFKM1dacTVnY3lqdHUwcHVqRnZoMl9TNkNiU1NKU011RXFyN0pDaDFuQ1B4OUJJRkNLUGtXYl9vQdIBX0FVX3lxTE10ckRqVl9SblZCTmZhYnk5M08xWVdkUzN4Q0tFQ1BOOU1TUzYwZXpKY281RkZybkNhaE9ZQ2V0SEFiTC1PU0dDNUpLVUd4dUZtay1UcmttaGowYWlTRldz?oc=5",
+      "pub_date": 1764374620.0,
+      "article_url": "https://www.bbc.com/news/articles/c7vm5d42r8mo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e0bf/live/c05536c0-cc52-11f0-a892-01d657345866.jpg",
+      "description": "There\u2019s a new social media trend taking over - influencers are using AI to add animals to their photos."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T07:13:50.009989+00:00"
+  "fetched_at": "2025-11-29T07:53:49.901149+00:00"
 }

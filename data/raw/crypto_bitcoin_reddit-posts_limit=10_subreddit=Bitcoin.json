@@ -57,6 +57,17 @@
       "description": null
     },
     {
+      "title": "Black friday as a bitcoiner",
+      "author": "Shr00mBaloon",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p9zi2n/black_friday_as_a_bitcoiner/",
+      "published": 1764449573.0,
+      "thumbnail": "https://preview.redd.it/3reykk5he94g1.png?width=640&crop=smart&auto=webp&s=3f7d44d1eacfd712135e7736e12c99afc21eaf25",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "The freedom you seek is in the dips you avoid.",
       "author": "Available_Reveal4066",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p9scxh/the_freedom_you_seek_is_in_the_dips_you_avoid/",
@@ -73,17 +84,6 @@
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p9j7wl/according_to_this_pattern_bitcoin_will_reach_10b/",
       "published": 1764402687.0,
       "thumbnail": "https://preview.redd.it/m4bpcd42j54g1.jpeg?width=640&crop=smart&auto=webp&s=1b2ff999f148bae33520d7d5f5fd7592616dcfc7",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Black friday as a bitcoiner",
-      "author": "Shr00mBaloon",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p9zi2n/black_friday_as_a_bitcoiner/",
-      "published": 1764449573.0,
-      "thumbnail": "https://preview.redd.it/3reykk5he94g1.png?width=640&crop=smart&auto=webp&s=3f7d44d1eacfd712135e7736e12c99afc21eaf25",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-29T21:23:59.417499+00:00"
+  "fetched_at": "2025-11-29T21:59:16.948732+00:00"
 }

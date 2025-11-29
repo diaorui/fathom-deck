@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "Full-size humanoid hobot LimX's Oli walks over construction debris (standing 165 cm tall and weighing 55 kg)",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9lmwl/fullsize_humanoid_hobot_limxs_oli_walks_over/",
-      "published": 1764411688.0,
-      "thumbnail": "https://external-preview.redd.it/eWd4MjducHk4NjRnMft9vFA-FNFjTxs8E3afZ-EBB4QQysHN5Jqw62PmqkrM.png?width=640&crop=smart&auto=webp&s=3151f354db997dfe4fab3361aa6ac5e71edee6a0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From LimX Dynamics on \ud835\udd4f: https://x.com/LimX_Dynamics/status/1994408054989987939?s=20"
-    },
-    {
       "title": "Ball Balancing Robot",
       "author": "JohanLink",
       "url": "https://www.reddit.com/r/robotics/comments/1p9n1hd/ball_balancing_robot/",
@@ -24,6 +13,17 @@
       "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
     },
     {
+      "title": "Full-size humanoid hobot LimX's Oli walks over construction debris (standing 165 cm tall and weighing 55 kg)",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9lmwl/fullsize_humanoid_hobot_limxs_oli_walks_over/",
+      "published": 1764411688.0,
+      "thumbnail": "https://external-preview.redd.it/eWd4MjducHk4NjRnMft9vFA-FNFjTxs8E3afZ-EBB4QQysHN5Jqw62PmqkrM.png?width=640&crop=smart&auto=webp&s=3151f354db997dfe4fab3361aa6ac5e71edee6a0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "From LimX Dynamics on \ud835\udd4f: https://x.com/LimX_Dynamics/status/1994408054989987939?s=20"
+    },
+    {
       "title": "Actuator/servo",
       "author": "NoIntern2903",
       "url": "https://www.reddit.com/r/robotics/comments/1p9xup1/actuatorservo/",
@@ -33,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Many in the RC community haven\u2019t been able to help a lot in these regards. Im struggling to get my servo programmed how I want it to for my RC snow plow and I\u2019m not sure how to program two actuators to act as my angle method so one comes in when the other pushes out and vice versa the other direction. Currently I\u2019m using an RC winch controller board on my RX to TX as my lift actuator and it works. When I tried to program two actuators to do as I wanted with the opposite wires tied together i think wires crossed and shorted the controller board. But I don\u2019t think ot could handle two actuators anyways. I\u2019m really wanting to keep this a simple build using a single battery if possible and on one TX. Any help appreciated. Pics are of my plow."
+    },
+    {
+      "title": "RoboDK 3 diferent processes on the same piece",
+      "author": "Next_Bathroom1376",
+      "url": "https://www.reddit.com/r/robotics/comments/1pa0vpc/robodk_3_diferent_processes_on_the_same_piece/",
+      "published": 1764453160.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hello, I need a simulation in RoboDK, 3 robots each with a different tool, to perform an operation on the same piece consecutively. The piece passes by each one on the conveyor. The simulation needs to be simple, nothing complicated. If there is anyone who can help me, write to me"
     },
     {
       "title": "Paper Science Robotics: Scientists in Korea have developed a rollable robotic structure that is flexible enough to collapse into a compact hub, but also stiff enough to bear heavy loads like 3D printers when extended",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi guys. I have an upcoming project in school where I have to draw 3 letters using the KUKA arm and a marker. I created an autocad drawing of the 3 letters on a 60x30 grid. I wrote down the coordinates for every point. What I would like to know is, how can I program the arm so that it moves a certain distance between each coordinate. for example pt 1,0 and 0,1 are 10mm apart, same between 1,0 and 1,0. Thank you !!!"
-    },
-    {
-      "title": "Doubt on gazebo harmonic ros2 + fusion360",
-      "author": "UpsetSpecialist5708",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9fcie/doubt_on_gazebo_harmonic_ros2_fusion360/",
-      "published": 1764389604.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So i used an api to export a valid package for visualization on rviz2 and gazebo harmonic, but the .gszebo file runs with plugins which are deprecated. (That's a problem for the node&topics logic on Ros2jazzy) When i tried to migrate to an sdf file, scale woes complete wrong, enormous models i dont understand where is the problem, gazebo harmonic explicitly process the sdf file in meters while my models where exported in meters precisely. \u00bfIt's the stl format on harmonic+std giving me hard times or is fusion+stl? How can i import my meshes in to gazebo with this method, any other way to import my own models. Thank you for read."
     }
   ],
-  "fetched_at": "2025-11-29T21:24:03.745786+00:00"
+  "fetched_at": "2025-11-29T21:59:19.564234+00:00"
 }

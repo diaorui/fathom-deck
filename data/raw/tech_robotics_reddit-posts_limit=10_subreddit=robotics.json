@@ -13,6 +13,17 @@
       "description": "Science Robotics: Foldable and rollable interlaced structure for deployable robotic systems: https://www.science.org/doi/10.1126/scirobotics.adv4696"
     },
     {
+      "title": "Anonymized case study: autonomous security assessment of a 500-AMR fleet using AI + MCP",
+      "author": "Obvious-Language4462",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9kq7j/anonymized_case_study_autonomous_security/",
+      "published": 1764408278.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We\u2019ve published an anonymized case study describing how an AI-driven security framework (CAI + Model Context Protocol) performed a full-stack assessment on a fleet of 500 Autonomous Mobile Robots (AMRs). The evaluation correlates firmware analysis, IaC cloud configuration, FMS data, network traffic, web stack inspection, and live telemetry. Findings include systemic issues such as unauthenticated UDP position broadcasts and a stored XSS leading to session hijacking. Full case study: https://aliasrobotics.com/case-study-sublight-shipping-MCP.php (This is an anonymized real-world scenario; no vendor identity included.)"
+    },
+    {
       "title": "KUKA Programming",
       "author": "Idontlikethissorry",
       "url": "https://www.reddit.com/r/robotics/comments/1p9ez3x/kuka_programming/",
@@ -22,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi guys. I have an upcoming project in school where I have to draw 3 letters using the KUKA arm and a marker. I created an autocad drawing of the 3 letters on a 60x30 grid. I wrote down the coordinates for every point. What I would like to know is, how can I program the arm so that it moves a certain distance between each coordinate. for example pt 1,0 and 0,1 are 10mm apart, same between 1,0 and 1,0. Thank you !!!"
+    },
+    {
+      "title": "Family bot build?",
+      "author": "Morgoroth37",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9l3ya/family_bot_build/",
+      "published": 1764409766.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "How hard would it be to build something like this? Either from scratch or modifying an existing Traxxas Tenton rc car. I've tried looking at various options involving 3d printing and Arduino both of which I have some experience in, but I can't find anything that fits my parameters. Controlled over WiFi for range. Camera Can move around Extra points for microphone and speakers."
     },
     {
       "title": "Doubt on gazebo harmonic ros2 + fusion360",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
-    },
-    {
-      "title": "Design of Omni Wheels",
-      "author": "Imaginary-End-1453",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9149m/design_of_omni_wheels/",
-      "published": 1764351929.0,
-      "thumbnail": "https://b.thumbs.redditmedia.com/tOaZe7yeCJvBSltTohdWvy7FB_EmdAWEJv-3cBLfHDU.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi! I'm extremely new to robotics but as part of a competition I was entering for amateur school students, we were planning on using omni wheels (not mecanum but instead the wheels with rollers patterned around). I (as I have some CAD experience) have been given the duty of designing these in Fusion 360, however, I'm not 100% sure on the attachment mechanism for the rollers and the pins. Taking some inspiration from a blog post (see image down below) I wanted to do a similar thing. However I have a few questions.... how are the rollers kept from moving along the axle pin and how is the axle pin made stable, I'm just not sure how to design it. Notes: even though I am taking inspiration from the diagram , I am not specifically talking about how it works in the diagram as I know that may be hard to diagnose, I am speaking more generally I have attempted something myself (see second photo) but the roller and roller pin was all one, which I realised wouldnt work as the dimensions for the pin fit exactly which would not allow it to rotate and if it was loose it would be useless. Sorry for my spaghetti ADHD writing! Any help appreciated! Thank youuuuuu. https://preview.redd.it/7zqu8v1vb14g1.png?width=1764&format=png&auto=webp&s=d0d0173042305196e65f9c4c981d93a11df82fce https://preview.redd.it/ota6d4g0c14g1.png?width=1090&format=png&auto=webp&s=ded73ccc834ff9e79e1357e2b730ad15f32cfbae"
-    },
-    {
-      "title": "AgileX unveiled a robotic arm two days ago: NERO. 3KG payload + 7DOF arm at $2500 without hand",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7za49/agilex_unveiled_a_robotic_arm_two_days_ago_nero/",
-      "published": 1764240494.0,
-      "thumbnail": "https://external-preview.redd.it/b3lubTJ5YmM0czNnMfAbFN_26xAZ4PVGHITEzyJsbPuxAbz-n0ZhkXdGKWOP.png?width=640&crop=smart&auto=webp&s=3e7955140ce6a81a9ce73afcf5bb32dd1e75e0e0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "AgileX Robotics on \ud835\udd4f: https://x.com/AgilexRobotics/status/1993218134246076721 Website: https://global.agilex.ai/"
     }
   ],
-  "fetched_at": "2025-11-29T09:24:00.223668+00:00"
+  "fetched_at": "2025-11-29T10:09:52.280895+00:00"
 }

@@ -19,20 +19,6 @@
       "site_name": "Ars Technica"
     },
     {
-      "title": "I don't care how well your \"AI\" works",
-      "url": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
-      "hn_url": "https://news.ycombinator.com/item?id=46055944",
-      "author": "todsacerdoti",
-      "points": 485,
-      "num_comments": 765,
-      "created_at": "2025-11-26T10:08:20Z",
-      "object_id": "46055944",
-      "image": null,
-      "description": null,
-      "favicon": "https://fokus.cool/favicon.png",
-      "site_name": "fokus.cool"
-    },
-    {
       "title": "AI CEO \u2013 Replace your boss before they replace you",
       "url": "https://replaceyourboss.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=46072002",
@@ -51,7 +37,7 @@
       "url": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
       "hn_url": "https://news.ycombinator.com/item?id=46069048",
       "author": "vegasbrianc",
-      "points": 413,
+      "points": 414,
       "num_comments": 306,
       "created_at": "2025-11-27T13:28:34Z",
       "object_id": "46069048",
@@ -65,8 +51,8 @@
       "url": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
       "hn_url": "https://news.ycombinator.com/item?id=46083004",
       "author": "pyrophoenix",
-      "points": 287,
-      "num_comments": 68,
+      "points": 303,
+      "num_comments": 75,
       "created_at": "2025-11-28T21:40:21Z",
       "object_id": "46083004",
       "image": "https://www.airbus.com/sites/g/files/jlcbta136/files/styles/thumbnail/public/2025-09/airbus-sharing-default.png?itok=AqaYIUdZ",
@@ -93,7 +79,7 @@
       "url": "https://objectiveunclear.com/airloom.html",
       "hn_url": "https://news.ycombinator.com/item?id=46080289",
       "author": "azinman2",
-      "points": 213,
+      "points": 215,
       "num_comments": 68,
       "created_at": "2025-11-28T16:49:12Z",
       "object_id": "46080289",
@@ -107,7 +93,7 @@
       "url": "https://www.bbc.com/news/live/cvg4y6g74ert",
       "hn_url": "https://news.ycombinator.com/item?id=46082825",
       "author": "nrhrjrjrjtntbt",
-      "points": 206,
+      "points": 208,
       "num_comments": 94,
       "created_at": "2025-11-28T21:16:46Z",
       "object_id": "46082825",
@@ -143,9 +129,23 @@
       "description": "\u201cWe can produce results that meet our quality standards without its assistance.\u201d",
       "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
       "site_name": "The Verge"
+    },
+    {
+      "title": "AI Adoption Rates Starting to Flatten Out",
+      "url": "https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/",
+      "hn_url": "https://news.ycombinator.com/item?id=46079987",
+      "author": "toomuchtodo",
+      "points": 178,
+      "num_comments": 137,
+      "created_at": "2025-11-28T16:21:09Z",
+      "object_id": "46079987",
+      "image": "https://www.apolloacademy.com/wp-content/uploads/2025/11/Nov28-chart.jpg",
+      "description": "Data from the Census Bureau and Ramp shows that AI adoption rates are starting to flatten out across all firm...",
+      "favicon": "https://www.apolloacademy.com/wp-content/uploads/2022/06/cropped-cropped-Apollo-Academy-Site-Icon-180x180.jpg",
+      "site_name": "Apollo Academy"
     }
   ],
-  "total_hits": 357,
+  "total_hits": 354,
   "has_metadata": true,
-  "fetched_at": "2025-11-29T09:23:56.056122+00:00"
+  "fetched_at": "2025-11-29T10:09:48.448338+00:00"
 }

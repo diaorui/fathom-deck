@@ -35,17 +35,6 @@
       "description": "MIT study finds AI can already replace 11.7% of U.S. workforce.[1] China\u2019s DeepSeek Releases New Open Source AI Model Amid Google\u2019s Gemini 3 Roll Out.[2] US Patent Office issues new guidelines for AI-assisted inventions.[3] OpenAI claims teen circumvented safety features before suicide that ChatGPT helped plan.[4] Sources: [1] https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html [2] https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/ [3] https://www.reuters.com/legal/government/us-patent-office-issues-new-guidelines-ai-assisted-inventions-2025-11-26/ [4] https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/"
     },
     {
-      "title": "Does anyone actually use \u201c\u2014\u201c when typing?",
-      "author": "owenwags_",
-      "url": "https://www.reddit.com/r/artificial/comments/1p9ghg0/does_anyone_actually_use_when_typing/",
-      "published": 1764393159.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I thinks it\u2019s become quite noticeable that AI uses \u2014 quite often in its writing. No when I see it, it always makes me wonder if AI was at least used in the process. I\u2019m curious, did any of you actually use this in non formal typing before AI?"
-    },
-    {
       "title": "AI data centers' massive demand for aluminum is crushing the US aluminum industry",
       "author": "yahoofinance",
       "url": "https://www.reddit.com/r/artificial/comments/1p8y39c/ai_data_centers_massive_demand_for_aluminum_is/",
@@ -90,6 +79,17 @@
       "description": "I made two AI characters, Omzig and Gizmo. I used Gemini 3 pro, and Gpt-5-mini to code it. I wanted feedback on the AI's so I've made a discord server for testing them out, I would like to add this is entirely feee and the only reason I have different tiers is to stop over use and allow certain people to use it more, the discord server does not have any moderation bots, but I will try and moderate it to the best I can, and you just have to ping the AI or reply to a message for it to respond, there are a lot of commands like: /quota /leaderboard /think /search/deep_search, the bot will currently be offline since I'm fixing it, but will be back up in a few hours so most likely by the time you see this: https://discord.gg/yttwQEetz"
     },
     {
+      "title": "Does anyone actually use \u201c\u2014\u201c when typing?",
+      "author": "owenwags_",
+      "url": "https://www.reddit.com/r/artificial/comments/1p9ghg0/does_anyone_actually_use_when_typing/",
+      "published": 1764393159.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I thinks it\u2019s become quite noticeable that AI uses \u2014 quite often in its writing. No when I see it, it always makes me wonder if AI was at least used in the process. I\u2019m curious, did any of you actually use this in non formal typing before AI?"
+    },
+    {
       "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
       "author": "wiredmagazine",
       "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
@@ -112,5 +112,5 @@
       "description": "If we were to assign responsibility to A user base or user set for the bulk of harm AI is doing to our water and electricity as a resource, what group of people or entities are doing the most harm? Some one told me \"ChatGPT, Gemini, Grok, and all the other slop factories are what is consuming the overwhelming majority of AI resources.\" but i thought that just normal people asking chat GPT random questions or Grok being some one's waifu was the left overs from other applications. I had thought the servers and AI algorithms were being turned towards education, government, corporate works and other people received de-prioritized access after paying businesses got their needs processed. Am i wrong? Are Chat GPT queries from randos online really the supposed genesis of 20xxs impending water scarcity?"
     }
   ],
-  "fetched_at": "2025-11-29T09:23:56.189343+00:00"
+  "fetched_at": "2025-11-29T10:09:48.440663+00:00"
 }

@@ -68,17 +68,6 @@
       "description": ": 'Ah, I see you're ready to escalate. Let's make digital destruction simple and effective.'"
     },
     {
-      "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
-      "published": 1764326221.0,
-      "thumbnail": "https://external-preview.redd.it/pCU_L14NP5B0d5_n_QHNSysSeBYi7z_wBdVM9dGTEIA.jpeg?width=640&crop=smart&auto=webp&s=8fdf0c8d299e3e3249decddd43e5b18bc6196eb0",
-      "external_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
-    },
-    {
       "title": "Question: Do we know where and for what the bulk of AI compute is utilized?",
       "author": "Quizzelbuck",
       "url": "https://www.reddit.com/r/artificial/comments/1p92xq5/question_do_we_know_where_and_for_what_the_bulk/",
@@ -88,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "If we were to assign responsibility to A user base or user set for the bulk of harm AI is doing to our water and electricity as a resource, what group of people or entities are doing the most harm? Some one told me \"ChatGPT, Gemini, Grok, and all the other slop factories are what is consuming the overwhelming majority of AI resources.\" but i thought that just normal people asking chat GPT random questions or Grok being some one's waifu was the left overs from other applications. I had thought the servers and AI algorithms were being turned towards education, government, corporate works and other people received de-prioritized access after paying businesses got their needs processed. Am i wrong? Are Chat GPT queries from randos online really the supposed genesis of 20xxs impending water scarcity?"
+    },
+    {
+      "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
+      "published": 1764326221.0,
+      "thumbnail": "https://external-preview.redd.it/pCU_L14NP5B0d5_n_QHNSysSeBYi7z_wBdVM9dGTEIA.jpeg?width=640&crop=smart&auto=webp&s=8fdf0c8d299e3e3249decddd43e5b18bc6196eb0",
+      "external_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
     },
     {
       "title": "Free Access to Claude Opus 4.5, Sonnet 4.5 & Haiku 4.5 - No Waitlist, No Premium Lock",
@@ -112,5 +112,5 @@
       "description": "Hey all. I found this sub while researching which AI might be best for helping me think through ideas and provide insights into my writing, so I'm sorry if this question has been asked recently. I don\u2019t know that much about all the different models available and it\u2019s hard for me to choose which one might be best for me when there seems to be many options. What, in your opinion, is the best AI for someone looking for a collaborative research AI \"partner\" to bounce ideas off of? I do not use AI to write, but will sometimes ask ChatGPT for insight into essay drafts or journal entries that feel like they're developing a still-premature idea. I appreciate AI's ability to discern themes, patterns, subtext, and layers of meaning I can't notice on my own, and to suggest different directions I could take with each idea. I like to ask it to suggest other articles/essays written on similar topics. I don't trust ChatGPT's tendency to provide relentlessly positive feedback, but I don't trust any AI to deliver the same quality critique that a human could, so I'm more looking for a model that can help me develop and expand ideas to a point where I can take the work the rest of the way on my own. What do you think?"
     }
   ],
-  "fetched_at": "2025-11-29T13:16:16.287863+00:00"
+  "fetched_at": "2025-11-29T13:50:31.731565+00:00"
 }

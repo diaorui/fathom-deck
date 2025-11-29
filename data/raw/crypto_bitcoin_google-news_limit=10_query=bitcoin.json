@@ -25,6 +25,16 @@
       "description": null
     },
     {
+      "headline": "New York company halts Bitcoin mining operations after fire breaks out",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVMwc2hGYnVPd0JOVmZ6c3VJZGFoeW1uSFZUNGJFNm0yT3B1TlNYQlJkYW5wRTdOR3ZFeUY1YXk1OF9nS2JKQjlSNml4dTNNdG1CTkJrYnV4NVVuUy1JWWQxdDFyeW9lOFNMVWFLTU9ockhHXzZEY1otVWNpU1hxc2REcEFTZw?oc=5",
+      "pub_date": 1764420840.0,
+      "article_url": "https://finance.yahoo.com/news/york-company-halts-bitcoin-mining-125400001.html",
+      "image": "https://media.zenfs.com/en/thestreet_881/e30b183f204dccc37e4803a420c7af39",
+      "description": "It has been an unkind season for the crypto industry and Bitcoin (BTC) mining firms have not been able to escape the heat either. Bitcoin mining is the process of using specialised computing systems to solve complex cryptographic functions so that you can verify and add blocks containing BTC ..."
+    },
+    {
       "headline": "Did the U.S. Steal $13 Billion in Bitcoin? China Says the Biggest Crypto Heist Ever Was a Black Ops Job",
       "source": "Disruption Banking",
       "source_url": "https://www.disruptionbanking.com",
@@ -36,21 +46,11 @@
     },
     {
       "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1BFSTZjVzJNQ2NwRmY5bWplVEhkSndFSml2Wm1ENjBzRWU0eFM2d25haU03Ny1ZaDFWZm96NHAyZUFwQzlQa01xWVBKUmxCSEdPRWFLY1NleGg5Y2xpNjR0QlhKWTUzYVdhUFgwWmFMMWtrd0RqVHpDS3g5MV9ZN3ozNV9mTGFfMmFfZmF6OUZJS2Jn?oc=5",
-      "pub_date": 1764367250.0,
-      "article_url": "https://finance.yahoo.com/news/michael-saylors-microstrategy-moves-billions-220050534.html",
-      "image": "https://media.zenfs.com/en/thestreet_881/d1aa5494f6ca9d52fa64ef014153b18a",
-      "description": "The world's leading Bitcoin (BTC) treasury company, MicroStrategy (Nasdaq: MSTR), now rebranded to Strategy, has been moving billions in BTC. Led by co-founder and executive chairman Michael Saylor, Strategy is a software company that began accumulating Bitcoin in 2020. Now, it is the ..."
-    },
-    {
-      "headline": "Largest private gold holder shuts down Bitcoin mining operations",
       "source": "TheStreet",
       "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmQ5N0VubzZIaDB3RW02dHg5a01abF9ZcjQtS0pGc2Q2SGhEYkZtT1lHRTNUWXg3bFVVcVVSd0NPMUJ5V1R6UlMwOFBncWZQY3JzVm5DQVFqdm1oSTg5UldTd2JxeXIxNnhRYXJTZkVXTEVuQVFjS2JiUDdzaVNLdldwdGlLWGFZVmFLMUlzZ19FU2dtME9od2p5bnRIdw?oc=5",
-      "pub_date": 1764350706.0,
-      "article_url": "https://www.thestreet.com/crypto/business/tether-shuts-down-bitcoin-mining-operations-fires-staff",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFZDWWlYdmZZN3RXU1ZTQVdOdTdEbzZOcnB3ektrZnNGZjlVMHdJQUhEeUwweHM4cHJ1RUhObG9fVmZibDgtM0JIT3QwM25tRDFMdGpvc2FMZWhGUy0yQlA3MURUUVhaZUNNOGpSSFVhbWJQQU1sV3lQZUdUVFpKR1M1M0w4NHRYMnBsZkRBSkY4blhHZFpLSjhBOEQ?oc=5",
+      "pub_date": 1764356450.0,
+      "article_url": "https://www.thestreet.com/crypto/trading/michael-saylors-microstrategy-moves-billions-in-bitcoin",
       "image": null,
       "description": null
     },
@@ -63,6 +63,16 @@
       "article_url": "https://www.investors.com/news/mstr-stock-strategy-bitcoin-price-interest-costs-mnav-premium/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "The fatal flaw in using bitcoin as a currency",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5",
+      "pub_date": 1764133249.0,
+      "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
+      "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
     },
     {
       "headline": "I/O Fund Called the Bitcoin Selloff: What Liquidity & DXY Data Predict Next",
@@ -85,16 +95,6 @@
       "description": "The Trump family, with ample crypto ventures, has lost an estimated $1 billion from the monthlong cryptocurrency freefall."
     },
     {
-      "headline": "Crypto hoarding company shares under pressure as risk appetite wanes",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlo3NW9teTJCQnFiZDZNMnVYb3FiaU1rNHJjMHNuemU0UnduV0dUT0J0VlpkVE1QcnZTTGRMbVZTMTIxUWp6SW03MWlCTWotS0hpVVZGMGxxWkllMmhlc1BSMGFoZDRmRE1hWkdFbEZZaTIzNHR6ck9ZZ0x2ZktVM3haNEVqLXljanlwVU5Id3ZjWUFUYkFyX3ZxUXNUTVFHYnFXcGRqcThqY0ZsTTNJeHAtWm1XUHJYYWc?oc=5",
-      "pub_date": 1764326148.0,
-      "article_url": "https://www.reuters.com/business/finance/crypto-hoarding-company-shares-under-pressure-risk-appetite-wanes-2025-11-28/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "An \u2018Important\u2019 China \u2018Signal\u2019 Just Quietly Started Flashing As The Bitcoin Price Suddenly Bounces Back",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T13:16:36.192165+00:00"
+  "fetched_at": "2025-11-29T13:50:48.579316+00:00"
 }

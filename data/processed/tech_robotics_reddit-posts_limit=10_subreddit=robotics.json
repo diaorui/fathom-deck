@@ -46,17 +46,6 @@
       "description": "How hard would it be to build something like this? Either from scratch or modifying an existing Traxxas Tenton rc car. I've tried looking at various options involving 3d printing and Arduino both of which I have some experience in, but I can't find anything that fits my parameters. Controlled over WiFi for range. Camera Can move around Extra points for microphone and speakers."
     },
     {
-      "title": "Anonymized case study: autonomous security assessment of a 500-AMR fleet using AI + MCP",
-      "author": "Obvious-Language4462",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9kq7j/anonymized_case_study_autonomous_security/",
-      "published": 1764408278.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We\u2019ve published an anonymized case study describing how an AI-driven security framework (CAI + Model Context Protocol) performed a full-stack assessment on a fleet of 500 Autonomous Mobile Robots (AMRs). The evaluation correlates firmware analysis, IaC cloud configuration, FMS data, network traffic, web stack inspection, and live telemetry. Findings include systemic issues such as unauthenticated UDP position broadcasts and a stored XSS leading to session hijacking. Full case study: https://aliasrobotics.com/case-study-sublight-shipping-MCP.php (This is an anonymized real-world scenario; no vendor identity included.)"
-    },
-    {
       "title": "RPLIDAR suddenly stopped working",
       "author": "Candid-Scheme1835",
       "url": "https://www.reddit.com/r/robotics/comments/1p9n6zn/rplidar_suddenly_stopped_working/",
@@ -66,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Was working with SLAM on ROS2 and my RPLIDAR suddenly stopped working \u2014 only 2 points show up. Tried swapping cables, reconnecting, even tested in RoboStudio \u2014 same result. Red laser is on and flickering. Has anyone ever faced a similar issue? Did you manage to fix it?"
+    },
+    {
+      "title": "Anonymized case study: autonomous security assessment of a 500-AMR fleet using AI + MCP",
+      "author": "Obvious-Language4462",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9kq7j/anonymized_case_study_autonomous_security/",
+      "published": 1764408278.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We\u2019ve published an anonymized case study describing how an AI-driven security framework (CAI + Model Context Protocol) performed a full-stack assessment on a fleet of 500 Autonomous Mobile Robots (AMRs). The evaluation correlates firmware analysis, IaC cloud configuration, FMS data, network traffic, web stack inspection, and live telemetry. Findings include systemic issues such as unauthenticated UDP position broadcasts and a stored XSS leading to session hijacking. Full case study: https://aliasrobotics.com/case-study-sublight-shipping-MCP.php (This is an anonymized real-world scenario; no vendor identity included.)"
     },
     {
       "title": "KUKA Programming",
@@ -112,5 +112,5 @@
       "description": "What board should I install on this robot dog I created, and what direction should I take in its development? Please leave a comment.\ud83d\ude3c\ud83d\udc4d"
     }
   ],
-  "fetched_at": "2025-11-29T13:16:20.160192+00:00"
+  "fetched_at": "2025-11-29T13:50:36.214047+00:00"
 }

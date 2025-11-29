@@ -24,17 +24,6 @@
       "description": null
     },
     {
-      "title": "Does anyone actually use \u201c\u2014\u201c when typing?",
-      "author": "owenwags_",
-      "url": "https://www.reddit.com/r/artificial/comments/1p9ghg0/does_anyone_actually_use_when_typing/",
-      "published": 1764393159.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I thinks it\u2019s become quite noticeable that AI uses \u2014 quite often in its writing. No when I see it, it always makes me wonder if AI was at least used in the process. I\u2019m curious, did any of you actually use this in non formal typing before AI?"
-    },
-    {
       "title": "Free Access to Claude Opus 4.5, Sonnet 4.5 & Haiku 4.5 - No Waitlist, No Premium Lock",
       "author": "LEGENDX08377",
       "url": "https://www.reddit.com/r/artificial/comments/1p9izzl/free_access_to_claude_opus_45_sonnet_45_haiku_45/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "MIT study finds AI can already replace 11.7% of U.S. workforce.[1] China\u2019s DeepSeek Releases New Open Source AI Model Amid Google\u2019s Gemini 3 Roll Out.[2] US Patent Office issues new guidelines for AI-assisted inventions.[3] OpenAI claims teen circumvented safety features before suicide that ChatGPT helped plan.[4] Sources: [1] https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html [2] https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/ [3] https://www.reuters.com/legal/government/us-patent-office-issues-new-guidelines-ai-assisted-inventions-2025-11-26/ [4] https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/"
+    },
+    {
+      "title": "Does anyone actually use \u201c\u2014\u201c when typing?",
+      "author": "owenwags_",
+      "url": "https://www.reddit.com/r/artificial/comments/1p9ghg0/does_anyone_actually_use_when_typing/",
+      "published": 1764393159.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I thinks it\u2019s become quite noticeable that AI uses \u2014 quite often in its writing. No when I see it, it always makes me wonder if AI was at least used in the process. I\u2019m curious, did any of you actually use this in non formal typing before AI?"
     },
     {
       "title": "AI data centers' massive demand for aluminum is crushing the US aluminum industry",
@@ -112,5 +112,5 @@
       "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
     }
   ],
-  "fetched_at": "2025-11-29T07:53:33.222664+00:00"
+  "fetched_at": "2025-11-29T08:44:17.504270+00:00"
 }

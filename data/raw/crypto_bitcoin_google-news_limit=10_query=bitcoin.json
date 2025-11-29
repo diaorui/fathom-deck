@@ -85,16 +85,6 @@
       "description": null
     },
     {
-      "headline": "Top Stock Movers Now: Intel Rises, Nvidia and Oracle Slip; Bitcoin Price Near $92,000",
-      "source": "Investopedia",
-      "source_url": "https://www.investopedia.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3N0MUJYNy13UE40MF9paGhfWHJab3lMSzdFSFhycDRkR3lUSkxCN0ZaWERuZkRKRzN3WUlwTTA2SHl5bE4xNnp3Nno2WTB4VTZZdlV4OEhrSTlUdWwxVVFrLVA0WHBqdFVfT1l2NlptR3lobzlRdmJaRFlWOWIxMUptMjB1a1ZEd2dKUHRHaXlhNWVTQmxmNV9TbEkxdl9LQlE4Vm5IaWZzalF5WnRXeTZjcldQZFF6UzNGOEpn?oc=5",
-      "pub_date": 1764347768.0,
-      "article_url": "https://www.investopedia.com/top-stock-movers-now-intel-rises-nvidia-and-oracle-slip-bitcoin-price-near-usd92000-11858623",
-      "image": "https://www.investopedia.com/thmb/ldU1bJUpXe72pxewvQtZHT7PpRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2248267343-7c56b7874b8e45229765e46612f7407a.jpg",
-      "description": "Shares of U.S. chipmaker Intel were leading the S&P higher as stocks edged upward on a holiday-shortened Black Friday session expected to be light on trading volume and corporate news."
-    },
-    {
       "headline": "The fatal flaw in using bitcoin as a currency",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
       "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
+    },
+    {
+      "headline": "I/O Fund Called the Bitcoin Selloff: What Liquidity & DXY Data Predict Next",
+      "source": "IO Fund",
+      "source_url": "https://io-fund.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qbENPMFZBbEs2a0RxZmNwNmtSaHhmTmdTMFoyRmJzT3pDcGNwWXdqRkpJc0YzRHI2YjJXZ0lhRW13NUhuS28tSHRiaXhqdjF0ZVBRMkFrTTY5SDJlSEQyTjNGak5LS3ZrZ05WSTBGa0I4Wjg2?oc=5",
+      "pub_date": 1764230400.0,
+      "article_url": "https://io-fund.com/crypto/iofund-bitcoin-liquidity-dxy-prediction",
+      "image": "https://images.prismic.io/bethtechnology/aSe9nmGnmrmGqZZW_BitcoinPricePredictionBasedonDXYandLiquidityTechnicalAnalysis.png?auto=format,compress",
+      "description": "In August, the I/O Fund warned that Bitcoin was entering a high-risk phase as global liquidity stalled, and sentiment patterns flashed caution. Since then, Bitcoin has fallen more than\u00a0-35%. In this article, follow up with the liquidity issues that are roiling risk assets, including Bitcoin. As investors will see, the technical outlook has shifted, increasing risk that a larger top could be in."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T07:53:47.611081+00:00"
+  "fetched_at": "2025-11-29T08:44:33.208913+00:00"
 }

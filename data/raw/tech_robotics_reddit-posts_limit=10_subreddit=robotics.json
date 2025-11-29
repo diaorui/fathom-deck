@@ -13,17 +13,6 @@
       "description": "Science Robotics: Foldable and rollable interlaced structure for deployable robotic systems: https://www.science.org/doi/10.1126/scirobotics.adv4696"
     },
     {
-      "title": "Doubt on gazebo harmonic ros2 + fusion360",
-      "author": "UpsetSpecialist5708",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9fcie/doubt_on_gazebo_harmonic_ros2_fusion360/",
-      "published": 1764389604.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So i used an api to export a valid package for visualization on rviz2 and gazebo harmonic, but the .gszebo file runs with plugins which are deprecated. (That's a problem for the node&topics logic on Ros2jazzy) When i tried to migrate to an sdf file, scale woes complete wrong, enormous models i dont understand where is the problem, gazebo harmonic explicitly process the sdf file in meters while my models where exported in meters precisely. \u00bfIt's the stl format on harmonic+std giving me hard times or is fusion+stl? How can i import my meshes in to gazebo with this method, any other way to import my own models. Thank you for read."
-    },
-    {
       "title": "KUKA Programming",
       "author": "Idontlikethissorry",
       "url": "https://www.reddit.com/r/robotics/comments/1p9ez3x/kuka_programming/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi guys. I have an upcoming project in school where I have to draw 3 letters using the KUKA arm and a marker. I created an autocad drawing of the 3 letters on a 60x30 grid. I wrote down the coordinates for every point. What I would like to know is, how can I program the arm so that it moves a certain distance between each coordinate. for example pt 1,0 and 0,1 are 10mm apart, same between 1,0 and 1,0. Thank you !!!"
+    },
+    {
+      "title": "Doubt on gazebo harmonic ros2 + fusion360",
+      "author": "UpsetSpecialist5708",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9fcie/doubt_on_gazebo_harmonic_ros2_fusion360/",
+      "published": 1764389604.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So i used an api to export a valid package for visualization on rviz2 and gazebo harmonic, but the .gszebo file runs with plugins which are deprecated. (That's a problem for the node&topics logic on Ros2jazzy) When i tried to migrate to an sdf file, scale woes complete wrong, enormous models i dont understand where is the problem, gazebo harmonic explicitly process the sdf file in meters while my models where exported in meters precisely. \u00bfIt's the stl format on harmonic+std giving me hard times or is fusion+stl? How can i import my meshes in to gazebo with this method, any other way to import my own models. Thank you for read."
     },
     {
       "title": "Getting rid of ~25 Nvidia Jetson TX2 Kits w/ Carrier Board, Camera Kit & Battery for robotics startups",
@@ -112,5 +112,5 @@
       "description": "AgileX Robotics on \ud835\udd4f: https://x.com/AgilexRobotics/status/1993218134246076721 Website: https://global.agilex.ai/"
     }
   ],
-  "fetched_at": "2025-11-29T07:53:37.137467+00:00"
+  "fetched_at": "2025-11-29T08:44:21.533512+00:00"
 }

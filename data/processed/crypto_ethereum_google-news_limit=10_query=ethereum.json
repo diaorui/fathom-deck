@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Arthur Hayes Makes Concerning Prediction For Monad",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yTENFQ181bUpjcHEyaDFsYl9MXzByNXBPTUlKdjdLQjM4d0RXeWhlSmVqdE5IQ0pBMEVhUWdBdkdpbm9Ga2UwbFRxTERRenlkSDF5SUxDYW9tT05Ocy1ab1U3MA?oc=5",
+      "pub_date": 1764422100.0,
+      "article_url": "https://beincrypto.com/arthur-hayes-monad-prediction/",
+      "image": "https://assets.beincrypto.com/img/wDX8eierTIJVmazBtKD9hL6BbHA=/smart/b982f54329be499aa63ec5aa7f02aaf5",
+      "description": "BitMex co-founder expects most blockchains, like Monad, to fail, arguing that only Ethereum has institutional demand."
+    },
+    {
       "headline": "Arthur Hayes says most L1s outside Ethereum and Solana are headed to zero",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
@@ -93,18 +103,8 @@
       "article_url": "https://cryptopotato.com/how-undervalued-is-ethereum-really-and-whats-eths-true-price-today/",
       "image": "https://cryptopotato.com/wp-content/uploads/2025/06/Ethereum_Profit.jpg",
       "description": "Does ETH trade below it's fair value?"
-    },
-    {
-      "headline": "Large cryptocurrencies mixed as Ethereum increases",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPMTVfUVFCdkx0YmNJZy1SV2lEWTh2TzFra2VydHZnOWxmVWoxbHNGMHlsZUM3cXhQd0dOSE1FMjh0Ykt4bmZmZ2RSSVdCS2w1R2NON0VfS29sN0NEcXdDaExpeW45QTRUSk40dVNzY1FtSXAteW9XcUVpd3FCRTAwMi1WRmVWSXd2cXc5ck51MjBhbTNvMHpxVGs2RWZWTjVIZVNKMVdqcE5lTXhORm0tU0oyY1kxV1NTQVN6WDFhMHJQOWxiVk5idXpfLWRhOXBlZDV2dC1tUWhuMEsya0VWcVZOT0RfLV9kVXBrdlNXM1drclhzNDJTVGQycnotUTZJdkh2UmlRWU9qVnA3UTh4YWxER2hua2tCS21nUmkycVlPV3JzT3MyVjdjUjI0VlBBdV92VlZDdjJBOG9fSmYzSlN5WkJ3N0RVX216dW1vc3JwcWNSeVVjMzBRZUVmbzhBYXpGbVIwRWNlT0I2V3pzYUszSVVyQXJYNHVrbmZfc0xxbWQzZVJER3cwVkFrcGpyRU05ZmFHVGRwRjR0eUctcDlNNHprRWVDekJYSThwZkh1UTYx?oc=5",
-      "pub_date": 1764342000.0,
-      "article_url": "https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-increases-2d44796b-6512c9777c5b?gaa_at=eafs&gaa_n=AWEtsqdc7n4RdaamYCb0T-2eWAjUhuAlJAoy9J5TZMTAf7hBp1FvO9u4Iq0L&gaa_ts=692c0f0c&gaa_sig=8Vpb7mZDGwnYLQq7fhFrngru0QvIEgIxC5z73aSLUb2bJQZFszG_eBiE1csc_ZkuWT8GaX5oNnUXJjqJLJXyDA%3D%3D",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T09:17:16.669296+00:00"
+  "fetched_at": "2025-11-30T09:55:10.021578+00:00"
 }

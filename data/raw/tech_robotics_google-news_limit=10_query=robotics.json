@@ -25,16 +25,6 @@
       "description": "How does Disney bring Olaf to life with robotics and AI? Step behind the scenes and see the magic of innovation in action."
     },
     {
-      "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOc3VOM1ktT1I3UXFDd3BIcjJoV3RNQnQyVHNGYWMyTzRCbjJUeTVVdVhCbFhBam5NU1huZmEtT3lLNnE3cWRVT216cHRTVnF6UldRdDljOHpzZTZmcERiQjdCOHgzZC1ITzgzZDZTUG43V05yX0NNUTFkeGExN2x2RjJVcFBEakI4UWVlODlMdkowZjVxY3p4U3h4Q09iMEk3UWZsRldWZlBvX1I1YVZadHZDM3l5Q0NvejZfT1JEeFljejlRV2M5NWNGeDRaWjBJUDVYM2VPSDVrSWgzZHdGT1RKOW5ZV0FFeVlxQ2hBQVk3SnNWbDJ6dzEwU1EwRVV2ZDVhckVKSjlPZWpPLU5xcW03S0pyNEJmRzFpbS1aNklXalNienNpWlU5ZUlqNmVrV3lXMkhPN3pxWVY4amZmS1RIakJ1TG5NckRPeFFYWFExWkowcWd6MEJySGdpbUhBUFZTckVVR2pyWmVKOXhyal9BeER1dm5lWkhpcVBJTUFEaFdh?oc=5",
-      "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqfjBhI_D_4IVL5MHGL4E4p_yWkbRsRxCuswsMPIfhhsInTJl31db3Zq&gaa_ts=692cd481&gaa_sig=_Uvk1nvDpNa3xuTJTIqUTqIv7U0_HEpz9i9JaehBD39FLOOYBl4LZb_w6MaZ50zaqHS87F0FXb3B6atS_mah2Q%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Elon Musk teases a future run by robots",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
@@ -43,6 +33,16 @@
       "article_url": "https://www.foxnews.com/tech/elon-musk-teases-future-run-robots",
       "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/tesla-optimus-robot-002.jpg",
       "description": "Viral video shared by Elon Musk shows Tesla's Optimus humanoid robots performing tasks from cooking to construction, garnering over 58.5 million views on social media."
+    },
+    {
+      "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPckp3bDF5ZF8yVC1YcnVUNVdjSEhrZjJFdnViQWdUXzc5SVVFblhESFpBcUk2YVVDRy1ZUkFkLWxIV2JPTVpqNzE1OUFpQ3pOcDd1Y1FtQjdMWldVYjF5bnhLNEtYNkpvRXdNUm5CdDlTMHowVVNJc1phT3gteFNJaXg5bEY4Rk9xdE1hd1poZzNhTkF3Ql9xUGEySUFRdGxPYkR4dHAzdHV0VHgxNS1NMWcxR0trYTAtNGtIbUtkZ01VamFsaFk3b2M3VjRma0IwT29mRElRY0ZEeHoydnhlWUx1cEpZc1ROSDdid2tnY0dkZGp5elVjOERlTmZwWEVuT3NSWE52Nl9OYVNKNDdUSnZtQWRjTV85XzJXX1Y3TmtvS2x6d0VmTmpHQ1lJVkQ0TFZGS1gzWmdNcGVkUWQ0MGF5c094RXlyOEVmd0NqUjc2VFlLSkdtaHZiOGZ5elFINmljUktqSXJad2o1dXE2ak5SNFlkNWQxS21aMHdMZVRSbUpx?oc=5",
+      "pub_date": 1764352680.0,
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqctWGtSvrNqKSpwb2ema5yYxkFHW7RprJXR3GrgMkm-0SzSWjM3Sv3y&gaa_ts=692cdd5e&gaa_sig=ZR4sJRMjoJP96uFBezoP-aEqfwQ1elz1zkqiEkbE_ceuFCM7DhnKwdrlyQoUpgch07OTO5ir2mAZiZrM3-2-gw%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Chinese robot army is pure nightmare fuel",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T23:19:44.878520+00:00"
+  "fetched_at": "2025-11-30T23:57:32.791430+00:00"
 }

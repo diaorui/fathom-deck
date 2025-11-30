@@ -13,6 +13,17 @@
       "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
     },
     {
+      "title": "Looking for feedback on a ROS observability/debugging tool",
+      "author": "One_Criticism_6156",
+      "url": "https://www.reddit.com/r/robotics/comments/1pawh0n/looking_for_feedback_on_a_ros/",
+      "published": 1764544219.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey fellow devs! For the past month I've been building a compact observability tool for ROS and I thought it would be wise to get some feedback from the community before building further. I've got a demo running on my local machine with some basic features like node/topic introspection, live telemetry/logs with filtering, play/pause, topic sub/pub and a chat with the context of the whole robots live state and logs to make it easier to get a grasp of whats happening. If anyones open to giving feedback based on the early prototype, I'd massively appreciate it, whether it is positive or negative, everything is welcome. Also let me know if you'd be open to trying it out. I'll send you a dm once the mvp is ready. https://reddit.com/link/1pawh0n/video/uwdum1dk8h4g1/player"
+    },
+    {
       "title": "For home robots, does a humanoid form factor actually make engineering sense?",
       "author": "BigGirl367",
       "url": "https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/",
@@ -24,15 +35,15 @@
       "description": "This is a strictly engineering-focused question \u2014 not about long-term predictions, consumer markets, or sci-fi use cases. Humanoids are getting a lot of visibility lately (Optimus, Unitree H1, XPeng, Atlas, etc.). It made me curious about the actual engineering trade-offs when the target environment is a typical home. From a design and controls standpoint, the two approaches seem to have very different constraints. Potential engineering advantages of humanoid designs: \u2022 human-height workspace \u2022 access to existing tools, handles, and switches \u2022 whole-body manipulation possibilities \u2022 able to navigate human-scale indoor layouts without modifying the environment Potential engineering advantages of non-humanoid mobile manipulators: \u2022 lower BOM and simpler actuation \u2022 fewer DOF \u2192 lower control complexity \u2022 wheels = far fewer failure modes \u2022 lower power requirements \u2022 easier to reach appliance-tier reliability \u2022 more predictable motion (pets/kids safe) You don\u2019t need to frame this in market terms \u2014 I\u2019m mostly trying to build a clearer mental model for ongoing work related to home-environment autonomy. A lot of current projects (mine included) are running into similar failure modes in manipulation, reliability, and task generalization, so I\u2019m curious how others here rank the practical constraints today. From an engineering standpoint, what seems like the real bottleneck right now? \u2022 manipulation robustness? \u2022 cost of reliable hardware? \u2022 locomotion complexity (balancing vs wheeled)? \u2022 or just the number of corner cases in household tasks? Would love to hear how people here think about current, real-world design constraints."
     },
     {
-      "title": "Looking for feedback on a ROS observability/debugging tool",
-      "author": "One_Criticism_6156",
-      "url": "https://www.reddit.com/r/robotics/comments/1pawh0n/looking_for_feedback_on_a_ros/",
-      "published": 1764544219.0,
+      "title": "First live test of a laser-based local obstacle detection concept.",
+      "author": "Independent_Win_Alex",
+      "url": "https://www.reddit.com/r/robotics/comments/1pafmkr/first_live_test_of_a_laserbased_local_obstacle/",
+      "published": 1764500415.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey fellow devs! For the past month I've been building a compact observability tool for ROS and I thought it would be wise to get some feedback from the community before building further. I've got a demo running on my local machine with some basic features like node/topic introspection, live telemetry/logs with filtering, play/pause, topic sub/pub and a chat with the context of the whole robots live state and logs to make it easier to get a grasp of whats happening. If anyones open to giving feedback based on the early prototype, I'd massively appreciate it, whether it is positive or negative, everything is welcome. Also let me know if you'd be open to trying it out. I'll send you a dm once the mvp is ready. https://reddit.com/link/1pawh0n/video/uwdum1dk8h4g1/player"
+      "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video"
     },
     {
       "title": "Ball Balancing Robot",
@@ -55,17 +66,6 @@
       "site_name": null,
       "favicon": null,
       "description": "From LimX Dynamics on \ud835\udd4f: https://x.com/LimX_Dynamics/status/1994408054989987939?s=20"
-    },
-    {
-      "title": "First live test of a laser-based local obstacle detection concept.",
-      "author": "Independent_Win_Alex",
-      "url": "https://www.reddit.com/r/robotics/comments/1pafmkr/first_live_test_of_a_laserbased_local_obstacle/",
-      "published": 1764500415.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video"
     },
     {
       "title": "Nema 17 Gearbox for Robotic Arm",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-30T23:19:25.649797+00:00"
+  "fetched_at": "2025-11-30T23:57:15.737188+00:00"
 }

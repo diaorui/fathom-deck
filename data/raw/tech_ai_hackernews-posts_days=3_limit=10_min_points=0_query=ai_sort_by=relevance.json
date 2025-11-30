@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46083004",
       "author": "pyrophoenix",
       "points": 501,
-      "num_comments": 167,
+      "num_comments": 168,
       "created_at": "2025-11-28T21:40:21Z",
       "object_id": "46083004",
       "image": "https://www.airbus.com/sites/g/files/jlcbta136/files/styles/thumbnail/public/2025-09/airbus-sharing-default.png?itok=AqaYIUdZ",
@@ -23,8 +23,8 @@
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
-      "points": 287,
-      "num_comments": 169,
+      "points": 307,
+      "num_comments": 192,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -93,7 +93,7 @@
       "url": "https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/",
       "hn_url": "https://news.ycombinator.com/item?id=46079987",
       "author": "toomuchtodo",
-      "points": 191,
+      "points": 192,
       "num_comments": 151,
       "created_at": "2025-11-28T16:21:09Z",
       "object_id": "46079987",
@@ -145,7 +145,7 @@
       "site_name": "View from the Wing"
     }
   ],
-  "total_hits": 300,
+  "total_hits": 301,
   "has_metadata": true,
-  "fetched_at": "2025-11-30T23:19:21.321414+00:00"
+  "fetched_at": "2025-11-30T23:57:11.015103+00:00"
 }

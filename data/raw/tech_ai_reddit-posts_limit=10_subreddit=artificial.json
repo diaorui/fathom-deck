@@ -2,6 +2,28 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Perplexity permabanned me in their official sub for citing their own documentation to expose \"Deep Research\" false advertising and massive downgrade.",
+      "author": "somnolentjam90",
+      "url": "https://www.reddit.com/r/artificial/comments/1pawnrw/perplexity_permabanned_me_in_their_official_sub/",
+      "published": 1764544707.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am writing this as a warning to anyone paying for Perplexity Pro expecting the advertised \"Deep Research\" capabilities. TL;DR: I proved, using Perplexity's own active documentation and official launch blog, that their \"Deep Research\" agent is severely throttled and not meeting its contractual specifications. The community validated my findings (my post reached 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page). Instead of addressing the issue, the moderators permanently banned me and removed the thread to silence the discussion. The Full Story: I have been a Pro subscriber specifically for the \"Deep Research\" feature, which is sold as an \"Autonomous Agent\" that \"reads hundreds of sources\" and takes \"4-5 minutes\" to reason through complex tasks and deliver a comprehensive report. To prove that these are the official specs, I am providing both the current live links and archived snapshots from the Wayback Machine (to prove these have been the consistent standard for months and to prevent potential stealth edits). Official Help Center Documentation: [Current Live Link] | [Wayback Machine Snapshot (Sept 8, 2025)] Official Launch Blog: [Current Live Link] | [Wayback Machine Snapshot (Aug 2, 2025)] (Note: I attempted to capture fresh snapshots of the pages today to confirm their current state, but the Wayback Machine is returning errors/incomplete rendering for the new captures. The provided snapshots from Aug/Sept are the most recent stable versions and confirm these specs have been the published standard for months.) Recently (some months), the service degraded massively. My \"Deep Research\" queries were finishing in 30 seconds with only 10-15 sources, essentially behaving like a standard search wrapper but sold at a premium. I posted (here) a detailed analysis on their official subreddit. I didn't attack anyone; I simply compared their Official Help Center Documentation and Launch Blog against the actual Product Output: Advertised Spec: \"Reads hundreds of sources\" / \"Takes 4-5 minutes\". Actual Reality: Reads ~10 sources / Takes ~30 seconds. The community rallied behind my post. 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page. It became a hub for other users confirming the same throttling. It was a legitimate customer complaint backed by data. Today, I received a Permanent Ban and the thread got deleted. No warning. No explanation of which rule I broke. Just a permanent ban for the 'offense' of holding them accountable to their own written promises. The Takeaway: This confirms that Perplexity is likely throttling compute on their premium features to save costs and is using censorship to hide it. If you rely on Perplexity for your workflow, be careful. They will degrade the product you rely on without warning, and the moment you provide evidence of the decline, they will silence you rather than fix it."
+    },
+    {
+      "title": "Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: 'It makes no sense,' he says, because 'AI will be involved in nearly all future production'",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pax65n/epic_boss_tim_sweeney_thinks_stores_like_steam/",
+      "published": 1764546057.0,
+      "thumbnail": "https://external-preview.redd.it/A2SZ69Ks9iyM_AxJpDKOjoR57HEajLQTgawYBX5ZkyE.jpeg?width=640&crop=smart&auto=webp&s=d62f58ea334dd99195b9db8b051f74f5dc802312",
+      "external_url": "https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/",
+      "site_name": "PC Gamer",
+      "favicon": "https://vanilla.futurecdn.net/pcgamer/1482179/apple-touch-icon.png",
+      "description": "Don't need a notice if everyone's doing it."
+    },
+    {
       "title": "Major AI conference flooded with peer reviews written fully by AI",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1pagvc6/major_ai_conference_flooded_with_peer_reviews/",
@@ -46,17 +68,6 @@
       "description": "OpenAI is now internally testing 'ads' inside ChatGPT that could redefine the web economy."
     },
     {
-      "title": "Perplexity permabanned me in their official sub for citing their own documentation to expose \"Deep Research\" false advertising and massive downgrade.",
-      "author": "somnolentjam90",
-      "url": "https://www.reddit.com/r/artificial/comments/1pawnrw/perplexity_permabanned_me_in_their_official_sub/",
-      "published": 1764544707.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am writing this as a warning to anyone paying for Perplexity Pro expecting the advertised \"Deep Research\" capabilities. TL;DR: I proved, using Perplexity's own active documentation and official launch blog, that their \"Deep Research\" agent is severely throttled and not meeting its contractual specifications. The community validated my findings (my post reached 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page). Instead of addressing the issue, the moderators permanently banned me and removed the thread to silence the discussion. The Full Story: I have been a Pro subscriber specifically for the \"Deep Research\" feature, which is sold as an \"Autonomous Agent\" that \"reads hundreds of sources\" and takes \"4-5 minutes\" to reason through complex tasks and deliver a comprehensive report. To prove that these are the official specs, I am providing both the current live links and archived snapshots from the Wayback Machine (to prove these have been the consistent standard for months and to prevent potential stealth edits). Official Help Center Documentation: [Current Live Link] | [Wayback Machine Snapshot (Sept 8, 2025)] Official Launch Blog: [Current Live Link] | [Wayback Machine Snapshot (Aug 2, 2025)] (Note: I attempted to capture fresh snapshots of the pages today to confirm their current state, but the Wayback Machine is returning errors/incomplete rendering for the new captures. The provided snapshots from Aug/Sept are the most recent stable versions and confirm these specs have been the published standard for months.) Recently (some months), the service degraded massively. My \"Deep Research\" queries were finishing in 30 seconds with only 10-15 sources, essentially behaving like a standard search wrapper but sold at a premium. I posted (here) a detailed analysis on their official subreddit. I didn't attack anyone; I simply compared their Official Help Center Documentation and Launch Blog against the actual Product Output: Advertised Spec: \"Reads hundreds of sources\" / \"Takes 4-5 minutes\". Actual Reality: Reads ~10 sources / Takes ~30 seconds. The community rallied behind my post. 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page. It became a hub for other users confirming the same throttling. It was a legitimate customer complaint backed by data. Today, I received a Permanent Ban and the thread got deleted. No warning. No explanation of which rule I broke. Just a permanent ban for the 'offense' of holding them accountable to their own written promises. The Takeaway: This confirms that Perplexity is likely throttling compute on their premium features to save costs and is using censorship to hide it. If you rely on Perplexity for your workflow, be careful. They will degrade the product you rely on without warning, and the moment you provide evidence of the decline, they will silence you rather than fix it."
-    },
-    {
       "title": "Sam Altman: \"We Know How to Build AGI by 2025\"",
       "author": "creaturefeature16",
       "url": "https://www.reddit.com/r/artificial/comments/1p9tg90/sam_altman_we_know_how_to_build_agi_by_2025/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "With Grok 4 and Gemini 3 the models have become really good at the known benchmarks like ARC-AGI and HLE. But is it really a proof of intelligence? Does acing these benchmarks truly show capabilities for original research and real understanding? I ask this because I saw an interview with Demis Hassabis from two months ago ans he said that AGI will come with 50 confidence between 5-10 years. He also called \"nonsense\" to the qualification \"PhD Level\" that some.people attribute to the models."
-    },
-    {
-      "title": "New Research Indicates Positive Results for an Intermediary Empathetic AI Bot To Help People Quicker",
-      "author": "am1ury",
-      "url": "https://www.reddit.com/r/artificial/comments/1pa9lht/new_research_indicates_positive_results_for_an/",
-      "published": 1764478340.0,
-      "thumbnail": "https://external-preview.redd.it/3pLM_AlKn6bBL4L8mL03AYoonDzQTQQH4gQtoW7Trzg.jpeg?width=216&crop=smart&auto=webp&s=fb6e66a1ca560f7e20f0aaa29fd8e6cedcf0b867",
-      "external_url": "https://doi.org/10.14293/PR2199.002402.v1",
-      "site_name": "ScienceOpen",
-      "favicon": "https://doi.org/favicon/so/apple-touch-icon.png",
-      "description": "<p xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" class=\"first\" dir=\"auto\" id=\"d442289e88\">This research details the creation, implementation, and rigorous analysis (N=5,400)\n            of Opened Mind, an advanced, multimodal AI system designed to provide empathetic mental\n            health support, especially for teens. It addresses common weaknesses in current digital\n            wellness tools, like scalability, accessibility, and data security. The setup uses\n            a zero-storage, client-side data system for maximum privacy. The core combines insights\n            from three input streams: Facial Action Units (FAUs), Vocal Patterns, and Written\n            Sentiment analysis. This emotional profile drives a Generative AI guided by the Emotion\n            Recognition Strategies (ERS) framework, translating clinical insights into actionable\n            responses. Tests covered 12 major languages (English, Spanish, French, German, Italian,\n            Portuguese, Russian, Hindi, Arabic, Japanese, Korean, and Mandarin), showing strong\n            performance with an 88% Macro F1-Score in cross-input emotion detection. Therapeutic\n            responses averaged 4.12/5.0 on the Compassion Index. Statistical checks, including\n            ANOVA and Chi-Squared tests, found no bias in effectiveness by language or interaction\n            mode (p &gt; 0.05). The emergency detection system also achieved 98% accuracy. These\n            findings confirm Opened Mind as a fair, globally viable, and ethical digital mental\n            health tool, ready for human trials.\n         </p>"
     }
   ],
-  "fetched_at": "2025-11-30T23:19:21.430123+00:00"
+  "fetched_at": "2025-11-30T23:57:11.225786+00:00"
 }

@@ -19,20 +19,6 @@
       "site_name": "boingboing.net"
     },
     {
-      "title": "Solo miner scores a full Bitcoin block worth $270K despite 1 in 180M odds",
-      "url": "https://www.tomshardware.com/tech-industry/cryptomining/hobbyist-miner-using-a-single-6-ths-asic-mines-full-bitcoin-block",
-      "hn_url": "https://news.ycombinator.com/item?id=46028449",
-      "author": "pseudolus",
-      "points": 5,
-      "num_comments": 0,
-      "created_at": "2025-11-23T23:29:08Z",
-      "object_id": "46028449",
-      "image": "https://cdn.mos.cms.futurecdn.net/xNgBpUETd9FRLejaNQYZe7-1000-80.jpg",
-      "description": "Solo miner controls roughly 0.0000007\u202f% of the Bitcoin network\u2019s hash\u2011power yet captures full block reward.",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1479220/apple-touch-icon.png",
-      "site_name": "Tom's Hardware"
-    },
-    {
       "title": "OSMU Community member posts proof that certain Bitcoin mining pools are fugazi",
       "url": "https://github.com/mweinberg/stratum-speed-test/tree/main/findings",
       "hn_url": "https://news.ycombinator.com/item?id=46064373",
@@ -131,7 +117,7 @@
       "site_name": "Bitmovin"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2025-11-30T23:19:22.622375+00:00"
+  "fetched_at": "2025-11-30T23:57:12.276336+00:00"
 }

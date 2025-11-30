@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-11-30T11:47:28.700337+00:00"
+          "dateModified": "2025-11-30T11:58:59.600675+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,39 +614,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/" target="_blank" onclick="event.stopPropagation();">For home robots, does a humanoid form factor actually make engineering sense?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            This is a strictly engineering-focused question — not about long-term predictions, consumer markets, or sci-fi use cases. Humanoids are getting a lot of visibility lately (Optimus, Unitree H1, XPeng, Atlas, etc.). It made me curious about the actual engineering trade-offs when the target environment is a typical home. From a design and controls standpoint, the two approaches seem to have very different constraints. Potential engineering advantages of humanoid designs: • human-height workspace • access to existing tools, handles, and switches • whole-body manipulation possibilities • able to navigate human-scale indoor layouts without modifying the environment Potential engineering advantages of non-humanoid mobile manipulators: • lower BOM and simpler actuation • fewer DOF → lower control complexity • wheels = far fewer failure modes • lower power requirements • easier to reach appliance-tier reliability • more predictable motion (pets/kids safe) You don’t need to frame this in market terms — I’m mostly trying to build a clearer mental model for ongoing work related to home-environment autonomy. A lot of current projects (mine included) are running into similar failure modes in manipulation, reliability, and task generalization, so I’m curious how others here rank the practical constraints today. From an engineering standpoint, what seems like the real bottleneck right now? • manipulation robustness? • cost of reliable hardware? • locomotion complexity (balancing vs wheeled)? • or just the number of corner cases in household tasks? Would love to hear how people here think about current, real-world design constraints.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1764470863.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1paftdv/unitree_r1_g1_are_showing_off_their_skills/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -673,6 +640,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1764501084.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/" target="_blank" onclick="event.stopPropagation();">For home robots, does a humanoid form factor actually make engineering sense?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            This is a strictly engineering-focused question — not about long-term predictions, consumer markets, or sci-fi use cases. Humanoids are getting a lot of visibility lately (Optimus, Unitree H1, XPeng, Atlas, etc.). It made me curious about the actual engineering trade-offs when the target environment is a typical home. From a design and controls standpoint, the two approaches seem to have very different constraints. Potential engineering advantages of humanoid designs: • human-height workspace • access to existing tools, handles, and switches • whole-body manipulation possibilities • able to navigate human-scale indoor layouts without modifying the environment Potential engineering advantages of non-humanoid mobile manipulators: • lower BOM and simpler actuation • fewer DOF → lower control complexity • wheels = far fewer failure modes • lower power requirements • easier to reach appliance-tier reliability • more predictable motion (pets/kids safe) You don’t need to frame this in market terms — I’m mostly trying to build a clearer mental model for ongoing work related to home-environment autonomy. A lot of current projects (mine included) are running into similar failure modes in manipulation, reliability, and task generalization, so I’m curious how others here rank the practical constraints today. From an engineering standpoint, what seems like the real bottleneck right now? • manipulation robustness? • cost of reliable hardware? • locomotion complexity (balancing vs wheeled)? • or just the number of corner cases in household tasks? Would love to hear how people here think about current, real-world design constraints.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1764470863.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -766,7 +766,7 @@
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) — this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear — the system allows movement. When an object enters the field — the reflected laser points appear. Once the reflection threshold is detected — motion is stopped immediately. When the obstacle is removed — movement resumes. This idea started very simply — from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment — but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.
+                            This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) — this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear — the system allows movement. When an object enters the field — the reflected laser points appear. Once the reflection threshold is detected — motion is stopped immediately. When the obstacle is removed — movement resumes. This idea started very simply — from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment — but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video
                         </div>
                         
 
@@ -776,6 +776,72 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1764500415.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pagic8/important_fundamental_topics_for_beginner/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1pagic8/important_fundamental_topics_for_beginner/" target="_blank" onclick="event.stopPropagation();">Important fundamental topics for beginner</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hey everyone! I am interested in switching fields into robotics and automation. I have a bachelor's in Information Technology (very similar to Computer Science, in my university). I am planning to apply for masters. Before that, I want to get the basics right. I know at least some part of all the following things, but I'd like to properly revise and get the fundamentals sorted. Are these things enough or am I missing any more important topics? I will mostly be applying for Robotics and Automation courses. -Mathematics for Robotics: Linear Algebra, Calculus, Differential Equations -Kinematics & Dynamics: Forward Kinematics, Inverse Kinematics, Jacobian Matrix, Rigid Body Dynamics -Control Systems: PID, Control Stability and Feedback -Sensors and Actuators -Robot Programming (Python and ROS) -Computer Vision: Basics, Image Processing, Object Detection -Path Planning and Navigation: Path Planning, Localization -Machine Learning in Robotics: Reinforcement Learning, Deep Learning -Mechatronics and Embedded Systems: Mechatronics, Embedded Systems, Sensor and Actuator Interfacing Multi-Robot Systems: Multi-Robot Coordination, Swarm Robotics Thanks!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1764503584.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pag31r/sunday_ai_like_companies/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1pag31r/sunday_ai_like_companies/" target="_blank" onclick="event.stopPropagation();">Sunday AI like companies</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I just found out about Sunday AI and their approach to training robots which is giving gloves to humans. https://www.sunday.ai/ I’m wondering if there are more companies that have taken this approach?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1764502042.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -888,64 +954,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pa3w1z/looking_to_join_any_embedded_project_stm32_can/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1pa3w1z/looking_to_join_any_embedded_project_stm32_can/" target="_blank" onclick="event.stopPropagation();">Looking to join any embedded project (STM32, CAN, AURIX, 8051)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1764461220.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1paanag/best_countries_for_a_robotics_career_humanoids/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1paanag/best_countries_for_a_robotics_career_humanoids/" target="_blank" onclick="event.stopPropagation();">Best countries for a robotics career (humanoids, drones, home robots) from 2026–2030?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1764481697.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -969,7 +977,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-30T11:23:23.192680+00:00">Updated 2025-11-30T11:23:23.192680+00:00</small>
+        <small data-timestamp="2025-11-30T11:58:38.203019+00:00">Updated 2025-11-30T11:58:38.203019+00:00</small>
     </div>
 </div>
 
@@ -1475,14 +1483,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqfh1qrjbzmYKDjEiKDdrqFyhFoDSlLzVizfD8RYj-vMg28QB9vIoIF5&gaa_ts=692c2cae&gaa_sig=zbDhQPtH8PajVP1UWJGgRiPCaK0-F_XHcy4J7KsnPxQuqvDSL1fnWKCjBfMA3ONjDNVI_7Tc3O4EXA-NyyMicA%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqf_NjcAzunVGz40NadZXW4AwHLAveS3dLtAA2PNVncMdqI2ajvLt18F&gaa_ts=692c34f1&gaa_sig=4_FomQlW4qVj8iHqxSyLOCRMOJ6eeT2oHc5JFaH5vW5p26lwuENBkuzzs3kPhnOrUTpfl0AhUEMDF19KW9vGRQ%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqfh1qrjbzmYKDjEiKDdrqFyhFoDSlLzVizfD8RYj-vMg28QB9vIoIF5&gaa_ts=692c2cae&gaa_sig=zbDhQPtH8PajVP1UWJGgRiPCaK0-F_XHcy4J7KsnPxQuqvDSL1fnWKCjBfMA3ONjDNVI_7Tc3O4EXA-NyyMicA%3D%3D" target="_blank" onclick="event.stopPropagation();">Opinion | Humanoid Robots Have a Long Way to Go</a>
+                            <a href="https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqf_NjcAzunVGz40NadZXW4AwHLAveS3dLtAA2PNVncMdqI2ajvLt18F&gaa_ts=692c34f1&gaa_sig=4_FomQlW4qVj8iHqxSyLOCRMOJ6eeT2oHc5JFaH5vW5p26lwuENBkuzzs3kPhnOrUTpfl0AhUEMDF19KW9vGRQ%3D%3D" target="_blank" onclick="event.stopPropagation();">Opinion | Humanoid Robots Have a Long Way to Go</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1512,20 +1520,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.scmp.com/tech/big-tech/article/3334353/xiaomi-seeks-helping-hand-former-tesla-engineer-robotics-development', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.scmp.com/news/china/science/article/3334443/it-fake-why-us-industry-leader-refused-believe-chinas-robot-march-video', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/27/c7c2eeae-93aa-41fe-8c68-839b08836073_d5c3b109.jpg?itok=IGr2noaV&v=1764232500');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/28/71a8bd48-5ebf-468a-b640-0f97ec941500_d6f60cf7.jpg?itok=g0U2AJia&v=1764331285');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.scmp.com/tech/big-tech/article/3334353/xiaomi-seeks-helping-hand-former-tesla-engineer-robotics-development" target="_blank" onclick="event.stopPropagation();">Xiaomi hires engineer from Tesla’s Optimus team to lead robotic hand development</a>
+                            <a href="https://www.scmp.com/news/china/science/article/3334443/it-fake-why-us-industry-leader-refused-believe-chinas-robot-march-video" target="_blank" onclick="event.stopPropagation();">‘It is fake’: why US industry leader refused to believe China’s robot march clip</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Zach Lu Zeyu joins Xiaomi as lead of its dexterous hand research and development operations.
+                            Doubt over dramatic footage due to a ‘lack of understanding’ about China’s strong manufacturing capability and supply chain, UBtech says.
                         </div>
                         
 
@@ -1545,7 +1553,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1764241211.0"></span>
+                                    <span data-timestamp="1764417610.0"></span>
                                 </div>
                                 
                             </div>
@@ -1573,7 +1581,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-30T11:23:40.856474+00:00">Updated 2025-11-30T11:23:40.856474+00:00</small>
+        <small data-timestamp="2025-11-30T11:58:58.174175+00:00">Updated 2025-11-30T11:58:58.174175+00:00</small>
     </div>
 </div>
 

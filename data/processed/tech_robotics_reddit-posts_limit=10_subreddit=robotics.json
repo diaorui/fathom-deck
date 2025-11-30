@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "For home robots, does a humanoid form factor actually make engineering sense?",
-      "author": "BigGirl367",
-      "url": "https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/",
-      "published": 1764470863.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This is a strictly engineering-focused question \u2014 not about long-term predictions, consumer markets, or sci-fi use cases. Humanoids are getting a lot of visibility lately (Optimus, Unitree H1, XPeng, Atlas, etc.). It made me curious about the actual engineering trade-offs when the target environment is a typical home. From a design and controls standpoint, the two approaches seem to have very different constraints. Potential engineering advantages of humanoid designs: \u2022 human-height workspace \u2022 access to existing tools, handles, and switches \u2022 whole-body manipulation possibilities \u2022 able to navigate human-scale indoor layouts without modifying the environment Potential engineering advantages of non-humanoid mobile manipulators: \u2022 lower BOM and simpler actuation \u2022 fewer DOF \u2192 lower control complexity \u2022 wheels = far fewer failure modes \u2022 lower power requirements \u2022 easier to reach appliance-tier reliability \u2022 more predictable motion (pets/kids safe) You don\u2019t need to frame this in market terms \u2014 I\u2019m mostly trying to build a clearer mental model for ongoing work related to home-environment autonomy. A lot of current projects (mine included) are running into similar failure modes in manipulation, reliability, and task generalization, so I\u2019m curious how others here rank the practical constraints today. From an engineering standpoint, what seems like the real bottleneck right now? \u2022 manipulation robustness? \u2022 cost of reliable hardware? \u2022 locomotion complexity (balancing vs wheeled)? \u2022 or just the number of corner cases in household tasks? Would love to hear how people here think about current, real-world design constraints."
-    },
-    {
       "title": "Unitree R1 & G1 are showing off their skills together",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1paftdv/unitree_r1_g1_are_showing_off_their_skills/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
+    },
+    {
+      "title": "For home robots, does a humanoid form factor actually make engineering sense?",
+      "author": "BigGirl367",
+      "url": "https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/",
+      "published": 1764470863.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This is a strictly engineering-focused question \u2014 not about long-term predictions, consumer markets, or sci-fi use cases. Humanoids are getting a lot of visibility lately (Optimus, Unitree H1, XPeng, Atlas, etc.). It made me curious about the actual engineering trade-offs when the target environment is a typical home. From a design and controls standpoint, the two approaches seem to have very different constraints. Potential engineering advantages of humanoid designs: \u2022 human-height workspace \u2022 access to existing tools, handles, and switches \u2022 whole-body manipulation possibilities \u2022 able to navigate human-scale indoor layouts without modifying the environment Potential engineering advantages of non-humanoid mobile manipulators: \u2022 lower BOM and simpler actuation \u2022 fewer DOF \u2192 lower control complexity \u2022 wheels = far fewer failure modes \u2022 lower power requirements \u2022 easier to reach appliance-tier reliability \u2022 more predictable motion (pets/kids safe) You don\u2019t need to frame this in market terms \u2014 I\u2019m mostly trying to build a clearer mental model for ongoing work related to home-environment autonomy. A lot of current projects (mine included) are running into similar failure modes in manipulation, reliability, and task generalization, so I\u2019m curious how others here rank the practical constraints today. From an engineering standpoint, what seems like the real bottleneck right now? \u2022 manipulation robustness? \u2022 cost of reliable hardware? \u2022 locomotion complexity (balancing vs wheeled)? \u2022 or just the number of corner cases in household tasks? Would love to hear how people here think about current, real-world design constraints."
     },
     {
       "title": "Full-size humanoid hobot LimX's Oli walks over construction debris (standing 165 cm tall and weighing 55 kg)",
@@ -54,7 +54,29 @@
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments."
+      "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video"
+    },
+    {
+      "title": "Important fundamental topics for beginner",
+      "author": "techhgal",
+      "url": "https://www.reddit.com/r/robotics/comments/1pagic8/important_fundamental_topics_for_beginner/",
+      "published": 1764503584.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone! I am interested in switching fields into robotics and automation. I have a bachelor's in Information Technology (very similar to Computer Science, in my university). I am planning to apply for masters. Before that, I want to get the basics right. I know at least some part of all the following things, but I'd like to properly revise and get the fundamentals sorted. Are these things enough or am I missing any more important topics? I will mostly be applying for Robotics and Automation courses. -Mathematics for Robotics: Linear Algebra, Calculus, Differential Equations -Kinematics & Dynamics: Forward Kinematics, Inverse Kinematics, Jacobian Matrix, Rigid Body Dynamics -Control Systems: PID, Control Stability and Feedback -Sensors and Actuators -Robot Programming (Python and ROS) -Computer Vision: Basics, Image Processing, Object Detection -Path Planning and Navigation: Path Planning, Localization -Machine Learning in Robotics: Reinforcement Learning, Deep Learning -Mechatronics and Embedded Systems: Mechatronics, Embedded Systems, Sensor and Actuator Interfacing Multi-Robot Systems: Multi-Robot Coordination, Swarm Robotics Thanks!"
+    },
+    {
+      "title": "Sunday AI like companies",
+      "author": "jy2k",
+      "url": "https://www.reddit.com/r/robotics/comments/1pag31r/sunday_ai_like_companies/",
+      "published": 1764502042.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I just found out about Sunday AI and their approach to training robots which is giving gloves to humans. https://www.sunday.ai/ I\u2019m wondering if there are more companies that have taken this approach?"
     },
     {
       "title": "Nema 17 Gearbox for Robotic Arm",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Many in the RC community haven\u2019t been able to help a lot in these regards. Im struggling to get my servo programmed how I want it to for my RC snow plow and I\u2019m not sure how to program two actuators to act as my angle method so one comes in when the other pushes out and vice versa the other direction. Currently I\u2019m using an RC winch controller board on my RX to TX as my lift actuator and it works. When I tried to program two actuators to do as I wanted with the opposite wires tied together i think wires crossed and shorted the controller board. But I don\u2019t think ot could handle two actuators anyways. I\u2019m really wanting to keep this a simple build using a single battery if possible and on one TX. Any help appreciated. Pics are of my plow."
-    },
-    {
-      "title": "Looking to join any embedded project (STM32, CAN, AURIX, 8051)",
-      "author": "Administrative_Path3",
-      "url": "https://www.reddit.com/r/robotics/comments/1pa3w1z/looking_to_join_any_embedded_project_stm32_can/",
-      "published": 1764461220.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Best countries for a robotics career (humanoids, drones, home robots) from 2026\u20132030?",
-      "author": "Kindly-Fix-7049",
-      "url": "https://www.reddit.com/r/robotics/comments/1paanag/best_countries_for_a_robotics_career_humanoids/",
-      "published": 1764481697.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-30T11:23:23.192680+00:00"
+  "fetched_at": "2025-11-30T11:58:38.203019+00:00"
 }

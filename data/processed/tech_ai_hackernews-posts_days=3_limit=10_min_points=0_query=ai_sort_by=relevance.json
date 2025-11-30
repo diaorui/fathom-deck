@@ -61,12 +61,26 @@
       "site_name": "nature.com"
     },
     {
+      "title": "Don't push AI down our throats",
+      "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
+      "hn_url": "https://news.ycombinator.com/item?id=46098992",
+      "author": "nutanc",
+      "points": 207,
+      "num_comments": 108,
+      "created_at": "2025-11-30T18:17:13Z",
+      "object_id": "46098992",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "gpt3experiments.substack.com"
+    },
+    {
       "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
       "url": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1",
       "hn_url": "https://news.ycombinator.com/item?id=46077038",
       "author": "thm",
       "points": 202,
-      "num_comments": 203,
+      "num_comments": 204,
       "created_at": "2025-11-28T09:21:55Z",
       "object_id": "46077038",
       "image": null,
@@ -94,27 +108,13 @@
       "hn_url": "https://news.ycombinator.com/item?id=46086624",
       "author": "ashishgupta2209",
       "points": 186,
-      "num_comments": 72,
+      "num_comments": 73,
       "created_at": "2025-11-29T10:54:16Z",
       "object_id": "46086624",
       "image": "https://scienceclock.com/wp-content/uploads/2025/11/a-woman-coughing-while-doing-exercise-because-of-air-pollution.png",
       "description": "We all know exercise is good for us. It lowers the risk of heart disease, cancer, and early death, and keeps the body and mind in shape. But when the air you",
       "favicon": "https://scienceclock.com/wp-content/uploads/2025/09/ScienceClock2-300x300.png",
       "site_name": "LearnGupt"
-    },
-    {
-      "title": "Don't push AI down our throats",
-      "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
-      "hn_url": "https://news.ycombinator.com/item?id=46098992",
-      "author": "nutanc",
-      "points": 171,
-      "num_comments": 84,
-      "created_at": "2025-11-30T18:17:13Z",
-      "object_id": "46098992",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "gpt3experiments.substack.com"
     },
     {
       "title": "A trillion dollars (potentially) wasted on gen-AI",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 298,
   "has_metadata": true,
-  "fetched_at": "2025-11-30T20:48:42.987896+00:00"
+  "fetched_at": "2025-11-30T21:25:00.730316+00:00"
 }

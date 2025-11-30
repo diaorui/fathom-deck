@@ -112,5 +112,5 @@
       "description": "Robotics guys seem better versed in actuators than RC guys. I\u2019m trying to make it so my RC snow plow has dual linear actuators to angle it left and right, however this works best using two. One to retract while the other extends, and vice versa in the other direction. I currently have another actuator lifting my plow. This is controlled via my trucks only ESC/receiver and using an RC4WD wired winch controller to control the actual lifting mechanism from my spektrum DX5rugged. This is plenty of power to achieve this, even with the angle. However what control module would I need, or what would I need to make this action work? I\u2019d prefer to ditch the servo sooner than later for my angle operation just due to it being jerkier in nature with less stability and control. Do I need a whole separate ESC to control this via my current receiver? Two ESCs with mixing? I\u2019m kind of lost on how to achieve this."
     }
   ],
-  "fetched_at": "2025-11-30T20:48:47.613117+00:00"
+  "fetched_at": "2025-11-30T21:25:05.395869+00:00"
 }

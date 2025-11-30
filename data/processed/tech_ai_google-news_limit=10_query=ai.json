@@ -25,16 +25,6 @@
       "description": "Poems containing prompts for harmful content prove effective at duping large language models"
     },
     {
-      "headline": "AI threatens to change modern warfare",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RQjIzTUdFWnZDMXdwSFhaVTQ4UlFTMFdqbVcyckpWMVdieUc4OHU0QlNaeE9DZnR2ZkQ1MnNlRnN5enVPWWdOWGNPSXpKMEhMYnJLaDVB?oc=5",
-      "pub_date": 1764533857.0,
-      "article_url": "https://www.foxnews.com/video/6385768312112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1fa322f-25a3-49ff-90cf-f8725b9509b9/7ebbabac-864f-45c8-b386-81e743b13b09/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Fox News chief national security correspondent Jennifer Griffin reports on how artificial intelligence is changing military technology on \u2018Fox News Sunday.\u2019"
-    },
-    {
       "headline": "2025: AI Transforms Emerging Markets Worldwide",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -45,14 +35,24 @@
       "description": "In 2025, AI shaped emerging markets in their transformation from raw materials exporters to tech purveyors, facilitating their geopolitical shift to middle power status."
     },
     {
-      "headline": "Video New warnings about AI toys",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jazlRZnJHMHVoOUFoVXNELTVpN2JWM0FRZTBEaEw4THpyck5XV0dvbmNBcC1VN0dhendrUk1TRTBvRVZHZmdrTUtHdXFyN1VOamNuLXlPXzNRUGVWWGlUbWQ1eUR0QXlfeVBObVNYN1dVVGJoajBBcG5n?oc=5",
-      "pub_date": 1764534804.0,
-      "article_url": "https://abcnews.go.com/Technology/video/new-warnings-ai-toys-127984154",
-      "image": "https://i.abcnewsfe.com/a/29e00f33-379c-4d67-adc6-61a68396c185/251130_abcnl_3p_franz_toys_hpMain_16x9.jpg?w=992",
-      "description": "Rachel Franz, director of Fairplay\u2019s Young Children Thrive Offline Program, joins ABC News Live to discuss the risks of AI toys for kids."
+      "headline": "Deutsche Telekom and Schwarz Group to build AI data centre, German newspaper reports",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMzN5TVh6UjdWVWt0UUpOZ3ZqYzN6V3Y1SnlnQjFWMUd4S1luRURrdTJ2QzZvaTNDUkIyZG1fQkZXSkM5d0o4ZkJwQXo1UHZvcWJEVm9PaFEtWGdtZmRPaG5Vc2hiZWE5Q3FlVVU0TmdNTHFNMzU2c050SzNubDNTTEs3TW14Z0NhbWxJQklPZUVJSzdmQWlsc3ZqbWExcU1Vd1pGMlJ6VzgxclBubE1uSm1IaUlITldGSUlwRHdTLUxyc25jZTZOQlNQdENtcWo4?oc=5",
+      "pub_date": 1764536173.0,
+      "article_url": "https://www.reuters.com/business/media-telecom/deutsche-telekom-schwarz-group-build-ai-data-centre-german-newspaper-reports-2025-11-30/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI threatens to change modern warfare",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RQjIzTUdFWnZDMXdwSFhaVTQ4UlFTMFdqbVcyckpWMVdieUc4OHU0QlNaeE9DZnR2ZkQ1MnNlRnN5enVPWWdOWGNPSXpKMEhMYnJLaDVB?oc=5",
+      "pub_date": 1764533857.0,
+      "article_url": "https://www.foxnews.com/video/6385768312112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1fa322f-25a3-49ff-90cf-f8725b9509b9/7ebbabac-864f-45c8-b386-81e743b13b09/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Fox News chief national security correspondent Jennifer Griffin reports on how artificial intelligence is changing military technology on \u2018Fox News Sunday.\u2019"
     },
     {
       "headline": "Colleges Are Preparing to Self-Lobotomize",
@@ -65,16 +65,6 @@
       "description": "The skills that students will need in an age of automation are precisely those that are eroded by inserting AI into the educational process."
     },
     {
-      "headline": "More of Silicon Valley is building on free Chinese AI",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcG9TS2JkaHFxTGxiWlZoSjlhZDYtOVZ5TFJRTW92VTNTUHg5WVl3d0ZaU2NWV050ejlWamdwSURGYkE1WWFSZU8wcVc1TDJ6VlZhem1SV1F2dkU1ZnZnZXJ6cFVlTXRES3J0MXMzWmpiRmtOMTdFWU9mSjlhVlhuaWpNWml1RVVDOXNCd3hSZXpUT3JJ0gFWQVVfeXFMTXlyQ210ZmVEM1BDd2xDTmh6bHBhMGJGd2RfV1JYcW1WdUJNVU8wR1ZpV1h4MUEzQzhhTzBXT2JFY2NQRDZYVG5KNTZ4cTBaS3NhQ2pFdnc?oc=5",
-      "pub_date": 1764515094.0,
-      "article_url": "https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251110-china-ai-startups-jg-98b34a.jpg",
-      "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
-    },
-    {
       "headline": "AI is taking jobs \u2014 here\u2019s Coursera CEO's No. 1 tip for grads to stay competitive",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -83,6 +73,16 @@
       "article_url": "https://www.cnbc.com/2025/11/29/coursera-ceos-top-tips-for-grads-to-stay-competitive-as-ai-takes-jobs.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108232286-1764147921811-Greg_Hart_-_1_Chief_Executive_Officer_Coursera.jpg?v=1764148024&w=1920&h=1080",
       "description": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
+    },
+    {
+      "headline": "More of Silicon Valley is building on free Chinese AI",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcG9TS2JkaHFxTGxiWlZoSjlhZDYtOVZ5TFJRTW92VTNTUHg5WVl3d0ZaU2NWV050ejlWamdwSURGYkE1WWFSZU8wcVc1TDJ6VlZhem1SV1F2dkU1ZnZnZXJ6cFVlTXRES3J0MXMzWmpiRmtOMTdFWU9mSjlhVlhuaWpNWml1RVVDOXNCd3hSZXpUT3JJ0gFWQVVfeXFMTXlyQ210ZmVEM1BDd2xDTmh6bHBhMGJGd2RfV1JYcW1WdUJNVU8wR1ZpV1h4MUEzQzhhTzBXT2JFY2NQRDZYVG5KNTZ4cTBaS3NhQ2pFdnc?oc=5",
+      "pub_date": 1764515094.0,
+      "article_url": "https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251110-china-ai-startups-jg-98b34a.jpg",
+      "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
     },
     {
       "headline": "AI doesn\u2019t add up if you neglect the mathematicians",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T20:48:59.529412+00:00"
+  "fetched_at": "2025-11-30T21:25:20.041276+00:00"
 }

@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-30T15:58:58.505591+00:00",
+  "data": "Orchestrator-8B is an 8B parameter model that intelligently coordinates expert models and tools to solve complex agentic tasks, achieving higher accuracy and efficiency than frontier models on benchmarks like Humanity's Last Exam.",
+  "model_id": "nvidia/Orchestrator-8B"
+}

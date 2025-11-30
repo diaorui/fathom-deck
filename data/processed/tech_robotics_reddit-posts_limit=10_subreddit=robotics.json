@@ -57,17 +57,6 @@
       "description": "Hey everyone! I am interested in switching fields into robotics and automation. I have a bachelor's in Information Technology (very similar to Computer Science, in my university). I am planning to apply for masters. Before that, I want to get the basics right. I know at least some part of all the following things, but I'd like to properly revise and get the fundamentals sorted. Are these things enough or am I missing any more important topics? I will mostly be applying for Robotics and Automation courses. -Mathematics for Robotics: Linear Algebra, Calculus, Differential Equations -Kinematics & Dynamics: Forward Kinematics, Inverse Kinematics, Jacobian Matrix, Rigid Body Dynamics -Control Systems: PID, Control Stability and Feedback -Sensors and Actuators -Robot Programming (Python and ROS) -Computer Vision: Basics, Image Processing, Object Detection -Path Planning and Navigation: Path Planning, Localization -Machine Learning in Robotics: Reinforcement Learning, Deep Learning -Mechatronics and Embedded Systems: Mechatronics, Embedded Systems, Sensor and Actuator Interfacing Multi-Robot Systems: Multi-Robot Coordination, Swarm Robotics Thanks!"
     },
     {
-      "title": "First live test of a laser-based local obstacle detection concept.",
-      "author": "Independent_Win_Alex",
-      "url": "https://www.reddit.com/r/robotics/comments/1pafmkr/first_live_test_of_a_laserbased_local_obstacle/",
-      "published": 1764500415.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video"
-    },
-    {
       "title": "Best countries for a robotics career (humanoids, drones, home robots) from 2026\u20132030?",
       "author": "Kindly-Fix-7049",
       "url": "https://www.reddit.com/r/robotics/comments/1paanag/best_countries_for_a_robotics_career_humanoids/",
@@ -77,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "First live test of a laser-based local obstacle detection concept.",
+      "author": "Independent_Win_Alex",
+      "url": "https://www.reddit.com/r/robotics/comments/1pafmkr/first_live_test_of_a_laserbased_local_obstacle/",
+      "published": 1764500415.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video"
     },
     {
       "title": "Sunday AI like companies",
@@ -112,5 +112,5 @@
       "description": "Today I set up the Christmas tree. The hardest part was untangling last years knot of lights. A electrical cord with lights, all serated in a little plastic tree design, and perfectly designed for entangement and knotting. My 7 year old tried for half an hour and couldn't do it.It took me the whole hour I reckon. My question to the community; how would robotics go at a job like this? There's times when you just need to be gentle and pull, and others when you really do need to unknot it. It's as tricky as they come."
     }
   ],
-  "fetched_at": "2025-11-30T15:22:49.745258+00:00"
+  "fetched_at": "2025-11-30T15:58:37.226938+00:00"
 }

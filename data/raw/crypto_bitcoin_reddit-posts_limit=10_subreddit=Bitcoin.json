@@ -68,17 +68,6 @@
       "description": "tl;dr Hackers broke into Bitfinex in 2016 and stole 120,000 BTC ($75m at the time) directly from customer accounts. Law enforcement recovered 96,000 BTC in 2022, now worth $3.5bn. They returned a bulk of it back to Bitfinex. Bitfinex did not return the bitcoin to its customers, but instead provided them redeemable tokens for the value of the bitcoin at the time it was stolen. (Even worse: \"Redeemable as quickly as we can.\") I usually call people who yell \"not your keys, not your coins\" too alarmist. Exchanges must be held accountable. They are 100% not being held accountable. This should be a massive lawsuit to permanently determine that if bitcoin as property CAN be returned then it MUST be returned, not the value in dollars at time of loss. You can watch the slimy Bitfinex executive explain this directly at 1hr13 in the documentary, by the way."
     },
     {
-      "title": "We are BITCOINERS!",
-      "author": "MrMBTC",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p9wp5d/we_are_bitcoiners/",
-      "published": 1764442539.0,
-      "thumbnail": "https://preview.redd.it/6bdsqa6kt84g1.jpeg?width=640&crop=smart&auto=webp&s=8819c45823973cb08a154258396a38f2ef769d0e",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "\"I will not risk my dollars\"",
       "author": "wow_true",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pa2tgu/i_will_not_risk_my_dollars/",
@@ -90,6 +79,28 @@
       "description": null
     },
     {
+      "title": "We are BITCOINERS!",
+      "author": "MrMBTC",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p9wp5d/we_are_bitcoiners/",
+      "published": 1764442539.0,
+      "thumbnail": "https://preview.redd.it/6bdsqa6kt84g1.jpeg?width=640&crop=smart&auto=webp&s=8819c45823973cb08a154258396a38f2ef769d0e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Non KYC virtual crypto card",
+      "author": "Amazing-Ad-8239",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pai8mp/non_kyc_virtual_crypto_card/",
+      "published": 1764509142.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, Hope you\u2019re all doing well! It\u2019s that time of year again when many crypto card service providers start having issues and go offline. I\u2019m looking for a reliable reloadable virtual crypto card that actually works. Ideally, I\u2019d love recommendations from people who have personally used one, so others reading this thread can benefit as well. I\u2019ll do my best to keep an eye out for spam replies. I\u2019ve used Bitrefill for a while, but they now have a $250 limit. Pay With Moon seems to have been down for the past 48 hours. Bit.Store used to be solid, but they disappeared over a year ago and many users had funds frozen. I\u2019m aware that using services without full verification can come with risks, so I only load what I need, but it would still be great to hear about options that are functioning reliably right now. Looking forward to any good news. Thanks in advance!"
+    },
+    {
       "title": "China banned Bitcoin again\u2026 must be bull season \ud83d\ude02",
       "author": "JcTrismegistus",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p9vpu4/china_banned_bitcoin_again_must_be_bull_season/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Another year, another headline: \u201cChina says Bitcoin has no legal status.\u201d Bro\u2026 they\u2019ve banned Bitcoin like 9 times already. Every cycle it\u2019s the same script: \u2022 China FUD \u2022 Panic headlines \u2022 \u201cSpeculation crackdown\u201d \u2022 And then\u2026 Number. Goes. Up. If a government with that level of control still feels threatened enough to repeat the same warning over and over\u2026 That tells you everything about Bitcoin\u2019s trajectory. I don\u2019t sell. I only buy. Let them ban it every month \u2014 the protocol doesn\u2019t care. Blocks keep coming in every 10 minutes. \u26a1\ufe0f What do you think: Classic FUD or something deeper this time?"
-    },
-    {
-      "title": "Best Bitcoin ETF goes to BTC.",
-      "author": "fintechjunkie",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pa6onn/best_bitcoin_etf_goes_to_btc/",
-      "published": 1764469292.0,
-      "thumbnail": "https://preview.redd.it/jtag04y31b4g1.jpeg?width=640&crop=smart&auto=webp&s=594d62f8c35b1b944208ce17eef3796d2d0b8816",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-30T17:25:23.488813+00:00"
+  "fetched_at": "2025-11-30T18:16:07.845090+00:00"
 }

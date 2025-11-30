@@ -35,16 +35,6 @@
       "description": "The Swiss startup is aiming to automate construction equipment as the industry faces a severe shortage of skilled operators and surging demand."
     },
     {
-      "headline": "Video. Q&A: How will robotics shape our future? |Euronews Tech Talks Podcast",
-      "source": "Euronews.com",
-      "source_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2lrX29lVm1iS0lreUxueXg1TGFiM0F4OWxhNHNDc0RNbjNJLXJRbXFhajhrRGc4WjdvSkNBSGU1NzB0eE43REFQOTlMcUYydXdvSldpMGdBaC13c3VaTWNUOFRuMnpDdmxfOHd0NEtYS0NicmIxbU1VenBhWjlWWXZKZDA5UERGdXAweFBkUDFHNEdSczJINjFLSTBNczRo?oc=5",
-      "pub_date": 1764226882.0,
-      "article_url": "https://www.euronews.com/video/2025/11/27/qa-how-will-robotics-shape-our-future-euronews-tech-talks",
-      "image": "https://images.euronews.com/articles/stories/09/55/24/79/1200x675_cmsv2_754564b9-94bc-579e-bc45-a00aebb8dba5-9552479.jpg",
-      "description": "Video. How is AI transforming robotics? Where will robotics be in 2030? In this episode of Euronews Tech Talks, we put these and more of your questions to Kai Olav Ellefsen, associate professor at the University of Oslo."
-    },
-    {
       "headline": "Serve Robotics vs Teradyne: Which Robotics Stock Is a Buy For 2026?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -65,6 +55,16 @@
       "description": "The labor shortage isn't coming -- it's already here. And this fund owns the companies solving it."
     },
     {
+      "headline": "Video. Q&A: How will robotics shape our future? |Euronews Tech Talks Podcast",
+      "source": "Euronews.com",
+      "source_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2lrX29lVm1iS0lreUxueXg1TGFiM0F4OWxhNHNDc0RNbjNJLXJRbXFhajhrRGc4WjdvSkNBSGU1NzB0eE43REFQOTlMcUYydXdvSldpMGdBaC13c3VaTWNUOFRuMnpDdmxfOHd0NEtYS0NicmIxbU1VenBhWjlWWXZKZDA5UERGdXAweFBkUDFHNEdSczJINjFLSTBNczRo?oc=5",
+      "pub_date": 1764226882.0,
+      "article_url": "https://www.euronews.com/video/2025/11/27/qa-how-will-robotics-shape-our-future-euronews-tech-talks",
+      "image": "https://images.euronews.com/articles/stories/09/55/24/79/1200x675_cmsv2_754564b9-94bc-579e-bc45-a00aebb8dba5-9552479.jpg",
+      "description": "Video. How is AI transforming robotics? Where will robotics be in 2030? In this episode of Euronews Tech Talks, we put these and more of your questions to Kai Olav Ellefsen, associate professor at the University of Oslo."
+    },
+    {
       "headline": "A surgeon father and an artist son discover a common love: robots",
       "source": "Inquirer.com",
       "source_url": "https://www.inquirer.com",
@@ -75,12 +75,12 @@
       "description": "Gregory Weinstein is a pioneer of robotics surgery. He builds Legos with his son Jake who, unsurprisingly, now designs his own robots on paper and sculpture."
     },
     {
-      "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNU3VBbHNJSmJxcHlsYkttWkQ3a3diQUJSS1hoLWFMaG5sNkpZYUpIWUZvUkc4WDFXUGUxVkxIZ0NyaVhEYVpEZWs5MjJDU1RTb3NRdVRtQ0F5XzQ0clFBZlQ2SE5WWG5GbWNpZmpTYmR2bExEb3ZjVnI1UXVzR0tBY3loeDUycFFOamszQUtXYWlFRVpBdk5RVlh5X3p5QUk3dGJiX2tzY19SMWs0V3lnNF91SEpwUi0tcnhjVGc2Tlpha2k0dmlFS2U0eGlCeTF1UHo1OHRmTWZMZkt3Qmw4d3FBNG12NkZORzVjOW92WnFOQmNCVTBiaHBVWC0yUmROd0NrYk9Fb0dFelpLSWFQNUQ4R0ZWRHVPaGlJLWxzVnAzSlNEVmJDZDVQbHBDZUphcnlfQUx4aVNWQWEzREJ2by1HOGUtanpGRVR3Z3ZMSm5UZnhPaEEzY1JWNzZETW1NYUFTZVRDajg1U1lsaWF5ZHdMN1RBT01pY1RLbEJtZnJrR09O?oc=5",
-      "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqdFfGeJYL2PXDwHjENH_1HaV4O52ybjS2YRwZwo7OmwudtpkBdWS6wv&gaa_ts=692c8189&gaa_sig=qLvIRAmwusu0LHkmnTzZqyMgFbRFXY0WH4lifuaTshA0mbNiM__-CnNmlPE6CTxDrjduZXMgYu2SZQF3OoJdMQ%3D%3D",
+      "headline": "Chinese robot army is pure nightmare fuel",
+      "source": "News.com.au",
+      "source_url": "https://www.news.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM1M4OU52c21fdU9jeFlveVo1TmY5Y3dVcEZ5WE9ZZFhKWnBZMkZDZVBpVzU1T181bzRUa3F1aWpRZ3MyanktSVhEdG9KUTdxLWdUZ3B4NmIzYW93RkRzMVJ6WE9CZzRLVHdVdWlRd0dZM1JzOElVWUZ6d2FNQWh0ZkNoWXpqZnBMcUdtNlV0V1J5Q0xMalZKUHJsTTQ5dHRSNWduVlUwdG1RQVhuNWFQUW1pZGg0eElEaFNSS1piY2JxZWVBZUtINXhnVm0xak9LcGdvd19fRVBFekpIVFJ0MjlGTGtyMGw5TVFoUnJFYjFyUdIB9wFBVV95cUxQVXRSSDR4RHpub0R4Ry00bDVKS2dPeGc3cUJQVGFuRHZrcUNkSzVLZFJwdjRDS1hxUWR4c2tGRm41UGc1Y0lGWHk2NlRTN28zWURfUTlYYjRvanhYaVdWYVJrQkRtM3h5dFlackVDOVlhNEtnOThIYXRESkc0Skc3SFg0SHBfRVNCNnBaRTRNVFl2RGRONGZyQ2lYT2hoV2hJT096X2lScl8xTUZESTYzaTUwSnlZZHhOMEtVanBWWTJ4eGIzNHFIT2dydXZnTk9tSktDTEZ2U3V3VHljQ0VnSDJ0NDYtRkI4TDRXM05vZzB3ZmxEZWNB?oc=5",
+      "pub_date": 1764522356.0,
+      "article_url": "https://www.news.com.au/technology/innovation/inventions/why-china-is-leading-the-world-in-the-humanoid-robotic-race/news-story/baa79cf47706d95b542044872b4608b8",
       "image": null,
       "description": null
     },
@@ -95,16 +95,16 @@
       "description": "New Chinese robot logic framework lets humanoid robots reliably grasp unfamiliar objects with an 87% success rate."
     },
     {
-      "headline": "Xiaomi hires engineer from Tesla\u2019s Optimus team to lead robotic hand development",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGplRElVLTFhXzBBQnRSdVVGVWI5VnAzNkhSUkZKZkhrQ1FkVFU5OUZYMDA3QkNmaHVUS3lrZXFMTGI3cDF4MUphenZ4RjZDR25OSTNaVS0zaGlVUThkaXFqWk51SlVMNzVheDFzSFR2bHh3UXBVSUFLTUctaG1La0xKRDJlSTJWc0JNUFZmTWpYRXl5N0l2eXJxUmhWdm9aUlNNQWNQUE5Ka0dwZmplbUI5Y09oX0FDYmhj0gG7AUFVX3lxTE9FRFF1cEw0R2pnemd5bmxRYjAxVmc3b1hNMkpUWFBDU2duaFF1V0RhOVFFcVdxdkttdk8tT2NXSVlWRWhsdmtCLUc0cHJjVEthRURiZngydXNpZVNYU0U3V0lwS1ZKMGVUZDh6OGlOU3N4dHdNM2RLb01ST0N2SEd2MXJfaWJPQVZxX1BRT2ZCOC10NDB2bkJiU2tidXp5OWVFSXRsMGx0amw4aHRYeWJqQndIYkdTQkEzbFU?oc=5",
-      "pub_date": 1764241211.0,
-      "article_url": "https://www.scmp.com/tech/big-tech/article/3334353/xiaomi-seeks-helping-hand-former-tesla-engineer-robotics-development",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/27/c7c2eeae-93aa-41fe-8c68-839b08836073_d5c3b109.jpg?itok=IGr2noaV&v=1764232500",
-      "description": "Zach Lu Zeyu joins Xiaomi as lead of its dexterous hand research and development operations."
+      "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQU0JQcEcwV2xYLWd5Y2E4b05lajVLYjFoZzlSM2NES1A2WUpTX0kxRmQ2aXJza29zVW1zcFA3QVZScVJKazdSd2cwQXB1UVEtSUpBZGs2MGNIR2Z4M0N2NW5BUzlONTlQdDRtMkROUzBidTk1aXJnaGF2YVVGTnRnUnRxZC1La1dFaDZFb2dkaFZoQU43TngyTW51NzA3Y3otaks3VUNLTFVpNHVWZlprb1ozRXg4RVdwQkRsc1VNcEYxUVp3R2pJTlJoNExhSjc0S3RIZC1NQmpFVVVZSG9lREgzbGpGV18xZ1lzQWtFY3RXZHl6QnRIM1hlRGpRc1BWOW9STkVaVmVOWXpRWC1ReFVHOVRrczdpd05LQ1VveHRQYzVFOUZFRVJfZDRGbEVpaW9EVTdXU3I4eDJNM0YxQ2hudWdReUJ2VXczRnRUaXgwN0ZSODgwUmtySHRucVRkSHdYVDF3dk9vNklHWFZUOU54YXBKVXhjanZHVVplSllUMDlY?oc=5",
+      "pub_date": 1764352680.0,
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqen-2ROSEwH4jil32B8QE3k9nGtW6SAWd_L6NJYhYO6mdvjl2lwoqtw&gaa_ts=692c8d6f&gaa_sig=qkTUFZNBqkKiJ9VmIAl7T-0H6YtGKlBzA_h4lT5ANfHjFo-ee91FwP2LBslhB2KKItVHfWETu2Hc4ko4LAtTdQ%3D%3D",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T17:25:44.793397+00:00"
+  "fetched_at": "2025-11-30T18:16:35.910248+00:00"
 }

@@ -115,9 +115,23 @@
       "description": "Magiclip - AI-powered platform for creating viral short-form videos, with automatic subtitles, AI voice generation, and social media optimization.",
       "favicon": "https://magiclip.io/assets/images/favicon.webp",
       "site_name": "Magiclip"
+    },
+    {
+      "title": "A Tale of Two AI Failures: Debugging a Simple Bug with LLMs",
+      "url": "https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/",
+      "hn_url": "https://news.ycombinator.com/item?id=46083162",
+      "author": "slederer",
+      "points": 9,
+      "num_comments": 13,
+      "created_at": "2025-11-28T22:00:51Z",
+      "object_id": "46083162",
+      "image": "https://bitmovin.com/wp-content/uploads/2025/11/Bitmovin_2025_Blog_Hackathon_Lessons-min-768x403.jpg",
+      "description": "A subtle string formatting bug defeated two leading AI coding tools in completely different ways. Here\u2019s what their failures revealed during a recent Hackathon.",
+      "favicon": "https://bitmovin.com/wp-content/uploads/2023/11/bitmovin_favicon.svg",
+      "site_name": "Bitmovin"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2025-11-30T17:25:24.009722+00:00"
+  "fetched_at": "2025-11-30T18:16:08.887929+00:00"
 }

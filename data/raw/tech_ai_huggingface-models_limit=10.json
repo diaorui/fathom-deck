@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 44531,
-      "likes": 1437,
+      "likes": 1442,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-28T13:15:09.000Z",
@@ -24,7 +24,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/black-forest-labs/FLUX.2-dev.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/633f7a8f4be90e06da248e0f/m5YoF33abJ09vcwFxt1Mj.png",
       "downloads": 171322,
-      "likes": 750,
+      "likes": 752,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-27T11:17:09.000Z",
@@ -39,7 +39,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HunyuanOCR.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
       "downloads": 92907,
-      "likes": 538,
+      "likes": 539,
       "pipeline_tag": "image-text-to-text",
       "num_parameters": "996.2M",
       "last_modified": "2025-11-27T14:01:50.000Z",
@@ -129,7 +129,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Supertone/supertonic.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68ef1b2d04f0f03d81974536/XltzYlfCoWTzfqimzt5j7.png",
       "downloads": 12060,
-      "likes": 350,
+      "likes": 351,
       "pipeline_tag": "text-to-speech",
       "num_parameters": null,
       "last_modified": "2025-11-22T01:39:33.000Z",
@@ -144,7 +144,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/Orchestrator-8B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1613114437487-60262a8e0703121c822a80b6.png",
       "downloads": 258,
-      "likes": 157,
+      "likes": 158,
       "pipeline_tag": null,
       "num_parameters": "8.2B",
       "last_modified": "2025-11-27T04:02:34.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-30T18:56:13.823282+00:00"
+  "fetched_at": "2025-11-30T19:29:59.054020+00:00"
 }

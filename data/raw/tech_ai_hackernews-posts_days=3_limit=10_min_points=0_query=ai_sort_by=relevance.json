@@ -9,7 +9,7 @@
       "url": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
       "hn_url": "https://news.ycombinator.com/item?id=46083004",
       "author": "pyrophoenix",
-      "points": 498,
+      "points": 499,
       "num_comments": 166,
       "created_at": "2025-11-28T21:40:21Z",
       "object_id": "46083004",
@@ -136,7 +136,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46089546",
       "author": "victorbuilds",
       "points": 94,
-      "num_comments": 115,
+      "num_comments": 116,
       "created_at": "2025-11-29T18:14:21Z",
       "object_id": "46089546",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -145,7 +145,7 @@
       "site_name": "arXiv.org"
     }
   ],
-  "total_hits": 303,
+  "total_hits": 299,
   "has_metadata": true,
-  "fetched_at": "2025-11-30T18:56:03.863474+00:00"
+  "fetched_at": "2025-11-30T19:29:48.050770+00:00"
 }

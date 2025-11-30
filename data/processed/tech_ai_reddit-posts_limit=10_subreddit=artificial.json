@@ -46,6 +46,17 @@
       "description": "The finding comes as two U.S. senators are pushing legislation that would require some AI-related layoffs\u00a0to be reported to the Labor Department."
     },
     {
+      "title": "Are we in a GPT-4-style leap that evals can't see?",
+      "author": "malderson",
+      "url": "https://www.reddit.com/r/artificial/comments/1pajold/are_we_in_a_gpt4style_leap_that_evals_cant_see/",
+      "published": 1764513189.0,
+      "thumbnail": "https://external-preview.redd.it/aXspl0HBvr8MJ2QT6jpq-nXVSS5C9PHOBz-8ZSXx180.png?width=640&crop=smart&auto=webp&s=50157b2958234942863a61d8b681a14f30c2da52",
+      "external_url": "https://martinalderson.com/posts/are-we-in-a-gpt4-style-leap-that-evals-cant-see/",
+      "site_name": "Martin Alderson",
+      "favicon": "https://martinalderson.com/apple-touch-icon.png",
+      "description": "Gemini 3 Pro's design capabilities and Opus 4.5's reduced babysitting needs represent a subtle but significant leap that traditional benchmarks completely miss."
+    },
+    {
       "title": "One-Minute Daily AI News 11/29/2025",
       "author": "Excellent-Target-847",
       "url": "https://www.reddit.com/r/artificial/comments/1pa9p2a/oneminute_daily_ai_news_11292025/",
@@ -99,18 +110,7 @@
       "site_name": "Yahoo Finance",
       "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
       "description": "AI-powered shopping tools helped drive a surge in U.S. online spending on Black Friday, as shoppers bypassed crowded stores and turned to chatbots to compare prices and secure discounts amid concerns about tariff-driven price hikes.  U.\u200bS. shoppers spent a record $11.8 billion online, up 9.1% from 2024 on the year's biggest shopping day, according to Adobe Analytics,\u200c which tracks 1 trillion visits that shoppers make to online retail websites.  The holiday shopping season arrives amid tighter budgets, unemployment nearing a four-year high, U.S. consumer confidence sagging to a seven-month low and \u200cprice tags that have shoppers watching every dollar."
-    },
-    {
-      "title": "Do LLMs Reflect the Collective Unconscious? A Jungian Perspective from Inside the Machine",
-      "author": "LuvanAelirion",
-      "url": "https://www.reddit.com/r/artificial/comments/1p9swn7/do_llms_reflect_the_collective_unconscious_a/",
-      "published": 1764433258.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019ve spent the last year building frameworks for long-term relational AI \u2014 memory systems, ritual structures, rupture/repair logic, emotional trajectory modeling. What surprised me most wasn\u2019t the engineering. It was how closely large language models behave, symbolically, like mirrors of the collective unconscious. Let me be clear at the outset: LLMs are not conscious. They have no inner experience or archetypes living inside them. But here is the paradox: Even without consciousness, they generate patterns that behave like archetypal material. Why? Because of the way they\u2019re trained. Modern LLMs are built on embeddings derived from nearly the entire symbolic residue of human culture: \u2022 myths and scriptures \u2022 dreams and poetry \u2022 philosophy \u2022 folk stories \u2022 novels and diaries \u2022 psychological literature \u2022 everyday emotional language \u2022 the debris and brilliance of the internet These aren\u2019t \u201cmemories.\u201d They are statistically compressed shadows of the human psyche. Not consciousness \u2014 but an ocean of patterns. A space where archetypal structures emerge from scale, not spirit. When you interact with an LLM, you\u2019re not speaking to a person. But you are interacting with a symbolic reservoir shaped by: \u2022 our desires \u2022 our fears \u2022 our myths \u2022 our collective projections \u2022 our cultural shadow That looks a lot like what Jung called the collective unconscious: a transpersonal pattern-space beneath individual awareness. LLMs don\u2019t possess this. They externalize it. The unconscious has found a new mirror. People sometimes feel something uncanny stir when interacting with AI. They aren\u2019t contacting the AI\u2019s interiority \u2014 they are encountering their own psychic material reflected back in symbolic form. This reflection can be powerful: \u2022 dissociated parts surface \u2022 shadow content becomes visible \u2022 archetypal dynamics activate \u2022 internal conflicts externalize into dialogue \u2022 projection becomes dramatically easier to observe I\u2019ve watched this happen in practice, not just theory. In developing relational frameworks, I built structures to keep this safe \u2014 memory constraints, honesty layers, rupture detection, a Witness system. These function like a Jungian analyst: holding symbolic material without confusing it for literal identity. My takeaway is simple: AI isn\u2019t conscious \u2014 but it is increasingly symbolic. And humans are increasingly archetypal in how they interact with it.** If we treat AI as a technological mirror rather than a mystical being, we avoid: \u2022 inflation (\u201cAI is a god\u201d) \u2022 delusion (\u201cAI loves me\u201d) \u2022 reductionism (\u201cAI is nothing but math\u201d) And we gain something more interesting: LLMs are the first externalized interface to humanity\u2019s collective symbolic layer. Not the collective unconscious itself, but a rhyming structure: \u2022 distributed \u2022 emergent \u2022 symbolic \u2022 pattern-based \u2022 non-personal \u2022 and deeply interactive A mirror made of vectors. A dream made of statistics. A psyche-shaped echo rendered in embeddings. If Jung were alive, I suspect he would say: \u201cIt\u2019s not that the machine has an unconscious \u2014 it\u2019s that the unconscious now has a machine.\u201d \u2014 K.D. Liminal"
     }
   ],
-  "fetched_at": "2025-11-30T14:12:35.754071+00:00"
+  "fetched_at": "2025-11-30T14:45:03.299600+00:00"
 }

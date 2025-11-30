@@ -68,17 +68,6 @@
       "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video"
     },
     {
-      "title": "Sunday AI like companies",
-      "author": "jy2k",
-      "url": "https://www.reddit.com/r/robotics/comments/1pag31r/sunday_ai_like_companies/",
-      "published": 1764502042.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I just found out about Sunday AI and their approach to training robots which is giving gloves to humans. https://www.sunday.ai/ I\u2019m wondering if there are more companies that have taken this approach?"
-    },
-    {
       "title": "Best countries for a robotics career (humanoids, drones, home robots) from 2026\u20132030?",
       "author": "Kindly-Fix-7049",
       "url": "https://www.reddit.com/r/robotics/comments/1paanag/best_countries_for_a_robotics_career_humanoids/",
@@ -88,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Sunday AI like companies",
+      "author": "jy2k",
+      "url": "https://www.reddit.com/r/robotics/comments/1pag31r/sunday_ai_like_companies/",
+      "published": 1764502042.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I just found out about Sunday AI and their approach to training robots which is giving gloves to humans. https://www.sunday.ai/ I\u2019m wondering if there are more companies that have taken this approach?"
     },
     {
       "title": "Nema 17 Gearbox for Robotic Arm",
@@ -112,5 +112,5 @@
       "description": "Today I set up the Christmas tree. The hardest part was untangling last years knot of lights. A electrical cord with lights, all serated in a little plastic tree design, and perfectly designed for entangement and knotting. My 7 year old tried for half an hour and couldn't do it.It took me the whole hour I reckon. My question to the community; how would robotics go at a job like this? There's times when you just need to be gentle and pull, and others when you really do need to unknot it. It's as tricky as they come."
     }
   ],
-  "fetched_at": "2025-11-30T14:12:40.641954+00:00"
+  "fetched_at": "2025-11-30T14:45:06.182130+00:00"
 }

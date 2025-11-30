@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-11-30T01:58:29.225408+00:00"
+          "dateModified": "2025-11-30T03:41:00.747249+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -649,6 +649,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/" target="_blank" onclick="event.stopPropagation();">For home robots, does a humanoid form factor actually make engineering sense?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            This is a strictly engineering-focused question — not about long-term predictions, consumer markets, or sci-fi use cases. Humanoids are getting a lot of visibility lately (Optimus, Unitree H1, XPeng, Atlas, etc.). It made me curious about the actual engineering trade-offs when the target environment is a typical home. From a design and controls standpoint, the two approaches seem to have very different constraints. Potential engineering advantages of humanoid designs: • human-height workspace • access to existing tools, handles, and switches • whole-body manipulation possibilities • able to navigate human-scale indoor layouts without modifying the environment Potential engineering advantages of non-humanoid mobile manipulators: • lower BOM and simpler actuation • fewer DOF → lower control complexity • wheels = far fewer failure modes • lower power requirements • easier to reach appliance-tier reliability • more predictable motion (pets/kids safe) You don’t need to frame this in market terms — I’m mostly trying to build a clearer mental model for ongoing work related to home-environment autonomy. A lot of current projects (mine included) are running into similar failure modes in manipulation, reliability, and task generalization, so I’m curious how others here rank the practical constraints today. From an engineering standpoint, what seems like the real bottleneck right now? • manipulation robustness? • cost of reliable hardware? • locomotion complexity (balancing vs wheeled)? • or just the number of corner cases in household tasks? Would love to hear how people here think about current, real-world design constraints.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1764470863.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p9n1hd/ball_balancing_robot/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -783,6 +816,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pa7ati/how_do_you_get_one_linear_actuator_to_extend/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1pa7ati/how_do_you_get_one_linear_actuator_to_extend/" target="_blank" onclick="event.stopPropagation();">How do you get one linear actuator to extend while the other retracts via the same switch simultaneously controlled?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Robotics guys seem better versed in actuators than RC guys. I’m trying to make it so my RC snow plow has dual linear actuators to angle it left and right, however this works best using two. One to retract while the other extends, and vice versa in the other direction. I currently have another actuator lifting my plow. This is controlled via my trucks only ESC/receiver and using an RC4WD wired winch controller to control the actual lifting mechanism from my spektrum DX5rugged. This is plenty of power to achieve this, even with the angle. However what control module would I need, or what would I need to make this action work? I’d prefer to ditch the servo sooner than later for my angle operation just due to it being jerkier in nature with less stability and control. Do I need a whole separate ESC to control this via my current receiver? Two ESCs with mixing? I’m kind of lost on how to achieve this.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1764471173.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pa0vpc/robodk_3_diferent_processes_on_the_same_piece/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -884,74 +950,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p9n6zn/rplidar_suddenly_stopped_working/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/984gwacjq64g1.jpeg?width=640&crop=smart&auto=webp&s=9bd3016a1e056f129ad9c7c16085ca410762b132" alt="RPLIDAR suddenly stopped working" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1p9n6zn/rplidar_suddenly_stopped_working/" target="_blank" onclick="event.stopPropagation();">RPLIDAR suddenly stopped working</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Was working with SLAM on ROS2 and my RPLIDAR suddenly stopped working — only 2 points show up. Tried swapping cables, reconnecting, even tested in RoboStudio — same result. Red laser is on and flickering. Has anyone ever faced a similar issue? Did you manage to fix it?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1764417369.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1p9l3ya/family_bot_build/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1p9l3ya/family_bot_build/" target="_blank" onclick="event.stopPropagation();">Family bot build?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            How hard would it be to build something like this? Either from scratch or modifying an existing Traxxas Tenton rc car. I've tried looking at various options involving 3d printing and Arduino both of which I have some experience in, but I can't find anything that fits my parameters. Controlled over WiFi for range. Camera Can move around Extra points for microphone and speakers.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1764409766.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -975,7 +973,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-30T01:58:07.506845+00:00">Updated 2025-11-30T01:58:07.506845+00:00</small>
+        <small data-timestamp="2025-11-30T03:40:40.884715+00:00">Updated 2025-11-30T03:40:40.884715+00:00</small>
     </div>
 </div>
 
@@ -1280,14 +1278,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqfm7HIv7FWSsTaJiG13qNYbOlAVned3jR_A-NlNFdmAVj2Yb849xpwN&gaa_ts=692ba833&gaa_sig=LHXMGcQGcPp0ABSsbIYMgdf61rSMJ0GtmQ11cSfdaVMZ-liyxtbK7jD0yyUTEqwdI9u083QEP1XkRjDOqqpumg%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqdsQmhaOn_X38u8TTZldiRtaMLib2tkzzqqpfjMmp-YTR_x-Ih-NOHG&gaa_ts=692bc03c&gaa_sig=Gepl3MHX7wGSxjZcUewtpDYImCTwjflHudCkxst38KFVsZW-OQSpPddTb049TYEMEMYDHpTaXM4rlRcmZlp0kA%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqfm7HIv7FWSsTaJiG13qNYbOlAVned3jR_A-NlNFdmAVj2Yb849xpwN&gaa_ts=692ba833&gaa_sig=LHXMGcQGcPp0ABSsbIYMgdf61rSMJ0GtmQ11cSfdaVMZ-liyxtbK7jD0yyUTEqwdI9u083QEP1XkRjDOqqpumg%3D%3D" target="_blank" onclick="event.stopPropagation();">Opinion | Humanoid Robots Have a Long Way to Go</a>
+                            <a href="https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqdsQmhaOn_X38u8TTZldiRtaMLib2tkzzqqpfjMmp-YTR_x-Ih-NOHG&gaa_ts=692bc03c&gaa_sig=Gepl3MHX7wGSxjZcUewtpDYImCTwjflHudCkxst38KFVsZW-OQSpPddTb049TYEMEMYDHpTaXM4rlRcmZlp0kA%3D%3D" target="_blank" onclick="event.stopPropagation();">Opinion | Humanoid Robots Have a Long Way to Go</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1440,47 +1438,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.euronews.com/video/2025/11/27/qa-how-will-robotics-shape-our-future-euronews-tech-talks', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.euronews.com/articles/stories/09/55/24/79/1200x675_cmsv2_754564b9-94bc-579e-bc45-a00aebb8dba5-9552479.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.euronews.com/video/2025/11/27/qa-how-will-robotics-shape-our-future-euronews-tech-talks" target="_blank" onclick="event.stopPropagation();">Video. Q&A: How will robotics shape our future? |Euronews Tech Talks Podcast</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Video. How is AI transforming robotics? Where will robotics be in 2030? In this episode of Euronews Tech Talks, we put these and more of your questions to Kai Olav Ellefsen, associate professor at the University of Oslo.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.euronews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Euronews.com" class="news-favicon">
-                                    <a href="https://www.euronews.com" target="_blank" onclick="event.stopPropagation();">Euronews.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1764226882.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.inquirer.com/arts/jake-gregory-weinstein-penn-robots-clankers-20251129.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.inquirer.com/resizer/v2/FGOVUEXRGZDZTLAH7OLXX76XAE.jpg?auth=4ec83c9ee2b73e92423e78e04ca58a5f0d75817327318909545225b8135bda9f&width=760&height=507&smart=true');"></div>
@@ -1515,6 +1472,47 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1764410400.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.euronews.com/video/2025/11/27/qa-how-will-robotics-shape-our-future-euronews-tech-talks', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.euronews.com/articles/stories/09/55/24/79/1200x675_cmsv2_754564b9-94bc-579e-bc45-a00aebb8dba5-9552479.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.euronews.com/video/2025/11/27/qa-how-will-robotics-shape-our-future-euronews-tech-talks" target="_blank" onclick="event.stopPropagation();">Video. Q&A: How will robotics shape our future? |Euronews Tech Talks Podcast</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Video. How is AI transforming robotics? Where will robotics be in 2030? In this episode of Euronews Tech Talks, we put these and more of your questions to Kai Olav Ellefsen, associate professor at the University of Oslo.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.euronews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Euronews.com" class="news-favicon">
+                                    <a href="https://www.euronews.com" target="_blank" onclick="event.stopPropagation();">Euronews.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1764226882.0"></span>
                                 </div>
                                 
                             </div>
@@ -1583,7 +1581,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-30T01:58:27.556072+00:00">Updated 2025-11-30T01:58:27.556072+00:00</small>
+        <small data-timestamp="2025-11-30T03:40:59.218247+00:00">Updated 2025-11-30T03:40:59.218247+00:00</small>
     </div>
 </div>
 

@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "Full-size humanoid hobot LimX's Oli walks over construction debris (standing 165 cm tall and weighing 55 kg)",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9lmwl/fullsize_humanoid_hobot_limxs_oli_walks_over/",
-      "published": 1764411688.0,
-      "thumbnail": "https://external-preview.redd.it/eWd4MjducHk4NjRnMft9vFA-FNFjTxs8E3afZ-EBB4QQysHN5Jqw62PmqkrM.png?width=640&crop=smart&auto=webp&s=3151f354db997dfe4fab3361aa6ac5e71edee6a0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From LimX Dynamics on \ud835\udd4f: https://x.com/LimX_Dynamics/status/1994408054989987939?s=20"
-    },
-    {
       "title": "For home robots, does a humanoid form factor actually make engineering sense?",
       "author": "BigGirl367",
       "url": "https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/",
@@ -24,6 +13,17 @@
       "description": "This is a strictly engineering-focused question \u2014 not about long-term predictions, consumer markets, or sci-fi use cases. Humanoids are getting a lot of visibility lately (Optimus, Unitree H1, XPeng, Atlas, etc.). It made me curious about the actual engineering trade-offs when the target environment is a typical home. From a design and controls standpoint, the two approaches seem to have very different constraints. Potential engineering advantages of humanoid designs: \u2022 human-height workspace \u2022 access to existing tools, handles, and switches \u2022 whole-body manipulation possibilities \u2022 able to navigate human-scale indoor layouts without modifying the environment Potential engineering advantages of non-humanoid mobile manipulators: \u2022 lower BOM and simpler actuation \u2022 fewer DOF \u2192 lower control complexity \u2022 wheels = far fewer failure modes \u2022 lower power requirements \u2022 easier to reach appliance-tier reliability \u2022 more predictable motion (pets/kids safe) You don\u2019t need to frame this in market terms \u2014 I\u2019m mostly trying to build a clearer mental model for ongoing work related to home-environment autonomy. A lot of current projects (mine included) are running into similar failure modes in manipulation, reliability, and task generalization, so I\u2019m curious how others here rank the practical constraints today. From an engineering standpoint, what seems like the real bottleneck right now? \u2022 manipulation robustness? \u2022 cost of reliable hardware? \u2022 locomotion complexity (balancing vs wheeled)? \u2022 or just the number of corner cases in household tasks? Would love to hear how people here think about current, real-world design constraints."
     },
     {
+      "title": "Full-size humanoid hobot LimX's Oli walks over construction debris (standing 165 cm tall and weighing 55 kg)",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9lmwl/fullsize_humanoid_hobot_limxs_oli_walks_over/",
+      "published": 1764411688.0,
+      "thumbnail": "https://external-preview.redd.it/eWd4MjducHk4NjRnMft9vFA-FNFjTxs8E3afZ-EBB4QQysHN5Jqw62PmqkrM.png?width=640&crop=smart&auto=webp&s=3151f354db997dfe4fab3361aa6ac5e71edee6a0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "From LimX Dynamics on \ud835\udd4f: https://x.com/LimX_Dynamics/status/1994408054989987939?s=20"
+    },
+    {
       "title": "Ball Balancing Robot",
       "author": "JohanLink",
       "url": "https://www.reddit.com/r/robotics/comments/1p9n1hd/ball_balancing_robot/",
@@ -33,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
+    },
+    {
+      "title": "Nema 17 Gearbox for Robotic Arm",
+      "author": "Traditional_Scar_430",
+      "url": "https://www.reddit.com/r/robotics/comments/1pa5x78/nema_17_gearbox_for_robotic_arm/",
+      "published": 1764467009.0,
+      "thumbnail": "https://a.thumbs.redditmedia.com/Zd26pKuDiU8Yi4Jzva1O6ez1ufWY-YYon6wZ3Id44X0.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm working on a robotic arm project and I'm looking into using this planetary gearbox for a Nema 17 motor. https://preview.redd.it/0llh5gy8ua4g1.png?width=901&format=png&auto=webp&s=ecc0809169212c217ea7a276f67be90dd66b5077 https://preview.redd.it/jqqcigy8ua4g1.png?width=816&format=png&auto=webp&s=fb3e27aeb56050f4ab9138fee032c9471cc2b9b2 According to my calculations, the reduction is going to be 3:1 I think maybe it's not going to work well, not necessarily because they are planetary gears, but mostly because the ratio seems too low. What do you all think? Any experience with this or suggestions for better gearboxes for a Nema 17 in a robotic arm?"
     },
     {
       "title": "Actuator/servo",
@@ -57,17 +68,6 @@
       "description": null
     },
     {
-      "title": "Nema 17 Gearbox for Robotic Arm",
-      "author": "Traditional_Scar_430",
-      "url": "https://www.reddit.com/r/robotics/comments/1pa5x78/nema_17_gearbox_for_robotic_arm/",
-      "published": 1764467009.0,
-      "thumbnail": "https://a.thumbs.redditmedia.com/Zd26pKuDiU8Yi4Jzva1O6ez1ufWY-YYon6wZ3Id44X0.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm working on a robotic arm project and I'm looking into using this planetary gearbox for a Nema 17 motor. https://preview.redd.it/0llh5gy8ua4g1.png?width=901&format=png&auto=webp&s=ecc0809169212c217ea7a276f67be90dd66b5077 https://preview.redd.it/jqqcigy8ua4g1.png?width=816&format=png&auto=webp&s=fb3e27aeb56050f4ab9138fee032c9471cc2b9b2 According to my calculations, the reduction is going to be 3:1 I think maybe it's not going to work well, not necessarily because they are planetary gears, but mostly because the ratio seems too low. What do you all think? Any experience with this or suggestions for better gearboxes for a Nema 17 in a robotic arm?"
-    },
-    {
       "title": "How do you get one linear actuator to extend while the other retracts via the same switch simultaneously controlled?",
       "author": "NoIntern2903",
       "url": "https://www.reddit.com/r/robotics/comments/1pa7ati/how_do_you_get_one_linear_actuator_to_extend/",
@@ -77,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Robotics guys seem better versed in actuators than RC guys. I\u2019m trying to make it so my RC snow plow has dual linear actuators to angle it left and right, however this works best using two. One to retract while the other extends, and vice versa in the other direction. I currently have another actuator lifting my plow. This is controlled via my trucks only ESC/receiver and using an RC4WD wired winch controller to control the actual lifting mechanism from my spektrum DX5rugged. This is plenty of power to achieve this, even with the angle. However what control module would I need, or what would I need to make this action work? I\u2019d prefer to ditch the servo sooner than later for my angle operation just due to it being jerkier in nature with less stability and control. Do I need a whole separate ESC to control this via my current receiver? Two ESCs with mixing? I\u2019m kind of lost on how to achieve this."
+    },
+    {
+      "title": "Why did digit robot take off?",
+      "author": "animaleater666",
+      "url": "https://www.reddit.com/r/robotics/comments/1pa6uk7/why_did_digit_robot_take_off/",
+      "published": 1764469794.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have seen many fails/humanoid robots turning out to be scams, overhyped, or teleoperated. Tesla bot, and neo for example. However I've repeatedly seen an autonomous robot digit, by agility robotics. And from the stuff I've seen, it seems pretty legit. They're in Amazon, and another distributor. My question is why were they able to make an autonomous humanoid robot, but a company like Tesla can't? Is digit overhyped aswell?"
     },
     {
       "title": "RoboDK 3 diferent processes on the same piece",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Science Robotics: Foldable and rollable interlaced structure for deployable robotic systems: https://www.science.org/doi/10.1126/scirobotics.adv4696"
-    },
-    {
-      "title": "Controls project",
-      "author": "Proof-Assignment1770",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9qy97/controls_project/",
-      "published": 1764428310.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey guys, I want to do a project where I investigate various control systems for a mobile robot and try and evaluate the optimal one in a given scenario. For example, an idea I had was to build a self-balancing robot (the inverted pendulum one), and place a glass of water on top, then experiment with various control systems such as PID, LQR, etc. Is it even possible to use these different control systems and figure out the best approach, or is PID tuning the best? Would this project be good to try out? Any advice would help as I am relatively new to control theory."
     }
   ],
-  "fetched_at": "2025-11-30T03:40:40.884715+00:00"
+  "fetched_at": "2025-11-30T04:21:03.085383+00:00"
 }

@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Tesla loses some AI staff to a new robotics startup",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGRMV2h4bHplanZsNFpIS1BiNXJTQ21WSjZNZlJ1ZHBaR0Nqb3R2N1dsX1hwbmdVc3J2SmFvUUNBYlFFbGt5QjB0VTByTE9TWkpDTXoteUlrWmNIYlNrX2pjTHlmZ2U5ek96VEZaTkNyVlRSdkNpUmZTU1FNenRQM05QZXBZQTNRR1NtRQ?oc=5",
-      "pub_date": 1764373860.0,
-      "article_url": "https://www.businessinsider.com/tesla-loses-ai-staff-startup-sunday-robotics-2025-11",
-      "image": "https://i.insider.com/692a04f3e1a9cbb014df2eb3?width=1200&format=jpeg",
-      "description": "Sunday Robotics came out of stealth mode last week and revealed a team stocked with Tesla alumni."
-    },
-    {
       "headline": "China Warns of Bubble Risk in Booming Humanoid Robotics Industry",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -38,11 +28,21 @@
       "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNdEh0eW92ZnIyQ1dScVUyZFFEXzhYYTExazBzWkVzWTE5aWRFWnU4MzFpbFg2OURSU0xuazF4dEpFcVdXUmR4eW1FVld1T3hodGViVE5WRGtWblR5WWZEbG5XZC1SQjM3VmVva3VGUzU0ZTRtNEpQdEdlMW1aZ3NfTU5NYjZkVTVDZTRJWkhIUGlSSmpBQWxHM3NHS2tzUVVab0V2ejd5WHhTS3V2amlZRFhuTnJmZ2xqTEJWUmRyeEJJT1FrTnVZUlc5VTBuX3laTnNPbjZyTHp4QzlHdTM4ZExKQ1ZPYVlsVjRNeXZiREtvMTZqZXlpV2VHR0pnT1ozcUxNTVh3SzJSbGZpZkVKV0ppaXZxcUc5SW5CdURROEFBWVpDdWhyclFLQ1M4WTJMdDFlaUc2YUhvdXpYbnA2VXBackY0bUEzeVpHYnIxaG1jWHM4UWMwMTRtcEdSbWhueWczLTJnNXRuclNSLWkyODdTVUxYTE0zYmFvUXNNVUhvLU4y?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNTUtwdHU1a2s0WG5MRXBnQ2p3ck5ObzVZdzh6R2RzTWJoT2hwNTVEdFN5RlNfTXM3MnZIT2EyUllva2Q0VnNiQmFjVUZCSnVCY3dtNk9GbWM3ank4R2gzM0hudVlNeFlFUTljaUF5WUo5U05Ydk9FMFUxU2VudnVaOW41a2xvZXoxbVRna1VrWDFPMkdmLVpUa21fdzZ5cHA4N1N1eFN2SFBETmtTTzVqYWdSSnc2QVU5YXdrVS1Ral90ZWJOdTQ5SlFLZmlPRFEtLWRtS2R4R056YWE1cmZGZEM0OWR2M0YxNzBWUUd5WjFZZ3ZTSGU0NUJBWWJha0hTaF81ZnZnWTlKS1dSeXZfUDhCejF1VFhBYlhqbTY2VkszWFJCWGdKNzZqUHlEc1lLWGpCQXNac2NrNTdYNDc3a05EYTFpZXNELTl0a3prTXRDRmtic3UybDFCY1RiU2d3ZDY0eTlTYlA5M2VaWXdURm1wU0lOY2RwUENabEhqaWdyZmpS?oc=5",
       "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqdsQmhaOn_X38u8TTZldiRtaMLib2tkzzqqpfjMmp-YTR_x-Ih-NOHG&gaa_ts=692bc03c&gaa_sig=Gepl3MHX7wGSxjZcUewtpDYImCTwjflHudCkxst38KFVsZW-OQSpPddTb049TYEMEMYDHpTaXM4rlRcmZlp0kA%3D%3D",
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqchNRm8N0NV73hOy6HlCCrbYTkiK8RpEA6xMQZq5bGUPPwofMn2H8gU&gaa_ts=692bc9b3&gaa_sig=ZTtZfJKfMzBFUJMe-8yRKOhb1ZBMShGC0fBQQ1ZF1PjG_dlD9FfaYWk9WJKZxHsoA3upz6pHBOqEWSChAwm09A%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Tesla loses some AI staff to a new robotics startup",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGRMV2h4bHplanZsNFpIS1BiNXJTQ21WSjZNZlJ1ZHBaR0Nqb3R2N1dsX1hwbmdVc3J2SmFvUUNBYlFFbGt5QjB0VTByTE9TWkpDTXoteUlrWmNIYlNrX2pjTHlmZ2U5ek96VEZaTkNyVlRSdkNpUmZTU1FNenRQM05QZXBZQTNRR1NtRQ?oc=5",
+      "pub_date": 1764373860.0,
+      "article_url": "https://www.businessinsider.com/tesla-loses-ai-staff-startup-sunday-robotics-2025-11",
+      "image": "https://i.insider.com/692a04f3e1a9cbb014df2eb3?width=1200&format=jpeg",
+      "description": "Sunday Robotics came out of stealth mode last week and revealed a team stocked with Tesla alumni."
     },
     {
       "headline": "Serve Robotics vs Teradyne: Which Robotics Stock Is a Buy For 2026?",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T03:40:59.218247+00:00"
+  "fetched_at": "2025-11-30T04:21:21.906790+00:00"
 }

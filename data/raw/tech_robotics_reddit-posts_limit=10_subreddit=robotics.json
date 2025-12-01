@@ -2,6 +2,17 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "Demonstration of sanitation robots in Shenzhen last week",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1pb8geg/demonstration_of_sanitation_robots_in_shenzhen/",
+      "published": 1764581393.0,
+      "thumbnail": "https://external-preview.redd.it/bzE5czdsazNhazRnMZNmrQ2qSiOJZnjCQEc7estSYXQIA3irPB-JEHj5BZA9.png?width=640&crop=smart&auto=webp&s=92b1c04743b1792c22b374adc8e5adb8a376b211",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "From Tuo Liu on \ud835\udd4f: https://x.com/Robo_Tuo/status/1995314021281771644"
+    },
+    {
       "title": "4 motors robot crawler",
       "author": "Archyzone78",
       "url": "https://www.reddit.com/r/robotics/comments/1pb5i5b/4_motors_robot_crawler/",
@@ -57,6 +68,17 @@
       "description": null
     },
     {
+      "title": "Tips for my upcoming project.",
+      "author": "Aiden_TG",
+      "url": "https://www.reddit.com/r/robotics/comments/1pb8g2k/tips_for_my_upcoming_project/",
+      "published": 1764581359.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So I'm working on a passion project, creating a robot, specifically, the robot N from the series murder drones, I'm still learning in robotics, but my main plan is to have a basic chat robot, so it picks up my speech through a mic and I connect it to an AI chat system and it will then output a tts voice, additionally I'd like to have a screen of some sort that has images of expressions and those expressions will change based on the chat, I would like some tips or instructions of how I could do this. Later on in the project I'm going to have the limbs and body controlled with servos and I'd like to have the AI move and rotate the servos when I tell it to, this is all so new to me because I usually work with animatronics and not ai, so I need some tips like what hardware or software I need and how I can do this. Any help would be greatly appreciated!"
+    },
+    {
       "title": "Looking for feedback on a ROS observability/debugging tool",
       "author": "One_Criticism_6156",
       "url": "https://www.reddit.com/r/robotics/comments/1pawh0n/looking_for_feedback_on_a_ros/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "This is a strictly engineering-focused question \u2014 not about long-term predictions, consumer markets, or sci-fi use cases. Humanoids are getting a lot of visibility lately (Optimus, Unitree H1, XPeng, Atlas, etc.). It made me curious about the actual engineering trade-offs when the target environment is a typical home. From a design and controls standpoint, the two approaches seem to have very different constraints. Potential engineering advantages of humanoid designs: \u2022 human-height workspace \u2022 access to existing tools, handles, and switches \u2022 whole-body manipulation possibilities \u2022 able to navigate human-scale indoor layouts without modifying the environment Potential engineering advantages of non-humanoid mobile manipulators: \u2022 lower BOM and simpler actuation \u2022 fewer DOF \u2192 lower control complexity \u2022 wheels = far fewer failure modes \u2022 lower power requirements \u2022 easier to reach appliance-tier reliability \u2022 more predictable motion (pets/kids safe) You don\u2019t need to frame this in market terms \u2014 I\u2019m mostly trying to build a clearer mental model for ongoing work related to home-environment autonomy. A lot of current projects (mine included) are running into similar failure modes in manipulation, reliability, and task generalization, so I\u2019m curious how others here rank the practical constraints today. From an engineering standpoint, what seems like the real bottleneck right now? \u2022 manipulation robustness? \u2022 cost of reliable hardware? \u2022 locomotion complexity (balancing vs wheeled)? \u2022 or just the number of corner cases in household tasks? Would love to hear how people here think about current, real-world design constraints."
-    },
-    {
-      "title": "First live test of a laser-based local obstacle detection concept.",
-      "author": "Independent_Win_Alex",
-      "url": "https://www.reddit.com/r/robotics/comments/1pafmkr/first_live_test_of_a_laserbased_local_obstacle/",
-      "published": 1764500415.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video"
-    },
-    {
-      "title": "Ball Balancing Robot",
-      "author": "JohanLink",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9n1hd/ball_balancing_robot/",
-      "published": 1764416833.0,
-      "thumbnail": "https://external-preview.redd.it/aGtrMW40bTBwNjRnMbErayzCi0ja_0kg845fe681GMgl3J5WLjfTaWRly87D.png?width=640&crop=smart&auto=webp&s=36be5efabf278b9da75633b323c247ee89954a1d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
     }
   ],
-  "fetched_at": "2025-12-01T09:20:54.257928+00:00"
+  "fetched_at": "2025-12-01T09:58:11.285534+00:00"
 }

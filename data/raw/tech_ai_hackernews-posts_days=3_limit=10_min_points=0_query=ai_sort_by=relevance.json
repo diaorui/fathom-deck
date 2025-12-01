@@ -23,8 +23,8 @@
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
-      "points": 402,
-      "num_comments": 301,
+      "points": 403,
+      "num_comments": 306,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -75,20 +75,6 @@
       "site_name": "nature.com"
     },
     {
-      "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
-      "url": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1",
-      "hn_url": "https://news.ycombinator.com/item?id=46077038",
-      "author": "thm",
-      "points": 202,
-      "num_comments": 204,
-      "created_at": "2025-11-28T09:21:55Z",
-      "object_id": "46077038",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "wsj.com"
-    },
-    {
       "title": "AI Adoption Rates Starting to Flatten Out",
       "url": "https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/",
       "hn_url": "https://news.ycombinator.com/item?id=46079987",
@@ -121,7 +107,7 @@
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 177,
+      "points": 182,
       "num_comments": 54,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
@@ -143,9 +129,23 @@
       "description": null,
       "favicon": null,
       "site_name": "garymarcus.substack.com"
+    },
+    {
+      "title": "Airbus A320 Fly by wire corrupted by radiation in flight",
+      "url": "https://viewfromthewing.com/airbus-a320s-could-be-temporarily-grounded-worldwide-for-software-update-after-faulty-jetblue-computer-triggered-sudden-uncommanded-descent/",
+      "hn_url": "https://news.ycombinator.com/item?id=46082296",
+      "author": "JohannMac",
+      "points": 111,
+      "num_comments": 66,
+      "created_at": "2025-11-28T20:06:52Z",
+      "object_id": "46082296",
+      "image": "https://viewfromthewing.com/wp-content/uploads/2017/04/20170328_155922_zpsy2cutwyw.jpg",
+      "description": "Aviation insiders say an airworthiness directive may soon require software updates across the Airbus A320 fleet after investigators linked a JetBlue incident\u2014where the aircraft entered a sudden uncommanded descent\u2014to a faulty ELAC computer. Any grounding is expected to be short and staggered, with airlines updating the systems plane-by-plane to avoid major disruption.",
+      "favicon": "https://viewfromthewing.com/wp-content/themes/vftw/images/touch-icon-iphone.png",
+      "site_name": "View from the Wing"
     }
   ],
-  "total_hits": 305,
+  "total_hits": 303,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T09:20:50.306050+00:00"
+  "fetched_at": "2025-12-01T09:58:07.246081+00:00"
 }

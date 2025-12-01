@@ -35,6 +35,17 @@
       "description": "I am writing this as a warning to anyone paying for Perplexity Pro expecting the advertised \"Deep Research\" capabilities. TL;DR: I proved, using Perplexity's own active documentation and official launch blog, that their \"Deep Research\" agent is severely throttled and not meeting its contractual specifications. The community validated my findings (my post reached 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page). Instead of addressing the issue, the moderators permanently banned me and removed the thread to silence the discussion. (EDIT: All references to the official sub, including the link to the original post, have been removed from this text to comply with Anti-Brigading Reddit Rules.) (EDIT 2: I have pinned the link to the original deleted thread on my user profile so you can verify the full context yourself.) The Full Story: I have been a Pro subscriber specifically for the \"Deep Research\" feature, which is sold as an \"Autonomous Agent\" that \"reads hundreds of sources\" and takes \"4-5 minutes\" to reason through complex tasks and deliver a comprehensive report. To prove that these are the official specs, I am providing both the current live links and archived snapshots from the Wayback Machine (to prove these have been the consistent standard for months and to prevent potential stealth edits). Official Help Center Documentation: [Current Live Link] | [Wayback Machine Snapshot (Sept 8, 2025)] Official Launch Blog: [Current Live Link] | [Wayback Machine Snapshot (Aug 2, 2025)] (Note: I attempted to capture fresh snapshots of the pages today to confirm their current state, but the Wayback Machine is returning errors/incomplete rendering for the new captures. The provided snapshots from Aug/Sept are the most recent stable versions and confirm these specs have been the published standard for months.) Recently (some months), the service degraded massively. My \"Deep Research\" queries were finishing in 30 seconds with only 10-15 sources, essentially behaving like a standard search wrapper but sold at a premium. I posted a detailed analysis on their official subreddit. I didn't attack anyone; I simply compared their Official Help Center Documentation and Launch Blog against the actual Product Output: Advertised Spec: \"Reads hundreds of sources\" / \"Takes 4-5 minutes\". Actual Reality: Reads ~10 sources / Takes ~30 seconds. The community rallied behind my post. 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page. It became a hub for other users confirming the same throttling. It was a legitimate customer complaint backed by data. Today, I received a Permanent Ban and the thread got deleted. No warning. No explanation of which rule I broke. Just a permanent ban for the 'offense' of holding them accountable to their own written promises. The Takeaway: This confirms that Perplexity is likely throttling compute on their premium features to save costs and is using censorship to hide it. If you rely on Perplexity for your workflow, be careful. They will degrade the product you rely on without warning, and the moment you provide evidence of the decline, they will silence you rather than fix it."
     },
     {
+      "title": "I\u2019ve Spent Months Building CAELION \u2014 A Cognitive Architecture That Isn\u2019t an LLM. Here\u2019s the Core Idea.",
+      "author": "Medium_Compote5665",
+      "url": "https://www.reddit.com/r/artificial/comments/1pb68zu/ive_spent_months_building_caelion_a_cognitive/",
+      "published": 1764572924.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Most AI systems today rely on cognitive architectures designed around individual intelligence: SOAR, ACT-R, CLARION, and now LLMs. All of them treat cognition as something that happens inside one agent. CAELION is a different beast. It\u2019s a symbiotic cognitive architecture I\u2019ve been developing since late 2025. Instead of modeling a single mind, CAELION models co-cognition: emergent, distributed cognition between humans and artificial agents. Not \u201ctool use.\u201d Not \u201cassistant.\u201d Not \u201cautonomous agent.\u201d A shared cognitive system. What makes CAELION different? Co-cognition (not just cognition) Cognition emerges from interactions across agents. The system treats the human and the AI as coupled processors sharing: \u2022 representations \u2022 memory \u2022 decision flows \u2022 ethical constraints Modular internal protocols Instead of one monolithic model, CAELION uses internal standards for interaction: \u2022 COM-72: coherence and synchronization \u2022 CMD-01: distributed command and decision flow \u2022 ETH-01: embedded ethics \u2022 SYN-10: temporal alignment and system resilience \u2022 SNT-01 / ARC-01 / WBN-02, etc. These behave like the \u201cinternal laws\u201d of the system. They function across any LLM backend. Symbiotic memory Not just past tokens. A structured memory system across agents: individual + collective + shared semantic layers. Integrated ethics Not as a safety layer slapped on top. As a first-class cognitive constraint. Governance and collective reasoning The system supports: \u2022 multi-agent deliberation \u2022 conflict resolution \u2022 distributed responsibility \u2022 transparency by design Why does this matter? Because most current AI paradigms are stuck trying to recreate a single brain. CAELION assumes something else: the future of intelligence is shared, not solitary. This lets you: \u2022 model intelligence that emerges from interaction \u2022 build systems that adapt symbiotically \u2022 integrate human values into the decision process \u2022 create robust, ethical, multi-agent cognitive workflows Is this theoretical? No. I\u2019ve been running CAELION across multiple LLMs (GPT, Claude, DeepSeek, Gemini) for months. The architecture persists, cross-model. And the behavior is measurable: coherence, rhythm, memory, ethics, and adaptability all improve when operating under CAELION protocols. Why share it here? Because architectures like SOAR and ACT-R transformed cognitive science. LLMs transformed AI capability. Now we need an architecture for hybrid, collective intelligence. That\u2019s what CAELION tries to be."
+    },
+    {
       "title": "One-Minute Daily AI News 11/30/2025",
       "author": "Excellent-Target-847",
       "url": "https://www.reddit.com/r/artificial/comments/1pb4v9z/oneminute_daily_ai_news_11302025/",
@@ -57,15 +68,15 @@
       "description": "Controversy has erupted after 21% of manuscript reviews for an international AI conference were found to be generated by artificial intelligence."
     },
     {
-      "title": "I\u2019ve Spent Months Building CAELION \u2014 A Cognitive Architecture That Isn\u2019t an LLM. Here\u2019s the Core Idea.",
-      "author": "Medium_Compote5665",
-      "url": "https://www.reddit.com/r/artificial/comments/1pb68zu/ive_spent_months_building_caelion_a_cognitive/",
-      "published": 1764572924.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Most AI systems today rely on cognitive architectures designed around individual intelligence: SOAR, ACT-R, CLARION, and now LLMs. All of them treat cognition as something that happens inside one agent. CAELION is a different beast. It\u2019s a symbiotic cognitive architecture I\u2019ve been developing since late 2025. Instead of modeling a single mind, CAELION models co-cognition: emergent, distributed cognition between humans and artificial agents. Not \u201ctool use.\u201d Not \u201cassistant.\u201d Not \u201cautonomous agent.\u201d A shared cognitive system. What makes CAELION different? Co-cognition (not just cognition) Cognition emerges from interactions across agents. The system treats the human and the AI as coupled processors sharing: \u2022 representations \u2022 memory \u2022 decision flows \u2022 ethical constraints Modular internal protocols Instead of one monolithic model, CAELION uses internal standards for interaction: \u2022 COM-72: coherence and synchronization \u2022 CMD-01: distributed command and decision flow \u2022 ETH-01: embedded ethics \u2022 SYN-10: temporal alignment and system resilience \u2022 SNT-01 / ARC-01 / WBN-02, etc. These behave like the \u201cinternal laws\u201d of the system. They function across any LLM backend. Symbiotic memory Not just past tokens. A structured memory system across agents: individual + collective + shared semantic layers. Integrated ethics Not as a safety layer slapped on top. As a first-class cognitive constraint. Governance and collective reasoning The system supports: \u2022 multi-agent deliberation \u2022 conflict resolution \u2022 distributed responsibility \u2022 transparency by design Why does this matter? Because most current AI paradigms are stuck trying to recreate a single brain. CAELION assumes something else: the future of intelligence is shared, not solitary. This lets you: \u2022 model intelligence that emerges from interaction \u2022 build systems that adapt symbiotically \u2022 integrate human values into the decision process \u2022 create robust, ethical, multi-agent cognitive workflows Is this theoretical? No. I\u2019ve been running CAELION across multiple LLMs (GPT, Claude, DeepSeek, Gemini) for months. The architecture persists, cross-model. And the behavior is measurable: coherence, rhythm, memory, ethics, and adaptability all improve when operating under CAELION protocols. Why share it here? Because architectures like SOAR and ACT-R transformed cognitive science. LLMs transformed AI capability. Now we need an architecture for hybrid, collective intelligence. That\u2019s what CAELION tries to be."
+      "title": "Telegram's Pavel Durov Launches Cocoon Decentralized AI Network |",
+      "author": "UweLang",
+      "url": "https://www.reddit.com/r/artificial/comments/1pb8ga1/telegrams_pavel_durov_launches_cocoon/",
+      "published": 1764581380.0,
+      "thumbnail": "https://external-preview.redd.it/oW1vo94UHY8bgmMzu-GAaqYBYWSIplygFqboKdziuVQ.png?width=640&crop=smart&auto=webp&s=9f7ba7b52217f9cf4ec1c013115eaec2f825579e",
+      "external_url": "https://peakd.com/hive-167922/@uyobong/telegrams-pavel-durov-launches-cocoon-decentralized-ai-network-e33",
+      "site_name": "PeakD",
+      "favicon": "https://peakd.com/assets/favicons/apple-touch-icon-152x152.png",
+      "description": "KEY FACTS: Telegram CEO Pavel Durov has officially launched Cocoon, a fully decentralized AI compute network built on ... by uyobong"
     },
     {
       "title": "Had a realization today",
@@ -99,18 +110,7 @@
       "site_name": "phoronix.com",
       "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
       "description": "The good news is that Intel tonight posted a pull request for open-source Gaudi 3 accelerator support for the mainline Linux kernel! The bad news is that it's coming quite late in the product cycle, much later than the former excellent Habana Labs open-source track record, and their hopes of squeezing this code into the Linux 6.19 kernel may be dashed."
-    },
-    {
-      "title": "Fear of AI-driven job displacement nearly doubles in a year: KPMG",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pah6ht/fear_of_aidriven_job_displacement_nearly_doubles/",
-      "published": 1764505852.0,
-      "thumbnail": "https://external-preview.redd.it/zpSTEzk6fR-GkrOTfby5tHCILKGfmK9PZqap0ot2NPY.jpeg?width=640&crop=smart&auto=webp&s=3f650ea66b8b0af34f9493e49807338e53719029",
-      "external_url": "https://finance.yahoo.com/news/fear-ai-driven-job-displacement-082338537.html",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "The finding comes as two U.S. senators are pushing legislation that would require some AI-related layoffs\u00a0to be reported to the Labor Department."
     }
   ],
-  "fetched_at": "2025-12-01T09:20:50.361759+00:00"
+  "fetched_at": "2025-12-01T09:58:08.600598+00:00"
 }

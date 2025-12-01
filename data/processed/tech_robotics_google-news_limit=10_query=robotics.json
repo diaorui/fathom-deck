@@ -35,11 +35,11 @@
       "description": "After clashing with Trump on spending, Musk argues AI and robotics are the only path to easing record U.S. debt costs\u2014and may even trigger future deflation."
     },
     {
-      "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas war",
+      "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas War",
       "source": "The Jerusalem Post",
       "source_url": "https://www.jpost.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lRUctTXUtQThwTmM5b3dPU0dMQU1sdmM0NjFPY0ZMY3I4LTV3eHRTeTVmT1J0ZGtRX29QVE1GdU13cTk0RlcxY1V5SFZwakl5ZlQ4cE56TzNyczhxRDFlbEpmMA?oc=5",
-      "pub_date": 1764586742.0,
+      "pub_date": 1764596439.0,
       "article_url": "https://www.jpost.com/defense-and-tech/article-876822",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/478690",
       "description": "The robotic systems have gotten much more diverse and standardized, being deployed in much higher volumes to assist with exploring Hamas tunnels, to save risking soldiers' lives from that process."
@@ -53,6 +53,26 @@
       "article_url": "https://www.bloomberg.com/news/articles/2025-11-29/china-s-robotics-stocks-face-investor-scrutiny-over-bubble-fears",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "China Warns of Bubble Risk in Booming Humanoid Robotics Industry",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGt6MXR5NFNlck96c2NIZ0VNbUdmRVlyRk5ZMDV3YzNtM1ctcEtRVnUxVElLNGZablJTWHlxaW1uMXhZU2dhcWhUbzh5cWhicGZWSTR4c2lCSmV2b2gxWVN6VTUwZld4V0xRZlFuV0tjZUR5NTlWeGpJMWJvRnBHdTBUX0VjRFJSZzNoQU5wNHk5ZkhkRjRxb3VDQTA1VmlLV3UxSGR6M3VPNW5RTWtzV1BubkdWZw?oc=5",
+      "pub_date": 1764302580.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-27/china-warns-of-bubble-risk-in-booming-humanoid-robotics-industry",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China Warns of Bubble Risk in Booming Humanoid Robotics Industry",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa2pDZ0xacktoeEJrdTM0eDJ4NE9KTEREMUN5b1JjUnkzZHpEVlBoV0N4bU5WZEhBM1RrQklfVVFnRzlWMUFRdUxyck9rRHg5WkRGSVNOWFJSV0hkWW1WZk1wYVA0LTlXNngwaTBKUzFtamVZSW5IQm5HV3JSN0JQUHZUOA?oc=5",
+      "pub_date": 1764238085.0,
+      "article_url": "https://finance.yahoo.com/news/china-warns-bubble-risk-booming-100805286.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZVfxPu5ia8wFnofX.hJtRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/e5b535e75e5b19b7199be431a88b2772",
+      "description": "\u201cFrontier industries have long grappled with the challenge of balancing the speed of growth against the risk of bubbles \u2014 an issue now confronting the humanoid robot sector as well,\u201d Li Chao, spokeswoman of the National Development and Reform Commission, said at a briefing in Beijing on Thursday.  More than 150 makers of humanoid robots are operating in China and their number is still rising, Li said."
     },
     {
       "headline": "CN Energy Group (NASDAQ: CNEY) debuts PATHENBOT robotics platform for North American SME automation",
@@ -75,36 +95,16 @@
       "description": "The labor shortage isn't coming -- it's already here. And this fund owns the companies solving it."
     },
     {
-      "headline": "Chinese model with high success rate helps humanoid robots adapt to tasks without training",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZG1rLWRaZVByem9hQnFTRUZNRS1FbTFISTFYbHIySHJ6bmt2U1EzOHFYN1A0S3FPTHN2VTZpYnYtTXdPWlpxMzdPTjhybjYtWjFsQnV0bUE2NVFWNE5mOTIxaUsweGM0eThoRkVZMldpTVdzUTNWdnJxYkY2eVliQS0zQVlPMXVBMkE?oc=5",
-      "pub_date": 1764429300.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/chinese-model-humanoid-robots-tasks",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/Wuhan-robot.jpg",
-      "description": "New Chinese robot logic framework lets humanoid robots reliably grasp unfamiliar objects with an 87% success rate."
-    },
-    {
-      "headline": "Elon Musk teases a future run by robots",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45dGdfN2xGeXE0Z2xEWXFfUFhCdVRmTzFxVERpNkV5bzlPT01VeDYxQy12MEtLRTcxbGh1bzFvTmtHclpES2VrdnJxSjJjZVlBYjhSVG1qUmpacy1NSER5TmlnWnBXSzhVdHRPb0NiZFTSAXZBVV95cUxPVm10WE9VVjdCSTROQXFkYlJFWU1oV0FDZGlZZDF3OXlxVVpWVE05Q080UmY1NTlDWE5DUmtTYmZwV3lzUzdyLVhodEdfWnVxdEFHbTNleDlGYnZOYmtoXzhUMkkwMW9ERGJtcW9GMjF1eXJpRndR?oc=5",
-      "pub_date": 1764505813.0,
-      "article_url": "https://www.foxnews.com/tech/elon-musk-teases-future-run-robots",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/tesla-optimus-robot-002.jpg",
-      "description": "Viral video shared by Elon Musk shows Tesla's Optimus humanoid robots performing tasks from cooking to construction, garnering over 58.5 million views on social media."
-    },
-    {
       "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOOGhjR1MxOFFyeWVndnplTk1CelBINlRhdGVybGN0c1hzb1Zqb0VGdmFZUDlwc05yWkRpaFB5Z2xSbzh6ZElIWTJJVEZ0OHo2dE9MQm1fN1F2MnEtRk5qVUVaSUtzazllLWtlRldDMVZyWDRMZ3pUY041cWNDcnU4NEdoQUJQZmpqc05vOTJyY2NHMGhKR08zVTN4LUFPQ2pLN1R2R2k0SlozLWsyUXhGeUlFSEhOcGNIR2k0QkZieC0zS0xTcmRsSDlheTJaV0lsTHdBQ1ZMdEVJU1dGZzIzamZJRHV0NzFsOWFITlk3SlpRX0MzT1I2eEJZTWtuYTJMWHNGZVNqdzFXZWtoUXNWYjQ5eE9EbXBEQjdjdDhnS280OVFGZVJibHZpSXlHV1JMZkU5Ylh2YmZHNDFpUU4zVVNjSl9BMC1UOWFnZHRHZ1NNVV9Gb1prbElFYWF2Y2UwWW5PUWdoeWg0VENNNjJXQ3U1czNjeVVScUNYUi03ckIySkw5?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNUUdpbVhkVXI2WTdsREVPOGV2WlJkYjlNeVhMQUVuUmFCWFVmSWRoOHZyNEJncHozSVcweGliaVVmOGVna3Z6T2RiUnJ3bmdPazBiY2QtZ0RWWWtsWjBrREpPTGpZX0d5RHZwWk96bElteFJ0VlNGbmlxLWZHeDNzLTE0eDZQQ3BjRE1UelQwbVJveUdrU3VMVTJieWZwMDFRX3FzbWhadlZ0UWZrbTFPMHZ6aHZsMjdpNXJ3RGZ6blRjTTB4Qm1XZnNMX2EzQVNkVFU0V2dJX2hTajBnU24yWnpjeWMtUTBUaWoxaDZyTV84VUdmSHBOTVhxMEtMVnlXV0pWVG1CeXItOE1pdXhaOWJVN3dhVUhKNE1tdFVhTTNid211cU84VVEtbDBKekFYMExPNGZadjBnY1AwWmRKd2RJcktYR2EtMGZvUHR1TjBkbTR1QVFLY2c2VkRoY1F2OTRaRjZ4MVZzTEsxdk1TLTlneXo1SHhfdmFVb05vMTFMNVVn?oc=5",
       "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqeW4pCKqVqsjJPj3gMNwYVkO02H6_zlp9A_UMkDltlw3TBQ5Pe-0Ky6&gaa_ts=692d9b25&gaa_sig=tyCZ_miTDkT-RFdtAj70QWdepI2MB0L7NeAuHhAqI9Fc9qOKK3-mEPu2SMD-HlqPiUjzD2VR-7hoU6vOT2hIqA%3D%3D",
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqcMab9VZyccAqFPUq271M_TIiTr4FIOFBoOVsS_YL6H7Em_9yZGyihL&gaa_ts=692da769&gaa_sig=A4BZA7ucMW1N1Ofl27dkbEgOXUqwNj_dF5v8i1OTc5ZzBK0dlkPYbZZqqpK7TVuN70kgJ1jvbouZqpsTCaw-Jg%3D%3D",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T13:27:20.887198+00:00"
+  "fetched_at": "2025-12-01T14:19:35.862169+00:00"
 }

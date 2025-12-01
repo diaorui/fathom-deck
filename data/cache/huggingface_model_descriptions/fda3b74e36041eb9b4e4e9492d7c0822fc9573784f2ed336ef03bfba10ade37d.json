@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-12-01T14:19:42.015428+00:00",
+  "data": "DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and agentic tasks, featuring DeepSeek Sparse Attention for long contexts and advanced RL training that rivals GPT-5, making it suitable for complex problem-solving and tool-use scenarios.",
+  "model_id": "deepseek-ai/DeepSeek-V3.2"
+}

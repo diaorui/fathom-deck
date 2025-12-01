@@ -33,6 +33,20 @@
       "site_name": "GitHub"
     },
     {
+      "title": "Open Source Bitcoin Halving Countdown Clock",
+      "url": "https://bitcoinhalvingcountdown.com",
+      "hn_url": "https://news.ycombinator.com/item?id=46107608",
+      "author": "only21",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2025-12-01T14:09:02Z",
+      "object_id": "46107608",
+      "image": null,
+      "description": "Track the next Bitcoin halving event with live countdown and real-time block updates",
+      "favicon": "https://bitcoinhalvingcountdown.com/favicon.ico",
+      "site_name": "bitcoinhalvingcountdown.com"
+    },
+    {
       "title": "Wasabi: Open-source, privacy preserving Bitcoin wallet",
       "url": "https://github.com/WalletWasabi/WalletWasabi",
       "hn_url": "https://news.ycombinator.com/item?id=46088334",
@@ -61,20 +75,6 @@
       "site_name": "bfswa.substack.com"
     },
     {
-      "title": "Why Crypto's Slide Is Rattling Wall Street",
-      "url": "https://www.nytimes.com/2025/11/24/business/dealbook/bitcoin-crypto-wall-street.html",
-      "hn_url": "https://news.ycombinator.com/item?id=46033973",
-      "author": "furcyd",
-      "points": 6,
-      "num_comments": 1,
-      "created_at": "2025-11-24T13:40:35Z",
-      "object_id": "46033973",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "nytimes.com"
-    },
-    {
       "title": "Market Volatility Underscores Epic Buildup of Global Risk",
       "url": "https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html",
       "hn_url": "https://news.ycombinator.com/item?id=46047763",
@@ -94,7 +94,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46104355",
       "author": "zerosizedweasle",
       "points": 2,
-      "num_comments": 1,
+      "num_comments": 3,
       "created_at": "2025-12-01T06:57:48Z",
       "object_id": "46104355",
       "image": null,
@@ -133,5 +133,5 @@
   ],
   "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T13:26:54.686683+00:00"
+  "fetched_at": "2025-12-01T14:19:15.936463+00:00"
 }

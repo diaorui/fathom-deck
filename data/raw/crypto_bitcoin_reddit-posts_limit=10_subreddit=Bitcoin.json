@@ -90,17 +90,6 @@
       "description": "If you bought $100 of Bitcoin in 2010 and watched it go to: $1k \u2192 $100k \u2192 $1.7M and did nothing Then watched $1.7M go to $170k and still did nothing Then watched $170k go to $110M and still did nothing Then watched $110M wither to $18M and still did nothing Then watched $18M surge to $390M and still did nothing Then watched $390M deteriorate to $85M Then watched $85M climb to $1.6B and still did nothing Then watched $1.6B shrink to $390M and still did nothing Then watched $390M surge to $2.8B and then for some reason finally decided to do something\u2026 Then yes, $100 in 2010 would be worth $2.8B today."
     },
     {
-      "title": "loaf \ud83c\udf5e",
-      "author": "Cucumber_Vivid",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1paqrwj/loaf/",
-      "published": 1764530281.0,
-      "thumbnail": "https://preview.redd.it/4wkce2qg2g4g1.jpeg?width=640&crop=smart&auto=webp&s=e4beb2baeb2f6cd4e8492c41ef4f488e81501c05",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Today we eat ramen. Tomorrow we eat steak.",
       "author": "thebuldges",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pb4skt/today_we_eat_ramen_tomorrow_we_eat_steak/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "loaf \ud83c\udf5e",
+      "author": "Cucumber_Vivid",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1paqrwj/loaf/",
+      "published": 1764530281.0,
+      "thumbnail": "https://preview.redd.it/4wkce2qg2g4g1.jpeg?width=640&crop=smart&auto=webp&s=e4beb2baeb2f6cd4e8492c41ef4f488e81501c05",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     }
   ],
-  "fetched_at": "2025-12-01T08:22:36.525860+00:00"
+  "fetched_at": "2025-12-01T09:20:51.628542+00:00"
 }

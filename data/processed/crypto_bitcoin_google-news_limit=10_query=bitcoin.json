@@ -5,22 +5,22 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Plunges to Below $88,000 in Risk-Off Start to December",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUdmTW5acmg0ZS1VQ1REN1NCSkNKMEdxaElrRFhGcWc1TUZFYVVwOWhXOUxNNTUwdklsWl9wVUJKRXBGQmdjcHFlMEljd1dEV3hZTTJna1NNdWY5ZTc5dm1QX2ZHX3ZoNllRaU9teTFJUFRkamg3b2U5d3l0emU1Qzg5c25OWlg3bzFsMHVOY0ctU0NMSk9UbHNRVE9OTzZocTJvSjZIVldQV0JaV1VOTC12YTVWQQ?oc=5",
-      "pub_date": 1764565200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-01/bitcoin-btc-slides-to-below-88-000-in-risk-off-start-to-december",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJlucFPfEV8M/v0/1200x800.jpg",
-      "description": "Cryptocurrencies fell sharply on Monday, bringing fresh momentum to a wide-ranging selloff that appeared to have settled."
+      "headline": "BTC, XRP, ETH, ADA Plunge as Bitcoin Drop Liquidates $500 Million",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0hkTWw5STMzN2lGaTNCZ1dOODJfaUR2TThUZ19qak50UjN6cjNrYmlkNVBSbm1Cb0NFY1lkSm1ReHk0T3FpZEo2amxSVXV2OU5ZdEcwTm9yTDlSQXJiaERBY1QxZHFkQUFldy1BaDkzd1pYZDlxWll6VTdwMjRjZjNnWFA4WnVRQml2M2tTSkNZb2xTRDRKWmhxT2tpVGVHa0NYcWJLWGV2a3B3YXJUNWNLREJIVzM4WWt3?oc=5",
+      "pub_date": 1764565623.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/01/bitcoin-drop-ends-up-liquidating-usd500m-bullish-bets-in-early-asia-trading",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9730992bfef63e39d6fca7bbef61a9ea9d379012-1920x1252.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Binance, Hyperliquid, and Bybit saw over $160 million in liquidations each, with longs making up almost 90% of the total."
     },
     {
-      "headline": "Bitcoin price today: plunges to $86k as Yearn Finance pool breach rattles markets",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNzlOS3ZfczV1MlZIS0hkOURVUGVqd0NsNzFCQ2puTTBid0RHblpmWUtpNkNrVkd2emo4UHdXbFBuQ1Y4N2RpZnNNWUgxLV9KTzRWNzMxc1RabUNRbl8zbmRQc0wxbXJoVjU0TzY5UVU0aWNxOWtpNXl0dDAxVUxSV2dTMXVHX3BzajNqbzdTU2VrYzQ1cTlxZXpSdEVDTEJxakVtenhIWEpSZnNjMVkzZl9iN0JEblhqcUc1ZzkwRXZMaEVsYmtWS3lwQkdxaUFQNG40Tw?oc=5",
-      "pub_date": 1764570186.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-plunges-to-86k-as-yearn-finance-pool-breach-rattles-markets-4382733",
+      "headline": "Bitcoin falls 5% below $90,000 as investors ditch risk assets",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVUgzOWlhMW9jYVV3Z2hHMFJmSXpTaC1Tb0N3OE1WNXo2eU1MYTVEdWRDNGw4Zk1FVzdFZTIySVRNYTdoQWIwVXVTcnNrZmp1ejViMThIcHA5X3JfRDFTaHk2amlNcHNNNzBsWXRiSkhWNXM4UFBvYm5raEc4WWFxYmo2ZnpCeDdyTDBsa1JZU1loRnVQNXBtVFFXRGRwMDRUQXdBdXVxRVQyVVBr?oc=5",
+      "pub_date": 1764579155.0,
+      "article_url": "https://www.reuters.com/business/finance/bitcoin-falls-5-below-90000-investors-ditch-risk-assets-2025-12-01/",
       "image": null,
       "description": null
     },
@@ -28,9 +28,9 @@
       "headline": "Strategy Insiders Kept Buying Preferred Stock as Bitcoin Price Slid",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOWGJSejhaa0pzTS1keXgyMjYxX1FfYVVpYTdyeUtDcE9XNkFWeThOWFFTbXE0a0ZwYUxuVUM1ZEVCZ1BUSl8wT3hScHdkcjFBdjhlc3Q3ZVVqeGQ2WFBMdTctY0JORHl5b0ZjMGdBU05qUEZzbm9xNDVOZFgxVE42OGhVMFNma3pSUGdveVF0bzlRWUc5VnJhNFVJVHJldDVMRVFWeFAyQ2xFZFZiUXBldTZBdUc5UHZKbUdPTXc0ZzV6Ui05Q1o4U2hMSVhYbVRPdnE3cE5maFVRSVNGMDZlQTNtemN4OEJRYk9DSk9WVE9VemhBanZzeGRwVjhDeVluR3hEQWN5Mldvd0VLNkl4UVNyNlNDSWs1elFiSG9lcmhobS1BeGJoYjNDNnpETU1YM2hEWlVESmkwUHVLeGkzNnhpWk9GajJycXpYZmN2QnRQVGhZUlp5ZENlaEdyTlcyTFBfMGUzakN0Um5YVlNjU1ZzSWtCbWJjVlBwcmMyVnc0MUls?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPSENkRW5KdjQzTW14c0xuamhsS1JoYks3RUhTOUdmeUpUbkVwcDdFa1V2alo1NDliTkF1SHhLXzJZX0tTTFlId21USWFzLTJUTGhBUkJmV084NFZ4MC1HYUVuVEFrUllsZEJSRVB5ZW9KNjhyWGtpaElkZG82Z09PR3RxdndTai1wZksyRTVwSmhabUYyVjIyaTQybmREdW01MU5ESjVTOGZxbWhBWnM2LXVVQ3VnYjRBc1pPMjI0YVpfOWhxd0k1UER3Q2hnZEdDc2MwVGN5dTN0ck9BU2Z1ZHh4NG84akZpVTNOaWVlQlhlQ1dDTGFVSUdkQm9EU1hVTzhDWEktTzE3MW5tMGhfcEdLQmhwOHg4TE1QNFBPX1UyNHBSbzBkX2pWTWZTcWZodl9CMVBOUDA2YVg1TVU4dmdSMndsOVh4bEI0dnlaaEJmZ3NKay1aZ25ITlExZXEzeVB3YzRQNEVCNVUwR3luWUFNYm1peHUyWmIyUGJna2pZbDY4?oc=5",
       "pub_date": 1764487800.0,
-      "article_url": "https://www.barrons.com/articles/strategy-insiders-bitcoin-buying-79756b79?gaa_at=eafs&gaa_n=AWEtsqeqotvuqkueVf7U0xpfmcffmf5spjlxVlb1H0kMBqKeQLaAWqzkzAZV&gaa_ts=692d53cf&gaa_sig=bhk-mMufVQZvFCIpWZDEWovrqxO7HoyZrzGxNBspO9huOMj6LmAsK_XK7jWaEDluUKcW3_YAp5z1ThXTQHBxzA%3D%3D",
+      "article_url": "https://www.barrons.com/articles/strategy-insiders-bitcoin-buying-79756b79?gaa_at=eafs&gaa_n=AWEtsqfoIf5sV2F4keVaIw0MSKjowp1aWBW0qQ11oNtfH0u5FmpRhzE-NLt9&gaa_ts=692d6177&gaa_sig=X16cX3_ElRm5nu6xPeD18HHWe9sHL4VCJ90ZAdyFK2USQx2NwW9kOL0q8NhvlETRKrH90WGa1DE0_34UoTBt8w%3D%3D",
       "image": null,
       "description": null
     },
@@ -45,14 +45,14 @@
       "description": null
     },
     {
-      "headline": "Strategy (MSTR) CEO Says His Firm Has 'More Flexibility Than Ever' to Keep Buying Bitcoin",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTjJaVTZ5SHZtN3lqVnR0ck0zb296VWZBdk9BRTd5UkJheUt5X0p6VEs3ZEhYSmJ5UllWUk5SWlBkelA1T2tIODI0NlFXazZKb1J0c0RvMWNjZzhtdEFmRjIxT1BRUTViMVVGRW0ybUdmNFF6VUNZVW4xZlZkLWdvai1LTThpWktqNXFTVTBJdGk3SVlNd2tNZXdJYjVPaUtwSXlHa196a2FVZ1A1c01CT2hrYWYyTFE4WF9SMkdPUjhjX3pEdHc?oc=5",
-      "pub_date": 1764440106.0,
-      "article_url": "https://www.coindesk.com/business/2025/11/29/strategy-ceo-equity-and-debt-flexibility-power-long-term-bitcoin-accumulation-plan",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/39980a370e79fb6757a4592dbc1af759fccf2a32-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Strategy\u2019s CEO laid out how the bitcoin-heavy firm can keep accumulating crypto, even amid shifting market conditions."
+      "headline": "What Do Saylor\u2019s Green Dots Mean? Secret Trigger?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkxXM1pJYzJwRm54RDlqUkxDRzZGWTBQUEdaMDRBdTVNNlA1S1hVVTVOQnZCajBNa0N2Z3FlRjhuaUdpWkJVMkp0bVZMSHQ5c0NqbWFNYURXak41OHhmLW1hMmZhbkRHMlpoTTRIY24tX0J1MHF3bkFJdk93RFlBWQ?oc=5",
+      "pub_date": 1764547860.0,
+      "article_url": "https://finance.yahoo.com/news/saylor-green-dots-mean-secret-001145449.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/b3dATtJajHSjcUyGa_mHMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/6ffc5617fb08ac52eeaf9464b19d1859",
+      "description": "MicroStrategy hints at more Bitcoin buys as CEO signals a possible sale under stress."
     },
     {
       "headline": "Why Gold Shines at +55% While Bitcoin Tanks: The Great Divergence of 2025",
@@ -63,6 +63,16 @@
       "article_url": "https://finance.yahoo.com/news/why-gold-shines-55-while-192843547.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/DOvmmEV28wNU59PKdDzU2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/24_7_wall_st__718/cd1809babf5aa3d4f18803b33aa9af02",
       "description": "In 2025, precious metals and crypto took radically different paths. Gold closed the year up over 55%, its strongest performance in over a decade and the best return among all major asset classes. Bitcoin (CRYPTO: BTC), by contrast, slipped into bear market territory after a spectacular rally earlier in the year. BTC fell below $90,000 ... Why Gold Shines at +55% While Bitcoin Tanks: The Great Divergence of 2025"
+    },
+    {
+      "headline": "BTC, ETH, XRP Price News: Bitcoin Drops to $87K Amid Yearn's yETH Exploit",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmRWZTFLRXd2bUhLZW9lajhwSTVSOS1ZdFdUZnVUS0ZhT2JyVmtVVzJjdHNjUzlfcTRNcTM0RS11TGlEdlUwZlp6cTY4dkgtU09tWjNzd3lTRmNzVnU3S0F6RDZGQlQzY0JKdW9nbHlUSHM4b3JVeEhXcDNxYXhiZ1lKbmRjUmpMRHU1aU9iZmhXa2VyU2VJUEx2VFFPVm5TSndEYmo0VQ?oc=5",
+      "pub_date": 1764560700.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/01/bitcoin-ether-xrp-slide-as-december-begins-with-yearn-attack",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/25db3d30a9c7dba441732664498c65887047d7fe-1500x1001.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Major cryptocurrencies fell early Monday, continuing the November downtrend."
     },
     {
       "headline": "Here's What History Says to Expect for Bitcoin in December",
@@ -85,26 +95,16 @@
       "description": "The next Fed Reserve rate-setting meeting could offer a signpost to bitcoin\u2019s performance in 2026"
     },
     {
-      "headline": "Elon Musk Calls Bitcoin a 'Physics-Based Currency'",
-      "source": "Bitbo",
-      "source_url": "https://bitbo.io",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zMVFTSlVfWFlBc2xONGpWeUd2Nmp0V0htVWtiZVNsWHkta2lwYkstY0ljRk90SXpwVF9yYlJEbDJzWTEyVEZreS1pRXNnYjQyc2lZVWwxbndFU2Q4TGc?oc=5",
-      "pub_date": 1764527451.0,
-      "article_url": "https://bitbo.io/news/elon-musk-bitcoin-currency/",
-      "image": "https://bitbo.io/news/images/elon-musk.jpg",
-      "description": "Tesla CEO Elon Musk described bitcoin as a fundamental, energy-based currency and predicted that money could become obsolete in a future dominated by AI and robotics."
-    },
-    {
-      "headline": "Spot bitcoin, ether ETFs recover momentum with first net-positive inflow week since October",
+      "headline": "Spot bitcoin ETF outflows hit $3.5 billion in November, largest monthly outflow since February",
       "source": "theblock.co",
       "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV21KYlA4OTlIempnWVcyaXBwTVlUZHJ4VUVTckozNnA2YXViYlptMWJjRkhkZEw5V3dsanVRbTNKNmphNFM1amFOTzR5QVl6WVlVMEVkTXByTl9OSEdQQkdJUHpZNzB6cDNXMV83REJhRkhFTnF2N29pRDItY1JudDJ4MUd4dE9tWkpTV0RzYWI2NEFzdTBVVUROZkRKMFZ1RE5zXzBjWGJqamJYM1FNOXctWm1PanFxSThJWG9xajlrbllt0gHKAUFVX3lxTE5Dd3BXdWFrWWZVaXduUUdGakw0dEJFajVycV9qU2lBc3VFLVdON0R4VXlPOTd2VnJEWFBWb2VxTm9JUHFYN20welpEYzFXTGdRbE9CSWpzSkx0czhqTXBiWjEteDlFc0E4dm1NSk04dmZ0Q3ZaWFdVaGk4MlBvVXkzQTlQS0ozN2EwUEQ0MDRvX1FKcWJ2bTk2SW9hRjc2alJPVXZJQnRZb2xLLU9ENzhRaU1FWEphS0V6Q2NhSWEyYjBjSWtMRTFKdWc?oc=5",
-      "pub_date": 1764441419.0,
-      "article_url": "https://www.theblock.co/post/380806/spot-bitcoin-ether-etfs-recover-momentum-with-first-net-positive-inflow-week-since-october",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yUWJzdUdmWGVsblR5OXhCM2tRRnpUZ2lGRVBDR3RSTHlhQjhVN19rb2xuMjJHVWt2aUl5VHpOMEsxb05XblRsWU5GSmtRajVKZ3BOUmZ5b1prc2tYT3BMTzZQVG5LeElBLTJqVGIyWVFERHg3WGs1YtIBfkFVX3lxTE5NXzdlaGl4Q0VVNnlWbnB5dElzWEw0RHBKb1pGMXVYLWtudDZfd0RzTnF4QmlTVjhoQmcwQVlsWTYtRG1YbzVIWFZkeXVUN25pMmpsazdrNEhobWRVSkVpRDZQbUptanRwVnFCeUI4X2JKUjdGNVZ2dWhMS1M2Zw?oc=5",
+      "pub_date": 1764573372.0,
+      "article_url": "https://www.theblock.co/post/380847/spot-bitcoin-etf-outflow-november",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T08:22:53.997956+00:00"
+  "fetched_at": "2025-12-01T09:21:22.212004+00:00"
 }

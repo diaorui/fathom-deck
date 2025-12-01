@@ -23,8 +23,8 @@
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
-      "points": 398,
-      "num_comments": 298,
+      "points": 402,
+      "num_comments": 301,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -52,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46082825",
       "author": "nrhrjrjrjtntbt",
       "points": 231,
-      "num_comments": 103,
+      "num_comments": 104,
       "created_at": "2025-11-28T21:16:46Z",
       "object_id": "46082825",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb36/live/6eaeafd0-cc99-11f0-8c06-f5d460985095.jpg",
@@ -121,8 +121,8 @@
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 169,
-      "num_comments": 51,
+      "points": 177,
+      "num_comments": 54,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
       "image": null,
@@ -135,7 +135,7 @@
       "url": "https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible",
       "hn_url": "https://news.ycombinator.com/item?id=46078407",
       "author": "flail",
-      "points": 126,
+      "points": 127,
       "num_comments": 134,
       "created_at": "2025-11-28T13:21:17Z",
       "object_id": "46078407",
@@ -145,7 +145,7 @@
       "site_name": "garymarcus.substack.com"
     }
   ],
-  "total_hits": 306,
+  "total_hits": 305,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T08:22:35.106214+00:00"
+  "fetched_at": "2025-12-01T09:20:50.306050+00:00"
 }

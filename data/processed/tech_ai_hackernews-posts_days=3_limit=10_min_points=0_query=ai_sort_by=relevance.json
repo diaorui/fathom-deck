@@ -9,7 +9,7 @@
       "url": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
       "hn_url": "https://news.ycombinator.com/item?id=46083004",
       "author": "pyrophoenix",
-      "points": 503,
+      "points": 504,
       "num_comments": 174,
       "created_at": "2025-11-28T21:40:21Z",
       "object_id": "46083004",
@@ -24,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
       "points": 414,
-      "num_comments": 328,
+      "num_comments": 331,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -65,7 +65,7 @@
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 220,
+      "points": 221,
       "num_comments": 75,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
@@ -145,7 +145,7 @@
       "site_name": "arXiv.org"
     }
   ],
-  "total_hits": 338,
+  "total_hits": 342,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T14:58:43.900889+00:00"
+  "fetched_at": "2025-12-01T15:31:33.305566+00:00"
 }

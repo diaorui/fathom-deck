@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-12-01T15:32:06.361252+00:00",
+  "data": "DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned from DeepSeek-V3.2-Exp-Base, excelling in reasoning and agentic tasks with performance surpassing GPT-5. It features DeepSeek Sparse Attention for long contexts and a scalable RL framework, making it suitable for complex interactive environments and competitive programming benchmarks.",
+  "model_id": "deepseek-ai/DeepSeek-V3.2-Speciale"
+}

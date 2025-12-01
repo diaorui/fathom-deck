@@ -5,26 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Tesla loses some AI staff to a new robotics startup",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGRMV2h4bHplanZsNFpIS1BiNXJTQ21WSjZNZlJ1ZHBaR0Nqb3R2N1dsX1hwbmdVc3J2SmFvUUNBYlFFbGt5QjB0VTByTE9TWkpDTXoteUlrWmNIYlNrX2pjTHlmZ2U5ek96VEZaTkNyVlRSdkNpUmZTU1FNenRQM05QZXBZQTNRR1NtRQ?oc=5",
-      "pub_date": 1764373860.0,
-      "article_url": "https://www.businessinsider.com/tesla-loses-ai-staff-startup-sunday-robotics-2025-11",
-      "image": "https://i.insider.com/692a04f3e1a9cbb014df2eb3?width=1200&format=jpeg",
-      "description": "Sunday Robotics came out of stealth mode last week and revealed a team stocked with Tesla alumni."
-    },
-    {
-      "headline": "Video Friday: Disney\u2019s Robotic Olaf Makes His Debut",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIN01HLXk3MmNfSUtQU1FWblZ1cjFQT1VaVXBVNnBuYU5DZ251U0hXSGd6OWEzNUhRQmdQVmVPYTBhM1MtblN5YWxhY2JDNVc2Sl82cXpUWEJ3YUxtVmRMc0E5cDFvMjDSAXtBVV95cUxPY2xlY1VnQzNkYjRpOGJveWlaZ290VF9LVW1ESE1kSk5rLW1QN2h0aGJ2QUo4Ty11eEJUeE04SlVQTko4Tml3ZXo1bGplY3JROWtzVXRmTGtVbHpzS1hsTzFjTHFlMnJJZVNMVmhTb1pvZVE0c2lfTW1ZZUE?oc=5",
-      "pub_date": 1764316800.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-disney-robot-olaf",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=62240105&width=1200&height=600&coordinates=0%2C132%2C0%2C133",
-      "description": "How does Disney bring Olaf to life with robotics and AI? Step behind the scenes and see the magic of innovation in action."
-    },
-    {
       "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas War",
       "source": "The Jerusalem Post",
       "source_url": "https://www.jpost.com",
@@ -35,14 +15,14 @@
       "description": "The robotic systems have gotten much more diverse and standardized, being deployed in much higher volumes to assist with exploring Hamas tunnels, to save risking soldiers' lives from that process."
     },
     {
-      "headline": "CN Energy Group (NASDAQ: CNEY) debuts PATHENBOT robotics platform for North American SME automation",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzRRMHptaE1yN2ptUUdCeWZQVTFvSnZCMTY5QjNSUWtDMEVQSF9vbVJSV2NEcDlqYmNmVTA4TVZPZmxDYmFRbzUtRVMzQjdVZVlaV3ZPSl9iR1Y3MjVGZTN2Z2F6eFkycnh3ZENTQVFFMW00VWJ1alBJZ1M3blRYMWtBd2g1cHJXOUVidm1sbnJtZVRsVzVNaURncWlLTHdHSjlocUpRaUExR1hxQkwxajRNdVZRanptOW1XZ1RPSUY?oc=5",
-      "pub_date": 1764586500.0,
-      "article_url": "https://www.stocktitan.net/news/CNEY/cn-energy-group-inc-announces-launch-of-pathenbot-robotics-solutions-8clg2yncq3aa.html",
-      "image": "https://static.stocktitan.net/company-logo/cney-lg.png",
-      "description": "CN Energy\u2019s PATHENBOT unit launches a robotics solutions platform and official website to deliver customizable automation for North American SMEs."
+      "headline": "Tesla loses some AI staff to a new robotics startup",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGRMV2h4bHplanZsNFpIS1BiNXJTQ21WSjZNZlJ1ZHBaR0Nqb3R2N1dsX1hwbmdVc3J2SmFvUUNBYlFFbGt5QjB0VTByTE9TWkpDTXoteUlrWmNIYlNrX2pjTHlmZ2U5ek96VEZaTkNyVlRSdkNpUmZTU1FNenRQM05QZXBZQTNRR1NtRQ?oc=5",
+      "pub_date": 1764373860.0,
+      "article_url": "https://www.businessinsider.com/tesla-loses-ai-staff-startup-sunday-robotics-2025-11",
+      "image": "https://i.insider.com/692a04f3e1a9cbb014df2eb3?width=1200&format=jpeg",
+      "description": "Sunday Robotics came out of stealth mode last week and revealed a team stocked with Tesla alumni."
     },
     {
       "headline": "China\u2019s Robotics Stocks Face Investor Scrutiny Over Bubble Fears",
@@ -65,14 +45,24 @@
       "description": null
     },
     {
-      "headline": "China Warns of Bubble Risk in Booming Humanoid Robotics Industry",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa2pDZ0xacktoeEJrdTM0eDJ4NE9KTEREMUN5b1JjUnkzZHpEVlBoV0N4bU5WZEhBM1RrQklfVVFnRzlWMUFRdUxyck9rRHg5WkRGSVNOWFJSV0hkWW1WZk1wYVA0LTlXNngwaTBKUzFtamVZSW5IQm5HV3JSN0JQUHZUOA?oc=5",
-      "pub_date": 1764238085.0,
-      "article_url": "https://finance.yahoo.com/news/china-warns-bubble-risk-booming-100805286.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ZVfxPu5ia8wFnofX.hJtRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/e5b535e75e5b19b7199be431a88b2772",
-      "description": "\u201cFrontier industries have long grappled with the challenge of balancing the speed of growth against the risk of bubbles \u2014 an issue now confronting the humanoid robot sector as well,\u201d Li Chao, spokeswoman of the National Development and Reform Commission, said at a briefing in Beijing on Thursday.  More than 150 makers of humanoid robots are operating in China and their number is still rising, Li said."
+      "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQNTA5emltcHFheU9ydGdKWldQeTRHMTNWbGpFb2UybDlNMUZmWWJnTGFsM1pxX19saWVSYkM4SzYzWWh6NzRFMi1fX04xQjVvdTVybWNhbWlpd3cyVGpuWVA4SEhuT1M1TUx6WEh3d05jMk9lWUprSFhIazZMRWpad2wxWUJQVTFqdVEzVzR6ZmE1THdvM2ZXMnZYMjV1T3BmM2s4aG9pdk90UjNhYXE4MVJPel9XN0lTQkhEUHQwWXo4eWtvNGpMZ0xWOFNVU3FmbkJBR0lGOEVCRVNuaVQzVHA2ckI5ZEJScFVZaEh2SEJiX252QXZENFBKSUVPMlM1NkZNNGg0Zk41V2xqQkExOVpkMVVRdWRwUzVMdWM0ZTJtYVJFT0JjZEFjTXc2YUltd21lRDROUl9CMHRxOVJXWnlaYmRKZk05eG1SYVJjRzRLd1FTaV9Vc0pORnZhbEx4b3lSaUN0X2s1QWJoaDZCQ3Y1a1VoUEJGXzB5cy1iUV9RdGMw?oc=5",
+      "pub_date": 1764352680.0,
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqeWKLUR4CsLvson2x8HT-feF2Q-izlkhR4Z7wUL68XSnuSD-6bmvvnQ&gaa_ts=692db85d&gaa_sig=1BqYzERsmglNDFZGJjGDIVyy21oTbeuPFu3HJp36C3Yt89SRoisLCVZ5BIkqh9kqSHv0sJW8rhxIqGPeesZPGw%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "CN Energy Group (NASDAQ: CNEY) debuts PATHENBOT robotics platform for North American SME automation",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzRRMHptaE1yN2ptUUdCeWZQVTFvSnZCMTY5QjNSUWtDMEVQSF9vbVJSV2NEcDlqYmNmVTA4TVZPZmxDYmFRbzUtRVMzQjdVZVlaV3ZPSl9iR1Y3MjVGZTN2Z2F6eFkycnh3ZENTQVFFMW00VWJ1alBJZ1M3blRYMWtBd2g1cHJXOUVidm1sbnJtZVRsVzVNaURncWlLTHdHSjlocUpRaUExR1hxQkwxajRNdVZRanptOW1XZ1RPSUY?oc=5",
+      "pub_date": 1764586500.0,
+      "article_url": "https://www.stocktitan.net/news/CNEY/cn-energy-group-inc-announces-launch-of-pathenbot-robotics-solutions-8clg2yncq3aa.html",
+      "image": "https://static.stocktitan.net/company-logo/cney-lg.png",
+      "description": "CN Energy\u2019s PATHENBOT unit launches a robotics solutions platform and official website to deliver customizable automation for North American SMEs."
     },
     {
       "headline": "Robotics \u2018changing the nature of what people are doing.\u2019 Amazon Robotics chief on new AI tech in warehouses.",
@@ -95,16 +85,26 @@
       "description": "After clashing with Trump on spending, Musk argues AI and robotics are the only path to easing record U.S. debt costs\u2014and may even trigger future deflation."
     },
     {
-      "headline": "Prediction: This Robotics ETF Will Outperform Over the Next 5 Years",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjdremZjbGhwaVZZUXFOeDVsTGZLRHNJYlFzcklOMTJvZ1NmTkRtN3J2cVVKazNnWXFnWm1JYkRFR01Iaks5UHVkSkJQTjBXX01xRThBcDAxUjZrZDJ2YzFlbGNtdEVwd2xTeVN6T1VMS296NFkyT0Q1ZFVWYU9OSTBIZkNZZDdPNUlYNWNsY3E5bHpkTHI4?oc=5",
-      "pub_date": 1764520200.0,
-      "article_url": "https://www.fool.com/investing/2025/11/30/prediction-this-robotics-etf-will-outperform-over/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844858%2Fgettyimages-1518671364.jpg&w=1200&op=resize",
-      "description": "The labor shortage isn't coming -- it's already here. And this fund owns the companies solving it."
+      "headline": "Elon Musk predicts \u2018working will be optional\u2019 within 10\u201320 years due to AI and Robotics",
+      "source": "livemint.com",
+      "source_url": "https://www.livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdEpWZlh2Nlg5elhPLXZLMzl2V2I4UUF6ZmdvMHE4REJjcnBGOWhLQmRobmRocVNLcWFSQ245Y3RFSUtpbktQRlZ6bmpmdzZWaG5MWE1xU2VfYUM4clhjLW96WGFDbEdISzlFcl9URjhVTnRrSVBhWEZ1bG1IOWFldWV5dFR0NkNnQnM0dGM5QjYyQWg0QVZGd1NWWUpWRF9XWE9vb0t3SkZzZDhqcFROQU82cTJBMU9QeUxHU3B6ZXhOTnltSzUtVloweWlNdGJqX0hTcWhOTkM3VlHSAeABQVVfeXFMTXY3RzhwTkZqZFFCcm5jZW1kZU1yNG94dUVXQU1wNUkybHlnQVRpZDYwWEtJNVV1V0hmQ0s3QVVxTndEcXMzbVFpUGN6Y2wwVHhtd3B6TmoyMmpjVkFycmY2RDJOLVNzcThGUGFXZXJ4alhJejBZSV9zZXRPczhjRmhxVkRkVXNrUGpra3hZc29zZUZfRFk1WkNrRlpTel9MdFU3blFtMkZNREQzeFZFbldHX01SdXZsQS1qZy0wMnU1Y1l1dXZ6U3lxbHlwbHl3djVQdF9heWtpYmlMNEh3TDg?oc=5",
+      "pub_date": 1764525225.0,
+      "article_url": "https://www.livemint.com/news/us-news/elon-musk-predicts-working-will-be-optional-within-10-20-years-due-to-ai-and-robotics-11764524461852.html",
+      "image": "https://www.livemint.com/lm-img/img/2025/11/30/1600x900/logo/elon_musk_on_podcast_1764525187053_1764525193099.jpg",
+      "description": "Elon Musk predicted that advances in AI and robotics could make work optional within the next 10 to 20 years. \u201cMy prediction is that, in the future, working will be optional. Advances in AI and robotics will bring us to a point where working is optional,\u201d he said on Nikhil Kamath\u2019s podcast."
+    },
+    {
+      "headline": "Elon Musk predicts AI and robotics could make work \"optional\" within 20 years",
+      "source": "Teslarati",
+      "source_url": "https://www.teslarati.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzlQd0FwRUtZQm9JRG5YNDdzb084bkRzWjYwLThhS24zd2tPVlhCMVVfdy1SSVllcGNja0NWWTd3UllLWVBFY296ZmV4bnJZdzVGRnRMUlZMcGpaV0Z5M2hRMnZJaU0wanJhUXB3QnlXQ3o5M1ZwUXNJQWZYQkRMVWJaWjRoOUNYNF9tXzRHVFY4R0F6cUVB?oc=5",
+      "pub_date": 1764598783.0,
+      "article_url": "https://www.teslarati.com/elon-musk-predicts-ai-robotics-make-work-optional-within-20-years/",
+      "image": "https://www.teslarati.com/wp-content/uploads/2025/11/2048px-Elon_Musk_54817684706-1000x600.jpg",
+      "description": "Speaking on entrepreneur Nikhil Kamath\u2019s podcast, Musk predicted that machines will soon handle most forms of labor, leaving humans to work only if they choose to."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T14:59:03.974656+00:00"
+  "fetched_at": "2025-12-01T15:31:56.927128+00:00"
 }

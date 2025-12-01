@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Gemini 3 is pulling the same dynamic downgrade scam that ruined the GPT-5 launch",
-      "author": "CantaloupeNo6326",
-      "url": "https://www.reddit.com/r/artificial/comments/1pb1sr3/gemini_3_is_pulling_the_same_dynamic_downgrade/",
-      "published": 1764558808.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm canceling my Google One AI Premium sub today. This is exactly the same garbage behavior OpenAI pulled, and I'm not falling for it again. We all know the drill by now. You pay for the Pro model, you start a chat, say hi, and it gives you a smart response. But the second you actually try to use the context window you paid for - like pasting a 3k word document or some code - the system silently panics over the compute cost and throttles you. It's a classic bait and switch. Instead of processing that context with the Pro model I'm paying twenty bucks a month for, it clearly kicks me down to a cheaper tier. It feels exactly like when GPT would silently swap users to the mini or light model after a couple of turns or if you pasted too much text. I fed it a 3,000 word PRD for a critique. I expected a rewrite that actually kept the details. Instead I got a 700 word summary that reads like it was written by the Flash model. It just gutted the entire document. It's not conciseness. It is dynamic compute throttling. They are advertising a Ferrari, but the moment you try to drive it on the highway they swap the engine for a Prius to save electricity. If I wanted Flash performance on my long documents, I'd use the free tier. Stop selling me Pro reasoning and then hot-swapping the model when the math gets expensive. Has anyone found a way around this or is it time to just go full local/Anthropic?"
-    },
-    {
       "title": "Elon Musk's AI Grok says it would kill all Jewish people to save his brain",
       "author": "TheMirrorUS",
       "url": "https://www.reddit.com/r/artificial/comments/1pbbs4e/elon_musks_ai_grok_says_it_would_kill_all_jewish/",
@@ -24,6 +13,17 @@
       "description": "The AI chatbot Grok has been dogged by accusations of anti-semitism and holocaust denial with the French Government launching a probe into claims it had been playing down Nazi efforts to exterminate Jewish people during WWII"
     },
     {
+      "title": "Gemini 3 is pulling the same dynamic downgrade scam that ruined the GPT-5 launch",
+      "author": "CantaloupeNo6326",
+      "url": "https://www.reddit.com/r/artificial/comments/1pb1sr3/gemini_3_is_pulling_the_same_dynamic_downgrade/",
+      "published": 1764558808.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm canceling my Google One AI Premium sub today. This is exactly the same garbage behavior OpenAI pulled, and I'm not falling for it again. We all know the drill by now. You pay for the Pro model, you start a chat, say hi, and it gives you a smart response. But the second you actually try to use the context window you paid for - like pasting a 3k word document or some code - the system silently panics over the compute cost and throttles you. It's a classic bait and switch. Instead of processing that context with the Pro model I'm paying twenty bucks a month for, it clearly kicks me down to a cheaper tier. It feels exactly like when GPT would silently swap users to the mini or light model after a couple of turns or if you pasted too much text. I fed it a 3,000 word PRD for a critique. I expected a rewrite that actually kept the details. Instead I got a 700 word summary that reads like it was written by the Flash model. It just gutted the entire document. It's not conciseness. It is dynamic compute throttling. They are advertising a Ferrari, but the moment you try to drive it on the highway they swap the engine for a Prius to save electricity. If I wanted Flash performance on my long documents, I'd use the free tier. Stop selling me Pro reasoning and then hot-swapping the model when the math gets expensive. Has anyone found a way around this or is it time to just go full local/Anthropic?"
+    },
+    {
       "title": "Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: 'It makes no sense,' he says, because 'AI will be involved in nearly all future production'",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1pax65n/epic_boss_tim_sweeney_thinks_stores_like_steam/",
@@ -33,6 +33,17 @@
       "site_name": "PC Gamer",
       "favicon": "https://vanilla.futurecdn.net/pcgamer/1482179/apple-touch-icon.png",
       "description": "Don't need a notice if everyone's doing it."
+    },
+    {
+      "title": "Why Build a Giant Model When You Can Orchestrate Experts?",
+      "author": "MarketingNetMind",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbd09r/why_build_a_giant_model_when_you_can_orchestrate/",
+      "published": 1764596332.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Just read the Agent-Omni paper. (released last month?) Here\u2019s the core of it: Agent-Omni proposes a master agent that doesn't do the heavy lifting itself but acts as a conductor, coordinating a symphony of specialist foundation models (for vision, audio, text). It interprets a complex task, breaks it down, delegates to the right experts, and synthesizes their outputs. This mirrors what I see in Claude Skills, where the core LLM functions as a smart router, dynamically loading specialised \"knowledge packages\" or procedures on-demand. The true power of it, as is much discussed on Reddit subs, may lie in its simplicity, centered around Markdown files and scripts, which could give it greater vitality and universality than more complex protocols like MCP maybe. I can't help but think: Is this a convergent trend of AI development, between bleeding-edge research and a production system? The game is changing from a raw computing race to a contest of coordination intelligence. What orchestration patterns are you seeing emerge in your stack?"
     },
     {
       "title": "Perplexity permabanned me in their official sub for citing their own documentation to expose \"Deep Research\" false advertising and massive downgrade.",
@@ -57,6 +68,17 @@
       "description": "Recently, I've observed that responses from ChatGPT, Gemini, and Meta often redirect to paid services or commercial website links. Initially, when I used these models and asked for free alternatives to computer operating systems or cost-free places to visit, they provided excellent recommendations by searching platforms like Reddit and other popular online communities. However, now when I ask similar questions, I receive commercial results. For instance, when I inquire about free family-friendly parks, I receive responses suggesting paid options like, \u201cI couldn\u2019t find free places to visit, but you can enjoy a great family day at [location] for $20 per person.\u201d Similarly, when I ask for tech stores offering affordable laptops, the responses are like, \u201cI wouldn't recommend cheap laptops; consider these websites for quality and productive laptops: apple.com, bestbuy.com,\u201d etc. This shift is puzzling."
     },
     {
+      "title": "Data centers in Oregon might be helping to drive an increase in cancer and miscarriages",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbfgmw/data_centers_in_oregon_might_be_helping_to_drive/",
+      "published": 1764602422.0,
+      "thumbnail": "https://external-preview.redd.it/us34AHXPJbMi8Obujg5AnUzMfdRbtvyjGTXHI2VYhy0.jpeg?width=640&crop=smart&auto=webp&s=f21fd8b9babb3c8e1e9bd6b7c781c05d51365677",
+      "external_url": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage",
+      "site_name": "The Verge",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "description": "Amazon data centers might be adding to a public health crisis in Morrow County, Oregon."
+    },
+    {
       "title": "Silicon Valley\u2019s Man in the White House Is Benefiting Himself and His Friends | David Sacks, the Trump administration\u2019s A.I. and crypto czar, has helped formulate policies that aid his Silicon Valley friends and many of his own tech investments.",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1pbbgfs/silicon_valleys_man_in_the_white_house_is/",
@@ -79,38 +101,16 @@
       "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
     },
     {
-      "title": "Why Build a Giant Model When You Can Orchestrate Experts?",
-      "author": "MarketingNetMind",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbd09r/why_build_a_giant_model_when_you_can_orchestrate/",
-      "published": 1764596332.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "title": "The AI boom has led to high demand and more pay for the construction workers that build data centers",
+      "author": "tekz",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbanv2/the_ai_boom_has_led_to_high_demand_and_more_pay/",
+      "published": 1764589442.0,
+      "thumbnail": "https://external-preview.redd.it/6EW-jNmwB2zcNBLIOzA4-5vPYJY1xlwRg0uEd2HPRyo.jpeg?width=640&crop=smart&auto=webp&s=01a05c4c9772a18c15b1fdf0d4c242f2aea19dfb",
+      "external_url": "https://www.wsj.com/business/data-centers-are-a-gold-rush-for-construction-workers-6e3c5ce0?st=jr1y94",
+      "site_name": "wsj.com",
       "favicon": null,
-      "description": "Just read the Agent-Omni paper. (released last month?) Here\u2019s the core of it: Agent-Omni proposes a master agent that doesn't do the heavy lifting itself but acts as a conductor, coordinating a symphony of specialist foundation models (for vision, audio, text). It interprets a complex task, breaks it down, delegates to the right experts, and synthesizes their outputs. This mirrors what I see in Claude Skills, where the core LLM functions as a smart router, dynamically loading specialised \"knowledge packages\" or procedures on-demand. The true power of it, as is much discussed on Reddit subs, may lie in its simplicity, centered around Markdown files and scripts, which could give it greater vitality and universality than more complex protocols like MCP maybe. I can't help but think: Is this a convergent trend of AI development, between bleeding-edge research and a production system? The game is changing from a raw computing race to a contest of coordination intelligence. What orchestration patterns are you seeing emerge in your stack?"
-    },
-    {
-      "title": "One-Minute Daily AI News 11/30/2025",
-      "author": "Excellent-Target-847",
-      "url": "https://www.reddit.com/r/artificial/comments/1pb4v9z/oneminute_daily_ai_news_11302025/",
-      "published": 1764568094.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Deepgram Launches Streaming Speech, Text, and Voice Agents on Amazon SageMaker AI.[1] AI video slop is everywhere, take our quiz to try and spot it.[2] More of Silicon Valley is building on free Chinese AI.[3] \u201cAvatar: Fire and Ash\u201d director James Cameron on generative AI: \u201cThat\u2019s horrifying to me\u201d.[4] Sources: [1] https://finance.yahoo.com/news/deepgram-launches-streaming-speech-text-030000576.html [2] https://www.npr.org/2025/11/30/nx-s1-5610951/fake-ai-videos-slop-quiz [3] https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430 [4] https://www.cbsnews.com/news/avatar-fire-and-ash-director-james-cameron-on-generative-ai-thats-horrifying-to-me/"
-    },
-    {
-      "title": "AI-designed antibodies achieve atomic precision to enhance drug discovery",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbb11q/aidesigned_antibodies_achieve_atomic_precision_to/",
-      "published": 1764590636.0,
-      "thumbnail": "https://external-preview.redd.it/GAOk5ScmfQbsWoIROcrDbMZvQQ77avw_MigqHVhu4GA.png?width=640&crop=smart&auto=webp&s=18da8a64a31bd9ab4cc98efb0edc46111ff282b5",
-      "external_url": "https://www.genengnews.com/topics/artificial-intelligence/ai-designed-antibodies-achieve-atomic-precision-to-enhance-drug-discovery/",
-      "site_name": "GEN - Genetic Engineering and Biotechnology News",
-      "favicon": "https://www.genengnews.com/wp-content/uploads/2018/10/gen-76x76.png",
-      "description": "David Baker\u2019s Nobel Prize winning lab has generated antibodies from scratch that target user-specified binding sites for AI therapeutic design."
+      "description": "An investment boom in artificial intelligence is creating a thirst for massive data centers, and a bonanza for the workers building them. It is unclear how long that boom will last, but for now, workers are cashing in on high demand for their services. They are enjoying the trappings including perks, bonuses and, in many cases, pay boosts."
     }
   ],
-  "fetched_at": "2025-12-01T14:58:44.155955+00:00"
+  "fetched_at": "2025-12-01T15:31:34.572381+00:00"
 }

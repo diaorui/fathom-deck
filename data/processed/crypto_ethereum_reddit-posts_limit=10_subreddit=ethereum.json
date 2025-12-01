@@ -13,17 +13,6 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "Yearn Finance Exploited for Over $3 Million Worth of Assets",
-      "author": "iffattalll",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pb39dn/yearn_finance_exploited_for_over_3_million_worth/",
-      "published": 1764563061.0,
-      "thumbnail": null,
-      "external_url": "https://medium.com/@wzrqjs/yearn-finance-exploit-analysis-c0e89979672a",
-      "site_name": "medium.com",
-      "favicon": null,
-      "description": "The Yearn Finance yETH vault was exploited for over $3 million. The attacker leveraged a dust attack combined with a flash loan to destabilize the underlying pool. In this case, the locus of the root cause was a flawed mathematical singularity in the _calc_supplyfunction that implemented the Newton-Raphson solver. The attacker submitted dust or small amount of liqudity into the skewed pool, causing the _calc_supplyfunction to diverge which forced the contract to incorrectly calculate the pool\u2019s value as infinite. As a result, the attacker was able to practically mint millions of dollars worth of liquidity share for a bare-minimum cost."
-    },
-    {
       "title": "\ud83d\ude80 Building a Uniswap V3-Based DEX on Testnet",
       "author": "virentanti",
       "url": "https://www.reddit.com/r/ethereum/comments/1pbbpd1/building_a_uniswap_v3based_dex_on_testnet/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Yearn Finance Exploited for Over $3 Million Worth of Assets",
+      "author": "iffattalll",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pb39dn/yearn_finance_exploited_for_over_3_million_worth/",
+      "published": 1764563061.0,
+      "thumbnail": null,
+      "external_url": "https://medium.com/@wzrqjs/yearn-finance-exploit-analysis-c0e89979672a",
+      "site_name": "medium.com",
+      "favicon": null,
+      "description": "The Yearn Finance yETH vault was exploited for over $3 million. The attacker leveraged a dust attack combined with a flash loan to destabilize the underlying pool. In this case, the locus of the root cause was a flawed mathematical singularity in the _calc_supplyfunction that implemented the Newton-Raphson solver. The attacker submitted dust or small amount of liqudity into the skewed pool, causing the _calc_supplyfunction to diverge which forced the contract to incorrectly calculate the pool\u2019s value as infinite. As a result, the attacker was able to practically mint millions of dollars worth of liquidity share for a bare-minimum cost."
     },
     {
       "title": "How RWA tokens(ERC3643) pegged with their underlying asset?",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-01T14:58:46.972744+00:00"
+  "fetched_at": "2025-12-01T15:31:35.904526+00:00"
 }

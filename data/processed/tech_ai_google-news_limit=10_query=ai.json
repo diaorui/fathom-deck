@@ -15,36 +15,6 @@
       "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     },
     {
-      "headline": "An independent effort says AI is the secret to topple 2-party power in Congress",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFpBUmdMd2JCWkZhZE5TNU40V3Vlc2wxLUI3X2Z1X2hBajhLTlZYdFh1RFg3Q3Vob0k1bk0zenQ5NHhBRnRzZE1ZMmxpUVhMUldOemx6VTJxYlQ2dmxPeUVYLXlpcWZzdWFwdHhOMzlkTGZHUUg3Z3BOSW1NQkYxZEJSRDVpeWVQekd3VzBqOC11VEVuQUhLMGVB?oc=5",
-      "pub_date": 1764583200.0,
-      "article_url": "https://www.npr.org/2025/12/01/g-s1-98267/ai-independent-candidates-congress-two-party-control",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2024+0+232/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F3d%2F7f56b150456e90265385306931b1%2Fglennharvey-2025-11-07-npr-f53.jpg",
-      "description": "Using artificial intelligence to identify Congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system."
-    },
-    {
-      "headline": "AI drove Black Friday\u2019s record $11.8B surge, market expert says",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wWVUwMHZVRnVRYkhCU281SW5Udi05TTNSR244U0FRelFSdlFVdlRhNkZWbjhrdHo2X2N2Nkc1cDAtbHFaMUcycEV1QktwNE0zU1R5MVdxT1U4elE?oc=5",
-      "pub_date": 1764599250.0,
-      "article_url": "https://www.foxbusiness.com/video/6385800458112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/b7f46a62-103b-4612-aa20-28df91a2735c/59755fd8-7791-41d9-bf1e-26b30ea0b2c0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Circle Squared Alternative Investments founder Jeff Sica joins 'Varney & Co.' to discuss A.I.'s impact on Black Friday sales and Bitcoin's selloff on stocks."
-    },
-    {
-      "headline": "Why Your Company Needs a Chief Data, Analytics, and AI Officer",
-      "source": "Harvard Business Review",
-      "source_url": "https://hbr.org",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbm5yX3d2QkRDNzI4WXJBRHo3S1U3Mm1CUzRXNmpfSWNJa1dWNEp4ZDhaa1o2WmVBbk1LSXdVMjBIUGRkTGp5RDR2a1pRZVVGWHpObTh0NFZ5YTNfTUpDWmJWTGlkVGtkazUyS1dQZV82aWtFLW0zSnZub1NrUTlDODJHV0J5UUV0Rm5ZNg?oc=5",
-      "pub_date": 1764600880.0,
-      "article_url": "https://hbr.org/2025/12/why-your-company-needs-a-chief-data-analytics-and-ai-officer",
-      "image": "https://hbr.org/resources/images/article_assets/2025/11/Nov25_26_miguel-porlan.jpg",
-      "description": "Who should be in charge of data, analytics, and AI? While there are many possible divisions of responsibility and reporting structures, a combined role\u2014the CDAIO (Chief Data, Analytics, and AI Officer)\u2014will best prepare organizations as they plan for AI going forward. To succeed, this role needs a clear mandate that includes owning AI strategy, preparing for a new class of risks, developing the AI tech stack, ensuring the company\u2019s data is ready for AI, creating an AI ready culture, developing talent and partnerships, and generating significant ROI on AI investments. Given the emphasis on business value creation, in most cases CDAIOs should be positioned closer to business functions than to technology operations."
-    },
-    {
       "headline": "Runway rolls out new AI video model that beats Google, OpenAI in key benchmark",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -55,34 +25,44 @@
       "description": "Gen 4.5, a new AI model that allows users to generate high-definition videos based on written prompts."
     },
     {
-      "headline": "The People Outsourcing Their Thinking to AI",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWFhY1JvYmNPUnVkaURvVVZsRExPQk1Edzd4SUh6ODNvOTNUNXJjakp6NDUwTFZDdktGYy1EUHdpdUVOVDVVY0l6OGRWR2htUFMySmtoaW5FMGRWY1pON2JmNnJqZFF5NE5pZ2poMVFZNUdXb1czRV9TOF9nMUVIbGNRMy1vaDMwWU5aazREREhWODNjc1E?oc=5",
-      "pub_date": 1764592200.0,
-      "article_url": "https://www.theatlantic.com/technology/2025/12/people-outsourcing-their-thinking-ai/685093/",
-      "image": "https://cdn.theatlantic.com/thumbor/Llk9rk0EWzJeAoNISzv4UhoCgoo=/0x83:2000x1125/1200x625/media/img/mt/2025/11/2025_11_29_AI/original.png",
-      "description": "Rise of the LLeMmings"
-    },
-    {
-      "headline": "Why Bonds Won\u2019t Protect You From an AI Bubble",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPTWtQTzZXNndOeUtJUjg3cGQySURrYlFROFlONm5JS2FKRVpQNGlCZWh6R0lKcERrOFNXS1pTVjJJYlBfY1EzSmRsT01QdVBmQjlob0FfVGs3eVlCall3anNfeDZXVTJ2ZVpuQi1VZjREM3ZNVGRmSndxN3lyNmNSWjYwNm54al9FbnB0Yk8zOF9yNUF2Q0pXem9wUXVMZGRqc3RlM1BNOGlpcW1zckZwekRibU52MTUwVVZUNzZZV05wYVJlUWkzcGttOVBHUUIxQVpKZjBLdmxiM3p4ckpDVTAwaFBJV0EtMmVlSmk0dVNfdVlYLUYyanNPT0RrVkRzNmVkcUtsY1RNNno3aWplQV9NNDcyMDhscER4UGRRUEZJXzJ2bE9rSWJGMFlCcVQ4T1ZOVUVmSS10andHRVkzOXRTYlhoam5oT2ZkdElabUJxNE13TUtaWDZVOE13R0FKSE1QcXh6ZWFTWGxFak5rYUF3V1VvOU95XzhobGxqRTVZeHpVekZJVnFySVZFNTJIY0RFV0kxc1FzTk0?oc=5",
-      "pub_date": 1764585000.0,
-      "article_url": "https://www.wsj.com/finance/investing/why-bonds-wont-protect-you-from-an-ai-bubble-f32084fb?gaa_at=eafs&gaa_n=AWEtsqctmOEjvfv1T87g3Y2Svjm0wGzgiEsObzPaQHJjuzEuYJUJkSrHNjAm&gaa_ts=692db0a7&gaa_sig=2RPIlatXPlTBsu3UVLU9wdWsRqSQDvix8j3otWcaZfNCsaTOSaAnNPEpRUHmfn2Xu_nFfBakUwncEdQPgHTrYA%3D%3D",
+      "headline": "College Students Choosing A.I. Majors Over Computer Science",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzBCcTJWdGk2N3psSEtzUGdQekluQVdtSk04UV9hcTJuR3JYaWdxblhSUHQxUWMtT200UzM4Ykw5TlQ2cks3dkQ4WEVSM0NaSHlvOG11WTQwa3dSQ1d5NklwWTdDT0JrX2phTk5qZ3JNRHBsWFVLWWUySXY4c3pvaGZyMTQ0al9HckFz?oc=5",
+      "pub_date": 1764602758.0,
+      "article_url": "https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Top consultancies freeze starting salaries as AI threatens \u2018pyramid\u2019 model",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVUtOcGs1QnBiQm1sU0YxVEhEWWVwakZYWW9NWFBob2tSdVcweTZRNktadjR0WDhPTzVhVElGVEFHcHpOa01zNFZxWEdlUThPd0k2Q1d0bExrZzhfbkZGRzIxV2U5aEkyRGxXUU9SM3A?oc=5",
-      "pub_date": 1764565228.0,
-      "article_url": "https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7da7fd3-4e13-46d8-ab31-b28970bcc0c5.jpg?source=next-barrier-page",
-      "description": "Productivity gains from technology are spurring debate about reliance on large numbers of junior advisers"
+      "headline": "How upcoming business leaders are using AI to prep for high-stakes deal negotiations\u2014and everyday interactions",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGwzRkVTZnVlUjVDeW1lMTFiRFM2Z0dwYnhXOHN2b0Nsbng2SUVTV2ZEaVJ6amxJa2Rmc2R1aXlnMmkxeW00MEJZWm9QR0VrTUlpMExzX3BCcW9YZ0hiODNjWWpuVmhYUWhKV1UtdkJpSm5DV0Y1VkVUc2xlSTR0VGY5dkd5cjFxWEpZNFVMRzFuVGJDb2JEM3VUOWM?oc=5",
+      "pub_date": 1764601200.0,
+      "article_url": "https://fortune.com/2025/12/01/upcoming-business-leaders-ai-deal-prep-everyday-interactionsprep/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2245748476-e1764181822145.jpg?resize=1200,600",
+      "description": "Students at American University\u2019s Kogod School of Business are learning how to use AI to sharpen the way they negotiate everything from job offers to high-stakes mergers."
+    },
+    {
+      "headline": "Sequoia Bets on AI Startup to Ease Wealth Advisers\u2019 Grunt Work",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYlFDZm5PY2pGeGZhT2p4U3dKWDVyS2hZYjlweF9SRmVPNnoxQVBTOHlyS1lhTFpQMzFtMGUyX2JBd0F4bkRMeHkyaFppd2lUdGZONkRiYmQ4WXhUdC03T2JrRGZGT0wxUnN4QllYb2szb1QzR2EwUldBOWZEMEdvbzYzMjZScm1nb3QzdVM2QmIyZG16WEMtOVhzTncybmxLVFFCdTgxNXc1bS1TaXcxNUtR?oc=5",
+      "pub_date": 1764601200.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-01/sequoia-bets-ai-startup-will-help-not-replace-wealth-advisers",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "An independent effort says AI is the secret to topple 2-party power in Congress",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFpBUmdMd2JCWkZhZE5TNU40V3Vlc2wxLUI3X2Z1X2hBajhLTlZYdFh1RFg3Q3Vob0k1bk0zenQ5NHhBRnRzZE1ZMmxpUVhMUldOemx6VTJxYlQ2dmxPeUVYLXlpcWZzdWFwdHhOMzlkTGZHUUg3Z3BOSW1NQkYxZEJSRDVpeWVQekd3VzBqOC11VEVuQUhLMGVB?oc=5",
+      "pub_date": 1764583200.0,
+      "article_url": "https://www.npr.org/2025/12/01/g-s1-98267/ai-independent-candidates-congress-two-party-control",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2024+0+232/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F3d%2F7f56b150456e90265385306931b1%2Fglennharvey-2025-11-07-npr-f53.jpg",
+      "description": "Using artificial intelligence to identify Congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system."
     },
     {
       "headline": "AI-powered children\u2019s toys are here, but are they safe?",
@@ -95,16 +75,36 @@
       "description": "Teddy bears and stuffed plushies have long been a mainstay in toy collections. But today they don\u2019t talk back in a child\u2019s imagination \u2014 they talk through built-in AI chatbots."
     },
     {
-      "headline": "More of Silicon Valley is building on free Chinese AI",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcG9TS2JkaHFxTGxiWlZoSjlhZDYtOVZ5TFJRTW92VTNTUHg5WVl3d0ZaU2NWV050ejlWamdwSURGYkE1WWFSZU8wcVc1TDJ6VlZhem1SV1F2dkU1ZnZnZXJ6cFVlTXRES3J0MXMzWmpiRmtOMTdFWU9mSjlhVlhuaWpNWml1RVVDOXNCd3hSZXpUT3JJ0gFWQVVfeXFMTXlyQ210ZmVEM1BDd2xDTmh6bHBhMGJGd2RfV1JYcW1WdUJNVU8wR1ZpV1h4MUEzQzhhTzBXT2JFY2NQRDZYVG5KNTZ4cTBaS3NhQ2pFdnc?oc=5",
-      "pub_date": 1764515094.0,
-      "article_url": "https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251110-china-ai-startups-jg-98b34a.jpg",
-      "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
+      "headline": "Why Bonds Won\u2019t Protect You From an AI Bubble",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPdDVfNFk1OF9fUnN1dHl6amIzektsckt5UVB6M3BxVm44Uy1Bd0tLRDA0UWVMLU5FdGxLZ1FVZFlyT1hpbFNQVC1pQ2tKVXlNMHdKOE5Dc3Nha0xOM2tEcmNaSnVma0dmbE9tZE92cXZFNTRoODdYaUdsTXJHRjNsOEFBSU81OXdJR1hMcERzTS1USkY4MWIzWjJvSWNLMHEwZlJKUFV2WWw5Z29GZTJrSjlHNHl6S3hnYlhCOU9PckpyRGV3QmRUSUhkMGFya3d3Qk8xZVZsQTdsdW9lTXNBR3k0aWM3SGtmNVdWUzRxeGRTeHlnZENGWFFxdFVIaGd5RnRqUTFCUFJDTW11N2JrRVc2N09hTkd5Z3VSZHFzMUVGZDNhaUdlTTJ2aGxvSzlULXNHdWg2el94MkEyQmhTY3BXVThGaWpMRnhNV3VvUlotTThoS05Zd0Jpb1J2V3NERURCbXpzZ2E4dV9RMmVMb3BvMUlPZ2J0dVJXQUdIdGJfMV82MGJfbXdBOEVkWUR6cFl5WVctcmdpbXM?oc=5",
+      "pub_date": 1764585000.0,
+      "article_url": "https://www.wsj.com/finance/investing/why-bonds-wont-protect-you-from-an-ai-bubble-f32084fb?gaa_at=eafs&gaa_n=AWEtsqeMcRRiMDhu0AG_jXEsDQsTAEBMs1J-44GYMJIn75xWmpsveqpQpTR0&gaa_ts=692db858&gaa_sig=SM4muD63mJFZDQ8L8xNRbnV5OXRXW9EkuGrNtEXx7ikjW73-Ko0n_is0Z58T7VdY1NsCT3mVI3FYIc9d003mjA%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The People Outsourcing Their Thinking to AI",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWFhY1JvYmNPUnVkaURvVVZsRExPQk1Edzd4SUh6ODNvOTNUNXJjakp6NDUwTFZDdktGYy1EUHdpdUVOVDVVY0l6OGRWR2htUFMySmtoaW5FMGRWY1pON2JmNnJqZFF5NE5pZ2poMVFZNUdXb1czRV9TOF9nMUVIbGNRMy1vaDMwWU5aazREREhWODNjc1E?oc=5",
+      "pub_date": 1764592200.0,
+      "article_url": "https://www.theatlantic.com/technology/2025/12/people-outsourcing-their-thinking-ai/685093/",
+      "image": "https://cdn.theatlantic.com/thumbor/Llk9rk0EWzJeAoNISzv4UhoCgoo=/0x83:2000x1125/1200x625/media/img/mt/2025/11/2025_11_29_AI/original.png",
+      "description": "Rise of the LLeMmings"
+    },
+    {
+      "headline": "Top consultancies freeze starting salaries as AI threatens \u2018pyramid\u2019 model",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVUtOcGs1QnBiQm1sU0YxVEhEWWVwakZYWW9NWFBob2tSdVcweTZRNktadjR0WDhPTzVhVElGVEFHcHpOa01zNFZxWEdlUThPd0k2Q1d0bExrZzhfbkZGRzIxV2U5aEkyRGxXUU9SM3A?oc=5",
+      "pub_date": 1764565208.0,
+      "article_url": "https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7da7fd3-4e13-46d8-ab31-b28970bcc0c5.jpg?source=next-barrier-page",
+      "description": "Productivity gains from technology are spurring debate about reliance on large numbers of junior advisers"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T14:59:05.500791+00:00"
+  "fetched_at": "2025-12-01T15:32:04.030995+00:00"
 }

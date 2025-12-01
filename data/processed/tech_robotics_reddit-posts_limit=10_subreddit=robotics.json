@@ -112,5 +112,5 @@
       "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video"
     }
   ],
-  "fetched_at": "2025-12-01T14:58:48.468889+00:00"
+  "fetched_at": "2025-12-01T15:31:37.202232+00:00"
 }

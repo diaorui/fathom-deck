@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-01T10:53:03.933433+00:00"
+          "dateModified": "2025-12-01T11:15:12.792751+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -907,7 +907,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pafmkr/first_live_test_of_a_laserbased_local_obstacle/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -915,13 +915,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/" target="_blank" onclick="event.stopPropagation();">For home robots, does a humanoid form factor actually make engineering sense?</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1pafmkr/first_live_test_of_a_laserbased_local_obstacle/" target="_blank" onclick="event.stopPropagation();">First live test of a laser-based local obstacle detection concept.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            This is a strictly engineering-focused question — not about long-term predictions, consumer markets, or sci-fi use cases. Humanoids are getting a lot of visibility lately (Optimus, Unitree H1, XPeng, Atlas, etc.). It made me curious about the actual engineering trade-offs when the target environment is a typical home. From a design and controls standpoint, the two approaches seem to have very different constraints. Potential engineering advantages of humanoid designs: • human-height workspace • access to existing tools, handles, and switches • whole-body manipulation possibilities • able to navigate human-scale indoor layouts without modifying the environment Potential engineering advantages of non-humanoid mobile manipulators: • lower BOM and simpler actuation • fewer DOF → lower control complexity • wheels = far fewer failure modes • lower power requirements • easier to reach appliance-tier reliability • more predictable motion (pets/kids safe) You don’t need to frame this in market terms — I’m mostly trying to build a clearer mental model for ongoing work related to home-environment autonomy. A lot of current projects (mine included) are running into similar failure modes in manipulation, reliability, and task generalization, so I’m curious how others here rank the practical constraints today. From an engineering standpoint, what seems like the real bottleneck right now? • manipulation robustness? • cost of reliable hardware? • locomotion complexity (balancing vs wheeled)? • or just the number of corner cases in household tasks? Would love to hear how people here think about current, real-world design constraints.
+                            This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) — this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear — the system allows movement. When an object enters the field — the reflected laser points appear. Once the reflection threshold is detected — motion is stopped immediately. When the obstacle is removed — movement resumes. This idea started very simply — from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment — but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video
                         </div>
                         
 
@@ -930,7 +930,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1764470863.0"></span>
+                                    <span data-timestamp="1764500415.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -963,7 +963,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-01T10:34:12.584264+00:00">Updated 2025-12-01T10:34:12.584264+00:00</small>
+        <small data-timestamp="2025-12-01T11:14:40.004954+00:00">Updated 2025-12-01T11:14:40.004954+00:00</small>
     </div>
 </div>
 
@@ -1268,6 +1268,43 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2025-11-27/china-warns-of-bubble-risk-in-booming-humanoid-robotics-industry', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/news/articles/2025-11-27/china-warns-of-bubble-risk-in-booming-humanoid-robotics-industry" target="_blank" onclick="event.stopPropagation();">China Warns of Bubble Risk in Booming Humanoid Robotics Industry</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1764302580.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/china-warns-bubble-risk-booming-100805286.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/ZVfxPu5ia8wFnofX.hJtRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/e5b535e75e5b19b7199be431a88b2772');"></div>
@@ -1302,47 +1339,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1764238085.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/china-humanoid-robotics-bubble-warning', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2025/11/Untitled-design-2025-11-27T231729.618.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://interestingengineering.com/ai-robotics/china-humanoid-robotics-bubble-warning" target="_blank" onclick="event.stopPropagation();">Beijing flags humanoid robotics bubble risk as hype intensifies</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            While China positions humanoid robotics as a future growth engine, officials now fear the market may be overheating.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Interesting Engineering" class="news-favicon">
-                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1764270780.0"></span>
                                 </div>
                                 
                             </div>
@@ -1432,14 +1428,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqcEXtYg71RtOtQn_gD5yN5jHCzF4h6MlgTIkOxBTDazwj4ckwuuGzLd&gaa_ts=692d72a8&gaa_sig=U2DXSuYaH2ZiABNGeRpOzwMwWPlTSnwSCuli5JVXI3IwrIInW_6orleSjo9BICEbhHQdlJPhBwvcSvK3BjJfzw%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqfG-yVVzXaHQP4sCCLk78qxZa8WC38-HUrQvHiBEozgUkg3dYiZOJGq&gaa_ts=692d7c23&gaa_sig=DOk8pzXtMvhnvGWd8_OjRedzt0J-1V68xspMcXYbej1OMRaPwtLas5Z4yDLq2n_rxhnsZEcxolKDzx7i3aVp8Q%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqcEXtYg71RtOtQn_gD5yN5jHCzF4h6MlgTIkOxBTDazwj4ckwuuGzLd&gaa_ts=692d72a8&gaa_sig=U2DXSuYaH2ZiABNGeRpOzwMwWPlTSnwSCuli5JVXI3IwrIInW_6orleSjo9BICEbhHQdlJPhBwvcSvK3BjJfzw%3D%3D" target="_blank" onclick="event.stopPropagation();">Opinion | Humanoid Robots Have a Long Way to Go</a>
+                            <a href="https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqfG-yVVzXaHQP4sCCLk78qxZa8WC38-HUrQvHiBEozgUkg3dYiZOJGq&gaa_ts=692d7c23&gaa_sig=DOk8pzXtMvhnvGWd8_OjRedzt0J-1V68xspMcXYbej1OMRaPwtLas5Z4yDLq2n_rxhnsZEcxolKDzx7i3aVp8Q%3D%3D" target="_blank" onclick="event.stopPropagation();">Opinion | Humanoid Robots Have a Long Way to Go</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1510,20 +1506,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/tech/elon-musk-teases-future-run-robots', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/brainbody-llm-algorithms-make-robots-think', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://static.foxnews.com/foxnews.com/content/uploads/2025/11/tesla-optimus-robot-002.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2025/11/BrainBody-LLM-algorithms.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.foxnews.com/tech/elon-musk-teases-future-run-robots" target="_blank" onclick="event.stopPropagation();">Elon Musk teases a future run by robots</a>
+                            <a href="https://interestingengineering.com/ai-robotics/brainbody-llm-algorithms-make-robots-think" target="_blank" onclick="event.stopPropagation();">Robots learn to plan and adapt in real time with BrainBody-LLM AI tech</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Viral video shared by Elon Musk shows Tesla's Optimus humanoid robots performing tasks from cooking to construction, garnering over 58.5 million views on social media.
+                            NYU engineers unveil a system that helps robots think through tasks and succeed in settings that usually trip them up.
                         </div>
                         
 
@@ -1533,9 +1529,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox News" class="news-favicon">
-                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Interesting Engineering" class="news-favicon">
+                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
                                     
                                 </div>
                                 
@@ -1543,7 +1539,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1764505813.0"></span>
+                                    <span data-timestamp="1764517800.0"></span>
                                 </div>
                                 
                             </div>
@@ -1571,7 +1567,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-01T10:34:32.658858+00:00">Updated 2025-12-01T10:34:32.658858+00:00</small>
+        <small data-timestamp="2025-12-01T11:14:57.586061+00:00">Updated 2025-12-01T11:14:57.586061+00:00</small>
     </div>
 </div>
 

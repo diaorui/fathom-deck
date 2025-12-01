@@ -25,6 +25,16 @@
       "description": "If this widely touted growth driver peters out, it could spell big trouble."
     },
     {
+      "headline": "Russian investors flock to Bitcoin, Ethereum funds as crypto adoption gathers pace",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDNGalNTc0VzYURYZW5lRWtXTHItd0FIT3E5VXBNNmh6dTdnb3FOSVIxUTFrMTNrczVFMy02c1JHRENjTU9oekc0T1hzYmI2a1d3YV9RdW9Bb21iZGJETUVvNmVSZnZUUFFDMm51UlA2MDhnY2FTVW5sdE1CVS1UazNNT1V1cXBhOTR1a0lvTQ?oc=5",
+      "pub_date": 1764513552.0,
+      "article_url": "https://finance.yahoo.com/news/russian-investors-flock-bitcoin-ethereum-143912519.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/hq3Rdrsc6qfeQhLm6H9X1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/0c081dcfcc052285c5c5a56016f4993e",
+      "description": "Russians spend over $27 million on Bitcoin, Ethereum funds since June-July launch. Funds are operated by Moscow Exchange and based on BlackRock ETFs. Central bank \u2018unbothered\u2019 by sharp rise in popularity."
+    },
+    {
       "headline": "BitMine buys $44 million worth of Ethereum as Tom Lee gives bullish outlook",
       "source": "theblock.co",
       "source_url": "https://www.theblock.co",
@@ -45,24 +55,14 @@
       "description": "The company increased its crypto holdings last week despite sitting on around $4 billion in unrealized losses on its ETH bet."
     },
     {
-      "headline": "Tom Lee\u2019s Bitmine Just Bought $44 Million Of Ethereum, Bringing Weekly Total To $185 Million \u2013 BMNR Stock Climbs Amid ETH Recovery",
-      "source": "Stocktwits",
-      "source_url": "https://stocktwits.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbnJIbFozMlpTVnlhd0U0NnNqeGZaeEhsb0RfWTNwcFA5YThDSzN0cEZiVnRCajctdG9hUGlKcVREQ2tuM0lwWWNRSXhQTm9WX2FHV3J1RXZnOUx2ajBuSVQzMXplS2poc0Yyb2lYZDFYQ2hkMXN5Vzd5ekVweGp1cThNQ0VGZHpMT0F1SEQ5N1R6ZmlnN1hOZTFhdXJKQ3M5MTVoRDJhRlFmdFJ3dzZ0dG1hTHhkeDBpUzJWOWdpbEx0TG1FRWYtTkFEUQ?oc=5",
-      "pub_date": 1764343509.0,
-      "article_url": "https://stocktwits.com/news-articles/markets/equity/tom-lee-bitmine-just-bought-44-million-of-ethereum-bmnr-stock-gains/cL5a45RRELk",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tom Lee Lists Three Reasons Why Ethereum Will Beat Bitcoin \u2014 But Can ETH Rally to $9,000?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sZkJsT293OFIyN2FpNFpsOUx1TXRoaFJqOWJJTDBCR2VycUZ6dWQxcXRCMjNlZjNONWYwMUM3OTRzWmQxbTQ0bk9RVFZCR1VaaTU0U0RpTWloWHRsX0hQQVVzeXc1MjB1dlEwdzZKMTNVOXJCY0dKRXhHV2JYZw?oc=5",
-      "pub_date": 1764335835.0,
-      "article_url": "https://finance.yahoo.com/news/tom-lee-lists-three-reasons-131715102.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/RcRGeKQQxno4TvMSmysFsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/de29a08ab7bd5fd956511abf5220cd23",
-      "description": "Tom Lee believes Ethereum is positioned to win the crypto race, beating out other major players like Bitcoin. Lee forecasts a short-term dip to around ..."
+      "headline": "BitMine Immersion: Major Test Passed So Far (NYSE:BMNR)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXZIazVCb3lHR01GLWt0T2haekVSZTJPUmNobGpFeHR0LURFRzNGUzdyREhHWGFlczVkU1pJbkgtT2JyTzQydFJBVFg0aTNrSXpPVUQzS24tQWJMNWNsMTFtcTR5NEhrb2xlU0FRX3dJQmFTRTFtQ3hCVVlKcFJxdkxNd3h5QUVOdW5B?oc=5",
+      "pub_date": 1764529200.0,
+      "article_url": "https://seekingalpha.com/article/4847709-bitmine-immersion-major-test-passed-so-far",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1336958337/image_1336958337.jpg?io=getty-c-w1536",
+      "description": "Bitmine Immersion Technologies has experienced a sharp decline amid a broader crypto selloff, despite its focus on Ethereum over Bitcoin. Read what could be next for this crypto company."
     },
     {
       "headline": "Vitalik Buterin Donates $765K in Ethereum to Privacy Messaging Apps",
@@ -73,6 +73,16 @@
       "article_url": "https://decrypt.co/350253/vitalik-buterin-donates-765k-in-ethereum-to-privacy-messaging-apps",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg",
       "description": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
+    },
+    {
+      "headline": "Tom Lee Lists Three Reasons Why Ethereum Will Beat Bitcoin \u2014 But Can ETH Rally to $9,000?",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHRFM25HZTVhUGdzbXNaZXFYRDlGUWtwZHp2cGNuTTdlVFhjYWFFLWZpQkNCZU1pcS0wMnMtUzJfaURoaE1WWGFSM3lGeXpzTzVza185MEZmOTZfdlRWNHoyeGdUNllXRWlkS3JKaTNGai1xVExBWS1tLVRuNDlvdlhmMXJpb2ZiR25WWmFnelZKTmE2OWxVc2twTQ?oc=5",
+      "pub_date": 1764335835.0,
+      "article_url": "https://www.ccn.com/news/crypto/tom-lee-three-reasons-ethereum-beat-bitcoin-can-eth-rally-9000/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Ethereum Leverage Reset Complete \u2013 Time For Market Re-Accumulation?",
@@ -93,18 +103,8 @@
       "article_url": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Arthur Hayes Predicts Collapse of Most Layer 1 Tokens Outside Ethereum and Solana",
-      "source": "Coinpaper",
-      "source_url": "https://coinpaper.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnZXdk42bnJnNkJmdWhQSy01bm5BSnF0U3J3X3RZMHp5Nk82Y3NKQy1aS3hIczFoM3N1RnBpOTVEN1UyakYwOXpaNkUzY1JIVVVHX1FQdEpmLURVX3V6SmpkNmt2bG1UOGtrNDE0U0Vyb1QxR0M4TkVWWnYyTnMtMGkta3I5c1BoMG5fajBDdUpBSHJMamZ1ejdzS0dObHlNOXJUWWRhdS10Ul9vTmc?oc=5",
-      "pub_date": 1764445896.0,
-      "article_url": "https://coinpaper.com/12754/arthur-hayes-predicts-collapse-of-most-layer-1-tokens-outside-ethereum-and-solana",
-      "image": "https://res.coinpaper.com/coinpaper/image/upload/v1764445718/shutterstock_2108025419_f807a3ca1c.jpg",
-      "description": "Arthur Hayes warns most new L1s will fade, highlighting Ethereum and Solana as the only strong long-term blockchain contenders."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T23:57:27.111165+00:00"
+  "fetched_at": "2025-12-01T02:27:42.624800+00:00"
 }

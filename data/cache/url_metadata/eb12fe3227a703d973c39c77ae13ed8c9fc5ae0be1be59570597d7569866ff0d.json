@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-12-01T02:27:24.218851+00:00",
+  "data": {
+    "url": "https://www.phoronix.com/news/Intel-Gaudi-3-Open-Source",
+    "title": "Intel Finally Posts Open-Source Gaudi 3 Driver Code For The Linux Kernel",
+    "description": "The good news is that Intel tonight posted a pull request for open-source Gaudi 3 accelerator support for the mainline Linux kernel! The bad news is that it's coming quite late in the product cycle, much later than the former excellent Habana Labs open-source track record, and their hopes of squeezing this code into the Linux 6.19 kernel may be dashed.",
+    "image": "https://www.phoronix.net/image.php?id=2025&image=gaudi",
+    "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+    "site_name": null,
+    "author": null,
+    "keywords": "Phoronix, Linux Hardware Reviews, Linux hardware benchmarks, Linux server benchmarks, Linux benchmarking, Desktop Linux, Linux performance, Open Source graphics, Linux How To, Ubuntu benchmarks, Ubuntu hardware, Phoronix Test Suite"
+  }
+}

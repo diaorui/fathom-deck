@@ -13,6 +13,28 @@
       "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
     },
     {
+      "title": "fully autonomous robot with object following using a prompt",
+      "author": "HudZah",
+      "url": "https://www.reddit.com/r/robotics/comments/1payu3g/fully_autonomous_robot_with_object_following/",
+      "published": 1764550469.0,
+      "thumbnail": "https://external-preview.redd.it/bzhyaXB1emNxaDRnMdOz18-PxprpydyeRkxr2Df0ks0HOYWg5fZPLe7xGu53.png?width=640&crop=smart&auto=webp&s=13814da85e98e31558566a3858ad0283d2860cee",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "fully autonomous robot with object following using a prompt",
+      "author": "HudZah",
+      "url": "https://www.reddit.com/r/robotics/comments/1payudz/fully_autonomous_robot_with_object_following/",
+      "published": 1764550489.0,
+      "thumbnail": "https://external-preview.redd.it/MnkwcjMwNGpxaDRnMYQEronzxsk_pYpGYWAabTzuSsUm-gaOUeRMam4dibU2.png?width=640&crop=smart&auto=webp&s=c141644e48b0149733cbffb487bf2f75ec2e58ac",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Looking for feedback on a ROS observability/debugging tool",
       "author": "One_Criticism_6156",
       "url": "https://www.reddit.com/r/robotics/comments/1pawh0n/looking_for_feedback_on_a_ros/",
@@ -22,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey fellow devs! For the past month I've been building a compact observability tool for ROS and I thought it would be wise to get some feedback from the community before building further. I've got a demo running on my local machine with some basic features like node/topic introspection, live telemetry/logs with filtering, play/pause, topic sub/pub and a chat with the context of the whole robots live state and logs to make it easier to get a grasp of whats happening. If anyones open to giving feedback based on the early prototype, I'd massively appreciate it, whether it is positive or negative, everything is welcome. Also let me know if you'd be open to trying it out. I'll send you a dm once the mvp is ready. https://reddit.com/link/1pawh0n/video/uwdum1dk8h4g1/player"
+    },
+    {
+      "title": "running EdgeTAM to do persistent tracking and following on a robot",
+      "author": "HudZah",
+      "url": "https://www.reddit.com/r/robotics/comments/1payrg5/running_edgetam_to_do_persistent_tracking_and/",
+      "published": 1764550267.0,
+      "thumbnail": "https://external-preview.redd.it/czRvNW44d3NwaDRnMdOz18-PxprpydyeRkxr2Df0ks0HOYWg5fZPLe7xGu53.png?width=640&crop=smart&auto=webp&s=ff57ce4f4e9c8d776ef7fb9fd38ebee4821c65b5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "For home robots, does a humanoid form factor actually make engineering sense?",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I'm working on a robotic arm project and I'm looking into using this planetary gearbox for a Nema 17 motor. https://preview.redd.it/0llh5gy8ua4g1.png?width=901&format=png&auto=webp&s=ecc0809169212c217ea7a276f67be90dd66b5077 https://preview.redd.it/jqqcigy8ua4g1.png?width=816&format=png&auto=webp&s=fb3e27aeb56050f4ab9138fee032c9471cc2b9b2 According to my calculations, the reduction is going to be 3:1 I think maybe it's not going to work well, not necessarily because they are planetary gears, but mostly because the ratio seems too low. What do you all think? Any experience with this or suggestions for better gearboxes for a Nema 17 in a robotic arm?"
-    },
-    {
-      "title": "Christmas lights",
-      "author": "Actual_Requirement58",
-      "url": "https://www.reddit.com/r/robotics/comments/1padw9v/christmas_lights/",
-      "published": 1764493803.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Today I set up the Christmas tree. The hardest part was untangling last years knot of lights. A electrical cord with lights, all serated in a little plastic tree design, and perfectly designed for entangement and knotting. My 7 year old tried for half an hour and couldn't do it.It took me the whole hour I reckon. My question to the community; how would robotics go at a job like this? There's times when you just need to be gentle and pull, and others when you really do need to unknot it. It's as tricky as they come."
-    },
-    {
-      "title": "Actuator/servo",
-      "author": "NoIntern2903",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9xup1/actuatorservo/",
-      "published": 1764445370.0,
-      "thumbnail": "https://a.thumbs.redditmedia.com/YP9Klcl1OT6-6xAMhULhsiYLepWK0L5m_fJh0PPffe4.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Many in the RC community haven\u2019t been able to help a lot in these regards. Im struggling to get my servo programmed how I want it to for my RC snow plow and I\u2019m not sure how to program two actuators to act as my angle method so one comes in when the other pushes out and vice versa the other direction. Currently I\u2019m using an RC winch controller board on my RX to TX as my lift actuator and it works. When I tried to program two actuators to do as I wanted with the opposite wires tied together i think wires crossed and shorted the controller board. But I don\u2019t think ot could handle two actuators anyways. I\u2019m really wanting to keep this a simple build using a single battery if possible and on one TX. Any help appreciated. Pics are of my plow."
-    },
-    {
-      "title": "Looking to join any embedded project (STM32, CAN, AURIX, 8051)",
-      "author": "Administrative_Path3",
-      "url": "https://www.reddit.com/r/robotics/comments/1pa3w1z/looking_to_join_any_embedded_project_stm32_can/",
-      "published": 1764461220.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-30T23:57:15.737188+00:00"
+  "fetched_at": "2025-12-01T02:27:27.887188+00:00"
 }

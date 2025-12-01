@@ -54,7 +54,7 @@
       "num_comments": 3,
       "published_at": "2025-11-24T12:59:59.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/HunyuanOCR",
-      "github_stars": 845,
+      "github_stars": 878,
       "project_page": null
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
-      "github_stars": 4188,
+      "github_stars": 4201,
       "project_page": "https://ai.meta.com/sam3d/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-30T23:19:22.304473+00:00"
+  "fetched_at": "2025-12-01T02:27:25.038344+00:00"
 }

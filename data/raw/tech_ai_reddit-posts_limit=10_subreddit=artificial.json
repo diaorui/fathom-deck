@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Perplexity permabanned me in their official sub for citing their own documentation to expose \"Deep Research\" false advertising and massive downgrade.",
-      "author": "somnolentjam90",
-      "url": "https://www.reddit.com/r/artificial/comments/1pawnrw/perplexity_permabanned_me_in_their_official_sub/",
-      "published": 1764544707.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am writing this as a warning to anyone paying for Perplexity Pro expecting the advertised \"Deep Research\" capabilities. TL;DR: I proved, using Perplexity's own active documentation and official launch blog, that their \"Deep Research\" agent is severely throttled and not meeting its contractual specifications. The community validated my findings (my post reached 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page). Instead of addressing the issue, the moderators permanently banned me and removed the thread to silence the discussion. The Full Story: I have been a Pro subscriber specifically for the \"Deep Research\" feature, which is sold as an \"Autonomous Agent\" that \"reads hundreds of sources\" and takes \"4-5 minutes\" to reason through complex tasks and deliver a comprehensive report. To prove that these are the official specs, I am providing both the current live links and archived snapshots from the Wayback Machine (to prove these have been the consistent standard for months and to prevent potential stealth edits). Official Help Center Documentation: [Current Live Link] | [Wayback Machine Snapshot (Sept 8, 2025)] Official Launch Blog: [Current Live Link] | [Wayback Machine Snapshot (Aug 2, 2025)] (Note: I attempted to capture fresh snapshots of the pages today to confirm their current state, but the Wayback Machine is returning errors/incomplete rendering for the new captures. The provided snapshots from Aug/Sept are the most recent stable versions and confirm these specs have been the published standard for months.) Recently (some months), the service degraded massively. My \"Deep Research\" queries were finishing in 30 seconds with only 10-15 sources, essentially behaving like a standard search wrapper but sold at a premium. I posted (here) a detailed analysis on their official subreddit. I didn't attack anyone; I simply compared their Official Help Center Documentation and Launch Blog against the actual Product Output: Advertised Spec: \"Reads hundreds of sources\" / \"Takes 4-5 minutes\". Actual Reality: Reads ~10 sources / Takes ~30 seconds. The community rallied behind my post. 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page. It became a hub for other users confirming the same throttling. It was a legitimate customer complaint backed by data. Today, I received a Permanent Ban and the thread got deleted. No warning. No explanation of which rule I broke. Just a permanent ban for the 'offense' of holding them accountable to their own written promises. The Takeaway: This confirms that Perplexity is likely throttling compute on their premium features to save costs and is using censorship to hide it. If you rely on Perplexity for your workflow, be careful. They will degrade the product you rely on without warning, and the moment you provide evidence of the decline, they will silence you rather than fix it."
-    },
-    {
       "title": "Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: 'It makes no sense,' he says, because 'AI will be involved in nearly all future production'",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1pax65n/epic_boss_tim_sweeney_thinks_stores_like_steam/",
@@ -22,6 +11,17 @@
       "site_name": "PC Gamer",
       "favicon": "https://vanilla.futurecdn.net/pcgamer/1482179/apple-touch-icon.png",
       "description": "Don't need a notice if everyone's doing it."
+    },
+    {
+      "title": "Perplexity permabanned me in their official sub for citing their own documentation to expose \"Deep Research\" false advertising and massive downgrade.",
+      "author": "somnolentjam90",
+      "url": "https://www.reddit.com/r/artificial/comments/1pawnrw/perplexity_permabanned_me_in_their_official_sub/",
+      "published": 1764544707.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am writing this as a warning to anyone paying for Perplexity Pro expecting the advertised \"Deep Research\" capabilities. TL;DR: I proved, using Perplexity's own active documentation and official launch blog, that their \"Deep Research\" agent is severely throttled and not meeting its contractual specifications. The community validated my findings (my post reached 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page). Instead of addressing the issue, the moderators permanently banned me and removed the thread to silence the discussion. The Full Story: I have been a Pro subscriber specifically for the \"Deep Research\" feature, which is sold as an \"Autonomous Agent\" that \"reads hundreds of sources\" and takes \"4-5 minutes\" to reason through complex tasks and deliver a comprehensive report. To prove that these are the official specs, I am providing both the current live links and archived snapshots from the Wayback Machine (to prove these have been the consistent standard for months and to prevent potential stealth edits). Official Help Center Documentation: [Current Live Link] | [Wayback Machine Snapshot (Sept 8, 2025)] Official Launch Blog: [Current Live Link] | [Wayback Machine Snapshot (Aug 2, 2025)] (Note: I attempted to capture fresh snapshots of the pages today to confirm their current state, but the Wayback Machine is returning errors/incomplete rendering for the new captures. The provided snapshots from Aug/Sept are the most recent stable versions and confirm these specs have been the published standard for months.) Recently (some months), the service degraded massively. My \"Deep Research\" queries were finishing in 30 seconds with only 10-15 sources, essentially behaving like a standard search wrapper but sold at a premium. I posted a detailed analysis on their official subreddit. I didn't attack anyone; I simply compared their Official Help Center Documentation and Launch Blog against the actual Product Output: Advertised Spec: \"Reads hundreds of sources\" / \"Takes 4-5 minutes\". Actual Reality: Reads ~10 sources / Takes ~30 seconds. The community rallied behind my post. 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page. It became a hub for other users confirming the same throttling. It was a legitimate customer complaint backed by data. Today, I received a Permanent Ban and the thread got deleted. No warning. No explanation of which rule I broke. Just a permanent ban for the 'offense' of holding them accountable to their own written promises. The Takeaway: This confirms that Perplexity is likely throttling compute on their premium features to save costs and is using censorship to hide it. If you rely on Perplexity for your workflow, be careful. They will degrade the product you rely on without warning, and the moment you provide evidence of the decline, they will silence you rather than fix it."
     },
     {
       "title": "Major AI conference flooded with peer reviews written fully by AI",
@@ -46,6 +46,17 @@
       "description": "HelloI! I am part of the team behind Arch-Router (https://huggingface.co/katanemo/Arch-Router-1.5B), which is now being used by HuggingFace to power its HuggingChat experience. Arch-Rotuer is a 1.5B preference-aligned LLM router that guides model selection by matching queries to user-defined domains (e.g., travel) or action types (e.g., image editing). Offering a practical mechanism to encode preferences and subjective evaluation criteria in routing decisions. Today we are extending that approach to Claude Code via Arch Gateway[1], bringing multi-LLM access into a single CLI agent with two main benefits: Model Access: Use Claude Code alongside Grok, Mistral, Gemini, DeepSeek, GPT or local models via Ollama. Preference-aligned routing: Assign different models to specific coding tasks, such as \u2013 Code generation \u2013 Code reviews and comprehension \u2013 Architecture and system design \u2013 Debugging Sample config file to make it all work. llm_providers: # Ollama Models - model: ollama/gpt-oss:20b default: true base_url: http://host.docker.internal:11434 # OpenAI Models - model: openai/gpt-5-2025-08-07 access_key: $OPENAI_API_KEY routing_preferences: - name: code generation description: generating new code snippets, functions, or boilerplate based on user prompts or requirements - model: openai/gpt-4.1-2025-04-14 access_key: $OPENAI_API_KEY routing_preferences: - name: code understanding description: understand and explain existing code snippets, functions, or libraries Why not route based on public benchmarks? Most routers lean on performance metrics \u2014 public benchmarks like MMLU or MT-Bench, or raw latency/cost curves. The problem: they miss domain-specific quality, subjective evaluation criteria, and the nuance of what a \u201cgood\u201d response actually means for a particular user. They can be opaque, hard to debug, and disconnected from real developer needs. [1] Integrated natively via Arch: https://github.com/katanemo/archgw [2] Claude Code support: https://github.com/katanemo/archgw/tree/main/demos/use_cases/claude_code_router"
     },
     {
+      "title": "Intel finally posts open-source Gaudi 3 driver code for the Linux kernel",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1pb03hm/intel_finally_posts_opensource_gaudi_3_driver/",
+      "published": 1764553996.0,
+      "thumbnail": null,
+      "external_url": "https://www.phoronix.com/news/Intel-Gaudi-3-Open-Source",
+      "site_name": "phoronix.com",
+      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+      "description": "The good news is that Intel tonight posted a pull request for open-source Gaudi 3 accelerator support for the mainline Linux kernel! The bad news is that it's coming quite late in the product cycle, much later than the former excellent Habana Labs open-source track record, and their hopes of squeezing this code into the Linux 6.19 kernel may be dashed."
+    },
+    {
       "title": "Fear of AI-driven job displacement nearly doubles in a year: KPMG",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1pah6ht/fear_of_aidriven_job_displacement_nearly_doubles/",
@@ -55,6 +66,17 @@
       "site_name": "Yahoo Finance",
       "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
       "description": "The finding comes as two U.S. senators are pushing legislation that would require some AI-related layoffs\u00a0to be reported to the Labor Department."
+    },
+    {
+      "title": "A Workforce Without Identity: Why Agentic Systems Still Don\u2019t Count in Federal Policy",
+      "author": "caspears76",
+      "url": "https://www.reddit.com/r/artificial/comments/1paywkb/a_workforce_without_identity_why_agentic_systems/",
+      "published": 1764550655.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "AI agents are provisioned in milliseconds with zero identity verification. Your employees? Months of vetting. Your employees? Months of vetting. Machine identities outnumber humans 82-to-1. Average breach with Shadow AI: $4.44M baseline + $600-700K premium. State actors already exploit this. GPT-4 autonomously exploited 87% of one-day vulnerabilities. If you can't verify the agent, you can't audit the decision. Full analysis on Workload Identity \u2b07\ufe0f https://www.linkedin.com/posts/activity-7401047936610029568-3xAc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAI-AboBfo_5WlxYg1bnK6cK50ZR3iQ_cZk"
     },
     {
       "title": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "AI helps drive record $11.8 billion in Black Friday online spending.[1] StepFun AI Releases Step-Audio-R1: A New Audio LLM that Finally Benefits from Test Time Compute Scaling.[2] Musk\u2019s xAI to build small solar farm adjacent to Colossus data center.[3] Are you balding? There\u2019s an AI for that.[4] Sources; [1] https://www.reuters.com/business/retail-consumer/us-consumers-spent-118-billion-black-friday-says-adobe-analytics-2025-11-29/ [2] https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/ [3] https://techcrunch.com/2025/11/26/musks-xai-to-build-small-solar-farm-adjacent-to-colossus-data-center/ [4] https://techcrunch.com/2025/11/26/are-you-balding-theres-an-ai-for-that/"
-    },
-    {
-      "title": "Are we in a GPT-4-style leap that evals can't see?",
-      "author": "malderson",
-      "url": "https://www.reddit.com/r/artificial/comments/1pajold/are_we_in_a_gpt4style_leap_that_evals_cant_see/",
-      "published": 1764513189.0,
-      "thumbnail": "https://external-preview.redd.it/aXspl0HBvr8MJ2QT6jpq-nXVSS5C9PHOBz-8ZSXx180.png?width=640&crop=smart&auto=webp&s=50157b2958234942863a61d8b681a14f30c2da52",
-      "external_url": "https://martinalderson.com/posts/are-we-in-a-gpt4-style-leap-that-evals-cant-see/",
-      "site_name": "Martin Alderson",
-      "favicon": "https://martinalderson.com/apple-touch-icon.png",
-      "description": "Gemini 3 Pro's design capabilities and Opus 4.5's reduced babysitting needs represent a subtle but significant leap that traditional benchmarks completely miss."
-    },
-    {
-      "title": "Is Humanity's Last Exam a benchmark that measures real intelligence for AGI?",
-      "author": "SpecialistBuffalo580",
-      "url": "https://www.reddit.com/r/artificial/comments/1paa4sf/is_humanitys_last_exam_a_benchmark_that_measures/",
-      "published": 1764480035.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "With Grok 4 and Gemini 3 the models have become really good at the known benchmarks like ARC-AGI and HLE. But is it really a proof of intelligence? Does acing these benchmarks truly show capabilities for original research and real understanding? I ask this because I saw an interview with Demis Hassabis from two months ago ans he said that AGI will come with 50 confidence between 5-10 years. He also called \"nonsense\" to the qualification \"PhD Level\" that some.people attribute to the models."
     }
   ],
-  "fetched_at": "2025-11-30T23:57:11.225786+00:00"
+  "fetched_at": "2025-12-01T02:27:24.219735+00:00"
 }

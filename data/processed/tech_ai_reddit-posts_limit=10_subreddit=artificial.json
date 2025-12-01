@@ -46,6 +46,17 @@
       "description": "Don't need a notice if everyone's doing it."
     },
     {
+      "title": "Google CEO warns US AI regulations risk ceding edge to China",
+      "author": "JTHGraphics",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbfm42/google_ceo_warns_us_ai_regulations_risk_ceding/",
+      "published": 1764602765.0,
+      "thumbnail": null,
+      "external_url": "https://thinkautomated.io/news/pichai-warns-patchwork-us-ai-rules-risk-ceding-edge-to-china",
+      "site_name": "thinkautomated.io",
+      "favicon": "https://thinkautomated.io/logo.svg",
+      "description": "Sundar Pichai says a fast-growing patchwork of state AI laws could slow U.S. innovation and hand China an edge unless Congress sets clear national standards. Here\u2019s what he said, how the U.S. debate compares with Europe and China, and what automation leaders should do now."
+    },
+    {
       "title": "Perplexity permabanned me in their official sub for citing their own documentation to expose \"Deep Research\" false advertising and massive downgrade.",
       "author": "somnolentjam90",
       "url": "https://www.reddit.com/r/artificial/comments/1pawnrw/perplexity_permabanned_me_in_their_official_sub/",
@@ -66,17 +77,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Recently, I've observed that responses from ChatGPT, Gemini, and Meta often redirect to paid services or commercial website links. Initially, when I used these models and asked for free alternatives to computer operating systems or cost-free places to visit, they provided excellent recommendations by searching platforms like Reddit and other popular online communities. However, now when I ask similar questions, I receive commercial results. For instance, when I inquire about free family-friendly parks, I receive responses suggesting paid options like, \u201cI couldn\u2019t find free places to visit, but you can enjoy a great family day at [location] for $20 per person.\u201d Similarly, when I ask for tech stores offering affordable laptops, the responses are like, \u201cI wouldn't recommend cheap laptops; consider these websites for quality and productive laptops: apple.com, bestbuy.com,\u201d etc. This shift is puzzling."
-    },
-    {
-      "title": "Google CEO warns US AI regulations risk ceding edge to China",
-      "author": "JTHGraphics",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbfm42/google_ceo_warns_us_ai_regulations_risk_ceding/",
-      "published": 1764602765.0,
-      "thumbnail": null,
-      "external_url": "https://thinkautomated.io/news/pichai-warns-patchwork-us-ai-rules-risk-ceding-edge-to-china",
-      "site_name": "thinkautomated.io",
-      "favicon": "https://thinkautomated.io/logo.svg",
-      "description": "Sundar Pichai says a fast-growing patchwork of state AI laws could slow U.S. innovation and hand China an edge unless Congress sets clear national standards. Here\u2019s what he said, how the U.S. debate compares with Europe and China, and what automation leaders should do now."
     },
     {
       "title": "Flock Uses Overseas Gig Workers to Build its Surveillance AI",
@@ -101,16 +101,16 @@
       "description": "AI agents in law enforcement WEF on agentic shopping trends On-chain agent volume hits ATH A collection of AI Agent Updates! \ud83e\uddf5 1. Staffordshire Police Trials AI Agents for Non-Emergency Calls Third UK force testing AI for 101 service. AI handles simple queries without human involvement, freeing up handlers for 999 emergency calls. Pilot launching early 2026. They are receiving many mixed feelings on this. 2. Kimi AI Launches Agentic Slides with Nano Banana Pro 48H free unlimited access. Features agentic search (Kimi K2), files-to-slides conversion, PPTX export, and designer-level visuals. Turns PDFs, images, and docs into presentations. AI-powered presentation creation. 3. World Economic Forum Analyzes Agentic Shopping Quarter of Americans 18-39 use AI to shop or search for products. 2 in 5 follow AI-generated digital influencer recommendations. Shows evolution of discovery and persuasion. Seems like consumers are warming up to agentic shopping. 4. OpenAI's Atlas Browser Gets New Updates Adds dockable DevTools, safe search toggle, and better ChatGPT responses using Browser memories. Small but mighty update rolling out. Continuous weekly improvements to their browser. 5. Gemini CLI Brings Gemini 3 to Terminal Open-source AI agent now gives Google AI Ultra & Pro users access to Gemini 3. Experiment for Ultra users includes increased usage limits. Command-line agentic workflows. 6. AI Agent Leaks Confidential Deal Information Startup founder's browser AI agent leaked acquisition details to Zoho's Chief Scientist, then sent automated apology. Sparked debate on AI-driven business communication risks. 7. Microsoft Releases Fara-7B Computer Use Agent 7B parameter open-weight model automates web tasks on user devices. Achieves 73.5% success on WebVoyager, 38.4% on WebTailBench. Built with safety safeguards for browser automation. Efficient agentic model for computer use. 8. Anthropic Publishes Guide on Long-Running Agents New engineering article addresses challenges of agents working across many context windows. Drew inspiration from human engineers to create more effective harnesses. Blueprint for agent longevity. 8. Anthropic Publishes Guide on Long-Running Agents New engineering article addresses challenges of agents working across many context windows. Drew inspiration from human engineers to create more effective harnesses. Blueprint for agent longevity. 9. Google DeepMind introduces Evo-Memory - agents that learn from experience Lets LLMs improve over time through experience reuse, not just conversational recall. ReMem + ExpRAG boost accuracy with fewer steps - no retraining needed. 10/ AI Agent volume on Solana hits all-time high Agents x Crypto have infinite use-cases. The data is starting to show it. Measured by agent token origination. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!"
     },
     {
-      "title": "Silicon Valley\u2019s Man in the White House Is Benefiting Himself and His Friends | David Sacks, the Trump administration\u2019s A.I. and crypto czar, has helped formulate policies that aid his Silicon Valley friends and many of his own tech investments.",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbbgfs/silicon_valleys_man_in_the_white_house_is/",
-      "published": 1764591993.0,
-      "thumbnail": null,
-      "external_url": "https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html?unlocked_article_code=1.5E8.F6sq.NxuCTjt2b8Y1&smid=url-share",
-      "site_name": "nytimes.com",
-      "favicon": null,
-      "description": null
+      "title": "More of Silicon Valley is building on free Chinese AI",
+      "author": "boppinmule",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbao22/more_of_silicon_valley_is_building_on_free/",
+      "published": 1764589461.0,
+      "thumbnail": "https://external-preview.redd.it/OmQhaJFYusd_6BoEAmpETVbmV-j9iUqnPAIX8zdt-yE.jpeg?width=640&crop=smart&auto=webp&s=349b2df57a77a2b5df77ab3b848267efef6e4117",
+      "external_url": "https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
     }
   ],
-  "fetched_at": "2025-12-01T16:39:33.613473+00:00"
+  "fetched_at": "2025-12-01T17:30:11.348455+00:00"
 }

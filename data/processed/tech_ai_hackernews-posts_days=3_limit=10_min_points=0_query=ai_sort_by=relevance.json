@@ -23,7 +23,7 @@
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
-      "points": 417,
+      "points": 420,
       "num_comments": 334,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
@@ -31,20 +31,6 @@
       "description": null,
       "favicon": null,
       "site_name": "gpt3experiments.substack.com"
-    },
-    {
-      "title": "Airloom \u2013 3D Flight Tracker",
-      "url": "https://objectiveunclear.com/airloom.html",
-      "hn_url": "https://news.ycombinator.com/item?id=46080289",
-      "author": "azinman2",
-      "points": 267,
-      "num_comments": 104,
-      "created_at": "2025-11-28T16:49:12Z",
-      "object_id": "46080289",
-      "image": "https://objectiveunclear.com/images/airloom.png",
-      "description": "Real-time 3D visualization of aircraft flight paths. Watch live flights with stunning ribbon trails across the sky.",
-      "favicon": "https://objectiveunclear.com/favicon.ico",
-      "site_name": "Air Loom"
     },
     {
       "title": "Flight disruption warning as Airbus requests modifications to 6k planes",
@@ -65,7 +51,7 @@
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 223,
+      "points": 225,
       "num_comments": 78,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
@@ -121,8 +107,8 @@
       "url": "https://arxiv.org/abs/2507.22900",
       "hn_url": "https://news.ycombinator.com/item?id=46089546",
       "author": "victorbuilds",
-      "points": 95,
-      "num_comments": 121,
+      "points": 96,
+      "num_comments": 122,
       "created_at": "2025-11-29T18:14:21Z",
       "object_id": "46089546",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -143,9 +129,23 @@
       "description": "I first got into deep learning in 2012, when AlexNet came out. I was CTO of Jetpac, a startup that aimed to provide information about bars, hotels, and restaurants by analyzing public photos, for e\u2026",
       "favicon": "https://secure.gravatar.com/blavatar/a924aa92ac9016bfe9c773a9e47ccf2fb84df9216b8ca936e25899edc1019dd1?s=114",
       "site_name": "Pete Warden's blog"
+    },
+    {
+      "title": "Ask HN: What is the purpose of all these AI spam comments?",
+      "url": "https://news.ycombinator.com/item?id=46082711",
+      "hn_url": "https://news.ycombinator.com/item?id=46082711",
+      "author": "GaryBluto",
+      "points": 81,
+      "num_comments": 49,
+      "created_at": "2025-11-28T20:58:15Z",
+      "object_id": "46082711",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
     }
   ],
-  "total_hits": 359,
+  "total_hits": 366,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T16:39:32.176823+00:00"
+  "fetched_at": "2025-12-01T17:30:11.186497+00:00"
 }

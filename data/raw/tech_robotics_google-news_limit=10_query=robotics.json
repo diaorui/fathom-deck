@@ -25,16 +25,6 @@
       "description": "Sunday Robotics came out of stealth mode last week and revealed a team stocked with Tesla alumni."
     },
     {
-      "headline": "One million robots drive Amazon\u2019s operation during holidays",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTJJSmNPMEc2WEhkR3gzcGRzSkFFQXZiY1Q0d0t0dktsbGozZUZxckxWVWhFUGtPQWpUS1FhZXlrOXdFLWx4TlotajRqOHp5cFp0LU9VX01GRmsxVF9ZWHZxNzVaVDJZZ1c0NXROSUpGa3dXYVFxWjRPU2FfNDU5d0pR?oc=5",
-      "pub_date": 1764599932.0,
-      "article_url": "https://www.cnn.com/2025/12/01/world/video/amazon-robotics-change-warehouses",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22160871-1875959-3660000002-still.jpg?c=16x9&q=w_800,c_fill",
-      "description": "CNN News Central\u2019s Sara Sidner speaks with Amazon Robotics VP about technology driving Amazon\u2019s holiday rush"
-    },
-    {
       "headline": "CN Energy Group (NASDAQ: CNEY) debuts PATHENBOT robotics platform for North American SME automation",
       "source": "Stock Titan",
       "source_url": "https://www.stocktitan.net",
@@ -43,16 +33,6 @@
       "article_url": "https://www.stocktitan.net/news/CNEY/cn-energy-group-inc-announces-launch-of-pathenbot-robotics-solutions-8clg2yncq3aa.html",
       "image": "https://static.stocktitan.net/company-logo/cney-lg.png",
       "description": "CN Energy\u2019s PATHENBOT unit launches a robotics solutions platform and official website to deliver customizable automation for North American SMEs."
-    },
-    {
-      "headline": "China\u2019s Robotics Stocks Face Investor Scrutiny Over Bubble Fears",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjY4QlJmQVVZazdqekZRcWhjOXBuSFp3ZnZISzIwbW9vZEtYSE9qRzVxUmRuYS1ZSG12NzZXQVV2b05jcldFV0tLdGFWWjVKU24yZ2lZZ0JuSnpIbG1DTlo5eklfVlIwR25QN2ZMUkNia0c4Nk5RRmNPdE50SGN6YlRUU3BWMjVBQldaS1dTcmJpZWM2TzN4bjNLN3lxY0N4djQ4N2hiQWVTa1o1VDVraUF0V2R4QQ?oc=5",
-      "pub_date": 1764374400.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-29/china-s-robotics-stocks-face-investor-scrutiny-over-bubble-fears",
-      "image": null,
-      "description": null
     },
     {
       "headline": "US national debt: Telsa CEO Elon Musk says AI and robotics will solve crisis but lead to deflation",
@@ -79,10 +59,30 @@
       "source": "Teslarati",
       "source_url": "https://www.teslarati.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzlQd0FwRUtZQm9JRG5YNDdzb084bkRzWjYwLThhS24zd2tPVlhCMVVfdy1SSVllcGNja0NWWTd3UllLWVBFY296ZmV4bnJZdzVGRnRMUlZMcGpaV0Z5M2hRMnZJaU0wanJhUXB3QnlXQ3o5M1ZwUXNJQWZYQkRMVWJaWjRoOUNYNF9tXzRHVFY4R0F6cUVB?oc=5",
-      "pub_date": 1764598783.0,
+      "pub_date": 1764577239.0,
       "article_url": "https://www.teslarati.com/elon-musk-predicts-ai-robotics-make-work-optional-within-20-years/",
       "image": "https://www.teslarati.com/wp-content/uploads/2025/11/2048px-Elon_Musk_54817684706-1000x600.jpg",
       "description": "Speaking on entrepreneur Nikhil Kamath\u2019s podcast, Musk predicted that machines will soon handle most forms of labor, leaving humans to work only if they choose to."
+    },
+    {
+      "headline": "One million robots drive Amazon\u2019s operation during holidays",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTJJSmNPMEc2WEhkR3gzcGRzSkFFQXZiY1Q0d0t0dktsbGozZUZxckxWVWhFUGtPQWpUS1FhZXlrOXdFLWx4TlotajRqOHp5cFp0LU9VX01GRmsxVF9ZWHZxNzVaVDJZZ1c0NXROSUpGa3dXYVFxWjRPU2FfNDU5d0pR?oc=5",
+      "pub_date": 1764599932.0,
+      "article_url": "https://www.cnn.com/2025/12/01/world/video/amazon-robotics-change-warehouses",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22160871-1875959-3660000002-still.jpg?c=16x9&q=w_800,c_fill",
+      "description": "CNN News Central\u2019s Sara Sidner speaks with Amazon Robotics VP about technology driving Amazon\u2019s holiday rush"
+    },
+    {
+      "headline": "China\u2019s Robotics Stocks Face Investor Scrutiny Over Bubble Fears",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjY4QlJmQVVZazdqekZRcWhjOXBuSFp3ZnZISzIwbW9vZEtYSE9qRzVxUmRuYS1ZSG12NzZXQVV2b05jcldFV0tLdGFWWjVKU24yZ2lZZ0JuSnpIbG1DTlo5eklfVlIwR25QN2ZMUkNia0c4Nk5RRmNPdE50SGN6YlRUU3BWMjVBQldaS1dTcmJpZWM2TzN4bjNLN3lxY0N4djQ4N2hiQWVTa1o1VDVraUF0V2R4QQ?oc=5",
+      "pub_date": 1764374400.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-29/china-s-robotics-stocks-face-investor-scrutiny-over-bubble-fears",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Inside Amazon\u2019s massive Cyber Monday push at its north Houston robotics facility",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T16:39:52.247451+00:00"
+  "fetched_at": "2025-12-01T17:30:30.246442+00:00"
 }

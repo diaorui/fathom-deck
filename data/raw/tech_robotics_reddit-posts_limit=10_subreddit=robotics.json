@@ -13,6 +13,17 @@
       "description": "From Tuo Liu on \ud835\udd4f: https://x.com/Robo_Tuo/status/1995314021281771644"
     },
     {
+      "title": "First real test of my tabletop robots",
+      "author": "Adventurous_Swan_712",
+      "url": "https://www.reddit.com/r/robotics/comments/1pbhwpf/first_real_test_of_my_tabletop_robots/",
+      "published": 1764607900.0,
+      "thumbnail": "https://external-preview.redd.it/aHZnOTl3eTdobTRnMRnKugMmOHTGB4yA-VR18AaSSDdbqEgYxF28Ho7JAicN.png?width=640&crop=smart&auto=webp&s=f59b5f4a0e7c8d15b08b6e3d4e4fe0d5296e4f6d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "4 motors robot crawler",
       "author": "Archyzone78",
       "url": "https://www.reddit.com/r/robotics/comments/1pb5i5b/4_motors_robot_crawler/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey all, I\u2019m trying to get my head around the latest research reports on China and hardware/AI: \u201cCity Researches China Humanoid\u201d 23 Nov 2025 \u201cSupply Chain Field Trip\u201d 7 Nov 2025 (Goldman Sachs) If anyone's read them , would love to discuss and share notes. Thanks!"
-    },
-    {
-      "title": "First live test of a laser-based local obstacle detection concept.",
-      "author": "Independent_Win_Alex",
-      "url": "https://www.reddit.com/r/robotics/comments/1pafmkr/first_live_test_of_a_laserbased_local_obstacle/",
-      "published": 1764500415.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video"
     }
   ],
-  "fetched_at": "2025-12-01T16:39:36.228745+00:00"
+  "fetched_at": "2025-12-01T17:30:15.688174+00:00"
 }

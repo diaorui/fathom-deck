@@ -8,10 +8,10 @@
       "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
       "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
       "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
-      "stars": 3802,
+      "stars": 3827,
       "stars_display": "3.8k",
-      "forks": 296,
-      "forks_display": "296",
+      "forks": 297,
+      "forks_display": "297",
       "language": null,
       "topics": [
         "gemini",
@@ -46,10 +46,10 @@
       "description": "\u4e00\u4e2a\u96c6\u5185\u5bb9\u7b56\u5212\u3001AI\u6587\u6848\u81ea\u52a8\u751f\u6210\u3001TTS \u6279\u91cf\u81ea\u52a8\u914d\u97f3\u3001(AI)\u56fe\u7247\u7d20\u6750\u5408\u6210\u3001ASR\u81ea\u52a8\u63d0\u53d6\u8bed\u8a00\u5b57\u5e55\u811a\u672c\u3001AI\u81ea\u7531\u521b\u4f5c\u4e8e\u4e00\u4f53\u7684(\u77ed\u89c6\u9891)\u751f\u6210\u5de5\u4f5c\u7ad9\u3002\u65b9\u4fbf\u7ba1\u7406\u6bcf\u671f\u7684\u89c6\u9891\u9879\u76ee\u3002",
       "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
       "preview_image": "https://opengraph.githubassets.com/0ca6ecdb80ca700af163d1d6071825efe12a7b8e56fcb982f95131834556cf81/Norsico/Video-Materials-AutoGEN-Workstation",
-      "stars": 986,
-      "stars_display": "986",
-      "forks": 198,
-      "forks_display": "198",
+      "stars": 989,
+      "stars_display": "989",
+      "forks": 199,
+      "forks_display": "199",
       "language": "Python",
       "topics": [],
       "updated_at": "2025-11-30T05:04:02Z"
@@ -81,10 +81,10 @@
       "description": "\ud83c\udf4cAwesome Prompts; Nano Banana\uff1bBanana Pro; Gemini\uff1bAI Studio\uff1bPrompt Quickly [\u5546\u5e97\u7248\u672c 1.2.1\uff0c\u6700\u65b0\u7248\u672c 1.3.0+\uff0c\u53ef\u9009\u62e9\u672c\u5730\u5b89\u88c5\u62a2\u5148\u4f53\u9a8c\u65b0\u529f\u80fd\uff0c\u5177\u4f53\u7248\u672c\u5dee\u5f02\u89c1\u4e0b\u65b9 release note]",
       "url": "https://github.com/glidea/banana-prompt-quicker",
       "preview_image": "https://opengraph.githubassets.com/375bae68ecaebf0a1a49c1a03fbc952041dce80eafd55379af04e509b5155928/glidea/banana-prompt-quicker",
-      "stars": 971,
-      "stars_display": "971",
-      "forks": 80,
-      "forks_display": "80",
+      "stars": 973,
+      "stars_display": "973",
+      "forks": 81,
+      "forks_display": "81",
       "language": "JavaScript",
       "topics": [
         "banana",
@@ -110,6 +110,27 @@
       "updated_at": "2025-12-01T15:19:09Z"
     },
     {
+      "full_name": "Ryandonofrio3/osgrep",
+      "name": "osgrep",
+      "owner": "Ryandonofrio3",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/97113725?v=4",
+      "description": "Open Source Semantic Search for your AI Agent",
+      "url": "https://github.com/Ryandonofrio3/osgrep",
+      "preview_image": "https://opengraph.githubassets.com/d6f904bedb3bcbfddcb55a5ebb459b30a448d7a9be6f868c8f862737aa9dd35f/Ryandonofrio3/osgrep",
+      "stars": 744,
+      "stars_display": "744",
+      "forks": 35,
+      "forks_display": "35",
+      "language": "TypeScript",
+      "topics": [
+        "colbert",
+        "embeddings",
+        "grep",
+        "grep-search"
+      ],
+      "updated_at": "2025-11-29T08:06:54Z"
+    },
+    {
       "full_name": "HugeCatLab/ChatTutor",
       "name": "ChatTutor",
       "owner": "HugeCatLab",
@@ -132,27 +153,6 @@
       "updated_at": "2025-11-28T01:24:06Z"
     },
     {
-      "full_name": "Ryandonofrio3/osgrep",
-      "name": "osgrep",
-      "owner": "Ryandonofrio3",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/97113725?v=4",
-      "description": "Open Source Semantic Search for your AI Agent",
-      "url": "https://github.com/Ryandonofrio3/osgrep",
-      "preview_image": "https://opengraph.githubassets.com/d6f904bedb3bcbfddcb55a5ebb459b30a448d7a9be6f868c8f862737aa9dd35f/Ryandonofrio3/osgrep",
-      "stars": 741,
-      "stars_display": "741",
-      "forks": 35,
-      "forks_display": "35",
-      "language": "TypeScript",
-      "topics": [
-        "colbert",
-        "embeddings",
-        "grep",
-        "grep-search"
-      ],
-      "updated_at": "2025-11-29T08:06:54Z"
-    },
-    {
       "full_name": "vercel-labs/workflow-builder-template",
       "name": "workflow-builder-template",
       "owner": "vercel-labs",
@@ -162,15 +162,15 @@
       "preview_image": "https://opengraph.githubassets.com/72db0c49d80ccd40e873d2536b63bb4020ee63c1b7898694a5676d8f7b99ed40/vercel-labs/workflow-builder-template",
       "stars": 734,
       "stars_display": "734",
-      "forks": 109,
-      "forks_display": "109",
+      "forks": 110,
+      "forks_display": "110",
       "language": "TypeScript",
       "topics": [
         "agents",
         "ai",
         "workflows"
       ],
-      "updated_at": "2025-12-01T15:47:11Z"
+      "updated_at": "2025-12-01T16:38:33Z"
     },
     {
       "full_name": "AnandChowdhary/continuous-claude",
@@ -199,6 +199,6 @@
   "search_query": "ai created:>2025-11-01",
   "days": 30,
   "limit": 10,
-  "total_count": 219083,
-  "fetched_at": "2025-12-01T15:48:39.858744+00:00"
+  "total_count": 219626,
+  "fetched_at": "2025-12-01T16:58:41.171359+00:00"
 }

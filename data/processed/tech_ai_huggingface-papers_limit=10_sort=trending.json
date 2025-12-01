@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 68,
+      "upvotes": 69,
       "num_comments": 1,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
@@ -77,25 +77,6 @@
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
-      "id": "2511.19575",
-      "title": "HunyuanOCR Technical Report",
-      "authors": "Hunyuan Vision Team, Pengyuan Lyu, Xingyu Wan et al. (26 authors)",
-      "organization_name": "Tencent-Hunyuan",
-      "organization_fullname": "Tencent Hunyuan",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
-      "summary": "This paper presents HunyuanOCR, a commercial-grade, open-source, and lightweight (1B parameters) Vision-Language Model (VLM) dedicated to OCR tasks. The architecture comprises a Native Vision Transformer (ViT) and a lightweight LLM connected via an MLP adapter. HunyuanOCR demonstrates superior performance, outperforming commercial APIs, traditional pipelines, and larger models (e.g., Qwen3-VL-4B). Specifically, it surpasses current public solutions in perception tasks (Text Spotting, Parsing) and excels in semantic tasks (IE, Text Image Translation), securing first place in the ICDAR 2025 DIMT Challenge (Small Model Track). Furthermore, it achieves state-of-the-art (SOTA) results on OCRBench among VLMs with fewer than 3B parameters.\n  HunyuanOCR achieves breakthroughs in three key aspects: 1) Unifying Versatility and Efficiency: We implement comprehensive support for core capabilities including spotting, parsing, IE, VQA, and translation within a lightweight framework. This addresses the limitations of narrow \"OCR expert models\" and inefficient \"General VLMs\". 2) Streamlined End-to-End Architecture: Adopting a pure end-to-end paradigm eliminates dependencies on pre-processing modules (e.g., layout analysis). This fundamentally resolves error propagation common in traditional pipelines and simplifies system deployment. 3) Data-Driven and RL Strategies: We confirm the critical role of high-quality data and, for the first time in the industry, demonstrate that Reinforcement Learning (RL) strategies yield significant performance gains in OCR tasks.\n  HunyuanOCR is officially open-sourced on HuggingFace. We also provide a high-performance deployment solution based on vLLM, placing its production efficiency in the top tier. We hope this model will advance frontier research and provide a solid foundation for industrial applications.",
-      "ai_summary": "HunyuanOCR, a lightweight Vision-Language Model, achieves state-of-the-art performance in OCR tasks through a unified end-to-end architecture combining Vision Transformer and lightweight LLM, supported by data-driven and RL strategies.",
-      "hf_url": "https://huggingface.co/papers/2511.19575",
-      "arxiv_url": "https://arxiv.org/abs/2511.19575",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19575.png",
-      "upvotes": 18,
-      "num_comments": 3,
-      "published_at": "2025-11-24T12:59:59.000Z",
-      "github_repo": "https://github.com/Tencent-Hunyuan/HunyuanOCR",
-      "github_stars": 946,
-      "project_page": null
-    },
-    {
       "id": "2410.05779",
       "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
       "authors": "Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)",
@@ -112,6 +93,25 @@
       "published_at": "2024-10-08T04:00:12.000Z",
       "github_repo": "https://github.com/hkuds/lightrag",
       "github_stars": 24985,
+      "project_page": null
+    },
+    {
+      "id": "2511.19575",
+      "title": "HunyuanOCR Technical Report",
+      "authors": "Hunyuan Vision Team, Pengyuan Lyu, Xingyu Wan et al. (26 authors)",
+      "organization_name": "Tencent-Hunyuan",
+      "organization_fullname": "Tencent Hunyuan",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
+      "summary": "This paper presents HunyuanOCR, a commercial-grade, open-source, and lightweight (1B parameters) Vision-Language Model (VLM) dedicated to OCR tasks. The architecture comprises a Native Vision Transformer (ViT) and a lightweight LLM connected via an MLP adapter. HunyuanOCR demonstrates superior performance, outperforming commercial APIs, traditional pipelines, and larger models (e.g., Qwen3-VL-4B). Specifically, it surpasses current public solutions in perception tasks (Text Spotting, Parsing) and excels in semantic tasks (IE, Text Image Translation), securing first place in the ICDAR 2025 DIMT Challenge (Small Model Track). Furthermore, it achieves state-of-the-art (SOTA) results on OCRBench among VLMs with fewer than 3B parameters.\n  HunyuanOCR achieves breakthroughs in three key aspects: 1) Unifying Versatility and Efficiency: We implement comprehensive support for core capabilities including spotting, parsing, IE, VQA, and translation within a lightweight framework. This addresses the limitations of narrow \"OCR expert models\" and inefficient \"General VLMs\". 2) Streamlined End-to-End Architecture: Adopting a pure end-to-end paradigm eliminates dependencies on pre-processing modules (e.g., layout analysis). This fundamentally resolves error propagation common in traditional pipelines and simplifies system deployment. 3) Data-Driven and RL Strategies: We confirm the critical role of high-quality data and, for the first time in the industry, demonstrate that Reinforcement Learning (RL) strategies yield significant performance gains in OCR tasks.\n  HunyuanOCR is officially open-sourced on HuggingFace. We also provide a high-performance deployment solution based on vLLM, placing its production efficiency in the top tier. We hope this model will advance frontier research and provide a solid foundation for industrial applications.",
+      "ai_summary": "HunyuanOCR, a lightweight Vision-Language Model, achieves state-of-the-art performance in OCR tasks through a unified end-to-end architecture combining Vision Transformer and lightweight LLM, supported by data-driven and RL strategies.",
+      "hf_url": "https://huggingface.co/papers/2511.19575",
+      "arxiv_url": "https://arxiv.org/abs/2511.19575",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19575.png",
+      "upvotes": 18,
+      "num_comments": 3,
+      "published_at": "2025-11-24T12:59:59.000Z",
+      "github_repo": "https://github.com/Tencent-Hunyuan/HunyuanOCR",
+      "github_stars": 963,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-01T18:21:56.594763+00:00"
+  "fetched_at": "2025-12-01T19:21:59.168030+00:00"
 }

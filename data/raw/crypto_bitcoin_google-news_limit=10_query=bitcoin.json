@@ -5,64 +5,44 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "BTC, ETH, XRP Price News: Bitcoin Drops to $87K Amid Yearn's yETH Exploit",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmRWZTFLRXd2bUhLZW9lajhwSTVSOS1ZdFdUZnVUS0ZhT2JyVmtVVzJjdHNjUzlfcTRNcTM0RS11TGlEdlUwZlp6cTY4dkgtU09tWjNzd3lTRmNzVnU3S0F6RDZGQlQzY0JKdW9nbHlUSHM4b3JVeEhXcDNxYXhiZ1lKbmRjUmpMRHU1aU9iZmhXa2VyU2VJUEx2VFFPVm5TSndEYmo0VQ?oc=5",
-      "pub_date": 1764560700.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/01/bitcoin-ether-xrp-slide-as-december-begins-with-yearn-attack",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/25db3d30a9c7dba441732664498c65887047d7fe-1500x1001.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Major cryptocurrencies fell early Monday, continuing the November downtrend."
+      "headline": "Bitcoin, Ethereum fall sharply as crypto sell-off resumes",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
+      "pub_date": 1764574221.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
-      "headline": "Bitcoin Falls as Prospect of Rate Rise in Japan Spooks Investors",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNcEZJRkl5aDRlQmc0Ry1seGZsb1pVVmw4X2FzNHA4YlU4aktpNGc3aFJ2LWttTzRmREFuZGk4cUNrNlFXaHQ0SDNSMHJFSFNrQTduWTgyZlZxNUJZU2pfSWtVSWRwRWhYNVhvN1AydlYyWmJMQXJWUE1Sc2J0SmFHcWY4TG01cTNOUWRxMGU5bFE0bUdQa1hPaDBIRmNCemd0UE1TdWlIeWF3V0hjZEUySHJFTXJiTTZlS3psUEpnTFNnbUtidXpIcVFDUUs4YnlMT1FiLWY1MlZNblNQVTNoZkJTaG0wMnVKRUh2dTUwY1JhTlhrMF9aMjQyNHc1Y01LVTVrM0VkRnpzNUg4QmM3REtsdVRDOUpRd3ZjcDd5MlVDX2ZWZXZFZ3N4bnZaOG4ycFk1enBzcU92TWhfUXdBcnJtSWhTTmpiZnozVTZqdG9XWVJ2bHRJYlUzT21NZzBZRTBSalNPSzNGSEMzdzB4SXV0WDlrOUZkeWdPUWc0TkFoQmJOdjc0cGotNGs1WVlyazdRUXdmYnJfTmxNcXoxOGwzVEtZcUJ1dGM3OEsxVHU3TDZJdUlsNXEzR055UQ?oc=5",
-      "pub_date": 1764582360.0,
-      "article_url": "https://www.wsj.com/economy/central-banking/bitcoin-falls-as-prospect-of-rate-rise-in-japan-spooks-investors-fa092c73?gaa_at=eafs&gaa_n=AWEtsqc4_QcYvueN35k_6xrLfRKV-_nFRrpt0HHR1sVtJU5qwrp3G2zX7YTC&gaa_ts=692d6a33&gaa_sig=Pq-cv0VuiqqKnkg19itxOzIQ-istM03ZKGHOJLknrl8Gf4JF7E6BNCYuxgMP_zUdME1W_7BTgmrXtgMZgeFb9g%3D%3D",
+      "headline": "Bitcoin Plunges to Below $86,000 in Risk-Off Start to December",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUdmTW5acmg0ZS1VQ1REN1NCSkNKMEdxaElrRFhGcWc1TUZFYVVwOWhXOUxNNTUwdklsWl9wVUJKRXBGQmdjcHFlMEljd1dEV3hZTTJna1NNdWY5ZTc5dm1QX2ZHX3ZoNllRaU9teTFJUFRkamg3b2U5d3l0emU1Qzg5c25OWlg3bzFsMHVOY0ctU0NMSk9UbHNRVE9OTzZocTJvSjZIVldQV0JaV1VOTC12YTVWQQ?oc=5",
+      "pub_date": 1764583419.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-01/bitcoin-btc-slides-to-below-88-000-in-risk-off-start-to-december",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJlucFPfEV8M/v0/1200x800.jpg",
+      "description": "Cryptocurrencies fell sharply on Monday, bringing fresh momentum to a wide-ranging selloff that appeared to have settled."
+    },
+    {
+      "headline": "Bitcoin drops 5% below $90,000; bearish factors rack up",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVUgzOWlhMW9jYVV3Z2hHMFJmSXpTaC1Tb0N3OE1WNXo2eU1MYTVEdWRDNGw4Zk1FVzdFZTIySVRNYTdoQWIwVXVTcnNrZmp1ejViMThIcHA5X3JfRDFTaHk2amlNcHNNNzBsWXRiSkhWNXM4UFBvYm5raEc4WWFxYmo2ZnpCeDdyTDBsa1JZU1loRnVQNXBtVFFXRGRwMDRUQXdBdXVxRVQyVVBr?oc=5",
+      "pub_date": 1764584443.0,
+      "article_url": "https://www.reuters.com/business/finance/bitcoin-falls-5-below-90000-investors-ditch-risk-assets-2025-12-01/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Strategy Insiders Kept Buying Preferred Stock as Bitcoin Price Slid",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOaXlxcWRNNWp2M2hpLW1RQ2JYZFZpLWtSWW9JR0VUeFZObkJRMy13YUU5TXlzbS14X0NGMGpWZ2c0Y0VsMnM3UHVDZjhXS3FCMVo0R3pZNVhLRW1ITXhHZzMzWUUyNWpfOHRpQjdZU2NFNWRCTnZwNUUwTHRUWWF4QzhOSEQ3ZXQxcWdaWERfdEZ6SWRwZC1TWktiUTBPbDdCS1dNTE1LUkVjR1ZicUhGRTRTZnROdW5fVVYzSEZRRXdqZVJFNlRNUWV4SXZUTFZDS3MzbVpzTGVRTnBmWUxaeUZidlN0QmRSNUtTYUNyeG9ZMEVpSkp0YVhqVzEwOG91ZDRYWi1LX2xyamhDQ2hLM3FvcDllX2dFcWdCXzEzN1g5Y1VhS1kzQ0l6cUh1U2ozUHlHR1d5eW9IcUlLNWtZZmRsZThIUWJWVUp6bEVqY1RRR1oxNVM2UVNFTDVEcWRTbFVQSmU2TzhGWWFXbm1CVjlPNlQ1cS1HRXUyQ3VVOUFSNGhG?oc=5",
-      "pub_date": 1764487800.0,
-      "article_url": "https://www.barrons.com/articles/strategy-insiders-bitcoin-buying-79756b79?gaa_at=eafs&gaa_n=AWEtsqdvkQArWgUR8X1eqUj22mu0CjHIw5eM-m3e2D1dUEXg6N_ACtDLBjUW&gaa_ts=692d6a33&gaa_sig=f1p3n15e6Q8hjBmOnp64mGv2THzjfDG6iUu4Q-OjhX4hrVispoo_KrMXGlaCKCv7pyu01vBkJSLoMK_Rc8zTvg%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "21 Rules of Bitcoin",
-      "source": "x.com",
-      "source_url": "https://x.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5NHFLOXVTbnR1SGd0TkNtZVp2NDFaY0Z3V3h2dnExeHhkUVQwYy1sRDVoNXoyMTY3THJGSWVrOXgweDk5a2NNZjNfekNMY1pldm1wNDQxQWE2d1k?oc=5",
-      "pub_date": 1764423803.0,
-      "article_url": "https://x.com/saylor/status/1994764128901370349",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
+      "headline": "Bitcoin, Ethereum, and XRP Crash Triggering $637M in Liquidations",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1BFSTZjVzJNQ2NwRmY5bWplVEhkSndFSml2Wm1ENjBzRWU0eFM2d25haU03Ny1ZaDFWZm96NHAyZUFwQzlQa01xWVBKUmxCSEdPRWFLY1NleGg5Y2xpNjR0QlhKWTUzYVdhUFgwWmFMMWtrd0RqVHpDS3g5MV9ZN3ozNV9mTGFfMmFfZmF6OUZJS2Jn?oc=5",
-      "pub_date": 1764367250.0,
-      "article_url": "https://finance.yahoo.com/news/michael-saylors-microstrategy-moves-billions-220050534.html",
-      "image": "https://media.zenfs.com/en/thestreet_881/d1aa5494f6ca9d52fa64ef014153b18a",
-      "description": "The world's leading Bitcoin (BTC) treasury company, MicroStrategy (Nasdaq: MSTR), now rebranded to Strategy, has been moving billions in BTC. Led by co-founder and executive chairman Michael Saylor, Strategy is a software company that began accumulating Bitcoin in 2020. Now, it is the ..."
-    },
-    {
-      "headline": "Opinion: Bitcoin is now the barometer for the buckwild U.S. economy, and it looks bad",
-      "source": "The Globe and Mail",
-      "source_url": "https://www.theglobeandmail.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTHJTSG00aHdiY2hMWWRiT1pfQ0VaaGYwdkNHQjdEZkxiUmFNaUE2VU5Od0Z4MEpwNk54ck56RzI4ZWtEd192bF9HVnN0azZIT3RYUXBiNjYxYm5OalUtUkNYQzRPYzZrUjkzS2tCZHhEaDlENlVydk9ncVRsNjBXWXZjZldYRFV0MDBuT3Q4UzJzYm1pY1VIQktvQmtBeUZzaWxTWEFlLTN6WS1KSHNKNHF4MWFuZjdLelVJdDlPbk1zVm80LWc?oc=5",
-      "pub_date": 1764410400.0,
-      "article_url": "https://www.theglobeandmail.com/business/commentary/article-bitcoin-is-now-the-barometer-for-the-us-economy-and-it-doesnt-look/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/PFVA5JTNDJFNTKJQFNVHZRDBLY.jpg?auth=18c50b3034ef23f4f9f3f64d081246543c7c3f53afbd19c8209c457ea0e27451&width=1200&height=800&quality=80&smart=true",
-      "description": "The next Fed Reserve rate-setting meeting could offer a signpost to bitcoin\u2019s performance in 2026"
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NNVTQ2dXBON1ptWUp5X3ZWQ2RtUEYxRHl1Yk52MEh1c1FZVHZYU1hnaU9vSGRFNUo0UTlybkZtWUdocEc1dDZBSTdmNnczVDdUSkRuVnlxbWxJWHZ0TE9jd3VCYXVmUmJLRmI4dEtQZnVabmxfNU9yV3FtZFJZS2I3aWNEdWRqenRN?oc=5",
+      "pub_date": 1764582811.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-xrp-crash-triggering-095331056.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ly7._RAmZ3AmoH9Q85_u5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/d47b3cb386575b0d23d2abbef9ca49f3",
+      "description": "A weekend crypto crash triggered $524M in liquidations, with fears over Tether's stability and DAT selling pressure acting as key catalysts."
     },
     {
       "headline": "Spot bitcoin ETF outflows hit $3.5 billion in November, largest monthly outflow since February",
@@ -75,16 +55,6 @@
       "description": null
     },
     {
-      "headline": "Russian investors flock to Bitcoin, Ethereum funds as crypto adoption gathers pace",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDNGalNTc0VzYURYZW5lRWtXTHItd0FIT3E5VXBNNmh6dTdnb3FOSVIxUTFrMTNrczVFMy02c1JHRENjTU9oekc0T1hzYmI2a1d3YV9RdW9Bb21iZGJETUVvNmVSZnZUUFFDMm51UlA2MDhnY2FTVW5sdE1CVS1UazNNT1V1cXBhOTR1a0lvTQ?oc=5",
-      "pub_date": 1764513552.0,
-      "article_url": "https://finance.yahoo.com/news/russian-investors-flock-bitcoin-ethereum-143912519.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/hq3Rdrsc6qfeQhLm6H9X1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/0c081dcfcc052285c5c5a56016f4993e",
-      "description": "Russians spend over $27 million on Bitcoin, Ethereum funds since June-July launch. Funds are operated by Moscow Exchange and based on BlackRock ETFs. Central bank \u2018unbothered\u2019 by sharp rise in popularity."
-    },
-    {
       "headline": "Bitcoin ETFs Are Now BlackRock\u2019s Top Revenue Source, Exec Says",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -95,6 +65,16 @@
       "description": "The firm's US-listed spot bitcoin ETF IBIT, launched in January 2024, reached $70 billion in assets in record time and has generated hundreds of millions in fees."
     },
     {
+      "headline": "Key facts: Bitcoin at $90,330; BlackRock ETFs lead revenue; IBIT sees $2.34B outflows",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUTNzWDdZUEdXUWEtVzNtU1F1ZXRRZDIzT3dOak1WVnBhaWN4SWVXakNKODNKYWhfUVBRd0hIdks5ZFhnV0owc1gzaDFfaC1FLXBLcFVka2pZM1JRWk1KZVBMMHV6d054dlpCTGNBeEhaZ0VSS19ZLUxEbFUwT1dPVHlXVE1wX1JNd2tlRm1UTkladGw2bDJ5RWpCY3o2dFo3VHJHdHRqaFNkWW9sSzY0TExrN2NIYURYVFFnOGZ2dDc0ZzI5YjR5SENaNTA2a19Jd0NjeTFjMDZkUQ?oc=5",
+      "pub_date": 1764547380.0,
+      "article_url": "https://www.tradingview.com/news/tradingview:df80cb09eb219:0-key-facts-bitcoin-at-90-330-blackrock-etfs-lead-revenue-ibit-sees-2-34b-outflows/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": null
+    },
+    {
       "headline": "Here's What History Says to Expect for Bitcoin in December",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -103,8 +83,28 @@
       "article_url": "https://www.fool.com/investing/2025/11/30/heres-what-history-says-to-expect-for-bitcoin-in-d/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843884%2Fbitcoin-rainbow-logo.jpg&w=1200&op=resize",
       "description": "Having low expectations is a great way to feel pleasantly surprised more frequently."
+    },
+    {
+      "headline": "Strategy Insiders Kept Buying Preferred Stock as Bitcoin Price Slid",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNVHFVVjh3SU1ZZXI0UVZkbVMyemk2ZW9qZTEyb1VtaE5vX3RybDlHNnpqXy04M3ZueDc1Ynh6eUZzZDJ4cUpUVERwT01UZEdjV25LMWNvRW1JRk92b2g2M0QzRlo4cGJzOWdFMUhRdEdCUmp5R2RfWTZ3R2g0bzd3T3FiUmxaNGg4Ql9qbGQtTy1hNHZNaHA1RVNTQzMteXBodHp5Nl92N2U0aE04cHdnUGw0bG1LWXdaSHhidWJ2cTJxcjl5eE5IVDlTNEs2QmhVMDMxMWxBTFlpMVFRM0kwTTdvSkdtTW4wdGpQTXFIQmlIR2EwOEc2dDYtRW1rNjJTbTA2Z3puS2dMOC1Ha2xJMnJaM1RRcDNGSFFsN3RSM3c1NlF3aTdvY1JZSFN5MXpsUGFjRU90TDZxWDlUVWRza3Z2RjdYYVVGVHJUcFZMXzFmaktZcFJ4OTJKOUtPOS1LS014WWl3NVIwc1FCTVBFSVFoSHY0dzdTSWh2aDJXcEFyVnRv?oc=5",
+      "pub_date": 1764487800.0,
+      "article_url": "https://www.barrons.com/articles/strategy-insiders-bitcoin-buying-79756b79?gaa_at=eafs&gaa_n=AWEtsqfDumWGcyZGXR73M6nMu2DcykLEnhvRmz03haS0XuSwOGnXPcAfynqG&gaa_ts=692d72a4&gaa_sig=ogrWDS7O2ZLfoqUXWgaeI-4eUET8i2zW86sJZ6G3TA3CPAXS9PFEwZ4nMhq5oIapjvyMXA6ca7JSLAtGmv2fUQ%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "21 Rules of Bitcoin",
+      "source": "x.com",
+      "source_url": "https://x.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5NHFLOXVTbnR1SGd0TkNtZVp2NDFaY0Z3V3h2dnExeHhkUVQwYy1sRDVoNXoyMTY3THJGSWVrOXgweDk5a2NNZjNfekNMY1pldm1wNDQxQWE2d1k?oc=5",
+      "pub_date": 1764423803.0,
+      "article_url": "https://x.com/saylor/status/1994764128901370349",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T09:58:30.529277+00:00"
+  "fetched_at": "2025-12-01T10:34:33.190494+00:00"
 }

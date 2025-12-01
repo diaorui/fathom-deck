@@ -5,54 +5,34 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin, ether fall sharply as crypto sell-off resumes",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
-      "pub_date": 1764574221.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
+      "headline": "Bitcoin, Ethereum, and XRP Crash Triggering $637M in Liquidations",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NNVTQ2dXBON1ptWUp5X3ZWQ2RtUEYxRHl1Yk52MEh1c1FZVHZYU1hnaU9vSGRFNUo0UTlybkZtWUdocEc1dDZBSTdmNnczVDdUSkRuVnlxbWxJWHZ0TE9jd3VCYXVmUmJLRmI4dEtQZnVabmxfNU9yV3FtZFJZS2I3aWNEdWRqenRN?oc=5",
+      "pub_date": 1764582811.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-xrp-crash-triggering-095331056.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ly7._RAmZ3AmoH9Q85_u5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/d47b3cb386575b0d23d2abbef9ca49f3",
+      "description": "A weekend crypto crash triggered $524M in liquidations, with fears over Tether's stability and DAT selling pressure acting as key catalysts."
     },
     {
-      "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjhSWDVTUWthWXhtQnV2WVA3eXB6UmhqNmdJUG5pa0hQN3Rod2hQN3c3dHNFdTBSSTdIdnJnY29oa1NYbjdVOVM2alpTVWpfSVk1ZkZNWFh4VlByVHJVUTVLWEZ0ZHdDaUxPVFJ3bUJrRFhCblJrRWluSkUwWHN5Z0tqVkdHX0VvTmlUSGlneFY0N09sUHFvSEhWbDZldy1RUTZj?oc=5",
-      "pub_date": 1764600720.0,
-      "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
-      "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
+      "headline": "Bitcoin, Ethereum and XRP ETFs Bounce Back After Brutal Month for Crypto Funds",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONEYwd1pFd3RNLVBWc2d0VFh2WUpYQmpLUWFiRXFGV1JIMmpZTWxVVFNvQjFEMlQzVEsxX3Nmam9qZ3llc0trLUhFSkZjemtsZWRscEFPakZKNVNCN2pUVlhEQ05vMnhIam9Ud3pYSmRLSVBlYmd1VVVNRXU3Q0hmdE0tVXFiWDhYMmltQlh4Tk9vOW_SAZsBQVVfeXFMUGJCdUs3VDRubDhLOEdKRjVLeDBzNkNTSS1WdkJLNWZxdGFrV2NoX3o5OWhYaVVhYXA5VXpldUdkLUNlc3pyRzNYVFNxdHlOQ0Job1JremVJNXl2b2YycFVrUGdEV2FTRUI2UURaWmI2N2lSaW5WaDNMOW1zcTAwczlOZjdQdl9ES0hjSEEtMVo0QlhGcTFhTEltelk?oc=5",
+      "pub_date": 1764610290.0,
+      "article_url": "https://decrypt.co/350478/bitcoin-ethereum-xrp-etfs-bounce-back-brutal-month-crypto-funds",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/ETF2-gID_7.png",
+      "description": "Crypto prices are falling again Monday, but Bitcoin, XRP, and Ethereum funds are coming off a strong week for flows following recent losses."
     },
     {
-      "headline": "Why Bitcoin, Ethereum, and XRP are falling?",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ1ppcF9PTlBEVkd5NTQ5NVJ6NnJZM0hMNURab0pDZWxaenZPU1RBVlVMbzBHU2hmbWIyYlM4eTNSVEdnMFo4aWpTcFlQYnF6Y0RlMEJKbUhUTDBXTEI2TUhBTFRobHByV3pNYTZxaVVBMVNoNlV3WG1pSVJVQnJCaWh2d3dEV3drU29IM1VydzJsanBTendiaHA4QnNQQ3NONjhZVWVRYkdVSHpTWXNNRlVEbFRLMXNTbF9QTTRVbUdEd09iUk1kQUtZbDBWNFdXN292YWdGQQ?oc=5",
-      "pub_date": 1764565200.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-face-major-losses-as-december-begins-202512010500",
-      "image": "https://editorial.fxsstatic.com/images/i/bitcoin-explodes-02_Medium.jpg",
-      "description": "Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are off to a bearish start in December, with over 4% losses by press time on Monday. Bitcoin, Ethereum, and Ripple face renewed selling, risking further losses to $80,000 BTC, $2,100 ETH, and $1.90 XRP, respectively."
-    },
-    {
-      "headline": "Why Bitcoin, Ethereum and XRP Are Crashing While Stocks Hit All-Time Highs",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3gyMjlhOVd0LXY5YjU0MGs0emllUmJ0VFdORElWV1BPQUpNank4UWo4ajBwYkdHTlBKU0E3S1AyaXVZQS1HdXZycFFDRG9FQUx4Yi16NlBkcnBLbVVRVGlMOFV3bXVuaTdPeUtJa2ZFMHdHOWU0cF9EVjB5RlVOSEpmemN4clRGRTZzbTRzNVdULVFaOXIxa1c1NXAxY2o2NEhWZkZERGtSUGxMU2NXNXRMY1ZGUWhybVlXZ3g1bEp6YWJuOWdFMzllb1RqZw?oc=5",
-      "pub_date": 1764600207.0,
-      "article_url": "https://www.tradingview.com/news/coinpedia:b3aa85d13094b:0-why-bitcoin-ethereum-and-xrp-are-crashing-while-stocks-hit-all-time-highs/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The crypto market continues to slide, and even the biggest names like Bitcoin, Ethereum and XRP are unable to escape the intense selling pressure. While global markets stay relatively stable, with gold rising and the S&P 500 sitting near all-time highs, crypto has sharply moved in the opposite dire\u2026"
-    },
-    {
-      "headline": "Why Bitcoin, Ethereum and XRP Are Suddenly Crashing Today?",
-      "source": "Coinpedia",
-      "source_url": "https://coinpedia.org",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSVJYMk50SmFycUlPelhJeFo2UGF0bnQzYmlyd292N3lEMmFfbU1xOTJ0aktfSnAxdGZ2UWtYYXpFYTI4eVlJMEFkcDZmUG93aWkwbFVXUjk4eU9WOFZnaXV3MUpyYkItelk4R0szZnZFOXhYRXRRZUI3ZEhiZzYxTnUzQ1I4dG5uelVua2dSSmxOajBPVGlSRS15Y201eHJOZjJleUZn?oc=5",
-      "pub_date": 1764558480.0,
-      "article_url": "https://coinpedia.org/news/crypto-crash-alert-why-bitcoin-ethereum-and-xrp-are-suddenly-crashing-today/",
-      "image": "https://image.coinpedia.org/wp-content/uploads/2025/06/09191011/Bitcoin-Ethereum-XRP-Price-Prediction-This-Week-Will-CPI-Data-Trigger-a-Crypto-Crash.webp",
-      "description": "The crypto market is under pressure again as the total market cap has dropped below $3 trillion, slipping to roughly $2.95 trillion. The downturn has"
+      "headline": "Bitcoin, Ethereum and XRP ETFs Bounce Back After Brutal Month for Crypto Funds",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0VlTDBGV1VFTU5JNmNfblFzMk93RnFaQkFCSmpKUWhqT3o1R3g2M01uRVFvYmR4bHVwWDQyYVZCV1dIQjZkX3FvNEUwNUVGWmZCdWV5RzFwZU54bVBsckNzOHZoTGE2NEU2TlVaTTdZX1F3eV8zcHpNd0kxRURIT0FmZ2U?oc=5",
+      "pub_date": 1764610290.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-xrp-etfs-bounce-173130066.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/mxUA0bdXwQ7rZXPJb1h2SA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/cbb95041e667a48e1140b2401cd00217",
+      "description": "Crypto prices are falling again Monday, but Bitcoin, XRP, and Ethereum funds are coming off a strong week for flows following recent losses."
     },
     {
       "headline": "Ethereum News: BitMine (BMNR) Bought 97K in ETH Ahead of Fusaka Upgrade",
@@ -75,36 +55,56 @@
       "description": "Ethereum\u2019s Fusaka upgrade goes live Dec. 3, boosting stability, sync speed, and reliability for users, devs, dApps, and validators across the network."
     },
     {
-      "headline": "Bitcoin, Ethereum, and XRP Crash Triggering $637M in Liquidations",
+      "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjhSWDVTUWthWXhtQnV2WVA3eXB6UmhqNmdJUG5pa0hQN3Rod2hQN3c3dHNFdTBSSTdIdnJnY29oa1NYbjdVOVM2alpTVWpfSVk1ZkZNWFh4VlByVHJVUTVLWEZ0ZHdDaUxPVFJ3bUJrRFhCblJrRWluSkUwWHN5Z0tqVkdHX0VvTmlUSGlneFY0N09sUHFvSEhWbDZldy1RUTZj?oc=5",
+      "pub_date": 1764600720.0,
+      "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
+      "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
+    },
+    {
+      "headline": "Ethereum Leverage Reset Complete \u2013 Time For Market Re-Accumulation?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGdBaFJDYjZ3NmRWcktXSlI1bTg3UGhiYW1VMWt1aFAtR2Y0ZDRycnZaN3JLeWNrUEJYU3RSS0RRckVQNVQ3VXVmbV9WZDRER3g1cG5Cd1Rwak41ZXlDSWpsdS01ZVVZSkd6Y21xMExiTlNtVlg5WXNpUzRJeWloaks2YWJBVDdFZFBFaGJOdEhEMkViVml6N1FEX01wRnMzRUg1dllOQnlWdW9KdkVPM2JveVFtRDR0ZExSZ1BkOA?oc=5",
+      "pub_date": 1764493256.0,
+      "article_url": "https://www.tradingview.com/news/newsbtc:31612045a094b:0-ethereum-leverage-reset-complete-time-for-market-re-accumulation/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum presently trades around $3,000 following a broader crypto market rebound in the last week. During this time, the market\u2019s largest altcoin gained by 7.22%, providing a much-needed relief after an extended correction that dominated the majority of the last two months. As price stabilizes, cr\u2026"
+    },
+    {
+      "headline": "Ethereum Price Near Cycle Bottom? A 28% Move Now Looms",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jcENGQWg1aGZEa3ZuaXdRSzdzUDBZNUpUZGpUXzdsa0VNeGZ2RXQwZXFrYmFyRlVValROc2VKNG9BVEhQajBCdWQ5aFlaZzltTl8wYmF1Y1FiYUpRYzl2Y1dCTS10MTR6bFpQZXZBQTI?oc=5",
+      "pub_date": 1764565920.0,
+      "article_url": "https://beincrypto.com/ethereum-price-28-percent-bottom-signal/",
+      "image": "https://assets.beincrypto.com/img/ckycdvAPgz5vbaQi46k3_mBON0E=/smart/c04bd40749654320be7e15e39e9fe79c",
+      "description": "Ethereum price now shows a rare setup seen only near major bottoms. Is a 28% shakeout coming before the next rebound?"
+    },
+    {
+      "headline": "Why Did Ethereum Drop? Crypto Crash Dents Ethereum Price Prediction for December",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NNVTQ2dXBON1ptWUp5X3ZWQ2RtUEYxRHl1Yk52MEh1c1FZVHZYU1hnaU9vSGRFNUo0UTlybkZtWUdocEc1dDZBSTdmNnczVDdUSkRuVnlxbWxJWHZ0TE9jd3VCYXVmUmJLRmI4dEtQZnVabmxfNU9yV3FtZFJZS2I3aWNEdWRqenRN?oc=5",
-      "pub_date": 1764582811.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-xrp-crash-triggering-095331056.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ly7._RAmZ3AmoH9Q85_u5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/d47b3cb386575b0d23d2abbef9ca49f3",
-      "description": "A weekend crypto crash triggered $524M in liquidations, with fears over Tether's stability and DAT selling pressure acting as key catalysts."
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fZGxWeEt0cGhsTE90LXg0VDd3cnNmNUNNNEVkZ25CTDQzSWxmeTJ1VFVhbUMtT3VLa1ZKWmswems2TXN2bzgta3Fwbm1mdEYxR1N3QVJkQmVSWXZnanh0RTY5Tk5DenRfY3g0QTJRbW9aVXd1alZSNjBaSFpZb0U?oc=5",
+      "pub_date": 1764587466.0,
+      "article_url": "https://finance.yahoo.com/news/why-did-ethereum-drop-crypto-111106734.html",
+      "image": "https://media.zenfs.com/en/99bitcoins_us_315/006fc264ab49b0b999721b1d22b588c4",
+      "description": "The question on every trader\u2019s mind right now is simple: why did crypto crash while silver and gold launched into fresh territory? As Bitcoin price plunged from $92K range to the mid $80Ks, precious metals ripped to new all-time highs \u2013 triggering a wave of fear, forced liquidations, and talk ..."
     },
     {
-      "headline": "Tom Lee Says Ethereum Firms Are \u2018Elite Of Wall Street\u2019 \u2014 Is His Bullish $9000 Prediction Possible?",
+      "headline": "Ethereum\u2019s December Price Prediction \u2014 Why Is ETH Going Down and Will $2,800 Hold?",
       "source": "CCN.com",
       "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmh3ZURwY1Z2ZFg0VjYwb0hoekVqeUJ6b1JYX183SWlvOUpLWXBMRjIwZkkzTnh2OTJpYUJ0NElVSlRwakgzLXo0cGRmODJSM3ZvNEhzS3lKbWlWMnZtVk13UzBLV0V1Y2Uza09kdWt1N2lqLW1YdUxYdXVtYXpJMmZnU0ZfM2hGTm80Y251NXBLM3oteUs2OEJCVnpkTzg2V2htVGdn?oc=5",
-      "pub_date": 1764594135.0,
-      "article_url": "https://www.ccn.com/news/crypto/tom-lee-claims-firms-building-ethereum-elite-wall-street-price-explode/",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWlRWG5TNFhVZzVsWXNXRmh4bWhGT0xQMmVXcDZndlh2Mi1URXlOeHFqbXZIM2MxNXA4YWNoWDNnendVcHQ0M1NBVUhLRHVSX3NnVGVva3VrcloyTWdXa3dmd3FSTFcxbXZzQUxCVXhCYTZtVXZXQmRzd0hjUEdtOQ?oc=5",
+      "pub_date": 1764587835.0,
+      "article_url": "https://www.ccn.com/analysis/crypto/ethereum-december-prediction-eth-price/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "1 New Reason to Be Cautious About Buying Ethereum, Solana, and XRP Right Now",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaUtlTUl4dHM2OGItRy1XT3h6WVp4b3l2UXpnaHI4WjhJODljUEcySk9wYjBKY3V6WFRkdjgta21sMC1YQVZod3hpMDRjVTZpSkQ2RWItZ2xkc1dMTjJlNVpoeDhQazMzZmVwc1lleng0VHZlT0hMVFk0ODVZSHBNSVZjS1dVM3ZmTHJzNzVSS0stU2NzckVz?oc=5",
-      "pub_date": 1764521280.0,
-      "article_url": "https://www.fool.com/investing/2025/11/30/1-new-reason-to-be-cautious-about-buying-ethereum/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843801%2Fstanding-pair-of-investors-consider-tablet-and-computer.jpg&w=1200&op=resize",
-      "description": "If this widely touted growth driver peters out, it could spell big trouble."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T17:30:33.363120+00:00"
+  "fetched_at": "2025-12-01T18:22:15.100399+00:00"
 }

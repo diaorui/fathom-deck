@@ -68,6 +68,17 @@
       "description": null
     },
     {
+      "title": "ROSCon 2025 Recordings Now Available! - Community News",
+      "author": "OpenRobotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1pbjqn8/roscon_2025_recordings_now_available_community/",
+      "published": 1764611884.0,
+      "thumbnail": "https://external-preview.redd.it/ZRxQSYvz7RK70LarVkZ0JsNr2rRueei96seBmDJoatU.gif?width=640&crop=smart&s=480960cabf1c914aa731ede8c40bec3c3fb4a693",
+      "external_url": "https://discourse.openrobotics.org/t/roscon-2025-recordings-now-available/51241",
+      "site_name": "Open Robotics Discourse",
+      "favicon": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/4/4/4487d2db196c8ca556e8bfac980ed3850ba5cbd5_2_180x180.png",
+      "description": "ROSCon 2025 Recordings Now Available   Hi Everyone,  Recordings from ROSCon 2025 are now available on our Vimeo account the ROSCon website, in the ROS Documentation, and in the list below. We\u2019re still waiting on talk slides, but we\u2019ll get those up just as soon as we can.  Big thanks to AMD for making our ROSCon 2025 live stream and video archive possible.  For your convenience here is a full list of available ROSCon 2025 talks and their presenters:   Opening Remarks & Guest of Honor \u2013 Geoff Bigg..."
+    },
+    {
       "title": "running EdgeTAM to do persistent tracking and following on a robot",
       "author": "HudZah",
       "url": "https://www.reddit.com/r/robotics/comments/1payrg5/running_edgetam_to_do_persistent_tracking_and/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey fellow devs! For the past month I've been building a compact observability tool for ROS and I thought it would be wise to get some feedback from the community before building further. I've got a demo running on my local machine with some basic features like node/topic introspection, live telemetry/logs with filtering, play/pause, topic sub/pub and a chat with the context of the whole robots live state and logs to make it easier to get a grasp of whats happening. If anyones open to giving feedback based on the early prototype, I'd massively appreciate it, whether it is positive or negative, everything is welcome. Also let me know if you'd be open to trying it out. I'll send you a dm once the mvp is ready. https://reddit.com/link/1pawh0n/video/uwdum1dk8h4g1/player"
-    },
-    {
-      "title": "Anyone read any recent China humanoid & supply chain reports?",
-      "author": "Ok-Candidate-1964",
-      "url": "https://www.reddit.com/r/robotics/comments/1pb4vfw/anyone_read_any_recent_china_humanoid_supply/",
-      "published": 1764568110.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey all, I\u2019m trying to get my head around the latest research reports on China and hardware/AI: \u201cCity Researches China Humanoid\u201d 23 Nov 2025 \u201cSupply Chain Field Trip\u201d 7 Nov 2025 (Goldman Sachs) If anyone's read them , would love to discuss and share notes. Thanks!"
     }
   ],
-  "fetched_at": "2025-12-01T17:30:15.688174+00:00"
+  "fetched_at": "2025-12-01T18:22:01.192925+00:00"
 }

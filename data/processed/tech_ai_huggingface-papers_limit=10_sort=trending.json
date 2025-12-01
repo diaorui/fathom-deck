@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 66,
+      "upvotes": 68,
       "num_comments": 1,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
@@ -54,7 +54,7 @@
       "num_comments": 2,
       "published_at": "2023-06-14T11:18:48.000Z",
       "github_repo": "https://github.com/nlpxucan/WizardLM",
-      "github_stars": 9465,
+      "github_stars": 9466,
       "project_page": null
     },
     {
@@ -115,25 +115,6 @@
       "project_page": null
     },
     {
-      "id": "2511.16624",
-      "title": "SAM 3D: 3Dfy Anything in Images",
-      "authors": "SAM 3D Team, Xingyu Chen, Fu-Jen Chu et al. (23 authors)",
-      "organization_name": "facebook",
-      "organization_fullname": "AI at Meta",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1592839207516-noauth.png",
-      "summary": "We present SAM 3D, a generative model for visually grounded 3D object reconstruction, predicting geometry, texture, and layout from a single image. SAM 3D excels in natural images, where occlusion and scene clutter are common and visual recognition cues from context play a larger role. We achieve this with a human- and model-in-the-loop pipeline for annotating object shape, texture, and pose, providing visually grounded 3D reconstruction data at unprecedented scale. We learn from this data in a modern, multi-stage training framework that combines synthetic pretraining with real-world alignment, breaking the 3D \"data barrier\". We obtain significant gains over recent work, with at least a 5:1 win rate in human preference tests on real-world objects and scenes. We will release our code and model weights, an online demo, and a new challenging benchmark for in-the-wild 3D object reconstruction.",
-      "ai_summary": "SAM 3D is a generative model that reconstructs 3D objects from single images using a multi-stage training framework that includes synthetic pretraining and real-world alignment, achieving high performance in human preference tests.",
-      "hf_url": "https://huggingface.co/papers/2511.16624",
-      "arxiv_url": "https://arxiv.org/abs/2511.16624",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 101,
-      "num_comments": 3,
-      "published_at": "2025-11-20T13:31:46.000Z",
-      "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
-      "github_stars": 4244,
-      "project_page": "https://ai.meta.com/sam3d/"
-    },
-    {
       "id": "2511.18423",
       "title": "General Agentic Memory Via Deep Research",
       "authors": "B. Y. Yan, Chaofan Li, Hongjin Qian et al. (5 authors)",
@@ -151,6 +132,25 @@
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
       "github_stars": 565,
       "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
+    },
+    {
+      "id": "2511.16624",
+      "title": "SAM 3D: 3Dfy Anything in Images",
+      "authors": "SAM 3D Team, Xingyu Chen, Fu-Jen Chu et al. (23 authors)",
+      "organization_name": "facebook",
+      "organization_fullname": "AI at Meta",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1592839207516-noauth.png",
+      "summary": "We present SAM 3D, a generative model for visually grounded 3D object reconstruction, predicting geometry, texture, and layout from a single image. SAM 3D excels in natural images, where occlusion and scene clutter are common and visual recognition cues from context play a larger role. We achieve this with a human- and model-in-the-loop pipeline for annotating object shape, texture, and pose, providing visually grounded 3D reconstruction data at unprecedented scale. We learn from this data in a modern, multi-stage training framework that combines synthetic pretraining with real-world alignment, breaking the 3D \"data barrier\". We obtain significant gains over recent work, with at least a 5:1 win rate in human preference tests on real-world objects and scenes. We will release our code and model weights, an online demo, and a new challenging benchmark for in-the-wild 3D object reconstruction.",
+      "ai_summary": "SAM 3D is a generative model that reconstructs 3D objects from single images using a multi-stage training framework that includes synthetic pretraining and real-world alignment, achieving high performance in human preference tests.",
+      "hf_url": "https://huggingface.co/papers/2511.16624",
+      "arxiv_url": "https://arxiv.org/abs/2511.16624",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
+      "upvotes": 101,
+      "num_comments": 3,
+      "published_at": "2025-11-20T13:31:46.000Z",
+      "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
+      "github_stars": 4266,
+      "project_page": "https://ai.meta.com/sam3d/"
     },
     {
       "id": "2510.14528",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-01T16:58:40.746142+00:00"
+  "fetched_at": "2025-12-01T18:21:56.594763+00:00"
 }

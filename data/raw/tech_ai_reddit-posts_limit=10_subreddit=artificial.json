@@ -46,6 +46,17 @@
       "description": "Don't need a notice if everyone's doing it."
     },
     {
+      "title": "AI training has a big black market problem",
+      "author": "businessinsider",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbjt8y/ai_training_has_a_big_black_market_problem/",
+      "published": 1764612034.0,
+      "thumbnail": "https://external-preview.redd.it/DvU_9ZXe-y5wN0FgPSpxOtE0qcp9mBGxrZ33Ipr2y1E.jpeg?width=640&crop=smart&auto=webp&s=e4cc3f16acffe7bd4fcb59994a3803c727575d2c",
+      "external_url": "https://www.businessinsider.com/ai-training-account-selling-market-scam-scale-surge-mercor-facebook-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "A shadow market for AI training and data labeling accounts has emerged, with scammers selling Outlier, Mercor, and Surge AI accounts online."
+    },
+    {
       "title": "Google CEO warns US AI regulations risk ceding edge to China",
       "author": "JTHGraphics",
       "url": "https://www.reddit.com/r/artificial/comments/1pbfm42/google_ceo_warns_us_ai_regulations_risk_ceding/",
@@ -79,26 +90,15 @@
       "description": "Recently, I've observed that responses from ChatGPT, Gemini, and Meta often redirect to paid services or commercial website links. Initially, when I used these models and asked for free alternatives to computer operating systems or cost-free places to visit, they provided excellent recommendations by searching platforms like Reddit and other popular online communities. However, now when I ask similar questions, I receive commercial results. For instance, when I inquire about free family-friendly parks, I receive responses suggesting paid options like, \u201cI couldn\u2019t find free places to visit, but you can enjoy a great family day at [location] for $20 per person.\u201d Similarly, when I ask for tech stores offering affordable laptops, the responses are like, \u201cI wouldn't recommend cheap laptops; consider these websites for quality and productive laptops: apple.com, bestbuy.com,\u201d etc. This shift is puzzling."
     },
     {
-      "title": "Flock Uses Overseas Gig Workers to Build its Surveillance AI",
-      "author": "BigFishPub",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbhblf/flock_uses_overseas_gig_workers_to_build_its/",
-      "published": 1764606579.0,
-      "thumbnail": "https://external-preview.redd.it/bIzq3C7U0ZvKazfEravWFfzdNTYjYP7zyQIdaCX1kyk.png?width=640&crop=smart&auto=webp&s=f68c3cd1ccd947985843afa8350f1c2debfab80d",
-      "external_url": "https://www.404media.co/flock-uses-overseas-gig-workers-to-build-its-surveillance-ai/?ref=daily-stories-newsletter",
-      "site_name": "404 Media",
-      "favicon": "https://www.404media.co/content/images/size/w256h256/format/png/2023/08/favicon-3.svg",
-      "description": "Flock accidentally exposed training materials and a panel which tracked what its AI annotators were working on. It showed that Flock, which has cameras in thousands of U.S. communities, is using workers in the Philippines to review and classify footage."
-    },
-    {
-      "title": "It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:",
-      "author": "SolanaDeFi",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbgzqb/its_been_a_big_week_for_agentic_ai_here_are_10/",
-      "published": 1764605843.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "AI agents in law enforcement WEF on agentic shopping trends On-chain agent volume hits ATH A collection of AI Agent Updates! \ud83e\uddf5 1. Staffordshire Police Trials AI Agents for Non-Emergency Calls Third UK force testing AI for 101 service. AI handles simple queries without human involvement, freeing up handlers for 999 emergency calls. Pilot launching early 2026. They are receiving many mixed feelings on this. 2. Kimi AI Launches Agentic Slides with Nano Banana Pro 48H free unlimited access. Features agentic search (Kimi K2), files-to-slides conversion, PPTX export, and designer-level visuals. Turns PDFs, images, and docs into presentations. AI-powered presentation creation. 3. World Economic Forum Analyzes Agentic Shopping Quarter of Americans 18-39 use AI to shop or search for products. 2 in 5 follow AI-generated digital influencer recommendations. Shows evolution of discovery and persuasion. Seems like consumers are warming up to agentic shopping. 4. OpenAI's Atlas Browser Gets New Updates Adds dockable DevTools, safe search toggle, and better ChatGPT responses using Browser memories. Small but mighty update rolling out. Continuous weekly improvements to their browser. 5. Gemini CLI Brings Gemini 3 to Terminal Open-source AI agent now gives Google AI Ultra & Pro users access to Gemini 3. Experiment for Ultra users includes increased usage limits. Command-line agentic workflows. 6. AI Agent Leaks Confidential Deal Information Startup founder's browser AI agent leaked acquisition details to Zoho's Chief Scientist, then sent automated apology. Sparked debate on AI-driven business communication risks. 7. Microsoft Releases Fara-7B Computer Use Agent 7B parameter open-weight model automates web tasks on user devices. Achieves 73.5% success on WebVoyager, 38.4% on WebTailBench. Built with safety safeguards for browser automation. Efficient agentic model for computer use. 8. Anthropic Publishes Guide on Long-Running Agents New engineering article addresses challenges of agents working across many context windows. Drew inspiration from human engineers to create more effective harnesses. Blueprint for agent longevity. 8. Anthropic Publishes Guide on Long-Running Agents New engineering article addresses challenges of agents working across many context windows. Drew inspiration from human engineers to create more effective harnesses. Blueprint for agent longevity. 9. Google DeepMind introduces Evo-Memory - agents that learn from experience Lets LLMs improve over time through experience reuse, not just conversational recall. ReMem + ExpRAG boost accuracy with fewer steps - no retraining needed. 10/ AI Agent volume on Solana hits all-time high Agents x Crypto have infinite use-cases. The data is starting to show it. Measured by agent token origination. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!"
+      "title": "Flock Uses Overseas Gig Workers to Build Its Surveillance AI",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbi3rf/flock_uses_overseas_gig_workers_to_build_its/",
+      "published": 1764608338.0,
+      "thumbnail": "https://external-preview.redd.it/nNJTcufzmDPgqpf3Qg_4mdwrogcJF42ymcNHrF4adRw.jpeg?width=640&crop=smart&auto=webp&s=30d6094f031d551bbb943abf8870b20055f31746",
+      "external_url": "https://www.wired.com/story/flock-uses-overseas-gig-workers-to-build-its-surveillance-ai/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "An accidental leak revealed that Flock, which has cameras in thousands of US communities, is using workers in the Philippines to review and classify footage."
     },
     {
       "title": "More of Silicon Valley is building on free Chinese AI",
@@ -112,5 +112,5 @@
       "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
     }
   ],
-  "fetched_at": "2025-12-01T17:30:11.348455+00:00"
+  "fetched_at": "2025-12-01T18:21:58.067252+00:00"
 }

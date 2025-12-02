@@ -79,17 +79,6 @@
       "description": "Hey every time she comes down, I buy back in. I just keep thinking if I keep buying back in after it goes down why does it keep going down LOL"
     },
     {
-      "title": "I finally did it!",
-      "author": "NothingBetterToDoYES",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pbsqjw/i_finally_did_it/",
-      "published": 1764632460.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I finally got to 0.1 BTC across multiple wallets, not here to brag but to share with the community. It takes time bit you can get there, keep pushing, ignore the chaos and just stack. \ud83e\udee1"
-    },
-    {
       "title": "Funny how every dip reminds me why I chose the buy only strategy. Anyone else?",
       "author": "JcTrismegistus",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pbwopu/funny_how_every_dip_reminds_me_why_i_chose_the/",
@@ -99,6 +88,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I used to stress over every price movement. One day I just said: \u201cForget trying to time anything\u2026 I\u2019m only buying from now on.\u201d Haven\u2019t looked back since."
+    },
+    {
+      "title": "I finally did it!",
+      "author": "NothingBetterToDoYES",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pbsqjw/i_finally_did_it/",
+      "published": 1764632460.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I finally got to 0.1 BTC across multiple wallets, not here to brag but to share with the community. It takes time bit you can get there, keep pushing, ignore the chaos and just stack. \ud83e\udee1"
     },
     {
       "title": "The creator must be Bitcoiner!",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-02T05:52:01.900229+00:00"
+  "fetched_at": "2025-12-02T06:22:21.530246+00:00"
 }

@@ -24,17 +24,6 @@
       "description": "From Tuo Liu on \ud835\udd4f: https://x.com/Robo_Tuo/status/1995314021281771644"
     },
     {
-      "title": "Looking for Guidance on Breaking Into Robotics Engineering",
-      "author": "Sannad98",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc0mjm/looking_for_guidance_on_breaking_into_robotics/",
-      "published": 1764654488.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I have a bachelor's in Electrical Engineering and a master's in Computer Science. For the past three years, I\u2019ve been working as a Computer Vision Engineer. I\u2019ve always wanted to transition into robotics, but opportunities are almost non-existent where I live (a developing country with very limited robotics industry). I\u2019m now planning to move abroad to a country with better robotics opportunities and work as a Robotics Engineer. I\u2019ve started learning advanced computer vision for robotics and embedded systems, but I\u2019m unsure about the best path forward. I\u2019d really appreciate advice on: 1. How to search for robotics opportunities (especially from abroad)? 2. How to prepare for robotics/robotics-software interviews? 3. What skills to build to become a competitive candidate? 4. Any general tips from people who made the same transition Thanks in advance for any help!"
-    },
-    {
       "title": "4 motors robot crawler",
       "author": "Archyzone78",
       "url": "https://www.reddit.com/r/robotics/comments/1pb5i5b/4_motors_robot_crawler/",
@@ -90,17 +79,6 @@
       "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
     },
     {
-      "title": "EngineAI has officially unveiled the T800, its new full-sized general-purpose humanoid robot (real footage, no CG, no AI, no speed-up) (173cm, 75kg)",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pbzpju/engineai_has_officially_unveiled_the_t800_its_new/",
-      "published": 1764651575.0,
-      "thumbnail": "https://external-preview.redd.it/ZjQxZDQ1eGYycTRnMYUcPy_EugbHxP_CwT2mkACaKDH5UkhX2NdhGFACl5Wu.png?width=640&crop=smart&auto=webp&s=f43bd28b2e693d89bb42d5c6455fc57748acd348",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "running EdgeTAM to do persistent tracking and following on a robot",
       "author": "HudZah",
       "url": "https://www.reddit.com/r/robotics/comments/1payrg5/running_edgetam_to_do_persistent_tracking_and/",
@@ -110,7 +88,29 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Tips for my upcoming project.",
+      "author": "Aiden_TG",
+      "url": "https://www.reddit.com/r/robotics/comments/1pb8g2k/tips_for_my_upcoming_project/",
+      "published": 1764581359.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So I'm working on a passion project, creating a robot, specifically, the robot N from the series murder drones, I'm still learning in robotics, but my main plan is to have a basic chat robot, so it picks up my speech through a mic and I connect it to an AI chat system and it will then output a tts voice, additionally I'd like to have a screen of some sort that has images of expressions and those expressions will change based on the chat, I would like some tips or instructions of how I could do this. Later on in the project I'm going to have the limbs and body controlled with servos and I'd like to have the AI move and rotate the servos when I tell it to, this is all so new to me because I usually work with animatronics and not ai, so I need some tips like what hardware or software I need and how I can do this. Any help would be greatly appreciated!"
+    },
+    {
+      "title": "Looking for feedback on a ROS observability/debugging tool",
+      "author": "One_Criticism_6156",
+      "url": "https://www.reddit.com/r/robotics/comments/1pawh0n/looking_for_feedback_on_a_ros/",
+      "published": 1764544219.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey fellow devs! For the past month I've been building a compact observability tool for ROS and I thought it would be wise to get some feedback from the community before building further. I've got a demo running on my local machine with some basic features like node/topic introspection, live telemetry/logs with filtering, play/pause, topic sub/pub and a chat with the context of the whole robots live state and logs to make it easier to get a grasp of whats happening. If anyones open to giving feedback based on the early prototype, I'd massively appreciate it, whether it is positive or negative, everything is welcome. Just let me know and I'll send the demo."
     }
   ],
-  "fetched_at": "2025-12-02T05:52:04.941500+00:00"
+  "fetched_at": "2025-12-02T06:22:24.608330+00:00"
 }

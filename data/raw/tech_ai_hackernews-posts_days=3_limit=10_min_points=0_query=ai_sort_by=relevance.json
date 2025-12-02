@@ -23,7 +23,7 @@
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 234,
+      "points": 235,
       "num_comments": 91,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
@@ -51,7 +51,7 @@
       "url": "https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/",
       "hn_url": "https://news.ycombinator.com/item?id=46114144",
       "author": "7777777phil",
-      "points": 191,
+      "points": 192,
       "num_comments": 6,
       "created_at": "2025-12-01T22:22:56Z",
       "object_id": "46114144",
@@ -79,8 +79,8 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 156,
-      "num_comments": 227,
+      "points": 158,
+      "num_comments": 228,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -93,8 +93,8 @@
       "url": "https://red.anthropic.com/2025/smart-contracts/",
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
       "author": "bpierre",
-      "points": 142,
-      "num_comments": 74,
+      "points": 148,
+      "num_comments": 76,
       "created_at": "2025-12-01T23:44:51Z",
       "object_id": "46115214",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": null
     }
   ],
-  "total_hits": 384,
+  "total_hits": 385,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T05:52:00.243734+00:00"
+  "fetched_at": "2025-12-02T06:22:19.804974+00:00"
 }

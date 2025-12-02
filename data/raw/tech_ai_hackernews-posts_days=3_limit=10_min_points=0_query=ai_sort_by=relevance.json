@@ -65,8 +65,8 @@
       "url": "https://red.anthropic.com/2025/smart-contracts/",
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
       "author": "bpierre",
-      "points": 183,
-      "num_comments": 99,
+      "points": 184,
+      "num_comments": 101,
       "created_at": "2025-12-01T23:44:51Z",
       "object_id": "46115214",
       "image": null,
@@ -79,8 +79,8 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 169,
-      "num_comments": 235,
+      "points": 170,
+      "num_comments": 237,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -131,21 +131,21 @@
       "site_name": "the Guardian"
     },
     {
-      "title": "AI-Assisted Coding Killed My Joy of Programming",
-      "url": "https://meysam.io/blog/ai-assisted-coding-killed-programming-joy/",
-      "hn_url": "https://news.ycombinator.com/item?id=46108704",
-      "author": "meysamazad",
-      "points": 45,
-      "num_comments": 51,
-      "created_at": "2025-12-01T15:41:51Z",
-      "object_id": "46108704",
-      "image": "https://meysam.io/og-image.png",
-      "description": "AI coding assistants feel like video game cheat codes\u2014exciting at first, then soul-crushing. A raw reflection on losing the joy of programming in 2025 and why I keep going back to my piano.",
-      "favicon": "https://meysam.io/apple-touch-icon.png",
-      "site_name": "Meysam Azad"
+      "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
+      "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
+      "hn_url": "https://news.ycombinator.com/item?id=46118722",
+      "author": "dijksterhuis",
+      "points": 53,
+      "num_comments": 27,
+      "created_at": "2025-12-02T07:46:47Z",
+      "object_id": "46118722",
+      "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
+      "description": "In 1978, Brian Eno released Ambient 1: Music for Airports, a landmark album in ambient and electronic music. Although it wasn't the first ambient",
+      "favicon": "https://reverbmachine.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "site_name": "Reverb Machine"
     }
   ],
-  "total_hits": 409,
+  "total_hits": 412,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T11:14:30.837857+00:00"
+  "fetched_at": "2025-12-02T11:45:49.620816+00:00"
 }

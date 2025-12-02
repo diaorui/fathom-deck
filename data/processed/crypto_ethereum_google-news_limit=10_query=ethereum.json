@@ -55,16 +55,6 @@
       "description": null
     },
     {
-      "headline": "Tom Lee Says Ethereum Firms Are \u2018Elite Of Wall Street\u2019 \u2014 Is His Bullish $9000 Prediction Possible?",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmh3ZURwY1Z2ZFg0VjYwb0hoekVqeUJ6b1JYX183SWlvOUpLWXBMRjIwZkkzTnh2OTJpYUJ0NElVSlRwakgzLXo0cGRmODJSM3ZvNEhzS3lKbWlWMnZtVk13UzBLV0V1Y2Uza09kdWt1N2lqLW1YdUxYdXVtYXpJMmZnU0ZfM2hGTm80Y251NXBLM3oteUs2OEJCVnpkTzg2V2htVGdn?oc=5",
-      "pub_date": 1764594135.0,
-      "article_url": "https://www.ccn.com/news/crypto/tom-lee-claims-firms-building-ethereum-elite-wall-street-price-explode/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "What Is the Fusaka Upgrade: Ethereum's Next Hard Fork",
       "source": "CoinGecko",
       "source_url": "https://www.coingecko.com",
@@ -95,6 +85,16 @@
       "description": "Meanwhile, ethereum developers are preparing for the activation of Fusaka, the next network upgrade...."
     },
     {
+      "headline": "Ethereum is quietly becoming the real home of RLUSD \u2014 leaving XRPL users stuck in the slow lane",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDk4VDRZeEszX2ZoMndhRUx0YUYyNzk5Njk5VGFDXzZ0M084QzVENFVYQWJfTXROTTRBay1XTnRCaVNEMnFNRHV5TnR2ZkI4VkVjNFhUMkJGNXJtbnZvS0xCbjYyd29MWlJ4NnZuWlpzMDdveml4cWt3Q1ZKTTFUcVNjUFFuUVhnUi1LSllWYllGSHVo?oc=5",
+      "pub_date": 1764624600.0,
+      "article_url": "https://cryptoslate.com/rlusd-supply-hit-1-26b-and-82-of-it-now-sits-on-ethereum-not-xrpl/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2025/11/ripple-rlusd-.jpg",
+      "description": "Ripple\u2019s stablecoin RLUSD thrives on Ethereum as entrenched dollar liquidity and DeFi integration bolster its rapid expansion."
+    },
+    {
       "headline": "Global financial crash warning: Why Robert Kiyosaki urges buying Bitcoin (BTC USD), Ethereum (ETH), gold &",
       "source": "The Economic Times",
       "source_url": "https://m.economictimes.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T11:14:52.055871+00:00"
+  "fetched_at": "2025-12-02T11:46:03.873620+00:00"
 }

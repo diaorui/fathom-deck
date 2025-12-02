@@ -46,6 +46,17 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
+      "title": "Unity app for robot control??",
+      "author": "Full_Connection_2240",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc5zd0/unity_app_for_robot_control/",
+      "published": 1764674522.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hobby robotics has few apps to build a digital twin for inverse kinematics/simulation of custom robots. As far as I know the best we got is ROS2 which isn't worth the effort for most people who could write custom code in half the time it takes to learn how to install and set up ROS. Would you use unity to build a highly visual/intuitive interface to remotely control your custom bot? Through a serial port that is.."
+    },
+    {
       "title": "Closed kinematic loop in gazebo",
       "author": "PuzzleheadedFloor749",
       "url": "https://www.reddit.com/r/robotics/comments/1pc1c4u/closed_kinematic_loop_in_gazebo/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Unitree R1 & G1 are showing off their skills together",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1paftdv/unitree_r1_g1_are_showing_off_their_skills/",
-      "published": 1764501084.0,
-      "thumbnail": "https://external-preview.redd.it/cXc1NGg0MzNuZDRnMTKOMTlUNUyjQprjxN6HIAw27V_NWy5ur8MFKoBmAQ83.png?width=640&crop=smart&auto=webp&s=4a1f30ca47fba10e94b8c084358fef36e43d28ff",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
     }
   ],
-  "fetched_at": "2025-12-02T11:14:33.702322+00:00"
+  "fetched_at": "2025-12-02T11:45:52.244339+00:00"
 }

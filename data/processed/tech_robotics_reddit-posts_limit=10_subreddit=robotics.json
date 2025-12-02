@@ -79,17 +79,6 @@
       "description": null
     },
     {
-      "title": "Unitree R1 & G1 are showing off their skills together",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1paftdv/unitree_r1_g1_are_showing_off_their_skills/",
-      "published": 1764501084.0,
-      "thumbnail": "https://external-preview.redd.it/cXc1NGg0MzNuZDRnMTKOMTlUNUyjQprjxN6HIAw27V_NWy5ur8MFKoBmAQ83.png?width=640&crop=smart&auto=webp&s=4a1f30ca47fba10e94b8c084358fef36e43d28ff",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
-    },
-    {
       "title": "fully autonomous robot with object following using a prompt",
       "author": "HudZah",
       "url": "https://www.reddit.com/r/robotics/comments/1payu3g/fully_autonomous_robot_with_object_following/",
@@ -99,6 +88,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Unitree R1 & G1 are showing off their skills together",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1paftdv/unitree_r1_g1_are_showing_off_their_skills/",
+      "published": 1764501084.0,
+      "thumbnail": "https://external-preview.redd.it/cXc1NGg0MzNuZDRnMTKOMTlUNUyjQprjxN6HIAw27V_NWy5ur8MFKoBmAQ83.png?width=640&crop=smart&auto=webp&s=4a1f30ca47fba10e94b8c084358fef36e43d28ff",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
     },
     {
       "title": "EngineAI has officially unveiled the T800",
@@ -112,5 +112,5 @@
       "description": "The video and specs describe a high-performance humanoid robot designed for dynamic and industrial use cases. Extreme Mobility: Unlike earlier clumsy humanoids, the T800 claims a top speed of 3 m/s (~6.7 mph) and the ability to perform complex movements like flying kicks and capoeira, powered by a massive 450 N\u00b7m of joint torque. Build: It stands at 1.73m (5'8\") and weighs 75kg, constructed from an aviation-grade magnesium-aluminum alloy for durability. Intelligence & Perception: It runs on an upgradable compute core (potentially a Thor chip with 2000 TOPS) and uses 360\u00b0 LiDAR combined with RealSense depth cameras for navigation. Battery: A solid-state 72V battery provides 2-4 hours of endurance. Official Video:\ud83e\udd16EngineAI has officially unveiled the T800, its new full-sized general-purpose humanoid robot."
     }
   ],
-  "fetched_at": "2025-12-02T08:17:31.628272+00:00"
+  "fetched_at": "2025-12-02T08:48:27.967174+00:00"
 }

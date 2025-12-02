@@ -35,17 +35,6 @@
       "description": "Non-Paywall: https://archive.is/T8jcF"
     },
     {
-      "title": "Gemini 3 is pulling the same dynamic downgrade scam that ruined the GPT-5 launch",
-      "author": "CantaloupeNo6326",
-      "url": "https://www.reddit.com/r/artificial/comments/1pb1sr3/gemini_3_is_pulling_the_same_dynamic_downgrade/",
-      "published": 1764558808.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm canceling my Google One AI Premium sub today. This is exactly the same garbage behavior OpenAI pulled, and I'm not falling for it again. We all know the drill by now. You pay for the Pro model, you start a chat, say hi, and it gives you a smart response. But the second you actually try to use the context window you paid for - like pasting a 3k word document or some code - the system silently panics over the compute cost and throttles you. It's a classic bait and switch. Instead of processing that context with the Pro model I'm paying twenty bucks a month for, it clearly kicks me down to a cheaper tier. It feels exactly like when GPT would silently swap users to the mini or light model after a couple of turns or if you pasted too much text. I fed it a 3,000 word PRD for a critique. I expected a rewrite that actually kept the details. Instead I got a 700 word summary that reads like it was written by the Flash model. It just gutted the entire document. It's not conciseness. It is dynamic compute throttling. They are advertising a Ferrari, but the moment you try to drive it on the highway they swap the engine for a Prius to save electricity. If I wanted Flash performance on my long documents, I'd use the free tier. Stop selling me Pro reasoning and then hot-swapping the model when the math gets expensive. Has anyone found a way around this or is it time to just go full local/Anthropic?"
-    },
-    {
       "title": "AI training has a big black market problem",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1pbjt8y/ai_training_has_a_big_black_market_problem/",
@@ -66,6 +55,28 @@
       "site_name": "The Verge",
       "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
       "description": "Apple has a new AI chief."
+    },
+    {
+      "title": "Gemini 3 is pulling the same dynamic downgrade scam that ruined the GPT-5 launch",
+      "author": "CantaloupeNo6326",
+      "url": "https://www.reddit.com/r/artificial/comments/1pb1sr3/gemini_3_is_pulling_the_same_dynamic_downgrade/",
+      "published": 1764558808.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm canceling my Google One AI Premium sub today. This is exactly the same garbage behavior OpenAI pulled, and I'm not falling for it again. We all know the drill by now. You pay for the Pro model, you start a chat, say hi, and it gives you a smart response. But the second you actually try to use the context window you paid for - like pasting a 3k word document or some code - the system silently panics over the compute cost and throttles you. It's a classic bait and switch. Instead of processing that context with the Pro model I'm paying twenty bucks a month for, it clearly kicks me down to a cheaper tier. It feels exactly like when GPT would silently swap users to the mini or light model after a couple of turns or if you pasted too much text. I fed it a 3,000 word PRD for a critique. I expected a rewrite that actually kept the details. Instead I got a 700 word summary that reads like it was written by the Flash model. It just gutted the entire document. It's not conciseness. It is dynamic compute throttling. They are advertising a Ferrari, but the moment you try to drive it on the highway they swap the engine for a Prius to save electricity. If I wanted Flash performance on my long documents, I'd use the free tier. Stop selling me Pro reasoning and then hot-swapping the model when the math gets expensive. Has anyone found a way around this or is it time to just go full local/Anthropic?"
+    },
+    {
+      "title": "One-Minute Daily AI News 12/1/2025",
+      "author": "Excellent-Target-847",
+      "url": "https://www.reddit.com/r/artificial/comments/1pc0t49/oneminute_daily_ai_news_1212025/",
+      "published": 1764655097.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Apple names former Microsoft, Google exec to succeed retiring AI chief.[1] AI may be scoring your college essay. Welcome to the new era of admissions.[2] Nvidia announces new open AI models and tools for autonomous driving research.[3] DeepSeek AI Releases DeepSeekMath-V2: The Open Weights Maths Model That Scored 118/120 on Putnam 2024.[4] Sources: [1] https://www.cnbc.com/2025/12/01/apple-ai.html [2] https://www.yahoo.com/news/articles/ai-may-scoring-college-essay-052228309.html [3] https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/ [4] https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
     },
     {
       "title": "Google CEO warns US AI regulations risk ceding edge to China",
@@ -90,17 +101,6 @@
       "description": "Just read the Agent-Omni paper. (released last month?) Here\u2019s the core of it: Agent-Omni proposes a master agent that doesn't do the heavy lifting itself but acts as a conductor, coordinating a symphony of specialist foundation models (for vision, audio, text). It interprets a complex task, breaks it down, delegates to the right experts, and synthesizes their outputs. This mirrors what I see in Claude Skills, where the core LLM functions as a smart router, dynamically loading specialised \"knowledge packages\" or procedures on-demand. The true power of it, as is much discussed on Reddit subs, may lie in its simplicity, centered around Markdown files and scripts, which could give it greater vitality and universality than more complex protocols like MCP maybe. I can't help but think: Is this a convergent trend of AI development, between bleeding-edge research and a production system? The game is changing from a raw computing race to a contest of coordination intelligence. What orchestration patterns are you seeing emerge in your stack?"
     },
     {
-      "title": "One-Minute Daily AI News 12/1/2025",
-      "author": "Excellent-Target-847",
-      "url": "https://www.reddit.com/r/artificial/comments/1pc0t49/oneminute_daily_ai_news_1212025/",
-      "published": 1764655097.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Apple names former Microsoft, Google exec to succeed retiring AI chief.[1] AI may be scoring your college essay. Welcome to the new era of admissions.[2] Nvidia announces new open AI models and tools for autonomous driving research.[3] DeepSeek AI Releases DeepSeekMath-V2: The Open Weights Maths Model That Scored 118/120 on Putnam 2024.[4] Sources: [1] https://www.cnbc.com/2025/12/01/apple-ai.html [2] https://www.yahoo.com/news/articles/ai-may-scoring-college-essay-052228309.html [3] https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/ [4] https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
-    },
-    {
       "title": "Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: 'It makes no sense,' he says, because 'AI will be involved in nearly all future production'",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1pax65n/epic_boss_tim_sweeney_thinks_stores_like_steam/",
@@ -112,5 +112,5 @@
       "description": "Don't need a notice if everyone's doing it."
     }
   ],
-  "fetched_at": "2025-12-02T08:17:27.283194+00:00"
+  "fetched_at": "2025-12-02T08:48:24.069642+00:00"
 }

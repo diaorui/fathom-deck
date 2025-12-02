@@ -5,32 +5,12 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Apple names former Microsoft, Google exec to succeed retiring AI chief",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRM28yTHFBbHJXVVFKNURvZ0ZTV2lWNDJhUUFIakxNWTRfZUphZnozN2xMS3liSGdVQlFCeWktNXJpVlQ0WVBmNDlmbmh3Nl9NZlV5N0lHZHbSAV5BVV95cUxQRUZhVUF0SGZldlVtTUdyV2dkWmZsMy02MFdqWFhBTzYzV21DMHRjZ3dfemtpSUhjTXg3SnNhcmVUSW91YXgzc1ZEOVAyU3hPZVlFU21WVHdKVVJtejZn?oc=5",
-      "pub_date": 1764627863.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/apple-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/105321445-1531249219810gettyimages-849703464.jpeg?v=1764627331&w=1920&h=1080",
-      "description": "Apple's AI chief is stepping down after experts say the company has fallen behind its peers when it comes to investing in AI data centers, chips and models."
-    },
-    {
-      "headline": "Siri-us setback: Apple\u2019s AI chief steps down as company lags behind rivals",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaHV3emhYQjdOZ2hOR29pQVp3TFNwTENmVTF6dmhIYm5QV1hDeWlnOU50MWhvZnFZUVB6R3FNWmh3WU83REtFNFBHSkYtR1FsRGg0WHhURXFaZGFYYk9mN1RaODRISG5UX2pmQ241a3ZGd19FakJPeGg1VHNxdVE5d3RBTlZsdUhmSGhzUzJnSnQ2UW9MUnpKbg?oc=5",
-      "pub_date": 1764637380.0,
-      "article_url": "https://www.theguardian.com/technology/2025/dec/01/apple-ai-chief-john-giannandrea-steps-down",
-      "image": "https://i.guim.co.uk/img/media/c5397f6078c2b51680181fe497db3b8b25290b74/292_0_2917_2334/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da7c907b054633c1a3285110fe3ccf4b",
-      "description": "Amar Subramanya will replace John Giannandrea after firm has struggled to catch up with AI rollouts by competitors"
-    },
-    {
-      "headline": "Apple\u2019s A.I. Chief, Who Failed to Deliver a Smarter Siri, Is Retiring",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3IwazlPbjFfRXRYUVQyX2FCZ1NDOFprdGg3VW5oelQ1aXNUazRrMjlreFB1NVFGUmxidWtwS1htWTFyLXdYb0cza2NtUjd3N2JVeUtCdy0tSGR5Q0Q1NloyZHQwdDdsWkFjeHdfU3NHNFpUT2N4TzFhamI0ZTFtU0hQTGUwQQ?oc=5",
-      "pub_date": 1764641705.0,
-      "article_url": "https://www.nytimes.com/2025/12/01/business/apple-ai-john-giannandrea-siri.html",
+      "headline": "OpenAI\u2019s Altman Declares \u2018Code Red\u2019 to Improve ChatGPT as Google Threatens AI Lead",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNQWgwTkdsWUVVR185c0RPaFc2d2xHUU96YWp5dWdMUGRNbGljSElPdWZ3VG5QdVpKRTBWdjhBa1F4QmhLdkVvcWU0YVFqWVZjVkdsa2J3SDhUMVFQTkFDZUw1WU9SaE1SVVdUNHRkWWZYN2NBX1NSTUlCT3VKTGZiOFNtVDE1bFQ4V1hiLW5GLXRFVFkyTmdDU29SSXFYcTVXakdEYXhqR2Exd2JuRDlQOC05cmRFLXJ3Q1lqdWJlUlhiME1PeXhSVW05c1UwZER0TUN1c3hqSVNKbTREZHZtWS0tZk1aNFVaNEdPM1BtbGg4M3VxMDdPeHR0VnNudFAxeWYzV3ZmVE5HMGlubjNUQ1JNRTdnN09wSjdNSFRaNlFUTmUxdmtSaXN4N09uM2xCak9wMW84WTNmNEdsbzBLMVlRZ3Bzb2tDb0dRd25zUE1IV0hiczRqb0Q3TE8yWFNkQ2xNR1pzNW44Wi1IWkZEVHVuSXE5Sm1pOEx6dnA2T09uWnhqbU1vZlIzVzZGRjRWOV9TaEsxRTEwX01mdlNrbHRMMDItU3hpX0wyS25NZzZhQWpEQ3VFdGJHbUQ?oc=5",
+      "pub_date": 1764656820.0,
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqejMGisx8NdztuAvfS3Pd5QHFUw2cP4SIYKJu1BcCBnaABwY_A5729X&gaa_ts=692eab5b&gaa_sig=e1x10sP_3ZsnmzUcBeiV-gb1WHLhQ2r6VcHSkIEUcW_faq0Owp2BfrhjPWgEcZMpxeJx42JXKyx_lP9GbbN3tA%3D%3D",
       "image": null,
       "description": null
     },
@@ -55,24 +35,44 @@
       "description": null
     },
     {
-      "headline": "Zhipu Grows Revenue and Users on Path to China\u2019s First AI IPO",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd09GVFZTTm5wOHVTMVpTLUZHQkNOb2RiN3FJV2w4bVYzT0FFTVAwTURxei01T0lxcWplZ0ZWV0pJSldIV2JRaVN0NUZrZTM5alFoOVBoMjZkcVFKS3NhelQ4RzBIMFZmTkhNUFZXcW5hc2JzeS1zQVZnLXhEa1ZobEVGRHcwUDdfVXV2bUxsQ2c4N0ctbXNWWkh6VlVsU3hDejhyaVhtc2FDcGVXX1ljaFZn?oc=5",
-      "pub_date": 1764656880.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/zhipu-grows-revenue-and-users-on-path-to-china-s-first-ai-ipo",
-      "image": null,
-      "description": null
+      "headline": "Why Jim Cramer thinks the AI trade is breaking up",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NRjBJRDdVQTRaejdyQ0ZZOFRHOFVwWFVEYmc2dHY0bTM0N2hodW1lajMzSWdaRzEzcWtidmFoUEh3THNzZ2QweUxRQzZJQWhORy1MVkdKRlNWcGZLWG9YTWlOVDZFOFg3OWJEbUhnMGRIMWlLLWt30gF8QVVfeXFMTWFRaFlMdWRXbFZLcFdCSW9pU2lBUmhzMEVSSVdmb2hEaU96TVY5RzBIZ0dlWjRBQ2ZfN0JXYzdxNkVZMEttS1c1MDJyRmxwZnZJZWFEeGlPOWtyLV9pR29PdF9waHpVaUlaQW1fY2p1U3B0aDlpLXhTM2ItYw?oc=5",
+      "pub_date": 1764631895.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/jim-cramer-ai-trade-breaking-up.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108228511-1763577992035-gettyimages-2247381802-vcg111604745843.jpeg?v=1764623572&w=1920&h=1080",
+      "description": "CNBC's Jim Cramer explained how stocks related to AI are starting to trade separately."
     },
     {
-      "headline": "Intellistake Strengthens AI Infrastructure Platform With Entry Into Space-Based Data Centers",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3JIZDRNdEkxWWVTdDJJandadmVDbkdBck1qT0huY2szYllUX0dJTDBvSF9JSjhLeElJd0ZXYnRXMWRDNjZuSzh3V0w0d2FOMUwzbEVDTjl3SGN6LVR4aFJIYUxvSlY3bTA3RENKZEhoUUhWWjBPM2JhY1JBRWF5bzgtcHk2NlhIazRRQUE3bGY3OG92dS02LTNRekcwQQ?oc=5",
-      "pub_date": 1764662460.0,
-      "article_url": "https://finance.yahoo.com/news/intellistake-strengthens-ai-infrastructure-platform-080100523.html",
-      "image": "https://media.zenfs.com/en/cnwgroup.com/9887ec6836e042065b67dd3bdc0b70c1",
-      "description": "Intellistake Technologies Corp. (CSE: ISTK) (OTCQB: ISTKF) (FSE: E41) (\"Intellistake\" or the \"Company\") is highlighting how its partnership and strategic investment in Orbit AI1 positions the Company at the infrastructure layer of what it sees as the next phase of cloud and AI \u2013 data centers and verification systems that operate in space, as well as on Earth."
+      "headline": "AI stock rally may be driven by fear of missing out, but strategists say hold tight",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQazRwWDJ3dVcyeWgzY2d5bnZ3RXFVZ1lvN2pQOXdzYzNKdWZGVVFKMV9EVXVReGQ1SU5MWVFmVzdObTdZWXhuUXc0czk5OTM1WnMxM0x6MGhRU2Q0d1UzYnlLc2VKelJMTFpfdDVPaExqVDRkUVZnYWM0bDlsTFlUVTJsNkMwX0lISE9RS09BMlpJQjDSAZgBQVVfeXFMTThYb1dZQ2pOcXprVThJb05vUFluNDVPVk81enZDaFhmVlNrT0piY2Q2dElpRjZmMGNNcmN3QVZJM1dSQzFOcWFzaWxtNHMtRGxrYW5hV3lFT1VlYXZCTmVucXZjS2F0Yk44bjdGSGItTk11R1NqNUlydUNsYkttZEU3N2Y0T2xtbGxiTFY1dmZwalE2RXJsUHE?oc=5",
+      "pub_date": 1764659062.0,
+      "article_url": "https://www.cnbc.com/2025/12/02/fear-of-missing-out-may-be-fueling-ai-rally-says-ecb.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229416-1763667538805-gettyimages-2247070062-NASDAQ_CRYPTO.jpeg?v=1764591356&w=1920&h=1080",
+      "description": "The European Central Bank on Wednesday warned of high valuations and increased concentration of global stocks."
+    },
+    {
+      "headline": "AI valuations heighten risk of \u2018sharp correction\u2019 in stock markets, Bank of England warns \u2013 business live",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUDZUUFF1MjJpVVFlY0hpZjdOeVdNbFlSbWpHRktzV0lPY0tJVTVxX0JtVTdtTDY4Tk9RMHNnS2ZFOEVnR2djakp6VWc2Z1VMSEt6ZkFfQTNSWWRfc2Q2ZDFJa2NGTjEtT29VMTk3Mm9ZQm9oMnBFWFU2dTNxajd0dU1IcEZfc0VOWmZ3ajBJcjRxa0FVdkpsR05Rck1GeFVmcG5McW9RUm1vRGRPZ054NFBUZklMdUFXYnRQQ3RNLWtwclh6bEcya2ZTaWRpMnU1UXN3WmhBY2E2SDV6QlRNTHJ6S0RRT1VRSDJnZkhDMVJla25P?oc=5",
+      "pub_date": 1764659760.0,
+      "article_url": "https://www.theguardian.com/business/live/2025/dec/02/ai-valuations-risk-financial-stability-bank-of-england-stock-markets-house-prices-business-live-news-updates",
+      "image": "https://i.guim.co.uk/img/media/6320a1d436b18bd7aa21c6f734de2500e231e6e8/559_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=dcb474c247fff5467c5a23de2c4d8499",
+      "description": "Rolling coverage of the latest economic and financial news, as the Bank of England releases its Financial Stability Report"
+    },
+    {
+      "headline": "Valentino criticised over 'disturbing' AI handbag ads",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qeDl5S3dyM2VFX29LcG1XNjZJVE9nZVo5TjJMUXlPckpWQXlnaVY0blNPekVHbVlHQU5PWWhLaVVBX2loUHd1WTI3eW1wZlJweXh0VTljc1VuUdIBX0FVX3lxTE92dDcwUUkwSzdWTEZyVlgxY0dJWkpMaWlCLUdvaHVPclN0V19FcnRzMlc3cUhyZ1ZqcTQzZGtYZTFzWFRfRU1Sb3JraEJ6R3F5WDdEWUJBbS1FUWRvcVQ4?oc=5",
+      "pub_date": 1764663961.0,
+      "article_url": "https://www.bbc.com/news/articles/cwyvjyvn83go",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/afa1/live/2d023480-cebf-11f0-b464-7718d124af65.jpg",
+      "description": "Social media users have called the luxury Italian fashion brand's artificial intelligence-made adverts \"cheap\" and \"lazy\"."
     },
     {
       "headline": "Opinion | How to Prepare Your Kids for the A.I. Revolution",
@@ -85,16 +85,6 @@
       "description": null
     },
     {
-      "headline": "Millions of Coders Love This AI Startup. Can It Last?",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOUEVWQzliWGxjWjVHUjhUOWs5NFV6dFV3Y3ZjR2dxcDh5eDhuRXI4LURMOEZpbTN4SGtsVGRQQVl3NVliYnV5cEVKVnNHTmw1SmRMLTNJdkNBbEZQd0ZDOUZOS3JfT21QUDdUVGVxeWg2WUJuNzB3S0daYkJkR2pIS1AwRXJUNXI1T2E3ZkVBRXp5Uzl4QmhRUkVzRVJNV19zNVdkOHplR01Vb19MU1Zuam0yTktZYWNLRjRDckxndkFGUnpiaFZEb010OEJwZTFLOHcxdThzdFhCdHpZT2x0LTBFODZINEllVEVYNFVMc3pfajNCTGtoYWdXU0c0c0NhVFZZT3R0ZV84MnNHWXF5QVpvNlJrOVhFUWZOOUtUejZJdk8yeUZWeFVwVjJEUTVjYTNheUN5NW5pU1dKQlFZVmVFdzFfaV9rcHg2SHh2VFEwSlBBbk1TS2ZsUEFmSHNRWHFNUU91RC1aMFVsdVNnTV9JYkxjZGZWTE1teWh5NW40d0RPMVJmY0xlS3daRzYzZ2JkeU5yRQ?oc=5",
-      "pub_date": 1764608400.0,
-      "article_url": "https://www.wsj.com/tech/ai/millions-of-coders-love-this-ai-startup-can-it-last-45b72441?gaa_at=eafs&gaa_n=AWEtsqfgpv6BtKd3qi65x8Fzudj2yg8aPd2zmdkTCfst5pcG4g522PCxo4fa&gaa_ts=692ea41a&gaa_sig=0yKfd7XBhPs1Svi-bvbQjnpEZm4iPOUBLcjwOj5PkXJp_lBTJibu60SYfHDlhloZEWlkKk6sqBa-KIRnQYuDRA%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "The People Outsourcing Their Thinking to AI",
       "source": "The Atlantic",
       "source_url": "https://www.theatlantic.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.theatlantic.com/technology/2025/12/people-outsourcing-their-thinking-ai/685093/",
       "image": "https://cdn.theatlantic.com/thumbor/Llk9rk0EWzJeAoNISzv4UhoCgoo=/0x83:2000x1125/1200x625/media/img/mt/2025/11/2025_11_29_AI/original.png",
       "description": "Rise of the LLeMmings"
+    },
+    {
+      "headline": "Andrew Yang Warns AI May Wipe Out 40 Million US Jobs",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNanJvNU9iYXg0b1Brd2d6WWFJSXU5UXc0YTlMbURKVllTTWFJLVZZOFRYMXhrVHVXeTFqanJEeFFzd2RCZHFwZlJTM29LMmstTnZqNnBTWU01ZjI0cG5zUHBEUk5ZYU9EcWJpOU8wZXVCTGE2OGFMTFg1eGJiUTB4NzJIQUMxcDVfWE9PT3E2OA?oc=5",
+      "pub_date": 1764591720.0,
+      "article_url": "https://www.businessinsider.com/andrew-yang-ai-may-wipe-out-40-million-us-jobs-2025-12",
+      "image": "https://i.insider.com/692d7915e1a9cbb014df425c?width=1200&format=jpeg",
+      "description": "Andrew Yang said the AI jobs crisis has begun and warned that the US must prepare for massive disruption, including millions of workers displaced."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T08:17:52.785754+00:00"
+  "fetched_at": "2025-12-02T08:48:47.346165+00:00"
 }

@@ -15,14 +15,14 @@
       "description": "Wall Street's strong late-November rebound looked set to hit a speed bump on the first trading day of December."
     },
     {
-      "headline": "Bond and bitcoin selloff leaves stocks unsteady",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkJxanotb1RQN0RaT0QtOXZVWWd5VDRYZlNFSkxzVmxZMm5rNU5kRno2TElKM0RGQmUyWFlmNG5OTkxVcXhaVV9IOGliM1hsS3RWTHpYbURCWlpwZHAtU1ppLUdRbGQ0Ump5VEsyZ000WXR2NTI5VUluR3FlLUtubThWTQ?oc=5",
-      "pub_date": 1764656131.0,
-      "article_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-12-02/",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin logs its worst day since March",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
+      "pub_date": 1764574221.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
       "headline": "Global Markets Find a Degree of Relief as Bitcoin Snaps Rout",
@@ -35,12 +35,32 @@
       "description": "Good morning. Global markets recover a degree of poise. European defense firms are losing out to US rivals in the race for rare earths. And Keir Starmer is trying to walk the tightrope of China ties. Listen to the day\u2019s top stories."
     },
     {
+      "headline": "Bitcoin Price Trapped In \u2018Indecision\u2019 Zone As Downside Break Becomes More Likely",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRlhYR2tFdDdOOFRIeXFSd09Uc3NqWEJaSlNoRGlpYTNsOE45NHd6bUtWb0ZhdjlRLXExT2s2WkdiUml5Q3ZpMHBqMzU5R2FrZTVkbjBrU0FmeTRBQ0x3LTN2MGpmWEJPWGF2MlhkaHlNTDM3TUlIRXFZakdnaGdXOTR2dnB3dnVQODZJ?oc=5",
+      "pub_date": 1764664077.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-price-trapped-indecision-zone-082757354.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/.W75w_pNBF0HHyCdM8r6JQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/d644cacb43e3460b3e6d4f20ecb1ff71",
+      "description": "Bitcoin price sits in a narrow 6% zone while key on-chain shifts raise fresh downside risk. A fragile balance now decides the next move."
+    },
+    {
+      "headline": "Bond and bitcoin selloff leaves stocks unsteady",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkJxanotb1RQN0RaT0QtOXZVWWd5VDRYZlNFSkxzVmxZMm5rNU5kRno2TElKM0RGQmUyWFlmNG5OTkxVcXhaVV9IOGliM1hsS3RWTHpYbURCWlpwZHAtU1ppLUdRbGQ0Ump5VEsyZ000WXR2NTI5VUluR3FlLUtubThWTQ?oc=5",
+      "pub_date": 1764656100.0,
+      "article_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-12-02/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQWllncHJkNVU2M1dfZ1VfczgtMFVmX2p6RGRKWi1oN0xIc3pfQ0o0bFNsYXZ1NlR1eDJzZDhRQ1B6NGExQkxseGxsY3FSYUxaYW9wRFNJaXBKdDVVNHpGemZicTlfVzhIQ2g2cW5IRkRTN280MjdrZWVvb0ZWVS1aQ1FOQlZqUEZHX1gtX2xmcnpuekZjS1JGM0d5NXAtdmFSOExZQ0FyRkVRYTZmejNxOFcyQy1RbUg2NHVWUE9qNC0yb2ROeEZFM3EzQjBxODloZkZ1djBJaUYzbkFGRExobmxZbWMteTJNODNaaFY5d2hRUVhqaEo0bUo4Q1RKdEE2YVd1cTBpWVBQemI0TkF3VU5MbVQ4U3RxbnZSdndLOWwyRGlxeXMzSWttNVh2Wm9ZWkQ5YkRXNXVqWXM5SXB5Z2pFV25FY0t1S1U5UU9BcnpmaF9VSjdtUDNKakNNYy1Nb3lDb3lzcmxDcEwwQVVlZkc3dncxbFM4YkdsSURHZFZvLWNvdGFhUU9Ba0NScDR5RmMzRVhEN1Y2M1lDeFc2Zk9LQnl3SUtVSUpvcEVJQXR5cGVIODB3Yw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPa1hJblFuWWZiRUhFY2NJTGFONF9MMXMySktuOUpnNzBjVkxxcG9xNmg1cl9CbWFXRF94YnVSTnpJNWJ3T0ZtaVV2TkFNRlFGMVh6TGpYb3BzSHZ5RzJabjBXS25SZUtoc2xlOEJGS3ZDZ3pBZldkOVlVQnNvVG40QkFoR0wxWUlOQTJJdmtrbWx1UWhPXzBBcG9PRW8yaV9uMGhvZTVsUHJPV0V2RnNnd3h4NnlpZGNxMFhNbE5GRGIxWFV4RVFDdHVMTjg2TGdicGE0RGRDUmY5VkhoblRNVzg0dU9UVXYySW5lR0ZWSi04Z1pUMXhMclJ0NzllUjB2ajJNOFJZT3BEQ2VwaUhDNDVJdFZ6UlJhMm1Dd290LUFTQW56bl9vd1dySFE1OV9GeFZYMTdHUmM1aXE5XzNkVDdOQlY0bWtab3hFNDRsdVdQTHh1akNZNk1hOU9tZ3lTVmgyUS1WTGU0dExTVjJpVFdGaC1hM19vWnJvR0lqaVpNRmh6a1RMcnUzZkJfUkU5czNvMkNpZWhJS0MzbDFnVVh1VVR0RkltWEpHMlBqS284b1Y2em9udg?oc=5",
       "pub_date": 1764626940.0,
-      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqcz7AYxkqzQIybrUfn2nnKoR3pDk-orU9AUd1jditDn_uheCb5fuKIw&gaa_ts=692ea41b&gaa_sig=cwBwRGTlAWYAlmVH0u5sxQnGAIzMogT9ZAeQSrjs1ny5UA1Uqn3-3cQZiu4u8_SUm1j5fF9rZ3ZsrUrrR2RKNg%3D%3D",
+      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqfrpyJHDb954VqVWBQlTbe2bnM1ooKwWY5GJMTL14M8Tykv3nFURzTR&gaa_ts=692eab5c&gaa_sig=9AJGdOjciSIQcjicKsyNNUiWOh8H5idP5akzE4BkWlL94R4A8SklEVd87NN39m8zh3rH_fHEUftwrMVEb2tDqg%3D%3D",
       "image": null,
       "description": null
     },
@@ -48,9 +68,9 @@
       "headline": "MSTR Stock: Strategy Barely Bought the Bitcoin Dip and Other Reasons Shares Are Tumbling.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPNV9tXzBUWFd1NXRfWTAtTzNCZnVtUVI2c2syVkJ5NXU0a3I2YUlNMTN1YkdCenNmZkc1WUNVLTJnbS03emg5dWVyeFA5MXlrZEhoaWNWN3UteXhyeWJPLThwWVpKOHRsR3lROFl3OFRINU1sME9LcWFUSk5uLVBlU29aR0RGd0VpZVYxT0dkWU9rZU1Wd3JyaVoyUnU5NGdpRktEZ21jekhJMUw5SEZYYzJZVUpJUzBBdlVoZktMZDBrWHlXdDhoeFpRWnpGQ3ZieXpHeUZITDB6dW9XUDJyemZ5Yi1ReGRqNDJaYnUwT0NWUWpheThSbVdvYURIdU9ONlJLbFIzbjNRRElhU1JEVnVRdlBPT0JxeDc4R2xEYlNwS0JDeVZrMTd2NENUVXctR0R5TFBJMXd5QmFJRm1xd1ZsRmlUdVhURUF4QzM0anB2UFJMM28xT0VORGI0LXFWalAyXzZIcjFjSUljckp1dzdmTFpZb3c1Q196Y0laQWt2TGtxZGxlVV95OA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOQ2NhZFlJLVF3SzBtV2JVcTZETjl1NnpEMTNaSWNIMVQ1eTd2blZEajRpNTJVNktfdGhFV0lDRlhNNWZySENXd2ZDRU9ET1JiZ3kxaFVqVV94NVUzazBhUS1pTE0xQTZTX3MtT0t6TWw3QklqX2R6WGFtSkFGdGZvVnBteUFqUnZSUVY3T1VwNTB6SFBPOVZ0N05rRkwwaE1sdFlMMUw1UlJNUTdCd2p0U3NMSXczcXdEUUVWcVI2VEtydURabVN4bzRKTzZ6VmoyVkxzc3JDdl9KdGNweXBaTFg1ckx2MGFSTFBNaWJKMWZZY2tZcXliaHV6TUZhd2RoWGRUc3A3b1J3ZEVWTGZSMEtBN1Q1R09VLUdEMzdiN2VMdjhUWDE3NTVLTXdkSDNvUUc4czhqX0trT2EwTE1yZTYxSG1zTFN1MmtPNjJCQzNGakhqREpaODhodXJWUFhNakFuTXoxbURHT0FQeW1YanpoalpEQlp1RV9haGdHSFpmWnYtdDlzdTQzaw?oc=5",
       "pub_date": 1764625320.0,
-      "article_url": "https://www.barrons.com/articles/mstr-stock-price-strategy-bitcoin-buy-4a0daec6?gaa_at=eafs&gaa_n=AWEtsqeEe_OAyyz3vJRGykz62bJ1vs1KmszM7c0k0eoU1TEZBC59kyGOcpz6&gaa_ts=692ea41b&gaa_sig=W7QZS5M6oTkWWJvlylhPHaq3z_8wX1z8Yaa9q_q9GEjgRfBuCTqa-GxeHNx8L1PJ5E_-inKBaqpsdhzgcAd2cA%3D%3D",
+      "article_url": "https://www.barrons.com/articles/mstr-stock-price-strategy-bitcoin-buy-4a0daec6?gaa_at=eafs&gaa_n=AWEtsqck-J4q4HpSmWLM9xxUJJA-aT27ymXzfAhPhYmXycpBoIr3mpAlx4xR&gaa_ts=692eab5c&gaa_sig=qXsiprt48YzbXgQci6d6fTmoISDpfzgnbPAKOFcn9uk1gBzlsSPFAgjXKVfYEv11V46XfbttxQSgxgEew_w52Q%3D%3D",
       "image": null,
       "description": null
     },
@@ -63,16 +83,6 @@
       "article_url": "https://www.bloomberg.com/news/articles/2025-12-01/strategy-ceo-hints-bitcoin-sales-may-loom-as-shares-sink",
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijjnWJlXQF.4/v1/1200x800.jpg",
       "description": "Concerns are rising that Strategy Inc. soon may be forced to sell some of its roughly $56 billion cryptocurrency haul if token prices continue to fall, leading its shares to wobble in pre-market trading."
-    },
-    {
-      "headline": "Bitcoin logs its worst day since March",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
-      "pub_date": 1764574221.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
       "headline": "Bitcoin takes another plunge, chances of reclaiming $100,000 by year end drop to 24% on prediction markets",
@@ -93,18 +103,8 @@
       "article_url": "https://www.theblock.co/post/380997/vanguard-clients-trade-funds-crypto-bitcoin-xrp-solana-starting-week-bloomberg",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Spot bitcoin ETF outflows hit $3.5 billion in November, largest monthly outflow since February",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yUWJzdUdmWGVsblR5OXhCM2tRRnpUZ2lGRVBDR3RSTHlhQjhVN19rb2xuMjJHVWt2aUl5VHpOMEsxb05XblRsWU5GSmtRajVKZ3BOUmZ5b1prc2tYT3BMTzZQVG5LeElBLTJqVGIyWVFERHg3WGs1YtIBfkFVX3lxTE5NXzdlaGl4Q0VVNnlWbnB5dElzWEw0RHBKb1pGMXVYLWtudDZfd0RzTnF4QmlTVjhoQmcwQVlsWTYtRG1YbzVIWFZkeXVUN25pMmpsazdrNEhobWRVSkVpRDZQbUptanRwVnFCeUI4X2JKUjdGNVZ2dWhMS1M2Zw?oc=5",
-      "pub_date": 1764573372.0,
-      "article_url": "https://www.theblock.co/post/380847/spot-bitcoin-etf-outflow-november",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T08:17:52.411461+00:00"
+  "fetched_at": "2025-12-02T08:48:50.142867+00:00"
 }

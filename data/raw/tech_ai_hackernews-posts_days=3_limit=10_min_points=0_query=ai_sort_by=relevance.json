@@ -79,7 +79,7 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 158,
+      "points": 164,
       "num_comments": 228,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
@@ -93,8 +93,8 @@
       "url": "https://red.anthropic.com/2025/smart-contracts/",
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
       "author": "bpierre",
-      "points": 156,
-      "num_comments": 80,
+      "points": 162,
+      "num_comments": 81,
       "created_at": "2025-12-01T23:44:51Z",
       "object_id": "46115214",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": null
     }
   ],
-  "total_hits": 386,
+  "total_hits": 390,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T06:53:24.566783+00:00"
+  "fetched_at": "2025-12-02T07:39:31.923509+00:00"
 }

@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Apple names former Microsoft, Google exec to succeed retiring AI chief",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRM28yTHFBbHJXVVFKNURvZ0ZTV2lWNDJhUUFIakxNWTRfZUphZnozN2xMS3liSGdVQlFCeWktNXJpVlQ0WVBmNDlmbmh3Nl9NZlV5N0lHZHbSAV5BVV95cUxQRUZhVUF0SGZldlVtTUdyV2dkWmZsMy02MFdqWFhBTzYzV21DMHRjZ3dfemtpSUhjTXg3SnNhcmVUSW91YXgzc1ZEOVAyU3hPZVlFU21WVHdKVVJtejZn?oc=5",
-      "pub_date": 1764627863.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/apple-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/105321445-1531249219810gettyimages-849703464.jpeg?v=1764627331&w=1920&h=1080",
-      "description": "Apple's AI chief is stepping down after experts say the company has fallen behind its peers when it comes to investing in AI data centers, chips and models."
-    },
-    {
       "headline": "Apple\u2019s A.I. Chief, Who Failed to Deliver a Smarter Siri, Is Retiring",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -25,32 +15,22 @@
       "description": null
     },
     {
-      "headline": "Apple's AI chief abruptly steps down",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzRjNzJ6MG9nZzNYQ2RrdHVfNlhRYklRa1k5YVkyRTBhZGVCYm1jSFFuUFdjSk1QTkdrUzhMS29wOVlyY1B6ZGhBZFFNcnEzb1JrQzliQjVKVWphVE9rdjJDMXZ0VDFoZUxVRGo3OEdwNm9VbHlWQkJxWmhxMTZZbDFsSlRPcW1pX194djY0anFBUdIBVkFVX3lxTE9Uc0NKZ1JyWE8zbnM3bkRfeS03dTE1S3BBdjJnRHVxclJISnRHY1lfbkFUY29VWGpZN0NxT29NWlRNMHVuQ2dNWVhDY3VGMDhxOTI1NjhR?oc=5",
-      "pub_date": 1764631413.0,
-      "article_url": "https://www.nbcnews.com/business/business-news/apples-ai-chief-abruptly-steps-rcna246877",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251201-John-Giannandrea-ew-558p-edc3b0.jpg",
-      "description": "The unexpected change comes as the world's second-largest public company struggles to compete in the AI revolution."
+      "headline": "Apple names former Microsoft, Google exec to succeed retiring AI chief",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRM28yTHFBbHJXVVFKNURvZ0ZTV2lWNDJhUUFIakxNWTRfZUphZnozN2xMS3liSGdVQlFCeWktNXJpVlQ0WVBmNDlmbmh3Nl9NZlV5N0lHZHbSAV5BVV95cUxQRUZhVUF0SGZldlVtTUdyV2dkWmZsMy02MFdqWFhBTzYzV21DMHRjZ3dfemtpSUhjTXg3SnNhcmVUSW91YXgzc1ZEOVAyU3hPZVlFU21WVHdKVVJtejZn?oc=5",
+      "pub_date": 1764627863.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/apple-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/105321445-1531249219810gettyimages-849703464.jpeg?v=1764627331&w=1920&h=1080",
+      "description": "Apple's AI chief is stepping down after experts say the company has fallen behind its peers when it comes to investing in AI data centers, chips and models."
     },
     {
-      "headline": "An independent effort says AI is the secret to topple 2-party power in Congress",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFpBUmdMd2JCWkZhZE5TNU40V3Vlc2wxLUI3X2Z1X2hBajhLTlZYdFh1RFg3Q3Vob0k1bk0zenQ5NHhBRnRzZE1ZMmxpUVhMUldOemx6VTJxYlQ2dmxPeUVYLXlpcWZzdWFwdHhOMzlkTGZHUUg3Z3BOSW1NQkYxZEJSRDVpeWVQekd3VzBqOC11VEVuQUhLMGVB?oc=5",
-      "pub_date": 1764583200.0,
-      "article_url": "https://www.npr.org/2025/12/01/g-s1-98267/ai-independent-candidates-congress-two-party-control",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2024+0+232/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F3d%2F7f56b150456e90265385306931b1%2Fglennharvey-2025-11-07-npr-f53.jpg",
-      "description": "Using artificial intelligence to identify Congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system."
-    },
-    {
-      "headline": "AI Startup Upstage Hires KB Securities, Mirae for Korea IPO",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlZnWS1tNWw5Tk9vYjgwdmx4NjZoWHZDZnJHVEREemk4bXRHc2YxZjFVbzY5MTJobXg0YUQyRFVnRm51WE9nLUNFa1JrT2laZUtFN2NDdHlMVkk5ZVMtUEVsZkZENENMbml3ZURuTmhjX2F0MUJaTENjZlpZdkt0OFg2akEyOF95Nk5ad2txT2x3QTk1V003aGVGVlFiVFJRYWp2TnRna1RhM2pQTXc?oc=5",
-      "pub_date": 1764654300.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/ai-startup-upstage-hires-kb-securities-mirae-for-korea-ipo",
+      "headline": "Meet Amar Subramanya, Apple's New Vice President Of AI",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVNmUXBBQm1FVm05UF9aRHNwWlpCUWU4MkVfM2dGbUhFclBCS0VXUzBtZFVDTXFXOGRfQkJjbG1ULUhhOUZOVmxqSG1KTEFVZjREUkFXQjdWQVZ0RzN2WThGVlZSNzRadDZfeDYyXzJCdTc1TERxb1E1ZWJ1WFV3VmU0dTl6Z3JTc29jVWV2LVByXzVPcVRV0gGfAUFVX3lxTFA1aDJZNWJRNm1WUWR3a19jWEFUYWN6TUd1Nmx1ckR4WXI0M3VSOFVmMXFYcDh6U05zd3ZzTWJuTjNPd2tGTldIUWxLeTJ3X192TTRTMW1ZR1RuOGlQRXltajhBSnA5N1dDZ3VQbHpRalpPS0d0enBOazQxNUtmelZxSHVHWGk4Nk91bFZOYXRsY2ZLV3hzcER0QTBNbVhRRQ?oc=5",
+      "pub_date": 1764649459.0,
+      "article_url": "https://www.ndtv.com/world-news/meet-amar-subramanya-apples-new-vice-president-of-ai-9734562",
       "image": null,
       "description": null
     },
@@ -58,21 +38,61 @@
       "headline": "OpenAI\u2019s Altman Declares \u2018Code Red\u2019 to Improve ChatGPT as Google Threatens AI Lead",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOdDBrOFhaMG1jSkUzZjFuOFhlYU1VYUVmRWlkQ2xydmhQdV9XLUt2U2ZzTF9MYnNFN2VTcWtSX0VmczRTNENDVzcwNUVOc19kcVJPS045RU1qVjdQd0lET3ItU0Y3dVRaN1NpZ0NJT2YyWGNJUVFsSE40ZjNTRlE4cUFPeE5QcEJJaklvNl9mUUhsRlVyZHZ1a0VTVTAwVTFid0F1c0NMOTNTTjJ2anRMNnMtMDdzMEM2TGtsX0h3aUNiSFJKNWRJaDVrWkE3akhERi1VWmtDcnNrQWNxQ2hTTDZpYXBaOTJKRWFrYmF2Z3R4a2d1eEVlS09LVGJ3UW9CZlNWRXhEallVelJPU2FLenl3Ti1Mc1JrdjZBZm5wTkhvMHZ5bTd0WTFjWkw5Q2pQSlFhcTh2UlpPSlhhNGJwejRtZjBqaEh6aGo4YTh5VFpCWXVYalJqSjU1SVdicmhyOGwyQ3Rhb1JnX04wMjV4Q3lkczNDR0o1bkxYejlvcEdhUzJLVXpHZW40UnpNYkxDNTZRZTlmMTJhWUFRZ3lXekVHbndDQ2hpRUs2Y3U4dVloaHh5a2ZoM2haWWw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQNmcxRzJxcHJydEx6cG5iYk5NQmJiUzZFNkluX0JMZ1R0cjRpN1o2WnlNUkFlOUFRYUNWN0JCdUlNUjRTWFdlMjAyM1NKMC1Vd3EwQ0VwVFhwdjIwcmZUcnFmRk90VGVMZXBnNmh0S0EzZDhNZ25XNHRtTmlJdVRkWU1INU5tRHlNLVIwRnM1NXNnVnpsaG9uMkJHYlRaWTdRN0MwbVdrRy1JRVFwbkN6MU1BVno5c05WcnNLYzNFZzJQTFVhbmhndXVVUnBjTk5IV1IzQlRMY2NrYk1OQ2cwOFRfZG5wdVpDWGpBM29OeTNtem5jaEp0YkVQYThfc2FkOVlqNjk3ZU9iQkV4c19LdHViWE03VGtwb3dZU3BXQ3hxS1ZVVE5LdW5wODdyT2xfYUJpV09OendONGdXa0Zob2JzMUlkMlRYcmZNQl9TVGVNTU1sSE4tZlV5WU4xOW1iQ1NpTVRhOXNYZ0xaZGdJT2t1M1Y4Ti1McC1rVW5NMnN3RjFJeWNyMHF4UUVvSTRoSWRuTXh5eWVXMUVPbTIwVEF5UFhEQ2ZpQ3VBcG5DNVpLZHhNMXJ2X3R4NGo?oc=5",
       "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqeKC6Bz2a0Ed4TWWIue1Rz9XMaZCI5ensvbkh71S8sz5QWrfCs5_n7P&gaa_ts=692e9067&gaa_sig=M2U820ICJRMO7yqJxDNBKVuOZWoMMY1UwphFAt7-p1TVe38ySR92_ifVf0LLIJKAW80DD6oA6WncXoHy_km3iA%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqfumvQdx1ZcP26ZJ_KCDwNBIn9P83FG3hscuq7FnRoAxcvUEUe_YcON&gaa_ts=692e9b37&gaa_sig=2xZXyD0fIr-hqjajkL39GvMIRuM67IoX85LG9fTd_aI0FOirBqpduvM-IvF5yUfnh-Kq9Ssk7D0GExWbeTUZBQ%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "UK pension funds dump US equities on fears of AI bubble",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PcWFWbkNnaHZIdXRyeUxfTjhjQzlHWi1NOGVwTlpvZ3NyUTYtYUItTkk0al9GSTBOOW1yVWY3bW04NVNTUzlBMldhRWRzMkEtb3FDeUZnekVITVFtVDE5dGhLSUZJYTBOVFo5eFhyN3k?oc=5",
-      "pub_date": 1764651636.0,
-      "article_url": "https://www.ft.com/content/9d90d557-48e5-4f4b-a927-88071cef8ea9",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F945ae5b2-ba68-4f8c-9f4d-31171ae8e801.jpg?source=next-barrier-page",
-      "description": "Public and private-sector funds concerned over market\u2019s growing concentration in a small number of tech stocks"
+      "headline": "Zhipu Grows Revenue and Users on Path to China\u2019s First AI IPO",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd09GVFZTTm5wOHVTMVpTLUZHQkNOb2RiN3FJV2w4bVYzT0FFTVAwTURxei01T0lxcWplZ0ZWV0pJSldIV2JRaVN0NUZrZTM5alFoOVBoMjZkcVFKS3NhelQ4RzBIMFZmTkhNUFZXcW5hc2JzeS1zQVZnLXhEa1ZobEVGRHcwUDdfVXV2bUxsQ2c4N0ctbXNWWkh6VlVsU3hDejhyaVhtc2FDcGVXX1ljaFZn?oc=5",
+      "pub_date": 1764656880.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/zhipu-grows-revenue-and-users-on-path-to-china-s-first-ai-ipo",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "A 'seismic' Nvidia shift, AI chip shortages and how it's threatening to hike gadget prices",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzVJeVpWbWtQc2tfNGVzcHJHdWJXVUt1a3lZOTBRRDFhRDBOTWNCb0FpeDlpVlNKdUdSQzQ5UmJuMklJTGZFODFqSTJuM2xhN2tnLUd4ZUFkUW9kVHFIT3M5a2d5NnRRTnllTmRxZUFNVjk1OHVkLUozSzZWT2FCbkFIWF94cVNZc1N6OFFVSXRDMWRscy1hQmdHR1ozVUZmZG9R0gGoAUFVX3lxTFBaYlhKUUlQRWluSGJJUmFQTHBGdl9TYWxHdzg1QlZZMHp6RkltUTFZTmswYm1jWlNKemNyeTJOVDZyaF9tbzk5aEpmNE1KWjlpTnNHUTgxR0RTWW9hdnlxQUVMd21TSl9ZS21BaFBrVGIxV3U0M2ptUmY3elZsMFRvb1Boc25sSjRQVkt5TmhjalVPWmp5SmF2cjM3WlhmM3RHdWFmdlBfUg?oc=5",
+      "pub_date": 1764657008.0,
+      "article_url": "https://www.cnbc.com/2025/12/02/nvidia-shift-ai-chip-shortages-threatening-to-hike-gadget-prices.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108233306-1764322289679-gettyimages-2241962168-ECP_fc1300561.jpeg?v=1764322377&w=1920&h=1080",
+      "description": "The AI infrastructure buildout is creating shortages of components including various types of chips that are also used in consumer electronics."
+    },
+    {
+      "headline": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrVVBZR0I4cGsyaHg1WVpTMVlzRUpoZW15TXd0c2JjNG5hSkJ4Rmdyakk0YmpReWo4Z01KRzliaU9PMnNRODU3Z05iQ3JzNVB5WUhaeDNyenZJZTh4dkMweVlwQUFLcHBGS2RwR3JNN3Z5TjlPM09nVl9n?oc=5",
+      "pub_date": 1764608797.0,
+      "article_url": "https://blogs.nvidia.com/blog/neurips-open-source-digital-physical-ai/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2025/11/NeurIPS2025KV_Alpamayo.jpg",
+      "description": "NVIDIA releases new AI tools for speech, safety and autonomous driving \u2014 including NVIDIA DRIVE Alpamayo-R1, the world\u2019s first open industry-scale reasoning vision language action model for mobility \u2014 and a new independent benchmark recognizes the openness and transparency of NVIDIA Nemotron models and datasets."
+    },
+    {
+      "headline": "Famed short seller Jim Chanos sees risks in growing debt market backed by Nvidia\u2019s AI chips: 'There's going to be debt defaults'",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVDRuYVFDRGZRNFZTUW1QbUVjV2JVMGkxVVU2Ulo0VDRDWG1iVDYzOUdZVWhUeVc4X1kxM3lSdUFEcWh2c0piS09uUEtoaEk3ZWNVSFVLTEFtb1BSTmtPekxHR2dxd1o1VzBHdE1MdmRwVERXNmdjZlEwVEp0VVRSWjFMdlMyLV9DeHZOSWZCWkF6VU1hekNHRkZPR25ZZFYybUp1RkhnQmV2dG5FcWdqRGtXZzNGbzluQTY2RkliS2JHVXFFNGtUYTBBRzZ5Qzk0T3hLWEV0M3JSVEVDV0xqMGI5bTI5aXJDZndET0RRdnZjLWtVNmE3dlhmVGpudw?oc=5",
+      "pub_date": 1764586813.0,
+      "article_url": "https://finance.yahoo.com/news/famed-short-seller-jim-chanos-sees-risks-in-growing-debt-market-backed-by-nvidias-ai-chips-theres-going-to-be-debt-defaults-110013557.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/vOISLQVgvqq9z2jWQ5H.9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/684e2450-c09f-11f0-97fd-fae944aed1e9",
+      "description": "Nvidia's AI chips have been used as collateral by emerging cloud companies to secure big loans."
+    },
+    {
+      "headline": "Fearing AI job losses, some young workers in Britain shift towards skilled trades",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1hkLUs1YTVTbkg5bEFZbTRrWFR6Um1VcUVVY0pKVEdxbW8tZXdZel94b1lKdWx3Z0pmNHN2eThUa1BGQWpmdDBKbnVETElqRjhfYjdtS2QwUEF2MXJWMzB4N0VWaDFxa0RyN21BLUdFU3VPS0dyWm5lQlMwWEJFOHdaSUQ?oc=5",
+      "pub_date": 1764658980.0,
+      "article_url": "https://www.yahoo.com/news/articles/fearing-ai-job-losses-young-070322702.html",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/12df0987f1c5e670dd7e7394b6b6e2c7",
+      "description": "In a labour market where artificial intelligence is quickly transforming and sometimes replacing jobs, student Maryna Yaroshenko wanted to find a future-proof career that offered long-term stability.  Like a growing number of young people in Britain and beyond, 18-year-old \u200bYaroshenko opted for a skilled trade and is now training to become a plumber.  \"That's something AI won't take over,\" said Yaroshenko, who is originally from Ukraine \u200cand is studying at the City of Westminster College (CWC) in London."
     },
     {
       "headline": "Opinion | How to Prepare Your Kids for the A.I. Revolution",
@@ -83,28 +103,8 @@
       "article_url": "https://www.nytimes.com/2025/12/01/opinion/ai-parents-children.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "The People Outsourcing Their Thinking to AI",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWFhY1JvYmNPUnVkaURvVVZsRExPQk1Edzd4SUh6ODNvOTNUNXJjakp6NDUwTFZDdktGYy1EUHdpdUVOVDVVY0l6OGRWR2htUFMySmtoaW5FMGRWY1pON2JmNnJqZFF5NE5pZ2poMVFZNUdXb1czRV9TOF9nMUVIbGNRMy1vaDMwWU5aazREREhWODNjc1E?oc=5",
-      "pub_date": 1764592200.0,
-      "article_url": "https://www.theatlantic.com/technology/2025/12/people-outsourcing-their-thinking-ai/685093/",
-      "image": "https://cdn.theatlantic.com/thumbor/Llk9rk0EWzJeAoNISzv4UhoCgoo=/0x83:2000x1125/1200x625/media/img/mt/2025/11/2025_11_29_AI/original.png",
-      "description": "Rise of the LLeMmings"
-    },
-    {
-      "headline": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEY4SE05SHRWdUhCVWZPZEdmLXVCUlpIckthU2phZ3hqelg4cEgzNEFtVi1aakdGaHFPei1naW5iZHVNTDFIY2JvVEJ6UW5kRkotMHFuelpRVVdReHp6VVVTcVFsdDZ6dlZrNHVrT2Q5ZF9kd3p1QWFDRUxrXzZjN0pMZElxLVFEaGRVUlpxYk0xcDN2cUFHMlUwWjJNVlBmQ3JwaHN3aFE4YUZGTnJyRThmY051SmNBRDd5VTI0UGFiNmVPX1NMOFN1b0dINWwzTDRuZFNQMkQ3T2Ez?oc=5",
-      "pub_date": 1764634320.0,
-      "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
-      "image": "https://i.guim.co.uk/img/media/3a0b9b3f8dd7ac48f7a548037c63002bc5661c22/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd918b07d627fc9aa7296acc6d16da0d",
-      "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T06:53:49.356468+00:00"
+  "fetched_at": "2025-12-02T07:40:03.259757+00:00"
 }

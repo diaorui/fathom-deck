@@ -68,17 +68,6 @@
       "description": "Apple has a new AI chief."
     },
     {
-      "title": "Why Build a Giant Model When You Can Orchestrate Experts?",
-      "author": "MarketingNetMind",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbd09r/why_build_a_giant_model_when_you_can_orchestrate/",
-      "published": 1764596332.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Just read the Agent-Omni paper. (released last month?) Here\u2019s the core of it: Agent-Omni proposes a master agent that doesn't do the heavy lifting itself but acts as a conductor, coordinating a symphony of specialist foundation models (for vision, audio, text). It interprets a complex task, breaks it down, delegates to the right experts, and synthesizes their outputs. This mirrors what I see in Claude Skills, where the core LLM functions as a smart router, dynamically loading specialised \"knowledge packages\" or procedures on-demand. The true power of it, as is much discussed on Reddit subs, may lie in its simplicity, centered around Markdown files and scripts, which could give it greater vitality and universality than more complex protocols like MCP maybe. I can't help but think: Is this a convergent trend of AI development, between bleeding-edge research and a production system? The game is changing from a raw computing race to a contest of coordination intelligence. What orchestration patterns are you seeing emerge in your stack?"
-    },
-    {
       "title": "Google CEO warns US AI regulations risk ceding edge to China",
       "author": "JTHGraphics",
       "url": "https://www.reddit.com/r/artificial/comments/1pbfm42/google_ceo_warns_us_ai_regulations_risk_ceding/",
@@ -88,6 +77,17 @@
       "site_name": "thinkautomated.io",
       "favicon": "https://thinkautomated.io/logo.svg",
       "description": "Sundar Pichai says a fast-growing patchwork of state AI laws could slow U.S. innovation and hand China an edge unless Congress sets clear national standards. Here\u2019s what he said, how the U.S. debate compares with Europe and China, and what automation leaders should do now."
+    },
+    {
+      "title": "Why Build a Giant Model When You Can Orchestrate Experts?",
+      "author": "MarketingNetMind",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbd09r/why_build_a_giant_model_when_you_can_orchestrate/",
+      "published": 1764596332.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Just read the Agent-Omni paper. (released last month?) Here\u2019s the core of it: Agent-Omni proposes a master agent that doesn't do the heavy lifting itself but acts as a conductor, coordinating a symphony of specialist foundation models (for vision, audio, text). It interprets a complex task, breaks it down, delegates to the right experts, and synthesizes their outputs. This mirrors what I see in Claude Skills, where the core LLM functions as a smart router, dynamically loading specialised \"knowledge packages\" or procedures on-demand. The true power of it, as is much discussed on Reddit subs, may lie in its simplicity, centered around Markdown files and scripts, which could give it greater vitality and universality than more complex protocols like MCP maybe. I can't help but think: Is this a convergent trend of AI development, between bleeding-edge research and a production system? The game is changing from a raw computing race to a contest of coordination intelligence. What orchestration patterns are you seeing emerge in your stack?"
     },
     {
       "title": "One-Minute Daily AI News 12/1/2025",
@@ -112,5 +112,5 @@
       "description": "Don't need a notice if everyone's doing it."
     }
   ],
-  "fetched_at": "2025-12-02T06:53:24.606869+00:00"
+  "fetched_at": "2025-12-02T07:39:31.929868+00:00"
 }

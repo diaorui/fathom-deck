@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-12-02T07:39:59.941359+00:00",
+  "data": {
+    "url": "https://blogs.nvidia.com/blog/neurips-open-source-digital-physical-ai/",
+    "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI",
+    "description": "NVIDIA releases new AI tools for speech, safety and autonomous driving \u2014 including NVIDIA DRIVE Alpamayo-R1, the world\u2019s first open industry-scale reasoning vision language action model for mobility \u2014 and a new independent benchmark recognizes the openness and transparency of NVIDIA Nemotron models and datasets.",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2025/11/NeurIPS2025KV_Alpamayo.jpg",
+    "favicon": "https://blogs.nvidia.com/favicon.ico",
+    "site_name": "NVIDIA Blog",
+    "author": "Bryan Catanzaro",
+    "keywords": null
+  }
+}

@@ -1,25 +1,6 @@
 {
   "papers": [
     {
-      "id": "2511.22677",
-      "title": "Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield",
-      "authors": "Dongyang Liu, Peng Gao, David Liu et al. (11 authors)",
-      "organization_name": "Tongyi-MAI",
-      "organization_fullname": "Tongyi-MAI",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
-      "summary": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stand out for their impressive performance, which is widely attributed to their core mechanism of matching the student's output distribution to that of a pre-trained teacher model. In this work, we challenge this conventional understanding. Through a rigorous decomposition of the DMD training objective, we reveal that in complex tasks like text-to-image generation, where CFG is typically required for desirable few-step performance, the primary driver of few-step distillation is not distribution matching, but a previously overlooked component we identify as CFG Augmentation (CA). We demonstrate that this term acts as the core ``engine'' of distillation, while the Distribution Matching (DM) term functions as a ``regularizer'' that ensures training stability and mitigates artifacts. We further validate this decoupling by demonstrating that while the DM term is a highly effective regularizer, it is not unique; simpler non-parametric constraints or GAN-based objectives can serve the same stabilizing function, albeit with different trade-offs. This decoupling of labor motivates a more principled analysis of the properties of both terms, leading to a more systematic and in-depth understanding. This new understanding further enables us to propose principled modifications to the distillation process, such as decoupling the noise schedules for the engine and the regularizer, leading to further performance gains. Notably, our method has been adopted by the Z-Image ( https://github.com/Tongyi-MAI/Z-Image ) project to develop a top-tier 8-step image generation model, empirically validating the generalization and robustness of our findings.",
-      "ai_summary": "The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.",
-      "hf_url": "https://huggingface.co/papers/2511.22677",
-      "arxiv_url": "https://arxiv.org/abs/2511.22677",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22677.png",
-      "upvotes": 14,
-      "num_comments": 2,
-      "published_at": "2025-11-27T13:24:28.000Z",
-      "github_repo": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
-      "github_stars": 3813,
-      "project_page": "https://tongyi-mai.github.io/Z-Image-blog/"
-    },
-    {
       "id": "2511.22699",
       "title": "Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer",
       "authors": "Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)",
@@ -36,6 +17,25 @@
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
       "github_stars": 3879,
+      "project_page": "https://tongyi-mai.github.io/Z-Image-blog/"
+    },
+    {
+      "id": "2511.22677",
+      "title": "Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield",
+      "authors": "Dongyang Liu, Peng Gao, David Liu et al. (11 authors)",
+      "organization_name": "Tongyi-MAI",
+      "organization_fullname": "Tongyi-MAI",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
+      "summary": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stand out for their impressive performance, which is widely attributed to their core mechanism of matching the student's output distribution to that of a pre-trained teacher model. In this work, we challenge this conventional understanding. Through a rigorous decomposition of the DMD training objective, we reveal that in complex tasks like text-to-image generation, where CFG is typically required for desirable few-step performance, the primary driver of few-step distillation is not distribution matching, but a previously overlooked component we identify as CFG Augmentation (CA). We demonstrate that this term acts as the core ``engine'' of distillation, while the Distribution Matching (DM) term functions as a ``regularizer'' that ensures training stability and mitigates artifacts. We further validate this decoupling by demonstrating that while the DM term is a highly effective regularizer, it is not unique; simpler non-parametric constraints or GAN-based objectives can serve the same stabilizing function, albeit with different trade-offs. This decoupling of labor motivates a more principled analysis of the properties of both terms, leading to a more systematic and in-depth understanding. This new understanding further enables us to propose principled modifications to the distillation process, such as decoupling the noise schedules for the engine and the regularizer, leading to further performance gains. Notably, our method has been adopted by the Z-Image ( https://github.com/Tongyi-MAI/Z-Image ) project to develop a top-tier 8-step image generation model, empirically validating the generalization and robustness of our findings.",
+      "ai_summary": "The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.",
+      "hf_url": "https://huggingface.co/papers/2511.22677",
+      "arxiv_url": "https://arxiv.org/abs/2511.22677",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22677.png",
+      "upvotes": 14,
+      "num_comments": 2,
+      "published_at": "2025-11-27T13:24:28.000Z",
+      "github_repo": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
+      "github_stars": 3883,
       "project_page": "https://tongyi-mai.github.io/Z-Image-blog/"
     },
     {
@@ -183,7 +183,7 @@
       "hf_url": "https://huggingface.co/papers/2511.20462",
       "arxiv_url": "https://arxiv.org/abs/2511.20462",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.20462.png",
-      "upvotes": 25,
+      "upvotes": 26,
       "num_comments": 2,
       "published_at": "2025-11-25T11:27:58.000Z",
       "github_repo": "https://github.com/apple/ml-starflow",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-02T21:53:12.688423+00:00"
+  "fetched_at": "2025-12-02T22:57:55.291059+00:00"
 }

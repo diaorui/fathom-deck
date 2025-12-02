@@ -35,17 +35,6 @@
       "description": "I'm canceling my Google One AI Premium sub today. This is exactly the same garbage behavior OpenAI pulled, and I'm not falling for it again. We all know the drill by now. You pay for the Pro model, you start a chat, say hi, and it gives you a smart response. But the second you actually try to use the context window you paid for - like pasting a 3k word document or some code - the system silently panics over the compute cost and throttles you. It's a classic bait and switch. Instead of processing that context with the Pro model I'm paying twenty bucks a month for, it clearly kicks me down to a cheaper tier. It feels exactly like when GPT would silently swap users to the mini or light model after a couple of turns or if you pasted too much text. I fed it a 3,000 word PRD for a critique. I expected a rewrite that actually kept the details. Instead I got a 700 word summary that reads like it was written by the Flash model. It just gutted the entire document. It's not conciseness. It is dynamic compute throttling. They are advertising a Ferrari, but the moment you try to drive it on the highway they swap the engine for a Prius to save electricity. If I wanted Flash performance on my long documents, I'd use the free tier. Stop selling me Pro reasoning and then hot-swapping the model when the math gets expensive. Has anyone found a way around this or is it time to just go full local/Anthropic?"
     },
     {
-      "title": "Apple AI chief steps down amid Siri struggles",
-      "author": "theverge",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbrgat/apple_ai_chief_steps_down_amid_siri_struggles/",
-      "published": 1764629250.0,
-      "thumbnail": "https://external-preview.redd.it/3Sx4PjNLpold2Htxn7Vs5vMzEeIeGiK2vZYPQBn7G0Y.jpeg?width=640&crop=smart&auto=webp&s=84151d7a76d53abad92d8177b4be4562e51be1ea",
-      "external_url": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri",
-      "site_name": "The Verge",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "description": "Apple has a new AI chief."
-    },
-    {
       "title": "AI training has a big black market problem",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1pbjt8y/ai_training_has_a_big_black_market_problem/",
@@ -55,6 +44,17 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "A shadow market for AI training and data labeling accounts has emerged, with scammers selling Outlier, Mercor, and Surge AI accounts online."
+    },
+    {
+      "title": "Apple AI chief steps down amid Siri struggles",
+      "author": "theverge",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbrgat/apple_ai_chief_steps_down_amid_siri_struggles/",
+      "published": 1764629250.0,
+      "thumbnail": "https://external-preview.redd.it/3Sx4PjNLpold2Htxn7Vs5vMzEeIeGiK2vZYPQBn7G0Y.jpeg?width=640&crop=smart&auto=webp&s=84151d7a76d53abad92d8177b4be4562e51be1ea",
+      "external_url": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri",
+      "site_name": "The Verge",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "description": "Apple has a new AI chief."
     },
     {
       "title": "Why Build a Giant Model When You Can Orchestrate Experts?",
@@ -112,5 +112,5 @@
       "description": "Working with AI engineering teams for years has shown me a consistent pattern. Most of the time isn\u2019t spent on model. It\u2019s spent on repetitive workflow steps. - Ingestion: data formats vary, cleaning rules stay the same - Chunking: simple segmentation but breaks easily when inconsistent - Metadata alignment: structural drift forces manual fixes - JSON validation: mechanical corrections to model output - Eval setup: repeated patterns across every project - Tool contracts: predictable inputs and outputs - DAG wiring: same templates, different logic - Logging and fallback: always required, rarely complex These steps repeat because they aren\u2019t deep-skill tasks, but they hold the system together. What are the repetitive parts of your AI workflow that slow you down the most?"
     }
   ],
-  "fetched_at": "2025-12-02T05:18:51.662494+00:00"
+  "fetched_at": "2025-12-02T05:52:00.589229+00:00"
 }

@@ -29,10 +29,30 @@
       "source": "Teslarati",
       "source_url": "https://www.teslarati.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzlQd0FwRUtZQm9JRG5YNDdzb084bkRzWjYwLThhS24zd2tPVlhCMVVfdy1SSVllcGNja0NWWTd3UllLWVBFY296ZmV4bnJZdzVGRnRMUlZMcGpaV0Z5M2hRMnZJaU0wanJhUXB3QnlXQ3o5M1ZwUXNJQWZYQkRMVWJaWjRoOUNYNF9tXzRHVFY4R0F6cUVB?oc=5",
-      "pub_date": 1764588445.0,
+      "pub_date": 1764577606.0,
       "article_url": "https://www.teslarati.com/elon-musk-predicts-ai-robotics-make-work-optional-within-20-years/",
       "image": "https://www.teslarati.com/wp-content/uploads/2025/11/2048px-Elon_Musk_54817684706-1000x600.jpg",
       "description": "Speaking on entrepreneur Nikhil Kamath\u2019s podcast, Musk predicted that machines will soon handle most forms of labor, leaving humans to work only if they choose to."
+    },
+    {
+      "headline": "China Is Officially Scared of Robots",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHBvU2RNd1c2dEFlcGNuNGNtUkh5UkNCYzA2aWdjNlRtSWNHOWFaZXpzbjRQTjk3NEt6QnhUZ3FVTFZER2JkVlNnZE9JNFU1OXNESXRsc19VYVpmTEtSRGx6VndRSGxfN082elJfeTZjWWltOUJ0TjNGTjg4azFiU3c0OEs?oc=5",
+      "pub_date": 1764623460.0,
+      "article_url": "https://futurism.com/robots-and-machines/china-officially-scared-robots-bubble",
+      "image": "https://futurism.com/wp-content/uploads/2025/12/china-officially-scared-robots-bubble.jpg?w=1200",
+      "description": "Chinese officials are warning that the country's humanoid robotics industry could be forming a massive bubble."
+    },
+    {
+      "headline": "Following an Atlanta food delivery robot reveals how sidewalk automation really works",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmNoUVI1VnIyM3dvSWZsMEVrVC03cDBhSEhoNzdMSmNfMTRmUExpYjZXbGRMUTVaNjBQSkVrVzVMeUpWRm5rNEI2UWtLTXgwcUpUSFZCdlR2bkk1ejl2RWJmT09IdGRIeU5ENlZhbDBUVC0xUW5ta3JhUl9FdUFTTFgtUGl5RDIyMGxNZFk2U2lKRzFkWk1KcjJFdWJiLW81Ui01SS1IZlQtUFVCbGhMa21ONWR4czI3WnU3aFZER0w?oc=5",
+      "pub_date": 1764652117.0,
+      "article_url": "https://www.cbsnews.com/atlanta/news/following-an-atlanta-food-delivery-robot-reveals-how-sidewalk-automation-really-works/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/02/d9aa2a2b-cedb-45b3-8a77-a5e49ca9bf35/thumbnail/1200x630/1924d63931283fd773259a8be564251e/screenshot-2025-12-02-at-12-04-54-am.png",
+      "description": "Food delivery robots are all over Atlanta's midtown and downtown sidewalks. Here's what experts say about their efficiency and economic impact."
     },
     {
       "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas War",
@@ -45,16 +65,6 @@
       "description": "The robotic systems have gotten much more diverse and standardized, being deployed in much higher volumes to assist with exploring Hamas tunnels, to save risking soldiers' lives from that process."
     },
     {
-      "headline": "China Warns of Bubble Risk in Booming Humanoid Robotics Industry",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGt6MXR5NFNlck96c2NIZ0VNbUdmRVlyRk5ZMDV3YzNtM1ctcEtRVnUxVElLNGZablJTWHlxaW1uMXhZU2dhcWhUbzh5cWhicGZWSTR4c2lCSmV2b2gxWVN6VTUwZld4V0xRZlFuV0tjZUR5NTlWeGpJMWJvRnBHdTBUX0VjRFJSZzNoQU5wNHk5ZkhkRjRxb3VDQTA1VmlLV3UxSGR6M3VPNW5RTWtzV1BubkdWZw?oc=5",
-      "pub_date": 1764302580.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-27/china-warns-of-bubble-risk-in-booming-humanoid-robotics-industry",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Tesla loses some AI staff to a new robotics startup",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -63,6 +73,16 @@
       "article_url": "https://www.businessinsider.com/tesla-loses-ai-staff-startup-sunday-robotics-2025-11",
       "image": "https://i.insider.com/692a04f3e1a9cbb014df2eb3?width=1200&format=jpeg",
       "description": "Sunday Robotics came out of stealth mode last week and revealed a team stocked with Tesla alumni."
+    },
+    {
+      "headline": "China\u2019s Robotics Stocks Face Investor Scrutiny Over Bubble Fears",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjY4QlJmQVVZazdqekZRcWhjOXBuSFp3ZnZISzIwbW9vZEtYSE9qRzVxUmRuYS1ZSG12NzZXQVV2b05jcldFV0tLdGFWWjVKU24yZ2lZZ0JuSnpIbG1DTlo5eklfVlIwR25QN2ZMUkNia0c4Nk5RRmNPdE50SGN6YlRUU3BWMjVBQldaS1dTcmJpZWM2TzN4bjNLN3lxY0N4djQ4N2hiQWVTa1o1VDVraUF0V2R4QQ?oc=5",
+      "pub_date": 1764374400.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-29/china-s-robotics-stocks-face-investor-scrutiny-over-bubble-fears",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Chinese schools offer \u2018embodied intelligence\u2019 courses to aid robotics industry",
@@ -83,28 +103,8 @@
       "article_url": "https://www.cnn.com/2025/12/01/world/video/amazon-robotics-change-warehouses",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22160871-1875959-3660000002-still.jpg?c=16x9&q=w_800,c_fill",
       "description": "CNN News Central\u2019s Sara Sidner speaks with Amazon Robotics VP about technology driving Amazon\u2019s holiday rush"
-    },
-    {
-      "headline": "CN Energy Group (NASDAQ: CNEY) debuts PATHENBOT robotics platform for North American SME automation",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzRRMHptaE1yN2ptUUdCeWZQVTFvSnZCMTY5QjNSUWtDMEVQSF9vbVJSV2NEcDlqYmNmVTA4TVZPZmxDYmFRbzUtRVMzQjdVZVlaV3ZPSl9iR1Y3MjVGZTN2Z2F6eFkycnh3ZENTQVFFMW00VWJ1alBJZ1M3blRYMWtBd2g1cHJXOUVidm1sbnJtZVRsVzVNaURncWlLTHdHSjlocUpRaUExR1hxQkwxajRNdVZRanptOW1XZ1RPSUY?oc=5",
-      "pub_date": 1764586500.0,
-      "article_url": "https://www.stocktitan.net/news/CNEY/cn-energy-group-inc-announces-launch-of-pathenbot-robotics-solutions-8clg2yncq3aa.html",
-      "image": "https://static.stocktitan.net/company-logo/cney-lg.png",
-      "description": "CN Energy\u2019s PATHENBOT unit launches a robotics solutions platform and official website to deliver customizable automation for North American SMEs."
-    },
-    {
-      "headline": "Singapore must develop robotics, AI talent pipeline to stay competitive: National Robotics Programme",
-      "source": "CNA",
-      "source_url": "https://www.channelnewsasia.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDBkOEJlU1J2NFFhSEtSZEVGSjNMU3paeUlrRnI3WlB4Q1hUN21tWWZYWUNLMURkUmh4X0pzS21tcDM2MWNKREU3dTN2ak1obXNtb1lGZ21nQ1V3Zjc5a0tzeEFJdVdGLVVzTUpDYWp5TUgyR1lNSmd2dkkzOGd4LVdWRFMzTkJCWndCX1JhYjVqT2lGTFZWbldWNV9kOTJ4SnNJOF9zc1lNamhNeWlOUm5fajdIaU16Y0NkbldKQVNaa19TeDNUdDZyT292NWhoVWtF?oc=5",
-      "pub_date": 1764577376.0,
-      "article_url": "https://www.channelnewsasia.com/singapore/robotics-artificial-intelligence-tech-talent-singapore-labour-manpower-competition-jobs-5499491",
-      "image": "https://dam.mediacorp.sg/image/upload/s--DLfY-PSV--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/12/01/screenshot_2025-12-01_153839_0.png?itok=qPjyK67C",
-      "description": "This push comes as the country positions itself to secure a share of the global robotics landscape."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T05:19:10.286571+00:00"
+  "fetched_at": "2025-12-02T05:52:19.874340+00:00"
 }

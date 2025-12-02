@@ -5,14 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin logs its worst day since March",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
-      "pub_date": 1764574221.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
+      "headline": "Bearish Signals Abound for Bitcoin and Ethereum: Here\u2019s What the Charts Say",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXkxZFA4Rm9zemlPUHV2cjJxRWMzTEtGU1RhQXFYUE5Oc2dVUDVGTlpwUGFURk1pOWtmSWl0R05OTXlPZGlkdjFtTXIxMVd0N3BGdTJmNWQ5cEF4MXEwYkM4Z0lyUjhZc0pQbWNVTkxoSURHeHpyR3dITzZkMGV5Y1MwX2JzUGFma25xV1FB?oc=5",
+      "pub_date": 1764626282.0,
+      "article_url": "https://finance.yahoo.com/news/bearish-signals-abound-bitcoin-ethereum-215802083.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/rreGuNlznmajeXC2gSHC0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/e1ba76bdb17ff516183e4ac4c878e706",
+      "description": "Bitcoin fell as low as $85,000 today, with Ethereum likewise down nearly 10%. Prediction markets are beginning to reflect what the charts are suggesting."
     },
     {
       "headline": "Ethereum News: BitMine (BMNR) Bought 97K in ETH Ahead of Fusaka Upgrade",
@@ -23,26 +23,6 @@
       "article_url": "https://www.coindesk.com/business/2025/12/01/tom-lee-s-bitmine-acquires-97k-eth-eyeing-fusaka-upgrade-fed-policy-as-positive-catalysts",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06503e9de607f639801425df078631e0e62f12d-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
       "description": "The firm has increased the pace of purchases from the previous week despite sitting on large unrealized losses on its Ethereum bet."
-    },
-    {
-      "headline": "Tom Lee's BitMine Buys More Ethereum\u2014But Both ETH and BMNR Are Diving",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTzIzcDQ2N2lvWGNnUV9rRzk2MWt1QVRwWWR1eThuZnNQQVM4SFB6eGwtV3RnTWhoMjM2dzBTOXo3YmotQTNWaTJGSXk1THZFbTFtM3JiQ3Qzb05uYzZPcl9vb1NPTjE4SjR6aGRCRDV5eWMzaDBZeDcxSVB0LXZrNXJiNNIBiwFBVV95cUxNZFBmblZpV3JzSEJ0REJOQzE5ajFTZTR6SUk3dm5iN1FLYUtmTVVXejFMc3VFMEdMVGt2X29hNTJyRzNmdWNpQ1FkQmNWb3VSQWxaZ2x1SkdQVzUyOElDcE41SUVFWFY1NE5vZVI5UkZnZWxkWHMzZjZ3LXV0VlY2TFBtYWFOUVY4a2Yw?oc=5",
-      "pub_date": 1764612000.0,
-      "article_url": "https://decrypt.co/350476/tom-lees-bitmine-buys-ethereum-both-eth-bmnr-diving",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
-      "description": "Tom Lee's Ethereum treasury and Bitcoin miner, BitMine Immersion, has bought more ETH, but the company's stock is down."
-    },
-    {
-      "headline": "Tom Lee's Ethereum DAT BitMine now holds 3% of the total ETH supply",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPei1NLXdBczcxZ19pWFkzWk1OZkJnX2tqdnYweVhFOVBMdElZMi1Fenh0UmlNU2RvR1hhRm9VbVRsR1NZdWE1bzBjb051UXQzN04zUzd1QVVlc2VkX0dFTU9WMXNwVTFqZWV1UDUxMWpwTGQzS2lQbDd1b2ppMWxtdlBoalhGbVXSAYwBQVVfeXFMUDhaLWpmM2dReUdlajJuSWc4LWdhUW9rd0d1TkRzaWdxSmlYc01RRXBaMDExbGpGSDBITUVlaWl0T24wcHFrVkNVb1ExVGN0SWJBV0xpcEYtX0d1Z1FaOFRwcUxCcjBvXzNGTG1DbFBJWHdfT2hadnd3LWpZaEMwSDljZ29VOUdLQ2N5ZDM?oc=5",
-      "pub_date": 1764601090.0,
-      "article_url": "https://www.theblock.co/post/380925/tom-lee-ethereum-dat-bitmine-two-thirds-goal",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Tom Lee Says Ethereum Firms Are \u2018Elite Of Wall Street\u2019 \u2014 Is His Bullish $9000 Prediction Possible?",
@@ -103,8 +83,28 @@
       "article_url": "https://coinpaper.com/12754/arthur-hayes-predicts-collapse-of-most-layer-1-tokens-outside-ethereum-and-solana",
       "image": "https://res.coinpaper.com/coinpaper/image/upload/v1764445718/shutterstock_2108025419_f807a3ca1c.jpg",
       "description": "Arthur Hayes warns most new L1s will fade, highlighting Ethereum and Solana as the only strong long-term blockchain contenders."
+    },
+    {
+      "headline": "Fidelity\u2019s Tokenized Fund on Ethereum Crosses $250M",
+      "source": "The Defiant",
+      "source_url": "https://thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3lxM0dsdGVhV1VCU1IyTGo0M05CTEN2cnlpOTRYVEM0cjJCQU5yUDVsV3NyS1RwRnFqYkdib1AxQ3NmV2dTQ1J6Z2JJekRSa3ZsTnZBWGRnT3l5SEdaX0hleTg5UGZUSDctVjduYnhQbjhWQ2FrbGJlcXkxLVk1RGVOX1ZnbG9MSmVkUVRBd05kZlpyQzY0enZlbGs1V2s?oc=5",
+      "pub_date": 1764357244.0,
+      "article_url": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Kevin O'Leary Says Altcoins Not 'Bouncing Back' As Investors Realize Bitcoin And Ethereum Are All You Need In Crypto: 'They Have No Use Case'",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNelVSUXVBQjFDT1VQY1c2ZFlYeFk2cHRaNjFZbUdvbzBHSFZkNnM2dlhjRG1KMm1leXFWRm9wUmxaYWZSVUlPbXJvem1WYTI2UUVWN1puRFcxRkoyaEhxWWF1MkpDRVVLZUZZU3gxNUlLeTdfbVZHcnd4U1NKNUFyMHVGUnlqeS0yV3cyb2dmbnRHX0xjVzdnSExZZ1M0R0RnYi1EYjVlblhPb0k2VTBDVmdwSnpjX2lnNzRWXzhtZ3FLM3dFV2lNX1drZUM4RTg1ZHJUdzJjazlKeG8tcDdQa3FRbk5RSy12bFE1OUc4N3VMMDhjaVZrRE9vY21xUEJNX1NONXhhdDVNOE5XVkNIZWhoYjk1d3U4QmRmLWRDMlFSajg?oc=5",
+      "pub_date": 1764649311.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/25/12/49152628/kevin-oleary-says-altcoins-not-bouncing-back-as-investors-realize-bitcoin-and-ethereum-are-all-you-need-in-crypto-they-have-no-use-case",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/01/Los-Angeles---Sep-23-Barbara-Corcoran--L.jpeg?width=1200&height=800&fit=crop",
+      "description": "Renowned investor and media personality&nbsp;Kevin O'Leary&nbsp;said Monday that altcoins are no longer bouncing back after market corrections, as investor attention is now solely on Bitcoin (CRYPTO:"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T05:19:08.725117+00:00"
+  "fetched_at": "2025-12-02T05:52:19.791995+00:00"
 }

@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-02T19:57:02.183659+00:00"
+          "dateModified": "2025-12-02T20:31:52.381759+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -864,6 +864,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pcin67/how_do_you_guys_handle_crash_forensics_on_amrs_in/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1pcin67/how_do_you_guys_handle_crash_forensics_on_amrs_in/" target="_blank" onclick="event.stopPropagation();">How do you guys handle crash forensics on AMRs in "WiFi Dead Zones"? Is rosbag_snapshot enough</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi everyone, I manage a fleet of robots in a warehouse environment where the network is terrible (lots of steel, random dead zones). We keep hitting the same issue: The robot gets into a bad state, the navigation stack fails, or it hits an E-stop. Because it’s in a dead zone, we can't stream the logs. By the time we physically get to the robot, we’ve often lost the context of why it failed. I’m currently prototyping a custom "Black Box" crash recorder to solve this, but I wanted to sanity check my approach with the community before I go too deep into the weeds. The concept I’m building: Instead of logging everything to disk (which kills our SD cards) or streaming (which kills bandwidth), I’m building a background agent that: Keeps the last 30-60 seconds of topics in a RAM ring buffer. Monitors the system for specific "triggers" (e.g., Nav2 failures, prolonged stagnation, or fatal error logs). Dumps the RAM buffer to an MCAP file only when a crash is detected. Queues the file for upload once the robot eventually finds WiFi. My questions for you: 1. Has anyone else implemented "Shadow Buffering" to avoid OOM kills on Jetsons? Is it overkill? False Positives: For those who have tried automated crash detection—is it better to trigger on specific error codes, or just waiting for the robot to stop moving for $X$ seconds? I want to avoid filling the disk with "fake" crashes. The Viewer: We are currently just looking at raw MCAP files. Is there a better lightweight way to visualize these "short" crash clips without building a full custom dashboard? Any need of this type of product in market? Thanks!!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1764705344.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pb8geg/demonstration_of_sanitation_robots_in_shenzhen/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -932,39 +965,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pc29pt/cv_api_library_for_robotics_6d_pose_2d_detection/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1pc29pt/cv_api_library_for_robotics_6d_pose_2d_detection/" target="_blank" onclick="event.stopPropagation();">CV API Library for Robotics (6D Pose → 2D Detection → Point Clouds). Where do devs usually look for new tools?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hey everyone, I’m working at a robotics / physical AI startup and we’re getting ready to release step-by-step a developer-facing Computer Vision API library. It exposes a set of pretrained and finetunable models for robotics and automation use cases, including: 6D object pose estimation 2D/3D object detection Instance & semantic segmentation Anomaly detection Point cloud processing Model training / fine-tuning endpoints Deployment-ready inference APIs Our goal is to make it easier for CV/robotics engineers to prototype and deploy production-grade perception pipelines without having to stitch together dozens of repos. We want to share this with the community to: collect feedback, validate what’s useful / not useful, understand real workflows, and iterate before a wider release. My question: Where would you recommend sharing tools like this to reach CV engineers and robotics developers? Any specific subreddits? Mailing lists or forums you rely on? Discord/Slack communities worth joining? Any niche places where perception folks hang out? If anyone here wants early access to try some of the APIs, drop a comment and I’ll DM you. Thanks a lot, any guidance is appreciated!
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1764660298.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -988,7 +988,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-02T19:34:46.408387+00:00">Updated 2025-12-02T19:34:46.408387+00:00</small>
+        <small data-timestamp="2025-12-02T20:31:20.920192+00:00">Updated 2025-12-02T20:31:20.920192+00:00</small>
     </div>
 </div>
 
@@ -1248,7 +1248,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1764685021.0"></span>
+                                    <span data-timestamp="1764673925.0"></span>
                                 </div>
                                 
                             </div>
@@ -1502,6 +1502,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/digital-assets/2025/12/02/14-predictions-that-will-redefine-ai-robots--blockchain-in-2026/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/692e7676a5ec993a99c46531/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.forbes.com/sites/digital-assets/2025/12/02/14-predictions-that-will-redefine-ai-robots--blockchain-in-2026/" target="_blank" onclick="event.stopPropagation();">14 Predictions That Will Redefine AI, Robots, & Blockchain In 2026</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Discover 2026’s biggest shifts in AI, robots, blockchain, agents, and ethics. Thirteen bold predictions reveal how technology, work, trust, and leadership will transform.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1764687600.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/top-10-robotics-developments-november-2025/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2025/12/trr-nov2025-top10-featured.jpg');"></div>
@@ -1543,47 +1584,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.khou.com/article/news/local/amazon-cyber-monday-houston-fulfillment-center/285-f4490767-7f70-4c44-be32-1a39aa42d796', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.khou.com/assets/KHOU/images/619f54d5-ccd1-49a6-9508-48689d3ed240/20251201T135115/619f54d5-ccd1-49a6-9508-48689d3ed240_1140x641.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.khou.com/article/news/local/amazon-cyber-monday-houston-fulfillment-center/285-f4490767-7f70-4c44-be32-1a39aa42d796" target="_blank" onclick="event.stopPropagation();">Inside Amazon’s massive Cyber Monday push at its north Houston robotics facility</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            At Amazon’s Houston fulfillment center, 3,000 employees and 6,000 robots collaborate to process millions of Cyber Monday orders, highlighting both the scale of tech-
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.khou.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="KHOU" class="news-favicon">
-                                    <a href="https://www.khou.com" target="_blank" onclick="event.stopPropagation();">KHOU</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1764612000.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1604,7 +1604,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-02T19:35:01.571599+00:00">Updated 2025-12-02T19:35:01.571599+00:00</small>
+        <small data-timestamp="2025-12-02T20:31:35.486393+00:00">Updated 2025-12-02T20:31:35.486393+00:00</small>
     </div>
 </div>
 

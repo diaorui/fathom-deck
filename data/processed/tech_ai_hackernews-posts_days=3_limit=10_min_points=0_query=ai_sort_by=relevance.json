@@ -9,7 +9,7 @@
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
-      "points": 428,
+      "points": 429,
       "num_comments": 351,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
@@ -65,8 +65,8 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 188,
-      "num_comments": 262,
+      "points": 189,
+      "num_comments": 270,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -75,26 +75,12 @@
       "site_name": "Taranis"
     },
     {
-      "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
-      "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
-      "hn_url": "https://news.ycombinator.com/item?id=46118722",
-      "author": "dijksterhuis",
-      "points": 172,
-      "num_comments": 87,
-      "created_at": "2025-12-02T07:46:47Z",
-      "object_id": "46118722",
-      "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
-      "description": "In 1978, Brian Eno released Ambient 1: Music for Airports, a landmark album in ambient and electronic music. Although it wasn't the first ambient",
-      "favicon": "https://reverbmachine.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
-      "site_name": "Reverb Machine"
-    },
-    {
       "title": "OpenAI declares 'code red' as Google catches up in AI race",
       "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
       "hn_url": "https://news.ycombinator.com/item?id=46121870",
       "author": "goplayoutside",
-      "points": 109,
-      "num_comments": 113,
+      "points": 180,
+      "num_comments": 216,
       "created_at": "2025-12-02T15:00:16Z",
       "object_id": "46121870",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -103,12 +89,26 @@
       "site_name": "The Verge"
     },
     {
+      "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
+      "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
+      "hn_url": "https://news.ycombinator.com/item?id=46118722",
+      "author": "dijksterhuis",
+      "points": 174,
+      "num_comments": 88,
+      "created_at": "2025-12-02T07:46:47Z",
+      "object_id": "46118722",
+      "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
+      "description": "In 1978, Brian Eno released Ambient 1: Music for Airports, a landmark album in ambient and electronic music. Although it wasn't the first ambient",
+      "favicon": "https://reverbmachine.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "site_name": "Reverb Machine"
+    },
+    {
       "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
       "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
       "hn_url": "https://news.ycombinator.com/item?id=46124324",
       "author": "nabla9",
-      "points": 88,
-      "num_comments": 82,
+      "points": 101,
+      "num_comments": 122,
       "created_at": "2025-12-02T18:10:23Z",
       "object_id": "46124324",
       "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
@@ -145,7 +145,7 @@
       "site_name": "the Guardian"
     }
   ],
-  "total_hits": 471,
+  "total_hits": 472,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T19:34:43.420738+00:00"
+  "fetched_at": "2025-12-02T20:31:16.300170+00:00"
 }

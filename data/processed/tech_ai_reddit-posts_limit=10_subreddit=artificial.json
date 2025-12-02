@@ -46,6 +46,17 @@
       "description": "As a creative, was testing out Nano banana pro these past days and DAMN, it\u2019s literally on another level! What\u2019s your thoughts on this?"
     },
     {
+      "title": "Writing Detection Tools Preventing People From Writing Good Papers",
+      "author": "WorkTroll",
+      "url": "https://www.reddit.com/r/artificial/comments/1pci14r/writing_detection_tools_preventing_people_from/",
+      "published": 1764703961.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A quick summary: I have not written papers since undergraduate school, but can write well. My wife is getting a graduate degree and is not a great writer. She asked me to edit her paper and I did. Her style is just basically stream of consciousness, not really good with the proper style and formatting of papers. I made a lot of edits. Afterwords I noticed my wife was undoing a lot of the edits I made, in ways that respectfully were much worse. I asked her why. She said when she handed me her paper the AI tool she was using to detect AI was at 0 percent, but after I made my edits to her paper that number had jumped up to 12%. She was fixing the areas that the machine thought looked like AI. I don't care, I'm not insulted. But I feel like this is just a microcosm of what is happening with kids right now, who are probably learning weird and awkward ways to write papers just to make sure they don't get flagged by AI detectors."
+    },
+    {
       "title": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI | In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1pcaia0/its_going_much_too_fast_the_inside_story_of_the/",
@@ -99,18 +110,7 @@
       "site_name": "the Guardian",
       "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
       "description": "Despite the speed at which it is progressing, AI is getting far too little discussion in Congress, the media and within the general population. That has got to change"
-    },
-    {
-      "title": "Writing Detection Tools Preventing People From Writing Good Papers",
-      "author": "WorkTroll",
-      "url": "https://www.reddit.com/r/artificial/comments/1pci14r/writing_detection_tools_preventing_people_from/",
-      "published": 1764703961.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A quick summary: I have not written papers since undergraduate school, but can write well. My wife is getting a graduate degree and is not a great writer. She asked me to edit her paper and I did. Her style is just basically stream of consciousness, not really good with the proper style and formatting of papers. I made a lot of edits. Afterwords I noticed my wife was undoing a lot of the edits I made, in ways that respectfully were much worse. I asked her why. She said when she handed me her paper the AI tool she was using to detect AI was at 0 percent, but after I made my edits to her paper that number had jumped up to 12%. She was fixing the areas that the machine thought looked like AI. I don't care, I'm not insulted. But I feel like this is just a microcosm of what is happening with kids right now, who are probably learning weird and awkward ways to write papers just to make sure they don't get flagged by AI detectors."
     }
   ],
-  "fetched_at": "2025-12-02T19:34:42.348155+00:00"
+  "fetched_at": "2025-12-02T20:31:16.520934+00:00"
 }

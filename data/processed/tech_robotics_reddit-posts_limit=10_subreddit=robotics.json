@@ -79,6 +79,17 @@
       "description": "Hi everyone! I\u2019m part of FTC Team 9045 Greenhill Hornet Robotics. We\u2019ve been working on an AI tool that started as a helper for FTC teams, and we're trying to grow it into something useful for many educational robotics environments that use Java, computer vision, or real-time control loops. We\u2019re launching a beta version and would love feedback from yall! What the AI Workbench Does The tool functions as an AI programming assistant that can: - Generate or debug Java-based robot code Help set up autonomous routines, motion planning, and state machines - Explain control theory concepts - Build and analyze vision pipelines (AprilTags, object detection, etc.) - Provide structured diffs to improve or extend existing code - Assist new learners with foundational programming questions Although the training corpus is rooted in FTC materials (SDK, Road Runner, Limelight docs, etc), the tool behaves like a general robotics coding assistant capable of helping with: - PID control - Localization - Kinematics - Sensor fusion - Finite state machines - Vision processing - System architecture This is an early release, and we\u2019d genuinely appreciate any feedback yall might have. Everything runs server-side, so no user API keys are needed, and nothing sensitive is stored in the browser. Try it here: https://ai-ftc.vercel.app/workbench We\u2019re excited to push this further- and any feedback or critiques are hugely appreciated!"
     },
     {
+      "title": "How do you guys handle crash forensics on AMRs in \"WiFi Dead Zones\"? Is rosbag_snapshot enough",
+      "author": "kbbhatia",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcin67/how_do_you_guys_handle_crash_forensics_on_amrs_in/",
+      "published": 1764705344.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi everyone, I manage a fleet of robots in a warehouse environment where the network is terrible (lots of steel, random dead zones). We keep hitting the same issue: The robot gets into a bad state, the navigation stack fails, or it hits an E-stop. Because it\u2019s in a dead zone, we can't stream the logs. By the time we physically get to the robot, we\u2019ve often lost the context of why it failed. I\u2019m currently prototyping a custom \"Black Box\" crash recorder to solve this, but I wanted to sanity check my approach with the community before I go too deep into the weeds. The concept I\u2019m building: Instead of logging everything to disk (which kills our SD cards) or streaming (which kills bandwidth), I\u2019m building a background agent that: Keeps the last 30-60 seconds of topics in a RAM ring buffer. Monitors the system for specific \"triggers\" (e.g., Nav2 failures, prolonged stagnation, or fatal error logs). Dumps the RAM buffer to an MCAP file only when a crash is detected. Queues the file for upload once the robot eventually finds WiFi. My questions for you: 1. Has anyone else implemented \"Shadow Buffering\" to avoid OOM kills on Jetsons? Is it overkill? False Positives: For those who have tried automated crash detection\u2014is it better to trigger on specific error codes, or just waiting for the robot to stop moving for $X$ seconds? I want to avoid filling the disk with \"fake\" crashes. The Viewer: We are currently just looking at raw MCAP files. Is there a better lightweight way to visualize these \"short\" crash clips without building a full custom dashboard? Any need of this type of product in market? Thanks!!"
+    },
+    {
       "title": "Demonstration of sanitation robots in Shenzhen last week",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1pb8geg/demonstration_of_sanitation_robots_in_shenzhen/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hobby robotics has few apps to build a digital twin for inverse kinematics/simulation of custom robots. As far as I know the best we got is ROS2 which isn't worth the effort for most people who could write custom code in half the time it takes to learn how to install and set up ROS. Would you use unity to build a highly visual/intuitive interface to remotely control your custom bot? Through a serial port that is.."
-    },
-    {
-      "title": "CV API Library for Robotics (6D Pose \u2192 2D Detection \u2192 Point Clouds). Where do devs usually look for new tools?",
-      "author": "Open_Perspective_506",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc29pt/cv_api_library_for_robotics_6d_pose_2d_detection/",
-      "published": 1764660298.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey everyone, I\u2019m working at a robotics / physical AI startup and we\u2019re getting ready to release step-by-step a developer-facing Computer Vision API library. It exposes a set of pretrained and finetunable models for robotics and automation use cases, including: 6D object pose estimation 2D/3D object detection Instance & semantic segmentation Anomaly detection Point cloud processing Model training / fine-tuning endpoints Deployment-ready inference APIs Our goal is to make it easier for CV/robotics engineers to prototype and deploy production-grade perception pipelines without having to stitch together dozens of repos. We want to share this with the community to: collect feedback, validate what\u2019s useful / not useful, understand real workflows, and iterate before a wider release. My question: Where would you recommend sharing tools like this to reach CV engineers and robotics developers? Any specific subreddits? Mailing lists or forums you rely on? Discord/Slack communities worth joining? Any niche places where perception folks hang out? If anyone here wants early access to try some of the APIs, drop a comment and I\u2019ll DM you. Thanks a lot, any guidance is appreciated!"
     }
   ],
-  "fetched_at": "2025-12-02T19:34:46.408387+00:00"
+  "fetched_at": "2025-12-02T20:31:20.920192+00:00"
 }

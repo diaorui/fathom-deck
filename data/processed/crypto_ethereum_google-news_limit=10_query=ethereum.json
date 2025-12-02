@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin logs its worst day since March",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
-      "pub_date": 1764574221.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
-    },
-    {
       "headline": "Bitcoin, Ethereum, XRP Spike a Day After Mass Sell-off",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -25,31 +15,31 @@
       "description": "Bitcoin rebounds above $90,000 with a 6.7% gain as crypto markets rally. ETH tops $3K, XRP surges while analysts eye Fed's upcoming decision."
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP Spike a Day After Mass Sell-off",
+      "headline": "Bitcoin, Ethereum, and XRP Crash Triggering $637M in Liquidations",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDk0YUQ4cGVCeFNabVRYOFFNS0lHcG55VG8tMjNFMVdKay1rNmVmRzJMVmtyZmV0dkpLY180TG5pRC1oWjBIM3h0aEdzby1sX19tSUtQZmVrbmJCenEzTVJlSUF0SUZvRlppaUxYc0JHTUNTYkRLMldoQVhnVmRWc2RB?oc=5",
-      "pub_date": 1764693776.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-xrp-spike-day-164256262.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ZxnuuyrbSiXG4_X11utDlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/2699847992f62b2b54a3834613a8bf2d",
-      "description": "Bitcoin surges past $90,000 in biggest rally since May as crypto markets rebound with strong ETF inflows."
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NNVTQ2dXBON1ptWUp5X3ZWQ2RtUEYxRHl1Yk52MEh1c1FZVHZYU1hnaU9vSGRFNUo0UTlybkZtWUdocEc1dDZBSTdmNnczVDdUSkRuVnlxbWxJWHZ0TE9jd3VCYXVmUmJLRmI4dEtQZnVabmxfNU9yV3FtZFJZS2I3aWNEdWRqenRN?oc=5",
+      "pub_date": 1764582811.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-xrp-crash-triggering-095331056.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ly7._RAmZ3AmoH9Q85_u5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/d47b3cb386575b0d23d2abbef9ca49f3",
+      "description": "A weekend crypto crash triggered $524M in liquidations, with fears over Tether's stability and DAT selling pressure acting as key catalysts."
     },
     {
-      "headline": "News Explorer \u2014 Bitcoin, Ethereum, XRP Soar, Triggering Liquidation of Short Contracts",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUpLRzZsU1E1Rk0yM3JGdTM3ekZwVUoxbUlpS0YwSU8zWG9DZVpKVnp5RHk1QmJKZnc2QnJWbVFxbWg3RDhZTGtneDFBYTQ1T3R3TU9wRzBrVXBDMzJIOGl5LXc4eDRaTkkzNGtEZHphalMtRWVNOEhXTElmMkJZSDhHeU1RbXZxaENsdk4wM0RodDRTLS1DMTZfRzBocnJoRTM4RlJwcHh1cW9Jck9NMU1aSzVBLWVfelpvbFZB?oc=5",
-      "pub_date": 1764698763.0,
-      "article_url": "https://decrypt.co/news-explorer?pinned=1248558&title=bitcoin-ethereum-xrp-soar-triggering-liquidation-of-short-contracts",
-      "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
-      "description": "The next-generation media outlet navigating the intersection of culture and technology."
+      "headline": "Bitcoin logs its worst day since March",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
+      "pub_date": 1764574221.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
       "headline": "Ethereum Devs Push ZK \u2018Secret Santa\u2019 System Toward Deployment",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzRaT09BbXFQQVk0UmY3aWZvQ1dxd3dERWdscDVvNzBLazYtNngyUlYtQTBhZW1qTmt0Y2xaUVpOOFU2VnRnZ3A1cGd0UFByZExKMjVxTzVmM0lybDI2bGRoWTlxeGhEajJxNmlOWHVJdld3clpmQUhvWC1YVDRYMnJQc0NGNFVrQjQzRjdFWjhFc1puQk85dExsNk44NmVRcWc?oc=5",
-      "pub_date": 1764661193.0,
+      "pub_date": 1764660669.0,
       "article_url": "https://www.coindesk.com/tech/2025/12/02/ethereum-devs-push-zk-secret-santa-system-toward-deployment",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88d3548e2bf6ce1a9780df7e901bda3d36597f8-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
       "description": "The proposed protocol uses zero-knowledge proofs to verify sender\u2013receiver relationships without revealing identities."
@@ -65,6 +55,16 @@
       "description": "Ethereum\u2019s Fusaka upgrade launches Dec. 3. Past upgrades have triggered rallies. Analysts remain unconvinced. Ethereum is preparing to implement its next major network upgrade, known ..."
     },
     {
+      "headline": "What to Expect From Ethereum\u2019s Fusaka Upgrade?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlJuNTBVYi1TeFFwYU9DeU4xdW5LVHc5X0pHOEF2WVZJWkFFZWJ2bE16M2xvZ2k3MEFxN2VRdkVSanNWQmNyR2ZiT05wV2VRREFldmhPcW5ub3FSUzM2T1BEUWVhQWZ5WW9UelFOcVVURG9OZXBxbHBGQ01xMFhWRzJ3?oc=5",
+      "pub_date": 1764704462.0,
+      "article_url": "https://finance.yahoo.com/news/expect-ethereum-fusaka-upgrade-194102650.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/NmjeYCrVTlEgpBomqtUswQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/ba8f241f4afeb5dbc9731892f343a0c5",
+      "description": "Ethereum\u2019s latest major network upgrade is coming Wednesday. Here\u2019s what users can expect."
+    },
+    {
       "headline": "What Is the Fusaka Upgrade: Ethereum's Next Hard Fork",
       "source": "CoinGecko",
       "source_url": "https://www.coingecko.com",
@@ -75,14 +75,14 @@
       "description": null
     },
     {
-      "headline": "Ethereum\u2019s Fusaka upgrade: Scaling rollups without breaking the core",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMU1JRnk0LUI2WGFQUlhhcHVnSVV1M3dvUkc5ZWwxZDUxSDU4aXhGOXp6TVhRSkFVRWlLTm5UeTd2SmxteHVhT01QU0hnbFlRTk1kQlRMUW1zVndISTlBWUZWQkJfYWk5T2RSWlYxa3Q3blFCdlVDdk81TlZESm9POHl3LU95djlCMi1DMVdnR0lHYWp5OVB6YmQydEN6Y0RTTXpzVXYxQnB3V0Z5THV5Rm1FWTZJenAxa2p5T2pfN1p0Y2NRVEdqczZqbw?oc=5",
-      "pub_date": 1764683514.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:4de4e091c094b:0-ethereum-s-fusaka-upgrade-scaling-rollups-without-breaking-the-core/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum\u2019s upcoming Fusaka upgrade on Wednesday is being framed as just another scaling step, but it marks a shift in how the network ships change. Instead of massive, multi\u2011year overhauls, Fusaka is the first proof that Ethereum can deliver focused, high\u2011impact upgrades in something closer to six\u2026"
+      "headline": "News Explorer \u2014 Bitcoin, Ethereum, XRP Soar, Triggering Liquidation of Short Contracts",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUpLRzZsU1E1Rk0yM3JGdTM3ekZwVUoxbUlpS0YwSU8zWG9DZVpKVnp5RHk1QmJKZnc2QnJWbVFxbWg3RDhZTGtneDFBYTQ1T3R3TU9wRzBrVXBDMzJIOGl5LXc4eDRaTkkzNGtEZHphalMtRWVNOEhXTElmMkJZSDhHeU1RbXZxaENsdk4wM0RodDRTLS1DMTZfRzBocnJoRTM4RlJwcHh1cW9Jck9NMU1aSzVBLWVfelpvbFZB?oc=5",
+      "pub_date": 1764698763.0,
+      "article_url": "https://decrypt.co/news-explorer?pinned=1248558&title=bitcoin-ethereum-xrp-soar-triggering-liquidation-of-short-contracts",
+      "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
+      "description": "The next-generation media outlet navigating the intersection of culture and technology."
     },
     {
       "headline": "Tom Lee's Ethereum DAT BitMine now holds 3% of the total ETH supply",
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "Tom Lee's BitMine Buys More Ethereum\u2014But Both ETH and BMNR Are Diving",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5WDlsbGhYejZLVzh2NkhhdlRYbVViZTZJbGNVVHRiT2lBbG9sWGhUQnBoenNEb2hiOFpkMFZ2eG9uc1RMOW9naXhmRWhzUjBkQi1TYnRZNndoVFZLb3RmQkstU25QNF95bFZTRVM2ZDNqenE3NFJiQWtxNm0?oc=5",
-      "pub_date": 1764611776.0,
-      "article_url": "https://finance.yahoo.com/news/tom-lees-bitmine-buys-more-175616532.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1lr32EBn0RgV4TnQuzC0XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/decrypt_157/5201a6b2bb2edb9ec8114206f138c99c",
-      "description": "The firm's stock dropped Monday as crypto prices plummeted, but it remains up 301% year-to-date."
+      "headline": "Tom Lee Says Ethereum Firms Are \u2018Elite Of Wall Street\u2019 \u2014 Is His Bullish $9000 Prediction Possible?",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmh3ZURwY1Z2ZFg0VjYwb0hoekVqeUJ6b1JYX183SWlvOUpLWXBMRjIwZkkzTnh2OTJpYUJ0NElVSlRwakgzLXo0cGRmODJSM3ZvNEhzS3lKbWlWMnZtVk13UzBLV0V1Y2Uza09kdWt1N2lqLW1YdUxYdXVtYXpJMmZnU0ZfM2hGTm80Y251NXBLM3oteUs2OEJCVnpkTzg2V2htVGdn?oc=5",
+      "pub_date": 1764594135.0,
+      "article_url": "https://www.ccn.com/news/crypto/tom-lee-claims-firms-building-ethereum-elite-wall-street-price-explode/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T19:34:59.752553+00:00"
+  "fetched_at": "2025-12-02T20:31:34.815360+00:00"
 }

@@ -57,6 +57,28 @@
       "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     },
     {
+      "title": "AI poses unprecedented threats. Congress must act now | Bernie Sanders",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pca9ly/ai_poses_unprecedented_threats_congress_must_act/",
+      "published": 1764686732.0,
+      "thumbnail": "https://external-preview.redd.it/Dzixk4SsgzjUtfT_yhEppx5Jdmb8SBLth6VAmET02UA.jpeg?width=640&crop=smart&auto=webp&s=5a35c251386f975c9fa446547ef62c1525fad21e",
+      "external_url": "https://www.theguardian.com/commentisfree/2025/dec/02/artificial-intelligence-threats-congress",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "Despite the speed at which it is progressing, AI is getting far too little discussion in Congress, the media and within the general population. That has got to change"
+    },
+    {
+      "title": "Anthropic is all in on 'AI safety'\u2014and that's helping the $183 billion startup win over big business | Fortune",
+      "author": "fortune",
+      "url": "https://www.reddit.com/r/artificial/comments/1pc9mm2/anthropic_is_all_in_on_ai_safetyand_thats_helping/",
+      "published": 1764685183.0,
+      "thumbnail": "https://external-preview.redd.it/4ADGpe0WjAUtrxXsLbqdLhqcn1sw_H_ikb_gNlbrOTc.jpeg?width=640&crop=smart&auto=webp&s=38e6f1d54ac2f79d9015d4bf055f8059996fd63f",
+      "external_url": "https://fortune.com/article/anthropic-ceo-dario-amodei-openai-chatgpt-artificial-intelligence-safety-donald-trump/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
+      "description": "Founders Daniela and Dario Amodei have made Anthropic and its Claude models the AI many companies prefer over rivals OpenAI and ChatGPT."
+    },
+    {
       "title": "Investors expect AI use to soar. That\u2019s not happening",
       "author": "creaturefeature16",
       "url": "https://www.reddit.com/r/artificial/comments/1pbkbto/investors_expect_ai_use_to_soar_thats_not/",
@@ -79,17 +101,6 @@
       "description": "Flock accidentally exposed training materials and a panel which tracked what its AI annotators were working on. It showed that Flock, which has cameras in thousands of U.S. communities, is using workers in the Philippines to review and classify footage."
     },
     {
-      "title": "AI poses unprecedented threats. Congress must act now | Bernie Sanders",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pca9ly/ai_poses_unprecedented_threats_congress_must_act/",
-      "published": 1764686732.0,
-      "thumbnail": "https://external-preview.redd.it/Dzixk4SsgzjUtfT_yhEppx5Jdmb8SBLth6VAmET02UA.jpeg?width=640&crop=smart&auto=webp&s=5a35c251386f975c9fa446547ef62c1525fad21e",
-      "external_url": "https://www.theguardian.com/commentisfree/2025/dec/02/artificial-intelligence-threats-congress",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "Despite the speed at which it is progressing, AI is getting far too little discussion in Congress, the media and within the general population. That has got to change"
-    },
-    {
       "title": "The Radicalization of Ziz Lasota: How an AI Doomer Became an Accused Cult Leader",
       "author": "rollingstone",
       "url": "https://www.reddit.com/r/artificial/comments/1pca7qj/the_radicalization_of_ziz_lasota_how_an_ai_doomer/",
@@ -99,18 +110,7 @@
       "site_name": "Rolling Stone",
       "favicon": "https://www.rollingstone.com/wp-content/uploads/2024/12/R-Avatar_512x512_flat.png?w=180",
       "description": "Lasota\u2019s friends, colleagues, and family talk about how a NASA intern and Google employee wound up at the center of a bizarre string of murders"
-    },
-    {
-      "title": "Anthropic is all in on 'AI safety'\u2014and that's helping the $183 billion startup win over big business | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1pc9mm2/anthropic_is_all_in_on_ai_safetyand_thats_helping/",
-      "published": 1764685183.0,
-      "thumbnail": "https://external-preview.redd.it/4ADGpe0WjAUtrxXsLbqdLhqcn1sw_H_ikb_gNlbrOTc.jpeg?width=640&crop=smart&auto=webp&s=38e6f1d54ac2f79d9015d4bf055f8059996fd63f",
-      "external_url": "https://fortune.com/article/anthropic-ceo-dario-amodei-openai-chatgpt-artificial-intelligence-safety-donald-trump/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "Founders Daniela and Dario Amodei have made Anthropic and its Claude models the AI many companies prefer over rivals OpenAI and ChatGPT."
     }
   ],
-  "fetched_at": "2025-12-02T15:57:32.924121+00:00"
+  "fetched_at": "2025-12-02T16:38:29.912224+00:00"
 }

@@ -24,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
       "points": 235,
-      "num_comments": 91,
+      "num_comments": 92,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
       "image": null,
@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
       "author": "bpierre",
       "points": 196,
-      "num_comments": 108,
+      "num_comments": 111,
       "created_at": "2025-12-01T23:44:51Z",
       "object_id": "46115214",
       "image": null,
@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
       "points": 182,
-      "num_comments": 251,
+      "num_comments": 254,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -79,8 +79,8 @@
       "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
       "hn_url": "https://news.ycombinator.com/item?id=46118722",
       "author": "dijksterhuis",
-      "points": 129,
-      "num_comments": 63,
+      "points": 136,
+      "num_comments": 69,
       "created_at": "2025-12-02T07:46:47Z",
       "object_id": "46118722",
       "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
@@ -122,7 +122,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46105825",
       "author": "n1b0m",
       "points": 57,
-      "num_comments": 62,
+      "num_comments": 63,
       "created_at": "2025-12-01T10:41:14Z",
       "object_id": "46105825",
       "image": "https://i.guim.co.uk/img/media/adcd61d6e826f9dca934f3eef2452b135ad68f5b/19_0_2543_2033/master/2543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ebbb935a14d8f1fd9c707bc68f612c1",
@@ -145,7 +145,7 @@
       "site_name": "Meysam Azad"
     }
   ],
-  "total_hits": 442,
+  "total_hits": 450,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T15:57:32.698934+00:00"
+  "fetched_at": "2025-12-02T16:38:29.684388+00:00"
 }

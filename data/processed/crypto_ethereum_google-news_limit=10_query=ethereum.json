@@ -15,14 +15,24 @@
       "description": "A weekend crypto crash triggered $524M in liquidations, with fears over Tether's stability and DAT selling pressure acting as key catalysts."
     },
     {
-      "headline": "How High Could Ethereum Price Go When Fusaka Launches? History Gives a Clue",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTBHTmJ6N2Q3SVVOQXAzcFp0RzhhNVkyRmk4RkRmMjFPb1Z6V3BReE1RZW5wVTBLTVcyTFo1UDV2OUk0aVA3OHUxWm03bldiMktqZFFYeHVTNjR5b1RsXzNPcG12dWMzenI0VmxKbkxDWkZYMDR0Q3hkZ0lJOHRzNVprNks?oc=5",
-      "pub_date": 1764685935.0,
-      "article_url": "https://finance.yahoo.com/news/high-could-ethereum-price-fusaka-143215170.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/7wit.kxnhFJxV2kfuxPg2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/c1651528d292b18e57fe435fffeb9237",
-      "description": "Ethereum\u2019s Fusaka upgrade launches Dec. 3. Past upgrades have triggered rallies. Analysts remain unconvinced. Ethereum is preparing to implement its next major network upgrade, known ..."
+      "headline": "Bitcoin, Ethereum and XRP ETFs Bounce Back After Brutal Month for Crypto Funds",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONEYwd1pFd3RNLVBWc2d0VFh2WUpYQmpLUWFiRXFGV1JIMmpZTWxVVFNvQjFEMlQzVEsxX3Nmam9qZ3llc0trLUhFSkZjemtsZWRscEFPakZKNVNCN2pUVlhEQ05vMnhIam9Ud3pYSmRLSVBlYmd1VVVNRXU3Q0hmdE0tVXFiWDhYMmltQlh4Tk9vOW_SAZsBQVVfeXFMUGJCdUs3VDRubDhLOEdKRjVLeDBzNkNTSS1WdkJLNWZxdGFrV2NoX3o5OWhYaVVhYXA5VXpldUdkLUNlc3pyRzNYVFNxdHlOQ0Job1JremVJNXl2b2YycFVrUGdEV2FTRUI2UURaWmI2N2lSaW5WaDNMOW1zcTAwczlOZjdQdl9ES0hjSEEtMVo0QlhGcTFhTEltelk?oc=5",
+      "pub_date": 1764610290.0,
+      "article_url": "https://decrypt.co/350478/bitcoin-ethereum-xrp-etfs-bounce-back-brutal-month-crypto-funds",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/ETF2-gID_7.png",
+      "description": "Crypto prices are falling again Monday, but Bitcoin, XRP, and Ethereum funds are coming off a strong week for flows following recent losses."
+    },
+    {
+      "headline": "Bitcoin logs its worst day since March",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
+      "pub_date": 1764574221.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
       "headline": "Ethereum Devs Push ZK \u2018Secret Santa\u2019 System Toward Deployment",
@@ -33,6 +43,26 @@
       "article_url": "https://www.coindesk.com/tech/2025/12/02/ethereum-devs-push-zk-secret-santa-system-toward-deployment",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88d3548e2bf6ce1a9780df7e901bda3d36597f8-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
       "description": "The proposed protocol uses zero-knowledge proofs to verify sender\u2013receiver relationships without revealing identities."
+    },
+    {
+      "headline": "How High Could Ethereum Price Go When Fusaka Launches? History Gives a Clue",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTBHTmJ6N2Q3SVVOQXAzcFp0RzhhNVkyRmk4RkRmMjFPb1Z6V3BReE1RZW5wVTBLTVcyTFo1UDV2OUk0aVA3OHUxWm03bldiMktqZFFYeHVTNjR5b1RsXzNPcG12dWMzenI0VmxKbkxDWkZYMDR0Q3hkZ0lJOHRzNVprNks?oc=5",
+      "pub_date": 1764685935.0,
+      "article_url": "https://finance.yahoo.com/news/high-could-ethereum-price-fusaka-143215170.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/7wit.kxnhFJxV2kfuxPg2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/c1651528d292b18e57fe435fffeb9237",
+      "description": "Ethereum\u2019s Fusaka upgrade launches Dec. 3. Past upgrades have triggered rallies. Analysts remain unconvinced. Ethereum is preparing to implement its next major network upgrade, known ..."
+    },
+    {
+      "headline": "Crypto-adjacent stocks rally as bitcoin and ethereum bounce",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeTE5TXVzVFcxOGJic2lCOU1USVpGb2IxdDQ3SEpKOHN4ekRFd04wVTZjMjBLRVZ5eVlvYW1RRWt2Z2VraWNaZ1ZmQTB1UnBIMjNud0M5YlY0blZfdG9Mb0JJSl9SVlNNSGQ3S2dPdkNpVEIzQlNYUWY1Yy1HaWotQnFQUFpxNkNkUzIwRVVEb0JzT2N1eDJpSHhuaFZPZG5hX0taY0FUTmdMSUU5OTRSM0p4VmxtQ2VSX21tTUR3R1hlWlNLbl9Gdg?oc=5",
+      "pub_date": 1764690151.0,
+      "article_url": "https://www.tradingview.com/news/reuters.com,2025:newsml_L6N3X80UU:0-crypto-adjacent-stocks-rally-as-bitcoin-and-ethereum-bounce/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "** Shares of cryptocurrency and blockchain-related firms jump early Tues, as bitcoin and ethereum bounce back on Tues** Bitcoin, world's largest cryptocurrency, fell >5% on Mon and extended recent steep losses as investors shunned risk assets** Bitcoin BITSTAMP:BTCUSD up 4.9% at $90,658.57 on Tues\u2026"
     },
     {
       "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
@@ -73,38 +103,8 @@
       "article_url": "https://www.theblock.co/post/380925/tom-lee-ethereum-dat-bitmine-two-thirds-goal",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "OG Ethereum Whale Moves $120M Into Staking After Decade \u2014 Should Price Drop Fears Decrease?",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdm1LSURXMGFJOU5BQ0w3Y0tHZ3VWNXpEMUk1aGdNSmlpVzEzczQ0TF9HRDJIVnF6T1BuajZ5TlNiWngzSW9VUGJWcXI5WFlhaThIZU5BRWlHVEN6djFWZEl0OVpJejlFbUloeFl1UVRmc25nQkE5ZDRfN3hiMXRMTUpjemM3QWZmLWV1emZ3UVVzWWVXN0hDag?oc=5",
-      "pub_date": 1764676035.0,
-      "article_url": "https://www.ccn.com/news/crypto/og-ethereum-whale-moves-120m-staking-decade-fears-price-drop/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Ethereum\u2019s Fusaka upgrade: Scaling rollups without breaking the core",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMU1JRnk0LUI2WGFQUlhhcHVnSVV1M3dvUkc5ZWwxZDUxSDU4aXhGOXp6TVhRSkFVRWlLTm5UeTd2SmxteHVhT01QU0hnbFlRTk1kQlRMUW1zVndISTlBWUZWQkJfYWk5T2RSWlYxa3Q3blFCdlVDdk81TlZESm9POHl3LU95djlCMi1DMVdnR0lHYWp5OVB6YmQydEN6Y0RTTXpzVXYxQnB3V0Z5THV5Rm1FWTZJenAxa2p5T2pfN1p0Y2NRVEdqczZqbw?oc=5",
-      "pub_date": 1764683514.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:4de4e091c094b:0-ethereum-s-fusaka-upgrade-scaling-rollups-without-breaking-the-core/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum\u2019s upcoming Fusaka upgrade on Wednesday is being framed as just another scaling step, but it marks a shift in how the network ships change. Instead of massive, multi\u2011year overhauls, Fusaka is the first proof that Ethereum can deliver focused, high\u2011impact upgrades in something closer to six\u2026"
-    },
-    {
-      "headline": "What Is the Fusaka Upgrade: Ethereum's Next Hard Fork",
-      "source": "CoinGecko",
-      "source_url": "https://www.coingecko.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RMUlDWWMzcjc0UlBlS0VOR0ticlRRRFowWFE0aGZTX0I5eFlheklRdGdfU1FpbkxNV1VtMTZ6aUEwa3ZmbGZyQlp6ejA5eEVYR3FKUlQ3NXBZNTdVQnVKVC1jeTNpRzdGbU5QQ0gxc3k?oc=5",
-      "pub_date": 1764659950.0,
-      "article_url": "https://www.coingecko.com/learn/what-is-ethereum-fusaka-upgrade",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T15:57:51.466394+00:00"
+  "fetched_at": "2025-12-02T16:38:48.524497+00:00"
 }

@@ -35,17 +35,6 @@
       "description": "From Tuo Liu on \ud835\udd4f: https://x.com/Robo_Tuo/status/1995314021281771644"
     },
     {
-      "title": "Unity app for robot control??",
-      "author": "Full_Connection_2240",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc5zd0/unity_app_for_robot_control/",
-      "published": 1764674522.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hobby robotics has few apps to build a digital twin for inverse kinematics/simulation of custom robots. As far as I know the best we got is ROS2 which isn't worth the effort for most people who could write custom code in half the time it takes to learn how to install and set up ROS. Would you use unity to build a highly visual/intuitive interface to remotely control your custom bot? Through a serial port that is.."
-    },
-    {
       "title": "Love robotics, hate heavy algorithm stuff \u2014 what roles fit?",
       "author": "Technical-Force-6266",
       "url": "https://www.reddit.com/r/robotics/comments/1pc7azx/love_robotics_hate_heavy_algorithm_stuff_what/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey all, As the title says, I love robotics and working close to hardware, but I really dislike heavy algorithm development. I\u2019m comfortable with Python, C++, ROS2, and Linux. What junior-friendly roles could someone like me aim for? Best,"
+    },
+    {
+      "title": "Unity app for robot control??",
+      "author": "Full_Connection_2240",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc5zd0/unity_app_for_robot_control/",
+      "published": 1764674522.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hobby robotics has few apps to build a digital twin for inverse kinematics/simulation of custom robots. As far as I know the best we got is ROS2 which isn't worth the effort for most people who could write custom code in half the time it takes to learn how to install and set up ROS. Would you use unity to build a highly visual/intuitive interface to remotely control your custom bot? Through a serial port that is.."
     },
     {
       "title": "CV API Library for Robotics (6D Pose \u2192 2D Detection \u2192 Point Clouds). Where do devs usually look for new tools?",
@@ -112,5 +112,5 @@
       "description": "ROSCon 2025 Recordings Now Available   Hi Everyone,  Recordings from ROSCon 2025 are now available on our Vimeo account the ROSCon website, in the ROS Documentation, and in the list below. We\u2019re still waiting on talk slides, but we\u2019ll get those up just as soon as we can.  Big thanks to AMD for making our ROSCon 2025 live stream and video archive possible.  For your convenience here is a full list of available ROSCon 2025 talks and their presenters:   Opening Remarks & Guest of Honor \u2013 Geoff Bigg..."
     }
   ],
-  "fetched_at": "2025-12-02T15:57:37.405964+00:00"
+  "fetched_at": "2025-12-02T16:38:34.117548+00:00"
 }

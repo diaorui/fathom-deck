@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "American Bitcoin (ABTC) Falls 15%, Mirrors Crypto Drop",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOWRSZnJUdTR0QkdJZjFCd25EUlBCT0ItcVc4TWJNS3Bud2J1NDF0RTZINENKUWdHczVfM2tKWERFdDFmc1lwWjZGR1NDRThmM3FyeWtpUnpFb2ZGZllGQ0JEX2hmTDlGV1hCYm93VzJTVzRSbUctSTdYMmdKb1Z1MnpR?oc=5",
+      "pub_date": 1764691191.0,
+      "article_url": "https://finance.yahoo.com/news/american-bitcoin-abtc-falls-15-155951180.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/qaVF5PvTcI_vV94NP0CQQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://media.zenfs.com/en/insidermonkey.com/c7b4d0e05ca5b213d76cce5001de89ba",
+      "description": "We recently published 10 Stocks Already Hurting in December. American Bitcoin Corp (NASDAQ:ABTC) is one of the top performers on Monday. American Bitcoin Corp (NASDAQ:ABTC) fell by 15.57 percent on Monday to finish at $3.58 apiece as investors took path from its major asset\u2019s decline on the same day. On Monday alone, Bitcoin shed 0.058 [\u2026]"
+    },
+    {
       "headline": "Trump Family-Linked American Bitcoin Sinks on Crypto Downturn",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -13,6 +23,16 @@
       "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/trump-family-linked-american-bitcoin-sinks-on-crypto-downturn",
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iu3Ds3zdom4Y/v1/1200x800.jpg",
       "description": "The sharp pullback in Bitcoin prices over the past month is making an impact on speculative corners of the cryptocurrency market."
+    },
+    {
+      "headline": "American Bitcoin Stock Plummets in Setback for Miner Backed by Trump Family",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNQ2ttcUJDYl9jQVotV2kxdnJJWElJSG5sTnN2YkUzSHBGUFdMSzlTVWRIalFjdmdDdU1rTjY4MWJVMmV4X2hzTTR6YTNQRHY4c18wWTg2REdVb3ROTHlIYk5VZENIYnJFTW96dFpKcGwweTZURkhWalVNdjJYYkFYRGE5YWFvWVczNWhWVVNRZzdybktSSDV0ZVdCQUc1QUV2UHc0dS1xSlpPZy1oSERWZzFsRGpEWk1EV0FacmpDbzNqYWlubW5vcW5HdVZOT0QzX2VHTUx2UmVMdVQxWjVSNGs2dmY3bEljYUpzd09vVDlyQ04ySEN6b3JSMjAwbnRnS2RHUmk3bXhhLU1DSjMxekZ3ZEFhOGd1YUlkNW43UXM5UzNFX3lIN1Z3TzExNG9mOUVDV2hFMjJwOFgybURyc0hUZ3AxSzBOdFVma21wbDVQM3F6a2J0R2JMMG10eFdiRktwSlhSMFpoamZYRFBXNnNYX29MZUYxVHhmYTJRVFBjOWxjLVZz?oc=5",
+      "pub_date": 1764696660.0,
+      "article_url": "https://www.barrons.com/articles/american-bitcoin-stock-trump-falls-0e982a2b?gaa_at=eafs&gaa_n=AWEtsqeITYxIiqtGy9fqSVe3YPX_j_bjBw67hcCjwSdKvaNdKkYfNjzEpR6K&gaa_ts=692f30d9&gaa_sig=_bV2iGyaCZUTP6iacffJwPko7CFVFXoCbraFvavSWhJWH59lKzhbBvhMLxOampWiDa3cjMJ1TBpjQE1jhKOzfg%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin logs its worst day since March",
@@ -48,9 +68,9 @@
       "headline": "Stock Market Today: Nasdaq, Dow Gain; Bitcoin Price Rebounds \u2014 Live Updates",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQNndGMk5MTnM1Q1V3SmRsdkNhUVkxTTdGMW1JaE9wdG9zLU12TmF1T2Y0dHdkZkVBQ2xOQWJEdFJteGEybWJFYXlhVnM3Y0ozWUZBWUVDNzJwd2lkR0ZyUGNMSk1mWC1MYXVWb1NYRTRhMzExajJyQk1FZDVXYUNlNkZ4U2VTdExnLTdxV05TUHA5MVhraXN6TDNfRDRfNEE2NHI0cVRhemtPN3RVM3VpZGtxWHhJazAtSGJpOC1udm5WTW9sQUExSFNOYnRQUTZqNDIyRWVtWnZwNDNMNXdaY3dPUDJIcjV0TGkzbGh1cnRMbEZKRDJHOXhyTkZWR0RIS0VPcXIxRzAtdzlPZnd1clREdE5KbTdGQWNndzBXcFVRck9TMUhrX21lOEhWdHlkU24xSThzWnhKMmdaVUFfQkMyMnpaZktBd2FBVEJQeThmN1R6cVktdHY2OEJQc25aLWRqQ283UGFORFdfTUhEUnhaS2lfcnJaVGtOQjVHTlhna3JMbzRrdVNRSVo?oc=5",
-      "pub_date": 1764690960.0,
-      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025?gaa_at=eafs&gaa_n=AWEtsqeJ1EAEjU0zbL3KIkXryRDlaczR8IFmEYfo99Q5-f-TF8hXwfLMKVri&gaa_ts=692f261d&gaa_sig=fbqoIhV1zoCJax4PGYbIJm0hy2zfVGql7qpqcaMOOZTzCTZdcyzzCIUel3nDvCTRwkiZf22_so2CJRACQ1w0MA%3D%3D",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQTkRseVB2V21jTmg2THJmejJYWXlYTGJ4a0IweWhyMVF2LVd3OFpieVBrVUJ3WVZDdGMyYWJSTFh5eFF6bVlfY2t5emp3cllpTHJYMjUzV0xfRUxONUlTVGJpYkJNNUFVc1NDb0RjOThPQmh2TXpqeTMtT1BSQnR4cFlIbVNuWkg4bG45SllJZWIzNnRSdXZleHk4ZVhPZWROLU9FVzJhN3FCZ3pzRElIbVVjZGxJQTBqZHB6OEFrZGtTUW1VUlZkTUd0WVZYTEhpMlhkM3hLWW9sczdQdkd0eTBQMVZvUTVxSi1QdVFZQm5OcXFhLUY4cEk4VHFXVlZVbjlSRTkxMS1sMGhiYTFVWmZ2bXhyajgyRUVjd0pTX05iTE5zYzJ6Z0ZxLTZzLWZlRTRUZk53SnNCQkZMRXFqQ2VqN0N4SzUxMUp1ZkR3b09vZlo5YzhzWEpmSG5CQlhfb0paMk1oVjhFUmo0cnpPcDM2YUxPQ2VmQkNrX3NabDRyeVlEMGRQYm54dUw?oc=5",
+      "pub_date": 1764697020.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025?gaa_at=eafs&gaa_n=AWEtsqdlapwgUmLkQJno61DXD2F6ab0BibcIRUsTHxwgo7Wh9hlvptHO_aKM&gaa_ts=692f30d9&gaa_sig=LJuxGP3a6Qfmqdl_SrXAddYEhE9diuKgiKd4UcYXatxPRUxvmRfPgPZ0Z4am8NEfZ0QwjkffRpE7ENfK0x8nIw%3D%3D",
       "image": null,
       "description": null
     },
@@ -83,28 +103,8 @@
       "article_url": "https://fortune.com/2025/12/02/stocks-bitcoin-strategy-ratio-market-cap/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2217027772.jpg?resize=1200,600",
       "description": "Michael Saylor\u2019s Strategy, the leading Bitcoin treasury company, now has a stock market cap worth less than the Bitcoin it holds."
-    },
-    {
-      "headline": "Bonds and bitcoin find some footing, stocks eke out gains",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkJxanotb1RQN0RaT0QtOXZVWWd5VDRYZlNFSkxzVmxZMm5rNU5kRno2TElKM0RGQmUyWFlmNG5OTkxVcXhaVV9IOGliM1hsS3RWTHpYbURCWlpwZHAtU1ppLUdRbGQ0Ump5VEsyZ000WXR2NTI5VUluR3FlLUtubThWTQ?oc=5",
-      "pub_date": 1764680630.0,
-      "article_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-12-02/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Grayscale predicts new bitcoin highs in 2026, dismisses 4-year cycle view",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YVGlsYWp2amlNQ2lYbzFLa2NoRjFaQlZGTi10T0JFNWd5N1BrTE1zaENZNDR4M19sUlRRWmM0TEdPSjVxRVZjUms4UVFRN2dhVVNPQzhaVEVSMVVBendWZGo2RU5tdGZRaWwzMnlMRTVjWmhQVF9TYWxwaWHSAYIBQVVfeXFMTW1hcTFjZ0lrVVJYcktiU0lGRWhaR1BMTnEzcEtLUHQxRGMzV3doZlJsRFdIUHNINXd4ci1JeklwN2ZfRHVPaVNGMEtBME1SQmFaSFNFRzFra21VQjJ0WjJ5VkNCWmV4b0JEeEx0QzFWMXAxYzlJMC1HanFpQWRlVzlPdw?oc=5",
-      "pub_date": 1764660281.0,
-      "article_url": "https://www.theblock.co/post/381028/grayscale-predicts-new-bitcoin-highs",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T17:32:32.425404+00:00"
+  "fetched_at": "2025-12-02T18:18:21.596329+00:00"
 }

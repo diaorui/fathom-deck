@@ -35,39 +35,6 @@
       "description": null
     },
     {
-      "title": "Demonstration of sanitation robots in Shenzhen last week",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pb8geg/demonstration_of_sanitation_robots_in_shenzhen/",
-      "published": 1764581393.0,
-      "thumbnail": "https://external-preview.redd.it/bzE5czdsazNhazRnMZNmrQ2qSiOJZnjCQEc7estSYXQIA3irPB-JEHj5BZA9.png?width=640&crop=smart&auto=webp&s=92b1c04743b1792c22b374adc8e5adb8a376b211",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From Tuo Liu on \ud835\udd4f: https://x.com/Robo_Tuo/status/1995314021281771644"
-    },
-    {
-      "title": "Love robotics, hate heavy algorithm stuff \u2014 what roles fit?",
-      "author": "Technical-Force-6266",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc7azx/love_robotics_hate_heavy_algorithm_stuff_what/",
-      "published": 1764678895.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey all, As the title says, I love robotics and working close to hardware, but I really dislike heavy algorithm development. I\u2019m comfortable with Python, C++, ROS2, and Linux. What junior-friendly roles could someone like me aim for? Best,"
-    },
-    {
-      "title": "Unity app for robot control??",
-      "author": "Full_Connection_2240",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc5zd0/unity_app_for_robot_control/",
-      "published": 1764674522.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hobby robotics has few apps to build a digital twin for inverse kinematics/simulation of custom robots. As far as I know the best we got is ROS2 which isn't worth the effort for most people who could write custom code in half the time it takes to learn how to install and set up ROS. Would you use unity to build a highly visual/intuitive interface to remotely control your custom bot? Through a serial port that is.."
-    },
-    {
       "title": "[Beta Release] AI Workbench for Educational Robotics",
       "author": "ur-guy-sahith",
       "url": "https://www.reddit.com/r/robotics/comments/1pcdsqs/beta_release_ai_workbench_for_educational_robotics/",
@@ -88,6 +55,39 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/76a077af/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
+      "title": "Love robotics, hate heavy algorithm stuff \u2014 what roles fit?",
+      "author": "Technical-Force-6266",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc7azx/love_robotics_hate_heavy_algorithm_stuff_what/",
+      "published": 1764678895.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey all, As the title says, I love robotics and working close to hardware, but I really dislike heavy algorithm development. I\u2019m comfortable with Python, C++, ROS2, and Linux. What junior-friendly roles could someone like me aim for? Best,"
+    },
+    {
+      "title": "Demonstration of sanitation robots in Shenzhen last week",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1pb8geg/demonstration_of_sanitation_robots_in_shenzhen/",
+      "published": 1764581393.0,
+      "thumbnail": "https://external-preview.redd.it/bzE5czdsazNhazRnMZNmrQ2qSiOJZnjCQEc7estSYXQIA3irPB-JEHj5BZA9.png?width=640&crop=smart&auto=webp&s=92b1c04743b1792c22b374adc8e5adb8a376b211",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "From Tuo Liu on \ud835\udd4f: https://x.com/Robo_Tuo/status/1995314021281771644"
+    },
+    {
+      "title": "Unity app for robot control??",
+      "author": "Full_Connection_2240",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc5zd0/unity_app_for_robot_control/",
+      "published": 1764674522.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hobby robotics has few apps to build a digital twin for inverse kinematics/simulation of custom robots. As far as I know the best we got is ROS2 which isn't worth the effort for most people who could write custom code in half the time it takes to learn how to install and set up ROS. Would you use unity to build a highly visual/intuitive interface to remotely control your custom bot? Through a serial port that is.."
     },
     {
       "title": "CV API Library for Robotics (6D Pose \u2192 2D Detection \u2192 Point Clouds). Where do devs usually look for new tools?",
@@ -112,5 +112,5 @@
       "description": "How would I add closed kinematic loop for gazebo with multiple parents. I tried to make it with detachable joint plugin, but it's not working exactly... As the detachable plugin is not even being active. Could somebody help? What's the standard approach?"
     }
   ],
-  "fetched_at": "2025-12-02T17:32:13.832175+00:00"
+  "fetched_at": "2025-12-02T18:18:01.304373+00:00"
 }

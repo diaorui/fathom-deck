@@ -13,17 +13,6 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "I'm looking for a simple, low-fee platform to swap between Ethereum and Solana.",
-      "author": "coushcouch",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pca5zp/im_looking_for_a_simple_lowfee_platform_to_swap/",
-      "published": 1764686487.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I don't own that much, so something simple, no registration, and hopefully low-fee would be great. No long waiting times also, because I'll need to make a few quick swaps without wallet integrations or accounts. Changelly looks good on paper, going by their site (instant swaps, no account) and I also saw SimpleSwap and 1inch in this conversation. But since reviews are different on different sites, I want to hear what real people are using and why. Basically - what can I use for low-cost cross-chain swaps? Please advise."
-    },
-    {
       "title": "never NOT a good day to be converting people into self-custody",
       "author": "haochizzle",
       "url": "https://www.reddit.com/r/ethereum/comments/1pc6mkk/never_not_a_good_day_to_be_converting_people_into/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "redacted for privacy, but\u2026 a friend of mine \u2014 who is literally a dev on a pretty big crypto wallet team \ud83e\udd2f \u2014 finally took the self-custody plunge after I gave him the pitch. this is him buying his very first hardware wallet today \ud83e\udd1d A.B.C. = always be convertin\u2019"
+    },
+    {
+      "title": "I'm looking for a simple, low-fee platform to swap between Ethereum and Solana.",
+      "author": "coushcouch",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pca5zp/im_looking_for_a_simple_lowfee_platform_to_swap/",
+      "published": 1764686487.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I don't own that much, so something simple, no registration, and hopefully low-fee would be great. No long waiting times also, because I'll need to make a few quick swaps without wallet integrations or accounts. Changelly looks good on paper, going by their site (instant swaps, no account) and I also saw SimpleSwap and 1inch in this conversation. But since reviews are different on different sites, I want to hear what real people are using and why. Basically - what can I use for low-cost cross-chain swaps? Please advise."
     },
     {
       "title": "Going Bankless (Can I Pay With This Part Five)",
@@ -112,5 +112,5 @@
       "description": "I have the following questions regarding ERC3643 tokens, widely known as RWAs: Say for NVDAonThe asset value is determined from the NVDA stock, right? But how is the value of the NVDAon token changing on non-trading days(Weekends & holidays)? Can the value of the NVDAon(the RWA) Becomes zero if all of the holders withdraw their holdings, just like any standard ERC-20 token? If the value of the ERC3643 token is pegged with the underlying asset, then how are they different from each other, but with this much larger margin? ( As of 1.12.2025, NVDAon is 174.80 & NVDA is 176.98). This means their value is being determined based on their traded value?"
     }
   ],
-  "fetched_at": "2025-12-02T17:32:12.338811+00:00"
+  "fetched_at": "2025-12-02T18:17:59.786006+00:00"
 }

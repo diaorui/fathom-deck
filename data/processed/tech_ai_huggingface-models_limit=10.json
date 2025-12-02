@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 86570,
-      "likes": 1838,
+      "likes": 1840,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-12-02T11:54:58.000Z",
@@ -57,7 +57,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V3.2.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png",
       "downloads": 2894,
-      "likes": 561,
+      "likes": 564,
       "pipeline_tag": "text-generation",
       "num_parameters": "685.4B",
       "last_modified": "2025-12-01T11:04:59.000Z",
@@ -137,7 +137,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/Orchestrator-8B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1613114437487-60262a8e0703121c822a80b6.png",
       "downloads": 670,
-      "likes": 247,
+      "likes": 248,
       "pipeline_tag": "text-generation",
       "num_parameters": "8.2B",
       "last_modified": "2025-12-02T06:56:58.000Z",
@@ -162,6 +162,6 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-12-02T18:18:08.968520+00:00",
+  "fetched_at": "2025-12-02T18:51:40.722290+00:00",
   "has_descriptions": true
 }

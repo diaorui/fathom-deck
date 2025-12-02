@@ -5,14 +5,54 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "American Bitcoin (ABTC) Falls 15%, Mirrors Crypto Drop",
+      "headline": "4 reasons why bitcoin is slogging through an epic plunge",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0ZwQ2ZJR1FQWkhxcC1xaTcwWmxQUE9YQlJOOGtmdWJnazBvSzJpZTNaZVM3RGdzME1KSmdsSmJMb0N2TDl6bTZMUFpVSnFSUTNWTk5ZZHFQVEtabDQ2RmUzcm5mOXFPLTJHaXh0NEplMXRoSHJHN2lhZF91RzFpXzhrNkhaOHZKVWxtMExBVGJfUThvRlR5UU5vM00tNFNIYlFUcTJOWTNxekg3d0E?oc=5",
+      "pub_date": 1764671100.0,
+      "article_url": "https://www.businessinsider.com/bitcoin-price-crash-explained-headwinds-hurting-crypto-market-outlook-2025-12",
+      "image": "https://i.insider.com/692e03407ecd1d1da662b675?width=1024&format=jpeg",
+      "description": "There are a few reasons why this sell-off in bitcoin feels different than ones past."
+    },
+    {
+      "headline": "Stock Market Today: Nasdaq, Dow Gain; Bitcoin Price Rebounds \u2014 Live Updates",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOTmk5Wm9RZWpnYXNCQk1od25mNVVLYmNjazRuZnJzSzAzVHhvaWgyakgwTkdjcC1LZnA0Rm1POFg5QzJpbkNqTWtqbXVJaU9NaURpVFNWTTRrVVZDRHFweVU0QlZOdEx2SnNxZ3A5WUU3Y0dIWkJUMXRvZTdpWkhIb1l5aDM5LXlsY0pSRXJMWi1Xb0NQa3R2NXlwX0pKZDYyMEVwbjF1R1NCRTZEZlZQNm1UbmZtWDdQNS0wdFJaYlp0UjJGZWpaQ2F3UEtXMGQ3MVpmMGI4TnAwM0UwazhIai1fSGhYXzJwc2FaeVVvS2VYOG9lRElVWWJBVDJLQ2puTVZOOGtvT2c2VURDSk4tVThNdFI1Y3B4WWo2Yzc4aXlOYVhjUURRbFNGeHdvbVhXSV9JSnNXWUhUc29abE8tQkJ3czRmSkhZSzJuRk84VWNtSlBjeDBjcFZPX2Y5UVdXVnBDYXg5eGFSbWFJS1pWdkZZQURhLVFSUnIyM3JwWWVQX1BFNjRnOFIzaXI?oc=5",
+      "pub_date": 1764699060.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025?gaa_at=eafs&gaa_n=AWEtsqdtLQNkkXVIbH629Vr439tTsOvTO_szGBOKY2J-JQoPtLzXQenGdz2a&gaa_ts=692f38b7&gaa_sig=1hfu2w4EyJlpWUcdY601LTAquXPOuD1MJay94d-ahWF_anQa-yxzm98wavKZiO2LuO3lCH-n-qUDK63q02fYGA%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq slide as bitcoin tumbles to kick off December",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOWRSZnJUdTR0QkdJZjFCd25EUlBCT0ItcVc4TWJNS3Bud2J1NDF0RTZINENKUWdHczVfM2tKWERFdDFmc1lwWjZGR1NDRThmM3FyeWtpUnpFb2ZGZllGQ0JEX2hmTDlGV1hCYm93VzJTVzRSbUctSTdYMmdKb1Z1MnpR?oc=5",
-      "pub_date": 1764691191.0,
-      "article_url": "https://finance.yahoo.com/news/american-bitcoin-abtc-falls-15-155951180.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/qaVF5PvTcI_vV94NP0CQQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://media.zenfs.com/en/insidermonkey.com/c7b4d0e05ca5b213d76cce5001de89ba",
-      "description": "We recently published 10 Stocks Already Hurting in December. American Bitcoin Corp (NASDAQ:ABTC) is one of the top performers on Monday. American Bitcoin Corp (NASDAQ:ABTC) fell by 15.57 percent on Monday to finish at $3.58 apiece as investors took path from its major asset\u2019s decline on the same day. On Monday alone, Bitcoin shed 0.058 [\u2026]"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXRIdXY5NTBuZk5CMG5XcU9iSWFTWkNBSGljRzdBRmNxdDAzS2x3Sk1lTzU5U0JNUmVYaTR0QmZ5TFRPc3R1WFhkNm9JX215TThZampKd0p2N292Qm1heU94M2VaMHdRcEM5RXNrcE05M1BZTnFGdU1laWZHOVFXcUU3X0JBN2MtQkstQ0lXRkVUZzBTcU03ZjdCcy1qcmFSc21YNjFmN1M5dGd0aTRJdU1MN1NBd25UbmlWb0xkLVoyQ3hlUWpyRUROdXhNZw?oc=5",
+      "pub_date": 1764623005.0,
+      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-december-210035496.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/lvmtNDwzV7lcqAQNJZd0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6f40c5f0-a863-11f0-b3eb-c74a2e7e85d5",
+      "description": "Wall Street's strong late-November rebound looked set to hit a speed bump on the first trading day of December."
+    },
+    {
+      "headline": "Stocks gain, bonds and bitcoin find some footing",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkJxanotb1RQN0RaT0QtOXZVWWd5VDRYZlNFSkxzVmxZMm5rNU5kRno2TElKM0RGQmUyWFlmNG5OTkxVcXhaVV9IOGliM1hsS3RWTHpYbURCWlpwZHAtU1ppLUdRbGQ0Ump5VEsyZ000WXR2NTI5VUluR3FlLUtubThWTQ?oc=5",
+      "pub_date": 1764692540.0,
+      "article_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-12-02/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin sell-off halts Trump family's crypto windfall",
+      "source": "ABC News",
+      "source_url": "https://abcnews.go.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmlWMDNZVUtjS1dsWHFyaTdfMnhSMTEta1J0WGZDTlJ0czUxcFlJeV95Y0pUSGRVZG0tSmE3MlVxMDNGb1pBZjlWOF9uZXlZVlJncTRldWtaMDRRMm5NelRQN216N0I1YldHSVNja0Nsb3FpUDliZk12aTVaZEd6TVkzaW1FeUZRcWtBcWl2WkhTS1JGbExzUDFIRFlnUdIBowFBVV95cUxQVGxtTWthQ3gxRS1QUUpYZFd0RTB0OXVPYm5STk1sLWJPUzZLeGRhVUM0NzBfcm1IaGdqdVNESG9leWZpTHpkUDFsaEpDbG94d0FjOTlpRGNZOFZDWF9ZeGhNMkRzRHNzOHpDVGNZQWNDamdQR0R2Ni1PVkhtVmpsQUpyZHdLVzgxelQwNzU3RmFkMXNOOXB3UmFRV1IzUGItc2Q4?oc=5",
+      "pub_date": 1764696059.0,
+      "article_url": "https://abcnews.go.com/US/bitcoin-sell-off-halts-trump-familys-crypto-windfall/story?id=128035773",
+      "image": "https://i.abcnewsfe.com/a/cb51083f-cd27-4bf8-8f01-4b848cd3d681/donald-trump-5-ap-gmh-251201_1764611758255_hpMain_16x9.jpg?w=1600",
+      "description": "Due to a recent downturn in bitcoin, the Trump family has had roughly a billion dollars of their net worth erased in just a matter of weeks, according to estimates."
     },
     {
       "headline": "Trump Family-Linked American Bitcoin Sinks on Crypto Downturn",
@@ -28,71 +68,21 @@
       "headline": "American Bitcoin Stock Plummets in Setback for Miner Backed by Trump Family",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNQ2ttcUJDYl9jQVotV2kxdnJJWElJSG5sTnN2YkUzSHBGUFdMSzlTVWRIalFjdmdDdU1rTjY4MWJVMmV4X2hzTTR6YTNQRHY4c18wWTg2REdVb3ROTHlIYk5VZENIYnJFTW96dFpKcGwweTZURkhWalVNdjJYYkFYRGE5YWFvWVczNWhWVVNRZzdybktSSDV0ZVdCQUc1QUV2UHc0dS1xSlpPZy1oSERWZzFsRGpEWk1EV0FacmpDbzNqYWlubW5vcW5HdVZOT0QzX2VHTUx2UmVMdVQxWjVSNGs2dmY3bEljYUpzd09vVDlyQ04ySEN6b3JSMjAwbnRnS2RHUmk3bXhhLU1DSjMxekZ3ZEFhOGd1YUlkNW43UXM5UzNFX3lIN1Z3TzExNG9mOUVDV2hFMjJwOFgybURyc0hUZ3AxSzBOdFVma21wbDVQM3F6a2J0R2JMMG10eFdiRktwSlhSMFpoamZYRFBXNnNYX29MZUYxVHhmYTJRVFBjOWxjLVZz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQandTOWJKeE53clAtczl4bnlmYVdwdHBWUTRKVkZYYTJmWXZVMWJNTkw2YUo2ZUlyazJjUDVZamMxdC1tem9QeTJNb29yb0xWY1I3SkNkMHZxajk5WkFKU01WNFFjeEV5UExraVJvcnNXOFJzamtIOWRTSE9zS3FGNVo4U2JKLW1ITW1sTnpxLTJxakt2T3JRcHVCMkc3NEMyME5ueFBOYzU0SDBJVVc4OVlfSG5mYVVpaVUwZTF4c0N5bFAyODlZdzlTdVpQUTByWGxudUZJVnBPcDdQNl9GbUNPdUpBQl9zSEotOWh6UFRVVTRNN1RFZmVlYkhMbjZ6T182Q1QzWm1BVEtXb3ZsQmxVakVOcnJSeFJ1bHpyd1Y5M1NjcTl3ZFR0c0tqTklsRldrNkVoeE00OHRIeU1xMXQwaDduQUw3UE5sUUJnSXBtdV9Oa2s4d0hrMjVMZUx4QUNCYU5BQ2JXdTNhc2FaeXd6eV9lY0FocXk0UXFGb1M2LXU2S3dJ?oc=5",
       "pub_date": 1764696660.0,
-      "article_url": "https://www.barrons.com/articles/american-bitcoin-stock-trump-falls-0e982a2b?gaa_at=eafs&gaa_n=AWEtsqeITYxIiqtGy9fqSVe3YPX_j_bjBw67hcCjwSdKvaNdKkYfNjzEpR6K&gaa_ts=692f30d9&gaa_sig=_bV2iGyaCZUTP6iacffJwPko7CFVFXoCbraFvavSWhJWH59lKzhbBvhMLxOampWiDa3cjMJ1TBpjQE1jhKOzfg%3D%3D",
+      "article_url": "https://www.barrons.com/articles/american-bitcoin-stock-trump-falls-0e982a2b?gaa_at=eafs&gaa_n=AWEtsqeYmmG1RXy_Ux4ilsQb1q4h6N9VON1tRfYl4tQUey0rLpfRZL9fuz75&gaa_ts=692f38b7&gaa_sig=Bd-JG4wnzS8UUFr_j0VzrvwTOCjG8rHLSeqHscRZctJryd-_RnR0YahHYXeSKQ_um5L3eGeUYQm5JzafoUIN6Q%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin logs its worst day since March",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
-      "pub_date": 1764574221.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
-    },
-    {
-      "headline": "Bitcoin sell-off halts Trump family's crypto windfall",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmlWMDNZVUtjS1dsWHFyaTdfMnhSMTEta1J0WGZDTlJ0czUxcFlJeV95Y0pUSGRVZG0tSmE3MlVxMDNGb1pBZjlWOF9uZXlZVlJncTRldWtaMDRRMm5NelRQN216N0I1YldHSVNja0Nsb3FpUDliZk12aTVaZEd6TVkzaW1FeUZRcWtBcWl2WkhTS1JGbExzUDFIRFlnUdIBowFBVV95cUxQVGxtTWthQ3gxRS1QUUpYZFd0RTB0OXVPYm5STk1sLWJPUzZLeGRhVUM0NzBfcm1IaGdqdVNESG9leWZpTHpkUDFsaEpDbG94d0FjOTlpRGNZOFZDWF9ZeGhNMkRzRHNzOHpDVGNZQWNDamdQR0R2Ni1PVkhtVmpsQUpyZHdLVzgxelQwNzU3RmFkMXNOOXB3UmFRV1IzUGItc2Q4?oc=5",
-      "pub_date": 1764696059.0,
-      "article_url": "https://abcnews.go.com/US/bitcoin-sell-off-halts-trump-familys-crypto-windfall/story?id=128035773",
-      "image": "https://i.abcnewsfe.com/a/cb51083f-cd27-4bf8-8f01-4b848cd3d681/donald-trump-5-ap-gmh-251201_1764611758255_hpMain_16x9.jpg?w=1600",
-      "description": "Due to a recent downturn in bitcoin, the Trump family has had roughly a billion dollars of their net worth erased in just a matter of weeks, according to estimates."
-    },
-    {
-      "headline": "Venture Capital\u2019s Identity Crisis and the Influence of Bitcoin",
-      "source": "Rolling Stone",
-      "source_url": "https://www.rollingstone.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnhzcFpFYUlIekpjNTZnYTdKWHpNbVp0U1JfOXRpc0hVbHNxU0M1TkY3Q2ktazhCbzlVWk9IQld6QmJLVHZzZmxBMURRbENwSlduX3RrWkY5S3prMEZyOUNFdzNqckxaeHRwYXptRE1HZWVsM1ZyRVo0NDNudUdPZ1hiR0hOcUNUV0RJc1hHQzRUUTRocWl6YWY5R053THFQZ1hQbGx2UFN0VVVNY0FJX2xvVVB4TzF4SGVr?oc=5",
-      "pub_date": 1764694800.0,
-      "article_url": "https://www.rollingstone.com/culture-council/articles/venture-capitals-identity-crisis-influence-of-bitcoin-1235475082/",
-      "image": "https://www.rollingstone.com/wp-content/uploads/2025/12/venture-capitals-identity-crisis-and-the-influence-of-bitcoin.jpg?w=1600&h=900&crop=1",
-      "description": "What\u2019s changed is investor risk appetite given broader economic concerns."
-    },
-    {
-      "headline": "Stock Market Today: Nasdaq, Dow Gain; Bitcoin Price Rebounds \u2014 Live Updates",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQTkRseVB2V21jTmg2THJmejJYWXlYTGJ4a0IweWhyMVF2LVd3OFpieVBrVUJ3WVZDdGMyYWJSTFh5eFF6bVlfY2t5emp3cllpTHJYMjUzV0xfRUxONUlTVGJpYkJNNUFVc1NDb0RjOThPQmh2TXpqeTMtT1BSQnR4cFlIbVNuWkg4bG45SllJZWIzNnRSdXZleHk4ZVhPZWROLU9FVzJhN3FCZ3pzRElIbVVjZGxJQTBqZHB6OEFrZGtTUW1VUlZkTUd0WVZYTEhpMlhkM3hLWW9sczdQdkd0eTBQMVZvUTVxSi1QdVFZQm5OcXFhLUY4cEk4VHFXVlZVbjlSRTkxMS1sMGhiYTFVWmZ2bXhyajgyRUVjd0pTX05iTE5zYzJ6Z0ZxLTZzLWZlRTRUZk53SnNCQkZMRXFqQ2VqN0N4SzUxMUp1ZkR3b09vZlo5YzhzWEpmSG5CQlhfb0paMk1oVjhFUmo0cnpPcDM2YUxPQ2VmQkNrX3NabDRyeVlEMGRQYm54dUw?oc=5",
-      "pub_date": 1764697020.0,
-      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025?gaa_at=eafs&gaa_n=AWEtsqdlapwgUmLkQJno61DXD2F6ab0BibcIRUsTHxwgo7Wh9hlvptHO_aKM&gaa_ts=692f30d9&gaa_sig=LJuxGP3a6Qfmqdl_SrXAddYEhE9diuKgiKd4UcYXatxPRUxvmRfPgPZ0Z4am8NEfZ0QwjkffRpE7ENfK0x8nIw%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq slide as bitcoin tumbles to kick off December",
+      "headline": "American Bitcoin (ABTC) Falls 15%, Mirrors Crypto Drop",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXRIdXY5NTBuZk5CMG5XcU9iSWFTWkNBSGljRzdBRmNxdDAzS2x3Sk1lTzU5U0JNUmVYaTR0QmZ5TFRPc3R1WFhkNm9JX215TThZampKd0p2N292Qm1heU94M2VaMHdRcEM5RXNrcE05M1BZTnFGdU1laWZHOVFXcUU3X0JBN2MtQkstQ0lXRkVUZzBTcU03ZjdCcy1qcmFSc21YNjFmN1M5dGd0aTRJdU1MN1NBd25UbmlWb0xkLVoyQ3hlUWpyRUROdXhNZw?oc=5",
-      "pub_date": 1764623005.0,
-      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-december-210035496.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/lvmtNDwzV7lcqAQNJZd0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6f40c5f0-a863-11f0-b3eb-c74a2e7e85d5",
-      "description": "Wall Street's strong late-November rebound looked set to hit a speed bump on the first trading day of December."
-    },
-    {
-      "headline": "XRP, BTC Analysis: Ripple-Linked Token, Bitcoin, Nasdaq on the Edge",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFZfMlRhaGI0Zy1OdGVaRHlaQ1psVjZCVDhvdHVJOFhsQ3puOG02eGJ3MHZsVE1wU1JqX3VEQWI1Ujc3SGRXekNpREgtaUU5blhXM3FEVWtESW84SWVCbFdjN1hGR3pHMHZGVmdRSWxKSEM1bEJhMmk0ZW56bmdiLWcyMldUUkRpdkFGTDZ5QmZJemxXb1hxWDh3?oc=5",
-      "pub_date": 1764661581.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/02/xrp-bitcoin-on-the-edge-has-santa-abandoned-nasdaq",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d5646c439de12ffa75596d174196acfefaedd782-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "XRP and BTC trade close to make-or-break levels while Nasdaq's November price action raises pullback risks."
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOWRSZnJUdTR0QkdJZjFCd25EUlBCT0ItcVc4TWJNS3Bud2J1NDF0RTZINENKUWdHczVfM2tKWERFdDFmc1lwWjZGR1NDRThmM3FyeWtpUnpFb2ZGZllGQ0JEX2hmTDlGV1hCYm93VzJTVzRSbUctSTdYMmdKb1Z1MnpR?oc=5",
+      "pub_date": 1764691191.0,
+      "article_url": "https://finance.yahoo.com/news/american-bitcoin-abtc-falls-15-155951180.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/qaVF5PvTcI_vV94NP0CQQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://media.zenfs.com/en/insidermonkey.com/c7b4d0e05ca5b213d76cce5001de89ba",
+      "description": "We recently published 10 Stocks Already Hurting in December. American Bitcoin Corp (NASDAQ:ABTC) is one of the top performers on Monday. American Bitcoin Corp (NASDAQ:ABTC) fell by 15.57 percent on Monday to finish at $3.58 apiece as investors took path from its major asset\u2019s decline on the same day. On Monday alone, Bitcoin shed 0.058 [\u2026]"
     },
     {
       "headline": "Tech stocks linked to Bitcoin take a battering as crypto traders brace for Strategy to breach danger threshold",
@@ -103,8 +93,18 @@
       "article_url": "https://fortune.com/2025/12/02/stocks-bitcoin-strategy-ratio-market-cap/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2217027772.jpg?resize=1200,600",
       "description": "Michael Saylor\u2019s Strategy, the leading Bitcoin treasury company, now has a stock market cap worth less than the Bitcoin it holds."
+    },
+    {
+      "headline": "Venture Capital\u2019s Identity Crisis and the Influence of Bitcoin",
+      "source": "Rolling Stone",
+      "source_url": "https://www.rollingstone.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnhzcFpFYUlIekpjNTZnYTdKWHpNbVp0U1JfOXRpc0hVbHNxU0M1TkY3Q2ktazhCbzlVWk9IQld6QmJLVHZzZmxBMURRbENwSlduX3RrWkY5S3prMEZyOUNFdzNqckxaeHRwYXptRE1HZWVsM1ZyRVo0NDNudUdPZ1hiR0hOcUNUV0RJc1hHQzRUUTRocWl6YWY5R053THFQZ1hQbGx2UFN0VVVNY0FJX2xvVVB4TzF4SGVr?oc=5",
+      "pub_date": 1764694800.0,
+      "article_url": "https://www.rollingstone.com/culture-council/articles/venture-capitals-identity-crisis-influence-of-bitcoin-1235475082/",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2025/12/venture-capitals-identity-crisis-and-the-influence-of-bitcoin.jpg?w=1600&h=900&crop=1",
+      "description": "What\u2019s changed is investor risk appetite given broader economic concerns."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T18:18:21.596329+00:00"
+  "fetched_at": "2025-12-02T18:51:56.530772+00:00"
 }

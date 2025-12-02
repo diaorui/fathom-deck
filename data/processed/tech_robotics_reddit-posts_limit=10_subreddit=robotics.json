@@ -24,6 +24,17 @@
       "description": "All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?"
     },
     {
+      "title": "Love robotics, hate heavy algorithm stuff \u2014 what roles fit?",
+      "author": "Technical-Force-6266",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc7azx/love_robotics_hate_heavy_algorithm_stuff_what/",
+      "published": 1764678895.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey all, As the title says, I love robotics and working close to hardware, but I really dislike heavy algorithm development. I\u2019m comfortable with Python, C++, ROS2, and Linux. What junior-friendly roles could someone like me aim for? Best,"
+    },
+    {
       "title": "First real test of my tabletop robots",
       "author": "Adventurous_Swan_712",
       "url": "https://www.reddit.com/r/robotics/comments/1pbhwpf/first_real_test_of_my_tabletop_robots/",
@@ -55,17 +66,6 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/76a077af/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "Love robotics, hate heavy algorithm stuff \u2014 what roles fit?",
-      "author": "Technical-Force-6266",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc7azx/love_robotics_hate_heavy_algorithm_stuff_what/",
-      "published": 1764678895.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey all, As the title says, I love robotics and working close to hardware, but I really dislike heavy algorithm development. I\u2019m comfortable with Python, C++, ROS2, and Linux. What junior-friendly roles could someone like me aim for? Best,"
     },
     {
       "title": "Demonstration of sanitation robots in Shenzhen last week",
@@ -112,5 +112,5 @@
       "description": "How would I add closed kinematic loop for gazebo with multiple parents. I tried to make it with detachable joint plugin, but it's not working exactly... As the detachable plugin is not even being active. Could somebody help? What's the standard approach?"
     }
   ],
-  "fetched_at": "2025-12-02T18:18:01.304373+00:00"
+  "fetched_at": "2025-12-02T18:51:39.141512+00:00"
 }

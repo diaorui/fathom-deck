@@ -101,37 +101,9 @@
       "description": null,
       "favicon": null,
       "site_name": "nytimes.com"
-    },
-    {
-      "title": "Show HN: I built Magiclip \u2013 an all-in-one AI studio",
-      "url": "https://magiclip.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=46086920",
-      "author": "kokau",
-      "points": 41,
-      "num_comments": 22,
-      "created_at": "2025-11-29T12:04:23Z",
-      "object_id": "46086920",
-      "image": "https://magiclip.io/assets/images/favicon.webp",
-      "description": "Magiclip - AI-powered platform for creating viral short-form videos, with automatic subtitles, AI voice generation, and social media optimization.",
-      "favicon": "https://magiclip.io/assets/images/favicon.webp",
-      "site_name": "Magiclip"
-    },
-    {
-      "title": "A Tale of Two AI Failures: Debugging a Simple Bug with LLMs",
-      "url": "https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/",
-      "hn_url": "https://news.ycombinator.com/item?id=46083162",
-      "author": "slederer",
-      "points": 9,
-      "num_comments": 16,
-      "created_at": "2025-11-28T22:00:51Z",
-      "object_id": "46083162",
-      "image": "https://bitmovin.com/wp-content/uploads/2025/11/Bitmovin_2025_Blog_Hackathon_Lessons-min-768x403.jpg",
-      "description": "A subtle string formatting bug defeated two leading AI coding tools in completely different ways. Here\u2019s what their failures revealed during a recent Hackathon.",
-      "favicon": "https://bitmovin.com/wp-content/uploads/2023/11/bitmovin_favicon.svg",
-      "site_name": "Bitmovin"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T07:39:33.164535+00:00"
+  "fetched_at": "2025-12-02T08:17:28.318570+00:00"
 }

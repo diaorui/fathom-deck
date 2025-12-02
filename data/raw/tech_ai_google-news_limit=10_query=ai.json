@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Apple\u2019s A.I. Chief, Who Failed to Deliver a Smarter Siri, Is Retiring",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3IwazlPbjFfRXRYUVQyX2FCZ1NDOFprdGg3VW5oelQ1aXNUazRrMjlreFB1NVFGUmxidWtwS1htWTFyLXdYb0cza2NtUjd3N2JVeUtCdy0tSGR5Q0Q1NloyZHQwdDdsWkFjeHdfU3NHNFpUT2N4TzFhamI0ZTFtU0hQTGUwQQ?oc=5",
-      "pub_date": 1764641705.0,
-      "article_url": "https://www.nytimes.com/2025/12/01/business/apple-ai-john-giannandrea-siri.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Apple names former Microsoft, Google exec to succeed retiring AI chief",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -25,22 +15,42 @@
       "description": "Apple's AI chief is stepping down after experts say the company has fallen behind its peers when it comes to investing in AI data centers, chips and models."
     },
     {
-      "headline": "Meet Amar Subramanya, Apple's New Vice President Of AI",
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVNmUXBBQm1FVm05UF9aRHNwWlpCUWU4MkVfM2dGbUhFclBCS0VXUzBtZFVDTXFXOGRfQkJjbG1ULUhhOUZOVmxqSG1KTEFVZjREUkFXQjdWQVZ0RzN2WThGVlZSNzRadDZfeDYyXzJCdTc1TERxb1E1ZWJ1WFV3VmU0dTl6Z3JTc29jVWV2LVByXzVPcVRV0gGfAUFVX3lxTFA1aDJZNWJRNm1WUWR3a19jWEFUYWN6TUd1Nmx1ckR4WXI0M3VSOFVmMXFYcDh6U05zd3ZzTWJuTjNPd2tGTldIUWxLeTJ3X192TTRTMW1ZR1RuOGlQRXltajhBSnA5N1dDZ3VQbHpRalpPS0d0enBOazQxNUtmelZxSHVHWGk4Nk91bFZOYXRsY2ZLV3hzcER0QTBNbVhRRQ?oc=5",
-      "pub_date": 1764649459.0,
-      "article_url": "https://www.ndtv.com/world-news/meet-amar-subramanya-apples-new-vice-president-of-ai-9734562",
+      "headline": "Siri-us setback: Apple\u2019s AI chief steps down as company lags behind rivals",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaHV3emhYQjdOZ2hOR29pQVp3TFNwTENmVTF6dmhIYm5QV1hDeWlnOU50MWhvZnFZUVB6R3FNWmh3WU83REtFNFBHSkYtR1FsRGg0WHhURXFaZGFYYk9mN1RaODRISG5UX2pmQ241a3ZGd19FakJPeGg1VHNxdVE5d3RBTlZsdUhmSGhzUzJnSnQ2UW9MUnpKbg?oc=5",
+      "pub_date": 1764637380.0,
+      "article_url": "https://www.theguardian.com/technology/2025/dec/01/apple-ai-chief-john-giannandrea-steps-down",
+      "image": "https://i.guim.co.uk/img/media/c5397f6078c2b51680181fe497db3b8b25290b74/292_0_2917_2334/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da7c907b054633c1a3285110fe3ccf4b",
+      "description": "Amar Subramanya will replace John Giannandrea after firm has struggled to catch up with AI rollouts by competitors"
+    },
+    {
+      "headline": "Apple\u2019s A.I. Chief, Who Failed to Deliver a Smarter Siri, Is Retiring",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3IwazlPbjFfRXRYUVQyX2FCZ1NDOFprdGg3VW5oelQ1aXNUazRrMjlreFB1NVFGUmxidWtwS1htWTFyLXdYb0cza2NtUjd3N2JVeUtCdy0tSGR5Q0Q1NloyZHQwdDdsWkFjeHdfU3NHNFpUT2N4TzFhamI0ZTFtU0hQTGUwQQ?oc=5",
+      "pub_date": 1764641705.0,
+      "article_url": "https://www.nytimes.com/2025/12/01/business/apple-ai-john-giannandrea-siri.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "OpenAI\u2019s Altman Declares \u2018Code Red\u2019 to Improve ChatGPT as Google Threatens AI Lead",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQNmcxRzJxcHJydEx6cG5iYk5NQmJiUzZFNkluX0JMZ1R0cjRpN1o2WnlNUkFlOUFRYUNWN0JCdUlNUjRTWFdlMjAyM1NKMC1Vd3EwQ0VwVFhwdjIwcmZUcnFmRk90VGVMZXBnNmh0S0EzZDhNZ25XNHRtTmlJdVRkWU1INU5tRHlNLVIwRnM1NXNnVnpsaG9uMkJHYlRaWTdRN0MwbVdrRy1JRVFwbkN6MU1BVno5c05WcnNLYzNFZzJQTFVhbmhndXVVUnBjTk5IV1IzQlRMY2NrYk1OQ2cwOFRfZG5wdVpDWGpBM29OeTNtem5jaEp0YkVQYThfc2FkOVlqNjk3ZU9iQkV4c19LdHViWE03VGtwb3dZU3BXQ3hxS1ZVVE5LdW5wODdyT2xfYUJpV09OendONGdXa0Zob2JzMUlkMlRYcmZNQl9TVGVNTU1sSE4tZlV5WU4xOW1iQ1NpTVRhOXNYZ0xaZGdJT2t1M1Y4Ti1McC1rVW5NMnN3RjFJeWNyMHF4UUVvSTRoSWRuTXh5eWVXMUVPbTIwVEF5UFhEQ2ZpQ3VBcG5DNVpLZHhNMXJ2X3R4NGo?oc=5",
-      "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqfumvQdx1ZcP26ZJ_KCDwNBIn9P83FG3hscuq7FnRoAxcvUEUe_YcON&gaa_ts=692e9b37&gaa_sig=2xZXyD0fIr-hqjajkL39GvMIRuM67IoX85LG9fTd_aI0FOirBqpduvM-IvF5yUfnh-Kq9Ssk7D0GExWbeTUZBQ%3D%3D",
+      "headline": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEY4SE05SHRWdUhCVWZPZEdmLXVCUlpIckthU2phZ3hqelg4cEgzNEFtVi1aakdGaHFPei1naW5iZHVNTDFIY2JvVEJ6UW5kRkotMHFuelpRVVdReHp6VVVTcVFsdDZ6dlZrNHVrT2Q5ZF9kd3p1QWFDRUxrXzZjN0pMZElxLVFEaGRVUlpxYk0xcDN2cUFHMlUwWjJNVlBmQ3JwaHN3aFE4YUZGTnJyRThmY051SmNBRDd5VTI0UGFiNmVPX1NMOFN1b0dINWwzTDRuZFNQMkQ3T2Ez?oc=5",
+      "pub_date": 1764634320.0,
+      "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
+      "image": "https://i.guim.co.uk/img/media/3a0b9b3f8dd7ac48f7a548037c63002bc5661c22/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd918b07d627fc9aa7296acc6d16da0d",
+      "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
+    },
+    {
+      "headline": "Fearing AI job losses, some young workers in Britain shift towards skilled trades",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWGdURWpqWTFHaWRfdWFSS1NCWXVncWg4cDhwSzl4NGl5aWJ3bWpNVGpZUThjX2I2bGcybGlyQWkyTkxwbGRDWHZ1c3ZkOWg0NWVWemFPS2lkR3AzMURZUU16M0ZfcDdidmRRcS15Ymc0N2tGOVY0TnhUbkVRZjVicXFGdlg3SS01eU8zUUpQdFVmeUwxdWkybUxNbWt3akxhSV9SYlhpaWtzaGRpYXRMcllzRk40YnQ5RUFnY0VjRFJWb05zRGQ5QVlKcG50V2tNWEE?oc=5",
+      "pub_date": 1764662832.0,
+      "article_url": "https://www.reuters.com/business/world-at-work/fearing-ai-job-losses-some-young-workers-britain-shift-towards-skilled-trades-2025-12-02/",
       "image": null,
       "description": null
     },
@@ -55,44 +65,14 @@
       "description": null
     },
     {
-      "headline": "A 'seismic' Nvidia shift, AI chip shortages and how it's threatening to hike gadget prices",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzVJeVpWbWtQc2tfNGVzcHJHdWJXVUt1a3lZOTBRRDFhRDBOTWNCb0FpeDlpVlNKdUdSQzQ5UmJuMklJTGZFODFqSTJuM2xhN2tnLUd4ZUFkUW9kVHFIT3M5a2d5NnRRTnllTmRxZUFNVjk1OHVkLUozSzZWT2FCbkFIWF94cVNZc1N6OFFVSXRDMWRscy1hQmdHR1ozVUZmZG9R0gGoAUFVX3lxTFBaYlhKUUlQRWluSGJJUmFQTHBGdl9TYWxHdzg1QlZZMHp6RkltUTFZTmswYm1jWlNKemNyeTJOVDZyaF9tbzk5aEpmNE1KWjlpTnNHUTgxR0RTWW9hdnlxQUVMd21TSl9ZS21BaFBrVGIxV3U0M2ptUmY3elZsMFRvb1Boc25sSjRQVkt5TmhjalVPWmp5SmF2cjM3WlhmM3RHdWFmdlBfUg?oc=5",
-      "pub_date": 1764657008.0,
-      "article_url": "https://www.cnbc.com/2025/12/02/nvidia-shift-ai-chip-shortages-threatening-to-hike-gadget-prices.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108233306-1764322289679-gettyimages-2241962168-ECP_fc1300561.jpeg?v=1764322377&w=1920&h=1080",
-      "description": "The AI infrastructure buildout is creating shortages of components including various types of chips that are also used in consumer electronics."
-    },
-    {
-      "headline": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrVVBZR0I4cGsyaHg1WVpTMVlzRUpoZW15TXd0c2JjNG5hSkJ4Rmdyakk0YmpReWo4Z01KRzliaU9PMnNRODU3Z05iQ3JzNVB5WUhaeDNyenZJZTh4dkMweVlwQUFLcHBGS2RwR3JNN3Z5TjlPM09nVl9n?oc=5",
-      "pub_date": 1764608797.0,
-      "article_url": "https://blogs.nvidia.com/blog/neurips-open-source-digital-physical-ai/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2025/11/NeurIPS2025KV_Alpamayo.jpg",
-      "description": "NVIDIA releases new AI tools for speech, safety and autonomous driving \u2014 including NVIDIA DRIVE Alpamayo-R1, the world\u2019s first open industry-scale reasoning vision language action model for mobility \u2014 and a new independent benchmark recognizes the openness and transparency of NVIDIA Nemotron models and datasets."
-    },
-    {
-      "headline": "Famed short seller Jim Chanos sees risks in growing debt market backed by Nvidia\u2019s AI chips: 'There's going to be debt defaults'",
+      "headline": "Intellistake Strengthens AI Infrastructure Platform With Entry Into Space-Based Data Centers",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVDRuYVFDRGZRNFZTUW1QbUVjV2JVMGkxVVU2Ulo0VDRDWG1iVDYzOUdZVWhUeVc4X1kxM3lSdUFEcWh2c0piS09uUEtoaEk3ZWNVSFVLTEFtb1BSTmtPekxHR2dxd1o1VzBHdE1MdmRwVERXNmdjZlEwVEp0VVRSWjFMdlMyLV9DeHZOSWZCWkF6VU1hekNHRkZPR25ZZFYybUp1RkhnQmV2dG5FcWdqRGtXZzNGbzluQTY2RkliS2JHVXFFNGtUYTBBRzZ5Qzk0T3hLWEV0M3JSVEVDV0xqMGI5bTI5aXJDZndET0RRdnZjLWtVNmE3dlhmVGpudw?oc=5",
-      "pub_date": 1764586813.0,
-      "article_url": "https://finance.yahoo.com/news/famed-short-seller-jim-chanos-sees-risks-in-growing-debt-market-backed-by-nvidias-ai-chips-theres-going-to-be-debt-defaults-110013557.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/vOISLQVgvqq9z2jWQ5H.9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/684e2450-c09f-11f0-97fd-fae944aed1e9",
-      "description": "Nvidia's AI chips have been used as collateral by emerging cloud companies to secure big loans."
-    },
-    {
-      "headline": "Fearing AI job losses, some young workers in Britain shift towards skilled trades",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1hkLUs1YTVTbkg5bEFZbTRrWFR6Um1VcUVVY0pKVEdxbW8tZXdZel94b1lKdWx3Z0pmNHN2eThUa1BGQWpmdDBKbnVETElqRjhfYjdtS2QwUEF2MXJWMzB4N0VWaDFxa0RyN21BLUdFU3VPS0dyWm5lQlMwWEJFOHdaSUQ?oc=5",
-      "pub_date": 1764658980.0,
-      "article_url": "https://www.yahoo.com/news/articles/fearing-ai-job-losses-young-070322702.html",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/12df0987f1c5e670dd7e7394b6b6e2c7",
-      "description": "In a labour market where artificial intelligence is quickly transforming and sometimes replacing jobs, student Maryna Yaroshenko wanted to find a future-proof career that offered long-term stability.  Like a growing number of young people in Britain and beyond, 18-year-old \u200bYaroshenko opted for a skilled trade and is now training to become a plumber.  \"That's something AI won't take over,\" said Yaroshenko, who is originally from Ukraine \u200cand is studying at the City of Westminster College (CWC) in London."
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3JIZDRNdEkxWWVTdDJJandadmVDbkdBck1qT0huY2szYllUX0dJTDBvSF9JSjhLeElJd0ZXYnRXMWRDNjZuSzh3V0w0d2FOMUwzbEVDTjl3SGN6LVR4aFJIYUxvSlY3bTA3RENKZEhoUUhWWjBPM2JhY1JBRWF5bzgtcHk2NlhIazRRQUE3bGY3OG92dS02LTNRekcwQQ?oc=5",
+      "pub_date": 1764662460.0,
+      "article_url": "https://finance.yahoo.com/news/intellistake-strengthens-ai-infrastructure-platform-080100523.html",
+      "image": "https://media.zenfs.com/en/cnwgroup.com/9887ec6836e042065b67dd3bdc0b70c1",
+      "description": "Intellistake Technologies Corp. (CSE: ISTK) (OTCQB: ISTKF) (FSE: E41) (\"Intellistake\" or the \"Company\") is highlighting how its partnership and strategic investment in Orbit AI1 positions the Company at the infrastructure layer of what it sees as the next phase of cloud and AI \u2013 data centers and verification systems that operate in space, as well as on Earth."
     },
     {
       "headline": "Opinion | How to Prepare Your Kids for the A.I. Revolution",
@@ -103,8 +83,28 @@
       "article_url": "https://www.nytimes.com/2025/12/01/opinion/ai-parents-children.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Millions of Coders Love This AI Startup. Can It Last?",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOUEVWQzliWGxjWjVHUjhUOWs5NFV6dFV3Y3ZjR2dxcDh5eDhuRXI4LURMOEZpbTN4SGtsVGRQQVl3NVliYnV5cEVKVnNHTmw1SmRMLTNJdkNBbEZQd0ZDOUZOS3JfT21QUDdUVGVxeWg2WUJuNzB3S0daYkJkR2pIS1AwRXJUNXI1T2E3ZkVBRXp5Uzl4QmhRUkVzRVJNV19zNVdkOHplR01Vb19MU1Zuam0yTktZYWNLRjRDckxndkFGUnpiaFZEb010OEJwZTFLOHcxdThzdFhCdHpZT2x0LTBFODZINEllVEVYNFVMc3pfajNCTGtoYWdXU0c0c0NhVFZZT3R0ZV84MnNHWXF5QVpvNlJrOVhFUWZOOUtUejZJdk8yeUZWeFVwVjJEUTVjYTNheUN5NW5pU1dKQlFZVmVFdzFfaV9rcHg2SHh2VFEwSlBBbk1TS2ZsUEFmSHNRWHFNUU91RC1aMFVsdVNnTV9JYkxjZGZWTE1teWh5NW40d0RPMVJmY0xlS3daRzYzZ2JkeU5yRQ?oc=5",
+      "pub_date": 1764608400.0,
+      "article_url": "https://www.wsj.com/tech/ai/millions-of-coders-love-this-ai-startup-can-it-last-45b72441?gaa_at=eafs&gaa_n=AWEtsqfgpv6BtKd3qi65x8Fzudj2yg8aPd2zmdkTCfst5pcG4g522PCxo4fa&gaa_ts=692ea41a&gaa_sig=0yKfd7XBhPs1Svi-bvbQjnpEZm4iPOUBLcjwOj5PkXJp_lBTJibu60SYfHDlhloZEWlkKk6sqBa-KIRnQYuDRA%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The People Outsourcing Their Thinking to AI",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWFhY1JvYmNPUnVkaURvVVZsRExPQk1Edzd4SUh6ODNvOTNUNXJjakp6NDUwTFZDdktGYy1EUHdpdUVOVDVVY0l6OGRWR2htUFMySmtoaW5FMGRWY1pON2JmNnJqZFF5NE5pZ2poMVFZNUdXb1czRV9TOF9nMUVIbGNRMy1vaDMwWU5aazREREhWODNjc1E?oc=5",
+      "pub_date": 1764592200.0,
+      "article_url": "https://www.theatlantic.com/technology/2025/12/people-outsourcing-their-thinking-ai/685093/",
+      "image": "https://cdn.theatlantic.com/thumbor/Llk9rk0EWzJeAoNISzv4UhoCgoo=/0x83:2000x1125/1200x625/media/img/mt/2025/11/2025_11_29_AI/original.png",
+      "description": "Rise of the LLeMmings"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T07:40:03.259757+00:00"
+  "fetched_at": "2025-12-02T08:17:52.785754+00:00"
 }

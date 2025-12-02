@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
       "points": 428,
-      "num_comments": 348,
+      "num_comments": 349,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -75,32 +75,32 @@
       "site_name": "LearnGupt"
     },
     {
-      "title": "A new AI winter is coming?",
-      "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
-      "hn_url": "https://news.ycombinator.com/item?id=46109534",
-      "author": "voxleone",
-      "points": 164,
-      "num_comments": 228,
-      "created_at": "2025-12-01T16:42:15Z",
-      "object_id": "46109534",
-      "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
-      "description": "Though LLMs had a lot of promise, this has not been demonstrated in practice. The technology is essentially a failure, and a new AI winter is coming.",
-      "favicon": "https://taranis.ie/content/images/size/w256h256/format/jpeg/2025/04/taranis-icon.jpg",
-      "site_name": "Taranis"
-    },
-    {
       "title": "AI agents find $4.6M in blockchain smart contract exploits",
       "url": "https://red.anthropic.com/2025/smart-contracts/",
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
       "author": "bpierre",
-      "points": 162,
-      "num_comments": 81,
+      "points": 166,
+      "num_comments": 85,
       "created_at": "2025-12-01T23:44:51Z",
       "object_id": "46115214",
       "image": null,
       "description": null,
       "favicon": "https://red.anthropic.com/anthropic-serve/favicon.ico",
       "site_name": "red.anthropic.com"
+    },
+    {
+      "title": "A new AI winter is coming?",
+      "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
+      "hn_url": "https://news.ycombinator.com/item?id=46109534",
+      "author": "voxleone",
+      "points": 165,
+      "num_comments": 232,
+      "created_at": "2025-12-01T16:42:15Z",
+      "object_id": "46109534",
+      "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
+      "description": "Though LLMs had a lot of promise, this has not been demonstrated in practice. The technology is essentially a failure, and a new AI winter is coming.",
+      "favicon": "https://taranis.ie/content/images/size/w256h256/format/jpeg/2025/04/taranis-icon.jpg",
+      "site_name": "Taranis"
     },
     {
       "title": "Student perceptions of AI coding assistants in learning",
@@ -135,7 +135,7 @@
       "url": "https://news.ycombinator.com/item?id=46095873",
       "hn_url": "https://news.ycombinator.com/item?id=46095873",
       "author": "pera",
-      "points": 69,
+      "points": 70,
       "num_comments": 23,
       "created_at": "2025-11-30T11:48:42Z",
       "object_id": "46095873",
@@ -145,7 +145,7 @@
       "site_name": null
     }
   ],
-  "total_hits": 390,
+  "total_hits": 395,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T07:39:31.923509+00:00"
+  "fetched_at": "2025-12-02T08:17:27.033388+00:00"
 }

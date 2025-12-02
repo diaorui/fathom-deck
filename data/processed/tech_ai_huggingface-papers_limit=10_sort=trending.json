@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 86,
+      "upvotes": 88,
       "num_comments": 2,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22677",
       "arxiv_url": "https://arxiv.org/abs/2511.22677",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22677.png",
-      "upvotes": 12,
+      "upvotes": 13,
       "num_comments": 2,
       "published_at": "2025-11-27T13:24:28.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
@@ -92,7 +92,7 @@
       "num_comments": 0,
       "published_at": "2024-10-08T04:00:12.000Z",
       "github_repo": "https://github.com/hkuds/lightrag",
-      "github_stars": 25004,
+      "github_stars": 25068,
       "project_page": null
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 1,
       "published_at": "2025-10-26T01:49:38.000Z",
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 17024,
+      "github_stars": 17058,
       "project_page": "https://fapo-rl.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-02T08:17:31.821311+00:00"
+  "fetched_at": "2025-12-02T09:43:02.479912+00:00"
 }

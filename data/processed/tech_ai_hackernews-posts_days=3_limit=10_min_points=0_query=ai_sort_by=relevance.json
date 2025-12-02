@@ -79,8 +79,8 @@
       "url": "https://red.anthropic.com/2025/smart-contracts/",
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
       "author": "bpierre",
-      "points": 173,
-      "num_comments": 87,
+      "points": 180,
+      "num_comments": 96,
       "created_at": "2025-12-01T23:44:51Z",
       "object_id": "46115214",
       "image": null,
@@ -94,7 +94,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
       "points": 166,
-      "num_comments": 232,
+      "num_comments": 234,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -108,7 +108,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46089546",
       "author": "victorbuilds",
       "points": 97,
-      "num_comments": 122,
+      "num_comments": 123,
       "created_at": "2025-11-29T18:14:21Z",
       "object_id": "46089546",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -135,7 +135,7 @@
       "url": "https://news.ycombinator.com/item?id=46095873",
       "hn_url": "https://news.ycombinator.com/item?id=46095873",
       "author": "pera",
-      "points": 70,
+      "points": 71,
       "num_comments": 23,
       "created_at": "2025-11-30T11:48:42Z",
       "object_id": "46095873",
@@ -145,7 +145,7 @@
       "site_name": null
     }
   ],
-  "total_hits": 398,
+  "total_hits": 402,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T08:48:24.004866+00:00"
+  "fetched_at": "2025-12-02T09:43:01.385948+00:00"
 }

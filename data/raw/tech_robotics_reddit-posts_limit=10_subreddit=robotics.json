@@ -35,6 +35,17 @@
       "description": "Hey everyone, I\u2019m working at a robotics / physical AI startup and we\u2019re getting ready to release step-by-step a developer-facing Computer Vision API library. It exposes a set of pretrained and finetunable models for robotics and automation use cases, including: 6D object pose estimation 2D/3D object detection Instance & semantic segmentation Anomaly detection Point cloud processing Model training / fine-tuning endpoints Deployment-ready inference APIs Our goal is to make it easier for CV/robotics engineers to prototype and deploy production-grade perception pipelines without having to stitch together dozens of repos. We want to share this with the community to: collect feedback, validate what\u2019s useful / not useful, understand real workflows, and iterate before a wider release. My question: Where would you recommend sharing tools like this to reach CV engineers and robotics developers? Any specific subreddits? Mailing lists or forums you rely on? Discord/Slack communities worth joining? Any niche places where perception folks hang out? If anyone here wants early access to try some of the APIs, drop a comment and I\u2019ll DM you. Thanks a lot, any guidance is appreciated!"
     },
     {
+      "title": "Chinese T800 Full-Size General Humanoid Robot Officially Launched to Disrupt",
+      "author": "DifferentAd7239",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc3oxo/chinese_t800_fullsize_general_humanoid_robot/",
+      "published": 1764665860.0,
+      "thumbnail": "https://external-preview.redd.it/ZcoEiGnDsqT6-TTFzf3-FSfQkaPnZQjQjgCIxIaZz3g.jpeg?width=320&crop=smart&auto=webp&s=4c1e8071049f50936b614b7fbd10562a13e87c33",
+      "external_url": "https://www.youtube.com/watch?v=J5L3Y-Qtdaw",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/76a077af/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
       "title": "Closed kinematic loop in gazebo",
       "author": "PuzzleheadedFloor749",
       "url": "https://www.reddit.com/r/robotics/comments/1pc1c4u/closed_kinematic_loop_in_gazebo/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
-    },
-    {
-      "title": "EngineAI has officially unveiled the T800",
-      "author": "mendelseed",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc1shf/engineai_has_officially_unveiled_the_t800/",
-      "published": 1764658509.0,
-      "thumbnail": "https://external-preview.redd.it/cGF0NHRhcGtucTRnMYDoTUhyrV20KpJlIeJfcynfPgR_BS-Y_jHCR5PnWRVW.png?width=640&crop=smart&auto=webp&s=101d90e40b0bfb7d2f021a83037a99a2a2b8501e",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The video and specs describe a high-performance humanoid robot designed for dynamic and industrial use cases. Extreme Mobility: Unlike earlier clumsy humanoids, the T800 claims a top speed of 3 m/s (~6.7 mph) and the ability to perform complex movements like flying kicks and capoeira, powered by a massive 450 N\u00b7m of joint torque. Build: It stands at 1.73m (5'8\") and weighs 75kg, constructed from an aviation-grade magnesium-aluminum alloy for durability. Intelligence & Perception: It runs on an upgradable compute core (potentially a Thor chip with 2000 TOPS) and uses 360\u00b0 LiDAR combined with RealSense depth cameras for navigation. Battery: A solid-state 72V battery provides 2-4 hours of endurance. Official Video:\ud83e\udd16EngineAI has officially unveiled the T800, its new full-sized general-purpose humanoid robot."
     }
   ],
-  "fetched_at": "2025-12-02T08:48:27.967174+00:00"
+  "fetched_at": "2025-12-02T09:43:07.930398+00:00"
 }

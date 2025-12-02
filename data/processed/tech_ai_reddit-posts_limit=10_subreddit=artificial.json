@@ -35,15 +35,15 @@
       "description": "Non-Paywall: https://archive.is/T8jcF"
     },
     {
-      "title": "AI training has a big black market problem",
-      "author": "businessinsider",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbjt8y/ai_training_has_a_big_black_market_problem/",
-      "published": 1764612034.0,
-      "thumbnail": "https://external-preview.redd.it/DvU_9ZXe-y5wN0FgPSpxOtE0qcp9mBGxrZ33Ipr2y1E.jpeg?width=640&crop=smart&auto=webp&s=e4cc3f16acffe7bd4fcb59994a3803c727575d2c",
-      "external_url": "https://www.businessinsider.com/ai-training-account-selling-market-scam-scale-surge-mercor-facebook-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "A shadow market for AI training and data labeling accounts has emerged, with scammers selling Outlier, Mercor, and Surge AI accounts online."
+      "title": "One-Minute Daily AI News 12/1/2025",
+      "author": "Excellent-Target-847",
+      "url": "https://www.reddit.com/r/artificial/comments/1pc0t49/oneminute_daily_ai_news_1212025/",
+      "published": 1764655097.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Apple names former Microsoft, Google exec to succeed retiring AI chief.[1] AI may be scoring your college essay. Welcome to the new era of admissions.[2] Nvidia announces new open AI models and tools for autonomous driving research.[3] DeepSeek AI Releases DeepSeekMath-V2: The Open Weights Maths Model That Scored 118/120 on Putnam 2024.[4] Sources: [1] https://www.cnbc.com/2025/12/01/apple-ai.html [2] https://www.yahoo.com/news/articles/ai-may-scoring-college-essay-052228309.html [3] https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/ [4] https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
     },
     {
       "title": "Apple AI chief steps down amid Siri struggles",
@@ -57,6 +57,17 @@
       "description": "Apple has a new AI chief."
     },
     {
+      "title": "AI training has a big black market problem",
+      "author": "businessinsider",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbjt8y/ai_training_has_a_big_black_market_problem/",
+      "published": 1764612034.0,
+      "thumbnail": "https://external-preview.redd.it/DvU_9ZXe-y5wN0FgPSpxOtE0qcp9mBGxrZ33Ipr2y1E.jpeg?width=640&crop=smart&auto=webp&s=e4cc3f16acffe7bd4fcb59994a3803c727575d2c",
+      "external_url": "https://www.businessinsider.com/ai-training-account-selling-market-scam-scale-surge-mercor-facebook-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "A shadow market for AI training and data labeling accounts has emerged, with scammers selling Outlier, Mercor, and Surge AI accounts online."
+    },
+    {
       "title": "Gemini 3 is pulling the same dynamic downgrade scam that ruined the GPT-5 launch",
       "author": "CantaloupeNo6326",
       "url": "https://www.reddit.com/r/artificial/comments/1pb1sr3/gemini_3_is_pulling_the_same_dynamic_downgrade/",
@@ -66,17 +77,6 @@
       "site_name": null,
       "favicon": null,
       "description": "I'm canceling my Google One AI Premium sub today. This is exactly the same garbage behavior OpenAI pulled, and I'm not falling for it again. We all know the drill by now. You pay for the Pro model, you start a chat, say hi, and it gives you a smart response. But the second you actually try to use the context window you paid for - like pasting a 3k word document or some code - the system silently panics over the compute cost and throttles you. It's a classic bait and switch. Instead of processing that context with the Pro model I'm paying twenty bucks a month for, it clearly kicks me down to a cheaper tier. It feels exactly like when GPT would silently swap users to the mini or light model after a couple of turns or if you pasted too much text. I fed it a 3,000 word PRD for a critique. I expected a rewrite that actually kept the details. Instead I got a 700 word summary that reads like it was written by the Flash model. It just gutted the entire document. It's not conciseness. It is dynamic compute throttling. They are advertising a Ferrari, but the moment you try to drive it on the highway they swap the engine for a Prius to save electricity. If I wanted Flash performance on my long documents, I'd use the free tier. Stop selling me Pro reasoning and then hot-swapping the model when the math gets expensive. Has anyone found a way around this or is it time to just go full local/Anthropic?"
-    },
-    {
-      "title": "One-Minute Daily AI News 12/1/2025",
-      "author": "Excellent-Target-847",
-      "url": "https://www.reddit.com/r/artificial/comments/1pc0t49/oneminute_daily_ai_news_1212025/",
-      "published": 1764655097.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Apple names former Microsoft, Google exec to succeed retiring AI chief.[1] AI may be scoring your college essay. Welcome to the new era of admissions.[2] Nvidia announces new open AI models and tools for autonomous driving research.[3] DeepSeek AI Releases DeepSeekMath-V2: The Open Weights Maths Model That Scored 118/120 on Putnam 2024.[4] Sources: [1] https://www.cnbc.com/2025/12/01/apple-ai.html [2] https://www.yahoo.com/news/articles/ai-may-scoring-college-essay-052228309.html [3] https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/ [4] https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
     },
     {
       "title": "Google CEO warns US AI regulations risk ceding edge to China",
@@ -112,5 +112,5 @@
       "description": "Don't need a notice if everyone's doing it."
     }
   ],
-  "fetched_at": "2025-12-02T08:48:24.069642+00:00"
+  "fetched_at": "2025-12-02T09:43:01.904337+00:00"
 }

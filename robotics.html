@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-02T22:34:26.662702+00:00"
+          "dateModified": "2025-12-02T22:47:46.138141+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -682,39 +682,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pcdcul/industrial_robots_vs_cobots_in_high_volume/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1pcdcul/industrial_robots_vs_cobots_in_high_volume/" target="_blank" onclick="event.stopPropagation();">Industrial Robots vs Cobots in High Volume Production - Are Cobots even relevant here?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1764693828.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pcm1tm/new_video_optimus_running_looking_way_smoother_now/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -741,6 +708,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1764713079.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pcdcul/industrial_robots_vs_cobots_in_high_volume/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1pcdcul/industrial_robots_vs_cobots_in_high_volume/" target="_blank" onclick="event.stopPropagation();">Industrial Robots vs Cobots in High Volume Production - Are Cobots even relevant here?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1764693828.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -882,39 +882,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pcin67/how_do_you_guys_handle_crash_forensics_on_amrs_in/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1pcin67/how_do_you_guys_handle_crash_forensics_on_amrs_in/" target="_blank" onclick="event.stopPropagation();">How do you guys handle crash forensics on AMRs in "WiFi Dead Zones"? Is rosbag_snapshot enough</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi everyone, I manage a fleet of robots in a warehouse environment where the network is terrible (lots of steel, random dead zones). We keep hitting the same issue: The robot gets into a bad state, the navigation stack fails, or it hits an E-stop. Because it’s in a dead zone, we can't stream the logs. By the time we physically get to the robot, we’ve often lost the context of why it failed. I’m currently prototyping a custom "Black Box" crash recorder to solve this, but I wanted to sanity check my approach with the community before I go too deep into the weeds. The concept I’m building: Instead of logging everything to disk (which kills our SD cards) or streaming (which kills bandwidth), I’m building a background agent that: Keeps the last 30-60 seconds of topics in a RAM ring buffer. Monitors the system for specific "triggers" (e.g., Nav2 failures, prolonged stagnation, or fatal error logs). Dumps the RAM buffer to an MCAP file only when a crash is detected. Queues the file for upload once the robot eventually finds WiFi. My questions for you: 1. Has anyone else implemented "Shadow Buffering" to avoid OOM kills on Jetsons? Is it overkill? False Positives: For those who have tried automated crash detection—is it better to trigger on specific error codes, or just waiting for the robot to stop moving for $X$ seconds? I want to avoid filling the disk with "fake" crashes. The Viewer: We are currently just looking at raw MCAP files. Is there a better lightweight way to visualize these "short" crash clips without building a full custom dashboard? Any need of this type of product in market? Thanks!!
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1764705344.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pc3oxo/chinese_t800_fullsize_general_humanoid_robot/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -965,6 +932,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pcin67/how_do_you_guys_handle_crash_forensics_on_amrs_in/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1pcin67/how_do_you_guys_handle_crash_forensics_on_amrs_in/" target="_blank" onclick="event.stopPropagation();">How do you guys handle crash forensics on AMRs in "WiFi Dead Zones"? Is rosbag_snapshot enough</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi everyone, I manage a fleet of robots in a warehouse environment where the network is terrible (lots of steel, random dead zones). We keep hitting the same issue: The robot gets into a bad state, the navigation stack fails, or it hits an E-stop. Because it’s in a dead zone, we can't stream the logs. By the time we physically get to the robot, we’ve often lost the context of why it failed. I’m currently prototyping a custom "Black Box" crash recorder to solve this, but I wanted to sanity check my approach with the community before I go too deep into the weeds. The concept I’m building: Instead of logging everything to disk (which kills our SD cards) or streaming (which kills bandwidth), I’m building a background agent that: Keeps the last 30-60 seconds of topics in a RAM ring buffer. Monitors the system for specific "triggers" (e.g., Nav2 failures, prolonged stagnation, or fatal error logs). Dumps the RAM buffer to an MCAP file only when a crash is detected. Queues the file for upload once the robot eventually finds WiFi. My questions for you: 1. Has anyone else implemented "Shadow Buffering" to avoid OOM kills on Jetsons? Is it overkill? False Positives: For those who have tried automated crash detection—is it better to trigger on specific error codes, or just waiting for the robot to stop moving for $X$ seconds? I want to avoid filling the disk with "fake" crashes. The Viewer: We are currently just looking at raw MCAP files. Is there a better lightweight way to visualize these "short" crash clips without building a full custom dashboard? Any need of this type of product in market? Thanks!!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1764705344.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -988,7 +988,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-02T22:14:37.953551+00:00">Updated 2025-12-02T22:14:37.953551+00:00</small>
+        <small data-timestamp="2025-12-02T22:47:07.319008+00:00">Updated 2025-12-02T22:47:07.319008+00:00</small>
     </div>
 </div>
 
@@ -1208,6 +1208,88 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1764612660.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/elon-musk-says-only-ai-115028916.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/7FWJfnvXdVBS8sxSy2wrVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/73caa90b186d62913aa074d6abf08b56');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/news/elon-musk-says-only-ai-115028916.html" target="_blank" onclick="event.stopPropagation();">Elon Musk says only AI and robotics can solve the ‘insanely high’ $38 trillion national debt crisis—but it would cause ‘significant deflation’</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            After clashing with Trump on spending, Musk argues AI and robotics are the only path to easing record U.S. debt costs—and may even trigger future deflation.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1764589828.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.livemint.com/news/us-news/elon-musk-predicts-working-will-be-optional-within-10-20-years-due-to-ai-and-robotics-11764524461852.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.livemint.com/lm-img/img/2025/11/30/1600x900/logo/elon_musk_on_podcast_1764525187053_1764525193099.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.livemint.com/news/us-news/elon-musk-predicts-working-will-be-optional-within-10-20-years-due-to-ai-and-robotics-11764524461852.html" target="_blank" onclick="event.stopPropagation();">Elon Musk predicts ‘working will be optional’ within 10–20 years due to AI and Robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Elon Musk predicted that advances in AI and robotics could make work optional within the next 10 to 20 years. “My prediction is that, in the future, working will be optional. Advances in AI and robotics will bring us to a point where working is optional,” he said on Nikhil Kamath’s podcast.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="livemint.com" class="news-favicon">
+                                    <a href="https://www.livemint.com" target="_blank" onclick="event.stopPropagation();">livemint.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1764695785.0"></span>
                                 </div>
                                 
                             </div>
@@ -1461,47 +1543,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.jpost.com/defense-and-tech/article-876822', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/478690');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.jpost.com/defense-and-tech/article-876822" target="_blank" onclick="event.stopPropagation();">'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas War</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The robotic systems have gotten much more diverse and standardized, being deployed in much higher volumes to assist with exploring Hamas tunnels, to save risking soldiers' lives from that process.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.jpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Jerusalem Post" class="news-favicon">
-                                    <a href="https://www.jpost.com" target="_blank" onclick="event.stopPropagation();">The Jerusalem Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1764620730.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.inc.com/matthew-chang/human-centered-robotics-and-the-future-of-work/91273063', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1539,47 +1580,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/commentisfree/2025/dec/02/artificial-intelligence-threats-congress', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/d5f050a59b5a3faef404017bd9070cf6c1efdada/612_0_6839_5473/master/6839.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=9d70b028c0746b7c99348ec2d466b48e');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/commentisfree/2025/dec/02/artificial-intelligence-threats-congress" target="_blank" onclick="event.stopPropagation();">AI poses unprecedented threats. Congress must act now | Bernie Sanders</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Despite the speed at which it is progressing, AI is getting far too little discussion in Congress, the media and within the general population. That has got to change
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1764704220.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1600,7 +1600,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-02T22:14:51.461717+00:00">Updated 2025-12-02T22:14:51.461717+00:00</small>
+        <small data-timestamp="2025-12-02T22:47:21.168448+00:00">Updated 2025-12-02T22:47:21.168448+00:00</small>
     </div>
 </div>
 

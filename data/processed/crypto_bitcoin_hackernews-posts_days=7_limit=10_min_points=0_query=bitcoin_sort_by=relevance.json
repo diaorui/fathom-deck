@@ -89,20 +89,6 @@
       "site_name": "nytimes.com"
     },
     {
-      "title": "I rebuilt localForage and got 3-10x faster writes with automatic batching",
-      "url": "https://github.com/unadlib/localspace",
-      "hn_url": "https://news.ycombinator.com/item?id=46124860",
-      "author": "unadlib",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2025-12-02T18:46:09Z",
-      "object_id": "46124860",
-      "image": "https://opengraph.githubassets.com/d8d09eb9679b1d5bf60ad823dc87671956690df0617cc5c456352c5c6e16b53a/unadlib/localspace",
-      "description": "A library that unifies the APIs of IndexedDB, localStorage and other storage into a consistent API - unadlib/localspace",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "A Tale of Two AI Failures: Debugging a Simple Bug with LLMs",
       "url": "https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/",
       "hn_url": "https://news.ycombinator.com/item?id=46083162",
@@ -117,7 +103,7 @@
       "site_name": "Bitmovin"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T18:51:33.212588+00:00"
+  "fetched_at": "2025-12-02T19:34:43.604839+00:00"
 }

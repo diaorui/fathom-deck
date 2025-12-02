@@ -24,6 +24,17 @@
       "description": "All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?"
     },
     {
+      "title": "This Giving Tuesday support the OSRF Build Farm (the infrastructure building your ROS binary packages) by becoming a Build Farm Backer [details inside]",
+      "author": "OpenRobotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1pch51k/this_giving_tuesday_support_the_osrf_build_farm/",
+      "published": 1764702022.0,
+      "thumbnail": "https://preview.redd.it/xvqg96gk8u4g1.png?width=640&crop=smart&auto=webp&s=32431b55492407e2d632923cbfe0e59b6322992e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "\ud83e\uddd1\u200d\ud83c\udf3e The OSRF\u2019s Build Farm produces the ROS and Gazebo binary packages that are downloaded over 500,000,000+ times every year! The scale of the Open Source Robotics Foundation's infrastructure is massive: \ud83d\ude9c 95,000+ unique packages produced as of October 2024 \ud83d\udc2e 5000+ unique Debian packages in the last 30 days \ud83d\udc11 1500+ unique Gazebo Build Farm jobs \ud83d\udc16 600+ PR testing jobs in November 2025 \ud83d\udc10 500+ unique Gazebo CI job in the past 30 days \ud83d\udc14 400+ CI builds in the past 30 days \ud83d\udc25 100+ PR testing jobs in the past 30 days \ud83e\udd5a 63 hours of testing for ros-core packages every night It takes a dedicated team of Build Farmers and significant cloud resources to build, test, and deliver the binaries that power robots around the world. If you have ever saved time by downloading a ROS or Gazebo binary package instead of compiling it from source, we would love your support! Full details on Open Robotics Discourse."
+    },
+    {
       "title": "Love robotics, hate heavy algorithm stuff \u2014 what roles fit?",
       "author": "Technical-Force-6266",
       "url": "https://www.reddit.com/r/robotics/comments/1pc7azx/love_robotics_hate_heavy_algorithm_stuff_what/",
@@ -46,17 +57,6 @@
       "description": null
     },
     {
-      "title": "[Beta Release] AI Workbench for Educational Robotics",
-      "author": "ur-guy-sahith",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcdsqs/beta_release_ai_workbench_for_educational_robotics/",
-      "published": 1764694804.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi everyone! I\u2019m part of FTC Team 9045 Greenhill Hornet Robotics. We\u2019ve been working on an AI tool that started as a helper for FTC teams, and we're trying to grow it into something useful for many educational robotics environments that use Java, computer vision, or real-time control loops. We\u2019re launching a beta version and would love feedback from yall! What the AI Workbench Does The tool functions as an AI programming assistant that can: - Generate or debug Java-based robot code Help set up autonomous routines, motion planning, and state machines - Explain control theory concepts - Build and analyze vision pipelines (AprilTags, object detection, etc.) - Provide structured diffs to improve or extend existing code - Assist new learners with foundational programming questions Although the training corpus is rooted in FTC materials (SDK, Road Runner, Limelight docs, etc), the tool behaves like a general robotics coding assistant capable of helping with: - PID control - Localization - Kinematics - Sensor fusion - Finite state machines - Vision processing - System architecture This is an early release, and we\u2019d genuinely appreciate any feedback yall might have. Everything runs server-side, so no user API keys are needed, and nothing sensitive is stored in the browser. Try it here: https://ai-ftc.vercel.app/workbench We\u2019re excited to push this further- and any feedback or critiques are hugely appreciated!"
-    },
-    {
       "title": "Chinese T800 Full-Size General Humanoid Robot Officially Launched to Disrupt",
       "author": "DifferentAd7239",
       "url": "https://www.reddit.com/r/robotics/comments/1pc3oxo/chinese_t800_fullsize_general_humanoid_robot/",
@@ -66,6 +66,17 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/76a077af/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
+      "title": "[Beta Release] AI Workbench for Educational Robotics",
+      "author": "ur-guy-sahith",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcdsqs/beta_release_ai_workbench_for_educational_robotics/",
+      "published": 1764694804.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi everyone! I\u2019m part of FTC Team 9045 Greenhill Hornet Robotics. We\u2019ve been working on an AI tool that started as a helper for FTC teams, and we're trying to grow it into something useful for many educational robotics environments that use Java, computer vision, or real-time control loops. We\u2019re launching a beta version and would love feedback from yall! What the AI Workbench Does The tool functions as an AI programming assistant that can: - Generate or debug Java-based robot code Help set up autonomous routines, motion planning, and state machines - Explain control theory concepts - Build and analyze vision pipelines (AprilTags, object detection, etc.) - Provide structured diffs to improve or extend existing code - Assist new learners with foundational programming questions Although the training corpus is rooted in FTC materials (SDK, Road Runner, Limelight docs, etc), the tool behaves like a general robotics coding assistant capable of helping with: - PID control - Localization - Kinematics - Sensor fusion - Finite state machines - Vision processing - System architecture This is an early release, and we\u2019d genuinely appreciate any feedback yall might have. Everything runs server-side, so no user API keys are needed, and nothing sensitive is stored in the browser. Try it here: https://ai-ftc.vercel.app/workbench We\u2019re excited to push this further- and any feedback or critiques are hugely appreciated!"
     },
     {
       "title": "Demonstration of sanitation robots in Shenzhen last week",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey everyone, I\u2019m working at a robotics / physical AI startup and we\u2019re getting ready to release step-by-step a developer-facing Computer Vision API library. It exposes a set of pretrained and finetunable models for robotics and automation use cases, including: 6D object pose estimation 2D/3D object detection Instance & semantic segmentation Anomaly detection Point cloud processing Model training / fine-tuning endpoints Deployment-ready inference APIs Our goal is to make it easier for CV/robotics engineers to prototype and deploy production-grade perception pipelines without having to stitch together dozens of repos. We want to share this with the community to: collect feedback, validate what\u2019s useful / not useful, understand real workflows, and iterate before a wider release. My question: Where would you recommend sharing tools like this to reach CV engineers and robotics developers? Any specific subreddits? Mailing lists or forums you rely on? Discord/Slack communities worth joining? Any niche places where perception folks hang out? If anyone here wants early access to try some of the APIs, drop a comment and I\u2019ll DM you. Thanks a lot, any guidance is appreciated!"
-    },
-    {
-      "title": "Closed kinematic loop in gazebo",
-      "author": "PuzzleheadedFloor749",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc1c4u/closed_kinematic_loop_in_gazebo/",
-      "published": 1764656882.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "How would I add closed kinematic loop for gazebo with multiple parents. I tried to make it with detachable joint plugin, but it's not working exactly... As the detachable plugin is not even being active. Could somebody help? What's the standard approach?"
     }
   ],
-  "fetched_at": "2025-12-02T18:51:39.141512+00:00"
+  "fetched_at": "2025-12-02T19:34:46.408387+00:00"
 }

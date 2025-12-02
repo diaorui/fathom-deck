@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 89,
+      "upvotes": 90,
       "num_comments": 2,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
@@ -54,7 +54,7 @@
       "num_comments": 2,
       "published_at": "2023-06-14T11:18:48.000Z",
       "github_repo": "https://github.com/nlpxucan/WizardLM",
-      "github_stars": 9467,
+      "github_stars": 9468,
       "project_page": null
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
-      "github_stars": 4281,
+      "github_stars": 4316,
       "project_page": "https://ai.meta.com/sam3d/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-02T10:52:08.101789+00:00"
+  "fetched_at": "2025-12-02T11:56:36.537645+00:00"
 }

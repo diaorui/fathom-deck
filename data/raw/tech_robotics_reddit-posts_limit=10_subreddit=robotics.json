@@ -2,6 +2,17 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "Tying your shoes on a real bimanual mobile robot! ByteDance Seed just drops GR-RL, a new VLA+RL system that manages long-horizon precise dexterous manipulation of deformable objects (paper)",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc8kdi/tying_your_shoes_on_a_real_bimanual_mobile_robot/",
+      "published": 1764682451.0,
+      "thumbnail": "https://external-preview.redd.it/d2dvMjR0amlsczRnMaCiBgwQLnOBGKXTF1DSXq7q_DiQjpxh0SG0ta2h6icx.png?width=640&crop=smart&auto=webp&s=4294f9750a48be1dc1824d642e67aeeb5baded6b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Project page: https://seed.bytedance.com/en/gr_rl ArXiv: https://arxiv.org/abs/2512.01801"
+    },
+    {
       "title": "First real test of my tabletop robots",
       "author": "Adventurous_Swan_712",
       "url": "https://www.reddit.com/r/robotics/comments/1pbhwpf/first_real_test_of_my_tabletop_robots/",
@@ -35,15 +46,15 @@
       "description": "Hobby robotics has few apps to build a digital twin for inverse kinematics/simulation of custom robots. As far as I know the best we got is ROS2 which isn't worth the effort for most people who could write custom code in half the time it takes to learn how to install and set up ROS. Would you use unity to build a highly visual/intuitive interface to remotely control your custom bot? Through a serial port that is.."
     },
     {
-      "title": "Tying your shoes on a real bimanual mobile robot! ByteDance Seed just drops GR-RL, a new VLA+RL system that manages long-horizon precise dexterous manipulation of deformable objects (paper)",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc8kdi/tying_your_shoes_on_a_real_bimanual_mobile_robot/",
-      "published": 1764682451.0,
-      "thumbnail": "https://external-preview.redd.it/d2dvMjR0amlsczRnMaCiBgwQLnOBGKXTF1DSXq7q_DiQjpxh0SG0ta2h6icx.png?width=640&crop=smart&auto=webp&s=4294f9750a48be1dc1824d642e67aeeb5baded6b",
+      "title": "Love robotics, hate heavy algorithm stuff \u2014 what roles fit?",
+      "author": "Technical-Force-6266",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc7azx/love_robotics_hate_heavy_algorithm_stuff_what/",
+      "published": 1764678895.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Project page: https://seed.bytedance.com/en/gr_rl ArXiv: https://arxiv.org/abs/2512.01801"
+      "description": "Hey all, As the title says, I love robotics and working close to hardware, but I really dislike heavy algorithm development. I\u2019m comfortable with Python, C++, ROS2, and Linux. What junior-friendly roles could someone like me aim for? Best,"
     },
     {
       "title": "CV API Library for Robotics (6D Pose \u2192 2D Detection \u2192 Point Clouds). Where do devs usually look for new tools?",
@@ -55,17 +66,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey everyone, I\u2019m working at a robotics / physical AI startup and we\u2019re getting ready to release step-by-step a developer-facing Computer Vision API library. It exposes a set of pretrained and finetunable models for robotics and automation use cases, including: 6D object pose estimation 2D/3D object detection Instance & semantic segmentation Anomaly detection Point cloud processing Model training / fine-tuning endpoints Deployment-ready inference APIs Our goal is to make it easier for CV/robotics engineers to prototype and deploy production-grade perception pipelines without having to stitch together dozens of repos. We want to share this with the community to: collect feedback, validate what\u2019s useful / not useful, understand real workflows, and iterate before a wider release. My question: Where would you recommend sharing tools like this to reach CV engineers and robotics developers? Any specific subreddits? Mailing lists or forums you rely on? Discord/Slack communities worth joining? Any niche places where perception folks hang out? If anyone here wants early access to try some of the APIs, drop a comment and I\u2019ll DM you. Thanks a lot, any guidance is appreciated!"
-    },
-    {
-      "title": "Love robotics, hate heavy algorithm stuff \u2014 what roles fit?",
-      "author": "Technical-Force-6266",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc7azx/love_robotics_hate_heavy_algorithm_stuff_what/",
-      "published": 1764678895.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey all, As the title says, I love robotics and working close to hardware, but I really dislike heavy algorithm development. I\u2019m comfortable with Python, C++, ROS2, and Linux. What junior-friendly roles could someone like me aim for? Best,"
     },
     {
       "title": "Chinese T800 Full-Size General Humanoid Robot Officially Launched to Disrupt",
@@ -112,5 +112,5 @@
       "description": "ROSCon 2025 Recordings Now Available   Hi Everyone,  Recordings from ROSCon 2025 are now available on our Vimeo account the ROSCon website, in the ROS Documentation, and in the list below. We\u2019re still waiting on talk slides, but we\u2019ll get those up just as soon as we can.  Big thanks to AMD for making our ROSCon 2025 live stream and video archive possible.  For your convenience here is a full list of available ROSCon 2025 talks and their presenters:   Opening Remarks & Guest of Honor \u2013 Geoff Bigg..."
     }
   ],
-  "fetched_at": "2025-12-02T13:37:24.558885+00:00"
+  "fetched_at": "2025-12-02T14:29:35.516077+00:00"
 }

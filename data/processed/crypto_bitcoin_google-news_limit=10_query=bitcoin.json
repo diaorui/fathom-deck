@@ -5,52 +5,42 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq slide as bitcoin tumbles to kick off December",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXRIdXY5NTBuZk5CMG5XcU9iSWFTWkNBSGljRzdBRmNxdDAzS2x3Sk1lTzU5U0JNUmVYaTR0QmZ5TFRPc3R1WFhkNm9JX215TThZampKd0p2N292Qm1heU94M2VaMHdRcEM5RXNrcE05M1BZTnFGdU1laWZHOVFXcUU3X0JBN2MtQkstQ0lXRkVUZzBTcU03ZjdCcy1qcmFSc21YNjFmN1M5dGd0aTRJdU1MN1NBd25UbmlWb0xkLVoyQ3hlUWpyRUROdXhNZw?oc=5",
-      "pub_date": 1764623005.0,
-      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-december-210035496.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/lvmtNDwzV7lcqAQNJZd0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6f40c5f0-a863-11f0-b3eb-c74a2e7e85d5",
-      "description": "Wall Street's strong late-November rebound looked set to hit a speed bump on the first trading day of December."
-    },
-    {
-      "headline": "U.S. Futures Fall, Global Markets Mixed; Bitcoin Recovers Slightly",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxPNU5jV2Z1T2RkTFI5SWhHbXoxbXFzWjdhZjM2MHFsazdlUVFYVWs0aG5DUTBURkl4MFJPNUUtVGc4WklDY0lqY1g0RXdSLXlwQ3ZiZGIzMTJ0NlNhTkJ5LTFzSUMxOWtBYWJTVGVoR3Fqa0N4Y2NtckM2VE5MbFpXMUZpeXVSZXpQT0hsb1ZxWXdKOUhKUnNTdVVsOVBOSmhZU0NEeVkwcU9VNjM2UmYtUExLa21QOUNhWFRSRUpIUGZyd01HMkZSMndlQTY0R2dsZXhycVIzc1RTbjhISTZFRVl6MnpGcUJrUlI0azdIcTdOLW9RSmRrd0pmYnl5S3FUZ3lnbHo1N2dvSWlTX0haODRXLUZJcVIzdFRFRFNJVDBHYjcwXzRVZzdmNUcyNUdLT0x0R0FUOFlKVjBaTlcwR1QzWFV3SnpxNWpaWU9NRXRtQnMxQTlzSWZ6UmZGZ0g0VVRCSGhTeU4xSVpoc2lsdlZORG5GZlVQRlJIRGUxeUJwSUE2M1JKcEcwcW96aXRZQWl5UVZkUjV6RXd2T0lTMXNHUEF5WkY3SHdhQzR4Z3o?oc=5",
-      "pub_date": 1764670320.0,
-      "article_url": "https://www.wsj.com/finance/stocks/u-s-futures-fall-global-markets-mixed-bitcoin-recovers-slightly-d9cf31c2?gaa_at=eafs&gaa_n=AWEtsqeT6JoD9-L86K45btAcyAB_N4r_9TeGlthtieHKNg9yc4Ucdriftctz&gaa_ts=692eef15&gaa_sig=ZJfeuNEis82JBGNaSAlt9xrWIxMxnvimHOQWx_2FW-0WkKg-eaQl5-bPGGQI1kSl7sMn5KsOBkN7Lqtp4qe1bA%3D%3D",
+      "headline": "Bonds and bitcoin find some footing, stocks eke out gains",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkJxanotb1RQN0RaT0QtOXZVWWd5VDRYZlNFSkxzVmxZMm5rNU5kRno2TElKM0RGQmUyWFlmNG5OTkxVcXhaVV9IOGliM1hsS3RWTHpYbURCWlpwZHAtU1ppLUdRbGQ0Ump5VEsyZ000WXR2NTI5VUluR3FlLUtubThWTQ?oc=5",
+      "pub_date": 1764671192.0,
+      "article_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-12-02/",
       "image": null,
       "description": null
     },
     {
-      "headline": "XRP, BTC Analysis: Ripple-Linked Token, Bitcoin, Nasdaq on the Edge",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFZfMlRhaGI0Zy1OdGVaRHlaQ1psVjZCVDhvdHVJOFhsQ3puOG02eGJ3MHZsVE1wU1JqX3VEQWI1Ujc3SGRXekNpREgtaUU5blhXM3FEVWtESW84SWVCbFdjN1hGR3pHMHZGVmdRSWxKSEM1bEJhMmk0ZW56bmdiLWcyMldUUkRpdkFGTDZ5QmZJemxXb1hxWDh3?oc=5",
-      "pub_date": 1764661581.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/02/xrp-bitcoin-on-the-edge-has-santa-abandoned-nasdaq",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d5646c439de12ffa75596d174196acfefaedd782-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "XRP and BTC trade close to make-or-break levels while Nasdaq's November price action raises pullback risks."
+      "headline": "Bitcoin falls again after weak November as bearish sentiment goes on",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVUgzOWlhMW9jYVV3Z2hHMFJmSXpTaC1Tb0N3OE1WNXo2eU1MYTVEdWRDNGw4Zk1FVzdFZTIySVRNYTdoQWIwVXVTcnNrZmp1ejViMThIcHA5X3JfRDFTaHk2amlNcHNNNzBsWXRiSkhWNXM4UFBvYm5raEc4WWFxYmo2ZnpCeDdyTDBsa1JZU1loRnVQNXBtVFFXRGRwMDRUQXdBdXVxRVQyVVBr?oc=5",
+      "pub_date": 1764627155.0,
+      "article_url": "https://www.reuters.com/business/finance/bitcoin-falls-5-below-90000-investors-ditch-risk-assets-2025-12-01/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Bitcoin logs its worst day since March",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
-      "pub_date": 1764574221.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
+      "headline": "Tech stocks linked to Bitcoin take a battering as crypto traders brace for Strategy to breach danger threshold",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xTGVDUlhBcU13TGxFZFlPZFoxOHkzVUNvTmhISjlYZWR0LTI5S0JmVDBZdW1aakVkQ2paVkxPbkFQREN1RlN6YmdYQlltYllVZXBtdWlldWlrN3pFZmd6c0RWWmRjT3hWY0hvd3hCMDlJZVZCZl92dTBjUTI?oc=5",
+      "pub_date": 1764677040.0,
+      "article_url": "https://fortune.com/2025/12/02/stocks-bitcoin-strategy-ratio-market-cap/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2217027772.jpg?resize=1200,600",
+      "description": "Michael Saylor\u2019s Strategy, the leading Bitcoin treasury company, now has a stock market cap worth less than the Bitcoin it holds."
     },
     {
-      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQNHlBQ3FRTEJfal9uNldKMGR2cnVMS1NZQ2dCa1dZbXV3Zzl2cTF4SS1KaWRSWGRCVkkwUW4wRWh2TnZteWI2NWZ6LUg5WmVTQ3l5Rjh5RlFmbEtIckxiYnNQczdZLTdhano1bm84UVYyS2lrRUlTZEU5TUp1dDZWSHdvNUF5Mjl6VmZzVjYxM3UtQy01OW95NHFKVXZGUXhXaG5TVHpGVm81SUFnX2FQS25QUWVGZUJPR3VVT1dlU2JQSEo1Xy01OXlKX0Y5NTMxRHJpVk5nMzFoM2Z4V0hMNGtsaTF4TkpPSlFKR29vNDVVRDNUamt0ZjNpVHBWZFNYYTZoLUpickhtbXdKQi02czZmQl9tcF9RSXRhbWpzbVYzZllGVlBiaUlXcWc4dExQY2xmRkVpekloaFoyMDlrRFRfdGdhM2JjcTZuQ1pzTGlxaGI4TldsMlUxUThjd0ljVVI3T280YV8tUld6dFVHeWthMHl1OU9GNVZWbEdLY0djemowdXdlb3VmZU9oOHJLOUt5S1hpcjdtVTRSeFliNFU1Y2JzLXpxV2hvOTVibThyNVprY2l4UQ?oc=5",
-      "pub_date": 1764626940.0,
-      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqcbRXOAv03pRy5E2tkBcy3MVt1szGfg8UTI-zwMqcmYmDwD6sPAI1Do&gaa_ts=692eef15&gaa_sig=9dUlRlAi9pXYj1JsdbnPSHt53H3so-DVEAIzOHdxww5pKYibj2IL5JLFLwI_xD-U5msptgeKNZXh7Voz-rbT1g%3D%3D",
+      "headline": "Cango posts 60% Q3 revenue jump as bitcoin mining output climbs",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWFLVjg4LVp6Yk90REwwVHVBSDd4TVhjcHdBR01USFc4V290bnJfLUcxNll5aVlyZVRpTWhub1JFY0RsOGl3MTVPSWUzSWs4a3RlcmtmNExncENYcmJ1azUwTjNSSXltLUthMzc2RnR6ZXNkUHpFSXZYNzJtaXRTaHB3WlNZYkU4NUlKNG1tMEd4R08wb0NWYWxQY9IBoAFBVV95cUxORTJWQ3JiUXQ1LTQ1VTFsRE1PQThpbm8tZjRycHJDZFZvRnJ4b2Z2T0dPbVVveFJaRTJNdWs0Z0t5enlyNVJCSVVfSjE0VUo0bkJJZG1DX3ZEdVE3T1doY0JaNU0wRmFISWhzSlloVXZaQUpMREFKUnZ1d0FFZkd3WmFsMjk5SDNaWXRkU3cyamJPaGVDYWQxUTdfclZsQ0VS?oc=5",
+      "pub_date": 1764678009.0,
+      "article_url": "https://www.theblock.co/post/381055/cango-posts-q3-revenue-jump-as-bitcoin-mining-output-climbs",
       "image": null,
       "description": null
     },
@@ -65,46 +55,56 @@
       "description": "International Business News: Investors who followed Michael Saylor's Bitcoin strategy are now facing heavy losses. Strategy Inc.'s stock has seen a sharp decline, causing leverage"
     },
     {
-      "headline": "Bonds and bitcoin find some footing, stocks eke out gains",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkJxanotb1RQN0RaT0QtOXZVWWd5VDRYZlNFSkxzVmxZMm5rNU5kRno2TElKM0RGQmUyWFlmNG5OTkxVcXhaVV9IOGliM1hsS3RWTHpYbURCWlpwZHAtU1ppLUdRbGQ0Ump5VEsyZ000WXR2NTI5VUluR3FlLUtubThWTQ?oc=5",
-      "pub_date": 1764671192.0,
-      "article_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-12-02/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bond and bitcoin selloff leaves stocks unsteady By Reuters",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVVCZVpVOHpXRktZNElWb1VUbGdFb2NXWmpiakhwR0l5TS1zRzdQTXgwd1hLbUs3WS13VDJ2NmpCeE1HMnVMLXpTNGFBZXZ5M2dsMDhPVnpheGVMbjdtbkRZVUFqeGNBejVzdlNmbWEzdER2ZmxOZjQ3SHpYeElGVG94RDc5R0p3Zk83MWRUX1NDUXVhOXowcnNFSlRjMm5u?oc=5",
-      "pub_date": 1764655875.0,
-      "article_url": "https://www.investing.com/news/economy-news/bond-and-bitcoin-selloff-leaves-stocks-unsteady-4385003",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bond and bitcoin selloff leaves stocks unsteady",
-      "source": "livemint.com",
-      "source_url": "https://www.livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWW5VYXl1bm1qYTBaczNWUzBQbFVmMkZUelZyTDh0M2RjS0MyTTRkanVrNTZ1X0NHaU9vd2VUbVFjYVB4cjlmYU1yLWZBeXhRczFCVDFFM1lKWFlIWTdLa0pGQ3RvaGo2bjVzTVJGdkMwRThGcXJsZW5JS2NSRTRzdldEMzZ6LXBwQWRnY0RPeXI0eGJCZHhoeW5OSFM3UnhLcmxpYVZncXZNWlJiWDVyWlQxaGZHcUst0gG-AUFVX3lxTE9FNHUyR0YwZ2piTmlwUGwxU19MaFpXODU1aGo5RjFicU9qb0ZabjlCaGY3X3k4VjNMcGloV3pSdnoxMmlnY2hWQmFrejdjX3YwTGJ4dXctT0tTRVBGX20wX1RVZ3RRRVBlOU14aVdrRmJQWmgyVmpzNlhmWXR1cy1RemFtMzhzMm5nb3p2Y29FLUZKQWs0SmRTWXFyd20yTWlYeXhlMTY3eFo3a3lmaUpRbGZ6TmU0OXNTczFKeVE?oc=5",
-      "pub_date": 1764641466.0,
-      "article_url": "https://www.livemint.com/market/stock-market-news/bond-and-bitcoin-selloff-leaves-stocks-unsteady-11764641467224.html",
-      "image": "https://www.livemint.com/lm-img/img/2025/12/02/1600x900/logo/Market_-_stocks_1545996587096_1764641469817.jpg",
-      "description": "GLOBAL-MARKETS/:GLOBAL MARKETS-Bond and bitcoin selloff leaves stocks unsteady"
-    },
-    {
-      "headline": "Grayscale predicts new bitcoin highs in 2026, dismisses 4-year cycle view",
+      "headline": "Vanguard clients can trade funds holding crypto like Bitcoin, XRP and Solana starting this week: Bloomberg",
       "source": "theblock.co",
       "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YVGlsYWp2amlNQ2lYbzFLa2NoRjFaQlZGTi10T0JFNWd5N1BrTE1zaENZNDR4M19sUlRRWmM0TEdPSjVxRVZjUms4UVFRN2dhVVNPQzhaVEVSMVVBendWZGo2RU5tdGZRaWwzMnlMRTVjWmhQVF9TYWxwaWHSAYIBQVVfeXFMTW1hcTFjZ0lrVVJYcktiU0lGRWhaR1BMTnEzcEtLUHQxRGMzV3doZlJsRFdIUHNINXd4ci1JeklwN2ZfRHVPaVNGMEtBME1SQmFaSFNFRzFra21VQjJ0WjJ5VkNCWmV4b0JEeEx0QzFWMXAxYzlJMC1HanFpQWRlVzlPdw?oc=5",
-      "pub_date": 1764660281.0,
-      "article_url": "https://www.theblock.co/post/381028/grayscale-predicts-new-bitcoin-highs",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1FZZjZ6UVpQSUZET1plVFRfaVd4Z0pwd3FCYmZraXNNdmZ0Nm05c0l6T2RoM2ViU1lLalNGMUNuRmJLMV9GZXV5eHBncV9ILURKQnRNM3pKbHR3TzR0eDB2M3pMVmdmcHVieTdaOGRjVzVFV0lkVk1HemI1SHk2QzRkdzJnbF9rbjcwcDIyU2RxMl82TXFaWVM5WEVNajRra1hacTBsc053WUVoeWJDV0phb1HSAboBQVVfeXFMUFNJS2N5MUx1MTA5UUxsanBQN3N3S0ZpZUdBbDF3d2ZVbUQ1RjNPVlp3NEk3VHpHcktTUXE4a1g1RnBSR1NwSEZHVmFZWkhaU1lzelMwbENqcURzdXJUVkFXTjFLU0dkZjRtY1p0NnJkSXUwR2YxRDJwTTFJZmJYWG9MMEdGUXk1Tzg4ZG1fbFlZai1zeGQ5ZE9sV205ZkVxbWRMcHBXSVpkQkxsQTFyMHdXRnlqR3p0NUln?oc=5",
+      "pub_date": 1764631126.0,
+      "article_url": "https://www.theblock.co/post/380997/vanguard-clients-trade-funds-crypto-bitcoin-xrp-solana-starting-week-bloomberg",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Who Is Salim Ramji? The Executive Who Took BlackRock Into Bitcoin\u2014And Just Opened Vanguard to Crypto",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUFZWbUhLVnFraHZyY19MaFljNmFyZVJxYTVtcWZ2VEVnNGhDdlFKX1Bzd21PNzVhUGQweDhNelNUSlJzV3VMT0thdThoSUtpcmpfbXNMQ0N4bnlqUnJVc0tiVWpiZ2VZWTRfT3FMRXlFWEdTZ2ZYamFGYld5SWIzR3dWRkt5UQ?oc=5",
+      "pub_date": 1764684514.0,
+      "article_url": "https://www.ccn.com/news/business/who-is-salim-ramji-blackrock-vanguard-crypto/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbjZNMU41QkJ4RnFsMWw3NU16WjFnelIzd3ZYTXg1VUZEVEFTaVRGVTZUOGFxLU02ZWx2TTZ0ajl4NTlRUHh6YlBqd1NJWFBtVE5mU09aNWxuWk1YMlVsTWJWUkhuMmRYalJJdVB2MEE5eDNkWXMzaWtHTl9hRGkyQ3VaT1Yyd1FxTjFZeDVNMVRYM3dqMWNCdEUtMVpKUk9wVjdTUFg4UnQ1dw?oc=5",
+      "pub_date": 1764682252.0,
+      "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
+    },
+    {
+      "headline": "Shiba Inu vs. Bitcoin: What's the Better Long-Term Play?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX19CM3VNWnhfSjVjd20zd1k3YXhPZHAtTDVlNWd2NVllRmRqc1Z6Nk1ZaUFUYVFUaWJFckNxRjVvRV9nUGVzWXJkVFBMQmM3dDcyQmxfT09tSHh1SnBvUlgyZTFzdUVCaXJ2Nkp6NVRscTNGb2dKMHBsSmdCN1VJRkswU1lsV084QVlJcmx5VG55bTVGcXc?oc=5",
+      "pub_date": 1764667140.0,
+      "article_url": "https://www.fool.com/investing/2025/12/02/shiba-inu-vs-bitcoin-whats-better-long-term-play/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843913%2Fgettyimages-845682188.jpg&w=1200&op=resize",
+      "description": "Bitcoin is in a league of its own."
+    },
+    {
+      "headline": "Elon Musk predicts energy-based Bitcoin to replace money",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb2NYOHg4dlRQcC13cE1hTEJ4TTJDN3N0dWpXZVE1WXNMeGFkSEoyQlNqNTRSNjVCLXJ3MmRFLTFVeXBWYWtrVDB3LXVDZGNlR3NoU0JrUjVWZEozQ3ZadUdacmowV21XdmFfRnNZVXlid084ZUFkMVYycm9WbFNUUFdKSkI4Y0dMVEprU0l6VDN0Zk1TYmN4X3E3TmhGZ3dhTkE?oc=5",
+      "pub_date": 1764615602.0,
+      "article_url": "https://www.thestreet.com/crypto/technology/elon-musk-predicts-energy-based-bitcoin-to-replace-money",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T13:37:50.725104+00:00"
+  "fetched_at": "2025-12-02T14:29:55.480556+00:00"
 }

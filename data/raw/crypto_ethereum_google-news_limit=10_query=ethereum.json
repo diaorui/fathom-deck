@@ -25,14 +25,14 @@
       "description": "The proposed protocol uses zero-knowledge proofs to verify sender\u2013receiver relationships without revealing identities."
     },
     {
-      "headline": "Ethereum\u2019s Privacy Upgrade Hides Transaction Details Like a Secret Santa Game",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa0pKNnFTZlEtLUxlQVJYZ2dTM3JqV3ZSS1J1SGVDVzB1Z1VuOFg4MTl5U0lWTmZlSl8wUndoQzFLOUZ2NlVlenN5Y1E5OE5qTnNJclhiWGpGcUdWV0ZDMEZKc3JYT1R0TkFqX2tudVROcUJHeUU3WGNOekpQWF84TkpaSlRCTTdhY1VuR01NbDltQQ?oc=5",
-      "pub_date": 1764668284.0,
-      "article_url": "https://finance.yahoo.com/news/ethereum-privacy-upgrade-hides-transaction-093804417.html",
-      "image": "https://media.zenfs.com/en/cryptonews_us_711/17bc7a3fa93e18915f9b901d491b3432",
-      "description": "Distributed Lab researchers have published a breakthrough protocol demonstrating how Ethereum can implement privacy-preserving games while maintaining participant confidentiality and correctness.The ZK Secret Santa (ZKSS) system uses zero-knowledge proofs to establish gift sender-receiver relationships without revealing identities, addressing fundamental challenges in executing private transactions on public blockchains.The timing proves significant ..."
+      "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbjZNMU41QkJ4RnFsMWw3NU16WjFnelIzd3ZYTXg1VUZEVEFTaVRGVTZUOGFxLU02ZWx2TTZ0ajl4NTlRUHh6YlBqd1NJWFBtVE5mU09aNWxuWk1YMlVsTWJWUkhuMmRYalJJdVB2MEE5eDNkWXMzaWtHTl9hRGkyQ3VaT1Yyd1FxTjFZeDVNMVRYM3dqMWNCdEUtMVpKUk9wVjdTUFg4UnQ1dw?oc=5",
+      "pub_date": 1764682252.0,
+      "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
     },
     {
       "headline": "Tom Lee's Ethereum DAT BitMine now holds 3% of the total ETH supply",
@@ -43,6 +43,26 @@
       "article_url": "https://www.theblock.co/post/380925/tom-lee-ethereum-dat-bitmine-two-thirds-goal",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Ethereum News: BitMine (BMNR) Bought 97K in ETH Ahead of Fusaka Upgrade",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUlTNmRnVjlscGVzMXlxVWpxd1EwVHkwNWhxcVBka2JlaW9vMzEzZlFJVFdCVGlxa3I1Y0hzZUhab3FPOS1kT2JCa0t0b1c2V2Z2MGJNeE5OTHZ1QkxtelBEdzNXM0xyR21JN1JkdldwY1VfaGp5SURYU3FqblpHUmVjRUdmcHJkbV9lSlhXT3JWaExtalFJUUlTZm5Lc0JDN2REb25vLUpfc1B5emRuanZ4R19KUVoxTW1UdHFycUJDNk84S2JCYl84YVhrRWc?oc=5",
+      "pub_date": 1764599120.0,
+      "article_url": "https://www.coindesk.com/business/2025/12/01/tom-lee-s-bitmine-acquires-97k-eth-eyeing-fusaka-upgrade-fed-policy-as-positive-catalysts",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06503e9de607f639801425df078631e0e62f12d-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The firm has increased the pace of purchases from the previous week despite sitting on large unrealized losses on its Ethereum bet."
+    },
+    {
+      "headline": "Tom Lee's BitMine Buys More Ethereum\u2014But Both ETH and BMNR Are Diving",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5WDlsbGhYejZLVzh2NkhhdlRYbVViZTZJbGNVVHRiT2lBbG9sWGhUQnBoenNEb2hiOFpkMFZ2eG9uc1RMOW9naXhmRWhzUjBkQi1TYnRZNndoVFZLb3RmQkstU25QNF95bFZTRVM2ZDNqenE3NFJiQWtxNm0?oc=5",
+      "pub_date": 1764611776.0,
+      "article_url": "https://finance.yahoo.com/news/tom-lees-bitmine-buys-more-175616532.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/1lr32EBn0RgV4TnQuzC0XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/decrypt_157/5201a6b2bb2edb9ec8114206f138c99c",
+      "description": "The firm's stock dropped Monday as crypto prices plummeted, but it remains up 301% year-to-date."
     },
     {
       "headline": "OG Ethereum Whale Moves $120M Into Staking After Decade \u2014 Should Price Drop Fears Decrease?",
@@ -65,6 +85,16 @@
       "description": null
     },
     {
+      "headline": "Ethereum Leverage Reset Complete \u2013 Time For Market Re-Accumulation?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGdBaFJDYjZ3NmRWcktXSlI1bTg3UGhiYW1VMWt1aFAtR2Y0ZDRycnZaN3JLeWNrUEJYU3RSS0RRckVQNVQ3VXVmbV9WZDRER3g1cG5Cd1Rwak41ZXlDSWpsdS01ZVVZSkd6Y21xMExiTlNtVlg5WXNpUzRJeWloaks2YWJBVDdFZFBFaGJOdEhEMkViVml6N1FEX01wRnMzRUg1dllOQnlWdW9KdkVPM2JveVFtRDR0ZExSZ1BkOA?oc=5",
+      "pub_date": 1764493256.0,
+      "article_url": "https://www.tradingview.com/news/newsbtc:31612045a094b:0-ethereum-leverage-reset-complete-time-for-market-re-accumulation/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum presently trades around $3,000 following a broader crypto market rebound in the last week. During this time, the market\u2019s largest altcoin gained by 7.22%, providing a much-needed relief after an extended correction that dominated the majority of the last two months. As price stabilizes, cr\u2026"
+    },
+    {
       "headline": "Ethereum spot ETFs post highest monthly outflow of $1.4 billion in November, breaking seven-month streak",
       "source": "Sherwood News",
       "source_url": "https://sherwood.news",
@@ -73,38 +103,8 @@
       "article_url": "https://sherwood.news/crypto/ethereum-spot-etfs-post-highest-monthly-outflow-of-usd1-4-billion-in/",
       "image": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/538709913_man-reeling-from-explosion.jpg?w=1600&auto=compress%2Cformat&cs=srgb",
       "description": "Meanwhile, ethereum developers are preparing for the activation of Fusaka, the next network upgrade...."
-    },
-    {
-      "headline": "Ethereum is quietly becoming the real home of RLUSD \u2014 leaving XRPL users stuck in the slow lane",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDk4VDRZeEszX2ZoMndhRUx0YUYyNzk5Njk5VGFDXzZ0M084QzVENFVYQWJfTXROTTRBay1XTnRCaVNEMnFNRHV5TnR2ZkI4VkVjNFhUMkJGNXJtbnZvS0xCbjYyd29MWlJ4NnZuWlpzMDdveml4cWt3Q1ZKTTFUcVNjUFFuUVhnUi1LSllWYllGSHVo?oc=5",
-      "pub_date": 1764624600.0,
-      "article_url": "https://cryptoslate.com/rlusd-supply-hit-1-26b-and-82-of-it-now-sits-on-ethereum-not-xrpl/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2025/11/ripple-rlusd-.jpg",
-      "description": "Ripple\u2019s stablecoin RLUSD thrives on Ethereum as entrenched dollar liquidity and DeFi integration bolster its rapid expansion."
-    },
-    {
-      "headline": "Global financial crash warning: Why Robert Kiyosaki urges buying Bitcoin (BTC USD), Ethereum (ETH), gold &",
-      "source": "The Economic Times",
-      "source_url": "https://m.economictimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbXFQcmxxcktaUW1pNmNxSElfd29rNExHaXl6bEUtdkxnN3luMzF2TnJOOEpuQndzQ1RSVTBjZnNxbDFGOWQ0Z3loZjU1Zkl6YmNRbG5nTDJjbExRU0FGU2I1UzdOaWdVVFdjZUk0d0xjbVhXeDFtWlY2ZzBoUjhDNkxyTXE0OHl4V0dCSGpWUXVZVTEzU1FSVGNyS28tSlVRZUJ2OXVBSG1VeE9qcWFBdzhKVHZ1UUZ4MXFVSngyU2VidXFDbk5vaDBubjJvQXNtSkNPVy1tS3psODFfWXk5QUZja3lVQ1dlRS15aGNCNUxiUURoYzk1cDhYaUFRblRkSkt5R1BhZEtITWZJRmdmZzZaWDfSAZoCQVVfeXFMUGtBaWZmSlYwY0h4MHI3LVNaWUU5Q3JkUEFuZndYbFlUNXRRcE9Pa3ZfRF9XbzdjQVloeEdwX3g5bnJ3ZWZvSHVBQzVhMWpCMWlDNXQwemllcGlaTjVfRXRMTXdJZlAxSHNTOWU5R3NudUtjRlhRR25Hd3dkT3lCSEpDcXFjVzN4bnJoSldySVFjRGxEN0dKU1ZIUHhDY3Y3eUxrajZWWDZBUnRYZnVUQVNNbE10ZGZRY3hVUkk2YnJEZlB2VXB0UTZXOTZ3RTdWQmlEMFlvV0dmM0MyLXlYM2dnVkUzUXBxRjNLTEJ2eU1QbnFGcWRtcXhkQWxaTVhmLXJndW9xVWRRb2xRNXpzTGNQQzc5RVAzZDRn?oc=5",
-      "pub_date": 1764444620.0,
-      "article_url": "https://m.economictimes.com/news/international/us/biggest-crash-in-history-warning-why-robert-kiyosaki-urges-buying-bitcoin-btc-usd-ethereum-eth-gold-silver-now/articleshow/125663779.cms",
-      "image": "https://img.etimg.com/thumb/msid-125664211,width-1200,height-630,imgsize-87470,overlay-economictimes/articleshow.jpg",
-      "description": "Biggest market crash warning: Bestselling author Robert Kiyosaki warns investors of an imminent global financial crisis and urges them to invest in Bitcoin, Ethereum, gold, and silver before the market crash intensifies. Learn why he believes these assets are crucial for wealth protection."
-    },
-    {
-      "headline": "Arthur Hayes Predicts Collapse of Most Layer 1 Tokens Outside Ethereum and Solana",
-      "source": "Coinpaper",
-      "source_url": "https://coinpaper.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnZXdk42bnJnNkJmdWhQSy01bm5BSnF0U3J3X3RZMHp5Nk82Y3NKQy1aS3hIczFoM3N1RnBpOTVEN1UyakYwOXpaNkUzY1JIVVVHX1FQdEpmLURVX3V6SmpkNmt2bG1UOGtrNDE0U0Vyb1QxR0M4TkVWWnYyTnMtMGkta3I5c1BoMG5fajBDdUpBSHJMamZ1ejdzS0dObHlNOXJUWWRhdS10Ul9vTmc?oc=5",
-      "pub_date": 1764445896.0,
-      "article_url": "https://coinpaper.com/12754/arthur-hayes-predicts-collapse-of-most-layer-1-tokens-outside-ethereum-and-solana",
-      "image": "https://res.coinpaper.com/coinpaper/image/upload/v1764445718/shutterstock_2108025419_f807a3ca1c.jpg",
-      "description": "Arthur Hayes warns most new L1s will fade, highlighting Ethereum and Solana as the only strong long-term blockchain contenders."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T13:37:36.737773+00:00"
+  "fetched_at": "2025-12-02T14:29:50.730941+00:00"
 }

@@ -46,6 +46,17 @@
       "description": "Non-Paywall: https://archive.is/T8jcF"
     },
     {
+      "title": "Anthropic is all in on 'AI safety'\u2014and that's helping the $183 billion startup win over big business | Fortune",
+      "author": "fortune",
+      "url": "https://www.reddit.com/r/artificial/comments/1pc9mm2/anthropic_is_all_in_on_ai_safetyand_thats_helping/",
+      "published": 1764685183.0,
+      "thumbnail": "https://external-preview.redd.it/4ADGpe0WjAUtrxXsLbqdLhqcn1sw_H_ikb_gNlbrOTc.jpeg?width=640&crop=smart&auto=webp&s=38e6f1d54ac2f79d9015d4bf055f8059996fd63f",
+      "external_url": "https://fortune.com/article/anthropic-ceo-dario-amodei-openai-chatgpt-artificial-intelligence-safety-donald-trump/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
+      "description": "Founders Daniela and Dario Amodei have made Anthropic and its Claude models the AI many companies prefer over rivals OpenAI and ChatGPT."
+    },
+    {
       "title": "One-Minute Daily AI News 12/1/2025",
       "author": "Excellent-Target-847",
       "url": "https://www.reddit.com/r/artificial/comments/1pc0t49/oneminute_daily_ai_news_1212025/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I wrote an essay exploring why music exposes the biggest architectural limitations in current multimodal AI systems. The short version: AI models today flatten time (Transformers) or flatten space (Diffusion models). But music requires multi-scale temporal reasoning, emotional structure, physical constraints, and cultural mapping \u2014 all fused into a single perceptual stream. This reveals something we usually ignore: AI still lacks a unified sensory topology, a shared latent space where different sensory modalities interact instead of being bolted together. Here\u2019s the essay if you want the deep dive: https://substack.com/@spencerbrady Would love to hear thoughts from people exploring multimodal tokens, cross-sensory representation, or next-gen architecture design."
-    },
-    {
-      "title": "Gemini 3 is pulling the same dynamic downgrade scam that ruined the GPT-5 launch",
-      "author": "CantaloupeNo6326",
-      "url": "https://www.reddit.com/r/artificial/comments/1pb1sr3/gemini_3_is_pulling_the_same_dynamic_downgrade/",
-      "published": 1764558808.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm canceling my Google One AI Premium sub today. This is exactly the same garbage behavior OpenAI pulled, and I'm not falling for it again. We all know the drill by now. You pay for the Pro model, you start a chat, say hi, and it gives you a smart response. But the second you actually try to use the context window you paid for - like pasting a 3k word document or some code - the system silently panics over the compute cost and throttles you. It's a classic bait and switch. Instead of processing that context with the Pro model I'm paying twenty bucks a month for, it clearly kicks me down to a cheaper tier. It feels exactly like when GPT would silently swap users to the mini or light model after a couple of turns or if you pasted too much text. I fed it a 3,000 word PRD for a critique. I expected a rewrite that actually kept the details. Instead I got a 700 word summary that reads like it was written by the Flash model. It just gutted the entire document. It's not conciseness. It is dynamic compute throttling. They are advertising a Ferrari, but the moment you try to drive it on the highway they swap the engine for a Prius to save electricity. If I wanted Flash performance on my long documents, I'd use the free tier. Stop selling me Pro reasoning and then hot-swapping the model when the math gets expensive. Has anyone found a way around this or is it time to just go full local/Anthropic?"
     }
   ],
-  "fetched_at": "2025-12-02T13:37:20.601447+00:00"
+  "fetched_at": "2025-12-02T14:29:32.829301+00:00"
 }

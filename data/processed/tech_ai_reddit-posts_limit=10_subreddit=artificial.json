@@ -68,17 +68,6 @@
       "description": "Apple has a new AI chief."
     },
     {
-      "title": "Why AI Needs a Unified Sensory Topology (And Why Music Reveals the Gap)",
-      "author": "Mean-Window2496",
-      "url": "https://www.reddit.com/r/artificial/comments/1pc65ka/why_ai_needs_a_unified_sensory_topology_and_why/",
-      "published": 1764675113.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I wrote an essay exploring why music exposes the biggest architectural limitations in current multimodal AI systems. The short version: AI models today flatten time (Transformers) or flatten space (Diffusion models). But music requires multi-scale temporal reasoning, emotional structure, physical constraints, and cultural mapping \u2014 all fused into a single perceptual stream. This reveals something we usually ignore: AI still lacks a unified sensory topology, a shared latent space where different sensory modalities interact instead of being bolted together. Here\u2019s the essay if you want the deep dive: https://substack.com/@spencerbrady Would love to hear thoughts from people exploring multimodal tokens, cross-sensory representation, or next-gen architecture design."
-    },
-    {
       "title": "AI training has a big black market problem",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1pbjt8y/ai_training_has_a_big_black_market_problem/",
@@ -88,6 +77,17 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "A shadow market for AI training and data labeling accounts has emerged, with scammers selling Outlier, Mercor, and Surge AI accounts online."
+    },
+    {
+      "title": "Why AI Needs a Unified Sensory Topology (And Why Music Reveals the Gap)",
+      "author": "Mean-Window2496",
+      "url": "https://www.reddit.com/r/artificial/comments/1pc65ka/why_ai_needs_a_unified_sensory_topology_and_why/",
+      "published": 1764675113.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I wrote an essay exploring why music exposes the biggest architectural limitations in current multimodal AI systems. The short version: AI models today flatten time (Transformers) or flatten space (Diffusion models). But music requires multi-scale temporal reasoning, emotional structure, physical constraints, and cultural mapping \u2014 all fused into a single perceptual stream. This reveals something we usually ignore: AI still lacks a unified sensory topology, a shared latent space where different sensory modalities interact instead of being bolted together. Here\u2019s the essay if you want the deep dive: https://substack.com/@spencerbrady Would love to hear thoughts from people exploring multimodal tokens, cross-sensory representation, or next-gen architecture design."
     },
     {
       "title": "Gemini 3 is pulling the same dynamic downgrade scam that ruined the GPT-5 launch",
@@ -112,5 +112,5 @@
       "description": "Sundar Pichai says a fast-growing patchwork of state AI laws could slow U.S. innovation and hand China an edge unless Congress sets clear national standards. Here\u2019s what he said, how the U.S. debate compares with Europe and China, and what automation leaders should do now."
     }
   ],
-  "fetched_at": "2025-12-02T11:45:48.437696+00:00"
+  "fetched_at": "2025-12-02T12:54:54.006146+00:00"
 }

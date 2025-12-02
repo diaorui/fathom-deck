@@ -15,6 +15,16 @@
       "description": "A weekend crypto crash triggered $524M in liquidations, with fears over Tether's stability and DAT selling pressure acting as key catalysts."
     },
     {
+      "headline": "Ethereum Devs Push ZK \u2018Secret Santa\u2019 System Toward Deployment",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzRaT09BbXFQQVk0UmY3aWZvQ1dxd3dERWdscDVvNzBLazYtNngyUlYtQTBhZW1qTmt0Y2xaUVpOOFU2VnRnZ3A1cGd0UFByZExKMjVxTzVmM0lybDI2bGRoWTlxeGhEajJxNmlOWHVJdld3clpmQUhvWC1YVDRYMnJQc0NGNFVrQjQzRjdFWjhFc1puQk85dExsNk44NmVRcWc?oc=5",
+      "pub_date": 1764661193.0,
+      "article_url": "https://www.coindesk.com/tech/2025/12/02/ethereum-devs-push-zk-secret-santa-system-toward-deployment",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88d3548e2bf6ce1a9780df7e901bda3d36597f8-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The proposed protocol uses zero-knowledge proofs to verify sender\u2013receiver relationships without revealing identities."
+    },
+    {
       "headline": "Ethereum\u2019s Privacy Upgrade Hides Transaction Details Like a Secret Santa Game",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -35,24 +45,24 @@
       "description": "Fundstrat\u2019s Tom Lee and Mark Newton remain bullish on Bitcoin and Ethereum despite recent sharp declines. Ethereum and Bitcoin face near-term volatility. Both analysts still ..."
     },
     {
-      "headline": "ETH News: Ethereum Developers Prep for Fusaka, Second Upgrade of 2025",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTVNWG00Nm1CN2dwcllkc3loMjF2Ymw3MmdNdmQ5T0xvQzE1VEh2VGYxVGt3Slg4RG1ZYjdncVlwQ0ZpMWRMUmlhdUdtaG5BUDYwYUFXc21xbkZKOU9wUHVVbUNuZXRfS04yOFhDWXpFNk5CelpLZ3lQSFYwQXRnOC1mWUVMUE5QeUxvWmh5QUtxNVdIQkQ4SVBjVXVTY24t?oc=5",
-      "pub_date": 1764144000.0,
-      "article_url": "https://www.coindesk.com/tech/2025/11/26/ethereum-developers-prep-for-fusaka-second-upgrade-of-2025",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7dd683e48326c2ace004e4e6c4b4f6ff6c84c77-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The goal of the upgrade is to enable Ethereum to handle the large transaction throughput from the layer-2 chains that use the blockchain as their base layer."
-    },
-    {
-      "headline": "Tom Lee's Ethereum DAT BitMine now holds 3% of the total ETH supply",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPei1NLXdBczcxZ19pWFkzWk1OZkJnX2tqdnYweVhFOVBMdElZMi1Fenh0UmlNU2RvR1hhRm9VbVRsR1NZdWE1bzBjb051UXQzN04zUzd1QVVlc2VkX0dFTU9WMXNwVTFqZWV1UDUxMWpwTGQzS2lQbDd1b2ppMWxtdlBoalhGbVXSAYwBQVVfeXFMUDhaLWpmM2dReUdlajJuSWc4LWdhUW9rd0d1TkRzaWdxSmlYc01RRXBaMDExbGpGSDBITUVlaWl0T24wcHFrVkNVb1ExVGN0SWJBV0xpcEYtX0d1Z1FaOFRwcUxCcjBvXzNGTG1DbFBJWHdfT2hadnd3LWpZaEMwSDljZ29VOUdLQ2N5ZDM?oc=5",
-      "pub_date": 1764601090.0,
-      "article_url": "https://www.theblock.co/post/380925/tom-lee-ethereum-dat-bitmine-two-thirds-goal",
+      "headline": "OG Ethereum Whale Moves $120M Into Staking After Decade \u2014 Should Price Drop Fears Decrease?",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdm1LSURXMGFJOU5BQ0w3Y0tHZ3VWNXpEMUk1aGdNSmlpVzEzczQ0TF9HRDJIVnF6T1BuajZ5TlNiWngzSW9VUGJWcXI5WFlhaThIZU5BRWlHVEN6djFWZEl0OVpJejlFbUloeFl1UVRmc25nQkE5ZDRfN3hiMXRMTUpjemM3QWZmLWV1emZ3UVVzWWVXN0hDag?oc=5",
+      "pub_date": 1764676035.0,
+      "article_url": "https://www.ccn.com/news/crypto/og-ethereum-whale-moves-120m-staking-decade-fears-price-drop/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Ethereum News: BitMine (BMNR) Bought 97K in ETH Ahead of Fusaka Upgrade",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUlTNmRnVjlscGVzMXlxVWpxd1EwVHkwNWhxcVBka2JlaW9vMzEzZlFJVFdCVGlxa3I1Y0hzZUhab3FPOS1kT2JCa0t0b1c2V2Z2MGJNeE5OTHZ1QkxtelBEdzNXM0xyR21JN1JkdldwY1VfaGp5SURYU3FqblpHUmVjRUdmcHJkbV9lSlhXT3JWaExtalFJUUlTZm5Lc0JDN2REb25vLUpfc1B5emRuanZ4R19KUVoxTW1UdHFycUJDNk84S2JCYl84YVhrRWc?oc=5",
+      "pub_date": 1764599120.0,
+      "article_url": "https://www.coindesk.com/business/2025/12/01/tom-lee-s-bitmine-acquires-97k-eth-eyeing-fusaka-upgrade-fed-policy-as-positive-catalysts",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06503e9de607f639801425df078631e0e62f12d-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The firm has increased the pace of purchases from the previous week despite sitting on large unrealized losses on its Ethereum bet."
     },
     {
       "headline": "What Is the Fusaka Upgrade: Ethereum's Next Hard Fork",
@@ -93,18 +103,8 @@
       "article_url": "https://cryptoslate.com/rlusd-supply-hit-1-26b-and-82-of-it-now-sits-on-ethereum-not-xrpl/",
       "image": "https://cryptoslate.com/wp-content/uploads/2025/11/ripple-rlusd-.jpg",
       "description": "Ripple\u2019s stablecoin RLUSD thrives on Ethereum as entrenched dollar liquidity and DeFi integration bolster its rapid expansion."
-    },
-    {
-      "headline": "Global financial crash warning: Why Robert Kiyosaki urges buying Bitcoin (BTC USD), Ethereum (ETH), gold &",
-      "source": "The Economic Times",
-      "source_url": "https://m.economictimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbXFQcmxxcktaUW1pNmNxSElfd29rNExHaXl6bEUtdkxnN3luMzF2TnJOOEpuQndzQ1RSVTBjZnNxbDFGOWQ0Z3loZjU1Zkl6YmNRbG5nTDJjbExRU0FGU2I1UzdOaWdVVFdjZUk0d0xjbVhXeDFtWlY2ZzBoUjhDNkxyTXE0OHl4V0dCSGpWUXVZVTEzU1FSVGNyS28tSlVRZUJ2OXVBSG1VeE9qcWFBdzhKVHZ1UUZ4MXFVSngyU2VidXFDbk5vaDBubjJvQXNtSkNPVy1tS3psODFfWXk5QUZja3lVQ1dlRS15aGNCNUxiUURoYzk1cDhYaUFRblRkSkt5R1BhZEtITWZJRmdmZzZaWDfSAZoCQVVfeXFMUGtBaWZmSlYwY0h4MHI3LVNaWUU5Q3JkUEFuZndYbFlUNXRRcE9Pa3ZfRF9XbzdjQVloeEdwX3g5bnJ3ZWZvSHVBQzVhMWpCMWlDNXQwemllcGlaTjVfRXRMTXdJZlAxSHNTOWU5R3NudUtjRlhRR25Hd3dkT3lCSEpDcXFjVzN4bnJoSldySVFjRGxEN0dKU1ZIUHhDY3Y3eUxrajZWWDZBUnRYZnVUQVNNbE10ZGZRY3hVUkk2YnJEZlB2VXB0UTZXOTZ3RTdWQmlEMFlvV0dmM0MyLXlYM2dnVkUzUXBxRjNLTEJ2eU1QbnFGcWRtcXhkQWxaTVhmLXJndW9xVWRRb2xRNXpzTGNQQzc5RVAzZDRn?oc=5",
-      "pub_date": 1764444620.0,
-      "article_url": "https://m.economictimes.com/news/international/us/biggest-crash-in-history-warning-why-robert-kiyosaki-urges-buying-bitcoin-btc-usd-ethereum-eth-gold-silver-now/articleshow/125663779.cms",
-      "image": "https://img.etimg.com/thumb/msid-125664211,width-1200,height-630,imgsize-87470,overlay-economictimes/articleshow.jpg",
-      "description": "Biggest market crash warning: Bestselling author Robert Kiyosaki warns investors of an imminent global financial crisis and urges them to invest in Bitcoin, Ethereum, gold, and silver before the market crash intensifies. Learn why he believes these assets are crucial for wealth protection."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T11:46:03.873620+00:00"
+  "fetched_at": "2025-12-02T12:55:15.728662+00:00"
 }

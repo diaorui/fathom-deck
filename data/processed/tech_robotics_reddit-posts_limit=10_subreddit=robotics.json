@@ -35,15 +35,15 @@
       "description": "Hey everyone, I\u2019m working at a robotics / physical AI startup and we\u2019re getting ready to release step-by-step a developer-facing Computer Vision API library. It exposes a set of pretrained and finetunable models for robotics and automation use cases, including: 6D object pose estimation 2D/3D object detection Instance & semantic segmentation Anomaly detection Point cloud processing Model training / fine-tuning endpoints Deployment-ready inference APIs Our goal is to make it easier for CV/robotics engineers to prototype and deploy production-grade perception pipelines without having to stitch together dozens of repos. We want to share this with the community to: collect feedback, validate what\u2019s useful / not useful, understand real workflows, and iterate before a wider release. My question: Where would you recommend sharing tools like this to reach CV engineers and robotics developers? Any specific subreddits? Mailing lists or forums you rely on? Discord/Slack communities worth joining? Any niche places where perception folks hang out? If anyone here wants early access to try some of the APIs, drop a comment and I\u2019ll DM you. Thanks a lot, any guidance is appreciated!"
     },
     {
-      "title": "Chinese T800 Full-Size General Humanoid Robot Officially Launched to Disrupt",
-      "author": "DifferentAd7239",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc3oxo/chinese_t800_fullsize_general_humanoid_robot/",
-      "published": 1764665860.0,
-      "thumbnail": "https://external-preview.redd.it/ZcoEiGnDsqT6-TTFzf3-FSfQkaPnZQjQjgCIxIaZz3g.jpeg?width=320&crop=smart&auto=webp&s=4c1e8071049f50936b614b7fbd10562a13e87c33",
-      "external_url": "https://www.youtube.com/watch?v=J5L3Y-Qtdaw",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/76a077af/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+      "title": "Love robotics, hate heavy algorithm stuff \u2014 what roles fit?",
+      "author": "Technical-Force-6266",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc7azx/love_robotics_hate_heavy_algorithm_stuff_what/",
+      "published": 1764678895.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey all, As the title says, I love robotics and working close to hardware, but I really dislike heavy algorithm development. I\u2019m comfortable with Python, C++, ROS2, and Linux. What junior-friendly roles could someone like me aim for? Best,"
     },
     {
       "title": "Unity app for robot control??",
@@ -55,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hobby robotics has few apps to build a digital twin for inverse kinematics/simulation of custom robots. As far as I know the best we got is ROS2 which isn't worth the effort for most people who could write custom code in half the time it takes to learn how to install and set up ROS. Would you use unity to build a highly visual/intuitive interface to remotely control your custom bot? Through a serial port that is.."
+    },
+    {
+      "title": "Chinese T800 Full-Size General Humanoid Robot Officially Launched to Disrupt",
+      "author": "DifferentAd7239",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc3oxo/chinese_t800_fullsize_general_humanoid_robot/",
+      "published": 1764665860.0,
+      "thumbnail": "https://external-preview.redd.it/ZcoEiGnDsqT6-TTFzf3-FSfQkaPnZQjQjgCIxIaZz3g.jpeg?width=320&crop=smart&auto=webp&s=4c1e8071049f50936b614b7fbd10562a13e87c33",
+      "external_url": "https://www.youtube.com/watch?v=J5L3Y-Qtdaw",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/76a077af/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
       "title": "Closed kinematic loop in gazebo",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "fully autonomous robot with object following using a prompt",
-      "author": "HudZah",
-      "url": "https://www.reddit.com/r/robotics/comments/1payu3g/fully_autonomous_robot_with_object_following/",
-      "published": 1764550469.0,
-      "thumbnail": "https://external-preview.redd.it/bzhyaXB1emNxaDRnMdOz18-PxprpydyeRkxr2Df0ks0HOYWg5fZPLe7xGu53.png?width=640&crop=smart&auto=webp&s=13814da85e98e31558566a3858ad0283d2860cee",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-12-02T11:45:52.244339+00:00"
+  "fetched_at": "2025-12-02T12:54:57.973865+00:00"
 }

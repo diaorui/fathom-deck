@@ -52,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46114144",
       "author": "7777777phil",
       "points": 192,
-      "num_comments": 6,
+      "num_comments": 8,
       "created_at": "2025-12-01T22:22:56Z",
       "object_id": "46114144",
       "image": "https://images.macrumors.com/t/E2xFMSegpuYDB6sCT6_1vI991S8=/2500x/article-new/2025/03/Sad-Siri-Feature.jpg",
@@ -65,8 +65,8 @@
       "url": "https://red.anthropic.com/2025/smart-contracts/",
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
       "author": "bpierre",
-      "points": 184,
-      "num_comments": 101,
+      "points": 186,
+      "num_comments": 107,
       "created_at": "2025-12-01T23:44:51Z",
       "object_id": "46115214",
       "image": null,
@@ -79,8 +79,8 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 170,
-      "num_comments": 237,
+      "points": 171,
+      "num_comments": 243,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -117,6 +117,20 @@
       "site_name": null
     },
     {
+      "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
+      "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
+      "hn_url": "https://news.ycombinator.com/item?id=46118722",
+      "author": "dijksterhuis",
+      "points": 67,
+      "num_comments": 39,
+      "created_at": "2025-12-02T07:46:47Z",
+      "object_id": "46118722",
+      "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
+      "description": "In 1978, Brian Eno released Ambient 1: Music for Airports, a landmark album in ambient and electronic music. Although it wasn't the first ambient",
+      "favicon": "https://reverbmachine.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "site_name": "Reverb Machine"
+    },
+    {
       "title": "Accenture dubs 800k staff 'reinventors' amid shift to AI",
       "url": "https://www.theguardian.com/business/2025/dec/01/accenture-rebrands-staff-reinventors-ai-artificial-intelligence",
       "hn_url": "https://news.ycombinator.com/item?id=46105825",
@@ -129,23 +143,9 @@
       "description": "Consultancy\u2019s move to embrace artificial intelligence follows Disney\u2019s use of the term \u2018imagineers\u2019",
       "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
       "site_name": "the Guardian"
-    },
-    {
-      "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
-      "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
-      "hn_url": "https://news.ycombinator.com/item?id=46118722",
-      "author": "dijksterhuis",
-      "points": 53,
-      "num_comments": 27,
-      "created_at": "2025-12-02T07:46:47Z",
-      "object_id": "46118722",
-      "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
-      "description": "In 1978, Brian Eno released Ambient 1: Music for Airports, a landmark album in ambient and electronic music. Although it wasn't the first ambient",
-      "favicon": "https://reverbmachine.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
-      "site_name": "Reverb Machine"
     }
   ],
-  "total_hits": 412,
+  "total_hits": 410,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T11:45:49.620816+00:00"
+  "fetched_at": "2025-12-02T12:54:53.835348+00:00"
 }

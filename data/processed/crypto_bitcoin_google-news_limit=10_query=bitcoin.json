@@ -15,84 +15,54 @@
       "description": null
     },
     {
-      "headline": "Bitcoin falls again after weak November as bearish sentiment goes on",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVUgzOWlhMW9jYVV3Z2hHMFJmSXpTaC1Tb0N3OE1WNXo2eU1MYTVEdWRDNGw4Zk1FVzdFZTIySVRNYTdoQWIwVXVTcnNrZmp1ejViMThIcHA5X3JfRDFTaHk2amlNcHNNNzBsWXRiSkhWNXM4UFBvYm5raEc4WWFxYmo2ZnpCeDdyTDBsa1JZU1loRnVQNXBtVFFXRGRwMDRUQXdBdXVxRVQyVVBr?oc=5",
-      "pub_date": 1764627155.0,
-      "article_url": "https://www.reuters.com/business/finance/bitcoin-falls-5-below-90000-investors-ditch-risk-assets-2025-12-01/",
+      "headline": "Bitcoin logs its worst day since March",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
+      "pub_date": 1764574221.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
+    },
+    {
+      "headline": "Bitcoin meltdown: Strategy stock tanks over 60%; retail ETF wipe-outs spark fresh fears for major benchma",
+      "source": "Times of India",
+      "source_url": "https://timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOemM4SlBDcG1od25VdkxuajRtZ09aN3pXallNRGN1THhsMEExeUZlc0NJUkk4OFhYdDBuSTVQS0kzcGdMX3V6c1NZellXUjEzOUt5ZThVRHo0V3RYOExuYWV3aXcwYi01SGNpSThadnpzLXJIWWdhd0VxZ0JyT1k1T0hXRmtIRTlidWdRX0tTdzZ1dGdpaU0yOGhSZ0xiS01lZk1yaDN2aTViQ3VmWGpxWEZpNGJrVUVBVEFuZFJYdG5mVWd5c21VYXJLMXRPSmpDd1JOM1JDY2M2UmttRlhzenBrcUtXQ05xVlhtZkJmR0hKbzRNck1lR05Fbjk3N0FlQ2Vqd3NVMzQ2OUw4NTA5b1Zpc051Mzh0NTNBcTlWeFMwS09vRFHSAasCQVVfeXFMUENZSmMwUlJmMzRPN3NrTG5vSjI3dDVDdkN3Q2d5am9fNXZNZS1GeEFZdU5tUGFqQ3V4TWtPOC1uZFNzZjkzbVA5aHlBbnVnMTJYZVFKZUVUcVlPaUQwS2dnSHdxU2U4elo2NVZrYnA5X0JFUUVuOEpjRlNZWUtQMmhRZ3Q1NDV3MDIxNk1pWEZuRENLM21rVlo0SjNlanlNWWpYUXgyVkpJbjliSjVEa19vczBnZV9VSDJrNURZeGZwY0h5dWpDRi1uX3BrNm9BZXhnU2dDdFA3dFhHWTM2cFROcGJfQ0lLWFphNGVuU003bUpQWVhZcFIwd1dRODM1VlRoS0p5SnRtcEVDbnZXM0ZvektvLWwxYVZBVDVTd21QRTVXQWVTa1ZQakk?oc=5",
+      "pub_date": 1764675840.0,
+      "article_url": "https://timesofindia.indiatimes.com/business/international-business/bitcoin-meltdown-strategy-stock-tanks-over-60-retail-etf-wipe-outs-spark-fresh-fears-for-major-benchmarks/articleshow/125718058.cms",
+      "image": "https://static.toiimg.com/thumb/msid-125718145,width-1070,height-580,imgsize-1670430,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "description": "International Business News: Investors who followed Michael Saylor's Bitcoin strategy are now facing heavy losses. Strategy Inc.'s stock has seen a sharp decline, causing leverage"
+    },
+    {
+      "headline": "Opinion: Bitcoin still has one thing going for it that investors are missing",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPNXJHWUlDNF9Uelc1Rl9id1FFZmp6OFJZNlJQbHRqLWtyTFRpTlFEcG9ObDc3S0xoODJOeDBMdGFnTzhlNlgwdVpUaG9YeDBVbk9IMDJGbXVxYl9sMnFNR2d6NkhESTdnbzJoUnkxaVpueTh5Y2UzRFNEUFNfSzZpTDdsYVJWdll6WmMzaXhVRndsNkoxRjRBVzl3SWF2VGluRDlkeXQ1NjBuclJlcFgtZjRjTFBPZy1ScV82UTZHVEVYdzNsWmNjcjJYTWVjRVhReUtTcWItZHdEUUdnTzJnNzVXVno0Sm9BcVBLeFNCNDJaSkd1TVFVNmR2UkFkOGxodThQQXhTZXM0emt0TUpRandiZVhXU3NXZ0h3RldITGhvY1RDeVNGa1NKdk8tbV83dl93ZmRaWl9rbFRNdkprYXJLcXkzdC00S2NUdTdBMERJeENpVURfX1ZXdC1ITURnNEdhWEtaM2doZjY3UVd5WjJ5MUhCZkhmamljOWlmbVVOQU5GcW0wSUVFSlVVYWR5RmFSbXRiMU4yMDJnTS1zN1A2RFUtbUNGRmhCNUFiNHlQclV3?oc=5",
+      "pub_date": 1764679800.0,
+      "article_url": "https://www.marketwatch.com/story/bitcoin-still-has-one-thing-going-for-it-that-investors-are-missing-d2988d9b?gaa_at=eafs&gaa_n=AWEtsqejP6aGsl5vxshQ_R4qfwc9IhoX2mF9sbqPbHNm_cPhbFxGGGluiNuS&gaa_ts=692ee521&gaa_sig=Vfs10ODbTMRCnhpaQG7XLP3-GCMouw179vaLou2H-6H2Dd7UZBMZCHd9crwkAtYXkSxlCeyHNj_g-XksqBfH7g%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "U.S. Futures Fall, Global Markets Mixed; Bitcoin Recovers Slightly",
+      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQSGlmYWc2VzhkREswMEE3Tlc2cEduaVQxZGgxRkxsUHBfSHBnTGxlSWJXZG5HdGwwVThPY1R4cFd4M2p4R1VGTDVEb1NqXzlvU3pOeDVvWWJOZXA0VDM4LXJTTHNnS1JBUHF3YjRiZDl5VGxyaXpHNVFIQ2lZWkxxTEhTaEN0bXNhV2xoVkFXNnVJX1BfakpRZEdVRjhLUFNXNk5lcExhOTBFNDdKS3lhUkMydGVjOUFRZ0FuY2dKaEdPVVhTUnVzOGR0R1FTS1h0UHN1MG15REVaR3BUeGJXelNuMlZYeXZvRkZsS2xCcmYxSHgxeE1ZaGVteEJBNEV1MzE3cjM5TTFfLXUwUzU3V1ZmVjNXQ2xfaTUzSFBYbG45QW9jeEo4RHlOU0o4aDU3T2taalFYNExOM0VBRElLeElaVEVsMGpVTjVlNHduY2ZnOXIwSWdPRWl1QzFZdFlodjdpM2J0V1JuTHBiaUw5MEVVQlducktBMi1kbzdJeWR0SjdwYjFfUVNHWW0zblhvM1hYSDR0UXlNbVdHOXF3V1NHQ0Jtb1F3YU5WcENzdS0?oc=5",
-      "pub_date": 1764670320.0,
-      "article_url": "https://www.wsj.com/finance/stocks/u-s-futures-fall-global-markets-mixed-bitcoin-recovers-slightly-d9cf31c2?gaa_at=eafs&gaa_n=AWEtsqdTEjX4AFVKHDCA4HQg4rQ2IC2uVjC43HTHfBullxvFT3Lgf_Ql6H45&gaa_ts=692ed4f0&gaa_sig=Kf4CgXeAxa2c79hvmu4tBjfFs2MDcOdKPiy96OFpry1ZPAFoY9C9a9JSPBoPSJArPuwIJj5JeXweCDPf8LdYTA%3D%3D",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPZW80ZVItOTl6U2NJVW9wUHpibk1aMDRmTWJ1TUpvOE1zaktuLWdsazlMdF91TUI4eHhkcFhGeWdMOXY4cjZ6NC12V1gtbldncjItMVlWejBvRF9BZk16clZkSm45OWYzNk5ZVEhzNHBUVU95VHdaclZfMUNQYXRKSGcwRXpxbVIya05QSFpwN3RoeWdVTHZjUDdmb1V3MVhOT1AwU0RZYUtPUDJER21xVEJjT0h0dHVlOXFRaF9zQVJyVE03NVFUN1l3al8yRUJjZGtZQlNaR3M2Q1NIWTVTc3ZTLWNfUlU1MDhlYXY1TjhXeFZvdXlXUU1TQ09CU3RvNzhXdjdqTml0R1MzWU9WdDk2ZVA5c3BIek5QT3UzTjd1NFRfZnBQcnBWakVqUVdiQ0hYQWJseGhIa3JXb2xUVHByRUVVRHR1VnpSdzl2djRYODdRUzVPV0pfQVJGZGdjaHRET2ktekRTODNYdGdva3Y2QWlqandGZTQyMEJORDVKdjZQajJoSTdOalBNNTZNWlVMUnl1UzRWeDVBcFJYcks0VkllemtQSklvOHVTa29wVE1GVkJVUQ?oc=5",
+      "pub_date": 1764626940.0,
+      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqd6i1hCHKziQ3NnzFQ8PMGlINUzFk3Hh2zMwl6lCUOgVhtpon7BHKOG&gaa_ts=692ee521&gaa_sig=C4nGyQfF6KBpdOPr6vgmZTjs2JafKQ0kvvS9c4aV5lyBL3rXKikM9uwdBjfNtV-DZqQSlPRpKmQMWbFT44GLjw%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Vanguard clients can trade funds holding crypto like Bitcoin, XRP and Solana starting this week: Bloomberg",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1FZZjZ6UVpQSUZET1plVFRfaVd4Z0pwd3FCYmZraXNNdmZ0Nm05c0l6T2RoM2ViU1lLalNGMUNuRmJLMV9GZXV5eHBncV9ILURKQnRNM3pKbHR3TzR0eDB2M3pMVmdmcHVieTdaOGRjVzVFV0lkVk1HemI1SHk2QzRkdzJnbF9rbjcwcDIyU2RxMl82TXFaWVM5WEVNajRra1hacTBsc053WUVoeWJDV0phb1HSAboBQVVfeXFMUFNJS2N5MUx1MTA5UUxsanBQN3N3S0ZpZUdBbDF3d2ZVbUQ1RjNPVlp3NEk3VHpHcktTUXE4a1g1RnBSR1NwSEZHVmFZWkhaU1lzelMwbENqcURzdXJUVkFXTjFLU0dkZjRtY1p0NnJkSXUwR2YxRDJwTTFJZmJYWG9MMEdGUXk1Tzg4ZG1fbFlZai1zeGQ5ZE9sV205ZkVxbWRMcHBXSVpkQkxsQTFyMHdXRnlqR3p0NUln?oc=5",
-      "pub_date": 1764631126.0,
-      "article_url": "https://www.theblock.co/post/380997/vanguard-clients-trade-funds-crypto-bitcoin-xrp-solana-starting-week-bloomberg",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Vanguard finally dips a toe into crypto waters after bitcoin slump",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQSzFSWjdMeVkzNm5yeXJEb3lNaW1IcVhRQWJCZlRCMkxNX2tIWFZjcXNPY0FQTlVGWl8tbEowb3kxOThwUzl6SS1kc2lUcGJRMnFKQXVRSEZBZHlPY25LU3pYOGZBd1VIS1BtbDhNRVRnLUZIbXM2WHV3dExueE9UMUZwLWdxaWJvQUxkUTZ6S0ZfMXU4dXMtUWtseTU5aTlRUTNwQTZqWFg3c0hEb2t6NWZRZEcyM1cxRzRlXzgwSk1TX2U2M0pmWVlSSmowU3NlMlg1ZWRVQkVua3gxc2VranU3RHJ2eUstWXRRY3lrT3AzaFpJQUtTWktCNnFkYlZsQ2V4Yk5TOUdPRFc4ZmpraEd1N0w4SDNrQUJzV3ZoRjVBemtVRUpGX2R5LVVWemZqWjJBYVhNbU9wLWMybzRfbzZnellXZTlOLXpieDdmUW9id0lyZEZUN05Bam40WkhDdHNkTjVYTFJaTUZadEVZQXh5di1GTnVJZkk3X1BTcndtTEJXREhFeFBBei03MXh6VlBWRl84WFl0NThrbVNJTHB0M3A0OHM1Wll0ZjhWNWNvVGM?oc=5",
-      "pub_date": 1764670860.0,
-      "article_url": "https://www.marketwatch.com/story/vanguard-finally-dips-a-toe-into-crypto-waters-after-bitcoin-slump-58e9191d?gaa_at=eafs&gaa_n=AWEtsqcOU-Ef3_CGgTrxD08qo6Jrg2zMVSHY65OUpEPNDIhSSGCVEm-I4lBx&gaa_ts=692ed4f0&gaa_sig=ekEv5IE8o_FepVL4HGYUOZFn1Ij8dx5JTbpbOlkbHV_8pQQBA1CWt5-xUW3shUlzxoFjMawFne20M9w4YfcHrQ%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin ETFs Are Now BlackRock\u2019s Top Revenue Source, Exec Says",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkJqSjQtejAwZlozSFBJbE9qb1FzeXQzZEI1azQxeDR6RzJQTGdnRlpIVFpaYUtaRnI2TTNIZFdiMEZIcDZGWERJZVluTHh0ZllOb2ZkWHNWOGw2ajBKU2gzR2lfdlV5NEk4b0duVWJ2WHNwNlowYUd4eERpVEJjNFJiS2JMVHNHSmt4VHVjOWZHRjBiRDlNc1F6NVlBR3lLU3YzZVdVMnNldw?oc=5",
-      "pub_date": 1764449533.0,
-      "article_url": "https://www.coindesk.com/business/2025/11/29/bitcoin-etfs-are-now-blackrock-s-top-revenue-source-exec-says",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/07a827345ccc0e20ebc51a483d901d483c6fcf4f-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The firm's US-listed spot bitcoin ETF IBIT, launched in January 2024, reached $70 billion in assets in record time and has generated hundreds of millions in fees."
-    },
-    {
-      "headline": "Bitcoin champion Strategy launches \u2018dollar reserve\u2019 amid crypto sell-off",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZjJOQ0l2ZENwaS14dEFBc0h2REhzb0FhSmpzZEV3bzZ2LW4tVVpRejlWRjE2YXdBQ2xfbGRWNTVHSURQX0lzVGhiYmRsZXZ1WGRJenZzQks0cE1KWWplN21iczQwanVhTThZdTZ3cHI?oc=5",
-      "pub_date": 1764605779.0,
-      "article_url": "https://www.ft.com/content/b7fdf1c7-c819-4687-8827-a5e3efd39a13",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc178d9f1-5d03-46ac-8af0-895b393bf964.jpg?source=next-barrier-page",
-      "description": "Shares tumble as group warns of loss of up to $5.5bn if digital asset prices do not rebound"
-    },
-    {
-      "headline": "Bitcoin is slumping again. Its biggest corporate owner admits it may have to sell if things get worse.",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPY2c4R0c1YmloU1g1QTZ6RzcyYloyUUlHcUpGaEVCemRhbGNKUjJpRGFqSlVaZlhlN1NUMmo0SVJuNTJaM2JXZkRXeGZndW5xT2lJbF9QMWdqWkp2ckFxM3htVmJ4cFQ4VmdnM1ZWWk5UNVBEVGJqeWdDVEV3cEFzWjhwTkpIY3ZoRXVCcHdJbDZock11U3h1WGRWODQtOFV3TlVVTTV3Mnh1NTRBU282T2k1aTJ0anlydmRfbGUwb1NCNXFNOFlnMUt5OExGd1FlNTRUT3FKTHJ1aGRyVjBLd1RYeEpLTXhlZU5oTDZod1NTeGgxTVl0UllqVXdlSFZNbnJEQXNaYlZlU2dmWXJVZFpuOFJaWFVUVFJkeUJTZklTWjFmemJvM1JEeFp5NnFma1pFeDhRblROV2t3WWFHTlo3OExLdEx3U1prS2I2RGtfS3BTT0FUR2VicGd1TkxkdTJXakc5YTAya21hYWFZbHc5MlVtVVhaeEJDUmxsNE1DcUdBVGdENW5XcHJQNU9fLVZVcW9Kc1ctc1B5VmRzSUNoMUdrNTB6Vl9UWV80YmpoMXExVnAxNllaRjZZLVQtcnhTcWdvaHZwQzQ0VU5oTHQzQS1za3RHNGd4a3Zn?oc=5",
-      "pub_date": 1764585000.0,
-      "article_url": "https://www.marketwatch.com/story/bitcoins-slumping-again-the-biggest-corporate-owner-admits-it-may-have-to-sell-if-things-get-worse-ce77b7a3?gaa_at=eafs&gaa_n=AWEtsqdjW7d5ml5BM0npc8lU9SzF6tds0hwcRI6ZQWfvPdRA65MZYf_r-qcl&gaa_ts=692ed4f0&gaa_sig=Ky6yixq1uwzqBlwHKYL8JAKxz9gWiQrGSgOj1I9WMKhOMNcPv3x3Dambiu8EYUtLUJ1eVZP_EzhyaYBj1PvFhg%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Price: Michael Saylor Strategy Hype Machine Is Glitching Out",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdlZybURvY3pBU2lCRGFWNlJlY1VnenJxTTF5c0ZaMUd3NzFobnlGdFQybm9MMDhodTQ3NDZkLVdIWGlTM0VGT29sTG9tOWFWOVFEckRRTktxWmtsLWZKUnFXVVJkeUFlT29MbDBsX2YwUU44aGVtRlVlTExkVG55cFRwYkluYkw5ZmxtLVVoSGdUejFpYXVOUWs3eG1TSnd3dWh3MWZWTW0yM1N5TVZsTldrVzRsODNhQTB6UktB?oc=5",
-      "pub_date": 1764666012.0,
-      "article_url": "https://www.bloomberg.com/opinion/articles/2025-12-02/bitcoin-price-michael-saylor-strategy-hype-machine-is-glitching-out",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imhh7Ve4_ul4/v1/1200x800.jpg",
-      "description": "Here\u2019s how Michael Saylor\u2019s Bitcoin treasury company Strategy Inc. is supposed to work: The firm raises funds to buy Bitcoin; that buying drives up the price of Bitcoin; the share price of Strategy follows suit. Rinse and repeat. The trade, helped along by the utter self-belief of Saylor as a hype capitalist on par with OpenAI Inc.\u2019s Sam Altman, has been so lucrative it has spawned dozens of imitators hoping to capture the same \u201cinfinite money glitch,\u201d like a cheat code on a video game."
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq slide as bitcoin tumbles to kick off December",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXRIdXY5NTBuZk5CMG5XcU9iSWFTWkNBSGljRzdBRmNxdDAzS2x3Sk1lTzU5U0JNUmVYaTR0QmZ5TFRPc3R1WFhkNm9JX215TThZampKd0p2N292Qm1heU94M2VaMHdRcEM5RXNrcE05M1BZTnFGdU1laWZHOVFXcUU3X0JBN2MtQkstQ0lXRkVUZzBTcU03ZjdCcy1qcmFSc21YNjFmN1M5dGd0aTRJdU1MN1NBd25UbmlWb0xkLVoyQ3hlUWpyRUROdXhNZw?oc=5",
+      "pub_date": 1764623005.0,
+      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-december-210035496.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/lvmtNDwzV7lcqAQNJZd0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6f40c5f0-a863-11f0-b3eb-c74a2e7e85d5",
+      "description": "Wall Street's strong late-November rebound looked set to hit a speed bump on the first trading day of December."
     },
     {
       "headline": "Grayscale predicts new bitcoin highs in 2026, dismisses 4-year cycle view",
@@ -103,8 +73,38 @@
       "article_url": "https://www.theblock.co/post/381028/grayscale-predicts-new-bitcoin-highs",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "$29 Million Worth of Bitcoin Seized in Cryptomixer Takedown",
+      "source": "SecurityWeek",
+      "source_url": "https://www.securityweek.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW4zTlF0am9nNExJWmNKaHExRUZ2bzM5SXhiTnFGOFV4OUNjTmZna3UwMnJYc0tmZWEyRzJkekdqelVxOWpXc3NZc0pNQWpRR1VMTF9EakYwekNiWUptRC1tbE1tUjczaVNDTDJDejh0RTlIZ3Z0TlA2OUljR05XMzFEblBOLU01RVhGNzl2T0hnd9IBlwFBVV95cUxON1I3OGtXLVh1LXRqTXBoT1VtV0c3eTVHVExEOG9CekdGTVNWMVBMZnBsYkdmMV8xY2lBajRhZE9JeC0taFdFTzlSSjVrZWRkMlloNjlhSm1HQk5XU2RyYWxvZDBNYWNYMkRIN1l5dV81VDc0MjJ4OEFnWU9uUm5lTDg5MTAzNjFBRE1SVnFuc0NlOFhKdWkw?oc=5",
+      "pub_date": 1764603455.0,
+      "article_url": "https://www.securityweek.com/29-million-worth-of-bitcoin-seized-in-cryptomixer-takedown/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Shiba Inu vs. Bitcoin: What's the Better Long-Term Play?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX19CM3VNWnhfSjVjd20zd1k3YXhPZHAtTDVlNWd2NVllRmRqc1Z6Nk1ZaUFUYVFUaWJFckNxRjVvRV9nUGVzWXJkVFBMQmM3dDcyQmxfT09tSHh1SnBvUlgyZTFzdUVCaXJ2Nkp6NVRscTNGb2dKMHBsSmdCN1VJRkswU1lsV084QVlJcmx5VG55bTVGcXc?oc=5",
+      "pub_date": 1764667140.0,
+      "article_url": "https://www.fool.com/investing/2025/12/02/shiba-inu-vs-bitcoin-whats-better-long-term-play/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843913%2Fgettyimages-845682188.jpg&w=1200&op=resize",
+      "description": "Bitcoin is in a league of its own."
+    },
+    {
+      "headline": "Elon Musk predicts energy-based Bitcoin to replace money",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb2NYOHg4dlRQcC13cE1hTEJ4TTJDN3N0dWpXZVE1WXNMeGFkSEoyQlNqNTRSNjVCLXJ3MmRFLTFVeXBWYWtrVDB3LXVDZGNlR3NoU0JrUjVWZEozQ3ZadUdacmowV21XdmFfRnNZVXlid084ZUFkMVYycm9WbFNUUFdKSkI4Y0dMVEprU0l6VDN0Zk1TYmN4X3E3TmhGZ3dhTkE?oc=5",
+      "pub_date": 1764615602.0,
+      "article_url": "https://www.thestreet.com/crypto/technology/elon-musk-predicts-energy-based-bitcoin-to-replace-money",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T11:46:18.484720+00:00"
+  "fetched_at": "2025-12-02T12:55:18.260676+00:00"
 }

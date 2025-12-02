@@ -47,25 +47,11 @@
       "site_name": "nature.com"
     },
     {
-      "title": "Apple AI chief John Giannandrea is retiring in spring 2026",
-      "url": "https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/",
-      "hn_url": "https://news.ycombinator.com/item?id=46114144",
-      "author": "7777777phil",
-      "points": 192,
-      "num_comments": 8,
-      "created_at": "2025-12-01T22:22:56Z",
-      "object_id": "46114144",
-      "image": "https://images.macrumors.com/t/E2xFMSegpuYDB6sCT6_1vI991S8=/2500x/article-new/2025/03/Sad-Siri-Feature.jpg",
-      "description": "Apple AI chief John Giannandrea is stepping down from his position and retiring in spring 2026, Apple announced today. Giannandrea will serve as an advisor between now and 2026, with former Microsoft AI researcher Amar Subramanya set to take over as vice president of AI.",
-      "favicon": "https://images.macrumors.com/images-new/apple-touch-icon-blue.png",
-      "site_name": "MacRumors"
-    },
-    {
       "title": "AI agents find $4.6M in blockchain smart contract exploits",
       "url": "https://red.anthropic.com/2025/smart-contracts/",
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
       "author": "bpierre",
-      "points": 191,
+      "points": 193,
       "num_comments": 107,
       "created_at": "2025-12-01T23:44:51Z",
       "object_id": "46115214",
@@ -75,12 +61,26 @@
       "site_name": "red.anthropic.com"
     },
     {
+      "title": "Apple AI chief John Giannandrea is retiring in spring 2026",
+      "url": "https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/",
+      "hn_url": "https://news.ycombinator.com/item?id=46114144",
+      "author": "7777777phil",
+      "points": 193,
+      "num_comments": 8,
+      "created_at": "2025-12-01T22:22:56Z",
+      "object_id": "46114144",
+      "image": "https://images.macrumors.com/t/E2xFMSegpuYDB6sCT6_1vI991S8=/2500x/article-new/2025/03/Sad-Siri-Feature.jpg",
+      "description": "Apple AI chief John Giannandrea is stepping down from his position and retiring in spring 2026, Apple announced today. Giannandrea will serve as an advisor between now and 2026, with former Microsoft AI researcher Amar Subramanya set to take over as vice president of AI.",
+      "favicon": "https://images.macrumors.com/images-new/apple-touch-icon-blue.png",
+      "site_name": "MacRumors"
+    },
+    {
       "title": "A new AI winter is coming?",
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 176,
-      "num_comments": 243,
+      "points": 180,
+      "num_comments": 248,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -93,8 +93,8 @@
       "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
       "hn_url": "https://news.ycombinator.com/item?id=46118722",
       "author": "dijksterhuis",
-      "points": 99,
-      "num_comments": 49,
+      "points": 117,
+      "num_comments": 59,
       "created_at": "2025-12-02T07:46:47Z",
       "object_id": "46118722",
       "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
@@ -145,7 +145,7 @@
       "site_name": "the Guardian"
     }
   ],
-  "total_hits": 422,
+  "total_hits": 436,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T14:29:31.691738+00:00"
+  "fetched_at": "2025-12-02T15:16:19.253966+00:00"
 }

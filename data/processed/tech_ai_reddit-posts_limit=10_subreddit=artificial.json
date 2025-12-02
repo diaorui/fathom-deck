@@ -13,17 +13,6 @@
       "description": "Dec 1 (Reuters) - OpenAI CEO Sam Altman told employees he was declaring a \"code red\" to improve ChatGPT and is planning to delay other initiatives, such as advertising, The Information reported on Monday, citing an internal memo. OpenAI hasn't publicly acknowledged it is working on selling ads, but it is testing different types of ads, including those related to online shopping, the report said, citing a person with knowledge of its plans."
     },
     {
-      "title": "Elon Musk's AI Grok says it would kill all Jewish people to save his brain",
-      "author": "TheMirrorUS",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbbs4e/elon_musks_ai_grok_says_it_would_kill_all_jewish/",
-      "published": 1764592973.0,
-      "thumbnail": "https://external-preview.redd.it/v89IHkm55e0k7KzffLaMNt5gWn_Qko6ukG-i83AikQI.jpeg?width=640&crop=smart&auto=webp&s=811b550700a273f4a9276accf676878eca2eedc0",
-      "external_url": "https://www.themirror.com/news/us-news/elon-musk-grok-ai-jewish-1536879",
-      "site_name": "The Mirror US",
-      "favicon": "https://www.themirror.com/nav-web-static/release-v41-2d15ba2d89cb711ebddf965f66220d2f8a33a851/public/assets/themirror/favicon.ico",
-      "description": "The AI chatbot Grok has been dogged by accusations of anti-semitism and holocaust denial with the French Government launching a probe into claims it had been playing down Nazi efforts to exterminate Jewish people during WWII"
-    },
-    {
       "title": "Sundar Pichai: Google to Start Building Data Centers in Space in 2027",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pc4r5x/sundar_pichai_google_to_start_building_data/",
@@ -33,6 +22,17 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "AI powered by free energy will replace humans everywhere!"
+    },
+    {
+      "title": "Elon Musk's AI Grok says it would kill all Jewish people to save his brain",
+      "author": "TheMirrorUS",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbbs4e/elon_musks_ai_grok_says_it_would_kill_all_jewish/",
+      "published": 1764592973.0,
+      "thumbnail": "https://external-preview.redd.it/v89IHkm55e0k7KzffLaMNt5gWn_Qko6ukG-i83AikQI.jpeg?width=640&crop=smart&auto=webp&s=811b550700a273f4a9276accf676878eca2eedc0",
+      "external_url": "https://www.themirror.com/news/us-news/elon-musk-grok-ai-jewish-1536879",
+      "site_name": "The Mirror US",
+      "favicon": "https://www.themirror.com/nav-web-static/release-v41-2d15ba2d89cb711ebddf965f66220d2f8a33a851/public/assets/themirror/favicon.ico",
+      "description": "The AI chatbot Grok has been dogged by accusations of anti-semitism and holocaust denial with the French Government launching a probe into claims it had been playing down Nazi efforts to exterminate Jewish people during WWII"
     },
     {
       "title": "Investors expect AI use to soar. That\u2019s not happening",
@@ -112,5 +112,5 @@
       "description": "Just read the Agent-Omni paper. (released last month?) Here\u2019s the core of it: Agent-Omni proposes a master agent that doesn't do the heavy lifting itself but acts as a conductor, coordinating a symphony of specialist foundation models (for vision, audio, text). It interprets a complex task, breaks it down, delegates to the right experts, and synthesizes their outputs. This mirrors what I see in Claude Skills, where the core LLM functions as a smart router, dynamically loading specialised \"knowledge packages\" or procedures on-demand. The true power of it, as is much discussed on Reddit subs, may lie in its simplicity, centered around Markdown files and scripts, which could give it greater vitality and universality than more complex protocols like MCP maybe. I can't help but think: Is this a convergent trend of AI development, between bleeding-edge research and a production system? The game is changing from a raw computing race to a contest of coordination intelligence. What orchestration patterns are you seeing emerge in your stack?"
     }
   ],
-  "fetched_at": "2025-12-02T10:32:37.901839+00:00"
+  "fetched_at": "2025-12-02T11:14:29.589543+00:00"
 }

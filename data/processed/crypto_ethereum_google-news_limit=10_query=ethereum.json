@@ -65,14 +65,14 @@
       "description": null
     },
     {
-      "headline": "bitcoin price ethereum price: Bitcoin and Ethereum Fall Sharply as Crypto Sell-off Resumes",
-      "source": "www.israelhayom.com",
-      "source_url": "https://www.israelhayom.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6RGlVVUltb1RDWGppTklRYzNWU1dNOWU5S3lrakszZWFHTXc2YlM0THBGQnhPLUZKZXk1MWpwNEFwdnZfdWRILUQtUVNXc0lVT2dfYktURkxHNGxUMGIwTWFwM2NFZWZfMmItSU5vRzR2ZGwxSHJCSmx1MUY?oc=5",
-      "pub_date": 1764595584.0,
-      "article_url": "https://www.israelhayom.com/2025/12/01/bitcoin-ethereum-crypto-sell-off/",
-      "image": "https://www.israelhayom.com/wp-content/uploads/2025/03/GettyImages-1302791678.jpg",
-      "description": "The current downturn in cryptocurrencies commenced once more on Monday, causing Bitcoin and Ethereum to experience steep declines, according to CNBC. This market movement coincides with a wider risk-off mood at the start of the new month. Ben Emons, founder and Chief Investment Officer of Fedwatch Advisors, stated that a massive $400 million exchange liquidation has generally been blamed for Monday's reversal. Experts warn that \"There is still a lot of leverage in Bitcoin out there\" due to the asset class's decentralized and opaque nature, which is leading to continued crypto sell-off pressure."
+      "headline": "What Is the Fusaka Upgrade: Ethereum's Next Hard Fork",
+      "source": "CoinGecko",
+      "source_url": "https://www.coingecko.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RMUlDWWMzcjc0UlBlS0VOR0ticlRRRFowWFE0aGZTX0I5eFlheklRdGdfU1FpbkxNV1VtMTZ6aUEwa3ZmbGZyQlp6ejA5eEVYR3FKUlQ3NXBZNTdVQnVKVC1jeTNpRzdGbU5QQ0gxc3k?oc=5",
+      "pub_date": 1764659950.0,
+      "article_url": "https://www.coingecko.com/learn/what-is-ethereum-fusaka-upgrade",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Ethereum Leverage Reset Complete \u2013 Time For Market Re-Accumulation?",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T10:32:57.182091+00:00"
+  "fetched_at": "2025-12-02T11:14:52.055871+00:00"
 }

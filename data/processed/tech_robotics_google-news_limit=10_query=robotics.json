@@ -85,16 +85,6 @@
       "description": "CNN News Central\u2019s Sara Sidner speaks with Amazon Robotics VP about technology driving Amazon\u2019s holiday rush"
     },
     {
-      "headline": "CN Energy Group (NASDAQ: CNEY) debuts PATHENBOT robotics platform for North American SME automation",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzRRMHptaE1yN2ptUUdCeWZQVTFvSnZCMTY5QjNSUWtDMEVQSF9vbVJSV2NEcDlqYmNmVTA4TVZPZmxDYmFRbzUtRVMzQjdVZVlaV3ZPSl9iR1Y3MjVGZTN2Z2F6eFkycnh3ZENTQVFFMW00VWJ1alBJZ1M3blRYMWtBd2g1cHJXOUVidm1sbnJtZVRsVzVNaURncWlLTHdHSjlocUpRaUExR1hxQkwxajRNdVZRanptOW1XZ1RPSUY?oc=5",
-      "pub_date": 1764586500.0,
-      "article_url": "https://www.stocktitan.net/news/CNEY/cn-energy-group-inc-announces-launch-of-pathenbot-robotics-solutions-8clg2yncq3aa.html",
-      "image": "https://static.stocktitan.net/company-logo/cney-lg.png",
-      "description": "CN Energy\u2019s PATHENBOT unit launches a robotics solutions platform and official website to deliver customizable automation for North American SMEs."
-    },
-    {
       "headline": "China Is Officially Scared of Robots",
       "source": "Futurism",
       "source_url": "https://futurism.com",
@@ -103,8 +93,18 @@
       "article_url": "https://futurism.com/robots-and-machines/china-officially-scared-robots-bubble",
       "image": "https://futurism.com/wp-content/uploads/2025/12/china-officially-scared-robots-bubble.jpg?w=1200",
       "description": "Chinese officials are warning that the country's humanoid robotics industry could be forming a massive bubble."
+    },
+    {
+      "headline": "CN Energy Group (NASDAQ: CNEY) debuts PATHENBOT robotics platform for North American SME automation",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzRRMHptaE1yN2ptUUdCeWZQVTFvSnZCMTY5QjNSUWtDMEVQSF9vbVJSV2NEcDlqYmNmVTA4TVZPZmxDYmFRbzUtRVMzQjdVZVlaV3ZPSl9iR1Y3MjVGZTN2Z2F6eFkycnh3ZENTQVFFMW00VWJ1alBJZ1M3blRYMWtBd2g1cHJXOUVidm1sbnJtZVRsVzVNaURncWlLTHdHSjlocUpRaUExR1hxQkwxajRNdVZRanptOW1XZ1RPSUY?oc=5",
+      "pub_date": 1764586500.0,
+      "article_url": "https://www.stocktitan.net/news/CNEY/cn-energy-group-inc-announces-launch-of-pathenbot-robotics-solutions-8clg2yncq3aa.html",
+      "image": "https://static.stocktitan.net/company-logo/cney-lg.png",
+      "description": "CN Energy\u2019s PATHENBOT unit launches a robotics solutions platform and official website to deliver customizable automation for North American SMEs."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T10:32:56.745782+00:00"
+  "fetched_at": "2025-12-02T11:14:48.787138+00:00"
 }

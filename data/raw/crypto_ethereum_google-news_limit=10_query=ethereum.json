@@ -85,16 +85,6 @@
       "description": "The proposed protocol uses zero-knowledge proofs to verify sender\u2013receiver relationships without revealing identities."
     },
     {
-      "headline": "Tom Lee's BitMine Buys More Ethereum\u2014But Both ETH and BMNR Are Diving",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5WDlsbGhYejZLVzh2NkhhdlRYbVViZTZJbGNVVHRiT2lBbG9sWGhUQnBoenNEb2hiOFpkMFZ2eG9uc1RMOW9naXhmRWhzUjBkQi1TYnRZNndoVFZLb3RmQkstU25QNF95bFZTRVM2ZDNqenE3NFJiQWtxNm0?oc=5",
-      "pub_date": 1764611776.0,
-      "article_url": "https://finance.yahoo.com/news/tom-lees-bitmine-buys-more-175616532.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1lr32EBn0RgV4TnQuzC0XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/decrypt_157/5201a6b2bb2edb9ec8114206f138c99c",
-      "description": "The firm's stock dropped Monday as crypto prices plummeted, but it remains up 301% year-to-date."
-    },
-    {
       "headline": "Tom Lee's Ethereum DAT BitMine now holds 3% of the total ETH supply",
       "source": "theblock.co",
       "source_url": "https://www.theblock.co",
@@ -103,8 +93,18 @@
       "article_url": "https://www.theblock.co/post/380925/tom-lee-ethereum-dat-bitmine-two-thirds-goal",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "1 New Reason to Be Cautious About Buying Ethereum, Solana, and XRP Right Now",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaUtlTUl4dHM2OGItRy1XT3h6WVp4b3l2UXpnaHI4WjhJODljUEcySk9wYjBKY3V6WFRkdjgta21sMC1YQVZod3hpMDRjVTZpSkQ2RWItZ2xkc1dMTjJlNVpoeDhQazMzZmVwc1lleng0VHZlT0hMVFk0ODVZSHBNSVZjS1dVM3ZmTHJzNzVSS0stU2NzckVz?oc=5",
+      "pub_date": 1764521280.0,
+      "article_url": "https://www.fool.com/investing/2025/11/30/1-new-reason-to-be-cautious-about-buying-ethereum/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843801%2Fstanding-pair-of-investors-consider-tablet-and-computer.jpg&w=1200&op=resize",
+      "description": "If this widely touted growth driver peters out, it could spell big trouble."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T21:27:45.500428+00:00"
+  "fetched_at": "2025-12-02T22:14:49.807348+00:00"
 }

@@ -75,16 +75,6 @@
       "description": "Shanghai Jiao Tong University and Zhejiang University are among seven schools that plan to offer \u2018embodied intelligence\u2019 as a new major."
     },
     {
-      "headline": "Human-Centered Robotics and the Future of Work",
-      "source": "Inc.com",
-      "source_url": "https://www.inc.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHRYd24wMl9rWDZVUUo5YWtBRy1uMzFxeTRxQlkydlQ0RTZJbUR2RXlyWWFVSFhlN3JYZ0FHUFBEZWNNQTV4X1NKcDlpZUhXRjFtOGtDOTZmNjYyYUx3NzhTZWdMcl9USjZHMC15MWlfVTg3WTlBdC1wMndqMGdsalljb3YxLVpPSUJkbFhyZ2lFRXc?oc=5",
-      "pub_date": 1764702159.0,
-      "article_url": "https://www.inc.com/matthew-chang/human-centered-robotics-and-the-future-of-work/91273063",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas War",
       "source": "The Jerusalem Post",
       "source_url": "https://www.jpost.com",
@@ -93,6 +83,16 @@
       "article_url": "https://www.jpost.com/defense-and-tech/article-876822",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/478690",
       "description": "The robotic systems have gotten much more diverse and standardized, being deployed in much higher volumes to assist with exploring Hamas tunnels, to save risking soldiers' lives from that process."
+    },
+    {
+      "headline": "Human-Centered Robotics and the Future of Work",
+      "source": "Inc.com",
+      "source_url": "https://www.inc.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHRYd24wMl9rWDZVUUo5YWtBRy1uMzFxeTRxQlkydlQ0RTZJbUR2RXlyWWFVSFhlN3JYZ0FHUFBEZWNNQTV4X1NKcDlpZUhXRjFtOGtDOTZmNjYyYUx3NzhTZWdMcl9USjZHMC15MWlfVTg3WTlBdC1wMndqMGdsalljb3YxLVpPSUJkbFhyZ2lFRXc?oc=5",
+      "pub_date": 1764702159.0,
+      "article_url": "https://www.inc.com/matthew-chang/human-centered-robotics-and-the-future-of-work/91273063",
+      "image": null,
+      "description": null
     },
     {
       "headline": "AI poses unprecedented threats. Congress must act now | Bernie Sanders",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T21:27:49.669943+00:00"
+  "fetched_at": "2025-12-02T22:14:51.461717+00:00"
 }

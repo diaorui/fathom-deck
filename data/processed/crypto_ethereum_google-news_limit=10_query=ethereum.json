@@ -35,14 +35,14 @@
       "description": "Distributed Lab researchers have published a breakthrough protocol demonstrating how Ethereum can implement privacy-preserving games while maintaining participant confidentiality and correctness.The ZK Secret Santa (ZKSS) system uses zero-knowledge proofs to establish gift sender-receiver relationships without revealing identities, addressing fundamental challenges in executing private transactions on public blockchains.The timing proves significant ..."
     },
     {
-      "headline": "Bitcoin and Ethereum Price Fall Offers \u2018Attractive' Entry, Says Tom Lee, Predicts BTC ATH Next Month",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5LQUk5Zk55TFcxdlFqVkc2LVJYTFhWdU5LZGUxVjdFWHB2dFpPTUYxb1hMYzBJZ0k5OHJOT0ZuN3I5Q2JqbnRxOGozS1M2Ujgxd05XTkh1RllxQ3EtczJmckVTWk9YNFU3MzV2M01iZDZDZ3BrRFNiaHRqX1hUQXpWcFNvQTg?oc=5",
-      "pub_date": 1764668154.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-price-fall-offers-093554015.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/c0UY4QLSXNfMqv3Sm9B_QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/fc775726129380c33e1402bee8518dae",
-      "description": "Fundstrat\u2019s Tom Lee and Mark Newton remain bullish on Bitcoin and Ethereum despite recent sharp declines. Ethereum and Bitcoin face near-term volatility. Both analysts still ..."
+      "headline": "Tom Lee's Ethereum DAT BitMine now holds 3% of the total ETH supply",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPei1NLXdBczcxZ19pWFkzWk1OZkJnX2tqdnYweVhFOVBMdElZMi1Fenh0UmlNU2RvR1hhRm9VbVRsR1NZdWE1bzBjb051UXQzN04zUzd1QVVlc2VkX0dFTU9WMXNwVTFqZWV1UDUxMWpwTGQzS2lQbDd1b2ppMWxtdlBoalhGbVXSAYwBQVVfeXFMUDhaLWpmM2dReUdlajJuSWc4LWdhUW9rd0d1TkRzaWdxSmlYc01RRXBaMDExbGpGSDBITUVlaWl0T24wcHFrVkNVb1ExVGN0SWJBV0xpcEYtX0d1Z1FaOFRwcUxCcjBvXzNGTG1DbFBJWHdfT2hadnd3LWpZaEMwSDljZ29VOUdLQ2N5ZDM?oc=5",
+      "pub_date": 1764601090.0,
+      "article_url": "https://www.theblock.co/post/380925/tom-lee-ethereum-dat-bitmine-two-thirds-goal",
+      "image": null,
+      "description": null
     },
     {
       "headline": "OG Ethereum Whale Moves $120M Into Staking After Decade \u2014 Should Price Drop Fears Decrease?",
@@ -55,16 +55,6 @@
       "description": null
     },
     {
-      "headline": "Ethereum News: BitMine (BMNR) Bought 97K in ETH Ahead of Fusaka Upgrade",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUlTNmRnVjlscGVzMXlxVWpxd1EwVHkwNWhxcVBka2JlaW9vMzEzZlFJVFdCVGlxa3I1Y0hzZUhab3FPOS1kT2JCa0t0b1c2V2Z2MGJNeE5OTHZ1QkxtelBEdzNXM0xyR21JN1JkdldwY1VfaGp5SURYU3FqblpHUmVjRUdmcHJkbV9lSlhXT3JWaExtalFJUUlTZm5Lc0JDN2REb25vLUpfc1B5emRuanZ4R19KUVoxTW1UdHFycUJDNk84S2JCYl84YVhrRWc?oc=5",
-      "pub_date": 1764599120.0,
-      "article_url": "https://www.coindesk.com/business/2025/12/01/tom-lee-s-bitmine-acquires-97k-eth-eyeing-fusaka-upgrade-fed-policy-as-positive-catalysts",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06503e9de607f639801425df078631e0e62f12d-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The firm has increased the pace of purchases from the previous week despite sitting on large unrealized losses on its Ethereum bet."
-    },
-    {
       "headline": "What Is the Fusaka Upgrade: Ethereum's Next Hard Fork",
       "source": "CoinGecko",
       "source_url": "https://www.coingecko.com",
@@ -73,16 +63,6 @@
       "article_url": "https://www.coingecko.com/learn/what-is-ethereum-fusaka-upgrade",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Ethereum Leverage Reset Complete \u2013 Time For Market Re-Accumulation?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGdBaFJDYjZ3NmRWcktXSlI1bTg3UGhiYW1VMWt1aFAtR2Y0ZDRycnZaN3JLeWNrUEJYU3RSS0RRckVQNVQ3VXVmbV9WZDRER3g1cG5Cd1Rwak41ZXlDSWpsdS01ZVVZSkd6Y21xMExiTlNtVlg5WXNpUzRJeWloaks2YWJBVDdFZFBFaGJOdEhEMkViVml6N1FEX01wRnMzRUg1dllOQnlWdW9KdkVPM2JveVFtRDR0ZExSZ1BkOA?oc=5",
-      "pub_date": 1764493256.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:31612045a094b:0-ethereum-leverage-reset-complete-time-for-market-re-accumulation/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum presently trades around $3,000 following a broader crypto market rebound in the last week. During this time, the market\u2019s largest altcoin gained by 7.22%, providing a much-needed relief after an extended correction that dominated the majority of the last two months. As price stabilizes, cr\u2026"
     },
     {
       "headline": "Ethereum spot ETFs post highest monthly outflow of $1.4 billion in November, breaking seven-month streak",
@@ -103,8 +83,28 @@
       "article_url": "https://cryptoslate.com/rlusd-supply-hit-1-26b-and-82-of-it-now-sits-on-ethereum-not-xrpl/",
       "image": "https://cryptoslate.com/wp-content/uploads/2025/11/ripple-rlusd-.jpg",
       "description": "Ripple\u2019s stablecoin RLUSD thrives on Ethereum as entrenched dollar liquidity and DeFi integration bolster its rapid expansion."
+    },
+    {
+      "headline": "Global financial crash warning: Why Robert Kiyosaki urges buying Bitcoin (BTC USD), Ethereum (ETH), gold &",
+      "source": "The Economic Times",
+      "source_url": "https://m.economictimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbXFQcmxxcktaUW1pNmNxSElfd29rNExHaXl6bEUtdkxnN3luMzF2TnJOOEpuQndzQ1RSVTBjZnNxbDFGOWQ0Z3loZjU1Zkl6YmNRbG5nTDJjbExRU0FGU2I1UzdOaWdVVFdjZUk0d0xjbVhXeDFtWlY2ZzBoUjhDNkxyTXE0OHl4V0dCSGpWUXVZVTEzU1FSVGNyS28tSlVRZUJ2OXVBSG1VeE9qcWFBdzhKVHZ1UUZ4MXFVSngyU2VidXFDbk5vaDBubjJvQXNtSkNPVy1tS3psODFfWXk5QUZja3lVQ1dlRS15aGNCNUxiUURoYzk1cDhYaUFRblRkSkt5R1BhZEtITWZJRmdmZzZaWDfSAZoCQVVfeXFMUGtBaWZmSlYwY0h4MHI3LVNaWUU5Q3JkUEFuZndYbFlUNXRRcE9Pa3ZfRF9XbzdjQVloeEdwX3g5bnJ3ZWZvSHVBQzVhMWpCMWlDNXQwemllcGlaTjVfRXRMTXdJZlAxSHNTOWU5R3NudUtjRlhRR25Hd3dkT3lCSEpDcXFjVzN4bnJoSldySVFjRGxEN0dKU1ZIUHhDY3Y3eUxrajZWWDZBUnRYZnVUQVNNbE10ZGZRY3hVUkk2YnJEZlB2VXB0UTZXOTZ3RTdWQmlEMFlvV0dmM0MyLXlYM2dnVkUzUXBxRjNLTEJ2eU1QbnFGcWRtcXhkQWxaTVhmLXJndW9xVWRRb2xRNXpzTGNQQzc5RVAzZDRn?oc=5",
+      "pub_date": 1764444620.0,
+      "article_url": "https://m.economictimes.com/news/international/us/biggest-crash-in-history-warning-why-robert-kiyosaki-urges-buying-bitcoin-btc-usd-ethereum-eth-gold-silver-now/articleshow/125663779.cms",
+      "image": "https://img.etimg.com/thumb/msid-125664211,width-1200,height-630,imgsize-87470,overlay-economictimes/articleshow.jpg",
+      "description": "Biggest market crash warning: Bestselling author Robert Kiyosaki warns investors of an imminent global financial crisis and urges them to invest in Bitcoin, Ethereum, gold, and silver before the market crash intensifies. Learn why he believes these assets are crucial for wealth protection."
+    },
+    {
+      "headline": "Arthur Hayes Predicts Collapse of Most Layer 1 Tokens Outside Ethereum and Solana",
+      "source": "Coinpaper",
+      "source_url": "https://coinpaper.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnZXdk42bnJnNkJmdWhQSy01bm5BSnF0U3J3X3RZMHp5Nk82Y3NKQy1aS3hIczFoM3N1RnBpOTVEN1UyakYwOXpaNkUzY1JIVVVHX1FQdEpmLURVX3V6SmpkNmt2bG1UOGtrNDE0U0Vyb1QxR0M4TkVWWnYyTnMtMGkta3I5c1BoMG5fajBDdUpBSHJMamZ1ejdzS0dObHlNOXJUWWRhdS10Ul9vTmc?oc=5",
+      "pub_date": 1764445896.0,
+      "article_url": "https://coinpaper.com/12754/arthur-hayes-predicts-collapse-of-most-layer-1-tokens-outside-ethereum-and-solana",
+      "image": "https://res.coinpaper.com/coinpaper/image/upload/v1764445718/shutterstock_2108025419_f807a3ca1c.jpg",
+      "description": "Arthur Hayes warns most new L1s will fade, highlighting Ethereum and Solana as the only strong long-term blockchain contenders."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T12:55:15.728662+00:00"
+  "fetched_at": "2025-12-02T13:37:36.737773+00:00"
 }

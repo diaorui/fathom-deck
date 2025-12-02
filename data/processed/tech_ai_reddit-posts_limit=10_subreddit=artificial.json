@@ -57,15 +57,15 @@
       "description": "Apple names former Microsoft, Google exec to succeed retiring AI chief.[1] AI may be scoring your college essay. Welcome to the new era of admissions.[2] Nvidia announces new open AI models and tools for autonomous driving research.[3] DeepSeek AI Releases DeepSeekMath-V2: The Open Weights Maths Model That Scored 118/120 on Putnam 2024.[4] Sources: [1] https://www.cnbc.com/2025/12/01/apple-ai.html [2] https://www.yahoo.com/news/articles/ai-may-scoring-college-essay-052228309.html [3] https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/ [4] https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
     },
     {
-      "title": "Apple AI chief steps down amid Siri struggles",
-      "author": "theverge",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbrgat/apple_ai_chief_steps_down_amid_siri_struggles/",
-      "published": 1764629250.0,
-      "thumbnail": "https://external-preview.redd.it/3Sx4PjNLpold2Htxn7Vs5vMzEeIeGiK2vZYPQBn7G0Y.jpeg?width=640&crop=smart&auto=webp&s=84151d7a76d53abad92d8177b4be4562e51be1ea",
-      "external_url": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri",
-      "site_name": "The Verge",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "description": "Apple has a new AI chief."
+      "title": "When you can prompt in or out characters in videos...it's kind of a WTF moment.",
+      "author": "Nervous-North2806",
+      "url": "https://www.reddit.com/r/artificial/comments/1pc7qqc/when_you_can_prompt_in_or_out_characters_in/",
+      "published": 1764680232.0,
+      "thumbnail": "https://external-preview.redd.it/Ymw0emoyaG44czRnMe3R1dqrNLY8WkpZQYepSwiyYDUAgMWn41qteoRk8zEp.png?width=640&crop=smart&auto=webp&s=ca93c8f665f99e58cafdb3a850e50ecf6a6b0819",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Swapped the baseball-cap guy for a cat. Easiest edit ever. Everything seems to stay intact including audio. They really seem to be nailing multimodal right now. Made in Kling O1 on Higgsfield"
     },
     {
       "title": "AI training has a big black market problem",
@@ -77,6 +77,17 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "A shadow market for AI training and data labeling accounts has emerged, with scammers selling Outlier, Mercor, and Surge AI accounts online."
+    },
+    {
+      "title": "Apple AI chief steps down amid Siri struggles",
+      "author": "theverge",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbrgat/apple_ai_chief_steps_down_amid_siri_struggles/",
+      "published": 1764629250.0,
+      "thumbnail": "https://external-preview.redd.it/3Sx4PjNLpold2Htxn7Vs5vMzEeIeGiK2vZYPQBn7G0Y.jpeg?width=640&crop=smart&auto=webp&s=84151d7a76d53abad92d8177b4be4562e51be1ea",
+      "external_url": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri",
+      "site_name": "The Verge",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "description": "Apple has a new AI chief."
     },
     {
       "title": "Why AI Needs a Unified Sensory Topology (And Why Music Reveals the Gap)",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I'm canceling my Google One AI Premium sub today. This is exactly the same garbage behavior OpenAI pulled, and I'm not falling for it again. We all know the drill by now. You pay for the Pro model, you start a chat, say hi, and it gives you a smart response. But the second you actually try to use the context window you paid for - like pasting a 3k word document or some code - the system silently panics over the compute cost and throttles you. It's a classic bait and switch. Instead of processing that context with the Pro model I'm paying twenty bucks a month for, it clearly kicks me down to a cheaper tier. It feels exactly like when GPT would silently swap users to the mini or light model after a couple of turns or if you pasted too much text. I fed it a 3,000 word PRD for a critique. I expected a rewrite that actually kept the details. Instead I got a 700 word summary that reads like it was written by the Flash model. It just gutted the entire document. It's not conciseness. It is dynamic compute throttling. They are advertising a Ferrari, but the moment you try to drive it on the highway they swap the engine for a Prius to save electricity. If I wanted Flash performance on my long documents, I'd use the free tier. Stop selling me Pro reasoning and then hot-swapping the model when the math gets expensive. Has anyone found a way around this or is it time to just go full local/Anthropic?"
-    },
-    {
-      "title": "Google CEO warns US AI regulations risk ceding edge to China",
-      "author": "JTHGraphics",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbfm42/google_ceo_warns_us_ai_regulations_risk_ceding/",
-      "published": 1764602765.0,
-      "thumbnail": null,
-      "external_url": "https://thinkautomated.io/news/pichai-warns-patchwork-us-ai-rules-risk-ceding-edge-to-china",
-      "site_name": "thinkautomated.io",
-      "favicon": "https://thinkautomated.io/logo.svg",
-      "description": "Sundar Pichai says a fast-growing patchwork of state AI laws could slow U.S. innovation and hand China an edge unless Congress sets clear national standards. Here\u2019s what he said, how the U.S. debate compares with Europe and China, and what automation leaders should do now."
     }
   ],
-  "fetched_at": "2025-12-02T12:54:54.006146+00:00"
+  "fetched_at": "2025-12-02T13:37:20.601447+00:00"
 }

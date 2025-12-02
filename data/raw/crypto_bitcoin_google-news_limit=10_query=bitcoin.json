@@ -5,14 +5,34 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bonds and bitcoin find some footing, stocks eke out gains",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkJxanotb1RQN0RaT0QtOXZVWWd5VDRYZlNFSkxzVmxZMm5rNU5kRno2TElKM0RGQmUyWFlmNG5OTkxVcXhaVV9IOGliM1hsS3RWTHpYbURCWlpwZHAtU1ppLUdRbGQ0Ump5VEsyZ000WXR2NTI5VUluR3FlLUtubThWTQ?oc=5",
-      "pub_date": 1764671192.0,
-      "article_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-12-02/",
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq slide as bitcoin tumbles to kick off December",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXRIdXY5NTBuZk5CMG5XcU9iSWFTWkNBSGljRzdBRmNxdDAzS2x3Sk1lTzU5U0JNUmVYaTR0QmZ5TFRPc3R1WFhkNm9JX215TThZampKd0p2N292Qm1heU94M2VaMHdRcEM5RXNrcE05M1BZTnFGdU1laWZHOVFXcUU3X0JBN2MtQkstQ0lXRkVUZzBTcU03ZjdCcy1qcmFSc21YNjFmN1M5dGd0aTRJdU1MN1NBd25UbmlWb0xkLVoyQ3hlUWpyRUROdXhNZw?oc=5",
+      "pub_date": 1764623005.0,
+      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-december-210035496.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/lvmtNDwzV7lcqAQNJZd0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6f40c5f0-a863-11f0-b3eb-c74a2e7e85d5",
+      "description": "Wall Street's strong late-November rebound looked set to hit a speed bump on the first trading day of December."
+    },
+    {
+      "headline": "U.S. Futures Fall, Global Markets Mixed; Bitcoin Recovers Slightly",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxPNU5jV2Z1T2RkTFI5SWhHbXoxbXFzWjdhZjM2MHFsazdlUVFYVWs0aG5DUTBURkl4MFJPNUUtVGc4WklDY0lqY1g0RXdSLXlwQ3ZiZGIzMTJ0NlNhTkJ5LTFzSUMxOWtBYWJTVGVoR3Fqa0N4Y2NtckM2VE5MbFpXMUZpeXVSZXpQT0hsb1ZxWXdKOUhKUnNTdVVsOVBOSmhZU0NEeVkwcU9VNjM2UmYtUExLa21QOUNhWFRSRUpIUGZyd01HMkZSMndlQTY0R2dsZXhycVIzc1RTbjhISTZFRVl6MnpGcUJrUlI0azdIcTdOLW9RSmRrd0pmYnl5S3FUZ3lnbHo1N2dvSWlTX0haODRXLUZJcVIzdFRFRFNJVDBHYjcwXzRVZzdmNUcyNUdLT0x0R0FUOFlKVjBaTlcwR1QzWFV3SnpxNWpaWU9NRXRtQnMxQTlzSWZ6UmZGZ0g0VVRCSGhTeU4xSVpoc2lsdlZORG5GZlVQRlJIRGUxeUJwSUE2M1JKcEcwcW96aXRZQWl5UVZkUjV6RXd2T0lTMXNHUEF5WkY3SHdhQzR4Z3o?oc=5",
+      "pub_date": 1764670320.0,
+      "article_url": "https://www.wsj.com/finance/stocks/u-s-futures-fall-global-markets-mixed-bitcoin-recovers-slightly-d9cf31c2?gaa_at=eafs&gaa_n=AWEtsqeT6JoD9-L86K45btAcyAB_N4r_9TeGlthtieHKNg9yc4Ucdriftctz&gaa_ts=692eef15&gaa_sig=ZJfeuNEis82JBGNaSAlt9xrWIxMxnvimHOQWx_2FW-0WkKg-eaQl5-bPGGQI1kSl7sMn5KsOBkN7Lqtp4qe1bA%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "XRP, BTC Analysis: Ripple-Linked Token, Bitcoin, Nasdaq on the Edge",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFZfMlRhaGI0Zy1OdGVaRHlaQ1psVjZCVDhvdHVJOFhsQ3puOG02eGJ3MHZsVE1wU1JqX3VEQWI1Ujc3SGRXekNpREgtaUU5blhXM3FEVWtESW84SWVCbFdjN1hGR3pHMHZGVmdRSWxKSEM1bEJhMmk0ZW56bmdiLWcyMldUUkRpdkFGTDZ5QmZJemxXb1hxWDh3?oc=5",
+      "pub_date": 1764661581.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/02/xrp-bitcoin-on-the-edge-has-santa-abandoned-nasdaq",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d5646c439de12ffa75596d174196acfefaedd782-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "XRP and BTC trade close to make-or-break levels while Nasdaq's November price action raises pullback risks."
     },
     {
       "headline": "Bitcoin logs its worst day since March",
@@ -25,6 +45,16 @@
       "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
+      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQNHlBQ3FRTEJfal9uNldKMGR2cnVMS1NZQ2dCa1dZbXV3Zzl2cTF4SS1KaWRSWGRCVkkwUW4wRWh2TnZteWI2NWZ6LUg5WmVTQ3l5Rjh5RlFmbEtIckxiYnNQczdZLTdhano1bm84UVYyS2lrRUlTZEU5TUp1dDZWSHdvNUF5Mjl6VmZzVjYxM3UtQy01OW95NHFKVXZGUXhXaG5TVHpGVm81SUFnX2FQS25QUWVGZUJPR3VVT1dlU2JQSEo1Xy01OXlKX0Y5NTMxRHJpVk5nMzFoM2Z4V0hMNGtsaTF4TkpPSlFKR29vNDVVRDNUamt0ZjNpVHBWZFNYYTZoLUpickhtbXdKQi02czZmQl9tcF9RSXRhbWpzbVYzZllGVlBiaUlXcWc4dExQY2xmRkVpekloaFoyMDlrRFRfdGdhM2JjcTZuQ1pzTGlxaGI4TldsMlUxUThjd0ljVVI3T280YV8tUld6dFVHeWthMHl1OU9GNVZWbEdLY0djemowdXdlb3VmZU9oOHJLOUt5S1hpcjdtVTRSeFliNFU1Y2JzLXpxV2hvOTVibThyNVprY2l4UQ?oc=5",
+      "pub_date": 1764626940.0,
+      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqcbRXOAv03pRy5E2tkBcy3MVt1szGfg8UTI-zwMqcmYmDwD6sPAI1Do&gaa_ts=692eef15&gaa_sig=9dUlRlAi9pXYj1JsdbnPSHt53H3so-DVEAIzOHdxww5pKYibj2IL5JLFLwI_xD-U5msptgeKNZXh7Voz-rbT1g%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Bitcoin meltdown: Strategy stock tanks over 60%; retail ETF wipe-outs spark fresh fears for major benchma",
       "source": "Times of India",
       "source_url": "https://timesofindia.indiatimes.com",
@@ -35,34 +65,34 @@
       "description": "International Business News: Investors who followed Michael Saylor's Bitcoin strategy are now facing heavy losses. Strategy Inc.'s stock has seen a sharp decline, causing leverage"
     },
     {
-      "headline": "Opinion: Bitcoin still has one thing going for it that investors are missing",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPNXJHWUlDNF9Uelc1Rl9id1FFZmp6OFJZNlJQbHRqLWtyTFRpTlFEcG9ObDc3S0xoODJOeDBMdGFnTzhlNlgwdVpUaG9YeDBVbk9IMDJGbXVxYl9sMnFNR2d6NkhESTdnbzJoUnkxaVpueTh5Y2UzRFNEUFNfSzZpTDdsYVJWdll6WmMzaXhVRndsNkoxRjRBVzl3SWF2VGluRDlkeXQ1NjBuclJlcFgtZjRjTFBPZy1ScV82UTZHVEVYdzNsWmNjcjJYTWVjRVhReUtTcWItZHdEUUdnTzJnNzVXVno0Sm9BcVBLeFNCNDJaSkd1TVFVNmR2UkFkOGxodThQQXhTZXM0emt0TUpRandiZVhXU3NXZ0h3RldITGhvY1RDeVNGa1NKdk8tbV83dl93ZmRaWl9rbFRNdkprYXJLcXkzdC00S2NUdTdBMERJeENpVURfX1ZXdC1ITURnNEdhWEtaM2doZjY3UVd5WjJ5MUhCZkhmamljOWlmbVVOQU5GcW0wSUVFSlVVYWR5RmFSbXRiMU4yMDJnTS1zN1A2RFUtbUNGRmhCNUFiNHlQclV3?oc=5",
-      "pub_date": 1764679800.0,
-      "article_url": "https://www.marketwatch.com/story/bitcoin-still-has-one-thing-going-for-it-that-investors-are-missing-d2988d9b?gaa_at=eafs&gaa_n=AWEtsqejP6aGsl5vxshQ_R4qfwc9IhoX2mF9sbqPbHNm_cPhbFxGGGluiNuS&gaa_ts=692ee521&gaa_sig=Vfs10ODbTMRCnhpaQG7XLP3-GCMouw179vaLou2H-6H2Dd7UZBMZCHd9crwkAtYXkSxlCeyHNj_g-XksqBfH7g%3D%3D",
+      "headline": "Bonds and bitcoin find some footing, stocks eke out gains",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkJxanotb1RQN0RaT0QtOXZVWWd5VDRYZlNFSkxzVmxZMm5rNU5kRno2TElKM0RGQmUyWFlmNG5OTkxVcXhaVV9IOGliM1hsS3RWTHpYbURCWlpwZHAtU1ppLUdRbGQ0Ump5VEsyZ000WXR2NTI5VUluR3FlLUtubThWTQ?oc=5",
+      "pub_date": 1764671192.0,
+      "article_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-12-02/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPZW80ZVItOTl6U2NJVW9wUHpibk1aMDRmTWJ1TUpvOE1zaktuLWdsazlMdF91TUI4eHhkcFhGeWdMOXY4cjZ6NC12V1gtbldncjItMVlWejBvRF9BZk16clZkSm45OWYzNk5ZVEhzNHBUVU95VHdaclZfMUNQYXRKSGcwRXpxbVIya05QSFpwN3RoeWdVTHZjUDdmb1V3MVhOT1AwU0RZYUtPUDJER21xVEJjT0h0dHVlOXFRaF9zQVJyVE03NVFUN1l3al8yRUJjZGtZQlNaR3M2Q1NIWTVTc3ZTLWNfUlU1MDhlYXY1TjhXeFZvdXlXUU1TQ09CU3RvNzhXdjdqTml0R1MzWU9WdDk2ZVA5c3BIek5QT3UzTjd1NFRfZnBQcnBWakVqUVdiQ0hYQWJseGhIa3JXb2xUVHByRUVVRHR1VnpSdzl2djRYODdRUzVPV0pfQVJGZGdjaHRET2ktekRTODNYdGdva3Y2QWlqandGZTQyMEJORDVKdjZQajJoSTdOalBNNTZNWlVMUnl1UzRWeDVBcFJYcks0VkllemtQSklvOHVTa29wVE1GVkJVUQ?oc=5",
-      "pub_date": 1764626940.0,
-      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqd6i1hCHKziQ3NnzFQ8PMGlINUzFk3Hh2zMwl6lCUOgVhtpon7BHKOG&gaa_ts=692ee521&gaa_sig=C4nGyQfF6KBpdOPr6vgmZTjs2JafKQ0kvvS9c4aV5lyBL3rXKikM9uwdBjfNtV-DZqQSlPRpKmQMWbFT44GLjw%3D%3D",
+      "headline": "Bond and bitcoin selloff leaves stocks unsteady By Reuters",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVVCZVpVOHpXRktZNElWb1VUbGdFb2NXWmpiakhwR0l5TS1zRzdQTXgwd1hLbUs3WS13VDJ2NmpCeE1HMnVMLXpTNGFBZXZ5M2dsMDhPVnpheGVMbjdtbkRZVUFqeGNBejVzdlNmbWEzdER2ZmxOZjQ3SHpYeElGVG94RDc5R0p3Zk83MWRUX1NDUXVhOXowcnNFSlRjMm5u?oc=5",
+      "pub_date": 1764655875.0,
+      "article_url": "https://www.investing.com/news/economy-news/bond-and-bitcoin-selloff-leaves-stocks-unsteady-4385003",
       "image": null,
       "description": null
     },
     {
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq slide as bitcoin tumbles to kick off December",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXRIdXY5NTBuZk5CMG5XcU9iSWFTWkNBSGljRzdBRmNxdDAzS2x3Sk1lTzU5U0JNUmVYaTR0QmZ5TFRPc3R1WFhkNm9JX215TThZampKd0p2N292Qm1heU94M2VaMHdRcEM5RXNrcE05M1BZTnFGdU1laWZHOVFXcUU3X0JBN2MtQkstQ0lXRkVUZzBTcU03ZjdCcy1qcmFSc21YNjFmN1M5dGd0aTRJdU1MN1NBd25UbmlWb0xkLVoyQ3hlUWpyRUROdXhNZw?oc=5",
-      "pub_date": 1764623005.0,
-      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-december-210035496.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/lvmtNDwzV7lcqAQNJZd0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6f40c5f0-a863-11f0-b3eb-c74a2e7e85d5",
-      "description": "Wall Street's strong late-November rebound looked set to hit a speed bump on the first trading day of December."
+      "headline": "Bond and bitcoin selloff leaves stocks unsteady",
+      "source": "livemint.com",
+      "source_url": "https://www.livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWW5VYXl1bm1qYTBaczNWUzBQbFVmMkZUelZyTDh0M2RjS0MyTTRkanVrNTZ1X0NHaU9vd2VUbVFjYVB4cjlmYU1yLWZBeXhRczFCVDFFM1lKWFlIWTdLa0pGQ3RvaGo2bjVzTVJGdkMwRThGcXJsZW5JS2NSRTRzdldEMzZ6LXBwQWRnY0RPeXI0eGJCZHhoeW5OSFM3UnhLcmxpYVZncXZNWlJiWDVyWlQxaGZHcUst0gG-AUFVX3lxTE9FNHUyR0YwZ2piTmlwUGwxU19MaFpXODU1aGo5RjFicU9qb0ZabjlCaGY3X3k4VjNMcGloV3pSdnoxMmlnY2hWQmFrejdjX3YwTGJ4dXctT0tTRVBGX20wX1RVZ3RRRVBlOU14aVdrRmJQWmgyVmpzNlhmWXR1cy1RemFtMzhzMm5nb3p2Y29FLUZKQWs0SmRTWXFyd20yTWlYeXhlMTY3eFo3a3lmaUpRbGZ6TmU0OXNTczFKeVE?oc=5",
+      "pub_date": 1764641466.0,
+      "article_url": "https://www.livemint.com/market/stock-market-news/bond-and-bitcoin-selloff-leaves-stocks-unsteady-11764641467224.html",
+      "image": "https://www.livemint.com/lm-img/img/2025/12/02/1600x900/logo/Market_-_stocks_1545996587096_1764641469817.jpg",
+      "description": "GLOBAL-MARKETS/:GLOBAL MARKETS-Bond and bitcoin selloff leaves stocks unsteady"
     },
     {
       "headline": "Grayscale predicts new bitcoin highs in 2026, dismisses 4-year cycle view",
@@ -73,38 +103,8 @@
       "article_url": "https://www.theblock.co/post/381028/grayscale-predicts-new-bitcoin-highs",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "$29 Million Worth of Bitcoin Seized in Cryptomixer Takedown",
-      "source": "SecurityWeek",
-      "source_url": "https://www.securityweek.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW4zTlF0am9nNExJWmNKaHExRUZ2bzM5SXhiTnFGOFV4OUNjTmZna3UwMnJYc0tmZWEyRzJkekdqelVxOWpXc3NZc0pNQWpRR1VMTF9EakYwekNiWUptRC1tbE1tUjczaVNDTDJDejh0RTlIZ3Z0TlA2OUljR05XMzFEblBOLU01RVhGNzl2T0hnd9IBlwFBVV95cUxON1I3OGtXLVh1LXRqTXBoT1VtV0c3eTVHVExEOG9CekdGTVNWMVBMZnBsYkdmMV8xY2lBajRhZE9JeC0taFdFTzlSSjVrZWRkMlloNjlhSm1HQk5XU2RyYWxvZDBNYWNYMkRIN1l5dV81VDc0MjJ4OEFnWU9uUm5lTDg5MTAzNjFBRE1SVnFuc0NlOFhKdWkw?oc=5",
-      "pub_date": 1764603455.0,
-      "article_url": "https://www.securityweek.com/29-million-worth-of-bitcoin-seized-in-cryptomixer-takedown/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Shiba Inu vs. Bitcoin: What's the Better Long-Term Play?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX19CM3VNWnhfSjVjd20zd1k3YXhPZHAtTDVlNWd2NVllRmRqc1Z6Nk1ZaUFUYVFUaWJFckNxRjVvRV9nUGVzWXJkVFBMQmM3dDcyQmxfT09tSHh1SnBvUlgyZTFzdUVCaXJ2Nkp6NVRscTNGb2dKMHBsSmdCN1VJRkswU1lsV084QVlJcmx5VG55bTVGcXc?oc=5",
-      "pub_date": 1764667140.0,
-      "article_url": "https://www.fool.com/investing/2025/12/02/shiba-inu-vs-bitcoin-whats-better-long-term-play/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843913%2Fgettyimages-845682188.jpg&w=1200&op=resize",
-      "description": "Bitcoin is in a league of its own."
-    },
-    {
-      "headline": "Elon Musk predicts energy-based Bitcoin to replace money",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb2NYOHg4dlRQcC13cE1hTEJ4TTJDN3N0dWpXZVE1WXNMeGFkSEoyQlNqNTRSNjVCLXJ3MmRFLTFVeXBWYWtrVDB3LXVDZGNlR3NoU0JrUjVWZEozQ3ZadUdacmowV21XdmFfRnNZVXlid084ZUFkMVYycm9WbFNUUFdKSkI4Y0dMVEprU0l6VDN0Zk1TYmN4X3E3TmhGZ3dhTkE?oc=5",
-      "pub_date": 1764615602.0,
-      "article_url": "https://www.thestreet.com/crypto/technology/elon-musk-predicts-energy-based-bitcoin-to-replace-money",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T12:55:18.260676+00:00"
+  "fetched_at": "2025-12-02T13:37:50.725104+00:00"
 }

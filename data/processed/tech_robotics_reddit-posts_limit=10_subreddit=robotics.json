@@ -24,6 +24,28 @@
       "description": "From Tuo Liu on \ud835\udd4f: https://x.com/Robo_Tuo/status/1995314021281771644"
     },
     {
+      "title": "Unity app for robot control??",
+      "author": "Full_Connection_2240",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc5zd0/unity_app_for_robot_control/",
+      "published": 1764674522.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hobby robotics has few apps to build a digital twin for inverse kinematics/simulation of custom robots. As far as I know the best we got is ROS2 which isn't worth the effort for most people who could write custom code in half the time it takes to learn how to install and set up ROS. Would you use unity to build a highly visual/intuitive interface to remotely control your custom bot? Through a serial port that is.."
+    },
+    {
+      "title": "Tying your shoes on a real bimanual mobile robot! ByteDance Seed just drops GR-RL, a new VLA+RL system that manages long-horizon precise dexterous manipulation of deformable objects (paper)",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc8kdi/tying_your_shoes_on_a_real_bimanual_mobile_robot/",
+      "published": 1764682451.0,
+      "thumbnail": "https://external-preview.redd.it/d2dvMjR0amlsczRnMaCiBgwQLnOBGKXTF1DSXq7q_DiQjpxh0SG0ta2h6icx.png?width=640&crop=smart&auto=webp&s=4294f9750a48be1dc1824d642e67aeeb5baded6b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Project page: https://seed.bytedance.com/en/gr_rl ArXiv: https://arxiv.org/abs/2512.01801"
+    },
+    {
       "title": "CV API Library for Robotics (6D Pose \u2192 2D Detection \u2192 Point Clouds). Where do devs usually look for new tools?",
       "author": "Open_Perspective_506",
       "url": "https://www.reddit.com/r/robotics/comments/1pc29pt/cv_api_library_for_robotics_6d_pose_2d_detection/",
@@ -44,17 +66,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey all, As the title says, I love robotics and working close to hardware, but I really dislike heavy algorithm development. I\u2019m comfortable with Python, C++, ROS2, and Linux. What junior-friendly roles could someone like me aim for? Best,"
-    },
-    {
-      "title": "Unity app for robot control??",
-      "author": "Full_Connection_2240",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc5zd0/unity_app_for_robot_control/",
-      "published": 1764674522.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hobby robotics has few apps to build a digital twin for inverse kinematics/simulation of custom robots. As far as I know the best we got is ROS2 which isn't worth the effort for most people who could write custom code in half the time it takes to learn how to install and set up ROS. Would you use unity to build a highly visual/intuitive interface to remotely control your custom bot? Through a serial port that is.."
     },
     {
       "title": "Chinese T800 Full-Size General Humanoid Robot Officially Launched to Disrupt",
@@ -99,18 +110,7 @@
       "site_name": "Open Robotics Discourse",
       "favicon": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/4/4/4487d2db196c8ca556e8bfac980ed3850ba5cbd5_2_180x180.png",
       "description": "ROSCon 2025 Recordings Now Available   Hi Everyone,  Recordings from ROSCon 2025 are now available on our Vimeo account the ROSCon website, in the ROS Documentation, and in the list below. We\u2019re still waiting on talk slides, but we\u2019ll get those up just as soon as we can.  Big thanks to AMD for making our ROSCon 2025 live stream and video archive possible.  For your convenience here is a full list of available ROSCon 2025 talks and their presenters:   Opening Remarks & Guest of Honor \u2013 Geoff Bigg..."
-    },
-    {
-      "title": "fully autonomous robot with object following using a prompt",
-      "author": "HudZah",
-      "url": "https://www.reddit.com/r/robotics/comments/1payudz/fully_autonomous_robot_with_object_following/",
-      "published": 1764550489.0,
-      "thumbnail": "https://external-preview.redd.it/MnkwcjMwNGpxaDRnMYQEronzxsk_pYpGYWAabTzuSsUm-gaOUeRMam4dibU2.png?width=640&crop=smart&auto=webp&s=c141644e48b0149733cbffb487bf2f75ec2e58ac",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-12-02T12:54:57.973865+00:00"
+  "fetched_at": "2025-12-02T13:37:24.558885+00:00"
 }

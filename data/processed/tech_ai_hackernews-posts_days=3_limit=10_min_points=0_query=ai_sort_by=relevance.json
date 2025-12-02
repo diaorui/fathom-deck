@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
       "points": 428,
-      "num_comments": 349,
+      "num_comments": 351,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -65,7 +65,7 @@
       "url": "https://red.anthropic.com/2025/smart-contracts/",
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
       "author": "bpierre",
-      "points": 186,
+      "points": 188,
       "num_comments": 107,
       "created_at": "2025-12-01T23:44:51Z",
       "object_id": "46115214",
@@ -79,7 +79,7 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 171,
+      "points": 173,
       "num_comments": 243,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
@@ -93,7 +93,7 @@
       "url": "https://arxiv.org/abs/2507.22900",
       "hn_url": "https://news.ycombinator.com/item?id=46089546",
       "author": "victorbuilds",
-      "points": 97,
+      "points": 98,
       "num_comments": 123,
       "created_at": "2025-11-29T18:14:21Z",
       "object_id": "46089546",
@@ -101,6 +101,20 @@
       "description": "The arrival of AI coding assistants in educational settings presents a paradigm shift, introducing a \"new kid in the classroom\" for both students and instructors. Thus, understanding the perceptions of these key actors about this new dynamic is critical. This exploratory study contributes to this area by investigating how these tools are shaping the experiences of novice programmers in an introductory programming course. Through a two-part exam, we investigated student perceptions by first providing access to AI support for a programming task and then requiring an extension of the solution without it. We collected Likert-scale and open-ended responses from 20 students to understand their perceptions on the challenges they faced. Our findings reveal that students perceived AI tools as helpful for grasping code concepts and boosting their confidence during the initial development phase. However, a noticeable difficulty emerged when students were asked to work unaided, pointing to potential overreliance and gaps in foundational knowledge transfer. These insights highlight a critical need for new pedagogical approaches that integrate AI effectively while effectively enhancing core programming skills, rather than impersonating them.",
       "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
       "site_name": "arXiv.org"
+    },
+    {
+      "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
+      "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
+      "hn_url": "https://news.ycombinator.com/item?id=46118722",
+      "author": "dijksterhuis",
+      "points": 86,
+      "num_comments": 42,
+      "created_at": "2025-12-02T07:46:47Z",
+      "object_id": "46118722",
+      "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
+      "description": "In 1978, Brian Eno released Ambient 1: Music for Airports, a landmark album in ambient and electronic music. Although it wasn't the first ambient",
+      "favicon": "https://reverbmachine.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "site_name": "Reverb Machine"
     },
     {
       "title": "Tell HN: It's now impossible to disable all AI features in Firefox 145 (latest)",
@@ -117,20 +131,6 @@
       "site_name": null
     },
     {
-      "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
-      "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
-      "hn_url": "https://news.ycombinator.com/item?id=46118722",
-      "author": "dijksterhuis",
-      "points": 67,
-      "num_comments": 39,
-      "created_at": "2025-12-02T07:46:47Z",
-      "object_id": "46118722",
-      "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
-      "description": "In 1978, Brian Eno released Ambient 1: Music for Airports, a landmark album in ambient and electronic music. Although it wasn't the first ambient",
-      "favicon": "https://reverbmachine.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
-      "site_name": "Reverb Machine"
-    },
-    {
       "title": "Accenture dubs 800k staff 'reinventors' amid shift to AI",
       "url": "https://www.theguardian.com/business/2025/dec/01/accenture-rebrands-staff-reinventors-ai-artificial-intelligence",
       "hn_url": "https://news.ycombinator.com/item?id=46105825",
@@ -145,7 +145,7 @@
       "site_name": "the Guardian"
     }
   ],
-  "total_hits": 410,
+  "total_hits": 416,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T12:54:53.835348+00:00"
+  "fetched_at": "2025-12-02T13:37:20.486185+00:00"
 }

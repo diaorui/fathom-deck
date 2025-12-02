@@ -46,6 +46,17 @@
       "description": "A shadow market for AI training and data labeling accounts has emerged, with scammers selling Outlier, Mercor, and Surge AI accounts online."
     },
     {
+      "title": "Apple AI chief steps down amid Siri struggles",
+      "author": "theverge",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbrgat/apple_ai_chief_steps_down_amid_siri_struggles/",
+      "published": 1764629250.0,
+      "thumbnail": "https://external-preview.redd.it/3Sx4PjNLpold2Htxn7Vs5vMzEeIeGiK2vZYPQBn7G0Y.jpeg?width=640&crop=smart&auto=webp&s=84151d7a76d53abad92d8177b4be4562e51be1ea",
+      "external_url": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri",
+      "site_name": "The Verge",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "description": "Apple has a new AI chief."
+    },
+    {
       "title": "Why Build a Giant Model When You Can Orchestrate Experts?",
       "author": "MarketingNetMind",
       "url": "https://www.reddit.com/r/artificial/comments/1pbd09r/why_build_a_giant_model_when_you_can_orchestrate/",
@@ -99,18 +110,7 @@
       "site_name": "nchafni.substack.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Perplexity permabanned me in their official sub for citing their own documentation to expose \"Deep Research\" false advertising and massive downgrade.",
-      "author": "somnolentjam90",
-      "url": "https://www.reddit.com/r/artificial/comments/1pawnrw/perplexity_permabanned_me_in_their_official_sub/",
-      "published": 1764544707.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am writing this as a warning to anyone paying for Perplexity Pro expecting the advertised \"Deep Research\" capabilities. TL;DR: I proved, using Perplexity's own active documentation and official launch blog, that their \"Deep Research\" agent is severely throttled and not meeting its contractual specifications. The community validated my findings (my post reached 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page). Instead of addressing the issue, the moderators permanently banned me and removed the thread to silence the discussion. (EDIT: All references to the official sub, including the link to the original post, have been removed from this text to comply with Anti-Brigading Reddit Rules.) (EDIT 2: I have pinned the link to the original deleted thread on my user profile so you can verify the full context yourself.) The Full Story: I have been a Pro subscriber specifically for the \"Deep Research\" feature, which is sold as an \"Autonomous Agent\" that \"reads hundreds of sources\" and takes \"4-5 minutes\" to reason through complex tasks and deliver a comprehensive report. To prove that these are the official specs, I am providing both the current live links and archived snapshots from the Wayback Machine (to prove these have been the consistent standard for months and to prevent potential stealth edits). Official Help Center Documentation: [Current Live Link] | [Wayback Machine Snapshot (Sept 8, 2025)] Official Launch Blog: [Current Live Link] | [Wayback Machine Snapshot (Aug 2, 2025)] (Note: I attempted to capture fresh snapshots of the pages today to confirm their current state, but the Wayback Machine is returning errors/incomplete rendering for the new captures. The provided snapshots from Aug/Sept are the most recent stable versions and confirm these specs have been the published standard for months.) Recently (some months), the service degraded massively. My \"Deep Research\" queries were finishing in 30 seconds with only 10-15 sources, essentially behaving like a standard search wrapper but sold at a premium. I posted a detailed analysis on their official subreddit. I didn't attack anyone; I simply compared their Official Help Center Documentation and Launch Blog against the actual Product Output: Advertised Spec: \"Reads hundreds of sources\" / \"Takes 4-5 minutes\". Actual Reality: Reads ~10 sources / Takes ~30 seconds. The community rallied behind my post. 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page. It became a hub for other users confirming the same throttling. It was a legitimate customer complaint backed by data. Today, I received a Permanent Ban and the thread got deleted. No warning. No explanation of which rule I broke. Just a permanent ban for the 'offense' of holding them accountable to their own written promises. The Takeaway: This confirms that Perplexity is likely throttling compute on their premium features to save costs and is using censorship to hide it. If you rely on Perplexity for your workflow, be careful. They will degrade the product you rely on without warning, and the moment you provide evidence of the decline, they will silence you rather than fix it."
     }
   ],
-  "fetched_at": "2025-12-01T23:28:11.015463+00:00"
+  "fetched_at": "2025-12-02T01:21:42.766224+00:00"
 }

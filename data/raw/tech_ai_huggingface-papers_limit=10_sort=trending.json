@@ -54,7 +54,7 @@
       "num_comments": 2,
       "published_at": "2023-06-14T11:18:48.000Z",
       "github_repo": "https://github.com/nlpxucan/WizardLM",
-      "github_stars": 9468,
+      "github_stars": 9469,
       "project_page": null
     },
     {
@@ -149,7 +149,7 @@
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
-      "github_stars": 4316,
+      "github_stars": 4339,
       "project_page": "https://ai.meta.com/sam3d/"
     },
     {
@@ -172,26 +172,26 @@
       "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
     },
     {
-      "id": "2511.19861",
-      "title": "GigaWorld-0: World Models as Data Engine to Empower Embodied AI",
-      "authors": "GigaWorld Team, Angen Ye, Boyuan Wang et al. (25 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "World models are emerging as a foundational paradigm for scalable, data-efficient embodied AI. In this work, we present GigaWorld-0, a unified world model framework designed explicitly as a data engine for Vision-Language-Action (VLA) learning. GigaWorld-0 integrates two synergistic components: GigaWorld-0-Video, which leverages large-scale video generation to produce diverse, texture-rich, and temporally coherent embodied sequences under fine-grained control of appearance, camera viewpoint, and action semantics; and GigaWorld-0-3D, which combines 3D generative modeling, 3D Gaussian Splatting reconstruction, physically differentiable system identification, and executable motion planning to ensure geometric consistency and physical realism. Their joint optimization enables the scalable synthesis of embodied interaction data that is visually compelling, spatially coherent, physically plausible, and instruction-aligned. Training at scale is made feasible through our efficient GigaTrain framework, which exploits FP8-precision and sparse attention to drastically reduce memory and compute requirements. We conduct comprehensive evaluations showing that GigaWorld-0 generates high-quality, diverse, and controllable data across multiple dimensions. Critically, VLA model (e.g., GigaBrain-0) trained on GigaWorld-0-generated data achieve strong real-world performance, significantly improving generalization and task success on physical robots without any real-world interaction during training.",
-      "ai_summary": "GigaWorld-0 is a unified world model framework that integrates video generation and 3D modeling to produce high-quality, diverse, and physically plausible VLA data, enabling strong real-world performance in embodied AI without real-world training.",
-      "hf_url": "https://huggingface.co/papers/2511.19861",
-      "arxiv_url": "https://arxiv.org/abs/2511.19861",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19861.png",
-      "upvotes": 29,
-      "num_comments": 6,
-      "published_at": "2025-11-24T22:00:42.000Z",
-      "github_repo": "https://github.com/open-gigaai/giga-world-0",
-      "github_stars": 353,
-      "project_page": "https://gigaworld0.github.io/"
+      "id": "2511.20462",
+      "title": "STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flow",
+      "authors": "Jiatao Gu, Ying Shen, Tianrong Chen et al. (9 authors)",
+      "organization_name": "apple",
+      "organization_fullname": "Apple",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1653390727490-5dd96eb166059660ed1ee413.jpeg",
+      "summary": "Normalizing flows (NFs) are end-to-end likelihood-based generative models for continuous data, and have recently regained attention with encouraging progress on image generation. Yet in the video generation domain, where spatiotemporal complexity and computational cost are substantially higher, state-of-the-art systems almost exclusively rely on diffusion-based models. In this work, we revisit this design space by presenting STARFlow-V, a normalizing flow-based video generator with substantial benefits such as end-to-end learning, robust causal prediction, and native likelihood estimation. Building upon the recently proposed STARFlow, STARFlow-V operates in the spatiotemporal latent space with a global-local architecture which restricts causal dependencies to a global latent space while preserving rich local within-frame interactions. This eases error accumulation over time, a common pitfall of standard autoregressive diffusion model generation. Additionally, we propose flow-score matching, which equips the model with a light-weight causal denoiser to improve the video generation consistency in an autoregressive fashion. To improve the sampling efficiency, STARFlow-V employs a video-aware Jacobi iteration scheme that recasts inner updates as parallelizable iterations without breaking causality. Thanks to the invertible structure, the same model can natively support text-to-video, image-to-video as well as video-to-video generation tasks. Empirically, STARFlow-V achieves strong visual fidelity and temporal consistency with practical sampling throughput relative to diffusion-based baselines. These results present the first evidence, to our knowledge, that NFs are capable of high-quality autoregressive video generation, establishing them as a promising research direction for building world models. Code and generated samples are available at https://github.com/apple/ml-starflow.",
+      "ai_summary": "STARFlow-V, a normalizing flow-based video generator, offers end-to-end learning, robust causal prediction, and high-quality video generation with practical sampling efficiency.",
+      "hf_url": "https://huggingface.co/papers/2511.20462",
+      "arxiv_url": "https://arxiv.org/abs/2511.20462",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.20462.png",
+      "upvotes": 25,
+      "num_comments": 2,
+      "published_at": "2025-11-25T11:27:58.000Z",
+      "github_repo": "https://github.com/apple/ml-starflow",
+      "github_stars": 248,
+      "project_page": "https://starflow-v.github.io"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-02T19:34:42.165983+00:00"
+  "fetched_at": "2025-12-02T20:48:45.100733+00:00"
 }

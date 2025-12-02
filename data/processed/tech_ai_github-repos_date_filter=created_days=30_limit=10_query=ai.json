@@ -8,7 +8,7 @@
       "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
       "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
       "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
-      "stars": 4290,
+      "stars": 4312,
       "stars_display": "4.3k",
       "forks": 328,
       "forks_display": "328",
@@ -127,7 +127,7 @@
         "ai",
         "workflows"
       ],
-      "updated_at": "2025-12-02T18:47:24Z"
+      "updated_at": "2025-12-02T20:18:48Z"
     },
     {
       "full_name": "Ryandonofrio3/osgrep",
@@ -158,8 +158,8 @@
       "description": "\ud83d\udd02 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
       "url": "https://github.com/AnandChowdhary/continuous-claude",
       "preview_image": "https://opengraph.githubassets.com/f1dc250575e19a1dc20562052f20b234d495738cea1ea04f18fb43851f3999c5/AnandChowdhary/continuous-claude",
-      "stars": 746,
-      "stars_display": "746",
+      "stars": 747,
+      "stars_display": "747",
       "forks": 53,
       "forks_display": "53",
       "language": "Shell",
@@ -199,6 +199,6 @@
   "search_query": "ai created:>2025-11-02",
   "days": 30,
   "limit": 10,
-  "total_count": 221685,
-  "fetched_at": "2025-12-02T19:34:42.409913+00:00"
+  "total_count": 221948,
+  "fetched_at": "2025-12-02T20:48:45.472147+00:00"
 }

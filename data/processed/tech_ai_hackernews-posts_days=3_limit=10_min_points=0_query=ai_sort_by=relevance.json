@@ -23,8 +23,8 @@
       "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
       "hn_url": "https://news.ycombinator.com/item?id=46121870",
       "author": "goplayoutside",
-      "points": 291,
-      "num_comments": 360,
+      "points": 322,
+      "num_comments": 399,
       "created_at": "2025-12-02T15:00:16Z",
       "object_id": "46121870",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -79,7 +79,7 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 191,
+      "points": 193,
       "num_comments": 271,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
@@ -93,7 +93,7 @@
       "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
       "hn_url": "https://news.ycombinator.com/item?id=46118722",
       "author": "dijksterhuis",
-      "points": 179,
+      "points": 181,
       "num_comments": 89,
       "created_at": "2025-12-02T07:46:47Z",
       "object_id": "46118722",
@@ -107,8 +107,8 @@
       "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
       "hn_url": "https://news.ycombinator.com/item?id=46124324",
       "author": "nabla9",
-      "points": 115,
-      "num_comments": 158,
+      "points": 117,
+      "num_comments": 162,
       "created_at": "2025-12-02T18:10:23Z",
       "object_id": "46124324",
       "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
@@ -135,7 +135,7 @@
       "url": "https://www.currentaffairs.org/news/ai-is-destroying-the-university-and-learning-itself",
       "hn_url": "https://news.ycombinator.com/item?id=46121833",
       "author": "speckx",
-      "points": 58,
+      "points": 59,
       "num_comments": 44,
       "created_at": "2025-12-02T14:57:44Z",
       "object_id": "46121833",
@@ -145,7 +145,7 @@
       "site_name": "currentaffairs.org"
     }
   ],
-  "total_hits": 484,
+  "total_hits": 486,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T22:14:33.978095+00:00"
+  "fetched_at": "2025-12-02T22:47:03.250577+00:00"
 }

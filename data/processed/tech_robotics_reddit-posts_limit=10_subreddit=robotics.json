@@ -24,17 +24,6 @@
       "description": "My portfolio site which includes my resumes, in German and English: http://ahmadhassanien.de/ Trying to stay positive. I am a recent masters graduate of Neurorobotics in Germany. In my master thesis I implemented a bio inspired method for visual navigation and compared the results with V-SLAM. In my bachelor thesis I worked on a particle filter for motion prediction with a micro radar sensor. I also did another project where I wrote an MPC for a quadrotor and compared it to PPO. I just graduate this year. Everything I tried so far: Included all my recent projects in my CV, including links to my master thesis, my bachelor thesis. I know no one will read all of it but at least the recruiter could flip through it and see that I can do genuine work Learned the local language over 5 years (German) and got fluent at it (C1) Tailoring my resume to each role I applied to, highlighting the skills in my resume that match the role Writing detailed cover letters highlighting the skills I had that were most matching with the role Connecting with employees at robotics companies in Germany and asking them for advice. I got positive remarks here and people were generally kind, but I was still getting rejected when I applied. Reading on which robotics companies in Germany were getting funding and applying there. My thinking was, if they got fresh capital, they would be more willing to hire new people. Applied to internships and junior roles that specifically don't mention required years of experience. When I couldn't find that I still applied to roles that required experience, at least someone would see my application. When I couldn't find that I applied to the \"speculative applications\". I just got another rejection from an entry role working on quadrotors. I specifically highlighted my MPC project in the application, and everything about the job description fit. It felt dehumanizing too, because I spent an hour writing that cover letter and tailoring my resume for the role just to get a one sentence rejection with no explanation. Am I in the wrong place?"
     },
     {
-      "title": "Industrial Robots vs Cobots in High Volume Production - Are Cobots even relevant here?",
-      "author": "whynotabtn",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcdcul/industrial_robots_vs_cobots_in_high_volume/",
-      "published": 1764693828.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?"
-    },
-    {
       "title": "New video, Optimus running. Looking way smoother now!",
       "author": "AlbatrossHummingbird",
       "url": "https://www.reddit.com/r/robotics/comments/1pcm1tm/new_video_optimus_running_looking_way_smoother_now/",
@@ -44,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Not sure if that's version 2 or 3, maybe someone can elaborate in the comments."
+    },
+    {
+      "title": "Industrial Robots vs Cobots in High Volume Production - Are Cobots even relevant here?",
+      "author": "whynotabtn",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcdcul/industrial_robots_vs_cobots_in_high_volume/",
+      "published": 1764693828.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?"
     },
     {
       "title": "This Giving Tuesday support the OSRF Build Farm (the infrastructure building your ROS binary packages) by becoming a Build Farm Backer [details inside]",
@@ -90,17 +90,6 @@
       "description": "Hi everyone! I\u2019m part of FTC Team 9045 Greenhill Hornet Robotics. We\u2019ve been working on an AI tool that started as a helper for FTC teams, and we're trying to grow it into something useful for many educational robotics environments that use Java, computer vision, or real-time control loops. We\u2019re launching a beta version and would love feedback from yall! What the AI Workbench Does The tool functions as an AI programming assistant that can: - Generate or debug Java-based robot code Help set up autonomous routines, motion planning, and state machines - Explain control theory concepts - Build and analyze vision pipelines (AprilTags, object detection, etc.) - Provide structured diffs to improve or extend existing code - Assist new learners with foundational programming questions Although the training corpus is rooted in FTC materials (SDK, Road Runner, Limelight docs, etc), the tool behaves like a general robotics coding assistant capable of helping with: - PID control - Localization - Kinematics - Sensor fusion - Finite state machines - Vision processing - System architecture This is an early release, and we\u2019d genuinely appreciate any feedback yall might have. Everything runs server-side, so no user API keys are needed, and nothing sensitive is stored in the browser. Try it here: https://ai-ftc.vercel.app/workbench We\u2019re excited to push this further- and any feedback or critiques are hugely appreciated!"
     },
     {
-      "title": "How do you guys handle crash forensics on AMRs in \"WiFi Dead Zones\"? Is rosbag_snapshot enough",
-      "author": "kbbhatia",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcin67/how_do_you_guys_handle_crash_forensics_on_amrs_in/",
-      "published": 1764705344.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi everyone, I manage a fleet of robots in a warehouse environment where the network is terrible (lots of steel, random dead zones). We keep hitting the same issue: The robot gets into a bad state, the navigation stack fails, or it hits an E-stop. Because it\u2019s in a dead zone, we can't stream the logs. By the time we physically get to the robot, we\u2019ve often lost the context of why it failed. I\u2019m currently prototyping a custom \"Black Box\" crash recorder to solve this, but I wanted to sanity check my approach with the community before I go too deep into the weeds. The concept I\u2019m building: Instead of logging everything to disk (which kills our SD cards) or streaming (which kills bandwidth), I\u2019m building a background agent that: Keeps the last 30-60 seconds of topics in a RAM ring buffer. Monitors the system for specific \"triggers\" (e.g., Nav2 failures, prolonged stagnation, or fatal error logs). Dumps the RAM buffer to an MCAP file only when a crash is detected. Queues the file for upload once the robot eventually finds WiFi. My questions for you: 1. Has anyone else implemented \"Shadow Buffering\" to avoid OOM kills on Jetsons? Is it overkill? False Positives: For those who have tried automated crash detection\u2014is it better to trigger on specific error codes, or just waiting for the robot to stop moving for $X$ seconds? I want to avoid filling the disk with \"fake\" crashes. The Viewer: We are currently just looking at raw MCAP files. Is there a better lightweight way to visualize these \"short\" crash clips without building a full custom dashboard? Any need of this type of product in market? Thanks!!"
-    },
-    {
       "title": "Chinese T800 Full-Size General Humanoid Robot Officially Launched to Disrupt",
       "author": "DifferentAd7239",
       "url": "https://www.reddit.com/r/robotics/comments/1pc3oxo/chinese_t800_fullsize_general_humanoid_robot/",
@@ -110,7 +99,18 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/76a077af/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
+      "title": "How do you guys handle crash forensics on AMRs in \"WiFi Dead Zones\"? Is rosbag_snapshot enough",
+      "author": "kbbhatia",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcin67/how_do_you_guys_handle_crash_forensics_on_amrs_in/",
+      "published": 1764705344.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi everyone, I manage a fleet of robots in a warehouse environment where the network is terrible (lots of steel, random dead zones). We keep hitting the same issue: The robot gets into a bad state, the navigation stack fails, or it hits an E-stop. Because it\u2019s in a dead zone, we can't stream the logs. By the time we physically get to the robot, we\u2019ve often lost the context of why it failed. I\u2019m currently prototyping a custom \"Black Box\" crash recorder to solve this, but I wanted to sanity check my approach with the community before I go too deep into the weeds. The concept I\u2019m building: Instead of logging everything to disk (which kills our SD cards) or streaming (which kills bandwidth), I\u2019m building a background agent that: Keeps the last 30-60 seconds of topics in a RAM ring buffer. Monitors the system for specific \"triggers\" (e.g., Nav2 failures, prolonged stagnation, or fatal error logs). Dumps the RAM buffer to an MCAP file only when a crash is detected. Queues the file for upload once the robot eventually finds WiFi. My questions for you: 1. Has anyone else implemented \"Shadow Buffering\" to avoid OOM kills on Jetsons? Is it overkill? False Positives: For those who have tried automated crash detection\u2014is it better to trigger on specific error codes, or just waiting for the robot to stop moving for $X$ seconds? I want to avoid filling the disk with \"fake\" crashes. The Viewer: We are currently just looking at raw MCAP files. Is there a better lightweight way to visualize these \"short\" crash clips without building a full custom dashboard? Any need of this type of product in market? Thanks!!"
     }
   ],
-  "fetched_at": "2025-12-02T22:14:37.953551+00:00"
+  "fetched_at": "2025-12-02T22:47:07.319008+00:00"
 }

@@ -73,7 +73,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 5006,
+      "github_stars": 5057,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65610,
+      "github_stars": 65653,
       "project_page": null
     },
     {
@@ -153,25 +153,6 @@
       "project_page": "https://ai.meta.com/sam3d/"
     },
     {
-      "id": "2511.18423",
-      "title": "General Agentic Memory Via Deep Research",
-      "authors": "B. Y. Yan, Chaofan Li, Hongjin Qian et al. (5 authors)",
-      "organization_name": "BAAI",
-      "organization_fullname": "Beijing Academy of Artificial Intelligence",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1664511063789-632c234f42c386ebd2710434.png",
-      "summary": "Memory is critical for AI agents, yet the widely-adopted static memory, aiming to create readily available memory in advance, is inevitably subject to severe information loss. To address this limitation, we propose a novel framework called general agentic memory (GAM). GAM follows the principle of \"just-in time (JIT) compilation\" where it focuses on creating optimized contexts for its client at runtime while keeping only simple but useful memory during the offline stage. To this end, GAM employs a duo-design with the following components. 1) Memorizer, which highlights key historical information using a lightweight memory, while maintaining complete historical information within a universal page-store. 2) Researcher, which retrieves and integrates useful information from the page-store for its online request guided by the pre-constructed memory. This design allows GAM to effectively leverage the agentic capabilities and test-time scalability of frontier large language models (LLMs), while also facilitating end-to-end performance optimization through reinforcement learning. In our experimental study, we demonstrate that GAM achieves substantial improvement on various memory-grounded task completion scenarios against existing memory systems.",
-      "ai_summary": "GAM, a novel framework that employs JIT compilation principles, improves memory efficiency and task completion by leveraging a lightweight memorizer and researcher in conjunction with reinforcement learning.",
-      "hf_url": "https://huggingface.co/papers/2511.18423",
-      "arxiv_url": "https://arxiv.org/abs/2511.18423",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
-      "upvotes": 150,
-      "num_comments": 2,
-      "published_at": "2025-11-23T07:29:33.000Z",
-      "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
-      "github_stars": 640,
-      "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
-    },
-    {
       "id": "2511.19575",
       "title": "HunyuanOCR Technical Report",
       "authors": "Hunyuan Vision Team, Pengyuan Lyu, Xingyu Wan et al. (26 authors)",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/Tencent-Hunyuan/HunyuanOCR",
       "github_stars": 1017,
       "project_page": null
+    },
+    {
+      "id": "2511.18423",
+      "title": "General Agentic Memory Via Deep Research",
+      "authors": "B. Y. Yan, Chaofan Li, Hongjin Qian et al. (5 authors)",
+      "organization_name": "BAAI",
+      "organization_fullname": "Beijing Academy of Artificial Intelligence",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1664511063789-632c234f42c386ebd2710434.png",
+      "summary": "Memory is critical for AI agents, yet the widely-adopted static memory, aiming to create readily available memory in advance, is inevitably subject to severe information loss. To address this limitation, we propose a novel framework called general agentic memory (GAM). GAM follows the principle of \"just-in time (JIT) compilation\" where it focuses on creating optimized contexts for its client at runtime while keeping only simple but useful memory during the offline stage. To this end, GAM employs a duo-design with the following components. 1) Memorizer, which highlights key historical information using a lightweight memory, while maintaining complete historical information within a universal page-store. 2) Researcher, which retrieves and integrates useful information from the page-store for its online request guided by the pre-constructed memory. This design allows GAM to effectively leverage the agentic capabilities and test-time scalability of frontier large language models (LLMs), while also facilitating end-to-end performance optimization through reinforcement learning. In our experimental study, we demonstrate that GAM achieves substantial improvement on various memory-grounded task completion scenarios against existing memory systems.",
+      "ai_summary": "GAM, a novel framework that employs JIT compilation principles, improves memory efficiency and task completion by leveraging a lightweight memorizer and researcher in conjunction with reinforcement learning.",
+      "hf_url": "https://huggingface.co/papers/2511.18423",
+      "arxiv_url": "https://arxiv.org/abs/2511.18423",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
+      "upvotes": 150,
+      "num_comments": 2,
+      "published_at": "2025-11-23T07:29:33.000Z",
+      "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
+      "github_stars": 648,
+      "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-03T07:46:03.764458+00:00"
+  "fetched_at": "2025-12-03T08:58:53.491168+00:00"
 }

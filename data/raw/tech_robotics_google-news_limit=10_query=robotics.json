@@ -25,6 +25,46 @@
       "description": "Chinese officials are warning that the country's humanoid robotics industry could be forming a massive bubble."
     },
     {
+      "headline": "Humanoid robots will take over factory jobs within 5 years, Xiaomi CEO says",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1lWbWxGazduU0NwcUZucmN0MFN4YW9rZHNMSlpLOElYd2xHcjV2bkl6bkV0NUxxRUh0NGdKZTlCeTVRVVkyY3RfUVV6MlNoSnpWalotZnNSVFdBZVhhcG8ySzdYOTQwQnFuTzhiOTh5VG1uTWhySHBPbzB5cUdwWTI2RG1tYTVWcFJYZExxNmJQV0U?oc=5",
+      "pub_date": 1764581760.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-set-to-run-smart-factories",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/IE-Photo-59.jpg",
+      "description": "Xiaomi CEO Lei Jun says artificial intelligence will overhaul traditional industries within five years as humanoid robots move into core factory roles."
+    },
+    {
+      "headline": "Renesas, Sumitomo Heavy join Japan team building humanoid robots",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzgwaHJ1a2NJdXRJRl9OeEZjaVp4M0RCMko5dUhUMTNTZlViam5VNGYyME0zTlliZlJ5NkwyOW5CUDVweWc4MUxscm9GeHpWQWdyZDN2ekhjdmFpbDFzajF0b1pUMjdDSmhGVU91c2E5amZQMEdEbFBfUkZDcEJtcWttclI3V01CMHNMRldQOWdRRTg4RVhFbExsb19UU1poZC02TV91aWYzemc?oc=5",
+      "pub_date": 1764707940.0,
+      "article_url": "https://asia.nikkei.com/business/technology/renesas-sumitomo-heavy-join-japan-team-building-humanoid-robots",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F6%2F1%2F11771686-1-eng-GB%2Fc61d4d73bf29-2025-02-28T010558Z_504169885_RC21WCA0MWCD_RTRMADP_3_ASIA-POPULATION-JAPAN-ROBOTS.JPG?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+      "description": "Project targets mass production by 2027 as Japan lags China and US"
+    },
+    {
+      "headline": "White House to laser in on robotics in '26; see top-rated AI & robotics ETFs (ARKQ:BATS)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUZKUV9DZVNucVpMbW1TN2FtbUpfWXFrZmljV3NBQnI2bE8xbnU4VGhLSVNyYlFISDNpMGpmdm82Mlp6TENmbEZfenp6TUN1bFZCUEU5WmdHTjJqc1hleDZwTk8yRlRqQ0QzcE83Vnp3VGFCYm1ncDU3NG5iSWU2a1NBUDR5OGFYZll5RGJWYjZibnBCbmFrdG1mX2FTVWFLX1poNFltUU83ZTg?oc=5",
+      "pub_date": 1764772626.0,
+      "article_url": "https://seekingalpha.com/news/4528078-white-house-to-laser-in-on-robotics-in-26-see-top-rated-robotics-etfs",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2192265344/image_2192265344.jpg?io=getty-c-w630",
+      "description": "The Trump administration is intensifying its focus on robotics as a part of its broader initiative to accelerate the development of artificial intelligence, Polito reported Wednesday."
+    },
+    {
+      "headline": "After AI push, Trump administration is now looking to robots",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODlWRm96ekx1MlBkMnZOcE5zMm9ZRkZjVTI1YlNiNm9wS1BNTGJNMDV0RmphQlhFeF9wdEx5UWI1RjRzZGp5UlRZNTloa3RGd241ZTlkRXpYR0hYdXRmYzJBdXROSk5BNUdSeFdhaUhFcmdOOUpuVHBVdjh5a1FONkpGbV96czczRmc?oc=5",
+      "pub_date": 1764775036.0,
+      "article_url": "https://www.politico.com/news/2025/12/03/trump-administration-ai-robotics-00674204",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Tesla stock rises after Trump administration signals robotics push",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
@@ -63,48 +103,8 @@
       "article_url": "https://www.therobotreport.com/top-10-robotics-developments-november-2025/",
       "image": "https://www.therobotreport.com/wp-content/uploads/2025/12/trr-nov2025-top10-featured.jpg",
       "description": "November 2025 started with the Robotics Startup Radar and continued with news from important players in the robotics industry."
-    },
-    {
-      "headline": "Micropolis AI Robotics and QSS Robotics Sign Letter of Intent to Procure 500 Robots and Expand Autonomous Robotics Technologies in the Kingdom of Saudi Arabia",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeE1HTEZyTVVPR2NkRlJHTGVZbGFJYlI5a3pSN0FFSnJRWDhWQWR0TXVuZHBhZWV1ODJZTy1nZGhOQmtpNnRVVENKdHg1TGhyci1xZi0tR3FnOEptdGh3U3V6SkJZY0lUckdlcEI1YmlmQ0JNNmlWTS1wWXUtdmRBVi04OGVacGxy?oc=5",
-      "pub_date": 1764766800.0,
-      "article_url": "https://finance.yahoo.com/news/micropolis-ai-robotics-qss-robotics-130000325.html",
-      "image": "https://media.zenfs.com/en/globenewswire.com/a01963568f3824d7c0bf94ef186f3ff3",
-      "description": "DUBAI, United Arab Emirates, Dec. 03, 2025 (GLOBE NEWSWIRE) -- Micropolis AI Robotics (\u201cMicropolis\u201d or the \u201cCompany\u201d) (NYSE: MCRP), a leading UAE-based developer of autonomous mobile robots and AI-driven security solutions, announced today that it has signed a non-binding Letter of Intent (\u201cLOI\u201d) with QSS Robotics, a prominent Saudi Arabian technology company, to establish a strategic collaboration for the distribution, localization, and deployment of Micropolis technologies across the Kingdom o"
-    },
-    {
-      "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas War",
-      "source": "The Jerusalem Post",
-      "source_url": "https://www.jpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lRUctTXUtQThwTmM5b3dPU0dMQU1sdmM0NjFPY0ZMY3I4LTV3eHRTeTVmT1J0ZGtRX29QVE1GdU13cTk0RlcxY1V5SFZwakl5ZlQ4cE56TzNyczhxRDFlbEpmMA?oc=5",
-      "pub_date": 1764620730.0,
-      "article_url": "https://www.jpost.com/defense-and-tech/article-876822",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/478690",
-      "description": "The robotic systems have gotten much more diverse and standardized, being deployed in much higher volumes to assist with exploring Hamas tunnels, to save risking soldiers' lives from that process."
-    },
-    {
-      "headline": "Doubts on China\u2019s robotics strength a result of lacking \u2018understanding on manufacturing capabilities,\u2019 Chinese firm responds to US peer\u2019s fake video claim",
-      "source": "Global Times",
-      "source_url": "https://www.globaltimes.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MaFE1UTdJdlJWV3ZkS1RqcUwzZ3cyZ01vNU9Sd0xadmd5dEdxU2laTFZYNFhEb0hpcGgyOFNfa3V2R0lSX25lNVNmZkJhNmpIRnZiMUFmV0RmRy1MTXJsRHRn?oc=5",
-      "pub_date": 1764497820.0,
-      "article_url": "https://www.globaltimes.cn/page/202511/1349396.shtml",
-      "image": "https://www.globaltimes.cn/Portals/0/attachment/2025/2025-11-28/f9f2e23a-4fd7-459b-acb2-afe3beee75b8.jpeg",
-      "description": "A Chinese robotics company recently released a video depicting its production and delivery of full-size industrial humanoid robots, the video, with a futurist view similar to scenes displayed in sci-fi movie"
-    },
-    {
-      "headline": "Chinese schools offer \u2018embodied intelligence\u2019 courses to aid robotics industry",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmRRM2tUVkFhYjBLbnAzUWdtbGREYlZ3RkdWTElBR3dXeEVldmFJeDJTU0pHTGNMMmJiTlFmcjBxNVJ6OWNmaDNtdXVpUENvU0dtaHF3UGQ4X3VmVnRqY3FOQ1dUWlNUb0djVi1tOTFfOGt2ZTZBd2Z3S1JGeDk1UXhfdzZzWWo4TE9pSzAzaGZHelFNcE1JaXFCWjJfd2NuR1BfMFgybU9FU01FZ0VfRnpQYlFJM0xoOG9xZ29CeC03LWllbnVOelI1d9IBywFBVV95cUxQS0YwMElyQ2ZiazhRX3FWa0lWUlNZM3pXamxVaWhUZDZzR1hMYnhxOEc4aGg3N0hfbkt6VW1XY09va1l4VWtJeXRvZ2R6WUo5R1p2R1dnSHQzU3BjaGs2VG5xS05PeEcyUENQUDhLV1JsZjBja3JORVRhT2szbTRQN2xBRnczeWpDbGMtcGYzVTVKSGlBeXpYLU9ybkJxWG5kY01QSndJZFRXanlmekdOVXRfdnJnRHdTTlg1Wk9IODlOUzNiTVk5N1F0VQ?oc=5",
-      "pub_date": 1764630012.0,
-      "article_url": "https://www.scmp.com/tech/policy/article/3334779/top-chinese-universities-offer-courses-embodied-intelligence-aid-robotics-industry",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/01/ed068441-092e-4fbf-b4ab-5a8a28b86a20_992ae625.jpg?itok=95UPh6ws&v=1764582667",
-      "description": "Shanghai Jiao Tong University and Zhejiang University are among seven schools that plan to offer \u2018embodied intelligence\u2019 as a new major."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T14:43:14.496224+00:00"
+  "fetched_at": "2025-12-03T15:34:04.942939+00:00"
 }

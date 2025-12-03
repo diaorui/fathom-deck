@@ -19,20 +19,20 @@
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQem5HdVNmWmZRT194Y0VsTkJQLURoU3lTaHVpZWYtWDlYZmpXOUs2d09WeUJCSGZvYy14MmNpN01BS2tPUkt1TW9FeFY1MC1kTFhxTWRrYjA1ZHZTNHd1M0YySUdfNzZoQm9jM1M4R1BTOGxuaVJSSWVPeFFqYndNUFV5Zk9JYk0?oc=5",
-      "pub_date": 1764771331.0,
+      "pub_date": 1764772895.0,
       "article_url": "https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html",
       "image": "https://media.zenfs.com/en/reuters-finance.com/6f18ec98d8371aa28c130bea8170a867",
       "description": "Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many \u200bsales staff missed goals in the fiscal year that \u200cended in June, The Information reported on Wednesday.  It is rare for Microsoft to \u200clower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about \u200breal-world adoption of AI as an MIT study from earlier \u200cthis year had found that only about 5% of AI projects advance beyond the pilot stage."
     },
     {
-      "headline": "Microsoft lowers AI software sales quota as customers resist new products, The Information reports",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc1p3bXpETmtxNWlzWmE4QkZxQThYYjRtRTExN2pzTEdWVDY4QTdwNXhhYlk4cHdvWWZDTjFNVlpCU19jaEQzSGt1N21kWjZQLTFOYjhEQXl3RW5TLTd6SkpfYmJaQWRuQlVHZzlCUW5UeDdHXzdHZHI2eWRQZm9hQTBVUGtRd19ZaEVmc2tMWWtuaVlXTDJzYVE4ZXdwdkpTNTBlNkxnMWQ3VTFBbHhyYWVOdVBqa19q?oc=5",
-      "pub_date": 1764771610.0,
-      "article_url": "https://www.reuters.com/technology/microsoft-lowers-ai-software-sales-quota-customers-resist-new-products-2025-12-03/",
-      "image": null,
-      "description": null
+      "headline": "Microsoft stock sinks on report AI product sales are missing growth goals",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0V0RZZGFkbG9BYlJrd2tFeWV0U0ZDcXBYV21OUlpPWXliUlBKT0ZSclhtR3RVMmZGQmNQbGo4M0dpRTFMSXE1eWd1OUtCN29lWjFKMzd5ZXRjU1MzSHBlN21pcjk3WE5qU2hfaUE1Uzd1ZFFBWTlQVNIBfkFVX3lxTE54UmNkTWRBLUllLW9TdHB1dkJpN01SaGQ2S3pIelowZkd2MEx4RWJoLVZmYkVhZE5PNnBpRnRzamZsd3ZZZFJUazhjclJMRWxrQ3VwVVV2SnRpRDJDeW9NVXdyeENWc3cyMENOelNZZVZudVBYR3FGSUxGNjJJZw?oc=5",
+      "pub_date": 1764774216.0,
+      "article_url": "https://www.cnbc.com/2025/12/03/microsoft-stock-ai-foundry-sales.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108147619-1747681492573-gettyimages-2215431528-AFP_47CD63U.jpeg?v=1764772737&w=1920&h=1080",
+      "description": "Microsoft stock sank after a report that multiple sales teams for the company's Azure Foundry product missed growth goals in the last fiscal year."
     },
     {
       "headline": "Why Does A.I. Write Like \u2026 That?",
@@ -45,12 +45,32 @@
       "description": null
     },
     {
-      "headline": "3 Best ETFs to Invest In, According to AI Analyst, 12/3/2025",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQml0U0pvMUc1S25OakVlbVNhaGJ4T0YwZ0FKWl9oMk02UVhfdWNmOVUzTzlFNElVdWp2TWJPX3lQcWI4YUtEbEgxaldtV2JPNU83b28tbnBwT3FNYVFBNDYxVEdqUktvYl9sMzZMUDBtMnNkYTg2VldyTV8wMkhrUWpSMEZiT2Q3Y1VYUVppNVlZQQ?oc=5",
-      "pub_date": 1764771139.0,
-      "article_url": "https://www.tipranks.com/news/3-best-etfs-to-invest-in-according-to-ai-analyst-12-3-2025",
+      "headline": "Feted By Joe Rogan, Collabing With Snoop Dogg: Meet Yonatan Dor, The Viral AI Filmmaker Who Has Hollywood In His Sights",
+      "source": "Deadline",
+      "source_url": "https://deadline.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0JnbzhFempMdnpNd3RTdlJkUkhCMS1yTmlJeFVoQ1dONWdZazdVcG9wenZpZzhSVWM5ZVpnMml3cWNvOGpLQVhSVVczOTBxVzhIZkJ0Uy0yUnl2OWk2bWVldU1lNS1IbjJrU3ZOUjRwZWJQQndyZkxLcG9adVlVNThLSTVFRVdONENPb1cwMnh1VmNLeEl2MWl2OVlSVEk?oc=5",
+      "pub_date": 1764774000.0,
+      "article_url": "https://deadline.com/2025/12/the-dor-brothers-interview-hollywood-joe-rogan-snoop-dogg-1236634355/",
+      "image": "https://deadline.com/wp-content/uploads/2025/12/Screenshot-2025-12-03-at-12.47.42.png?w=1024",
+      "description": "AI filmmaker Yonatan Dor, co-founder of The Dor Brothers, is targeting Hollywood after his viral videos were endorsed by Joe Rogan and Snoop Dogg."
+    },
+    {
+      "headline": "Jeff Zucker Is Bullish That AI Can Bring Down Production Costs",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZDIyVGVSWWJjenNHaS10WE1kU0dUVThxNjJFQVdFNWVIYlBkVFBDeW9LUmFveVF1Y2d3VVpadFBFNXdqVmN1NXVwbTRQX05zdER3X3RESjA3bGhsOWRad2ZNdnZRZjh5S2tGV3Y2ME9LVnZQX3pNMDZtWXF4VEVteFJhcEtGQUpBQ211NUtQRHVOMFMyRjBDWWJ6ckM5ZDFOS0hSRVdTcF81c015RTZ3Nnhuc3c1WHJSTWpqTkR4LUswdGZC?oc=5",
+      "pub_date": 1764774085.0,
+      "article_url": "https://www.hollywoodreporter.com/business/business-news/jeff-zucker-redbird-imi-news-assault-consolidation-ai-wbd-1236440868/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2018/03/jeff_zucker_-_headshot_-_h_-_2016.jpg?w=1280&h=721&crop=1",
+      "description": "The CEO of RedBird IMI, and former CNN chief, also predicts more consolidation but says \"I don't think it's the end of legacy media at all\" during a Content London keynote chat."
+    },
+    {
+      "headline": "Live updates: The Hill's AI in America Summit",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTZqendsTm5pN1dKQ1ljX2FFY0Mwd0NLQmJ1NllRMzVmdmpUd0kyRHJSQTZGZTEzbWt1N3lob3k0WXlncWxiNko5OTg1MUl1aWdIZ1RvbEFCcHhoRmc2T1VmSHh1T2IybXNwcVdjX3ZNNkZ3eEFZRE5udzUydENGTkpMSUJvNzTSAYwBQVVfeXFMUG5VZ1ZfTzdDYjdSNlNRTnMxb05CM3c0YzZ5NWFJUXpmcE41dTcxMXVzT3JndUdDZ0FJMkI0NkswWU1la3JBM2p2OXNCMzFjRGFOS3BLWkZfekcwWWZNay1LLWZROVpBTGFaYV9uNGxuUlpQTm95M2hQQUllR213Zi1LTk9ab2xrWEptT0s?oc=5",
+      "pub_date": 1764773040.0,
+      "article_url": "https://thehill.com/policy/technology/5629740-live-updates-ai-in-america-summit/",
       "image": null,
       "description": null
     },
@@ -65,46 +85,26 @@
       "description": "Independent experts said in the report that powerful AI systems face critical gaps in safety protocols even though capabilities continue to increase."
     },
     {
-      "headline": "AI companies' safety practices fail to meet global standards, study shows",
+      "headline": "How AI Is Transforming Work at Anthropic",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
+      "pub_date": 1764703349.0,
+      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
+      "description": "How AI Is Transforming Work at Anthropic"
+    },
+    {
+      "headline": "The AI frenzy is driving a memory chip supply crisis",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkpUXzEtSWFFTkUzQ05LTjNQM0RyemhmRUoyQWpleXVOU1NHRmtmSWlTQ0JYV2xERjNJRVVHTnRlSmxoa2lXNXFVaUpqVWUxbkpQR2dES2ZNUU5FOFlHREtZNTF4YVJwWXVFVkY0cXc3akl6X2lsWWxMZHFiNUo2RTdxMlFMeVF1Y3d6R1dpbmtzSnYzVllRVEliRjZiQjZmWGpRbkYwYUdiWXZLS0RCMmZpUQ?oc=5",
-      "pub_date": 1764770131.0,
-      "article_url": "https://www.reuters.com/business/ai-companies-safety-practices-fail-meet-global-standards-study-shows-2025-12-03/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
+      "pub_date": 1764731700.0,
+      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Major AI companies fail safety test for superintelligence",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMXMwekFjaDh4T05qMGVSeHYzZTh5eE5UX1Z1Y2ZNdDAwSUZMVVVSSGZSdVlmd3FNX2NUZEJ2cW9JcktzcTh3WlhfSHlob0VvazFickxuNkxIbnNBUXdxY25qbmpRbGgwa0NaQ0Q4aUhKWjZRSUNTRmdqaXFIZEVEODc1cWYyWmxPNXF3?oc=5",
-      "pub_date": 1764769142.0,
-      "article_url": "https://qz.com/ai-companies-fail-existential-safety-test-as-capabilities-race-ahead",
-      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2247155184.jpg",
-      "description": "A sweeping safety review shows leading AI companies advancing toward superhuman systems without guardrails to stop catastrophic failure"
-    },
-    {
-      "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOaFZUaWFXWGFEZFl6NF9xTlRDSE9rRUhwbzh5S2Y5MjhQTk9YRzljVndlWHh2ZUFSdGJjZ0N4NlZVWGcwdjdBY3d4UXQ1MGFiY3B0X2JEc09DaGpxRzZCSmYyRm80a1ZoSWppTmEzU0hQUE0ydWJlOFh0azJSblhsdTNuUDRkSmdZVDdROU1kUUxLM3lINklfVTVua2RnUHlYdlVLTDRPYzFmeTV3eVdYeFNvbHFzbTJmOFJwSVFGWWR6QkwzU1UtblRMblYzNjVvdDQ3YTFvSHRzYUVvcTM1cUVyMlFGLXQwWVN2NlpIeGVIV0JKak9rWldfWGhYeXF4OFFteTNSckRVR1N3WWRES296UUNkTlRULUVlazJac2hfVVphZWl2azhzYlZ3VXgtNW1sdklVRkIxOFEtcnJ4ZGUtcmI0ZTFERlRfSk9nTmJFRVBkTHg3T1FKTEFrcHlScTBYUy1PZUt4aWpSbGpzR2x4Q3dxV0lhQnI5LUd1U2tCYTBWOFo1MVBWdmctaHdsYjJxVm9lWTk2RWpkdTBEQWR3VFljT2pMUW5jcHhaVU82aE9XX0x3YkVZckc?oc=5",
-      "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqcpj-iNdicaGAxpmthbttoFrCaGr9GklPnYYnTm4w6GuWXXjF8xOleq&gaa_ts=69304ff0&gaa_sig=VFOJKzjpdVX29OsMWQFrL8it1JJkGzAqIksZCQY50i5oJEyvXZTVcFI-zOcXjgMPJT5mCdbRWE9gl-aOiitQYA%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why many Philadelphia doctors now use AI to record patient visits",
-      "source": "WHYY",
-      "source_url": "https://whyy.org",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHSVBibjZfdHc3eFRON3RoTVYtUi00YW1lc3R6Z18xSDlKNnBNZHBLUWlIMzU3dHlnVmJ3WWl1cDBsVDlyQ2tIYnk0MlRyMldxSjdxaFNMUzBVdG5vU3h6YXN6LW1rWm5JaDRKVkZTTWRVZVlKaXZXWldyZzAxZw?oc=5",
-      "pub_date": 1764759825.0,
-      "article_url": "https://whyy.org/articles/artificial-intelligence-doctors-patient-visits/",
-      "image": "https://whyy.org/wp-content/uploads/2025/12/2025-10-29-e-lee-corinne-rhodes-philadelphia-university-of-pennsylvania-ai-in-doctors-offices-app.jpeg",
-      "description": "Health systems say AI note-taking tools could save doctors precious hours each day. But some research shows doctors have mixed feelings about the technology."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T14:43:33.351231+00:00"
+  "fetched_at": "2025-12-03T15:34:02.577960+00:00"
 }

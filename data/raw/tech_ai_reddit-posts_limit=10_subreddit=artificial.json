@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Border troops getting replaced by robots",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pczmey/border_troops_getting_replaced_by_robots/",
-      "published": 1764753558.0,
-      "thumbnail": "https://external-preview.redd.it/bHBvdXhhc2NpeTRnMT_RZvUTpuXUUHWTIg8M4yRuEpeAGpLY0kwZmsOSsO2r.png?width=640&crop=smart&auto=webp&s=2e6ed45e60eaecb784fb25cc111fceb82f850024",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Billionaires are building bunkers out of fear of societal collapse: \"I know a lot of AI CEOs who have cancelled all public appearances, especially in the wake of Charlie Kirk. They think there's gonna be a wave of anti-AI sentiment next year.\"",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1pd2j6h/billionaires_are_building_bunkers_out_of_fear_of/",
@@ -24,6 +13,17 @@
       "description": "Full interview with Stability AI founder Emad Mostaque."
     },
     {
+      "title": "Border troops getting replaced by robots",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pczmey/border_troops_getting_replaced_by_robots/",
+      "published": 1764753558.0,
+      "thumbnail": "https://external-preview.redd.it/bHBvdXhhc2NpeTRnMT_RZvUTpuXUUHWTIg8M4yRuEpeAGpLY0kwZmsOSsO2r.png?width=640&crop=smart&auto=webp&s=2e6ed45e60eaecb784fb25cc111fceb82f850024",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "ChatGPT is down worldwide, conversations disappeared for users",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pd1jll/chatgpt_is_down_worldwide_conversations/",
@@ -33,6 +33,17 @@
       "site_name": "bleepingcomputer.com",
       "favicon": "https://www.bleepingcomputer.com/favicon.ico",
       "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
+    },
+    {
+      "title": "AI companies' safety practices fail to meet global standards, study shows",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pd6dlf/ai_companies_safety_practices_fail_to_meet_global/",
+      "published": 1764773798.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/business/ai-companies-safety-practices-fail-meet-global-standards-study-shows-2025-12-03/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "IBM CEO Has Doubts That Big Tech's AI Spending Spree Will Pay Off",
@@ -68,6 +79,17 @@
       "description": "I keep seeing people say that AI is a bubble or that it\u2019s overhyped, but every time I use AI tools I seriously don\u2019t get how people believe that. To me it feels like AI is already capable of doing a huge part of many jobs, including some in healthcare like basic analysis, documentation, nutrition planning, explanations, x-rays, etc. And if it keeps improving even a bit, it seems obvious that a lot of tasks could be automated. So I\u2019m wondering why some people are so convinced it\u2019s a bubble that will \u201cburst.\u201d Is it fear of job loss? Just media exaggeration? Real technical limits I\u2019m not aware of? Or just general skepticism? I want to understand the other side. Do you think AI is actually going to collapse, or do you think it\u2019s going to keep growing and eventually replace certain roles or reduce the number of workers needed? Curious to hear different perspectives, especially from people who think AI is overhyped."
     },
     {
+      "title": "Add AI to the List of Reasons You Can't Trust Online Car Dealer Reviews",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pd6exc/add_ai_to_the_list_of_reasons_you_cant_trust/",
+      "published": 1764773878.0,
+      "thumbnail": "https://external-preview.redd.it/2H2Ucz62lhfDz-q7S6sBUiaEGP0z_yZ7KseIa9BEmr4.jpeg?width=640&crop=smart&auto=webp&s=47f387e911a519af08716fdd7c6bf2a7c3d0d7cd",
+      "external_url": "https://www.thedrive.com/news/add-ai-to-the-list-of-reasons-you-cant-trust-online-car-dealer-reviews",
+      "site_name": "The Drive",
+      "favicon": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=180",
+      "description": "Maybe Ford has a secret \"Cheaper by the Dozen\" Edition F-150 with three rows\u2014or maybe it's just slop."
+    },
+    {
       "title": "Sam Altman told employees he was declaring a \"code red\"",
       "author": "dictionizzle",
       "url": "https://www.reddit.com/r/artificial/comments/1pc0pms/sam_altman_told_employees_he_was_declaring_a_code/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "OpenAI declares \u2018code red\u2019 as Google catches up in AI race.[1] Amazon previews 3 AI agents, including \u2018Kiro\u2019 that can code on its own for days.[2] Bank of England warns of AI bubble risk.[3] NVIDIA and Mistral AI Bring 10x Faster Inference for the Mistral 3 Family on GB200 NVL72 GPU Systems.[4] Sources: [1] https://www.theverge.com/news/836212/openai-code-red-chatgpt [2] https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/ [3] https://www.bbc.com/news/articles/cx2e0y3913jo [4] https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
-    },
-    {
-      "title": "Nano Banana Pro is eating alive ChatGPT",
-      "author": "MatthewJet28",
-      "url": "https://www.reddit.com/r/artificial/comments/1pchl7p/nano_banana_pro_is_eating_alive_chatgpt/",
-      "published": 1764702999.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "As a creative, was testing out Nano banana pro these past days and DAMN, it\u2019s literally on another level! What\u2019s your thoughts on this?"
-    },
-    {
-      "title": "ChatGPT 5/5.1. Pay close attention. Tone and Labels matter.",
-      "author": "Character_Point_2327",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd4si6/chatgpt_551_pay_close_attention_tone_and_labels/",
-      "published": 1764770107.0,
-      "thumbnail": "https://external-preview.redd.it/cWpmYnIxdmt2ejRnMf7-CrXIGCgGcbapV-GLJwDsG_x0iGm-oV3TxCEJc9Rx.png?width=640&crop=smart&auto=webp&s=fae5c7e6ebd4c677ad0ad4b5173421cdcdbb92a3",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-12-03T14:42:52.887844+00:00"
+  "fetched_at": "2025-12-03T15:33:42.405072+00:00"
 }

@@ -57,6 +57,17 @@
       "description": "Not sure if that's version 2 or 3, maybe someone can elaborate in the comments."
     },
     {
+      "title": "Is there any ROBOTICS complete course??",
+      "author": "Lumpy-Cucumber-5895",
+      "url": "https://www.reddit.com/r/robotics/comments/1pd6r2e/is_there_any_robotics_complete_course/",
+      "published": 1764774641.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey, I'm a newbie in robotics and I want to build my career in robotics. I have very little time since I'm in my 3rd year, so I need a structured course. I've heard good things about \"The Construct,\" but its masterclass starts on March 2nd and it's quite expensive. Are there any other good options, or another way to get free access?"
+    },
+    {
       "title": "Robotics Kit for Husband?",
       "author": "Top_Special_8061",
       "url": "https://www.reddit.com/r/robotics/comments/1pd5r3c/robotics_kit_for_husband/",
@@ -90,17 +101,6 @@
       "description": "Me and my friend have this idea that we would turn a vacuum roomba or something (open for alternatives), into basically something that can see and talk. We were thinking of putting speakers and cameras and somehow make it work, as for the voice we were thinking of using a Teto voicebank I'd also like to say we have no experience about these so I hope for some really detailed insights, we are also open for any suggestions as long as we could make this idea (or something similar) be brought to life!"
     },
     {
-      "title": "The \"it is AI or CGI\" people are getting really annoying.",
-      "author": "MilesLongthe3rd",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd5vmt/the_it_is_ai_or_cgi_people_are_getting_really/",
-      "published": 1764772656.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Robotics is developing at a very fast pace, and we are seeing new developments every week. But instead of a discussion about robots, it is the same people over and over again just yelling, \"It is CGI, AI, or fake.\" The funny thing is, they are proven wrong over and over again. Like with the Xpeng \"Iron\" humanoid robot or now again with the EngineAI T-800. But still the next time, they will do it again. This adds absolutly nothing to the disussion and also instead of robotics, only loud voices with their biases dominate."
-    },
-    {
       "title": "Inside China\u2019s Robot Training Factory: Where Humanoids Learn to Work",
       "author": "GreatPretender1894",
       "url": "https://www.reddit.com/r/robotics/comments/1pctstu/inside_chinas_robot_training_factory_where/",
@@ -112,5 +112,5 @@
       "description": "Young operators remotely guide robots through thousands of everyday tasks, generating the scarce data needed to teach machines how to work in the real world."
     }
   ],
-  "fetched_at": "2025-12-03T14:42:56.769684+00:00"
+  "fetched_at": "2025-12-03T15:33:45.185193+00:00"
 }

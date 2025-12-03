@@ -15,14 +15,14 @@
       "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
-      "headline": "The Protocol: Ethereum Preps For Upcoming Fusaka Upgrade",
+      "headline": "ETH News: What Investors Need to Know About Ethereum's 'Fusaka' Upgrade",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbk9Cc296NXVScVAwLXl1dm9tdGVWSmNjWkNMX19SZE9zY3VpaVFLaHBPeTYzcVVVbUFkRkxKaUpkSVJUMWpBUHM1TVd1dkt2RVlqbHNlMkhPU2Zhd2lyWjNCM0V1RFh4YXlxMTlvcmhyZ2NGTmxrblpWckc2ZmtFQ1cyOWw0bDdkQ3Q0Ulltb2JrUDFLeFpiRDJhOHU?oc=5",
-      "pub_date": 1764781286.0,
-      "article_url": "https://www.coindesk.com/tech/2025/12/03/the-protocol-ethereum-preps-for-upcoming-fusaka-upgrade",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3551c2e6549cc25a935efc0ac6200617aa9f912-1920x1080.jpg?auto=format",
-      "description": "Also: Anthropic On DeFi AI Agents, ETH Devs Push ZK Protocol, and Bitnomial"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkdSTThxLTF0cnhTVFVvdTNIQmtIRmkxWWMtcEhkODFFaVRFRzZWVlZyZ2lVU1d2ZllHWmVPNkhLc0FXTnpwcWkyWFB1ejFrSzVGdHN2Wm1NQ3hZRndnSG5yNXF1TS01Snl1bndNamdPR2F2aVk3b0NWLW1WLUoyQVZFdGVOYy02SGlSUXA5aUUzNm5ZWEM1WFctcWtyNlJoRExabS1Fbm9ISnhkYS1mWHRLbnJSQ2s2ekE?oc=5",
+      "pub_date": 1764782802.0,
+      "article_url": "https://www.coindesk.com/tech/2025/12/03/fusaka-cementing-ethereum-s-role-as-on-chain-finance-settlement-layer-bitwise",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4853dd74c80fc2679cc738a259a38b305149f867-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The upgrade will boost throughput, keep validators efficient and, most importantly, strengthen Ethereum's value capture by putting a floor under blob fees."
     },
     {
       "headline": "Ethereum treasuries collapse 80% as the trade unwinds, Bitwise warns",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T22:10:42.890852+00:00"
+  "fetched_at": "2025-12-03T22:49:46.660152+00:00"
 }

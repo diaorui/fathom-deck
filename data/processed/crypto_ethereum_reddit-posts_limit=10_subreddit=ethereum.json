@@ -13,6 +13,17 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
+      "title": "EIP-7918 in Fusaka: 3 reasons and 1 trick",
+      "author": "AElowsson",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pd22ch/eip7918_in_fusaka_3_reasons_and_1_trick/",
+      "published": 1764762452.0,
+      "thumbnail": "https://external-preview.redd.it/IowdQowt3HjVc2_v7hjaoxOtWACbeO7t7eNBcXnNun0.jpeg?width=640&crop=smart&auto=webp&s=52a3a1ec89b6aac1fc5fa96fbc775c1141dc660d",
+      "external_url": "https://notes.ethereum.org/@anderselowsson/EIP-7918-3-reasons-1-trick",
+      "site_name": "HackMD",
+      "favicon": "https://notes.ethereum.org/apple-touch-icon.png",
+      "description": "# EIP-7918 in Fusaka: 3 reasons and 1 trick  Tonight, Fusaka goes live and Ethereum updates its blob"
+    },
+    {
       "title": "Anoma just activated an entirely new state machine on Ethereum and everyone is too busy farming points to realize what just happened",
       "author": "Direct_Reporter9112",
       "url": "https://www.reddit.com/r/ethereum/comments/1pcj7vc/anoma_just_activated_an_entirely_new_state/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "Introducing Solidity Modules: How to Build Smart Contract Systems Without Inheritance or Solidity Libraries",
-      "author": "mudgen",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pbgedl/introducing_solidity_modules_how_to_build_smart/",
-      "published": 1764604532.0,
-      "thumbnail": null,
-      "external_url": "https://x.com/mudgen/status/1995513333139513796",
-      "site_name": "X (formerly Twitter)",
-      "favicon": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
-      "description": null
     }
   ],
-  "fetched_at": "2025-12-03T11:25:17.297065+00:00"
+  "fetched_at": "2025-12-03T12:31:08.773289+00:00"
 }

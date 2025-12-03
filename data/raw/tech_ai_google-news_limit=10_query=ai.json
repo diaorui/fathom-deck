@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Why Does A.I. Write Like \u2026 That?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOMFdmZlBiR0hQRlBMTkJyd1NoQ1R4dTZsUTFIUlJQQXFOd3ZRNG1MWWFMZ1NlMFhTTUdweXZLWmcwbTVVQmRJM2JweWlUalkwSGM3RDlOQmFzYlI5UFluUTBPajJXLWxNekR6eDhSLVI5X2owOWJmNHlR?oc=5",
+      "pub_date": 1764756054.0,
+      "article_url": "https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "The AI frenzy is driving a memory chip supply crisis",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -15,96 +25,86 @@
       "description": null
     },
     {
-      "headline": "Silicon Valley Builds Amazon and Gmail Copycats to Train A.I. Agents",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWl9QamdibTJhWWUzUkcxOW1md29TZWY1VW1BRW1NejZ2eXZFMEx6OUJFbkJMQ05fNk94VmxfTDZCYjNkRTRfRDZlb2I2Wk9MSHhnR2lFNHQxUWlsaFNjV0VUNEdpOWdHcmRpU1hQdEVrTWlUeENLRkJiYVZJSnBNZFNhNFdrN1dBVFctdXFSWEk?oc=5",
-      "pub_date": 1764669637.0,
-      "article_url": "https://www.nytimes.com/2025/12/02/technology/artificial-intelligence-amazon-gmail.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Meet new Amazon Nova AI models that help build highly reliable AI agents",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnV5Y2I1Ykk3bW9rNUh6dUwtU09nMXFuWU5SenFvc0hZQ2RIZEFIYXEwWVgyTGl1b3BqNm8tdHpaWWw3bkw1Sm11REhrVXZxV1dMQnB0dDMzX3NXSGNPSHkxcVQ0ZVdaZE1ZbWdOQWJPS01PMFc1X2xidnB2dXMyWldjZjk?oc=5",
-      "pub_date": 1764691197.0,
-      "article_url": "https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models",
-      "image": "https://assets.aboutamazon.com/dims4/default/61b7a71/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F95%2Fdc%2Fc004987040dcafbd49d49a6e5bbc%2Fabout-amazon-hero-nova-forge-hero1-2000x1125.jpg",
-      "description": "Key takeaways"
-    },
-    {
-      "headline": "Amazon Releases AI Agents It Says Can Work for Days at a Time",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPWFBtQUVBOE1QVXZkQ3dOXzFYR2dMRGxtNDlLYjNmdXBiYTVnNHNtZ0J5SXVQN1piWFp4bHJHOEFKUUlhdS01OUpxRmFOMlBIRmRhcXRKRW5sY2s5MGZuUDV3X3RQSFpNTWQyaWVHUURqTW5MemZSNE44djJpRVRjemNOcUI4anhMYlZTNUhqX3V1OG95Z3M4UkZIVm8tYXdTVE5OMVRBMncxNEdkYTRLVjJiNWhtN3lhamV2VFh3eXNwYzBCdVRmYUt0ZDIyTXl1RkxQYVdoVno5MkNOcGVmNFpxSG5vT2ZtY1RhVmVUbEZEcWc3VEdBM29qRG1DWjBKXzAwY010aXMtMWg0Y1VlQXY4X2c0Q0pzempZY1NLeU95cE55M2NVRjNTR1h4eUdxVGc5TjYwTHpkX3A3VlBzUl82blhrbVBrNzg5dUNvd1lZS3hPX2luVkNnaFRqRDZYWG5LU2dsR09pSUFzVW91c1g4SFVxRURFVG5BNW9iLXpPT1FQTFJ6dFVMRC1mTkdnRVJKM24wcFVGMzh3S2lCaHFQQWV2dw?oc=5",
-      "pub_date": 1764699360.0,
-      "article_url": "https://www.wsj.com/articles/amazon-releases-ai-agents-it-says-can-work-for-days-at-a-time-79c82902?gaa_at=eafs&gaa_n=AWEtsqdoRXzXzpPNRuJuk7vEresR6cHg7K6eddmu899uBtA8LG3JVWhzT-SW&gaa_ts=6930219d&gaa_sig=YU-AJ--TLUZLcyGCNaksA4OZhjbGAvMhPvMTzbkj34zZVRgjmtQqlSDrq3R9z_-syHJQDz47m7mVE2c899d65w%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI firms flunk existential risk planning, new report finds",
+      "headline": "The case for playing the AI trade in emerging markets",
       "source": "Axios",
       "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wREEzaDBQZG8tblNacmNmSW5QTmU0NHA4aG5uTU5hMXh4eEdwZVVpM2lFRXdPSHVpd1lkMXBQVm1CZUZxc2VDMWQ5SDdtMmQ0dm1wRzNUOVZmMGxTY1JBZ0VqNTlZd2NreHpPZnR2UkZiR3dDTENiOQ?oc=5",
-      "pub_date": 1764759622.0,
-      "article_url": "https://www.axios.com/2025/12/03/ai-risks-agi-anthropic-google-openai",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TWkdLMWYxUzAxTmRXVFRtTmRXUHEzN0lSbXdxczdtVUE5REVqWks2amN2V1kweXJkNWl1MlBPZlg2UU94SmhhVTVkZkRNUVprR21hS19BY3gzbU9PcWdBaXlKZnJ0Z1U1V3Jv?oc=5",
+      "pub_date": 1764763244.0,
+      "article_url": "https://www.axios.com/2025/12/03/ai-bubble-emerging-markets",
       "image": null,
       "description": null
     },
     {
-      "headline": "Marvell shares jump as chipmaker bolsters AI ambitions with Celestial deal",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa0YwMTBFVXNmdGVCZElUa20tcFQtcUNKX0hDakI4a1g2UkRrdEx2QVEwUG5VQnVyN3F1T2pSNWVUNnVGU2xzdGJkdEFHWEtSVktHY2tMUF9mbkdpMllrSU4wb25RQjhheHFmenVGTkYtbXg1VkZsYVZNLUYzM2FsLTVJb0lmN1E5d0o0aQ?oc=5",
-      "pub_date": 1764756707.0,
-      "article_url": "https://finance.yahoo.com/news/marvell-shares-jump-chipmaker-bolsters-101147409.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/IZFElR9YW3Txz2d69VPHTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-11/1bfaa780-56af-11ec-93fd-03309d2487df",
-      "description": "A $3.25 billion deal to acquire semiconductor startup Celestial \u200bAI deepened investor confidence in the chipmaker's push into next-gen AI \u200cinfrastructure."
+      "headline": "Can AI ever be funny? Some comedians embrace AI tools but they're still running the show",
+      "source": "ABC News",
+      "source_url": "https://abcnews.go.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDRrV3RIV3IwZlMyeGQzbGU1c1Z6WnRGd2M5dmxsVm80TGs4SU9LQ2FNdU9wWG1PWDZyVTQ2RElTaE8zNUQ1MC1wcl85QVFHR3FraGJMMzlUN2R0cFp2NENxbm9IVW5JMFkwSjhBaEV3SWNjbDJydVFYbnBlbl9BNmFleTBMN2FlNFpzc3V1M2JJU0c5VmI2b3ZJUzZKOWluaVJWTNIBqgFBVV95cUxOdE9MRU55bGptWG9EeHpObnFndHdfaWthQ3BpRHJiT0JQUnk5S1Q5cTd6VUs4QnF1QnJKNEowRExDWFNMMkZPa2oybzFnT3VqQjJoN2EwM2p1dnZJaDB5Qk1CaUptTk1xR3VlQnpfUF9iSUlHZ2phRkVDcGItQnNfWTA1WWVFdXlwNjkxQXNVWTRiX3pwTkdZSzlHVFZjNnB6bV9pTV9sS3ZtQQ?oc=5",
+      "pub_date": 1764761477.0,
+      "article_url": "https://abcnews.go.com/Technology/wireStory/ai-funny-comedians-embrace-ai-tools-running-show-128067217",
+      "image": "https://i.abcnewsfe.com/a/78ee4871-a866-4e62-8a27-e1fcf0fb400d/wirestory_6fe65423131d6de796206c5f38455b08_16x9.jpg?w=1600",
+      "description": "Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor"
     },
     {
-      "headline": "Marvell Technology to Acquire Celestial AI in $3.25 Billion Deal",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNV0VDeG5UdEJRRm5DeERaVkxzMGl3dHA3bm5VTW9yTGM4ei1KNU9qM2RfUFBGWE1oMXEtcWRfZ3FiOU55RWkzZ29rRm91Uks4V3Vta2hJQk5OTzJEbklYaEs4WktPS1hfMmg1VkMwdmdHbE9WYUZpdWhnSkI2b2Y2VThkMkMyUS1yUEVIZnpzb2ZBZzhPbVJpMGEybFdXV1dQZlFPV1daNWRWQ29IWlozd0tqUmpPQzBESW14UFR1SU9tSHZQYTdVQXlVNl9uMmprN0I2MkpIekFHbkNuaTQwRGRvd2J4NXBLMDlnRU9kYjlsUV96c0l2ekF1RFRzTmRJWjAyVWlLUkFxTTBXYjZJVXNEdDRWc2hFSUROeC1xbnlsWER6RnluMjFVT0FULXk5VURBcU94WWY5M0RZeDBtQVc1OE5fOXE2WFRwSWNDNmJTQ2dYZ1JveWJ3VXVpVnhTVDlVQ2lub2ZHaXFoUDJ3TW81WHRvalVjbmNKNWZGa2wyWnRRcVBmN1dJMXZGMVNtb1Y3a1h1bG50dFkxV2RhNU9aUmtVX0VSRWc?oc=5",
-      "pub_date": 1764719880.0,
-      "article_url": "https://www.wsj.com/business/marvell-technology-swings-to-profit-on-higher-data-center-demand-00cf6185?gaa_at=eafs&gaa_n=AWEtsqd5vOkH-iYhSoBmbrnWoS-2opRlpFuwn5tlZfN-GwIAFDjtY24rX5Qy&gaa_ts=6930219d&gaa_sig=6aU4isOkDJZJRX1kAfNm6ANJyPQ3ORFT6iorNQfNNPfxWIYdAfWDZ6JhzEJ3Wib5KQnPX6F4gyPiBY7WO6VycA%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Marvell, Builder of AI Accelerators for Amazon and Microsoft, Surprises Algos with Earnings Commentary; Promises of AI Growth",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSmVRdlI0MXU4a1dnQ2tRNFp6d0FmQU1uc2FlQ3lWVVlJWkVtZEpRaGswV2lzdUIzVFItUWhCazBEc2hGcXlTNjlhcG4xZUFpbENxV25fNGExNmpEbGZzajdxNWx6UGU3R2lRUU40aEhtN3NCVVBEN1F5SHE4Y3BwbmpSUEp2UWJCT2ZQWGdJNXlmWEQzX1laRTBMa01PTnF1dDR2VkhKWlJ2alZtOGZjcGNZV0JZamtUZU9tTjlXVkhlZFktOVRGdTczYm52OTI2QzBCU2RCV1hBam9VZkpDVEZSVFRla2h0SDUxZ3d0WHA?oc=5",
-      "pub_date": 1764717674.0,
-      "article_url": "https://www.thestreet.com/technology/marvell-builder-of-ai-accelerators-for-amazon-and-microsoft-surprises-algos-with-earnings-commentary-promises-of-ai-growth",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Commandos, Snipers, Drones, AI: 5-Layer Security Ring For Putin In India",
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUS0wRWhibWkxX1BjREZOUTQ5M1gzUG13WWtkdmpEYm5xRXkwT1V4aE5JalFZSDJ0RnMxM0lwUVNxSzd2dEZlVTB6QUlsNDdCbjBiVzVMMWJhbzNMMFFVQmJtZ19rejhIMUhiWW5Tci1NSjlMSVhmR2JrdWx5N2Z3NVFudlo1b3d0aWJQdWFwWEN1SXUwM3BCX2NoS01DMko4Qy1QQVk1UkU0OFFGdG9BbTJlSHZtMzZjQlZkTGlFTFFJYUnSAcsBQVVfeXFMTnhHWGFobmhmRzdwWlJ2cFM0d0VfbG5hM3hXUWx3WGt1NGRIcEdjS2h4S2ZERGcyOXBzbnBrZXhXVjNFcUFpakdUcnRWNHVMRnNHdGgxdGpWTFpwcnRsSjdpbks2REV5clREWFdpTkttY0lNeTdGZGdJQXNnOWR5Z1owdzFNeWJyMVFzNFUyeE5FV3ZEcUFDYmg2bU4tUFdVemlyVWNLd01iRVNhaHk4OTJxX2k1MHlpX09MVnRreHVBLWt4NVh6TkFhYU0?oc=5",
-      "pub_date": 1764752795.0,
-      "article_url": "https://www.ndtv.com/world-news/putin-india-trip-commandos-snipers-drones-ai-5-layer-security-ring-for-putin-in-india-9742851",
-      "image": null,
-      "description": null
+      "headline": "Lowe's CEO Says AI Isn't Just About Replacing Jobs",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUJOcTE1TlpOcUV4SEZzX1ZiZHpfQlh5djdFLXZWMmpFcDBGc2VodDlkVjRXdjl6eDRwZl9mSjRSclFWdjhpWnVkU3I3SjZjdnhFWnBXTkNfaWVhV1R1UWRHNVhoWDhfNVMwNVluWmlOZ2Fxb2hBc1hkeDJoRDV3SkdWR0JXc2M3WURkVDdRc0U0QQ?oc=5",
+      "pub_date": 1764759180.0,
+      "article_url": "https://www.businessinsider.com/lowes-ceo-says-ai-isnt-just-about-replacing-jobs-2025-12",
+      "image": "https://i.insider.com/692f23ee04d0f0a114f14128?width=800&format=jpeg",
+      "description": "Lowe's CEO Marvin Ellison said AI is reshaping how the home improvement retailer operates, but the tech is not simply about having fewer workers."
     },
     {
       "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNZnAtSnVnZHlSTWJGSmtBRXZKWVk1eTJidndKWUFvN2lwdU1WU3NPZ0hpcGlTVzlsb2hRb3cwRnZLZUFFUHdjNFdRYUFNcFpLVG5RM2p1b2Mtd0Z0SGpINkZMb0RLREJ3bXMtaXJGM1l5WGtoZG5XTjlzVlFRV25LRExDak05aUJtb0lPa3ZBbk5tMlhEUmMxUzdITDFqU2tpUnRQY0xsZDRsaTVCRk01UGdvUEI1U2lsUkZMWGNka3RxekI2V1hxYUVkREZ6RGd5b20tWUs0Um1sbHZ0OUJXZXJhVmdzdUR2MTRrX0Ewc2ZWMHhaSC1YTHNyMDhubnNOWFVuakFWV0tRTTBOUGtKMkc3T202a1ltYmhIdlZCTmhDZzVzXzM5NlM3ZmRod19iZloySTFhdWRST0lJMlZ2eG54b25Xa2RvbWJTdW0tb3RidGR6ZFAtMy1BWFA1dFlkQzdMS2dOY3F2Qm9rUEQyZkRYVHVuTTAxckRCSWlENlFNeFJBczN2bHlsZy1uQUNpRW1tZ21LUmV0dVBDS25aTi1hQ0t3eEhoT0w3TFhNa3pqVnhzb0NvRFBzRS0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOUGlMX3VHb1ByQ284dVVrMnN4RUtSZENpbENWbGpCVllWQmRQbW4zUXRUTmRVa3Y2WExxLTJPam1SQVFLbGFDV1hWSFBuRmNuazFZTlhpeDBMTGZHM1phdl9OQ2U1dlZJMUpmeF83XzZUSENvSjVDdGwyMk5aRTI4MW1iV0pvRTdPWEZPWXRHZmxCMGl6Nm53MjJITzh6RmthbXM5NUdGYzR2TjdGanlwVWt0UjFvd05FREZrQVZzbVBFMXNKaUlvdU5zSExFZTF1aThYR2lUUVJ6QWpmaGw2YU5xTENxZEpoX28zWEhzSThqMlFNT2lYX19OS29RSC1nbDdvTWpaYmNyTHowRlZxVWg1MkM4V3ZVVktMRmYzNExQaFY4U2wxYUVYanhDYVNLYmczZlBodWpHWU43amFEeWJ5SVVNMWdqWEYyOHphbHo5MVBpbWNvVnVMMHp6SEVPNWxZR3FadjhpcUtUQW5rRTM4MVh1SmpPLXB5SW92NGJaVW43ekhFamkwU0VtbkxIbFF0Q1luRGs3MkRtcC1DTWlmLTFUNXhsc3JmZ2hnOXpjVElVOVdERUcxOUs?oc=5",
       "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqfQMP0YFK8AJ_6gnN7nhKvYPdadKzZzTmAPW7oWmQ-TnsgLeVRgc7oj&gaa_ts=6930219d&gaa_sig=9pRFzFgXRzGXB2whF360uKn3xIoiuSwEZsVnqEVJTRX9tF4ZG-fITcSMLiq05sjfYr_HZS-NrX9W84TdDBNang%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqeY52vffqR26xVwhV41s4w3o4CRxYXeTmf70PD5-r7G4mVOMdasFM2n&gaa_ts=6930310b&gaa_sig=fL_-Lrc_lY5hpgaATJ6_nrV2w1qd_1WcK3TIDUP-8f-7GMG1QBPgjDzPE3GA1LGW-3af9EA2GsQWuBnWmempLA%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How AI Is Transforming Work at Anthropic",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
+      "pub_date": 1764703349.0,
+      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
+      "description": "How AI Is Transforming Work at Anthropic"
+    },
+    {
+      "headline": "\u2018The biggest decision yet\u2019: Jared Kaplan on allowing AI to train itself",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3htZDNHeEE0aWl3cGMtbU1mVnV4TDY4QjllanlEODAwSFdfYWZybVFXdjFWVmxpeGZvVGlwUENwd1JjU1VXcW5tMVYxRGVTclB1MnFKcnMzVDRxWTNHRnBnT1RFNEl2UjJYRkdpcU1hb2JFNkt1ZWF2a1hNLThYNVRmU1I4eTRrVTFSSTlMTDFxRnNZUE5PNVZsM01QeFo5TDYwb0dOb3JYdkEtZlRoWFB4aDdLQQ?oc=5",
+      "pub_date": 1764680160.0,
+      "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/02/jared-kaplan-artificial-intelligence-train-itself",
+      "image": "https://i.guim.co.uk/img/media/5f1dbff127345154bf57ef7a554a4727975d1c3e/0_848_3091_2471/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6daf53e3bf38527380051f2157a5fb94",
+      "description": "Anthropic\u2019s chief scientist says AI autonomy could spark a beneficial \u2018intelligence explosion\u2019 \u2013 or be the moment humans lose control"
+    },
+    {
+      "headline": "YouTube's new AI deepfake tracking tool is alarming experts and creators",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5XMEJBNGlJTXdONE5odDJ4Q1JjVEVlNDJrdUUzZFU0dThsVi1CWU1iTXZQSk1KX0t3cFRibExCTnlaSGRXX3JZdF9zMHdjcmhUd2V5Z0ZlSVFQa0NlWDNDSDFxMWkxeTVSczZxWXRpaVlkUTBhN3dqYktGSVdFQWNwRmdNUdIBiwFBVV95cUxQbTJnQkJ1Vi14dE1sbk1LVy1oblI3SEN3cmhrRWY5UGZ4VE9HcVUtckgwcDhRdEt5VzlLbWtPSXlQVGZlMTFZY3FsbC1rSjRFNjVrbGU0RmFDTFlmeGQwWk1MMXRwX3E0OWdORkVjRlJMMWZOSlgtc05PMlh6Q3oydTMycEhNbTZKby1V?oc=5",
+      "pub_date": 1764676801.0,
+      "article_url": "https://www.cnbc.com/2025/12/02/youtube-ai-biometric-data-creator-deepfake.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108231894-1764095127352-behind_the_scenes_2.JPEG?v=1764650315&w=1920&h=1080",
+      "description": "A YouTube tool that uses creators' biometrics to remove AI-generated videos also allows Google to train its AI models on that sensitive data, experts told CNBC."
+    },
+    {
+      "headline": "Amazon Releases AI Agents It Says Can Work for Days at a Time",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPYm1ZcWdvank4c08xS2hfTk5CcVFRNEpXZEEyQmkyaG5wV0pNa2NIcEsxcklPbENpVC1LRWJOR2JicmVpc19HRnV2cm5UaUlTeTFlRE9BbVlfRktoWVlMYVBZSHd2LW5scHhWc2tGMnlCQlJIZmNmbTVOdjdfTElfaWZ2YklpQ0pGOEtXdUoxR0hQZlJfVy13bjJjYnJmSzQyRWZuR04yNElTRjlEZ1ZaWHBpS24tOVl4TVlHbUlMZVVRdGMtbm1abmFkbV84UU5haVI2RnhxUV9sMm5IZ1dFVkE3cHluRW45aWNmQ3JxZDJxVXY0ZHV4M25sTFhXNXBRNVJPaHMzQ0daNTQwdGRBMV9VaDNQSmF6VlJmMmctaXJJdVBQTG9XcXpwTjZTRm5CNTBHc0Z6X1l0SUcyb281V1RmNFM0MFdidlBzODgzMy1WdzExUTRrX284YktaYlZGb1NCaTFQZjF3RldkVnRqeUxLTG1FR3k0NXJXeExQdjZXWTcyWS1zdkduRWJpckhVZlI2N0I2R1JYeV82TGlfOVFlN3VJQQ?oc=5",
+      "pub_date": 1764699360.0,
+      "article_url": "https://www.wsj.com/articles/amazon-releases-ai-agents-it-says-can-work-for-days-at-a-time-79c82902?gaa_at=eafs&gaa_n=AWEtsqdlJvoUar7D0n7WqOZgUYcxbO0sjgHdUGlzDkLCcos9HQE_z_GAPQRf&gaa_ts=6930310b&gaa_sig=VFbS48jnbEssSpmIMHFo6eukyuaddNOGZiT9csjlHCnfIF2tKcDfRYX_wgNP3KVfSSXp4uK0wLjtHNu8Rpousw%3D%3D",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T11:25:50.712088+00:00"
+  "fetched_at": "2025-12-03T12:31:38.774670+00:00"
 }

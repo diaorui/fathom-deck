@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Why Does A.I. Write Like \u2026 That?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOMFdmZlBiR0hQRlBMTkJyd1NoQ1R4dTZsUTFIUlJQQXFOd3ZRNG1MWWFMZ1NlMFhTTUdweXZLWmcwbTVVQmRJM2JweWlUalkwSGM3RDlOQmFzYlI5UFluUTBPajJXLWxNekR6eDhSLVI5X2owOWJmNHlR?oc=5",
+      "pub_date": 1764756055.0,
+      "article_url": "https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Microsoft Lowers AI Software Growth Targets as Customers Resist Newer Products",
       "source": "The Information",
       "source_url": "https://www.theinformation.com",
@@ -25,52 +35,42 @@
       "description": "Microsoft stock sank after a report that multiple sales teams for the company's Azure Foundry product missed growth goals in the last fiscal year."
     },
     {
-      "headline": "Microsoft\u2019s stock falls on reported AI sales woes. Should investors worry?",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOVFlwMjZCZDBfVjktN3ZSeXNiSHhGb3ZPb1RMdlprejRfeVJVcjFadGZzdWhGZnhfUXdnbDF1c05WVGg1Q05IbEdneG56UTZMTS1sQ19DZXNVMWpabUdDUDhmMWJqNjlYOEliRXpMM095VzFmal9DTklkXzVQS2RrOC1iWlBiVzI1czgzdmVNeXlEUVNkYXN6NWpUa1NXczZzajU0WkRKWWloR3l1aHgwWC1jdzV2dzJmY3JON2ZHc2Z0Uk5BNURtMTNia211cTJTek1ENG9vSHZreS1CeDNiUWhJeTlGQ254a09rWFFJTTJBLVFyMmhFNVlhRUk4T0Rfc0VYSE5xVkkzV3AwN25iQUpBWmRmdmd2T2R2eUxjYkF2UTFIXzZRSTRfeS15NjdxbUhEd2s1UkpYUUtmMHpuN0pmTHpWOEl1VUJHQ19LdHEtdXRtZVg4RUFaYi1abE02bXBxUEJ5RHZOLTEzUnZ4TDNkdGptZlNjdHh3NWlURzc2TFJ3MmtlY3RFMDJJX3ItcGRMdzNJVi0tSlc0d1RKeDNwVUl4TTBtRlc4cnBwZDFETGY3ZHBwYkxB?oc=5",
-      "pub_date": 1764787800.0,
-      "article_url": "https://www.marketwatch.com/story/microsofts-stock-falls-on-reported-ai-sales-woes-should-investors-worry-8273cdf1?gaa_at=eafs&gaa_n=AWEtsqeVnb4k-JP18-jLI3c3_pPX9a08x0SPEsUGj-h5oqWWKiAxyVqfy6Jw&gaa_ts=6930a199&gaa_sig=tq9E0OJeyEq7cOnR6i7gOZDmAW7olgDlyczbDL1OpWPquWm6rKv13LDPvmMozK5t5tQHJfQPPvSCm8ZwyggnEw%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Microsoft denies report of lowering targets for AI software sales growth",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQem5HdVNmWmZRT194Y0VsTkJQLURoU3lTaHVpZWYtWDlYZmpXOUs2d09WeUJCSGZvYy14MmNpN01BS2tPUkt1TW9FeFY1MC1kTFhxTWRrYjA1ZHZTNHd1M0YySUdfNzZoQm9jM1M4R1BTOGxuaVJSSWVPeFFqYndNUFV5Zk9JYk0?oc=5",
+      "pub_date": 1764771331.0,
+      "article_url": "https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/6f18ec98d8371aa28c130bea8170a867",
+      "description": "Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many \u200bsales staff missed goals in the fiscal year that \u200cended in June, The Information reported on Wednesday.  It is rare for Microsoft to \u200clower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about \u200breal-world adoption of AI as an MIT study from earlier \u200cthis year had found that only about 5% of AI projects advance beyond the pilot stage."
     },
     {
-      "headline": "Why Does A.I. Write Like \u2026 That?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOMFdmZlBiR0hQRlBMTkJyd1NoQ1R4dTZsUTFIUlJQQXFOd3ZRNG1MWWFMZ1NlMFhTTUdweXZLWmcwbTVVQmRJM2JweWlUalkwSGM3RDlOQmFzYlI5UFluUTBPajJXLWxNekR6eDhSLVI5X2owOWJmNHlR?oc=5",
-      "pub_date": 1764756055.0,
-      "article_url": "https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html",
-      "image": null,
-      "description": null
+      "headline": "AI bubble talk isn't constructive as trade is in 'early innings'",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd0VROG1HMTFoWEp2ZUxibzZpb05vdjl6OFktMm93X2ZXOWpCZVVVRF8wT185QXhVbk1qbGZIbk5NZVdZNDNvby0xeTZkcVozN3hmNUJyWHBvRUdtWWdhaTNXNXpyaUI5YnRHZ2VTVVItbVZQY1ZEcUh3TmM1QzF3eVZ6Vk5KUQ?oc=5",
+      "pub_date": 1764794837.0,
+      "article_url": "https://finance.yahoo.com/video/ai-bubble-talk-isnt-constructive-204717405.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DeUecOdiFo1mcn1Zdl.6zw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/cec1c360-d088-11f0-bf7d-380d12811f49",
+      "description": "Wall Street has gone back and forth over whether the market (^DJI, ^IXIC, ^GSPC) is in an AI bubble or not. Laffer Tengler Investments CEO and CIO Nancy Tengler just doesn't see the market being in a bubble yet. Tengler speaks with Josh Lipton on Market Domination about the difference between the current AI boom and the Dot-Com Crash of the 1990s, and how she expects to invest the AI trade amid shifting sentiments on the ecosystem's top contenders. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination."
     },
     {
-      "headline": "Anthropic CEO Says Some Tech Firms Too Risky With AI Spending",
+      "headline": "AI is Infringing on Your Civil Rights. Here\u2019s How We Can Stop That",
+      "source": "American Civil Liberties Union",
+      "source_url": "https://www.aclu.org",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmVtUS1EYzlOV1YzN2FYVURwUmQ1QjgtU1FJNU5ObWczZ1lEOWkyb202WEY3em44YkxIM1VOMGVyTkgwU2h1Und6Ql9lUVFfYmp0WjhTalRtWURWLXBIT1NoMUpxT0xic2hFZ0FidS1HbXZQbUctZnc1S3dBTEZESEl4YklTMnpWVzQ5WnJRLWsyaFFKQ3JxV3NwWnZqUVpPd0hEN1pEVFc?oc=5",
+      "pub_date": 1764795721.0,
+      "article_url": "https://www.aclu.org/news/racial-justice/ai-is-infringing-on-your-civil-rights-heres-how-we-can-stop-that",
+      "image": "https://assets.aclu.org/live/uploads/2025/12/ai-us-capitol-building-s.jpg",
+      "description": "By supporting the AI Civil Rights Act of 2025, Congress can take a monumental step to protect our civil rights in the digital age."
+    },
+    {
+      "headline": "Salesforce Gives Strong Revenue Outlook, Touts AI Adoption",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDBTTnZzQVFka29uMTh0YTZ1ZktNQWx4RXRxRWVFaWhEaTVtV0VfM1hmTnhEY3A3T1ZwZ01QSXdUaG96bVNUc2tsb2RCc0hpWTZieVVaWjZPcXBBb3UzZFRPYXNmd1p3WVNiTnJ1MUJGT2FidmpLd2N0ZDRLOFlEbXNSSkF4NW5UanNxLXNPRzhXSEJWVGJQNjlOUTMwbGtyWUVvTXpCUEVhSTRQa242c0d3?oc=5",
-      "pub_date": 1764791148.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-03/anthropic-ceo-says-some-tech-firms-too-risky-with-ai-spending",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why the GAIN AI Act would undermine US AI preeminence",
-      "source": "Brookings",
-      "source_url": "https://www.brookings.edu",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUWlnaklUc2t2Ry1QeThaTENuN3hBVUlJb2lYcmU2OW9lTTN3MVFVNFNLNWhWZjEwWnU5eXk5QS0wNXZhUmtRUVBqRmtWY213S2FWOGdXNDVaZ0tuOXhES05XMDh5Z3hRZmJRNFpBWDAwLUJxSnp2UnhNMV8zTE91cHp3VnR3T3o1V09hS1VRQTBfUTg?oc=5",
-      "pub_date": 1764792435.0,
-      "article_url": "https://www.brookings.edu/articles/why-the-gain-ai-act-would-undermine-us-ai-preeminence/",
-      "image": "https://www.brookings.edu/wp-content/uploads/2025/11/2024-07-25T152332Z_1027094161_RC2EY8AXA4P6_RTRMADP_3_AMAZON-CHIPS-LAB-1.jpg?quality=75",
-      "description": "John Villasenor discusses how the GAIN AI Act may actually accelerate China's AI ambitions, despite seeking to curtail them."
-    },
-    {
-      "headline": "Open-source framework enables addition of AI to software without prompt engineering",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzY0a3RrQmlra3M4amZYbk51SDIyclh4bkkyM1QzVjJZZFFHYzZPWDZVa1pvZTVkRGFjcTRRQVhIdkJodVpIUS1iUGgtamlmWWctRFdGT1dmQkJDUlBWc2NzeFhmZVlPOXV3QW5DUjlISzlNRUEtZW1TSXoyQlRadmJGdw?oc=5",
-      "pub_date": 1764791665.0,
-      "article_url": "https://techxplore.com/news/2025-12-source-framework-enables-addition-ai.html",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYU1kNXpxc0NFZVhwSV80bTd6S0VZVU80Y25lUVpTUjZuSWtmelJHd1FZdXVRMDFYRkVyaDRyNWFzZk9TVmZJMnZQSXBjcHZfNEVIX3hOWjdkR3A3VVF0dmEycGxEd2c4SEZWX0wxLTFTYmVkaWQxZDlnS1VKSG9sOHpjcGQzb3VzTjUxTDYxR3FMTjdMUFhLQlVBR2NPbUVNYm9BUzJSZlNEcURU?oc=5",
+      "pub_date": 1764795792.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-03/salesforce-gives-strong-revenue-outlook-touts-ai-adoption",
       "image": null,
       "description": null
     },
@@ -78,9 +78,9 @@
       "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNeFFhOUdYc0pxdVFEWmNOVGNFVTZaeVdEWWd1UGFjOFR6cEhHeEJJWEVncW9ZSHR5X2lfVXozeUd0QjJBc1ZDNC1pMFNWNnFjNzZVUkNuZV85NkJ1a2RTRWFWVmk2ZlhwdHhJaTJCSVRHOGdZejd1TUVhODhEWUV2aF8wU3cyTzZheUUzTjA4VHg0SThnLU05OXFMQjQ3b3RqT2VHVlRqMFR2WU5TSExyR3hMOGgydllwcFFSTFFMU25FWlM5VnlfeVhHVklraTdqV1hwT0Y3elZ0Y1lVLUtjRXlwcGRvRzZ5OExna0gyMS1WeUVEcVFDaGZUN0M1VXdRT3RTVDRsX2NLdUxsNVpnQ3JBdzZUWXMyWG1CcC0yNVRoWFZDU3I1dmRsSzJ6WTFLS3lORHA4YWFaMzVlNjV1LVI1eHBGbEJMcm9ibV9hZUZQYkNJZmlzS0pSOE54TWdOTGZBLUZwU3pVenhTU292UFpVbG10YmlUXzV2RUJ4dUFMdDhhYzdQanJxLUpIT0xZVlNDR3NGekVDbXhsZGJhVTN5ekRxalo4N21wbWRXWmNVa2RHdHVIR0JHVXg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOQ05adnBjZXZOQUlYejFTWU15eVRZLXR0TmZwLUJNX1haV2FmRUxZN2xEaTAwZXlRREU0MmtGTWVxZ0ZmRzRkdUdVR2RCWVNKMHZDbW83S3hGMnJ3S3RxcHZGMXVjWk1QZ19aZmt3N0NGb3djNlAxUjM3UnFZSTVReUxzR1NQWWFDMk5UcmQtam5yWFpWT3FmYkI4dHNmRy1ta3VrSWw1d21iTFNSa0pOTkUxdk1vSWN1T2VoX080TGU3MThrRzZ3VHJNV2FxajE5QnRhcFBPWndDaEtLc01vM3o1N2swaUkyYlh4QXV6LUlxUXVONTlJanZQR3NnN0VoZWVnRmFUUU82VkpWbk9CUFJHRHZ5b0FSZHZ2allpSHBfQ240SFR3QkdBYjFvdnVMUGhYeHQyQVJWLTlGa1Q3cGszVjU3ekwzTlJKUTczYlY5bDlfcDFQMF9mNlRBQU9BX1F4bW9uanIyd2VsSVB2OWF1UDdWRkZTeDVDM292R3M1QTNsNXB4UjVORWlPbkFmRHNZcExDa3JwZGRITW8wMzlVTldlWEVBMHN1T0ItVG5SZkR2V1hhbWltMzk?oc=5",
       "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqftXj8REnjQFZsnWtiXV7V2xsbT9L6WysfW9GKOIEvqyFyf5loaMvdQ&gaa_ts=6930a199&gaa_sig=edWQfC7-zJXoPjLTlmPDPT8L-BXD_n5HUxCNueAGrFdd_Ifv88SAZ3URThEMPJbkE8HdBrH5dIGBEidKRExhWQ%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqf1OfjtyiuI0cy1zapx-wkGunJgr9tuS8edIGw4divSwhBpohkvHNHM&gaa_ts=6930ae60&gaa_sig=bYnJLUY5Y0xXsANky59xRemLciWbbbnr-TJg2zJloKGAmtjW2omm9W3K8aXfVv8EUAZgyyzw89Yv3B6cZpaNVA%3D%3D",
       "image": null,
       "description": null
     },
@@ -95,16 +95,16 @@
       "description": "How AI Is Transforming Work at Anthropic"
     },
     {
-      "headline": "Nvidia CEO to Joe Rogan: Nobody \"really knows\" AI's national security implications",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51LThyeXBKakU0enRadWlCMHdaMUp4aWRKMVVSUU1uU1g1OG1YamxiSm5BdXlzQ0tnSzNYQzNlTTlYY2U0eDRDdkc2bGJBSUtyNjNoV0luT1V4S3dGbjhxdWh0WmJKRnNSUEdVNW95S1U4eVMxMGo3SA?oc=5",
-      "pub_date": 1764787365.0,
-      "article_url": "https://www.axios.com/2025/12/03/joe-rogan-jensen-huang-podcast-trump",
+      "headline": "The AI frenzy is driving a memory chip supply crisis",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
+      "pub_date": 1764731700.0,
+      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T20:31:46.592056+00:00"
+  "fetched_at": "2025-12-03T21:26:13.608523+00:00"
 }

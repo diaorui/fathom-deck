@@ -45,66 +45,66 @@
       "description": null
     },
     {
-      "headline": "One day, AI might be better than you at surfing the web. That day isn\u2019t today",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3RRQW8wejVkRG4tTUl2YWpWdWI5eXJnRjhPdWJmUldBRy1DeTVzSDV6aTNMVzhUVkNMWElHNUhQN2V3WEZjM3hZN1VkanhoY1RMYlpHOGxaZlhhbGJ1eE1nMkxETWNWSk4zck9PTHlBSmxiYlJFS083SHJOd05FWXhzVzRXRUdKV1dCT3dDUDZzWDVXYmRSc3FQWQ?oc=5",
-      "pub_date": 1764781200.0,
-      "article_url": "https://www.theverge.com/tech/837287/ai-browsers-comet-chatgpt-atlas-edge-copilot-chrome-gemini",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258142_AI_browsers_are_nowhere_near_ready__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "For sale: walking shoes? Not with AI"
+      "headline": "How AI can identify skill gaps in the workforce",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaG9YTGktZVhNWEhWOFNQUEVpeUxKQkc2YkFSVkMtUzJfbUJOYzAzY09wNklNUFRjQXpxdnFmeE1adGM1dHVjT1lUb0FCXzF4NjVKM21DSXY1bVFtY3BISWJadFpjc3F2Q1NtNzlVNVlnOF9wUkFxUHF3T3VtZDJrVjlsYmZmUTlYbDM4b1B3YVdNYVczQ1haZURWSzU?oc=5",
+      "pub_date": 1764785580.0,
+      "article_url": "https://www.businessinsider.com/ai-improving-workplace-how-to-use-ai-identify-skill-gaps-2025-12",
+      "image": "https://i.insider.com/692e1ef07ecd1d1da662b92b?width=1200&format=jpeg",
+      "description": "We spoke with multiple HR experts to learn how companies can use AI to identify talent and skills gaps for employees' benefit."
     },
     {
-      "headline": "Nvidia servers speed up AI models from China's Moonshoot AI and others tenfold",
+      "headline": "AI Imaging Halves Delays in Stroke Patient Transfers",
+      "source": "Medscape",
+      "source_url": "https://www.medscape.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdEIzVnpNMjJ6V19YS1ZBeExPQk9hQzRYSmZ2MXdNb1FtRkM0QXZXcG9MU0p1MFlzTHZwMVNWS1EwZVpNOUNJZUxjT2VWVk1QaXJrUXlHeVdha0hTVnA5VThxaVU5cDRoZ2tuWkdLLWE0QTEyS0hIYXpiZy1IeDVBYTF6XzIzeThJWFZyV0taQ3dPcWpzd0Q4YlVoZWgzcXgx?oc=5",
+      "pub_date": 1764785035.0,
+      "article_url": "https://www.medscape.com/viewarticle/ai-imaging-halves-delays-stroke-patient-transfers-2025a1000xwl",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQZ0pxeThnck5weENkQmVfaXJUcjcwbjR6ODViY3E4cDl3b3BYQV95SW0tYWUwTGlGZDNsT1N1RGt0czFsRGkxZXZ3cktKbEdoRjBhRXhOSk1wakpPZldaQlBjQ1hvekw2dVh3dGhmTkp6WFlYdmM4SFAwcHFQdUhYVTdWMGRXMTFNdnZfdnhtdjJyNjdGQUxmYkJXS3pFR0pONHdmd2NBc0xSNk4wX1UzVEpXRVMzdW9jeUdsNGk5WXc3QmdSM2pvcVFVLVVUNEg0UHcyXy1kc2VQQlU2TmIzUmgybW1lRkRYaWg5NDNKUEtsV0J5RkNQQkdjRDlIY2FMR2lqS21EekVyR2tfZEV6UVRaT0dYRzI2WW1ackZnaHZqZ1RscnE5U2RyaGk5STZiYmJRV19JR2FpeUhOTmNwYkloMGRyUk0xMVBSXzNpSjdDV1JaTDdRMEJUYV83aHZjVjl3ZWt0RFlyRV80RTF5RzJXZTB3VGU5NlZXSk9rWEFMLXRvdVpONUVFNS15WXZRcTA5eDVXcWtQbU00amw3ZlVZZFZWZUlTX2FRRUpGUVhFNlo1WEkzaUZ3bUo?oc=5",
+      "pub_date": 1764656820.0,
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqe21omFJ62i3NFbccQ0_c9Gvxu6cIieeHPrF0HlIBbOJBQ9tvxGV9EW&gaa_ts=693084ab&gaa_sig=YQXBtVjF-Zo22PiRP3uNq_SWGMQts3SDL5UshosSCzZZC66nFVdNsYU9r66vf0tAtX6wmVp2_psf-CYFyafmGg%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "LSEG to integrate financial data into ChatGPT in AI push",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZGeWtQd2wyblh4MjJKTElXSnpxd3FlT2dsUHg4YTRSQWF0SkFOTnJfUjFHeEtQZ0g1OXJkZ29wNmZHdXZWM0h0UE0xaXRoSXRzLWI4NFdxMHo3MFFHMk90cGZmZVFmbGZ1Q0hXX1FKWGF0Z2Q4SmlrVnByc3NjZkpkdnNCcU9mT1RoMjBsQjVoUXFMR0NyUlVMQzctZmhwVFhXbUlOMEhqSkg4MGNMZGhmdzdiZDg?oc=5",
-      "pub_date": 1764783200.0,
-      "article_url": "https://www.reuters.com/world/china/nvidia-servers-speed-up-ai-models-chinas-moonshoot-ai-others-tenfold-2025-12-03/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGdaLWppd1hfc29TLTFfdW9zeUNGelZweHVxaWkxZkVxNVIwYVJQd1FsSV9XdFFHSlBqeE1VMklFbXhsOU5TOThqdjBvbldNU1JIQks5NG4yQ3RmT0dvRVFWSnN1c3U1YzJMUF93bXB1U3FZVU1BOXo4cTF4Z0s2dnA2OGg0TWg4djROSmtORjNIb3ZmRmdBQkoxYzlHQXNBMmRZOHZab2kwQ1hV?oc=5",
+      "pub_date": 1764768624.0,
+      "article_url": "https://www.reuters.com/business/lseg-partners-with-openai-integrate-chatgpt-with-financial-data-2025-12-03/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Amazon challenges competitors with on-premises Nvidia \u2018AI Factories\u2019",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQck0yMkdUMzdCNldOT1NmWnBHNDVJZnFnOTdsTkFaRFc0ZURXVVRRX2JsVVVwWVR2TFVJVkV3eXZDY0twdURGWWp5X1YtMkFPOHJSM2dEc2lQOVR4V2NnbzdhM3FveWZaQnBNWFpRMk9nMzI5OTU0dk5sU01Od3IyallSSm8ydHYyajB3UXN0eHVLWE1fSGc?oc=5",
-      "pub_date": 1764722580.0,
-      "article_url": "https://finance.yahoo.com/news/amazon-challenges-competitors-premises-nvidia-004337664.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/7fy1kLfQMMxlMaH5g4u5Sw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_finance_785/549b2099ae1577b4f87859d62bb7d493",
-      "description": "If the product name sounds familiar, it should. It's a collab with Nvidia that combines AWS tech with the chip maker's tech."
+      "headline": "OpenAI declares \u2018code red\u2019 as Google catches up in AI race",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtMkQwcnZCa05fMFpnbWh5dzdaWUFodDdKaDB5N2N6THhRdVNnWU5NY3dqNHVsZU0yWVJ1ZmZPOXo4UFpGSXk1bnpCNnF2ODl3TGFEajUzMHBiRjRIbE1JUE5pQzJsMnRDY2RpcQ?oc=5",
+      "pub_date": 1764675607.0,
+      "article_url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Google\u2019s own \u2018code red\u2019 response to ChatGPT has started paying off."
     },
     {
-      "headline": "China wants an AI-powered military built with Nvidia chips, and that\u2019s a problem",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVVczd3BCWlIwOU5FbDE5SXo3T0ctMHVFM1hPR21maXlDZ2NNbjgtOHBsVDl3VzhhR3JNTTJoWEZBc0EzbXlPd1NiT2V3ZHVQOWpQb0h6WWIzY1UwcF80LV9mNkNGUmdZcEFjMWVsU3RKTzAzamJKTzVwMDFtNW81R9IBhgFBVV95cUxNYjhPay12RlRnVy1NWWl0VnE5R0xra1A2TlJQX3ljYVpDakQ2aVdtVlc3Y3N6N2MtVlFLdlB1VThrd19LM0NyQVNWa0QyTktvdkpaWHV6RGE4TEhCaTZPZEhZMUNlWDBkM2xqa213cWVubmE0MkIyQVRKRFlEaEdIanllLTFFQQ?oc=5",
-      "pub_date": 1764783000.0,
-      "article_url": "https://thehill.com/opinion/technology/5630281-nvidia-china-military-chips/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Travel\u2019s Newest Strategic Hire: The Conversational AI Designer",
-      "source": "Skift",
-      "source_url": "https://skift.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVU1ZSGstQk9Xa2N3Rkp2cHdWS3c4eDYzSm5ibXFTRkNqamFvMGVkal9rX2FZbG5tazBTY3ZiM2VwVzZlMEUtTUNhbldxNUxfTWRsZEZXRWE2UEdDMW1rWExka2lwRTJvQl9NN2VHa29yRTR5cHBMRk5XNXJ6SWVEcm40alJsQkExTXBBRF8yX3NtdzVO?oc=5",
-      "pub_date": 1764782977.0,
-      "article_url": "https://skift.com/2025/12/03/travels-newest-strategic-hire-the-conversational-ai-designer/",
-      "image": "https://skift.com/wp-content/uploads/2025/12/1202-x-802-px-sign-up.png?resize=1024,683",
-      "description": "Over the past few months, a job title that barely existed a year ago is cropping up across the industry: Conversational AI Designer."
-    },
-    {
-      "headline": "Live updates: The Hill's AI in America Summit",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTZqendsTm5pN1dKQ1ljX2FFY0Mwd0NLQmJ1NllRMzVmdmpUd0kyRHJSQTZGZTEzbWt1N3lob3k0WXlncWxiNko5OTg1MUl1aWdIZ1RvbEFCcHhoRmc2T1VmSHh1T2IybXNwcVdjX3ZNNkZ3eEFZRE5udzUydENGTkpMSUJvNzTSAYwBQVVfeXFMUG5VZ1ZfTzdDYjdSNlNRTnMxb05CM3c0YzZ5NWFJUXpmcE41dTcxMXVzT3JndUdDZ0FJMkI0NkswWU1la3JBM2p2OXNCMzFjRGFOS3BLWkZfekcwWWZNay1LLWZROVpBTGFaYV9uNGxuUlpQTm95M2hQQUllR213Zi1LTk9ab2xrWEptT0s?oc=5",
-      "pub_date": 1764773040.0,
-      "article_url": "https://thehill.com/policy/technology/5629740-live-updates-ai-in-america-summit/",
+      "headline": "The AI frenzy is driving a memory chip supply crisis",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
+      "pub_date": 1764731700.0,
+      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T17:40:43.214160+00:00"
+  "fetched_at": "2025-12-03T18:28:22.178242+00:00"
 }

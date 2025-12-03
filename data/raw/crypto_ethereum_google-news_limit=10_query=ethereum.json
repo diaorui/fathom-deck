@@ -25,26 +25,6 @@
       "description": "Ethereum treasury purchases fell to 370,000 ETH in November from 1.97 million in August. Bitwise says the treasury model is unwinding as smaller players struggle to survive. Bitmine holds more Ether than all other digital asset treasuries combined."
     },
     {
-      "headline": "Bitcoin logs its worst day since March",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
-      "pub_date": 1764574221.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
-    },
-    {
-      "headline": "How High Could Ethereum Price Go When Fusaka Launches? History Gives a Clue",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTBHTmJ6N2Q3SVVOQXAzcFp0RzhhNVkyRmk4RkRmMjFPb1Z6V3BReE1RZW5wVTBLTVcyTFo1UDV2OUk0aVA3OHUxWm03bldiMktqZFFYeHVTNjR5b1RsXzNPcG12dWMzenI0VmxKbkxDWkZYMDR0Q3hkZ0lJOHRzNVprNks?oc=5",
-      "pub_date": 1764685935.0,
-      "article_url": "https://finance.yahoo.com/news/high-could-ethereum-price-fusaka-143215170.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/7wit.kxnhFJxV2kfuxPg2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/c1651528d292b18e57fe435fffeb9237",
-      "description": "Ethereum\u2019s Fusaka upgrade launches Dec. 3. Past upgrades have triggered rallies. Analysts remain unconvinced. Ethereum is preparing to implement its next major network upgrade, known ..."
-    },
-    {
       "headline": "The Protocol: Ethereum Preps For Upcoming Fusaka Upgrade",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -55,14 +35,14 @@
       "description": "Also: Anthropic On DeFi AI Agents, ETH Devs Push ZK Protocol, and Bitnomial"
     },
     {
-      "headline": "Ethereum gets huge mainnet upgrade tomorrow - Here's why you should care about ETH's 'sloping side road'",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hndkpQN3lEOHFPRTVhd0E1eE5NRkZ5endCZlNOVm01am1DRF83QkwxcU1yM1hPOXpJaTBBbVhmX1FmVk5RU0EybzZ3ajZaYU5XbkVweWp6cHFBMnhmaG5XcWxhd3JLYkJJM0NDMVprRUVMMllEeEFKX3FVcmlvWWlDelk1QV9RQnhQMWs0aG5ZS1IzMDFqcEZlOGhiZjloaE1Nd1BEdw?oc=5",
-      "pub_date": 1764686100.0,
-      "article_url": "https://cryptoslate.com/huge-ethereum-upgrade-goes-live-tomorrow-heres-why-you-should-care-about-fusaka/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2025/10/ethereum-fusaka-.jpg",
-      "description": "Mainnet activates at 21:49 UTC, and BPO forks on Dec. 9 and Jan. 7 lift blob capacity."
+      "headline": "Bitcoin logs its worst day since March",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
+      "pub_date": 1764574221.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
       "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
@@ -73,16 +53,6 @@
       "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
       "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
-    },
-    {
-      "headline": "Ethereum Devs Push ZK \u2018Secret Santa\u2019 System Toward Deployment",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzRaT09BbXFQQVk0UmY3aWZvQ1dxd3dERWdscDVvNzBLazYtNngyUlYtQTBhZW1qTmt0Y2xaUVpOOFU2VnRnZ3A1cGd0UFByZExKMjVxTzVmM0lybDI2bGRoWTlxeGhEajJxNmlOWHVJdld3clpmQUhvWC1YVDRYMnJQc0NGNFVrQjQzRjdFWjhFc1puQk85dExsNk44NmVRcWc?oc=5",
-      "pub_date": 1764660669.0,
-      "article_url": "https://www.coindesk.com/tech/2025/12/02/ethereum-devs-push-zk-secret-santa-system-toward-deployment",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88d3548e2bf6ce1a9780df7e901bda3d36597f8-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The proposed protocol uses zero-knowledge proofs to verify sender\u2013receiver relationships without revealing identities."
     },
     {
       "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
@@ -103,8 +73,38 @@
       "article_url": "https://www.fool.com/investing/2025/12/02/why-ethereum-is-gaining-fed-vice-chair/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845234%2Feth.jpg&w=1200&op=resize",
       "description": "Stablecoin regulation is moving forward."
+    },
+    {
+      "headline": "Inside Vitalik\u2019s 256 ETH grants: When Ethereum falls, privacy rises",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTmRjeDZRMDVIdGxDN3ZjTWVDTllYWDF4TGhyZHBhZ2VFQ3hlanVIOUtJNmJSZ3RubS1jdG5BTk1IQ1JxWk5ySjNMblBkSHZPZkdNd2hWRlRSdEJ6M3Y1T25zRUZtdDNDQmRLOEdveFZEU1Z6WGdBcE8yNWx1QTFYcVE0U21ISFNudjdNdA?oc=5",
+      "pub_date": 1764709500.0,
+      "article_url": "https://cryptoslate.com/inside-vitaliks-256-eth-grants-when-eth-falls-privacy-rises/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2025/11/ethereum-privacy.jpg",
+      "description": "Vitalik sent 256 ETH in grants to Session and SimpleX, two metadata-resistant messaging protocols. We explore why."
+    },
+    {
+      "headline": "Tom Lee's Ethereum DAT BitMine now holds 3% of the total ETH supply",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPei1NLXdBczcxZ19pWFkzWk1OZkJnX2tqdnYweVhFOVBMdElZMi1Fenh0UmlNU2RvR1hhRm9VbVRsR1NZdWE1bzBjb051UXQzN04zUzd1QVVlc2VkX0dFTU9WMXNwVTFqZWV1UDUxMWpwTGQzS2lQbDd1b2ppMWxtdlBoalhGbVXSAYwBQVVfeXFMUDhaLWpmM2dReUdlajJuSWc4LWdhUW9rd0d1TkRzaWdxSmlYc01RRXBaMDExbGpGSDBITUVlaWl0T24wcHFrVkNVb1ExVGN0SWJBV0xpcEYtX0d1Z1FaOFRwcUxCcjBvXzNGTG1DbFBJWHdfT2hadnd3LWpZaEMwSDljZ29VOUdLQ2N5ZDM?oc=5",
+      "pub_date": 1764601090.0,
+      "article_url": "https://www.theblock.co/post/380925/tom-lee-ethereum-dat-bitmine-two-thirds-goal",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Crypto-adjacent stocks rally as bitcoin and ethereum bounce",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeTE5TXVzVFcxOGJic2lCOU1USVpGb2IxdDQ3SEpKOHN4ekRFd04wVTZjMjBLRVZ5eVlvYW1RRWt2Z2VraWNaZ1ZmQTB1UnBIMjNud0M5YlY0blZfdG9Mb0JJSl9SVlNNSGQ3S2dPdkNpVEIzQlNYUWY1Yy1HaWotQnFQUFpxNkNkUzIwRVVEb0JzT2N1eDJpSHhuaFZPZG5hX0taY0FUTmdMSUU5OTRSM0p4VmxtQ2VSX21tTUR3R1hlWlNLbl9Gdg?oc=5",
+      "pub_date": 1764690151.0,
+      "article_url": "https://www.tradingview.com/news/reuters.com,2025:newsml_L6N3X80UU:0-crypto-adjacent-stocks-rally-as-bitcoin-and-ethereum-bounce/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "** Shares of cryptocurrency and blockchain-related firms jump early Tues, as bitcoin and ethereum bounce back on Tues** Bitcoin, world's largest cryptocurrency, fell >5% on Mon and extended recent steep losses as investors shunned risk assets** Bitcoin BITSTAMP:BTCUSD up 4.9% at $90,658.57 on Tues\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T17:40:32.928945+00:00"
+  "fetched_at": "2025-12-03T18:28:09.690406+00:00"
 }

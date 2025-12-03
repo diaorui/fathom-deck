@@ -35,15 +35,26 @@
       "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
     },
     {
-      "title": "Kling 2.6 Just Dropped: First Text to Video Model With Built in Audio & 1080p Output",
-      "author": "BuildwithVignesh",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd821d/kling_26_just_dropped_first_text_to_video_model/",
-      "published": 1764777565.0,
-      "thumbnail": "https://external-preview.redd.it/OHJsajNwdXFoMDVnMXqzGzxFvyAaOatf9aIFAkYM5YjCgfdlPiFuDAM8jT7a.png?width=640&crop=smart&auto=webp&s=383c64b60abd3a7e405bdea2f1a52c35879128cf",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Kling AI just launched Kling 2.6 and it\u2019s no longer silent video AI. \u2022 Native audio + visuals in one generation. \u2022 1080p video output. \u2022 Filmmaker-focused Pro API (Artlist). \u2022 Better character consistency across shots. Does native audio change how fast AI video can actually replace editing workflows?"
+      "title": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
+      "author": "businessinsider",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdb7ml/microsofts_reported_sales_struggles_are_a_warning/",
+      "published": 1764784378.0,
+      "thumbnail": "https://external-preview.redd.it/e0-HB8ToMX9nnFYcnGMYwtKYDJwlU0myzQ-_qvVPa-g.jpeg?width=640&crop=smart&auto=webp&s=b0bc391a52bd929bb1425bd7bccc7fd7a0d6b07b",
+      "external_url": "https://www.businessinsider.com/microsoft-stock-ai-sales-outlook-quota-msft-tech-stocks-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "A report from The Information that said Microsoft is struggling to sell some of its AI tools to customers sent the stock tumbling."
+    },
+    {
+      "title": "IBM CEO Has Doubts That Big Tech's AI Spending Spree Will Pay Off",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pcz05q/ibm_ceo_has_doubts_that_big_techs_ai_spending/",
+      "published": 1764751152.0,
+      "thumbnail": "https://external-preview.redd.it/LDmUKkP5EtGeMlK6mg29YyOlT5Yz1P9ui91JFePOJE4.jpeg?width=640&crop=smart&auto=webp&s=1b29885c7e22ab484ec146da8f553635634ad4e7",
+      "external_url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Data center is not a profitable business, given land, water, electricity are scarce resources."
     },
     {
       "title": "What AI tools have quietly become part of your everyday routine?",
@@ -57,15 +68,15 @@
       "description": "Lately I noticed I\u2019ve worked a bunch of AI stuff into my daily workflow without even planning to. I draft things with a model, clean them up myself, then run them through a detector that gives actual sentence level notes so I can fix any stiff sounding parts. Curious what everyone else is using day to day. What stuck and what did you drop?"
     },
     {
-      "title": "IBM CEO Has Doubts That Big Tech's AI Spending Spree Will Pay Off",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pcz05q/ibm_ceo_has_doubts_that_big_techs_ai_spending/",
-      "published": 1764751152.0,
-      "thumbnail": "https://external-preview.redd.it/LDmUKkP5EtGeMlK6mg29YyOlT5Yz1P9ui91JFePOJE4.jpeg?width=640&crop=smart&auto=webp&s=1b29885c7e22ab484ec146da8f553635634ad4e7",
-      "external_url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Data center is not a profitable business, given land, water, electricity are scarce resources."
+      "title": "Kling 2.6 Just Dropped: First Text to Video Model With Built in Audio & 1080p Output",
+      "author": "BuildwithVignesh",
+      "url": "https://www.reddit.com/r/artificial/comments/1pd821d/kling_26_just_dropped_first_text_to_video_model/",
+      "published": 1764777565.0,
+      "thumbnail": "https://external-preview.redd.it/OHJsajNwdXFoMDVnMXqzGzxFvyAaOatf9aIFAkYM5YjCgfdlPiFuDAM8jT7a.png?width=640&crop=smart&auto=webp&s=383c64b60abd3a7e405bdea2f1a52c35879128cf",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Kling AI just launched Kling 2.6 and it\u2019s no longer silent video AI. \u2022 Native audio + visuals in one generation. \u2022 1080p video output. \u2022 Filmmaker-focused Pro API (Artlist). \u2022 Better character consistency across shots. Does native audio change how fast AI video can actually replace editing workflows?"
     },
     {
       "title": "AI companies' safety practices fail to meet global standards, study shows",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "ChatGPT now has ads (even for Pro) New Nano Banana Pro competitor Telegram launches AI computing network A collection of AI Updates! \ud83e\uddf5 1. ChatGPT starts showing ads on Pro accounts Brand mentions appearing in replies, ads on iOS - even paid subscribers seeing placements. Users are losing it as OpenAI monetizes across even the highest of tiers. 2. Perplexity launches memory feature across all models Remembers threads, interests, preferences for smarter personalized answers - works with their Agent Assistant too. Works across search modes with full user control - auto-disabled in incognito. 3. OpenAI Images V2 Near Launch to Compete with Nano Banana Pro Current image generation is slow with limited editing. New GPT-Image version will match Nano Banana capabilities - faster generation and advanced editing features. Leaked \"ImageGenV2Banner\" in ChatGPT web app confirms imminent release. 4. Gemini Offers Free Pro Plan to Students for Full Year Eligible students get access to Gemini Pro features at no cost for 12 months. Major push to capture student market and build early loyalty. Direct challenge to ChatGPT's education dominance 5. Prime Intellect Launches INTELLECT-3: 100B+ MoE Model with Scaled RL State-of-the-art performance for its size across math, code, and reasoning. Built on their end-to-end stack - same tools available to developers for environments, evals, RL frameworks, and sandboxes. Scaling agentic RL and long-horizon agents next. 6. Runwayml Unveils Gen-4.5 Frontier Video Model State-of-the-art motion quality, prompt adherence, and visual fidelity. Executes complex sequenced instructions with unprecedented physical accuracy - realistic weight, momentum, and surface behavior. Built entirely on NVIDIA GPUs. Rolling out now. 7. Grok AI Now Built Into X's Compose Window Grammar fixes, post shortening, and style rewrites now available with one click while composing. AI writing assistance built natively into the platform. No browser extensions needed - Grok lives in your compose flow. 8. MistralAI Preps Ministral 3 and Mistral Large 3 Release Ministral 3 uses Llama2/3 architecture. Large 3 mirrors DeepSeek V3 as MoE with speculative decoding via Eagle. Both implement llama4 rope scaling. Architecture details leaked via GitHub PRs. 9. Kling AI Launches Kling O1 Multimodal Creative Engine True multimodal understanding across text, image, and video inputs. Unified processing makes creation faster and more effortless. Limited-time subscriber offer available. More announcements allegedly coming soon. 10. Telegram Launches Cocoon Decentralized AI Compute Network 100% confidential AI processing now live. Challenges Amazon and Microsoft's centralized model with better privacy and economics. New AI features coming to Telegram built on Cocoon. That's a wrap on this week's AI News. Which update do you think is the biggest? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!"
-    },
-    {
-      "title": "Anthropic: Software Engineering is Over!",
-      "author": "timmyturnahp21",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdaedh/anthropic_software_engineering_is_over/",
-      "published": 1764782636.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Also Anthropic: https://m.youtube.com/watch?v=Te2I2muO-4c&pp=ygUMdGhlcHJpbWVhZ2Vu"
     }
   ],
-  "fetched_at": "2025-12-03T17:40:13.691564+00:00"
+  "fetched_at": "2025-12-03T18:27:53.343439+00:00"
 }

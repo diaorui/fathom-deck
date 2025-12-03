@@ -57,17 +57,6 @@
       "description": "From EngineAI on \ud835\udd4f: https://x.com/engineairobot/status/1996165785056919634?s=20"
     },
     {
-      "title": "My Robot Dog",
-      "author": "doppler07",
-      "url": "https://www.reddit.com/r/robotics/comments/1pda1f8/my_robot_dog/",
-      "published": 1764781863.0,
-      "thumbnail": "https://external-preview.redd.it/bGV4a212YWN1MDVnMWUWjaeK5hXOBd8FvHKc5cwQ_ZXRvAAQoc_yITuvpEpb.png?width=640&crop=smart&auto=webp&s=8b6893b864dd9f64a51f7d52b6369711a0ab9f39",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Been working on this dog for 2 months. Finally modelled the dogs body dynamics. This is where all the trigonometry,triangles and laws of cosiness that I learnt in high school came to use. Its remote controlled I will open source the code once the robot is complete. If anybody has any queries do dm me\ud83d\ude42"
-    },
-    {
       "title": "Another close up of Optimus new flexible hand",
       "author": "AlbatrossHummingbird",
       "url": "https://www.reddit.com/r/robotics/comments/1pdg7yo/another_close_up_of_optimus_new_flexible_hand/",
@@ -77,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "My Robot Dog",
+      "author": "doppler07",
+      "url": "https://www.reddit.com/r/robotics/comments/1pda1f8/my_robot_dog/",
+      "published": 1764781863.0,
+      "thumbnail": "https://external-preview.redd.it/bGV4a212YWN1MDVnMWUWjaeK5hXOBd8FvHKc5cwQ_ZXRvAAQoc_yITuvpEpb.png?width=640&crop=smart&auto=webp&s=8b6893b864dd9f64a51f7d52b6369711a0ab9f39",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Been working on this dog for 2 months. Finally modelled the dogs body dynamics. This is where all the trigonometry,triangles and laws of cosiness that I learnt in high school came to use. Its remote controlled I will open source the code once the robot is complete. If anybody has any queries do dm me\ud83d\ude42"
     },
     {
       "title": "I\u2019m building a browser-based robotics playground (open source). You can test robots with zero setup.",
@@ -112,5 +112,5 @@
       "description": "His take is that a lot of what we see online right now is carefully staged. Preplanned motions, rehearsed scenes, and very little of the real complexity that comes with unstructured environments. The gap between a controlled demo and an actual deployable product is huge, and he seems worried that people are starting to confuse the two. He also pointed out that most of the systems shown in flashy videos still struggle with the basics. Reliable manipulation. Robust sensing. Working without a team of engineers one room away. None of that makes it into marketing clips, of course. So the public sees a humanoid walking and carrying a box, and assumes the market is further along than it really is."
     }
   ],
-  "fetched_at": "2025-12-03T21:39:20.488268+00:00"
+  "fetched_at": "2025-12-03T22:10:31.305621+00:00"
 }

@@ -15,26 +15,6 @@
       "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
-      "headline": "Bitcoin and Ethereum Price Fall Offers \u2018Attractive' Entry, Says Tom Lee, Predicts BTC ATH Next Month",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5LQUk5Zk55TFcxdlFqVkc2LVJYTFhWdU5LZGUxVjdFWHB2dFpPTUYxb1hMYzBJZ0k5OHJOT0ZuN3I5Q2JqbnRxOGozS1M2Ujgxd05XTkh1RllxQ3EtczJmckVTWk9YNFU3MzV2M01iZDZDZ3BrRFNiaHRqX1hUQXpWcFNvQTg?oc=5",
-      "pub_date": 1764668154.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-price-fall-offers-093554015.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/c0UY4QLSXNfMqv3Sm9B_QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/fc775726129380c33e1402bee8518dae",
-      "description": "Fundstrat\u2019s Tom Lee and Mark Newton remain bullish on Bitcoin and Ethereum despite recent sharp declines. Ethereum and Bitcoin face near-term volatility. Both analysts still ..."
-    },
-    {
-      "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjhSWDVTUWthWXhtQnV2WVA3eXB6UmhqNmdJUG5pa0hQN3Rod2hQN3c3dHNFdTBSSTdIdnJnY29oa1NYbjdVOVM2alpTVWpfSVk1ZkZNWFh4VlByVHJVUTVLWEZ0ZHdDaUxPVFJ3bUJrRFhCblJrRWluSkUwWHN5Z0tqVkdHX0VvTmlUSGlneFY0N09sUHFvSEhWbDZldy1RUTZj?oc=5",
-      "pub_date": 1764600720.0,
-      "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
-      "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
-    },
-    {
       "headline": "The Protocol: Ethereum Preps For Upcoming Fusaka Upgrade",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -55,6 +35,16 @@
       "description": "Ethereum treasury purchases fell to 370,000 ETH in November from 1.97 million in August. Bitwise says the treasury model is unwinding as smaller players struggle to survive. Bitmine holds more Ether than all other digital asset treasuries combined."
     },
     {
+      "headline": "Bitcoin and Ethereum Price Fall Offers \u2018Attractive' Entry, Says Tom Lee, Predicts BTC ATH Next Month",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5LQUk5Zk55TFcxdlFqVkc2LVJYTFhWdU5LZGUxVjdFWHB2dFpPTUYxb1hMYzBJZ0k5OHJOT0ZuN3I5Q2JqbnRxOGozS1M2Ujgxd05XTkh1RllxQ3EtczJmckVTWk9YNFU3MzV2M01iZDZDZ3BrRFNiaHRqX1hUQXpWcFNvQTg?oc=5",
+      "pub_date": 1764668154.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-price-fall-offers-093554015.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/c0UY4QLSXNfMqv3Sm9B_QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/fc775726129380c33e1402bee8518dae",
+      "description": "Fundstrat\u2019s Tom Lee and Mark Newton remain bullish on Bitcoin and Ethereum despite recent sharp declines. Ethereum and Bitcoin face near-term volatility. Both analysts still ..."
+    },
+    {
       "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -73,6 +63,16 @@
       "article_url": "https://decrypt.co/350728/ethereum-whale-buying-steps-up-market-rebound-heavy-liquidations",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
       "description": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday\u2019s wipeout."
+    },
+    {
+      "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjhSWDVTUWthWXhtQnV2WVA3eXB6UmhqNmdJUG5pa0hQN3Rod2hQN3c3dHNFdTBSSTdIdnJnY29oa1NYbjdVOVM2alpTVWpfSVk1ZkZNWFh4VlByVHJVUTVLWEZ0ZHdDaUxPVFJ3bUJrRFhCblJrRWluSkUwWHN5Z0tqVkdHX0VvTmlUSGlneFY0N09sUHFvSEhWbDZldy1RUTZj?oc=5",
+      "pub_date": 1764600720.0,
+      "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
+      "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
     },
     {
       "headline": "Why Ethereum Is Gaining Today",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T21:39:30.623665+00:00"
+  "fetched_at": "2025-12-03T22:10:42.890852+00:00"
 }

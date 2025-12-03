@@ -35,17 +35,6 @@
       "description": "Full interview with Stability AI founder Emad Mostaque."
     },
     {
-      "title": "Border troops getting replaced by robots",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pczmey/border_troops_getting_replaced_by_robots/",
-      "published": 1764753558.0,
-      "thumbnail": "https://external-preview.redd.it/bHBvdXhhc2NpeTRnMT_RZvUTpuXUUHWTIg8M4yRuEpeAGpLY0kwZmsOSsO2r.png?width=640&crop=smart&auto=webp&s=2e6ed45e60eaecb784fb25cc111fceb82f850024",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Micron stops selling memory to consumers as demand spikes from AI chips",
       "author": "Doug24",
       "url": "https://www.reddit.com/r/artificial/comments/1pdepwf/micron_stops_selling_memory_to_consumers_as/",
@@ -55,6 +44,17 @@
       "site_name": "CNBC",
       "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
       "description": "Demand driven by the AI infrastructure boom is creating shortages for certain products like memory."
+    },
+    {
+      "title": "Border troops getting replaced by robots",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pczmey/border_troops_getting_replaced_by_robots/",
+      "published": 1764753558.0,
+      "thumbnail": "https://external-preview.redd.it/bHBvdXhhc2NpeTRnMT_RZvUTpuXUUHWTIg8M4yRuEpeAGpLY0kwZmsOSsO2r.png?width=640&crop=smart&auto=webp&s=2e6ed45e60eaecb784fb25cc111fceb82f850024",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "ChatGPT is down worldwide, conversations disappeared for users",
@@ -90,17 +90,6 @@
       "description": null
     },
     {
-      "title": "Kling 2.6 Just Dropped: First Text to Video Model With Built in Audio & 1080p Output",
-      "author": "BuildwithVignesh",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd821d/kling_26_just_dropped_first_text_to_video_model/",
-      "published": 1764777565.0,
-      "thumbnail": "https://external-preview.redd.it/OHJsajNwdXFoMDVnMXqzGzxFvyAaOatf9aIFAkYM5YjCgfdlPiFuDAM8jT7a.png?width=640&crop=smart&auto=webp&s=383c64b60abd3a7e405bdea2f1a52c35879128cf",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Kling AI just launched Kling 2.6 and it\u2019s no longer silent video AI. \u2022 Native audio + visuals in one generation. \u2022 1080p video output. \u2022 Filmmaker-focused Pro API (Artlist). \u2022 Better character consistency across shots. Does native audio change how fast AI video can actually replace editing workflows?"
-    },
-    {
       "title": "What AI tools have quietly become part of your everyday routine?",
       "author": "messysoul96",
       "url": "https://www.reddit.com/r/artificial/comments/1pd7s7i/what_ai_tools_have_quietly_become_part_of_your/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "Lately I noticed I\u2019ve worked a bunch of AI stuff into my daily workflow without even planning to. I draft things with a model, clean them up myself, then run them through a detector that gives actual sentence level notes so I can fix any stiff sounding parts. Curious what everyone else is using day to day. What stuck and what did you drop?"
+    },
+    {
+      "title": "Bank of America predicts an 'air pocket,' not an AI bubble, fueled by mountains of debt piling up from the data center rush | Fortune",
+      "author": "fortune",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdi0q7/bank_of_america_predicts_an_air_pocket_not_an_ai/",
+      "published": 1764799503.0,
+      "thumbnail": "https://external-preview.redd.it/rikD1kTak-7UeKXyFBVQjJSeeyMAZOJYG3BXm0hUl70.jpeg?width=640&crop=smart&auto=webp&s=a73349d531ed79f976ab4340c780cea9d0cac711",
+      "external_url": "https://fortune.com/2025/12/03/is-ai-a-bubble-bofa-says-air-pocket-in-2026-data-center-debt/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
+      "description": "\u201cIs this 2000? Are we in a bubble? No,\u201d BofA\u2019s strategy chief Savita Subramanian said. \u201cWill AI continue in unfettered leadership? No.\u201d"
     }
   ],
-  "fetched_at": "2025-12-03T21:39:16.639241+00:00"
+  "fetched_at": "2025-12-03T22:10:27.350028+00:00"
 }

@@ -9,8 +9,8 @@
       "url": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
       "hn_url": "https://news.ycombinator.com/item?id=46131406",
       "author": "Brajeshwar",
-      "points": 897,
-      "num_comments": 512,
+      "points": 909,
+      "num_comments": 525,
       "created_at": "2025-12-03T07:52:37Z",
       "object_id": "46131406",
       "image": "https://regmedia.co.uk/2024/05/21/github1_shutterstock.jpg",
@@ -37,8 +37,8 @@
       "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
       "hn_url": "https://news.ycombinator.com/item?id=46124324",
       "author": "nabla9",
-      "points": 779,
-      "num_comments": 890,
+      "points": 784,
+      "num_comments": 892,
       "created_at": "2025-12-02T18:10:23Z",
       "object_id": "46124324",
       "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
@@ -47,32 +47,32 @@
       "site_name": "Business Insider"
     },
     {
-      "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
-      "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
-      "hn_url": "https://news.ycombinator.com/item?id=46137514",
-      "author": "bearsyankees",
-      "points": 321,
-      "num_comments": 94,
-      "created_at": "2025-12-03T17:44:33Z",
-      "object_id": "46137514",
-      "image": null,
-      "description": "Update: This post received a large amount of attention on Hacker News \u2014 see the discussion thread.",
-      "favicon": "https://alexschapiro.com/assets/images/favicon.ico",
-      "site_name": "Alex Schapiro"
-    },
-    {
       "title": "Everyone in Seattle hates AI",
       "url": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
       "hn_url": "https://news.ycombinator.com/item?id=46138952",
       "author": "mips_avatar",
-      "points": 272,
-      "num_comments": 276,
+      "points": 351,
+      "num_comments": 339,
       "created_at": "2025-12-03T19:37:25Z",
       "object_id": "46138952",
       "image": null,
       "description": "A post about everyone in Seattle hating AI.",
       "favicon": "https://jonready.com/img/apple-touch-icon.png",
       "site_name": "jonready.com"
+    },
+    {
+      "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
+      "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
+      "hn_url": "https://news.ycombinator.com/item?id=46137514",
+      "author": "bearsyankees",
+      "points": 343,
+      "num_comments": 107,
+      "created_at": "2025-12-03T17:44:33Z",
+      "object_id": "46137514",
+      "image": null,
+      "description": "Update: This post received a large amount of attention on Hacker News \u2014 see the discussion thread.",
+      "favicon": "https://alexschapiro.com/assets/images/favicon.ico",
+      "site_name": "Alex Schapiro"
     },
     {
       "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
@@ -135,8 +135,8 @@
       "url": "https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/",
       "hn_url": "https://news.ycombinator.com/item?id=46133141",
       "author": "davedx",
-      "points": 137,
-      "num_comments": 95,
+      "points": 147,
+      "num_comments": 110,
       "created_at": "2025-12-03T11:14:56Z",
       "object_id": "46133141",
       "image": "https://martinalderson.com/img/og/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters.png",
@@ -145,7 +145,7 @@
       "site_name": "Martin Alderson"
     }
   ],
-  "total_hits": 558,
+  "total_hits": 557,
   "has_metadata": true,
-  "fetched_at": "2025-12-03T21:39:16.515783+00:00"
+  "fetched_at": "2025-12-03T22:10:27.209582+00:00"
 }

@@ -13,6 +13,17 @@
       "description": "Full interview with Stability AI founder Emad Mostaque."
     },
     {
+      "title": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
+      "author": "businessinsider",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdb7ml/microsofts_reported_sales_struggles_are_a_warning/",
+      "published": 1764784378.0,
+      "thumbnail": "https://external-preview.redd.it/e0-HB8ToMX9nnFYcnGMYwtKYDJwlU0myzQ-_qvVPa-g.jpeg?width=640&crop=smart&auto=webp&s=b0bc391a52bd929bb1425bd7bccc7fd7a0d6b07b",
+      "external_url": "https://www.businessinsider.com/microsoft-stock-ai-sales-outlook-quota-msft-tech-stocks-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "A report from The Information that said Microsoft is struggling to sell some of its AI tools to customers sent the stock tumbling."
+    },
+    {
       "title": "Border troops getting replaced by robots",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pczmey/border_troops_getting_replaced_by_robots/",
@@ -35,15 +46,15 @@
       "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
     },
     {
-      "title": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
-      "author": "businessinsider",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdb7ml/microsofts_reported_sales_struggles_are_a_warning/",
-      "published": 1764784378.0,
-      "thumbnail": "https://external-preview.redd.it/e0-HB8ToMX9nnFYcnGMYwtKYDJwlU0myzQ-_qvVPa-g.jpeg?width=640&crop=smart&auto=webp&s=b0bc391a52bd929bb1425bd7bccc7fd7a0d6b07b",
-      "external_url": "https://www.businessinsider.com/microsoft-stock-ai-sales-outlook-quota-msft-tech-stocks-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "A report from The Information that said Microsoft is struggling to sell some of its AI tools to customers sent the stock tumbling."
+      "title": "Microsoft slashes AI sales growth targets as customers resist unproven agents",
+      "author": "arstechnica",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdcr4z/microsoft_slashes_ai_sales_growth_targets_as/",
+      "published": 1764787632.0,
+      "thumbnail": "https://external-preview.redd.it/TvF53GlxmK0FtmcdZm78zL11AVb5VsM-vgGiVCu2_wI.jpeg?width=640&crop=smart&auto=webp&s=2a8188b56fc23f6d8f48ef738c97741754201e35",
+      "external_url": "http://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents",
+      "site_name": "Ars Technica",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
     },
     {
       "title": "IBM CEO Has Doubts That Big Tech's AI Spending Spree Will Pay Off",
@@ -57,17 +68,6 @@
       "description": "Data center is not a profitable business, given land, water, electricity are scarce resources."
     },
     {
-      "title": "What AI tools have quietly become part of your everyday routine?",
-      "author": "messysoul96",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd7s7i/what_ai_tools_have_quietly_become_part_of_your/",
-      "published": 1764776949.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Lately I noticed I\u2019ve worked a bunch of AI stuff into my daily workflow without even planning to. I draft things with a model, clean them up myself, then run them through a detector that gives actual sentence level notes so I can fix any stiff sounding parts. Curious what everyone else is using day to day. What stuck and what did you drop?"
-    },
-    {
       "title": "Kling 2.6 Just Dropped: First Text to Video Model With Built in Audio & 1080p Output",
       "author": "BuildwithVignesh",
       "url": "https://www.reddit.com/r/artificial/comments/1pd821d/kling_26_just_dropped_first_text_to_video_model/",
@@ -79,15 +79,15 @@
       "description": "Kling AI just launched Kling 2.6 and it\u2019s no longer silent video AI. \u2022 Native audio + visuals in one generation. \u2022 1080p video output. \u2022 Filmmaker-focused Pro API (Artlist). \u2022 Better character consistency across shots. Does native audio change how fast AI video can actually replace editing workflows?"
     },
     {
-      "title": "AI companies' safety practices fail to meet global standards, study shows",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd6dlf/ai_companies_safety_practices_fail_to_meet_global/",
-      "published": 1764773798.0,
+      "title": "What AI tools have quietly become part of your everyday routine?",
+      "author": "messysoul96",
+      "url": "https://www.reddit.com/r/artificial/comments/1pd7s7i/what_ai_tools_have_quietly_become_part_of_your/",
+      "published": 1764776949.0,
       "thumbnail": null,
-      "external_url": "https://www.reuters.com/business/ai-companies-safety-practices-fail-meet-global-standards-study-shows-2025-12-03/",
-      "site_name": "reuters.com",
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "Lately I noticed I\u2019ve worked a bunch of AI stuff into my daily workflow without even planning to. I draft things with a model, clean them up myself, then run them through a detector that gives actual sentence level notes so I can fix any stiff sounding parts. Curious what everyone else is using day to day. What stuck and what did you drop?"
     },
     {
       "title": "Is AI really a bubble or are we underestimating how far it will go?",
@@ -101,16 +101,16 @@
       "description": "I keep seeing people say that AI is a bubble or that it\u2019s overhyped, but every time I use AI tools I seriously don\u2019t get how people believe that. To me it feels like AI is already capable of doing a huge part of many jobs, including some in healthcare like basic analysis, documentation, nutrition planning, explanations, x-rays, etc. And if it keeps improving even a bit, it seems obvious that a lot of tasks could be automated. So I\u2019m wondering why some people are so convinced it\u2019s a bubble that will \u201cburst.\u201d Is it fear of job loss? Just media exaggeration? Real technical limits I\u2019m not aware of? Or just general skepticism? I want to understand the other side. Do you think AI is actually going to collapse, or do you think it\u2019s going to keep growing and eventually replace certain roles or reduce the number of workers needed? Curious to hear different perspectives, especially from people who think AI is overhyped."
     },
     {
-      "title": "It's been a big week for AI ; Here are 10 massive changes you might've missed:",
-      "author": "SolanaDeFi",
-      "url": "https://www.reddit.com/r/artificial/comments/1pcg76z/its_been_a_big_week_for_ai_here_are_10_massive/",
-      "published": 1764699977.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "title": "Micron ends Crucial consumer SSD and RAM line, shifts focus to AI and enterprise",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdd29l/micron_ends_crucial_consumer_ssd_and_ram_line/",
+      "published": 1764788292.0,
+      "thumbnail": "https://external-preview.redd.it/JwnHD4WOV0s9aNA4vTLqUdc_KKpyC7kWtk1LCmNzgPg.jpeg?width=640&crop=smart&auto=webp&s=ebc556dc044abb87c66a13d59006b15fef21f01a",
+      "external_url": "https://videocardz.com/newz/micron-kills-off-crucial-cosnumer-brand-to-focus-on-ai-and-enterprise",
+      "site_name": "videocardz.com",
       "favicon": null,
-      "description": "ChatGPT now has ads (even for Pro) New Nano Banana Pro competitor Telegram launches AI computing network A collection of AI Updates! \ud83e\uddf5 1. ChatGPT starts showing ads on Pro accounts Brand mentions appearing in replies, ads on iOS - even paid subscribers seeing placements. Users are losing it as OpenAI monetizes across even the highest of tiers. 2. Perplexity launches memory feature across all models Remembers threads, interests, preferences for smarter personalized answers - works with their Agent Assistant too. Works across search modes with full user control - auto-disabled in incognito. 3. OpenAI Images V2 Near Launch to Compete with Nano Banana Pro Current image generation is slow with limited editing. New GPT-Image version will match Nano Banana capabilities - faster generation and advanced editing features. Leaked \"ImageGenV2Banner\" in ChatGPT web app confirms imminent release. 4. Gemini Offers Free Pro Plan to Students for Full Year Eligible students get access to Gemini Pro features at no cost for 12 months. Major push to capture student market and build early loyalty. Direct challenge to ChatGPT's education dominance 5. Prime Intellect Launches INTELLECT-3: 100B+ MoE Model with Scaled RL State-of-the-art performance for its size across math, code, and reasoning. Built on their end-to-end stack - same tools available to developers for environments, evals, RL frameworks, and sandboxes. Scaling agentic RL and long-horizon agents next. 6. Runwayml Unveils Gen-4.5 Frontier Video Model State-of-the-art motion quality, prompt adherence, and visual fidelity. Executes complex sequenced instructions with unprecedented physical accuracy - realistic weight, momentum, and surface behavior. Built entirely on NVIDIA GPUs. Rolling out now. 7. Grok AI Now Built Into X's Compose Window Grammar fixes, post shortening, and style rewrites now available with one click while composing. AI writing assistance built natively into the platform. No browser extensions needed - Grok lives in your compose flow. 8. MistralAI Preps Ministral 3 and Mistral Large 3 Release Ministral 3 uses Llama2/3 architecture. Large 3 mirrors DeepSeek V3 as MoE with speculative decoding via Eagle. Both implement llama4 rope scaling. Architecture details leaked via GitHub PRs. 9. Kling AI Launches Kling O1 Multimodal Creative Engine True multimodal understanding across text, image, and video inputs. Unified processing makes creation faster and more effortless. Limited-time subscriber offer available. More announcements allegedly coming soon. 10. Telegram Launches Cocoon Decentralized AI Compute Network 100% confidential AI processing now live. Challenges Amazon and Microsoft's centralized model with better privacy and economics. New AI features coming to Telegram built on Cocoon. That's a wrap on this week's AI News. Which update do you think is the biggest? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!"
+      "description": null
     }
   ],
-  "fetched_at": "2025-12-03T18:27:53.343439+00:00"
+  "fetched_at": "2025-12-03T19:18:54.923056+00:00"
 }

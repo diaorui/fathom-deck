@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "Waymo self-driving car enters active police standoff with passenger inside",
-      "author": "BuildwithVignesh",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcz5ba/waymo_selfdriving_car_enters_active_police/",
-      "published": 1764751715.0,
-      "thumbnail": "https://external-preview.redd.it/dGsxcHM0MXdjeTRnMQzCE-oKnmX0A0tzj78iO1FrgUK3uFro-tgp7j8i7UI-.png?width=640&crop=smart&auto=webp&s=6c04322bd908a9bd161244d22c7a57aae89950a5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
-    },
-    {
       "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Website: https://gitai.tech/ On \ud835\udd4f: https://x.com/GITAI_HQ"
+    },
+    {
+      "title": "Waymo self-driving car enters active police standoff with passenger inside",
+      "author": "BuildwithVignesh",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcz5ba/waymo_selfdriving_car_enters_active_police/",
+      "published": 1764751715.0,
+      "thumbnail": "https://external-preview.redd.it/dGsxcHM0MXdjeTRnMQzCE-oKnmX0A0tzj78iO1FrgUK3uFro-tgp7j8i7UI-.png?width=640&crop=smart&auto=webp&s=6c04322bd908a9bd161244d22c7a57aae89950a5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
     },
     {
       "title": "Unitree H2 (1.8m) humanoid robot boxing test shows full force impact and balance control",
@@ -57,17 +57,6 @@
       "description": "I\u2019m making a small open-source robotics playground that runs in the browser. It started as a fun idea and somehow turned into a physics sandbox where you can drive robots without installing anything. I want to add a few more robot types, but I\u2019m not sure what would actually be fun or interesting to try. What robots should I add next? Just curious what people here would enjoy testing."
     },
     {
-      "title": "New video, Optimus running. Looking way smoother now!",
-      "author": "AlbatrossHummingbird",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcm1tm/new_video_optimus_running_looking_way_smoother_now/",
-      "published": 1764713079.0,
-      "thumbnail": "https://external-preview.redd.it/OGZ3cHp4Z3o1djRnMZtT1cI8u5hSVYJJ8bJ_LbGeT_t5WDj3OAKPszcxmQqg.png?width=640&crop=smart&auto=webp&s=b8bb0d900e82171ab90eb2762270f41578a44522",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Not sure if that's version 2 or 3, maybe someone can elaborate in the comments."
-    },
-    {
       "title": "My Robot Dog",
       "author": "doppler07",
       "url": "https://www.reddit.com/r/robotics/comments/1pda1f8/my_robot_dog/",
@@ -79,15 +68,15 @@
       "description": "Been working on this dog for 2 months. Finally modelled the dogs body dynamics. This is where all the trigonometry,triangles and laws of cosiness that I learnt in high school came to use. Its remote controlled I will open source the code once the robot is complete. If anybody has any queries do dm me\ud83d\ude42"
     },
     {
-      "title": "Rodney Brooks on why so much humanoid hype feels like theater",
-      "author": "Responsible-Grass452",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd9sil/rodney_brooks_on_why_so_much_humanoid_hype_feels/",
-      "published": 1764781345.0,
-      "thumbnail": "https://external-preview.redd.it/bHlxejdsYWpzMDVnMQR3IFtpoPwxezT-P5uSzZso-R_Z6gc3RcX6HTu4SMj9.png?width=640&crop=smart&auto=webp&s=7990271a4472877c2815f405eff03c4255b2f32a",
+      "title": "New video, Optimus running. Looking way smoother now!",
+      "author": "AlbatrossHummingbird",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcm1tm/new_video_optimus_running_looking_way_smoother_now/",
+      "published": 1764713079.0,
+      "thumbnail": "https://external-preview.redd.it/OGZ3cHp4Z3o1djRnMZtT1cI8u5hSVYJJ8bJ_LbGeT_t5WDj3OAKPszcxmQqg.png?width=640&crop=smart&auto=webp&s=b8bb0d900e82171ab90eb2762270f41578a44522",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "His take is that a lot of what we see online right now is carefully staged. Preplanned motions, rehearsed scenes, and very little of the real complexity that comes with unstructured environments. The gap between a controlled demo and an actual deployable product is huge, and he seems worried that people are starting to confuse the two. He also pointed out that most of the systems shown in flashy videos still struggle with the basics. Reliable manipulation. Robust sensing. Working without a team of engineers one room away. None of that makes it into marketing clips, of course. So the public sees a humanoid walking and carrying a box, and assumes the market is further along than it really is."
+      "description": "Not sure if that's version 2 or 3, maybe someone can elaborate in the comments."
     },
     {
       "title": "Is there any ROBOTICS complete course??",
@@ -101,6 +90,17 @@
       "description": "Hey, I'm a newbie in robotics and I want to build my career in robotics. I have very little time since I'm in my 3rd year, so I need a structured course. I've heard good things about \"The Construct,\" but its masterclass starts on March 2nd and it's quite expensive. Are there any other good options, or another way to get free access?"
     },
     {
+      "title": "Rodney Brooks on why so much humanoid hype feels like theater",
+      "author": "Responsible-Grass452",
+      "url": "https://www.reddit.com/r/robotics/comments/1pd9sil/rodney_brooks_on_why_so_much_humanoid_hype_feels/",
+      "published": 1764781345.0,
+      "thumbnail": "https://external-preview.redd.it/bHlxejdsYWpzMDVnMQR3IFtpoPwxezT-P5uSzZso-R_Z6gc3RcX6HTu4SMj9.png?width=640&crop=smart&auto=webp&s=7990271a4472877c2815f405eff03c4255b2f32a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "His take is that a lot of what we see online right now is carefully staged. Preplanned motions, rehearsed scenes, and very little of the real complexity that comes with unstructured environments. The gap between a controlled demo and an actual deployable product is huge, and he seems worried that people are starting to confuse the two. He also pointed out that most of the systems shown in flashy videos still struggle with the basics. Reliable manipulation. Robust sensing. Working without a team of engineers one room away. None of that makes it into marketing clips, of course. So the public sees a humanoid walking and carrying a box, and assumes the market is further along than it really is."
+    },
+    {
       "title": "Robotics Kit for Husband?",
       "author": "Top_Special_8061",
       "url": "https://www.reddit.com/r/robotics/comments/1pd5r3c/robotics_kit_for_husband/",
@@ -112,5 +112,5 @@
       "description": "I do not know much about any of this (so sorry). My husband asked for a robotics kit for Christmas. I have no idea what to look for or purchase. He's been into Raspberry Pi for a couple of years now and I'm afraid to get him something he already has or that isn't challenging enough for him. Please help! Links would be great."
     }
   ],
-  "fetched_at": "2025-12-03T18:27:57.193244+00:00"
+  "fetched_at": "2025-12-03T19:18:53.154513+00:00"
 }

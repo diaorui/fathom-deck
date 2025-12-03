@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Microsoft stock sinks on report AI product sales are missing growth goals",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0V0RZZGFkbG9BYlJrd2tFeWV0U0ZDcXBYV21OUlpPWXliUlBKT0ZSclhtR3RVMmZGQmNQbGo4M0dpRTFMSXE1eWd1OUtCN29lWjFKMzd5ZXRjU1MzSHBlN21pcjk3WE5qU2hfaUE1Uzd1ZFFBWTlQVNIBfkFVX3lxTE54UmNkTWRBLUllLW9TdHB1dkJpN01SaGQ2S3pIelowZkd2MEx4RWJoLVZmYkVhZE5PNnBpRnRzamZsd3ZZZFJUazhjclJMRWxrQ3VwVVV2SnRpRDJDeW9NVXdyeENWc3cyMENOelNZZVZudVBYR3FGSUxGNjJJZw?oc=5",
-      "pub_date": 1764774216.0,
-      "article_url": "https://www.cnbc.com/2025/12/03/microsoft-stock-ai-foundry-sales.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108147619-1747681492573-gettyimages-2215431528-AFP_47CD63U.jpeg?v=1764772737&w=1920&h=1080",
-      "description": "Microsoft stock sank after a report that multiple sales teams for the company's Azure Foundry product missed growth goals in the last fiscal year."
+      "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOeC10MHpZbVI2MGFjNkFVLXcyYld4cGtrWWdtQmpNUmdSS1JYaWZuemxXczJXSkdwa0pWN0k4SVR3cnAtSkFFV1NWTmYzbzRBb01mbmlRUXdZVDdzTVh2YXY5dXgwbENTdWlmMmU4ZXJ3Ymw0VU16MmZYMTlGMnpFWFNkMmE2OEM1RFJJZnctbFBUTnhYUUxuX1E0SFdxVU5KQ1V1cEhfUmwzMkJCRTVyR3piS3NiTWdOYUdBM3JkQ0FTQmc5dzBtemhfMXJoTFBNX0ZIMmk1T1E3TmJMS0Z3RVh0NzVUTWo1cG83S3J2OHRWZEx0QjR6VWNoVWZHTmVSTElwQkZUTlVGMjhWSzJGaHVHdmw1SDFwWGFDNGgzb1I1TVlpamlUNVlOR1FsRFRnX21WTDc2aDZ6VERDOEdjdXQ1bEViOFdZUzBXODJfbXlXeTBVMEtTckdNZlFubm5aeWVhSk9xSFplOE1YVXlXdllPbl8weVlvUTRGLXoxV29wNVRGbTJRYXNtajI4cURDbFFweTh3RzRVdUJZbGNGZGwzeXlYbWJaeUk4eXR6b0JsTF9LYWR0eHd2VE0?oc=5",
+      "pub_date": 1764656820.0,
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqePCmp8E7jmDdXwqM8QqHujuP21QnYaPuY1u4ByxrQAHNuBtHIkXo-K&gaa_ts=6930909c&gaa_sig=KpIh5imKxwW7fv4DIW7YfYSnraM0IJatiYNjBw4GxdXnCY52UbLzwbaTc2J00Oq_7qEsImOLE8hWaxc5cRhGVA%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Microsoft Lowers AI Software Growth Targets as Customers Resist Newer Products",
@@ -25,14 +25,24 @@
       "description": null
     },
     {
-      "headline": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2N4NTBWekdXRkZDcjRoMnhhZ0tGTGFoYTRWMUlSOU11TEh4UURsV0VMejZLVFhoN0pfYURBaWk4SzlrR1VCZHdJOHpiMXFTV0FLRUxnYngxWUV6ODRXTHIxWGV2TG8zbmQ1WGtDNm1nb1RHRnVSZVdmckFyV1A2TjNicHo2bHpyQkFIdTAwa0RoT044MGxyVEtyMA?oc=5",
-      "pub_date": 1764782040.0,
-      "article_url": "https://www.businessinsider.com/microsoft-stock-ai-sales-outlook-quota-msft-tech-stocks-2025-12",
-      "image": "https://i.insider.com/69306a297ecd1d1da662d826?width=1200&format=jpeg",
-      "description": "A report from The Information that said Microsoft is struggling to sell some of its AI tools to customers sent the stock tumbling."
+      "headline": "Microsoft stock sinks on report AI product sales are missing growth goals",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0V0RZZGFkbG9BYlJrd2tFeWV0U0ZDcXBYV21OUlpPWXliUlBKT0ZSclhtR3RVMmZGQmNQbGo4M0dpRTFMSXE1eWd1OUtCN29lWjFKMzd5ZXRjU1MzSHBlN21pcjk3WE5qU2hfaUE1Uzd1ZFFBWTlQVNIBfkFVX3lxTE54UmNkTWRBLUllLW9TdHB1dkJpN01SaGQ2S3pIelowZkd2MEx4RWJoLVZmYkVhZE5PNnBpRnRzamZsd3ZZZFJUazhjclJMRWxrQ3VwVVV2SnRpRDJDeW9NVXdyeENWc3cyMENOelNZZVZudVBYR3FGSUxGNjJJZw?oc=5",
+      "pub_date": 1764774216.0,
+      "article_url": "https://www.cnbc.com/2025/12/03/microsoft-stock-ai-foundry-sales.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108147619-1747681492573-gettyimages-2215431528-AFP_47CD63U.jpeg?v=1764772737&w=1920&h=1080",
+      "description": "Microsoft stock sank after a report that multiple sales teams for the company's Azure Foundry product missed growth goals in the last fiscal year."
+    },
+    {
+      "headline": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUW9fUGs4N3VLa3d5NGJYVmtxeFNIWVdEVVZuNE84N29DLUtmTlV6OHpVYWNiSFFPSjB5TEphQ3RVVlBKNXNqbkZqM2NtZTNrdGdLNk43QWl4S3JNSk9WQ0lJd05LOHVlcFJlNGVzV2I1U0dQVHYyb1dDNUdlWEZOaXZvXzc4WDhtbGRpc2NZMGNjTWxIMnZoanVRS0VJMko3SGNWNTZJS2JDdjR1RFl3Z1NIaw?oc=5",
+      "pub_date": 1764786246.0,
+      "article_url": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/dartboard_missed-1152x648.jpg",
+      "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
     },
     {
       "headline": "Why Does A.I. Write Like \u2026 That?",
@@ -45,54 +55,44 @@
       "description": null
     },
     {
-      "headline": "How AI can identify skill gaps in the workforce",
+      "headline": "Former Intel CEO: Big AI firms are funding themselves \u2014 and that's not real demand",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3dqR0JzTFR5T0R2U3hvNVpwMkcyN3JKSzVpbkZNRm80OEdsdVdPTWNBdzJkMkN5U084Tk45cDB1N3poUzBoMUstRmtqcld3UzR0ZGM3NUIycnZ1RUZKTEQtLUdfdlhJc2lvVEJhQ2JPR21kdUFCNlJjSGJsTi01YnExV01tRVlVWGhoTHJVRHFYX2Y0YXNIUjM3RXh6VVZsVV91QzlRM2dzdDA0bi1qUnFOOEZ1dmdsMHFHV2dEV3dfYTg?oc=5",
+      "pub_date": 1764787368.0,
+      "article_url": "https://finance.yahoo.com/news/former-intel-ceo-big-ai-firms-are-funding-themselves--and-thats-not-real-demand-184248523.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/PpDHshR9mvnxNii2gYZ44g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/f0e4fd20-2258-11ef-bebd-b31346ff1b97",
+      "description": "Pat Gelsinger, former Intel CEO, warns that the quality of AI revenue is weaker when companies use their own balance sheets to backstop deals."
+    },
+    {
+      "headline": "How CMOs Can Balance AI, Creators And Brand Safety",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLW1jVzBpbUlfTDFVS2tGQ0dqZ3lfeHZTZlhkeWV1RER1eWVBcUM5UlRkTFBpc1FaS1EwaUtvb0gwODNGSER3QVE4OUQ4UmplUkx4VVNhTmJxUXJRbncwcHNaMkJXTVVYbEMzNkY2eFR2b1JYSmlPdzdhejA0NGgwVVhZUVpUTUxGdGNVYkw5bS1vOEtHTG5ycXJn?oc=5",
+      "pub_date": 1764787556.0,
+      "article_url": "https://www.forbes.com/sites/cmo/2025/12/03/how-cmos-can-balance-ai-creators-and-brand-safety/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/693084f6c3436bd9db759e4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Also in the Forbes CMO newsletter: Meet the 30 Under 30 marketing honorees, holiday shopping gets off to a record-setting start, Google\u2019s AI image generator goes viral."
+    },
+    {
+      "headline": "Why Enterprise AI Superusers Are Going Best-of-Suite",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaG9YTGktZVhNWEhWOFNQUEVpeUxKQkc2YkFSVkMtUzJfbUJOYzAzY09wNklNUFRjQXpxdnFmeE1adGM1dHVjT1lUb0FCXzF4NjVKM21DSXY1bVFtY3BISWJadFpjc3F2Q1NtNzlVNVlnOF9wUkFxUHF3T3VtZDJrVjlsYmZmUTlYbDM4b1B3YVdNYVczQ1haZURWSzU?oc=5",
-      "pub_date": 1764785580.0,
-      "article_url": "https://www.businessinsider.com/ai-improving-workplace-how-to-use-ai-identify-skill-gaps-2025-12",
-      "image": "https://i.insider.com/692e1ef07ecd1d1da662b92b?width=1200&format=jpeg",
-      "description": "We spoke with multiple HR experts to learn how companies can use AI to identify talent and skills gaps for employees' benefit."
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjB6ckdFa2ZZeVNkSHp0cTNQdDF0U0NyNExQSHZOa3hESTh1bUFEVS02dEdFNVg2bHdFaFdWbXhnVklVSzRGU1Zid09hTWlEZmo0WW53Z1Z0cTRWQzNwME5UT2haeENueGhCSlB2THktTnhwb2hVYjdBcVVJMU51aFlvYXd2QXNwSG9xZg?oc=5",
+      "pub_date": 1764789180.0,
+      "article_url": "https://www.businessinsider.com/why-enterprise-ai-superusers-are-going-best-of-suite",
+      "image": "https://i.insider.com/6908e05cc007ca8c27381f59?width=1200&format=jpeg",
+      "description": "SAP's Stephan de Barse on switching to the suite mindset for AI-powered enterprise success."
     },
     {
-      "headline": "AI Imaging Halves Delays in Stroke Patient Transfers",
-      "source": "Medscape",
-      "source_url": "https://www.medscape.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdEIzVnpNMjJ6V19YS1ZBeExPQk9hQzRYSmZ2MXdNb1FtRkM0QXZXcG9MU0p1MFlzTHZwMVNWS1EwZVpNOUNJZUxjT2VWVk1QaXJrUXlHeVdha0hTVnA5VThxaVU5cDRoZ2tuWkdLLWE0QTEyS0hIYXpiZy1IeDVBYTF6XzIzeThJWFZyV0taQ3dPcWpzd0Q4YlVoZWgzcXgx?oc=5",
-      "pub_date": 1764785035.0,
-      "article_url": "https://www.medscape.com/viewarticle/ai-imaging-halves-delays-stroke-patient-transfers-2025a1000xwl",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQZ0pxeThnck5weENkQmVfaXJUcjcwbjR6ODViY3E4cDl3b3BYQV95SW0tYWUwTGlGZDNsT1N1RGt0czFsRGkxZXZ3cktKbEdoRjBhRXhOSk1wakpPZldaQlBjQ1hvekw2dVh3dGhmTkp6WFlYdmM4SFAwcHFQdUhYVTdWMGRXMTFNdnZfdnhtdjJyNjdGQUxmYkJXS3pFR0pONHdmd2NBc0xSNk4wX1UzVEpXRVMzdW9jeUdsNGk5WXc3QmdSM2pvcVFVLVVUNEg0UHcyXy1kc2VQQlU2TmIzUmgybW1lRkRYaWg5NDNKUEtsV0J5RkNQQkdjRDlIY2FMR2lqS21EekVyR2tfZEV6UVRaT0dYRzI2WW1ackZnaHZqZ1RscnE5U2RyaGk5STZiYmJRV19JR2FpeUhOTmNwYkloMGRyUk0xMVBSXzNpSjdDV1JaTDdRMEJUYV83aHZjVjl3ZWt0RFlyRV80RTF5RzJXZTB3VGU5NlZXSk9rWEFMLXRvdVpONUVFNS15WXZRcTA5eDVXcWtQbU00amw3ZlVZZFZWZUlTX2FRRUpGUVhFNlo1WEkzaUZ3bUo?oc=5",
-      "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqe21omFJ62i3NFbccQ0_c9Gvxu6cIieeHPrF0HlIBbOJBQ9tvxGV9EW&gaa_ts=693084ab&gaa_sig=YQXBtVjF-Zo22PiRP3uNq_SWGMQts3SDL5UshosSCzZZC66nFVdNsYU9r66vf0tAtX6wmVp2_psf-CYFyafmGg%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "LSEG to integrate financial data into ChatGPT in AI push",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGdaLWppd1hfc29TLTFfdW9zeUNGelZweHVxaWkxZkVxNVIwYVJQd1FsSV9XdFFHSlBqeE1VMklFbXhsOU5TOThqdjBvbldNU1JIQks5NG4yQ3RmT0dvRVFWSnN1c3U1YzJMUF93bXB1U3FZVU1BOXo4cTF4Z0s2dnA2OGg0TWg4djROSmtORjNIb3ZmRmdBQkoxYzlHQXNBMmRZOHZab2kwQ1hV?oc=5",
-      "pub_date": 1764768624.0,
-      "article_url": "https://www.reuters.com/business/lseg-partners-with-openai-integrate-chatgpt-with-financial-data-2025-12-03/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI declares \u2018code red\u2019 as Google catches up in AI race",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtMkQwcnZCa05fMFpnbWh5dzdaWUFodDdKaDB5N2N6THhRdVNnWU5NY3dqNHVsZU0yWVJ1ZmZPOXo4UFpGSXk1bnpCNnF2ODl3TGFEajUzMHBiRjRIbE1JUE5pQzJsMnRDY2RpcQ?oc=5",
-      "pub_date": 1764675607.0,
-      "article_url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Google\u2019s own \u2018code red\u2019 response to ChatGPT has started paying off."
+      "headline": "How AI Is Transforming Work at Anthropic",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
+      "pub_date": 1764703349.0,
+      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
+      "description": "How AI Is Transforming Work at Anthropic"
     },
     {
       "headline": "The AI frenzy is driving a memory chip supply crisis",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T18:28:22.178242+00:00"
+  "fetched_at": "2025-12-03T19:19:11.544316+00:00"
 }

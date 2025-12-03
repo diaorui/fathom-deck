@@ -2,6 +2,17 @@
   "subreddit": "ethereum",
   "posts": [
     {
+      "title": "Fusaka Infographic \ud83e\udd93 13 EIPs, one massive ethereum upgrade!",
+      "author": "trent_vanepps",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pdfavo/fusaka_infographic_13_eips_one_massive_ethereum/",
+      "published": 1764793245.0,
+      "thumbnail": "https://preview.redd.it/jccnmgz6s15g1.png?width=640&crop=smart&auto=webp&s=4eb8835504ddebb4a0f6a8605a86b71b32c6b616",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "a wonderful fusaka day to you all - original post if you want to help boost on twitter!"
+    },
+    {
       "title": "Daily General Discussion December 03, 2025",
       "author": "EthereumDailyThread",
       "url": "https://www.reddit.com/r/ethereum/comments/1pcwf5g/daily_general_discussion_december_03_2025/",
@@ -22,17 +33,6 @@
       "site_name": "HackMD",
       "favicon": "https://notes.ethereum.org/apple-touch-icon.png",
       "description": "# EIP-7918 in Fusaka: 3 reasons and 1 trick  Tonight, Fusaka goes live and Ethereum updates its blob"
-    },
-    {
-      "title": "Fusaka Infographic \ud83e\udd93 13 EIPs, one massive ethereum upgrade!",
-      "author": "trent_vanepps",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pdfavo/fusaka_infographic_13_eips_one_massive_ethereum/",
-      "published": 1764793245.0,
-      "thumbnail": "https://preview.redd.it/jccnmgz6s15g1.png?width=640&crop=smart&auto=webp&s=4eb8835504ddebb4a0f6a8605a86b71b32c6b616",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "a wonderful fusaka day to you all - original post if you want to help boost on twitter!"
     },
     {
       "title": "Exclusive Look Inside a Compromised North Korean APT Machine Linked to The Biggest Heist in History",
@@ -112,5 +112,5 @@
       "description": "For several years I've been using the combination of frame.sh + brave browser plugin, backed by the Lattice1 hardware wallet. This combo works basically fine, but it seems there is not much development going on. I really did not follow ethereum ecosystem changes in recent years. Are there other/newer projects I should have a look at? Especially frame.sh always feels somewhat clumsy to use - I would love to have something that feels more integrated into my desktop."
     }
   ],
-  "fetched_at": "2025-12-03T20:31:21.168138+00:00"
+  "fetched_at": "2025-12-03T21:01:46.755932+00:00"
 }

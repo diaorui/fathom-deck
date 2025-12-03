@@ -13,17 +13,6 @@
       "description": "A report from The Information that said Microsoft is struggling to sell some of its AI tools to customers sent the stock tumbling."
     },
     {
-      "title": "Billionaires are building bunkers out of fear of societal collapse: \"I know a lot of AI CEOs who have cancelled all public appearances, especially in the wake of Charlie Kirk. They think there's gonna be a wave of anti-AI sentiment next year.\"",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd2j6h/billionaires_are_building_bunkers_out_of_fear_of/",
-      "published": 1764763960.0,
-      "thumbnail": "https://external-preview.redd.it/aXlnamJsZTlkejRnMcyi1Tg4bfuxFKJWkKxm1v1ZfXAnfUDVwMflnfREIbFI.png?width=640&crop=smart&auto=webp&s=b02601227356e889bcd3b0138243c410ad808cc8",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Full interview with Stability AI founder Emad Mostaque."
-    },
-    {
       "title": "Microsoft slashes AI sales growth targets as customers resist unproven agents",
       "author": "arstechnica",
       "url": "https://www.reddit.com/r/artificial/comments/1pdcr4z/microsoft_slashes_ai_sales_growth_targets_as/",
@@ -33,6 +22,17 @@
       "site_name": "Ars Technica",
       "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
       "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
+    },
+    {
+      "title": "Billionaires are building bunkers out of fear of societal collapse: \"I know a lot of AI CEOs who have cancelled all public appearances, especially in the wake of Charlie Kirk. They think there's gonna be a wave of anti-AI sentiment next year.\"",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pd2j6h/billionaires_are_building_bunkers_out_of_fear_of/",
+      "published": 1764763960.0,
+      "thumbnail": "https://external-preview.redd.it/aXlnamJsZTlkejRnMcyi1Tg4bfuxFKJWkKxm1v1ZfXAnfUDVwMflnfREIbFI.png?width=640&crop=smart&auto=webp&s=b02601227356e889bcd3b0138243c410ad808cc8",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Full interview with Stability AI founder Emad Mostaque."
     },
     {
       "title": "Border troops getting replaced by robots",
@@ -112,5 +112,5 @@
       "description": "Lately I noticed I\u2019ve worked a bunch of AI stuff into my daily workflow without even planning to. I draft things with a model, clean them up myself, then run them through a detector that gives actual sentence level notes so I can fix any stiff sounding parts. Curious what everyone else is using day to day. What stuck and what did you drop?"
     }
   ],
-  "fetched_at": "2025-12-03T20:31:19.565735+00:00"
+  "fetched_at": "2025-12-03T21:01:45.388007+00:00"
 }

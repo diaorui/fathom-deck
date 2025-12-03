@@ -79,6 +79,17 @@
       "description": "Been working on this dog for 2 months. Finally modelled the dogs body dynamics. This is where all the trigonometry,triangles and laws of cosiness that I learnt in high school came to use. Its remote controlled I will open source the code once the robot is complete. If anybody has any queries do dm me\ud83d\ude42"
     },
     {
+      "title": "Another close up of Optimus new flexible hand",
+      "author": "AlbatrossHummingbird",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdg7yo/another_close_up_of_optimus_new_flexible_hand/",
+      "published": 1764795338.0,
+      "thumbnail": "https://external-preview.redd.it/M3pmcnZ1NWx5MTVnMRGOH0pOqmmGNLMm6x_-78GW-TxQE2BlRQrYaR8uoDMg.png?width=640&crop=smart&auto=webp&s=f8ba3f1bfd988bb69094fdbb5230a3bdc97a5f4e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Is there any ROBOTICS complete course??",
       "author": "Lumpy-Cucumber-5895",
       "url": "https://www.reddit.com/r/robotics/comments/1pd6r2e/is_there_any_robotics_complete_course/",
@@ -88,17 +99,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey, I'm a newbie in robotics and I want to build my career in robotics. I have very little time since I'm in my 3rd year, so I need a structured course. I've heard good things about \"The Construct,\" but its masterclass starts on March 2nd and it's quite expensive. Are there any other good options, or another way to get free access?"
-    },
-    {
-      "title": "New video, Optimus running. Looking way smoother now!",
-      "author": "AlbatrossHummingbird",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcm1tm/new_video_optimus_running_looking_way_smoother_now/",
-      "published": 1764713079.0,
-      "thumbnail": "https://external-preview.redd.it/OGZ3cHp4Z3o1djRnMZtT1cI8u5hSVYJJ8bJ_LbGeT_t5WDj3OAKPszcxmQqg.png?width=640&crop=smart&auto=webp&s=b8bb0d900e82171ab90eb2762270f41578a44522",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Not sure if that's version 2 or 3, maybe someone can elaborate in the comments."
     },
     {
       "title": "Rodney Brooks on why so much humanoid hype feels like theater",
@@ -112,5 +112,5 @@
       "description": "His take is that a lot of what we see online right now is carefully staged. Preplanned motions, rehearsed scenes, and very little of the real complexity that comes with unstructured environments. The gap between a controlled demo and an actual deployable product is huge, and he seems worried that people are starting to confuse the two. He also pointed out that most of the systems shown in flashy videos still struggle with the basics. Reliable manipulation. Robust sensing. Working without a team of engineers one room away. None of that makes it into marketing clips, of course. So the public sees a humanoid walking and carrying a box, and assumes the market is further along than it really is."
     }
   ],
-  "fetched_at": "2025-12-03T20:31:22.702280+00:00"
+  "fetched_at": "2025-12-03T21:01:48.156919+00:00"
 }

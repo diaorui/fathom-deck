@@ -5,26 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Why Does A.I. Write Like \u2026 That?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOMFdmZlBiR0hQRlBMTkJyd1NoQ1R4dTZsUTFIUlJQQXFOd3ZRNG1MWWFMZ1NlMFhTTUdweXZLWmcwbTVVQmRJM2JweWlUalkwSGM3RDlOQmFzYlI5UFluUTBPajJXLWxNekR6eDhSLVI5X2owOWJmNHlR?oc=5",
-      "pub_date": 1764756054.0,
-      "article_url": "https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Microsoft Lowers AI Software Sales Quotas as Customers Resist Newer Products",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0dMQ0RMU0p3Q1g1UUg1RGJ1REhOT2lraGgzaExWQm55TU5QVFNRQkxYZTZHNnBzV1dsaE5qY1N4T0ZJMUVfQXhJSFBMa01BNkhiaDdjYVlhRVVLVHdyUC0ycHRaS19PbHRkM2ZoVDhBeG15ZWRuZlRkZ2xCNHlfX2JpX3hWMlF0czlsTVVjZmpMSEJET1NTdzdhNnM0UVF5TlI2Y0lDOHhGZm95SVVhb2k1QQ?oc=5",
-      "pub_date": 1764770400.0,
-      "article_url": "https://www.theinformation.com/articles/microsoft-lowers-ai-software-sales-quotas-customers-resist-newer-products",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Microsoft stock sinks on report AI product sales are missing growth goals",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -35,54 +15,84 @@
       "description": "Microsoft stock sank after a report that multiple sales teams for the company's Azure Foundry product missed growth goals in the last fiscal year."
     },
     {
-      "headline": "Microsoft AI wants all its employees to be AI native by the end of the fiscal year, says VP of design Liz Danzico",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSVpaVEJlTURpdXRrakVTVkVlTmxGSWV3cWZrYURETmNCTzFvZkR3a3EzOGUtTXk5N0xBOEFyS3VTMEh5STIwZ29ZaHk5RW1PZXB0Q3BSSmhGbEd1YnQtOE9YdzBnOEN5SlU3b1lpNXZuR1ZGcm9nY2h4TmFhYmZtY0dzWGxWdWdGbW44?oc=5",
-      "pub_date": 1764780060.0,
-      "article_url": "https://fortune.com/2025/12/03/microsoft-employees-ai-native-vp-design-liz-danzico/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/54959054281_51a906ef7b_o-e1764779589589.jpg?resize=1200,600",
-      "description": "Danzico noted that she helped put together an in-house AI course for the division's employees, to a \"tremendously positive\" positive response."
-    },
-    {
-      "headline": "Salesforce's AI story: Why the market isn't buying it",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpdms5QU95UklCVk9iS3kxVGZjRTVwcGNZVC1NSmNKTlN3VnFScjJzcVBBbkpvYmE0anE0cFBzVTVWNzJFN09kM2VvTHdLRDh6SlpnRDdHX0ZocFJyVlE4MW92d25aVURSblRROEtR?oc=5",
-      "pub_date": 1764779786.0,
-      "article_url": "https://qz.com/ai-bubble-fears-salesforce-stock-historic-lows",
-      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2046169150.jpg",
-      "description": "Investors aren't sold on Salesforce AI. Shares are low, growth is slowing, and bubble fears are turning a cloud giant into a value stock"
-    },
-    {
-      "headline": "Amazon Details Cloud AI Game Plan. Why Its Stock Could Be 'Different AI Winner.'",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEl5ZFVpYVRjYmI0ZGJJRHYwVldOT0hWWms3bW5PVzFWSUxvSFAxVGxEVXQzaEhoZmdWcE8yNHo5b2xiNUc1dFVBS0Rod0JfX0pLejJTdDMtWGZJUFBJTmtvak05b3BJZXlaVllROWxEUzVadGhlMEFldHV0eFFVM2RWWFhSM2Fm?oc=5",
-      "pub_date": 1764778140.0,
-      "article_url": "https://www.investors.com/news/technology/amazon-stock-reinvent-ai-winner-google/",
+      "headline": "Microsoft Lowers AI Software Growth Targets as Customers Resist Newer Products",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0dMQ0RMU0p3Q1g1UUg1RGJ1REhOT2lraGgzaExWQm55TU5QVFNRQkxYZTZHNnBzV1dsaE5qY1N4T0ZJMUVfQXhJSFBMa01BNkhiaDdjYVlhRVVLVHdyUC0ycHRaS19PbHRkM2ZoVDhBeG15ZWRuZlRkZ2xCNHlfX2JpX3hWMlF0czlsTVVjZmpMSEJET1NTdzdhNnM0UVF5TlI2Y0lDOHhGZm95SVVhb2k1QQ?oc=5",
+      "pub_date": 1764770400.0,
+      "article_url": "https://www.theinformation.com/articles/microsoft-lowers-ai-software-sales-quotas-customers-resist-newer-products",
       "image": null,
       "description": null
     },
     {
-      "headline": "How AI Is Transforming Work at Anthropic",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
-      "pub_date": 1764703349.0,
-      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
-      "description": "How AI Is Transforming Work at Anthropic"
+      "headline": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2N4NTBWekdXRkZDcjRoMnhhZ0tGTGFoYTRWMUlSOU11TEh4UURsV0VMejZLVFhoN0pfYURBaWk4SzlrR1VCZHdJOHpiMXFTV0FLRUxnYngxWUV6ODRXTHIxWGV2TG8zbmQ1WGtDNm1nb1RHRnVSZVdmckFyV1A2TjNicHo2bHpyQkFIdTAwa0RoT044MGxyVEtyMA?oc=5",
+      "pub_date": 1764782040.0,
+      "article_url": "https://www.businessinsider.com/microsoft-stock-ai-sales-outlook-quota-msft-tech-stocks-2025-12",
+      "image": "https://i.insider.com/69306a297ecd1d1da662d826?width=1200&format=jpeg",
+      "description": "A report from The Information that said Microsoft is struggling to sell some of its AI tools to customers sent the stock tumbling."
     },
     {
-      "headline": "The AI frenzy is driving a memory chip supply crisis",
+      "headline": "Why Does A.I. Write Like \u2026 That?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOMFdmZlBiR0hQRlBMTkJyd1NoQ1R4dTZsUTFIUlJQQXFOd3ZRNG1MWWFMZ1NlMFhTTUdweXZLWmcwbTVVQmRJM2JweWlUalkwSGM3RDlOQmFzYlI5UFluUTBPajJXLWxNekR6eDhSLVI5X2owOWJmNHlR?oc=5",
+      "pub_date": 1764756055.0,
+      "article_url": "https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "One day, AI might be better than you at surfing the web. That day isn\u2019t today",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3RRQW8wejVkRG4tTUl2YWpWdWI5eXJnRjhPdWJmUldBRy1DeTVzSDV6aTNMVzhUVkNMWElHNUhQN2V3WEZjM3hZN1VkanhoY1RMYlpHOGxaZlhhbGJ1eE1nMkxETWNWSk4zck9PTHlBSmxiYlJFS083SHJOd05FWXhzVzRXRUdKV1dCT3dDUDZzWDVXYmRSc3FQWQ?oc=5",
+      "pub_date": 1764781200.0,
+      "article_url": "https://www.theverge.com/tech/837287/ai-browsers-comet-chatgpt-atlas-edge-copilot-chrome-gemini",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258142_AI_browsers_are_nowhere_near_ready__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "For sale: walking shoes? Not with AI"
+    },
+    {
+      "headline": "Nvidia servers speed up AI models from China's Moonshoot AI and others tenfold",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
-      "pub_date": 1764731700.0,
-      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZGeWtQd2wyblh4MjJKTElXSnpxd3FlT2dsUHg4YTRSQWF0SkFOTnJfUjFHeEtQZ0g1OXJkZ29wNmZHdXZWM0h0UE0xaXRoSXRzLWI4NFdxMHo3MFFHMk90cGZmZVFmbGZ1Q0hXX1FKWGF0Z2Q4SmlrVnByc3NjZkpkdnNCcU9mT1RoMjBsQjVoUXFMR0NyUlVMQzctZmhwVFhXbUlOMEhqSkg4MGNMZGhmdzdiZDg?oc=5",
+      "pub_date": 1764783200.0,
+      "article_url": "https://www.reuters.com/world/china/nvidia-servers-speed-up-ai-models-chinas-moonshoot-ai-others-tenfold-2025-12-03/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Amazon challenges competitors with on-premises Nvidia \u2018AI Factories\u2019",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQck0yMkdUMzdCNldOT1NmWnBHNDVJZnFnOTdsTkFaRFc0ZURXVVRRX2JsVVVwWVR2TFVJVkV3eXZDY0twdURGWWp5X1YtMkFPOHJSM2dEc2lQOVR4V2NnbzdhM3FveWZaQnBNWFpRMk9nMzI5OTU0dk5sU01Od3IyallSSm8ydHYyajB3UXN0eHVLWE1fSGc?oc=5",
+      "pub_date": 1764722580.0,
+      "article_url": "https://finance.yahoo.com/news/amazon-challenges-competitors-premises-nvidia-004337664.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/7fy1kLfQMMxlMaH5g4u5Sw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_finance_785/549b2099ae1577b4f87859d62bb7d493",
+      "description": "If the product name sounds familiar, it should. It's a collab with Nvidia that combines AWS tech with the chip maker's tech."
+    },
+    {
+      "headline": "China wants an AI-powered military built with Nvidia chips, and that\u2019s a problem",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVVczd3BCWlIwOU5FbDE5SXo3T0ctMHVFM1hPR21maXlDZ2NNbjgtOHBsVDl3VzhhR3JNTTJoWEZBc0EzbXlPd1NiT2V3ZHVQOWpQb0h6WWIzY1UwcF80LV9mNkNGUmdZcEFjMWVsU3RKTzAzamJKTzVwMDFtNW81R9IBhgFBVV95cUxNYjhPay12RlRnVy1NWWl0VnE5R0xra1A2TlJQX3ljYVpDakQ2aVdtVlc3Y3N6N2MtVlFLdlB1VThrd19LM0NyQVNWa0QyTktvdkpaWHV6RGE4TEhCaTZPZEhZMUNlWDBkM2xqa213cWVubmE0MkIyQVRKRFlEaEdIanllLTFFQQ?oc=5",
+      "pub_date": 1764783000.0,
+      "article_url": "https://thehill.com/opinion/technology/5630281-nvidia-china-military-chips/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Travel\u2019s Newest Strategic Hire: The Conversational AI Designer",
+      "source": "Skift",
+      "source_url": "https://skift.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVU1ZSGstQk9Xa2N3Rkp2cHdWS3c4eDYzSm5ibXFTRkNqamFvMGVkal9rX2FZbG5tazBTY3ZiM2VwVzZlMEUtTUNhbldxNUxfTWRsZEZXRWE2UEdDMW1rWExka2lwRTJvQl9NN2VHa29yRTR5cHBMRk5XNXJ6SWVEcm40alJsQkExTXBBRF8yX3NtdzVO?oc=5",
+      "pub_date": 1764782977.0,
+      "article_url": "https://skift.com/2025/12/03/travels-newest-strategic-hire-the-conversational-ai-designer/",
+      "image": "https://skift.com/wp-content/uploads/2025/12/1202-x-802-px-sign-up.png?resize=1024,683",
+      "description": "Over the past few months, a job title that barely existed a year ago is cropping up across the industry: Conversational AI Designer."
     },
     {
       "headline": "Live updates: The Hill's AI in America Summit",
@@ -93,18 +103,8 @@
       "article_url": "https://thehill.com/policy/technology/5629740-live-updates-ai-in-america-summit/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNNlhVSHBZNWxoTkdTQUhEWHBRd21Wd2diNmNzVXd4S1UwbXRSaVdfN0Y4ai1zV29iQ291dFJ1RjVwOWN4d0FSUkpnRUxvaG54dWZuWEg3R0JJdVJwTm9YbnBOdVhwYjRBVDFESTdSZzM4WlM5b0ZzQk9GSE43bEctMkQtSTFQNUZhWUNRSkN4Y0gyNEFoM0YzWnlDNlJ3N1pjUFE5MHRWNlNwVV9sMThRdC0ycDhhRnNPdWQzQXFWRmVOa05UdHBXaW5pTzVaOXlmQlpyNDd6aGZ6SHVybEFUTnRkVWtOSHV5WS14Q1ZPVGVhWmpVbWJCcDIxcnFjS3dTVWZuaFFFR25YZk1kYzBMQ3pFUW5Ib1c3Q2ZYNTBRd1ZmZGJETEQ1Zk9IeEFtZ1NuNy1mM3F2Rk5EMmhDeFV4djE5dHNKcFd0REp1ZXlERTZiSkxaSXFrNjNXams1dDVjX2w1amJkM0E2N0kwdjVIN3Fwbm94RUcwbGZzRmJLdFlISU1oV3BtU3Bkd2tjVmRCek9rcFFudDBlX2pST3FmQlNyN3l2LXhRU09oRGZBTDRuQUNsTV9tc2hrSHc?oc=5",
-      "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqd6rl0PXp27C8E-vtBAdlvh3AOS2byuCVRiaWy9v8df0kJlrvqPFpHQ&gaa_ts=69306dad&gaa_sig=-wDDyIG7z6OrlyG3LGBN9GljMqKp6rnuQe8XEOGMN0KlEUvRQatQShJxsg29Dr9TS_ihI7pEuXJN_UzomFzK6w%3D%3D",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T16:50:12.995284+00:00"
+  "fetched_at": "2025-12-03T17:40:43.214160+00:00"
 }

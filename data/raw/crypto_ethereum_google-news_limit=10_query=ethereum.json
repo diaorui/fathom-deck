@@ -9,7 +9,7 @@
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHg0YTBhdy1wSmNGMlMxdmpjYTVXZFgxT0dabzZNWE42T0dlRmxUcEhwNnVLNzM4VmhyN1J5cTduNUdmQ2M2cldmVDd1bTVCZDVibUE5aVMxcWVrcGNTVWhNMFAtdTc3Yk9ucnVzYzlRODBybFRhMlV5Y2dZUDlZaUJoekJyd0JudG1wSHhHVnpoMWRo0gGcAUFVX3lxTE5DV0M5SnRNYmF3bjJqdlFoZERCczRkRlJVQ1FWcnh3WkNWTWVXS1R1UUhuUktYTUtFMDNjVXdLU3VhMGdsRFhOQUJ5dnJVUWZ0bHlaTmVzdUs4TDdIMEh1QnFrbkd2SjdiUzRCcFVhVzk1WU9JcXBZYXV2RHd4NUVHclZqUV8wRnJjc0hic055ZVpRNzZoMk1qb1hlbw?oc=5",
-      "pub_date": 1764767552.0,
+      "pub_date": 1764769819.0,
       "article_url": "https://decrypt.co/350728/ethereum-whale-buying-steps-up-market-rebound-heavy-liquidations",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
       "description": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday\u2019s wipeout."
@@ -23,16 +23,6 @@
       "article_url": "https://www.dlnews.com/articles/markets/ethereum-treasuries-collapse-as-trade-unwinds-says-bitwise/",
       "image": "https://www.dlnews.com/resizer/v2/MPEPQUOL3BG5RFGZW4KB37BBSM.jpg?smart=true&auth=a42a36bcfa9bc94558b2a068230a2ebe8e0e75a6a30d4afce6ccb29818df153b&width=1200&height=630",
       "description": "Ethereum treasury purchases fell to 370,000 ETH in November from 1.97 million in August. Bitwise says the treasury model is unwinding as smaller players struggle to survive. Bitmine holds more Ether than all other digital asset treasuries combined."
-    },
-    {
-      "headline": "Hedge fund manager Eric Jackson calls crypto bear market a 'maximum' buying opportunity",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ1REYjI5TnItRVctNlktMnFxaWpFY25NLVhZTldFblg1NUpHWjFpbE52QnRtT1EwSjdPcHZ4MnZqNkZqR0NoUXBGT1M0alJvTzk1Yl9qMlBJNDlRRGFDeUltZlBvODI1Mkw3ejBfVWdyRWxfWTg4SWtEb3BvcTNwb1FpRnRqdUFCVjdCRTZtdVg3N193Zi1RVWJOSEk4YnJJV3hV?oc=5",
-      "pub_date": 1764776340.0,
-      "article_url": "https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12",
-      "image": "https://i.insider.com/693059b004d0f0a114f15117?width=1200&format=jpeg",
-      "description": "Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller."
     },
     {
       "headline": "Bitcoin logs its worst day since March",
@@ -55,6 +45,16 @@
       "description": "Ethereum\u2019s Fusaka upgrade launches Dec. 3. Past upgrades have triggered rallies. Analysts remain unconvinced. Ethereum is preparing to implement its next major network upgrade, known ..."
     },
     {
+      "headline": "The Protocol: Ethereum Preps For Upcoming Fusaka Upgrade",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbk9Cc296NXVScVAwLXl1dm9tdGVWSmNjWkNMX19SZE9zY3VpaVFLaHBPeTYzcVVVbUFkRkxKaUpkSVJUMWpBUHM1TVd1dkt2RVlqbHNlMkhPU2Zhd2lyWjNCM0V1RFh4YXlxMTlvcmhyZ2NGTmxrblpWckc2ZmtFQ1cyOWw0bDdkQ3Q0Ulltb2JrUDFLeFpiRDJhOHU?oc=5",
+      "pub_date": 1764781286.0,
+      "article_url": "https://www.coindesk.com/tech/2025/12/03/the-protocol-ethereum-preps-for-upcoming-fusaka-upgrade",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3551c2e6549cc25a935efc0ac6200617aa9f912-1920x1080.jpg?auto=format",
+      "description": "Also: Anthropic On DeFi AI Agents, ETH Devs Push ZK Protocol, and Bitnomial"
+    },
+    {
       "headline": "Ethereum gets huge mainnet upgrade tomorrow - Here's why you should care about ETH's 'sloping side road'",
       "source": "CryptoSlate",
       "source_url": "https://cryptoslate.com",
@@ -63,16 +63,6 @@
       "article_url": "https://cryptoslate.com/huge-ethereum-upgrade-goes-live-tomorrow-heres-why-you-should-care-about-fusaka/",
       "image": "https://cryptoslate.com/wp-content/uploads/2025/10/ethereum-fusaka-.jpg",
       "description": "Mainnet activates at 21:49 UTC, and BPO forks on Dec. 9 and Jan. 7 lift blob capacity."
-    },
-    {
-      "headline": "ETH News: Ethereum Developers Prep for Fusaka, Second Upgrade of 2025",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTVNWG00Nm1CN2dwcllkc3loMjF2Ymw3MmdNdmQ5T0xvQzE1VEh2VGYxVGt3Slg4RG1ZYjdncVlwQ0ZpMWRMUmlhdUdtaG5BUDYwYUFXc21xbkZKOU9wUHVVbUNuZXRfS04yOFhDWXpFNk5CelpLZ3lQSFYwQXRnOC1mWUVMUE5QeUxvWmh5QUtxNVdIQkQ4SVBjVXVTY24t?oc=5",
-      "pub_date": 1764511230.0,
-      "article_url": "https://www.coindesk.com/tech/2025/11/26/ethereum-developers-prep-for-fusaka-second-upgrade-of-2025",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7dd683e48326c2ace004e4e6c4b4f6ff6c84c77-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The goal of the upgrade is to enable Ethereum to handle the large transaction throughput from the layer-2 chains that use the blockchain as their base layer."
     },
     {
       "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
@@ -85,14 +75,14 @@
       "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
     },
     {
-      "headline": "Why Ethereum Is Gaining Today",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTlCRUlhQVpVRkl6LXd2Ri1HQlRyek90aDVIY2IzTkt0RExKMEdOLXhRUHp4ejJzZWJCSXBKZ2VjbWMzUWhBVmg0QmNCOVFFWjdXbl8wODZ5Vm1INldpdFJra2ZPT3BjV3YyVWZWLUlZcXFsR2JMN0JkQnFPbUxBb2FQZHluUDl2?oc=5",
-      "pub_date": 1764708360.0,
-      "article_url": "https://www.fool.com/investing/2025/12/02/why-ethereum-is-gaining-fed-vice-chair/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845234%2Feth.jpg&w=1200&op=resize",
-      "description": "Stablecoin regulation is moving forward."
+      "headline": "Ethereum Devs Push ZK \u2018Secret Santa\u2019 System Toward Deployment",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzRaT09BbXFQQVk0UmY3aWZvQ1dxd3dERWdscDVvNzBLazYtNngyUlYtQTBhZW1qTmt0Y2xaUVpOOFU2VnRnZ3A1cGd0UFByZExKMjVxTzVmM0lybDI2bGRoWTlxeGhEajJxNmlOWHVJdld3clpmQUhvWC1YVDRYMnJQc0NGNFVrQjQzRjdFWjhFc1puQk85dExsNk44NmVRcWc?oc=5",
+      "pub_date": 1764660669.0,
+      "article_url": "https://www.coindesk.com/tech/2025/12/02/ethereum-devs-push-zk-secret-santa-system-toward-deployment",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88d3548e2bf6ce1a9780df7e901bda3d36597f8-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The proposed protocol uses zero-knowledge proofs to verify sender\u2013receiver relationships without revealing identities."
     },
     {
       "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
@@ -103,8 +93,18 @@
       "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
       "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
       "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
+    },
+    {
+      "headline": "Why Ethereum Is Gaining Today",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTlCRUlhQVpVRkl6LXd2Ri1HQlRyek90aDVIY2IzTkt0RExKMEdOLXhRUHp4ejJzZWJCSXBKZ2VjbWMzUWhBVmg0QmNCOVFFWjdXbl8wODZ5Vm1INldpdFJra2ZPT3BjV3YyVWZWLUlZcXFsR2JMN0JkQnFPbUxBb2FQZHluUDl2?oc=5",
+      "pub_date": 1764708360.0,
+      "article_url": "https://www.fool.com/investing/2025/12/02/why-ethereum-is-gaining-fed-vice-chair/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845234%2Feth.jpg&w=1200&op=resize",
+      "description": "Stablecoin regulation is moving forward."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T16:50:04.751707+00:00"
+  "fetched_at": "2025-12-03T17:40:32.928945+00:00"
 }

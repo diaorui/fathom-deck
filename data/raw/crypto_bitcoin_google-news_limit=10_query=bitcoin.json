@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Hits Two-Week High But Crypto Sentiment Remains Fragile",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyekZBSC0zYU9MYTdJdGFwNm1VRWZsRHlYS3R1ek9WbFF6d2JHOUM2VXZzM3hoS3VzaW13NEE1TTVkbFlOVVJ6bmlMZklXdDVzZV8zMi1VdlZHVUk0U0h2VlNHRXJfbDZTSWc4bno5UjhTTDhLZHVxVVk2VGE?oc=5",
-      "pub_date": 1764745980.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-hits-two-week-high-071352153.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/SXDvF1cZO1K_HekBmt_DYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/b6642c7d988dac0b66b445c88870ce30",
-      "description": "The original cryptocurrency rose as much as 2.6% to about $93,965, its highest intraday level since Nov. 17.  The digital assets market remains on shaky ground after a bruising selloff that began in early October, just days after Bitcoin hit a record of over $126,000.  \u201cBitcoin fans will be rightly cautious about this rally in the cryptocurrency, having seen so many false dawns in recent months, but it looks like the recovery in stock market risk appetite is finally leaching across into the crypto space,\u201d Chris Beauchamp, UK chief market analyst at investment and trading platform IG, said in a note."
+      "headline": "Bitcoin Jumps Back Above $90,000 After Bruising Selloff",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnl1U0Y1bG5MRW1yQ2VrWEhpbVdWR3JzTFBuZ2I2WEZ4bGhZWE42S05ZNWtWNW1LbExfSDBBMmhMOHYzNGF4YmxIZ3Nhd1pjRXNpcUlMX2xiaG8zUHl5Sk9lWWtyQWhyS19MM1E4SzhMYlR3dEVIQ0hOTjRhYTBZZ2d5bUFrMkkzZE5uV245RmpvV2ZMc0g5QkZwa0ZzbjRVYmE1UEhYWC1yWFdRcGtV?oc=5",
+      "pub_date": 1764711512.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/crypto-markets-steady-as-indicators-point-to-weak-sentiment",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin rockets back above $90,000",
@@ -23,26 +23,6 @@
       "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-bitcoin-rockets-back-above-90000-210121108.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/ZCO2o4qppSRSiPuX3v69qA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-12/441224f0-2925-11ea-96ff-875256a153fc",
       "description": "Wall Street is eyeing a comeback as the flight from risk starts to cool."
-    },
-    {
-      "headline": "The AI Trade Has Powered Wall Street Through Bitcoin's Wobble. It Sets Up a December Rally.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNTjRyamlnenlWVmk5Qll3SW1Vam53UGxpLWkxWGtDWlR3TnNfNS1nbjlWNXRIN0tjV3FjaGMzRTUwLWlPdmVkUnZXQko3dEc1amF4d1k3TG1CX0pXbUtQblQyV1VnUGJKUEZTSnJSZ2tVN0JYR28yZTQwUmtuVVJFSjQyNUtCRDEwTTR2U192TjFodkNRTUl6Q2lSU1hUUVlXdTFqQWo1U1NRd2NRVmxPNllvNzAzTV8zQWRjS2JoTmZPX1RROWJCcWtyT0VkVWRfWlFsWGZjVVBWY3Q1QkcyRTFNTHFxaFJ4SFU5Zjdudkx0bUxkNlNfakNibnk3QWNWUVhPZm9lRnZxV0hmX1ZTbUdlOUt4WXJZby1IYXhwazRBY3NyN0NnRkpJXzljRlQtQWhzN2xUZ085QjUycVM3RDVvbUppVWJJWHcwWTN2LTk1YUlMTlpGU3Y5TUdsTUVXUXVKOHV0R1ZVMXl5c0ZxalNEcnJNcVB5Zm40S2gtcVRqbVk?oc=5",
-      "pub_date": 1764764760.0,
-      "article_url": "https://www.barrons.com/articles/ai-stocks-nvidia-oracle-bitcoin-703566dd?gaa_at=eafs&gaa_n=AWEtsqcL-Z210ws0g5AQL7YARBh2rAj8KhJ7MifwI0Tc3NHWm9W6qTOlY7HG&gaa_ts=69303cc1&gaa_sig=dRxNIVpVlfJBCpuL9kD6o1k7aV0Yj2aREIUjGUDtDUOrBfbRgrB_R7VqCb8NR0qGpFKu6JjXf2v-Mq9yjVAS4Q%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin faithful prepare for a bitter winter",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55WUQ2VWlaOG1GcXFJSF9XZXM5NHJiNnNkbWZ5UVNucXJHU183UzJabUNBSXNfRmo5QkZnZHN5LW9fYTFnR3kxUUV0ZkxOYUtwakw0SHpBNk9aOFJXTEQ5aWxLdEtZa3hKVEkzazJEYmg?oc=5",
-      "pub_date": 1764738048.0,
-      "article_url": "https://www.ft.com/content/c235d775-cb39-475f-b11c-e5883d59ff56",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2eb59d00-95aa-4b42-a221-5062022529b6.jpg?source=next-barrier-page",
-      "description": "The flywheel is difficult to maintain if crypto\u2019s animal spirits turn out to have been durably damped down"
     },
     {
       "headline": "Eric Trump\u2019s cryptocurrency firm tumbles nearly 40% amid \u2018crypto winter\u2019",
@@ -65,14 +45,14 @@
       "description": "Company\u2019s shares plummet as investors cash out at end of lock-up period"
     },
     {
-      "headline": "Bitcoin sell-off halts Trump family's crypto windfall",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmlWMDNZVUtjS1dsWHFyaTdfMnhSMTEta1J0WGZDTlJ0czUxcFlJeV95Y0pUSGRVZG0tSmE3MlVxMDNGb1pBZjlWOF9uZXlZVlJncTRldWtaMDRRMm5NelRQN216N0I1YldHSVNja0Nsb3FpUDliZk12aTVaZEd6TVkzaW1FeUZRcWtBcWl2WkhTS1JGbExzUDFIRFlnUdIBowFBVV95cUxQVGxtTWthQ3gxRS1QUUpYZFd0RTB0OXVPYm5STk1sLWJPUzZLeGRhVUM0NzBfcm1IaGdqdVNESG9leWZpTHpkUDFsaEpDbG94d0FjOTlpRGNZOFZDWF9ZeGhNMkRzRHNzOHpDVGNZQWNDamdQR0R2Ni1PVkhtVmpsQUpyZHdLVzgxelQwNzU3RmFkMXNOOXB3UmFRV1IzUGItc2Q4?oc=5",
-      "pub_date": 1764696059.0,
-      "article_url": "https://abcnews.go.com/US/bitcoin-sell-off-halts-trump-familys-crypto-windfall/story?id=128035773",
-      "image": "https://i.abcnewsfe.com/a/cb51083f-cd27-4bf8-8f01-4b848cd3d681/donald-trump-5-ap-gmh-251201_1764611758255_hpMain_16x9.jpg?w=1600",
-      "description": "Due to a recent downturn in bitcoin, the Trump family has had roughly a billion dollars of their net worth erased in just a matter of weeks, according to estimates."
+      "headline": "Trump-led American Bitcoin stock price down 80% as early investors rush for exit",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2xxdVFEakhqb055MTdiUnY5MURiS2VTeGlKX0NsU282OUFSampoTDV5Q0ZFQmxwZGl4R2RTaHY3bEVDb3VYZTUxUWlLYUd0UVE3NkhYNjRKU0dyd013TnV1bXlEcW4wX0d3Y3Z2dWFhWmlHYURFTU1TOW1GQndLd04xT08?oc=5",
+      "pub_date": 1764763156.0,
+      "article_url": "https://finance.yahoo.com/news/trump-led-american-bitcoin-stock-115916956.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/HR8dsUv4BDHNXlYz9O2YcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/dlnews_702/7f8dbfe35179e62bd1a176675e41bd00",
+      "description": "Restricted shares freed for trading triggered selling that crushed the Trump-linked miner\u2019s stock. The rout highlights how fragile crypto-exposed equities have become as digital asset markets stumble."
     },
     {
       "headline": "'Big Short' investor Michael Burry says bitcoin is the 'tulip bulb of our time'",
@@ -85,26 +65,46 @@
       "description": "The investor said seeing the blockchain-based currency hit $100,000 was \"the most ridiculous thing.\""
     },
     {
-      "headline": "Stocks rise, bonds and bitcoin regain some footing",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkJxanotb1RQN0RaT0QtOXZVWWd5VDRYZlNFSkxzVmxZMm5rNU5kRno2TElKM0RGQmUyWFlmNG5OTkxVcXhaVV9IOGliM1hsS3RWTHpYbURCWlpwZHAtU1ppLUdRbGQ0Ump5VEsyZ000WXR2NTI5VUluR3FlLUtubThWTQ?oc=5",
-      "pub_date": 1764714536.0,
-      "article_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-12-02/",
+      "headline": "Vanguard has a change of heart on crypto, lists Bitcoin and other ETFs",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLU5maUtfOHExRXp4aDkxdGRjUHZmQUIzRGJ5RnIwMnZwNVU3RzhDUmNtUjRvM3A0UE9TSzdtZWpaRG16R25UeFpuc2xkYkw5Zi1rRGEzM1plOHpjQktJeEJZUXFpN0FzakczTEI5NWo3NTJQRW9zY3NpMDE3emJFajZfM1ZiMU82QkVYeHZzTEY0T1JrTzlBcWoySGNiQU45U3V3?oc=5",
+      "pub_date": 1764711840.0,
+      "article_url": "https://fortune.com/2025/12/02/vanguard-has-a-change-of-heart-on-crypto-lists-bitcoin-and-other-etfs/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1772102313-e1764708480251.jpg?resize=1200,600",
+      "description": "The brokerage firm, long averse to crypto, will let traders buy and sell blockchain-wrapped funds."
+    },
+    {
+      "headline": "Bitcoin surges, and Vanguard allows trading of some crypto ETFs: CNBC Crypto World",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1NBNXJnRjlPanVycUViVzVkV3I5cFFzUF9sbFhMMjBBbTg3Uloxck1mNTBrY2JBQUlLb3BFa1ZWcWR6TVhpSDBydjU4Z1FSRVZNYUxYWkJhaHN4Mm9sbTE4dHJsQnJoVzhTc2M5Nl9XM1lzS3IzZUo0ZHQ3aGFzdjZKVkhSQklLLV9xTi1scDBBR1Vmbl85T1ZUWnM5ZTZUcEx4YjJFNnN4YTVVUUFjMDhaSERGZUR6V1JHeFFyMzQ?oc=5",
+      "pub_date": 1764705720.0,
+      "article_url": "https://www.cnbc.com/video/2025/12/02/bitcoin-surges-and-vanguard-allows-trading-of-some-crypto-etfs-cnbc-crypto-world.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108235464-251202_cw_thumbnail.jpg?v=1764705267&w=1920&h=1080",
+      "description": "On today's episode of CNBC Crypto World, bitcoin and other cryptocurrencies surge in a digital asset rebound. Plus, Vanguard and Bank of America update their guidance on crypto for clients. And Zach Pandl, head of research for Grayscale, discusses the company's new chainlink ETF."
+    },
+    {
+      "headline": "Vanguard finally dips a toe into crypto waters as bitcoin rebounds above $91,000",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQdGtTZTJrNTFPVjVPQklDa0hhNS1YUzNnT2VudHlVWDNzclFrd0RlMExlNDlDcXpwaTA0MU8wMGRQOVZRNEFWT3pfU0hMWldCQThIREdkaWp0b09VY0VuYjgtdnhnRjg5YlNzZmFhVFZxR0g0bHNWZlNxTHMwYUZYQURZVzhCMWN4STJ5OXQzTmhCMURidkFkQTBUY3BFUHdIWFJzRjk4RHhBbi00SkdHOU9WdzR1bV9ESXFhTlZsVWFhTmNjX1JHOEFXNUM2M3F0M29sOXFlZGIwdkNDRjdyV3hBT0ZQVk1tLUdxZVRrUE1QNVl6Z21nSVZXalVTMC1panM1OGQyV0djY0RPMXJoQXIyQWhYekVPdGdHWGRUVWx4ejZBQ0pMbVBZZ3l0ZXVMbS1pVi1MdWlUYmoyeE0xLWRPSUp2WWFGQlNfV3BkbTREZG45aDl5dmUxTG94TVZHUXlkTU1Hc0pobEU5bVlvUU13cVRIaXhzbzdGenBjeWhMWk1GMHgtWXh4b2tLbjYzYXVMc3Q2SDFZeXVtdTlFd3A2bTN5bEp5OWd5WWRpaUlLMkU?oc=5",
+      "pub_date": 1764670860.0,
+      "article_url": "https://www.marketwatch.com/story/vanguard-finally-dips-a-toe-into-crypto-waters-after-bitcoin-slump-58e9191d?gaa_at=eafs&gaa_n=AWEtsqcDLoVfEgUJOL9sRIzbAB4FJsXEHMKX7yT0-c6WYZXB9LF4fTjBUd_O&gaa_ts=693043ef&gaa_sig=jYeMvDtV82UQtqbXZ6A-DOmmXOf4qy1h-8H1b9XmwnqyDLIFZFDR3z916UqrKpHqZLFPyz1WgX_cwO2nwViDcg%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Wall Street holds steadier as bond yields and bitcoin stabilize",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXF0eGs4RzR4NkhDckZGV3BJYUVxLXNrQ0RDeXF6a2hNSUsyWU9zdzN4UWRfYU93STdiRU5WTmloQUZGR19udUp6cG1raUg3OEsycUVUUDFNdDBNTVhJMW50RXRqV2NaV1huXzREUEQzM1Fmdk5XbzE2Sk4wQ2dlTFpRcTUwV2FPXzhrVm5BYkNfck54Z1VHUUdNNV9aNkZad3c?oc=5",
-      "pub_date": 1764716040.0,
-      "article_url": "https://apnews.com/article/stocks-markets-rates-bitcoin-cyber-trump-e1058c781c79d8860eb1ee70db21dc7c",
-      "image": "https://dims.apnews.com/dims4/default/d523c89/2147483647/strip/true/crop/5160x2903+0+269/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa7%2F20%2Fe0a3a5691f995abde41f3c8a1b70%2Fb53cef6e60e14f9fa83dd8afa4d7703c",
-      "description": "The U.S. stock market is holding stronger as both bond yields and bitcoin stabilize. The S&amp;P 500 rose 0.5% Tuesday, coming off its first loss in six days."
+      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPZ3V3anZ5ckVIMmpiRWtFajZTazJUQm9vd1ZiR3RTWkJfR1EyaHpKYVFaMzZ0UU1QNE5HRTFmc3h4RnFxX2o3R2FmT3dBRzMzQ0t6XzY5ZWJuRUNxOEV3aEVYc0JaRW94aHRsZ20xSG5kQ1BlNkQxSldDbmFuOVdOMThMVHVra1kybkRDLVhobmdCMjI2RmZFUWpZamluNmNzeG5wS3QxdEhqZTctTmtzVFNjcnA4cGdYNzNWaGZPSlgwbzNfaVJNenU4V00wV1YyQUdKN25XX3M4cFV2RXFPWEY4XzFIMjk1TGo4V0ljYkxlS0FLZDFsZ0pGVHVac0tORERzNW1HOWY0S0hXSkE3eThCdEFQZjEwWmNWX1F2c3Rxcnh3Zm5XdGd2YWdnOENnMl9EWFJfVlZNMThvdktDUWFrQ3pwWkpsS0lEa2d0ZTlFdVRoYndOOXNqU0xkYzB4UkVjZ0lyWEtDdE1FQkhxaDJlSEVlMi1jdmo1SzB2MGxseUVaS0g2RW1HNXlEMTBJQ1pyM2VBWU15NGNTR0pSZkdJcl8xaUp6T0JlOUFrQ3FZVnB5S081ZA?oc=5",
+      "pub_date": 1764626940.0,
+      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqfnd_jl7c8ExfTtht2dtS2exHkzN7mezateAn26N4JSFxm3Uvj2Nm4-&gaa_ts=693043ef&gaa_sig=icanPaDCpHQUYAdqj9y69DZ8_lguM1OXm8HdfAomoT4feVQwJqDmbTBwnuZqF2Ecj9JTXfU6V7__tGg4mjWgpQ%3D%3D",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T13:21:20.765678+00:00"
+  "fetched_at": "2025-12-03T13:52:04.790136+00:00"
 }

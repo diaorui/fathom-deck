@@ -35,17 +35,6 @@
       "description": "I\u2019m making a small open-source robotics playground that runs in the browser. It started as a fun idea and somehow turned into a physics sandbox where you can drive robots without installing anything. I want to add a few more robot types, but I\u2019m not sure what would actually be fun or interesting to try. What robots should I add next? Just curious what people here would enjoy testing."
     },
     {
-      "title": "New video, Optimus running. Looking way smoother now!",
-      "author": "AlbatrossHummingbird",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcm1tm/new_video_optimus_running_looking_way_smoother_now/",
-      "published": 1764713079.0,
-      "thumbnail": "https://external-preview.redd.it/OGZ3cHp4Z3o1djRnMZtT1cI8u5hSVYJJ8bJ_LbGeT_t5WDj3OAKPszcxmQqg.png?width=640&crop=smart&auto=webp&s=b8bb0d900e82171ab90eb2762270f41578a44522",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Not sure if that's version 2 or 3, maybe someone can elaborate in the comments."
-    },
-    {
       "title": "EngineAI T800 behind the scenes footage",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1pd24zj/engineai_t800_behind_the_scenes_footage/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "From EngineAI on \ud835\udd4f: https://x.com/engineairobot/status/1996165785056919634?s=20"
+    },
+    {
+      "title": "New video, Optimus running. Looking way smoother now!",
+      "author": "AlbatrossHummingbird",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcm1tm/new_video_optimus_running_looking_way_smoother_now/",
+      "published": 1764713079.0,
+      "thumbnail": "https://external-preview.redd.it/OGZ3cHp4Z3o1djRnMZtT1cI8u5hSVYJJ8bJ_LbGeT_t5WDj3OAKPszcxmQqg.png?width=640&crop=smart&auto=webp&s=b8bb0d900e82171ab90eb2762270f41578a44522",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Not sure if that's version 2 or 3, maybe someone can elaborate in the comments."
     },
     {
       "title": "Any ideas why urdf-stl looking incorrect in FoxGlove but correct in RVIZ2?",
@@ -112,5 +112,5 @@
       "description": "I want to make my ride on lawn mower remote control. My plan is to use stepper motors for steering and speed control lever actuation and hopefully use my drone controller(elrs, boxer) and a flight controller to connect reciever and send signal to stepper controllers. I think my main question here is: are there software programs similar to betaflight that allow my to load firmware to my fc and control/program it in a different way then you would do for a drone. And second question: does this sound feasable, and are there better methods of achieving this."
     }
   ],
-  "fetched_at": "2025-12-03T13:21:04.720638+00:00"
+  "fetched_at": "2025-12-03T13:51:45.142023+00:00"
 }

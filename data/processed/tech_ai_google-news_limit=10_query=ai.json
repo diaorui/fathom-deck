@@ -55,24 +55,24 @@
       "description": "Former Google CEO Eric Schmidt says AI is 'under-hyped' and that its most 'extraordinary' benefits are still ahead."
     },
     {
-      "headline": "Silicon Valley Builds Amazon and Gmail Copycats to Train A.I. Agents",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWl9QamdibTJhWWUzUkcxOW1md29TZWY1VW1BRW1NejZ2eXZFMEx6OUJFbkJMQ05fNk94VmxfTDZCYjNkRTRfRDZlb2I2Wk9MSHhnR2lFNHQxUWlsaFNjV0VUNEdpOWdHcmRpU1hQdEVrTWlUeENLRkJiYVZJSnBNZFNhNFdrN1dBVFctdXFSWEk?oc=5",
-      "pub_date": 1764669637.0,
-      "article_url": "https://www.nytimes.com/2025/12/02/technology/artificial-intelligence-amazon-gmail.html",
+      "headline": "Amazon Releases AI Agents It Says Can Work for Days at a Time",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPWWl4cnc3cG13Zk00bWlXYzJqQUVnQ3hBQXlNRThfbWgwOVFpNHNtNDZXNFRyMGJrRXVERXpwWEdzYlBCTjd3SThLR19vRVF2RXVLLUhQSWZwMm9aeDRCeTdYaFh3R3JoOGV2WTY1czQ5bzlaNXlNdktzUlJwN3Z6Q3RyWFRvRzFDZ2JFbmFhUElaQ0M4aHViVjIya2RDV2s2TXRrX1ZCNVZpZ2FLQ3FoejVQendUaWNwcGFQRkFCcEpUcmkyNXBqSGxsREVRd19wRWlPWVJTS00wbW11YkRRbDB1eHVmRGxiVTM5UkpJUWJPZXJnNnc3UkRsZVZfM3prRGJ0OG1sTFFSWk1LLUFLYXFRcXNCTG9jU3ZadlVpNmR1czVsbThNSWpBX3lWeTdfX2UyVHVndWJIM0tDd3NoSC02WGRwVHc0NWduZEZyZkNnQTRmOXdFbmZEazZtWllreHM5cnNsSTYxT3JlcFk3Vkc3YkZvNENYbnNLTkRCRlBCai1wUHhlelg3VTB3clpBMkZ0eV9wcTQtYWlKSl9GUmU3Y3BVdw?oc=5",
+      "pub_date": 1764699360.0,
+      "article_url": "https://www.wsj.com/articles/amazon-releases-ai-agents-it-says-can-work-for-days-at-a-time-79c82902?gaa_at=eafs&gaa_n=AWEtsqc1NGFiYdHymPP6wHuT03olGgcr-12w8FvaGt3KS8OoK5xtI9JX2yHM&gaa_ts=693043ed&gaa_sig=z49Z_trDeaVlMxHh0nFjoHb5nANnfybOBZBuCoe_R8McswcGj9h922QKKAT3VsxL2wXGeqBLi9uFd6PHdeFWbg%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team",
+      "headline": "Amazon introduces new frontier Nova models, a pioneering Nova Forge service for organizations to build their own models, and Nova Act for building agents",
       "source": "About Amazon",
       "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnV5Y2I1Ykk3bW9rNUh6dUwtU09nMXFuWU5SenFvc0hZQ2RIZEFIYXEwWVgyTGl1b3BqNm8tdHpaWWw3bkw1Sm11REhrVXZxV1dMQnB0dDMzX3NXSGNPSHkxcVQ0ZVdaZE1ZbWdOQWJPS01PMFc1X2xidnB2dXMyWldjZjk?oc=5",
       "pub_date": 1764691197.0,
-      "article_url": "https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro",
-      "image": "https://assets.aboutamazon.com/dims4/default/2cb6e15/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff0%2Fc7%2Fe0cff167432b9d05bbd70532d0de%2Faa-frontier-agents-riv-hero-2.jpg",
-      "description": "The first three frontier agents revolutionize how you build, secure, and operate software"
+      "article_url": "https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models",
+      "image": "https://assets.aboutamazon.com/dims4/default/61b7a71/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F95%2Fdc%2Fc004987040dcafbd49d49a6e5bbc%2Fabout-amazon-hero-nova-forge-hero1-2000x1125.jpg",
+      "description": "Key takeaways"
     },
     {
       "headline": "Veeva AI Agents Now Available to Increase Productivity and Customer Centricity",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T13:21:20.093101+00:00"
+  "fetched_at": "2025-12-03T13:51:57.238837+00:00"
 }

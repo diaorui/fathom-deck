@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-12-03T06:41:17.319416+00:00",
+  "data": {
+    "url": "https://ethereum-magicians.org/t/portmanteau-for-heka-bogota-upgrade-after-glamsterdam/26400",
+    "title": "Portmanteau for Heka + Bogot\u00e1 upgrade after Glamsterdam",
+    "description": "A portmanteau (Portmanteau generator) is needed for Heka + Bogot\u00e1 upgrade after Glamsterdam  The consensus layer uses star names for upgrades whilst the execution layer uses Devcon cities.  See: Post-Merge Network Upgrade Naming Schemes  Recent upgrade names:   \ud83e\udd89 Shapella (Shanghai + Capella) \ud83d\udc21 Dencun (Cancun + Deneb) \ud83e\udd92 Pectra (Prague + Electra) \ud83e\udd93 Fusaka (Fulu + Osaka) Glamsterdam (Gloas + Amsterdam) Heka + Bogot\u00e1  (Apologies if I am stepping on the process for selecti...",
+    "image": "https://ethereum-magicians.org/uploads/default/original/2X/e/e5bb6bb58438e9301c987ec778ccce164c4ed3ee.png",
+    "favicon": "https://ethereum-magicians.org/uploads/default/optimized/2X/3/3a633db8b362151a5dd196670cef12dc5deafc05_2_180x180.png",
+    "site_name": "Fellowship of Ethereum Magicians",
+    "author": null,
+    "keywords": null
+  }
+}

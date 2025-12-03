@@ -24,6 +24,17 @@
       "description": "Dec 1 (Reuters) - OpenAI CEO Sam Altman told employees he was declaring a \"code red\" to improve ChatGPT and is planning to delay other initiatives, such as advertising, The Information reported on Monday, citing an internal memo. OpenAI hasn't publicly acknowledged it is working on selling ads, but it is testing different types of ads, including those related to online shopping, the report said, citing a person with knowledge of its plans."
     },
     {
+      "title": "Is AI really a bubble or are we underestimating how far it will go?",
+      "author": "Lecord",
+      "url": "https://www.reddit.com/r/artificial/comments/1pcvxx7/is_ai_really_a_bubble_or_are_we_underestimating/",
+      "published": 1764740052.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I keep seeing people say that AI is a bubble or that it\u2019s overhyped, but every time I use AI tools I seriously don\u2019t get how people believe that. To me it feels like AI is already capable of doing a huge part of many jobs, including some in healthcare like basic analysis, documentation, nutrition planning, explanations, x-rays, etc. And if it keeps improving even a bit, it seems obvious that a lot of tasks could be automated. So I\u2019m wondering why some people are so convinced it\u2019s a bubble that will \u201cburst.\u201d Is it fear of job loss? Just media exaggeration? Real technical limits I\u2019m not aware of? Or just general skepticism? I want to understand the other side. Do you think AI is actually going to collapse, or do you think it\u2019s going to keep growing and eventually replace certain roles or reduce the number of workers needed? Curious to hear different perspectives, especially from people who think AI is overhyped."
+    },
+    {
       "title": "Nano Banana Pro is eating alive ChatGPT",
       "author": "MatthewJet28",
       "url": "https://www.reddit.com/r/artificial/comments/1pchl7p/nano_banana_pro_is_eating_alive_chatgpt/",
@@ -33,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "As a creative, was testing out Nano banana pro these past days and DAMN, it\u2019s literally on another level! What\u2019s your thoughts on this?"
+    },
+    {
+      "title": "One-Minute Daily AI News 12/2/2025",
+      "author": "Excellent-Target-847",
+      "url": "https://www.reddit.com/r/artificial/comments/1pcwa5d/oneminute_daily_ai_news_1222025/",
+      "published": 1764741174.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "OpenAI declares \u2018code red\u2019 as Google catches up in AI race.[1] Amazon previews 3 AI agents, including \u2018Kiro\u2019 that can code on its own for days.[2] Bank of England warns of AI bubble risk.[3] NVIDIA and Mistral AI Bring 10x Faster Inference for the Mistral 3 Family on GB200 NVL72 GPU Systems.[4] Sources: [1] https://www.theverge.com/news/836212/openai-code-red-chatgpt [2] https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/ [3] https://www.bbc.com/news/articles/cx2e0y3913jo [4] https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
     },
     {
       "title": "Sundar Pichai: Google to Start Building Data Centers in Space in 2027",
@@ -57,6 +79,17 @@
       "description": "We\u2019ve been working on an Autonomous Agentic AI, and the thing that keeps surprising me is how often performance drops come from ingestion changing quietly in the background, not from embeddings or the retriever. Sometimes the extractor handles a doc differently than it did a month ago. Sometimes the structure collapses. Sometimes small OCR glitches creep in. Or the team updates a file and forgets to re-ingest it. I\u2019ve been diffing extraction outputs over time and checking token count changes, which helps a bit. But I still see drift when different export tools or file types get mixed in. If you\u2019ve run RAG in the wild for a while, what kinds of ingestion surprises have bitten you?"
     },
     {
+      "title": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI | In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pcaia0/its_going_much_too_fast_the_inside_story_of_the/",
+      "published": 1764687321.0,
+      "thumbnail": "https://external-preview.redd.it/mqHyDeosvuMG7pPnaraSLxLNMpGfaQqbT2XGhuf2YLs.jpeg?width=640&crop=smart&auto=webp&s=5f174fe6376d304b7118364b16f840197807ed65",
+      "external_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
+    },
+    {
       "title": "OpenSUSE begins rolling out Intel NPU support",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1pckywl/opensuse_begins_rolling_out_intel_npu_support/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "A quick summary: I have not written papers since undergraduate school, but can write well. My wife is getting a graduate degree and is not a great writer. She asked me to edit her paper and I did. Her style is just basically stream of consciousness, not really good with the proper style and formatting of papers. I made a lot of edits. Afterwords I noticed my wife was undoing a lot of the edits I made, in ways that respectfully were much worse. I asked her why. She said when she handed me her paper the AI tool she was using to detect AI was at 0 percent, but after I made my edits to her paper that number had jumped up to 12%. She was fixing the areas that the machine thought looked like AI. I don't care, I'm not insulted. But I feel like this is just a microcosm of what is happening with kids right now, who are probably learning weird and awkward ways to write papers just to make sure they don't get flagged by AI detectors."
-    },
-    {
-      "title": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI | In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pcaia0/its_going_much_too_fast_the_inside_story_of_the/",
-      "published": 1764687321.0,
-      "thumbnail": "https://external-preview.redd.it/mqHyDeosvuMG7pPnaraSLxLNMpGfaQqbT2XGhuf2YLs.jpeg?width=640&crop=smart&auto=webp&s=5f174fe6376d304b7118364b16f840197807ed65",
-      "external_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
-    },
-    {
-      "title": "The Radicalization of Ziz Lasota: How an AI Doomer Became an Accused Cult Leader",
-      "author": "rollingstone",
-      "url": "https://www.reddit.com/r/artificial/comments/1pca7qj/the_radicalization_of_ziz_lasota_how_an_ai_doomer/",
-      "published": 1764686604.0,
-      "thumbnail": "https://external-preview.redd.it/UmUHK7XiC8GfAH9b3XAGA7nqtTKGg9Z8vqJotcac83c.jpeg?width=640&crop=smart&auto=webp&s=6e83b0b08b9a3b413c771c30876356547275ffcf",
-      "external_url": "http://rollingstone.com/culture/culture-features/ziz-lasota-zizians-ai-cult-1235468289",
-      "site_name": "Rolling Stone",
-      "favicon": "https://www.rollingstone.com/wp-content/uploads/2024/12/R-Avatar_512x512_flat.png?w=180",
-      "description": "Lasota\u2019s friends, colleagues, and family talk about how a NASA intern and Google employee wound up at the center of a bizarre string of murders"
-    },
-    {
-      "title": "Anthropic is all in on 'AI safety'\u2014and that's helping the $183 billion startup win over big business | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1pc9mm2/anthropic_is_all_in_on_ai_safetyand_thats_helping/",
-      "published": 1764685183.0,
-      "thumbnail": "https://external-preview.redd.it/4ADGpe0WjAUtrxXsLbqdLhqcn1sw_H_ikb_gNlbrOTc.jpeg?width=640&crop=smart&auto=webp&s=38e6f1d54ac2f79d9015d4bf055f8059996fd63f",
-      "external_url": "https://fortune.com/article/anthropic-ceo-dario-amodei-openai-chatgpt-artificial-intelligence-safety-donald-trump/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "Founders Daniela and Dario Amodei have made Anthropic and its Claude models the AI many companies prefer over rivals OpenAI and ChatGPT."
     }
   ],
-  "fetched_at": "2025-12-03T05:30:08.528084+00:00"
+  "fetched_at": "2025-12-03T06:41:12.415559+00:00"
 }

@@ -9,8 +9,8 @@
       "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
       "hn_url": "https://news.ycombinator.com/item?id=46121870",
       "author": "goplayoutside",
-      "points": 532,
-      "num_comments": 625,
+      "points": 574,
+      "num_comments": 644,
       "created_at": "2025-12-02T15:00:16Z",
       "object_id": "46121870",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -37,8 +37,8 @@
       "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
       "hn_url": "https://news.ycombinator.com/item?id=46124324",
       "author": "nabla9",
-      "points": 356,
-      "num_comments": 448,
+      "points": 396,
+      "num_comments": 486,
       "created_at": "2025-12-02T18:10:23Z",
       "object_id": "46124324",
       "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
@@ -65,7 +65,7 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 195,
+      "points": 196,
       "num_comments": 274,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
@@ -73,6 +73,20 @@
       "description": "Though LLMs had a lot of promise, this has not been demonstrated in practice. The technology is essentially a failure, and a new AI winter is coming.",
       "favicon": "https://taranis.ie/content/images/size/w256h256/format/jpeg/2025/04/taranis-icon.jpg",
       "site_name": "Taranis"
+    },
+    {
+      "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
+      "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
+      "hn_url": "https://news.ycombinator.com/item?id=46118722",
+      "author": "dijksterhuis",
+      "points": 194,
+      "num_comments": 97,
+      "created_at": "2025-12-02T07:46:47Z",
+      "object_id": "46118722",
+      "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
+      "description": "In 1978, Brian Eno released Ambient 1: Music for Airports, a landmark album in ambient and electronic music. Although it wasn't the first ambient",
+      "favicon": "https://reverbmachine.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "site_name": "Reverb Machine"
     },
     {
       "title": "Apple AI chief John Giannandrea is retiring in spring 2026",
@@ -89,32 +103,32 @@
       "site_name": "MacRumors"
     },
     {
-      "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
-      "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
-      "hn_url": "https://news.ycombinator.com/item?id=46118722",
-      "author": "dijksterhuis",
-      "points": 192,
-      "num_comments": 97,
-      "created_at": "2025-12-02T07:46:47Z",
-      "object_id": "46118722",
-      "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
-      "description": "In 1978, Brian Eno released Ambient 1: Music for Airports, a landmark album in ambient and electronic music. Although it wasn't the first ambient",
-      "favicon": "https://reverbmachine.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
-      "site_name": "Reverb Machine"
-    },
-    {
       "title": "Ecosia: The greenest AI is here",
       "url": "https://blog.ecosia.org/ecosia-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=46126964",
       "author": "doener",
-      "points": 86,
-      "num_comments": 51,
+      "points": 92,
+      "num_comments": 59,
       "created_at": "2025-12-02T21:14:38Z",
       "object_id": "46126964",
       "image": "https://blog.ecosia.org/content/images/size/w1200/2025/10/AI-Launch-3.jpg",
       "description": "We\u2019re building the world\u2019s greenest AI. Find out how we\u2019re harnessing new technology while continuing our mission of putting people and the planet first.",
       "favicon": "https://blog.ecosia.org/content/images/size/w256h256/2024/06/apple-touch-icon.png?v=2.0.1",
       "site_name": "The Ecosia Blog"
+    },
+    {
+      "title": "AI generated font using Nano Banana",
+      "url": "https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74",
+      "hn_url": "https://news.ycombinator.com/item?id=46127400",
+      "author": "ebaad96",
+      "points": 75,
+      "num_comments": 29,
+      "created_at": "2025-12-02T21:52:30Z",
+      "object_id": "46127400",
+      "image": "https://www.notion.so/images/meta/default.png",
+      "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools\u2014search, writing, note-taking\u2014inside an all-in-one, flexible workspace.",
+      "favicon": "https://constanttime.notion.site/images/logo-ios.png",
+      "site_name": "Notion"
     },
     {
       "title": "Tell HN: It's now impossible to disable all AI features in Firefox 145 (latest)",
@@ -129,23 +143,9 @@
       "description": null,
       "favicon": null,
       "site_name": null
-    },
-    {
-      "title": "AI generated font using Nano Banana",
-      "url": "https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74",
-      "hn_url": "https://news.ycombinator.com/item?id=46127400",
-      "author": "ebaad96",
-      "points": 69,
-      "num_comments": 26,
-      "created_at": "2025-12-02T21:52:30Z",
-      "object_id": "46127400",
-      "image": "https://www.notion.so/images/meta/default.png",
-      "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools\u2014search, writing, note-taking\u2014inside an all-in-one, flexible workspace.",
-      "favicon": "https://constanttime.notion.site/images/logo-ios.png",
-      "site_name": "Notion"
     }
   ],
-  "total_hits": 497,
+  "total_hits": 496,
   "has_metadata": true,
-  "fetched_at": "2025-12-03T05:30:08.137700+00:00"
+  "fetched_at": "2025-12-03T06:41:12.310400+00:00"
 }

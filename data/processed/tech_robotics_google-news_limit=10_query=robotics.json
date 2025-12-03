@@ -25,6 +25,16 @@
       "description": "Swan EndoSurgical announced today that it has appointed longtime Stryker robotics leader Erik Todd as its CEO."
     },
     {
+      "headline": "Hyundai Motor Group Unveils Production-Ready Autonomous Mobility Robot Platform \u2018MobED\u2019 at iREX 2025",
+      "source": "Hyundai",
+      "source_url": "https://www.hyundai.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9acm81dmY2TjNYN0VKV21aUFNtX2RNUmFiMFpTcnZ5NGRpM2p5bnpWb2N0WnhPVkc2TnJqRGJuLTZpNS1zYmducGVrbThWY0IybnVQLU9PSFlhT1d0TmhTYS1pMktpRm1nWEE3WlhTQ2c?oc=5",
+      "pub_date": 1764723600.0,
+      "article_url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001082",
+      "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/newsroom/news-image/2025/12/1202-1/highlight-horizontal-thumbnail-1202.jpg",
+      "description": "Hyundai Motor Group unveiled MobED (Mobile Eccentric Droid), its first mass-produced mobility robot platform developed by Hyundai Motor Group\u00e2\u0080\u0099s Robotics LAB."
+    },
+    {
       "headline": "Top 10 robotics developments of November 2025",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
@@ -33,6 +43,16 @@
       "article_url": "https://www.therobotreport.com/top-10-robotics-developments-november-2025/",
       "image": "https://www.therobotreport.com/wp-content/uploads/2025/12/trr-nov2025-top10-featured.jpg",
       "description": "November 2025 started with the Robotics Startup Radar and continued with news from important players in the robotics industry."
+    },
+    {
+      "headline": "Robotics \u2018changing the nature of what people are doing.\u2019 Amazon Robotics chief on new AI tech in warehouses.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTJJSmNPMEc2WEhkR3gzcGRzSkFFQXZiY1Q0d0t0dktsbGozZUZxckxWVWhFUGtPQWpUS1FhZXlrOXdFLWx4TlotajRqOHp5cFp0LU9VX01GRmsxVF9ZWHZxNzVaVDJZZ1c0NXROSUpGa3dXYVFxWjRPU2FfNDU5d0pR?oc=5",
+      "pub_date": 1764599932.0,
+      "article_url": "https://www.cnn.com/2025/12/01/world/video/amazon-robotics-change-warehouses",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22160871-1875959-3660000002-still.jpg?c=16x9&q=w_800,c_fill",
+      "description": "CNN News Central\u2019s Sara Sidner speaks with Amazon Robotics VP about technology driving Amazon\u2019s holiday rush"
     },
     {
       "headline": "Does Serve Robotics' Vayu Acquisition Advance Autonomy and Efficiency?",
@@ -55,16 +75,6 @@
       "description": "As AI advances into the real world of robotics and automation, we\u2019re seeing a turning point for physical AI \u2014 1X\u2019s NEO Home Robot can now adapt to new environments in real-time, Physical Intelligence\u2019s Pi0 became the first robot to fold laundry with human-level dexterity straight from a hamper, and Tesla\u2019s Optimus is performing complex [\u2026]"
     },
     {
-      "headline": "Robotics \u2018changing the nature of what people are doing.\u2019 Amazon Robotics chief on new AI tech in warehouses.",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTJJSmNPMEc2WEhkR3gzcGRzSkFFQXZiY1Q0d0t0dktsbGozZUZxckxWVWhFUGtPQWpUS1FhZXlrOXdFLWx4TlotajRqOHp5cFp0LU9VX01GRmsxVF9ZWHZxNzVaVDJZZ1c0NXROSUpGa3dXYVFxWjRPU2FfNDU5d0pR?oc=5",
-      "pub_date": 1764599932.0,
-      "article_url": "https://www.cnn.com/2025/12/01/world/video/amazon-robotics-change-warehouses",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22160871-1875959-3660000002-still.jpg?c=16x9&q=w_800,c_fill",
-      "description": "CNN News Central\u2019s Sara Sidner speaks with Amazon Robotics VP about technology driving Amazon\u2019s holiday rush"
-    },
-    {
       "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas War",
       "source": "The Jerusalem Post",
       "source_url": "https://www.jpost.com",
@@ -85,26 +95,16 @@
       "description": "A Chinese robotics company recently released a video depicting its production and delivery of full-size industrial humanoid robots, the video, with a futurist view similar to scenes displayed in sci-fi movie"
     },
     {
-      "headline": "Chinese schools offer \u2018embodied intelligence\u2019 courses to aid robotics industry",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmRRM2tUVkFhYjBLbnAzUWdtbGREYlZ3RkdWTElBR3dXeEVldmFJeDJTU0pHTGNMMmJiTlFmcjBxNVJ6OWNmaDNtdXVpUENvU0dtaHF3UGQ4X3VmVnRqY3FOQ1dUWlNUb0djVi1tOTFfOGt2ZTZBd2Z3S1JGeDk1UXhfdzZzWWo4TE9pSzAzaGZHelFNcE1JaXFCWjJfd2NuR1BfMFgybU9FU01FZ0VfRnpQYlFJM0xoOG9xZ29CeC03LWllbnVOelI1d9IBywFBVV95cUxQS0YwMElyQ2ZiazhRX3FWa0lWUlNZM3pXamxVaWhUZDZzR1hMYnhxOEc4aGg3N0hfbkt6VW1XY09va1l4VWtJeXRvZ2R6WUo5R1p2R1dnSHQzU3BjaGs2VG5xS05PeEcyUENQUDhLV1JsZjBja3JORVRhT2szbTRQN2xBRnczeWpDbGMtcGYzVTVKSGlBeXpYLU9ybkJxWG5kY01QSndJZFRXanlmekdOVXRfdnJnRHdTTlg1Wk9IODlOUzNiTVk5N1F0VQ?oc=5",
-      "pub_date": 1764630012.0,
-      "article_url": "https://www.scmp.com/tech/policy/article/3334779/top-chinese-universities-offer-courses-embodied-intelligence-aid-robotics-industry",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/01/ed068441-092e-4fbf-b4ab-5a8a28b86a20_992ae625.jpg?itok=95UPh6ws&v=1764582667",
-      "description": "Shanghai Jiao Tong University and Zhejiang University are among seven schools that plan to offer \u2018embodied intelligence\u2019 as a new major."
-    },
-    {
-      "headline": "China Is Officially Scared of Robots",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHBvU2RNd1c2dEFlcGNuNGNtUkh5UkNCYzA2aWdjNlRtSWNHOWFaZXpzbjRQTjk3NEt6QnhUZ3FVTFZER2JkVlNnZE9JNFU1OXNESXRsc19VYVpmTEtSRGx6VndRSGxfN082elJfeTZjWWltOUJ0TjNGTjg4azFiU3c0OEs?oc=5",
-      "pub_date": 1764623460.0,
-      "article_url": "https://futurism.com/robots-and-machines/china-officially-scared-robots-bubble",
-      "image": "https://futurism.com/wp-content/uploads/2025/12/china-officially-scared-robots-bubble.jpg?w=1200",
-      "description": "Chinese officials are warning that the country's humanoid robotics industry could be forming a massive bubble."
+      "headline": "Video: Sci-fi-like march of China\u2019s humanoid robot \u2018army\u2019 sparks debate in US",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQl9Vc1ZDSmFBS1hYNjJZdm8xSlRIdlNUTTZSY0R4enExU0Z0YzdjWjQySzhqUnVsaFBienc2bmRZUHZ0V1VGekRsRFFTejVqWWM1Yl9NVUptU2pubDBYZDRUWnBHS1dMd3M0VUFocFEwMHNIWXBhV2VjSnpkTGhscmNZYl9kTUtXdDdYMlBQNjFFQ2s?oc=5",
+      "pub_date": 1764592200.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/china-humanoid-robots-ubtech-global-debate",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Untitled-design.jpg",
+      "description": "UBTECH\u2019s synchronized humanoid robot video sparks global debate as critics question authenticity and the company defends it as real."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T02:53:27.273192+00:00"
+  "fetched_at": "2025-12-03T03:49:18.434996+00:00"
 }

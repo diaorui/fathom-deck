@@ -45,14 +45,14 @@
       "description": null
     },
     {
-      "headline": "ETH News: Ethereum Developers Prep for Fusaka, Second Upgrade of 2025",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTVNWG00Nm1CN2dwcllkc3loMjF2Ymw3MmdNdmQ5T0xvQzE1VEh2VGYxVGt3Slg4RG1ZYjdncVlwQ0ZpMWRMUmlhdUdtaG5BUDYwYUFXc21xbkZKOU9wUHVVbUNuZXRfS04yOFhDWXpFNk5CelpLZ3lQSFYwQXRnOC1mWUVMUE5QeUxvWmh5QUtxNVdIQkQ4SVBjVXVTY24t?oc=5",
-      "pub_date": 1764511230.0,
-      "article_url": "https://www.coindesk.com/tech/2025/11/26/ethereum-developers-prep-for-fusaka-second-upgrade-of-2025",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7dd683e48326c2ace004e4e6c4b4f6ff6c84c77-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The goal of the upgrade is to enable Ethereum to handle the large transaction throughput from the layer-2 chains that use the blockchain as their base layer."
+      "headline": "Ethereum gets huge mainnet upgrade tomorrow - Here's why you should care about ETH's 'sloping side road'",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hndkpQN3lEOHFPRTVhd0E1eE5NRkZ5endCZlNOVm01am1DRF83QkwxcU1yM1hPOXpJaTBBbVhmX1FmVk5RU0EybzZ3ajZaYU5XbkVweWp6cHFBMnhmaG5XcWxhd3JLYkJJM0NDMVprRUVMMllEeEFKX3FVcmlvWWlDelk1QV9RQnhQMWs0aG5ZS1IzMDFqcEZlOGhiZjloaE1Nd1BEdw?oc=5",
+      "pub_date": 1764686100.0,
+      "article_url": "https://cryptoslate.com/huge-ethereum-upgrade-goes-live-tomorrow-heres-why-you-should-care-about-fusaka/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2025/10/ethereum-fusaka-.jpg",
+      "description": "Mainnet activates at 21:49 UTC, and BPO forks on Dec. 9 and Jan. 7 lift blob capacity."
     },
     {
       "headline": "How High Could Ethereum Price Go When Fusaka Launches? History Gives a Clue",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T02:53:25.725571+00:00"
+  "fetched_at": "2025-12-03T03:49:16.679158+00:00"
 }

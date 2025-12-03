@@ -1,13 +1,8 @@
 {
-  "current_value": 23,
-  "current_classification": "Extreme Fear",
-  "current_timestamp": 1764633600,
+  "current_value": 28,
+  "current_classification": "Fear",
+  "current_timestamp": 1764720000,
   "historical": [
-    {
-      "value": 80,
-      "timestamp": 1733097600,
-      "classification": "Extreme Greed"
-    },
     {
       "value": 76,
       "timestamp": 1733184000,
@@ -1832,7 +1827,12 @@
       "value": 23,
       "timestamp": 1764633600,
       "classification": "Extreme Fear"
+    },
+    {
+      "value": 28,
+      "timestamp": 1764720000,
+      "classification": "Fear"
     }
   ],
-  "fetched_at": "2025-12-02T22:47:03.202251+00:00"
+  "fetched_at": "2025-12-03T04:59:30.863515+00:00"
 }

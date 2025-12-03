@@ -90,17 +90,6 @@
       "description": "I\u2019m making a small open-source robotics playground that runs in the browser. It started as a fun idea and somehow turned into a physics sandbox where you can drive robots without installing anything. I want to add a few more robot types, but I\u2019m not sure what would actually be fun or interesting to try. What robots should I add next? Just curious what people here would enjoy testing."
     },
     {
-      "title": "Is there any ROBOTICS complete course??",
-      "author": "Lumpy-Cucumber-5895",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd6r2e/is_there_any_robotics_complete_course/",
-      "published": 1764774641.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey, I'm a newbie in robotics and I want to build my career in robotics. I have very little time since I'm in my 3rd year, so I need a structured course. I've heard good things about \"The Construct,\" but its masterclass starts on March 2nd and it's quite expensive. Are there any other good options, or another way to get free access?"
-    },
-    {
       "title": "Rodney Brooks on why so much humanoid hype feels like theater",
       "author": "Responsible-Grass452",
       "url": "https://www.reddit.com/r/robotics/comments/1pd9sil/rodney_brooks_on_why_so_much_humanoid_hype_feels/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "His take is that a lot of what we see online right now is carefully staged. Preplanned motions, rehearsed scenes, and very little of the real complexity that comes with unstructured environments. The gap between a controlled demo and an actual deployable product is huge, and he seems worried that people are starting to confuse the two. He also pointed out that most of the systems shown in flashy videos still struggle with the basics. Reliable manipulation. Robust sensing. Working without a team of engineers one room away. None of that makes it into marketing clips, of course. So the public sees a humanoid walking and carrying a box, and assumes the market is further along than it really is."
+    },
+    {
+      "title": "Pi0 worked for a entire day",
+      "author": "drgoldenpants",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdjp2c/pi0_worked_for_a_entire_day/",
+      "published": 1764803539.0,
+      "thumbnail": "https://external-preview.redd.it/OXE2azkweDdtMjVnMUDnGq3QNGwXnAWzx6NNgwjNH9GfBK1kx4uRQGpYEO_C.png?width=640&crop=smart&auto=webp&s=a287bc81dfb34bbc53da2244a9ebf2ead24bcce0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
     }
   ],
-  "fetched_at": "2025-12-03T22:49:31.367338+00:00"
+  "fetched_at": "2025-12-03T23:26:00.580844+00:00"
 }

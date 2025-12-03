@@ -57,17 +57,6 @@
       "description": null
     },
     {
-      "title": "ChatGPT is down worldwide, conversations disappeared for users",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd1jll/chatgpt_is_down_worldwide_conversations/",
-      "published": 1764760719.0,
-      "thumbnail": null,
-      "external_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/amp/",
-      "site_name": "bleepingcomputer.com",
-      "favicon": "https://www.bleepingcomputer.com/favicon.ico",
-      "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
-    },
-    {
       "title": "Bank of America predicts an 'air pocket,' not an AI bubble, fueled by mountains of debt piling up from the data center rush | Fortune",
       "author": "fortune",
       "url": "https://www.reddit.com/r/artificial/comments/1pdi0q7/bank_of_america_predicts_an_air_pocket_not_an_ai/",
@@ -77,6 +66,17 @@
       "site_name": "Fortune",
       "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
       "description": "\u201cIs this 2000? Are we in a bubble? No,\u201d BofA\u2019s strategy chief Savita Subramanian said. \u201cWill AI continue in unfettered leadership? No.\u201d"
+    },
+    {
+      "title": "ChatGPT is down worldwide, conversations disappeared for users",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pd1jll/chatgpt_is_down_worldwide_conversations/",
+      "published": 1764760719.0,
+      "thumbnail": null,
+      "external_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/amp/",
+      "site_name": "bleepingcomputer.com",
+      "favicon": "https://www.bleepingcomputer.com/favicon.ico",
+      "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
     },
     {
       "title": "IBM CEO Has Doubts That Big Tech's AI Spending Spree Will Pay Off",
@@ -112,5 +112,5 @@
       "description": "Lately I noticed I\u2019ve worked a bunch of AI stuff into my daily workflow without even planning to. I draft things with a model, clean them up myself, then run them through a detector that gives actual sentence level notes so I can fix any stiff sounding parts. Curious what everyone else is using day to day. What stuck and what did you drop?"
     }
   ],
-  "fetched_at": "2025-12-03T22:49:27.371010+00:00"
+  "fetched_at": "2025-12-03T23:25:56.271250+00:00"
 }

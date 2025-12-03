@@ -15,16 +15,6 @@
       "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
-      "headline": "BlackRock's Surge in Crypto: Bitcoin ETFs Now Its Top Revenue Driver",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzhFQWZ3Q1lYcldxRUl4RzZhR1ZtcFE2aWE5QnFNRVF3RnFIYURDYUdZNy15VzhkcWVOYmFMNWNNQklhVlhicFhRMGd0bU1yZEdPZlFxdjd6ekg5OHB5OUVtOVYzaTVDY2RYdVJFY2pkNWhteWhxTFJCWHZHM2R2d2xJdFI0VUlTV2c?oc=5",
-      "pub_date": 1764596160.0,
-      "article_url": "https://finance.yahoo.com/news/blackrocks-surge-crypto-bitcoin-etfs-133600713.html",
-      "image": "https://media.zenfs.com/en/zacks.com/edb25d10e45af60c5d4a41341d213d75",
-      "description": "Bitcoin ETFs have become BLK's top revenue driver, with IBIT assets soaring past many legacy funds since launch in January 2024."
-    },
-    {
       "headline": "Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved'",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -45,6 +35,16 @@
       "description": "Larry Fink, the chief executive of BlackRock, dismissed concerns about the long-term value of cryptocurrency."
     },
     {
+      "headline": "\u2018Faster Than Most Expect\u2019\u2014BlackRock CEO Issues \u2018Enormous\u2019 Price Prediction As Bitcoin Suddenly Soars Toward $2 Trillion",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUl9PYjJBY1BHalI3R3JKZ1I1NVZNYk0xendIX1pBWTZxZGpBNmM5bXdBUFp5d085ZWpPUGY2V3pHeUZrX0xQdFVIX2JJSjNUb3dXTUhLYkx2Z2kzUDNndzFlTFFWck1jYmRQNHQ3dGlrT1JSczhSd0hPdGVoS0pHU2Nvbnc2cC1wMU5DTThMeEhLNXVWWExyQkQzd2xfMmtoRkpOUy1ENkZldkpaQVhkTXNlWkJKTUhlaEUzaDFXdEliZk9Ra3ZFUHlHbjEzWkt0NW9fd2lxeGJQWnllaEkzaTBlU3RhTG1qSWtpU3ZFUUtTX3VrRmVWTUpScUZuMmM?oc=5",
+      "pub_date": 1764767287.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2025/12/03/faster-than-most-expect-blackrock-ceo-issues-enormous-price-prediction-as-bitcoin-suddenly-soars-toward-2-trillion/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/68ce62c731907dbb97ed44ac/0x0.jpg?format=jpg&crop=2284,1284,x143,y0,safe&height=900&width=1600&fit=bounds",
+      "description": "The chief executive of the world\u2019s largest asset manager BlackRock has predicted the \u201cenormous growth\u201d of crypto-based tokenization in coming years..."
+    },
+    {
       "headline": "Bitcoin Miners Hunted After Stealing $1 Billion of Electricity From Malaysia Grid",
       "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
@@ -55,14 +55,24 @@
       "description": "Cracking down on illegal Bitcoin mining gangs has become a cat-and-mouse game in Malaysia."
     },
     {
-      "headline": "Eric Trump\u2019s cryptocurrency firm tumbles nearly 40% amid \u2018crypto winter\u2019",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMF9ZM0dIaXQxNDBTTG5EMDNPdmZ2MHZ3VTlEdVVkTHBsdWdxSk9Kb01laUI5dUxwUUZpQ0h4ZmItSDVuZlZWS0c3dzFFZUJoS0dnQ1dRajkyMEVYZzFiY191ZTd2NS1GcnVnaGZ3dFFqVUVGTENpZm9wME5RWEtUVlpWdWRndmcy?oc=5",
-      "pub_date": 1764719520.0,
-      "article_url": "https://www.theguardian.com/us-news/2025/dec/02/eric-trump-american-bitcoin-stock",
-      "image": "https://i.guim.co.uk/img/media/b9846a8768ae5431482b533afb80aa1de551edac/296_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36e5233dc4d06552ce00cb225268dda8",
-      "description": "American Bitcoin Corp\u2019s shares fell from $2.39 to $1.90 after closing in what some are calling \u2018crypto winter\u2019"
+      "headline": "Bitcoin is a 'risk barometer,' CIO says",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uOGIxeVFha3FSWk9GVzlWYlVuS0lmZ1dtaDFEOG82Z1pZUXpIa0dEQ083RUxjTG1ZQVl4cWZTeDZwMUFLVUpma0l1aHBVdU1iaFdoU2dnVGN1V0k?oc=5",
+      "pub_date": 1764802981.0,
+      "article_url": "https://www.foxbusiness.com/video/6385921108112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/c1c3560b-8306-4b93-9b56-c5064b422fb6/570c6701-c50e-42ab-835e-b9f6d341f55e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Cresset Chief Investment Officer Jack Ablin discusses anticipated December rate decision,  President Donald Trump's Fed chair pick, Bitcoin's performance and more on 'Making Money.'"
+    },
+    {
+      "headline": "Bitcoin Surges, Trump-Owned Miner Rebounds After Insider Sales",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYk9XVXkzdU1LQmpIVHBCMjY2Wm1JRllxdnBldm0zNFpucUNWZ3Z6RXJfVzlyT1BxUGJXX3lEMGpMNW5GZHA4WEdkaUxLc2V4UkpaRGZPZnhUYWVmMGMzakNYbGlWRm5fcDZnNE9FUnc3TEVUNm9JWU8yUmFrMXJfSDhXZ1JRVDhuZXJMcEM2SmNaV1RLdjNVVGJYWHNobDJoNG1fV3VtUDRNa1lGcDRycjZJaWhlSDFS?oc=5",
+      "pub_date": 1764796740.0,
+      "article_url": "https://www.investors.com/news/bitcoin-price-rebound-shorts-american-bitcoin-eric-trump-cathie-wood-coinbase-bullish/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "American Bitcoin steadies after share lock-up expiry sparks near 40% plunge",
@@ -93,18 +103,8 @@
       "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/strategy-ceo-sees-reserve-used-to-make-payments-in-perpetuity",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin rebounds after drawdown reaches 20%. Is the crypto winter over or just starting?",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGNwQllQd0NBbFllUFg2VEJCS1Q2eVcyU2o3WmFmaUM1VnBYRU8xWmdoaGFrUVJOWDM5REYyMnlpRTFTMkE4Y3lHQWUtUzF3QWpYcWdTUjQ1MVZ0NGdHcVFVUkFqeGdBODJXRTdOV2tKYjZ6U1BPeXZjQzd3N1lXYkVTeUNJZmlyR0FhdlZqVDV3UzlBd184dWFTLUhyel90cldGOEMtNkx1NXdGbHBnb3ZXdHFmVnh1aUx2MHF0UnF4T2JzX2c?oc=5",
-      "pub_date": 1764697113.0,
-      "article_url": "https://www.cnbc.com/2025/12/02/bitcoin-rebounds-after-drawdown-hits-20percent-is-the-crypto-winter-over-or-just-starting-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108235237-1764691114308-gettyimages-2248882811-EL_SALVADOR_BITCOIN.jpeg?v=1764691135&w=1920&h=1080",
-      "description": "Bitcoin could lose about 80% of its value if it follows its previous bear-market patterns, analysts said. But they're uncertain a crypto winter has started."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T22:49:46.209150+00:00"
+  "fetched_at": "2025-12-03T23:26:17.077503+00:00"
 }

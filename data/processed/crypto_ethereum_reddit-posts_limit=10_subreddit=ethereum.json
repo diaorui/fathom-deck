@@ -57,17 +57,6 @@
       "description": "Recently, Hudson Rock analyzed a unique infection from a LummaC2 infostealer log. The victim wasn't a corporate employee or an unsuspecting consumer. The victim was a high-level threat actor operating a sophisticated malware development rig."
     },
     {
-      "title": "Is this approach used in \"sharding\" or a good idea?",
-      "author": "johanngr",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pd6oau/is_this_approach_used_in_sharding_or_a_good_idea/",
-      "published": 1764774459.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It has seemed to me \"sharding\" often tends to split the consensus mechanism. The technicalities of it seem well thought out but not the consensus part. It seems like it often uses something like randomly delegating from the validator pool but this (even if random) splits the consensus. Another approach is to not split the consensus. Add an intermediary level, a \"validator manager\", and make this what is voted for with coin-vote (or people-vote). This \"validator manager\" (or maybe it could even be called \"government\") then delegates one block producer per shard. That way, each shard has the same majority consensus as any other. The \"threads\" of a sharded blockchain have the same consensus as a single-threaded blockchain would."
-    },
-    {
       "title": "Anoma just activated an entirely new state machine on Ethereum and everyone is too busy farming points to realize what just happened",
       "author": "Direct_Reporter9112",
       "url": "https://www.reddit.com/r/ethereum/comments/1pcj7vc/anoma_just_activated_an_entirely_new_state/",
@@ -77,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Only in crypto can someone ship a whole new state architecture onto Ethereum mainnet and the collective reaction is basically \u201ccool anyway who\u2019s getting the next airdrop.\u201d Anoma quietly deployed the Resource Machine and it\u2019s honestly wild how little attention it\u2019s getting. Here\u2019s the part people are already getting wrong Anoma is NOT a privacy project. Yes it has privacy baked in. Yes it uses commitments and nullifiers. Yes it uses a zkVM. But the whole point isn\u2019t \u201cZcash on Ethereum.\u201d It\u2019s that Anoma is introducing a completely different state model that just happens to make privacy possible but it goes so much further. This thing isn\u2019t a rollup. It\u2019s not a coprocessor. It\u2019s not an \u201cL2 but with extra steps.\u201d It\u2019s a parallel state machine living on Ethereum. A second way to define and verify state transitions. Like if the EVM suddenly had a strange, overpowered cousin that grew up reading Zerocash papers and lifting weights with RISC0. Instead of giant mutable smart contracts, everything becomes tiny immutable resources verified with commitments and nullifiers. Off chain computation. On chain verification. Millions of private micro-objects instead of one giant public diary. The EVM suddenly looks like a 2006 Nintendo DS sitting next to this thing. And the apps you can build aren\u2019t vaporware. They\u2019re what our industry desperately needs NOW: Private swaps that still use Uniswap liquidity A private Gitcoin where your conditions stay hidden Dark pools without liquidation snipers breathing down your neck Private payments across any EVM chain like it\u2019s nothing Again none of this makes Anoma \u201ca privacy project.\u201d That\u2019s like calling Ethereum \u201ca database project.\u201d Privacy is just a side effect of the state model. The real unlock is intent-centric apps, parallel execution, flexible off-chain computation, and a verification-first design that makes the EVM look hilariously outdated. But the timeline is still spreadsheeting loyalty points like it\u2019s Web2 airline rewards season. Not telling you to buy anything. Just saying a parallel state machine literally booted up inside Ethereum and most people won\u2019t realize what that means until they see it at a multibillion FDV and suddenly \u201cremember hearing about it early.\u201d https://ethresear.ch/t/the-anoma-protocol-adapter-is-live-on-ethereum/23466"
+    },
+    {
+      "title": "Is this approach used in \"sharding\" or a good idea?",
+      "author": "johanngr",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pd6oau/is_this_approach_used_in_sharding_or_a_good_idea/",
+      "published": 1764774459.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It has seemed to me \"sharding\" often tends to split the consensus mechanism. The technicalities of it seem well thought out but not the consensus part. It seems like it often uses something like randomly delegating from the validator pool but this (even if random) splits the consensus. Another approach is to not split the consensus. Add an intermediary level, a \"validator manager\", and make this what is voted for with coin-vote (or people-vote). This \"validator manager\" (or maybe it could even be called \"government\") then delegates one block producer per shard. That way, each shard has the same majority consensus as any other. The \"threads\" of a sharded blockchain have the same consensus as a single-threaded blockchain would."
     },
     {
       "title": "Poll (for signaling purposes only) for portmanteau for Heka + Bogot\u00e1 upgrade",
@@ -112,5 +112,5 @@
       "description": "For several years I've been using the combination of frame.sh + brave browser plugin, backed by the Lattice1 hardware wallet. This combo works basically fine, but it seems there is not much development going on. I really did not follow ethereum ecosystem changes in recent years. Are there other/newer projects I should have a look at? Especially frame.sh always feels somewhat clumsy to use - I would love to have something that feels more integrated into my desktop."
     }
   ],
-  "fetched_at": "2025-12-03T22:49:30.006052+00:00"
+  "fetched_at": "2025-12-03T23:25:59.102102+00:00"
 }

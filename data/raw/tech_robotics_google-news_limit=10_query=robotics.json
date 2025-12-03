@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Traders jump into iRobot and Serve Robotics ahead of the White House's robotics announcement (IRBT:NASDAQ)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa0J1YWwtNTZaclZWSUU3Y09NZktBMkVpNy0yMnVFa3o2Q1FoMkk5RE9ldmI3amRMMGFnUlhSNHRLYzY3VmxoejctdXdFNWgtcGdSZEQ0allrT09LNWJyUkJmeEFCdVQ0WHQ0R2RyYWFCVUdoYXZfRTlUVDVJYXZ1NElJclQ2Njl3QnZsdDFkTVJvNTRUOTlDeTQ5R0lMcGU0Y2UySnZucHlSMFNCS3ExWWIyaTk5bWUyLVdZRlptWjh3QmdldGVCYWV3?oc=5",
+      "pub_date": 1764775985.0,
+      "article_url": "https://seekingalpha.com/news/4528144-traders-jump-into-irobot-and-server-robotics-ahead-of-the-white-houses-robotics-announcement",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/464631118/image_464631118.jpg?io=getty-c-w630",
+      "description": "iRobot (IRBT) stock surged 31% amid White House robotics support, but volatility remains high."
+    },
+    {
       "headline": "Former Stryker robotics leader named CEO at Olympus\u2019 Swan EndoSurgical robotics play",
       "source": "MassDevice",
       "source_url": "https://www.massdevice.com",
@@ -13,16 +23,6 @@
       "article_url": "https://www.massdevice.com/former-stryker-leader-ceo-swan-endosurgical-olympus/",
       "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/12/02121755/Erik-Todd-Swan-Endosurgical.jpg",
       "description": "Swan EndoSurgical announced today that it has appointed longtime Stryker robotics leader Erik Todd as its CEO."
-    },
-    {
-      "headline": "China Is Officially Scared of Robots",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHBvU2RNd1c2dEFlcGNuNGNtUkh5UkNCYzA2aWdjNlRtSWNHOWFaZXpzbjRQTjk3NEt6QnhUZ3FVTFZER2JkVlNnZE9JNFU1OXNESXRsc19VYVpmTEtSRGx6VndRSGxfN082elJfeTZjWWltOUJ0TjNGTjg4azFiU3c0OEs?oc=5",
-      "pub_date": 1764623460.0,
-      "article_url": "https://futurism.com/robots-and-machines/china-officially-scared-robots-bubble",
-      "image": "https://futurism.com/wp-content/uploads/2025/12/china-officially-scared-robots-bubble.jpg?w=1200",
-      "description": "Chinese officials are warning that the country's humanoid robotics industry could be forming a massive bubble."
     },
     {
       "headline": "After AI push, Trump administration is now looking to robots",
@@ -45,14 +45,14 @@
       "description": "From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?"
     },
     {
-      "headline": "White House to laser in on robotics in '26; see top-rated AI & robotics ETFs (ARKQ:BATS)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUZKUV9DZVNucVpMbW1TN2FtbUpfWXFrZmljV3NBQnI2bE8xbnU4VGhLSVNyYlFISDNpMGpmdm82Mlp6TENmbEZfenp6TUN1bFZCUEU5WmdHTjJqc1hleDZwTk8yRlRqQ0QzcE83Vnp3VGFCYm1ncDU3NG5iSWU2a1NBUDR5OGFYZll5RGJWYjZibnBCbmFrdG1mX2FTVWFLX1poNFltUU83ZTg?oc=5",
-      "pub_date": 1764772626.0,
-      "article_url": "https://seekingalpha.com/news/4528078-white-house-to-laser-in-on-robotics-in-26-see-top-rated-robotics-etfs",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2192265344/image_2192265344.jpg?io=getty-c-w630",
-      "description": "The Trump administration is intensifying its focus on robotics as a part of its broader initiative to accelerate the development of artificial intelligence, Polito reported Wednesday."
+      "headline": "Tesla stock rises after Trump administration signals robotics push",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVHVwOEUzT0tzdkxNbmRtNUM5MzAxTzNxLVFjVHNkbVNwN3c0bUdtcV9HdWQyYkZjLU96a2ZDU1IzX1RvcWdCeHdsNXVpeXpSUWJLczlLcmRkeGtHQkFySklLN3A1MG42ZDJLVFNMendvbVRMR0hGOGVlM04xczBzcm5BYXVJS01KYTRfMkxTWWVOanA3bTZFQU9yV0NKN19KQlUtUWRqRVZObEx3dW9wN1U5Y2U4V1lZUUJadmFaYUE?oc=5",
+      "pub_date": 1764768474.0,
+      "article_url": "https://www.investing.com/news/stock-market-news/tesla-stock-rises-after-trump-administration-signals-robotics-push-4388466",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Vision-native AI opportunities: a precursor to intelligent robotics",
@@ -65,16 +65,6 @@
       "description": "As AI advances into the real world of robotics and automation, we\u2019re seeing a turning point for physical AI \u2014 1X\u2019s NEO Home Robot can now adapt to new environments in real-time, Physical Intelligence\u2019s Pi0 became the first robot to fold laundry with human-level dexterity straight from a hamper, and Tesla\u2019s Optimus is performing complex [\u2026]"
     },
     {
-      "headline": "Tesla stock rises after Trump administration signals robotics push",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVHVwOEUzT0tzdkxNbmRtNUM5MzAxTzNxLVFjVHNkbVNwN3c0bUdtcV9HdWQyYkZjLU96a2ZDU1IzX1RvcWdCeHdsNXVpeXpSUWJLczlLcmRkeGtHQkFySklLN3A1MG42ZDJLVFNMendvbVRMR0hGOGVlM04xczBzcm5BYXVJS01KYTRfMkxTWWVOanA3bTZFQU9yV0NKN19KQlUtUWRqRVZObEx3dW9wN1U5Y2U4V1lZUUJadmFaYUE?oc=5",
-      "pub_date": 1764768474.0,
-      "article_url": "https://www.investing.com/news/stock-market-news/tesla-stock-rises-after-trump-administration-signals-robotics-push-4388466",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Micropolis AI Robotics (NYSE: MCRP) inks Saudi LOI, eyes up to 500 robots over two years",
       "source": "Stock Titan",
       "source_url": "https://www.stocktitan.net",
@@ -83,6 +73,16 @@
       "article_url": "https://www.stocktitan.net/news/MCRP/micropolis-ai-robotics-and-qss-robotics-sign-letter-of-intent-to-fzpc0oc60asv.html",
       "image": "https://www.stocktitan.net/news_covers/Micropolis_AI_Robotics_and_QSS_Robotics_Sign_Letter_of_Intent_to_Procure_500_Robots_and_Expand_Auton_943263.png",
       "description": "Micropolis AI Robotics signs a Saudi LOI with QSS Robotics, planning pilots with the Ministry of Interior and ARAMCO starting December 20, 2025."
+    },
+    {
+      "headline": "iRobot, Richtech Robotics Stocks Surge As Trump Administration Reportedly Considers Executive Order To Accelerate Development",
+      "source": "Stocktwits",
+      "source_url": "https://stocktwits.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnFLVFV5UVQ2ZTdrRnVBTS1rSjBTNUV0dTZqNjhtS3kyUktXVU1wVFZ1Rnl6TTF0dHgxTDBfUGNqMG8yeGYwVGhNc3RFZjRwSzN5eGZ5cXlsdlNhVW1vLWMzanRET3QzdTBCYmpyQnE3QVRTeTZGb3pzVTFSa0toUEY3NHpEazVGMDRFMnFuSEhMVlVNWFUtN2VUdFFFMU1lYThYQmVQUVBMdHRtbU0zOV9uNzdDQQ?oc=5",
+      "pub_date": 1764777116.0,
+      "article_url": "https://stocktwits.com/news-articles/markets/equity/robotics-stocks-surge-trump-executive-order-reports/cLIXDUjRE1r",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago",
@@ -95,16 +95,16 @@
       "description": "Malaysia\u2019s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace."
     },
     {
-      "headline": "iRobot, Richtech Robotics Stocks Surge As Trump Administration Reportedly Considers Executive Order To Accelerate Development",
-      "source": "Stocktwits",
-      "source_url": "https://stocktwits.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnFLVFV5UVQ2ZTdrRnVBTS1rSjBTNUV0dTZqNjhtS3kyUktXVU1wVFZ1Rnl6TTF0dHgxTDBfUGNqMG8yeGYwVGhNc3RFZjRwSzN5eGZ5cXlsdlNhVW1vLWMzanRET3QzdTBCYmpyQnE3QVRTeTZGb3pzVTFSa0toUEY3NHpEazVGMDRFMnFuSEhMVlVNWFUtN2VUdFFFMU1lYThYQmVQUVBMdHRtbU0zOV9uNzdDQQ?oc=5",
-      "pub_date": 1764777116.0,
-      "article_url": "https://stocktwits.com/news-articles/markets/equity/robotics-stocks-surge-trump-executive-order-reports/cLIXDUjRE1r",
-      "image": null,
-      "description": null
+      "headline": "Top 10 robotics developments of November 2025",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PLWFrbjB0S3lQTUlSRTB4N3dnTFl6RTQtREhlT19GSDNNQmlsV000d2xadHJQSEdKS1prUGs1RTJON2FiS01pR1dkUW82alBUTE5oTlRlb1pQQUV4dnJJOXd1elIwU1hDTVNtY3BJcElLTlpyZXQ5TXBvcUMxYkE?oc=5",
+      "pub_date": 1764624043.0,
+      "article_url": "https://www.therobotreport.com/top-10-robotics-developments-november-2025/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2025/12/trr-nov2025-top10-featured.jpg",
+      "description": "November 2025 started with the Robotics Startup Radar and continued with news from important players in the robotics industry."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T22:49:47.989936+00:00"
+  "fetched_at": "2025-12-03T23:26:14.117282+00:00"
 }

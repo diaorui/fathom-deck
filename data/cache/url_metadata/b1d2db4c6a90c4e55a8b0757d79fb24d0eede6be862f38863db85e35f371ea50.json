@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-12-03T23:26:14.367215+00:00",
+  "data": {
+    "url": "https://www.coindesk.com/tech/2025/12/03/ethereum-activates-fusaka-upgrade-aiming-to-cut-node-costs-speed-layer-2-settlements",
+    "title": "Ethereum Activates Fusaka Upgrade, Aiming to Cut Node Costs, Speed Layer-2 Settlements",
+    "description": "At the center of the upgrade is PeerDAS, a system that lets validators check slices of data rather than entire \u201cblobs,\u201d reducing costs and computational load",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7dd683e48326c2ace004e4e6c4b4f6ff6c84c77-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "favicon": "https://www.coindesk.com/favicons/production/apple-touch-icon-60x60.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

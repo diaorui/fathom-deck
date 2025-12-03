@@ -15,24 +15,24 @@
       "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
-      "headline": "ETH News: What Investors Need to Know About Ethereum's 'Fusaka' Upgrade",
+      "headline": "Ethereum Activates Fusaka Upgrade, Aiming to Cut Node Costs, Speed Layer-2 Settlements",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkdSTThxLTF0cnhTVFVvdTNIQmtIRmkxWWMtcEhkODFFaVRFRzZWVlZyZ2lVU1d2ZllHWmVPNkhLc0FXTnpwcWkyWFB1ejFrSzVGdHN2Wm1NQ3hZRndnSG5yNXF1TS01Snl1bndNamdPR2F2aVk3b0NWLW1WLUoyQVZFdGVOYy02SGlSUXA5aUUzNm5ZWEM1WFctcWtyNlJoRExabS1Fbm9ISnhkYS1mWHRLbnJSQ2s2ekE?oc=5",
-      "pub_date": 1764782802.0,
-      "article_url": "https://www.coindesk.com/tech/2025/12/03/fusaka-cementing-ethereum-s-role-as-on-chain-finance-settlement-layer-bitwise",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4853dd74c80fc2679cc738a259a38b305149f867-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The upgrade will boost throughput, keep validators efficient and, most importantly, strengthen Ethereum's value capture by putting a floor under blob fees."
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3R5aUpRSUtaMUlmZTBtR21MaV9rRGJOZ0cwVGtVUl95TXNOdGRTaG5TdUNTZEh4bERmWEFTNTNPSE9oRjMtTlNsYzJFcmd0WTRDeWxvSjNzb240NXYtNVpZeC1XdHZvcGc3TTdwVlVWczVtdkVwY1lDaUk0VXoyYTZmUkE2cHlSN2hYdGtINHo4eU9HeDVNUGVncDRab0VjVVNsWERyWWU1ZE12NG5LVXRzNGozRjFNS2Z5RkswaEEtZzA?oc=5",
+      "pub_date": 1764798703.0,
+      "article_url": "https://www.coindesk.com/tech/2025/12/03/ethereum-activates-fusaka-upgrade-aiming-to-cut-node-costs-speed-layer-2-settlements",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7dd683e48326c2ace004e4e6c4b4f6ff6c84c77-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "At the center of the upgrade is PeerDAS, a system that lets validators check slices of data rather than entire \u201cblobs,\u201d reducing costs and computational load"
     },
     {
-      "headline": "Ethereum treasuries collapse 80% as the trade unwinds, Bitwise warns",
-      "source": "dlnews.com",
-      "source_url": "https://www.dlnews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcm1oSndpSkMtNHVYUWhWSmttOWctZGx2MU5XWHpZRHM1eVg2OW9Ya2Fad19VSjNrZFQ0cFJWejdWaHVHallNazF6U2hVVFpIS1hUOTBuYV9DblJFeHFTVkN4VldFbTQtSUxXVU9Felkwek1EZ3gwS2lZakhHZF93MTZDTXdoNkNfN3prM3RhY0JURGVEM3J1dHRUOEktaHFz?oc=5",
-      "pub_date": 1764711230.0,
-      "article_url": "https://www.dlnews.com/articles/markets/ethereum-treasuries-collapse-as-trade-unwinds-says-bitwise/",
-      "image": "https://www.dlnews.com/resizer/v2/MPEPQUOL3BG5RFGZW4KB37BBSM.jpg?smart=true&auth=a42a36bcfa9bc94558b2a068230a2ebe8e0e75a6a30d4afce6ccb29818df153b&width=1200&height=630",
-      "description": "Ethereum treasury purchases fell to 370,000 ETH in November from 1.97 million in August. Bitwise says the treasury model is unwinding as smaller players struggle to survive. Bitmine holds more Ether than all other digital asset treasuries combined."
+      "headline": "Ethereum Whale Buying Steps Up as Market Rebounds From Heavy Liquidations",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHg0YTBhdy1wSmNGMlMxdmpjYTVXZFgxT0dabzZNWE42T0dlRmxUcEhwNnVLNzM4VmhyN1J5cTduNUdmQ2M2cldmVDd1bTVCZDVibUE5aVMxcWVrcGNTVWhNMFAtdTc3Yk9ucnVzYzlRODBybFRhMlV5Y2dZUDlZaUJoekJyd0JudG1wSHhHVnpoMWRo0gGcAUFVX3lxTE5DV0M5SnRNYmF3bjJqdlFoZERCczRkRlJVQ1FWcnh3WkNWTWVXS1R1UUhuUktYTUtFMDNjVXdLU3VhMGdsRFhOQUJ5dnJVUWZ0bHlaTmVzdUs4TDdIMEh1QnFrbkd2SjdiUzRCcFVhVzk1WU9JcXBZYXV2RHd4NUVHclZqUV8wRnJjc0hic055ZVpRNzZoMk1qb1hlbw?oc=5",
+      "pub_date": 1764791771.0,
+      "article_url": "https://decrypt.co/350728/ethereum-whale-buying-steps-up-market-rebound-heavy-liquidations",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
+      "description": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday\u2019s wipeout."
     },
     {
       "headline": "Bitcoin and Ethereum Price Fall Offers \u2018Attractive' Entry, Says Tom Lee, Predicts BTC ATH Next Month",
@@ -45,6 +45,16 @@
       "description": "Fundstrat\u2019s Tom Lee and Mark Newton remain bullish on Bitcoin and Ethereum despite recent sharp declines. Ethereum and Bitcoin face near-term volatility. Both analysts still ..."
     },
     {
+      "headline": "Ethereum treasuries collapse 80% as the trade unwinds, Bitwise warns",
+      "source": "dlnews.com",
+      "source_url": "https://www.dlnews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcm1oSndpSkMtNHVYUWhWSmttOWctZGx2MU5XWHpZRHM1eVg2OW9Ya2Fad19VSjNrZFQ0cFJWejdWaHVHallNazF6U2hVVFpIS1hUOTBuYV9DblJFeHFTVkN4VldFbTQtSUxXVU9Felkwek1EZ3gwS2lZakhHZF93MTZDTXdoNkNfN3prM3RhY0JURGVEM3J1dHRUOEktaHFz?oc=5",
+      "pub_date": 1764711230.0,
+      "article_url": "https://www.dlnews.com/articles/markets/ethereum-treasuries-collapse-as-trade-unwinds-says-bitwise/",
+      "image": "https://www.dlnews.com/resizer/v2/MPEPQUOL3BG5RFGZW4KB37BBSM.jpg?smart=true&auth=a42a36bcfa9bc94558b2a068230a2ebe8e0e75a6a30d4afce6ccb29818df153b&width=1200&height=630",
+      "description": "Ethereum treasury purchases fell to 370,000 ETH in November from 1.97 million in August. Bitwise says the treasury model is unwinding as smaller players struggle to survive. Bitmine holds more Ether than all other digital asset treasuries combined."
+    },
+    {
       "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -53,16 +63,6 @@
       "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
       "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
-    },
-    {
-      "headline": "Ethereum Whale Buying Steps Up as Market Rebounds From Heavy Liquidations",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHg0YTBhdy1wSmNGMlMxdmpjYTVXZFgxT0dabzZNWE42T0dlRmxUcEhwNnVLNzM4VmhyN1J5cTduNUdmQ2M2cldmVDd1bTVCZDVibUE5aVMxcWVrcGNTVWhNMFAtdTc3Yk9ucnVzYzlRODBybFRhMlV5Y2dZUDlZaUJoekJyd0JudG1wSHhHVnpoMWRo0gGcAUFVX3lxTE5DV0M5SnRNYmF3bjJqdlFoZERCczRkRlJVQ1FWcnh3WkNWTWVXS1R1UUhuUktYTUtFMDNjVXdLU3VhMGdsRFhOQUJ5dnJVUWZ0bHlaTmVzdUs4TDdIMEh1QnFrbkd2SjdiUzRCcFVhVzk1WU9JcXBZYXV2RHd4NUVHclZqUV8wRnJjc0hic055ZVpRNzZoMk1qb1hlbw?oc=5",
-      "pub_date": 1764780829.0,
-      "article_url": "https://decrypt.co/350728/ethereum-whale-buying-steps-up-market-rebound-heavy-liquidations",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
-      "description": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday\u2019s wipeout."
     },
     {
       "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
@@ -95,16 +95,16 @@
       "description": "Vitalik sent 256 ETH in grants to Session and SimpleX, two metadata-resistant messaging protocols. We explore why."
     },
     {
-      "headline": "Bitmine (BMNR) Drops 12.6% on Ethereum Fall",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xMlF4TFJDMU4wWm9nMHVQMUNHUEtaYkxHSWxEM2RDV3FiS01sQzYyUU9XQmZDbl92dHZqYnUtQTFpSGRPZFhQRWpPUEQ3ZF9mbl9HUmJyVDVsUkkwclktdXRScHhjRXl3WG1mNmd3MnByS3RuV0xjMg?oc=5",
-      "pub_date": 1764691208.0,
-      "article_url": "https://finance.yahoo.com/news/bitmine-bmnr-drops-12-6-160008495.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/OAU_CIVn6pcefPE11q9rkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://media.zenfs.com/en/insidermonkey.com/18e82da775311dc3b1eea7c0f27a8735",
-      "description": "We recently published 10 Stocks Already Hurting in December. Bitmine Immersion Technologies, Inc. (NYSEAmerican:BMNR) is one of the top performers on Monday. Bitmine saw its share prices decline by 12.62 percent on Monday to close at $28.94 apiece as investor sentiment was dampened by Ethereum\u2019s drop in prices on the same day. As of writing, Ethereum [\u2026]"
+      "headline": "Tom Lee Says Ethereum Firms Are \u2018Elite Of Wall Street\u2019 \u2014 Is His Bullish $9000 Prediction Possible?",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmh3ZURwY1Z2ZFg0VjYwb0hoekVqeUJ6b1JYX183SWlvOUpLWXBMRjIwZkkzTnh2OTJpYUJ0NElVSlRwakgzLXo0cGRmODJSM3ZvNEhzS3lKbWlWMnZtVk13UzBLV0V1Y2Uza09kdWt1N2lqLW1YdUxYdXVtYXpJMmZnU0ZfM2hGTm80Y251NXBLM3oteUs2OEJCVnpkTzg2V2htVGdn?oc=5",
+      "pub_date": 1764594135.0,
+      "article_url": "https://www.ccn.com/news/crypto/tom-lee-claims-firms-building-ethereum-elite-wall-street-price-explode/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T22:49:46.660152+00:00"
+  "fetched_at": "2025-12-03T23:26:14.367798+00:00"
 }

@@ -47,6 +47,20 @@
       "site_name": "bitcoinhalvingcountdown.com"
     },
     {
+      "title": "The Harvard Endowment's Biggest Public Investment Is Now Bitcoin",
+      "url": "https://gizmodo.com/the-harvard-endowments-biggest-public-investment-is-now-bitcoin-2000686439",
+      "hn_url": "https://news.ycombinator.com/item?id=46141603",
+      "author": "surprisetalk",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2025-12-03T23:11:43Z",
+      "object_id": "46141603",
+      "image": "https://gizmodo.com/app/uploads/2025/11/harvard-front-gate-1200x675.jpg",
+      "description": "The endowment dramatically increased its holdings of a spot bitcoin ETF since its previous such report.\u00c2",
+      "favicon": "https://gizmodo.com/apple-touch-icon.png?v1",
+      "site_name": "Gizmodo"
+    },
+    {
       "title": "Wasabi: Open-source, privacy preserving Bitcoin wallet",
       "url": "https://github.com/WalletWasabi/WalletWasabi",
       "hn_url": "https://news.ycombinator.com/item?id=46088334",
@@ -117,7 +131,7 @@
       "site_name": "Bitmovin"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2025-12-03T22:49:28.533225+00:00"
+  "fetched_at": "2025-12-03T23:25:57.223968+00:00"
 }

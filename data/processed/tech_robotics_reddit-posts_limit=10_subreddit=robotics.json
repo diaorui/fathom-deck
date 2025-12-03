@@ -2,6 +2,17 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "Waymo self-driving car enters active police standoff with passenger inside",
+      "author": "BuildwithVignesh",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcz5ba/waymo_selfdriving_car_enters_active_police/",
+      "published": 1764751715.0,
+      "thumbnail": "https://external-preview.redd.it/dGsxcHM0MXdjeTRnMQzCE-oKnmX0A0tzj78iO1FrgUK3uFro-tgp7j8i7UI-.png?width=640&crop=smart&auto=webp&s=6c04322bd908a9bd161244d22c7a57aae89950a5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
+    },
+    {
       "title": "I\u2019m building a browser-based robotics playground (open source). You can test robots with zero setup.",
       "author": "Silly_Asparagus_76",
       "url": "https://www.reddit.com/r/robotics/comments/1pcwp3c/im_building_a_browserbased_robotics_playground/",
@@ -57,17 +68,6 @@
       "description": "The 11 year old is pretty smart and wants one of those robot arms. She has done some robotics and coding at school and wants to go into some type of engineering. I don\u2019t like buying cheap stuff and I also don\u2019t like buying something that she will build and be done with it. I guess what I\u2019m looking for is some modular building kits to ultimately get her a robot arm type system that she can also modify over time. My goal is to stay $150 or less on the initial purchase and then it have options that she can add to this and have it grow along with her skills in doing this. I can\u2019t find any shops around here anymore that could even help me with this and online has too many of these in such a wide price range I have no clue where to start. Maybe that is also a possibility to have books that she can read that could guide her through years of growing and learning with this. Any help would be appreciated."
     },
     {
-      "title": "Industrial Robots vs Cobots in High Volume Production - Are Cobots even relevant here?",
-      "author": "whynotabtn",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcdcul/industrial_robots_vs_cobots_in_high_volume/",
-      "published": 1764693828.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?"
-    },
-    {
       "title": "Inside China\u2019s Robot Training Factory: Where Humanoids Learn to Work",
       "author": "GreatPretender1894",
       "url": "https://www.reddit.com/r/robotics/comments/1pctstu/inside_chinas_robot_training_factory_where/",
@@ -77,6 +77,17 @@
       "site_name": "#SixthTone",
       "favicon": "https://www.sixthtone.com/favicon.ico",
       "description": "Young operators remotely guide robots through thousands of everyday tasks, generating the scarce data needed to teach machines how to work in the real world."
+    },
+    {
+      "title": "Industrial Robots vs Cobots in High Volume Production - Are Cobots even relevant here?",
+      "author": "whynotabtn",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcdcul/industrial_robots_vs_cobots_in_high_volume/",
+      "published": 1764693828.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?"
     },
     {
       "title": "First robotics project: I want to make my lawnmower remote control",
@@ -99,18 +110,7 @@
       "site_name": "CNX Software - Embedded Systems News",
       "favicon": "https://www.cnx-software.com/wp-content/uploads/2021/04/cropped-CNX-Software-Square-Logo-Light-Grey-1-180x180.png",
       "description": "First time I see an arm with four fingers. Open source with kit available."
-    },
-    {
-      "title": "This Giving Tuesday support the OSRF Build Farm (the infrastructure building your ROS binary packages) by becoming a Build Farm Backer [details inside]",
-      "author": "OpenRobotics",
-      "url": "https://www.reddit.com/r/robotics/comments/1pch51k/this_giving_tuesday_support_the_osrf_build_farm/",
-      "published": 1764702022.0,
-      "thumbnail": "https://preview.redd.it/xvqg96gk8u4g1.png?width=640&crop=smart&auto=webp&s=32431b55492407e2d632923cbfe0e59b6322992e",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "\ud83e\uddd1\u200d\ud83c\udf3e The OSRF\u2019s Build Farm produces the ROS and Gazebo binary packages that are downloaded over 500,000,000+ times every year! The scale of the Open Source Robotics Foundation's infrastructure is massive: \ud83d\ude9c 95,000+ unique packages produced as of October 2024 \ud83d\udc2e 5000+ unique Debian packages in the last 30 days \ud83d\udc11 1500+ unique Gazebo Build Farm jobs \ud83d\udc16 600+ PR testing jobs in November 2025 \ud83d\udc10 500+ unique Gazebo CI job in the past 30 days \ud83d\udc14 400+ CI builds in the past 30 days \ud83d\udc25 100+ PR testing jobs in the past 30 days \ud83e\udd5a 63 hours of testing for ros-core packages every night It takes a dedicated team of Build Farmers and significant cloud resources to build, test, and deliver the binaries that power robots around the world. If you have ever saved time by downloading a ROS or Gazebo binary package instead of compiling it from source, we would love your support! Full details on Open Robotics Discourse."
     }
   ],
-  "fetched_at": "2025-12-03T08:39:03.107474+00:00"
+  "fetched_at": "2025-12-03T09:33:22.958264+00:00"
 }

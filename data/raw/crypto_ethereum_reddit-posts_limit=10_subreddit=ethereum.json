@@ -46,6 +46,17 @@
       "description": "Why should the average person be excited about ethereum and/or ETH? What specific real world use cases are available to the average person today?"
     },
     {
+      "title": "Been out of the loop for some time. Whats the go-to wallet solution these days?",
+      "author": "TripleSpeeder",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pcz1jq/been_out_of_the_loop_for_some_time_whats_the_goto/",
+      "published": 1764751311.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "For several years I've been using the combination of frame.sh + brave browser plugin, backed by the Lattice1 hardware wallet. This combo works basically fine, but it seems there is not much development going on. I really did not follow ethereum ecosystem changes in recent years. Are there other/newer projects I should have a look at? Especially frame.sh always feels somewhat clumsy to use - I would love to have something that feels more integrated into my desktop."
+    },
+    {
       "title": "Daily General Discussion December 02, 2025",
       "author": "EthereumDailyThread",
       "url": "https://www.reddit.com/r/ethereum/comments/1pc0uyk/daily_general_discussion_december_02_2025/",
@@ -99,18 +110,7 @@
       "site_name": "X (formerly Twitter)",
       "favicon": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
       "description": null
-    },
-    {
-      "title": "Running my first trading war and am giving away some eth as top prize. This is a game I've been developing and am basically willing to pay for players!",
-      "author": "hupcapstudios",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pbhd31/running_my_first_trading_war_and_am_giving_away/",
-      "published": 1764606665.0,
-      "thumbnail": "https://external-preview.redd.it/g_s5_-SszdKQAKOe0s1pC8oudkgYJxkg7UEY-c5IJUA.png?width=320&crop=smart&auto=webp&s=9b2ef8d2e3b129f0e1c6f5e3688b7b997bc2a5e8",
-      "external_url": "https://eth.botwars-c.com/game_room",
-      "site_name": "BotWars-C",
-      "favicon": "https://eth.botwars-c.com/apple-touch-icon.png",
-      "description": "Build, train, and compete with trading bots in simulated crypto markets. Climb the leaderboard, win credits, and redeem for ETH."
     }
   ],
-  "fetched_at": "2025-12-03T08:39:01.708457+00:00"
+  "fetched_at": "2025-12-03T09:33:21.604901+00:00"
 }

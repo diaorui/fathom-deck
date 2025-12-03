@@ -23,8 +23,8 @@
       "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
       "hn_url": "https://news.ycombinator.com/item?id=46121870",
       "author": "goplayoutside",
-      "points": 355,
-      "num_comments": 440,
+      "points": 419,
+      "num_comments": 498,
       "created_at": "2025-12-02T15:00:16Z",
       "object_id": "46121870",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -61,6 +61,20 @@
       "site_name": "red.anthropic.com"
     },
     {
+      "title": "A new AI winter is coming?",
+      "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
+      "hn_url": "https://news.ycombinator.com/item?id=46109534",
+      "author": "voxleone",
+      "points": 194,
+      "num_comments": 273,
+      "created_at": "2025-12-01T16:42:15Z",
+      "object_id": "46109534",
+      "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
+      "description": "Though LLMs had a lot of promise, this has not been demonstrated in practice. The technology is essentially a failure, and a new AI winter is coming.",
+      "favicon": "https://taranis.ie/content/images/size/w256h256/format/jpeg/2025/04/taranis-icon.jpg",
+      "site_name": "Taranis"
+    },
+    {
       "title": "Apple AI chief John Giannandrea is retiring in spring 2026",
       "url": "https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/",
       "hn_url": "https://news.ycombinator.com/item?id=46114144",
@@ -75,26 +89,12 @@
       "site_name": "MacRumors"
     },
     {
-      "title": "A new AI winter is coming?",
-      "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
-      "hn_url": "https://news.ycombinator.com/item?id=46109534",
-      "author": "voxleone",
-      "points": 193,
-      "num_comments": 273,
-      "created_at": "2025-12-01T16:42:15Z",
-      "object_id": "46109534",
-      "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
-      "description": "Though LLMs had a lot of promise, this has not been demonstrated in practice. The technology is essentially a failure, and a new AI winter is coming.",
-      "favicon": "https://taranis.ie/content/images/size/w256h256/format/jpeg/2025/04/taranis-icon.jpg",
-      "site_name": "Taranis"
-    },
-    {
       "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
       "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
       "hn_url": "https://news.ycombinator.com/item?id=46118722",
       "author": "dijksterhuis",
-      "points": 183,
-      "num_comments": 89,
+      "points": 185,
+      "num_comments": 90,
       "created_at": "2025-12-02T07:46:47Z",
       "object_id": "46118722",
       "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
@@ -107,8 +107,8 @@
       "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
       "hn_url": "https://news.ycombinator.com/item?id=46124324",
       "author": "nabla9",
-      "points": 119,
-      "num_comments": 164,
+      "points": 179,
+      "num_comments": 236,
       "created_at": "2025-12-02T18:10:23Z",
       "object_id": "46124324",
       "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
@@ -135,7 +135,7 @@
       "url": "https://www.currentaffairs.org/news/ai-is-destroying-the-university-and-learning-itself",
       "hn_url": "https://news.ycombinator.com/item?id=46121833",
       "author": "speckx",
-      "points": 60,
+      "points": 61,
       "num_comments": 44,
       "created_at": "2025-12-02T14:57:44Z",
       "object_id": "46121833",
@@ -145,7 +145,7 @@
       "site_name": "currentaffairs.org"
     }
   ],
-  "total_hits": 488,
+  "total_hits": 493,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T23:25:52.277096+00:00"
+  "fetched_at": "2025-12-03T01:05:34.613873+00:00"
 }

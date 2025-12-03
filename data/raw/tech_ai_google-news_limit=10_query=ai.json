@@ -5,34 +5,24 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNMnFRbHF1ZTVMOEcwT2UwUzVTYTlyZUtSWWQ2TGttQ2hGSDViT2t4VGxWaDVKZ2o0TkQ0bWs1UkdpZVFQLUxCMnViSElHanVQNWs4YkVfWWVZVFhDNHlzamF1NjYyYVpEVzBWb1JWU1lzeHUyemV0YmpUSzlqZ0FrblZCS2E2OHBVSFJkcThXOUdKWnotSndYVHB5TXF0U0hnVFZwcjhaTlJkZGpBVUQ1S29QWFlLNGVjcHhJTThyelNzVVJqZDdkMFBocVUxRXhaMlJJenl2QkgyVjdNME9lVnBnd1RpTTFnRVFUYVp0czBfVUVuRUl5VUdZNVJUYmV0Mndmelg5MHNaektWOEV0TFd5RmhIckk2M2VxWGhPSGQ5djhaSXRrNWNKdEdwUlRfaDFMZGw0VkFER1k1OFJUdjJiUHJySWJTandrT3ZzY3NqaDZaUHgwVHpJV2JSdEk4N3dXQnJtaklHbFl4WU5OMlhIcGpGNTJiYTRRTUh0R0R5NWlUYkpLSHQySlptc2lkY3pyZVBqam5yczUtS3VTZUU2Uk9laURkMmpmX0ZfMzQ5WWZiaURqVVlXeno?oc=5",
-      "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqdb0XH4Sl8Htk5yUObxP3oTvcNbsn_W9F9_Qwdj3XT47sage5MuUdKF&gaa_ts=692f7903&gaa_sig=fWbNs3zfmE9Du7t8aVmJDmEk2rnRra5TLf4tH5pwBIDOK8qE36656O3flS3Y8IihrZemp1obYDrVGcH0F0s9Hg%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI CEO declares \u201ccode red\u201d as Gemini gains 200 million users in 3 months",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZW04QXcxR2RySjA0SkdJYjhZN0VRS3FxQ003OWRuUUJGT2ZaUlBGMHpRZlNPdkx4UTB1RGZXZ0pjZXVSVnp0bzRJZDNZWS1IdkdRUXhfeVRMZ2FaMDlIWjBXdW93X1pMUW41YVhIc2p3SVJ4RkxxRHkwbUEtSHFnRHNTdTNQRk9GeFl0QUpGU0xEVkJwSXlrdlNZaTEzejJSZU5DTnRQYzNjbVVZWnln?oc=5",
-      "pub_date": 1764715329.0,
-      "article_url": "https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/aaltman_crop-1152x648.jpg",
-      "description": "Three years after Google sounded alarm bells over ChatGPT, the tables have turned."
-    },
-    {
-      "headline": "OpenAI is under pressure as Google, Anthropic gain ground",
+      "headline": "Amazon to let cloud clients customize AI models midway through training for $100,000 a year",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLNVRNMm12WWxsSng3WGxjOVB3bGRrRmJhZjBrMFhpVHRkRXk3Q0ZFTTRpZ1hHREFlYjNTUUtlaUdaQzdvWlNFWFZIa2FaaXdndUh1OUVQMXh4TUZLNlZnd19BMlpScUpHTnhYWDFZNWhnUS1FNTZjczdB0gF_QVVfeXFMTlI5Zy1PMm5UcVFiVFEzT0QwcGl4WFJhNU5jb0VfZEhrN0hWel95ZFpGVG9FUEk1Qzl3U3Bidkp2ZzhMVmtQaFExd2FBcjVNMUtNMnRwQV90QXlncms5QW1tM19SeVFBZ3V6Z1Jabkxkd3J3cEVHNmh3Wmpac3JqOA?oc=5",
-      "pub_date": 1764690966.0,
-      "article_url": "https://www.cnbc.com/2025/12/02/open-ai-code-red-google-anthropic.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108187812-1764696032432-108187812-1755581084982-gettyimages-2225624138-US_FEDERAL_RESERVE.jpeg?v=1764696049&w=1920&h=1080",
-      "description": "Sam Altman reportedly sent a memo to his staffers outlining a \"code red\" effort to improve ChatGPT."
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzhhdnNGQloxajAyTkJaVkE0aHF3UDR5V09BZXV4OEdwYjB4TU5MZ0EzUTVoSURjZXdlem1OVThCQ0pneVJkRmJyVFB0STBPZ1RuLXlfTTdSUWJfbmtDSVJyNVIwX0UySUpoS2hoTXZUWVFMUWI1emY3MmZKYzZxWENFWFprbWFIejJyRlJnYkFuZ1dvU3ZWUHB3RFdpV0pnN2VJTzIyZUnSAa4BQVVfeXFMTnRJbEk5TTMyRzNqQl9BYmNIcUVrTzd4bGs5d3BzOW5VYTBuT3VaV1FpZjdNek1MOThpdkhpREpVWVo4MUFqTXNDY1R6ZnV1Y1QxT1VCWno2OC14alVPV3ZLODRUUVc5ekY5UURNZnJKQzdTYU84dU82Tml3NjhZT3ZoOVJlUUR0UENpVkhMYnh3X2hVQ3JkUW5xcGFMR3UwNTEzR1M5VU5ucEpaMGtn?oc=5",
+      "pub_date": 1764691201.0,
+      "article_url": "https://www.cnbc.com/2025/12/02/amazon-nova-forge-lets-clients-customize-ai-models-for-100000-a-year.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108234913-1764645561370-gettyimages-2188101070-776246284_01_u86qe5ms.jpeg?v=1764702899&w=1920&h=1080",
+      "description": "It can cost hundreds of millions or even billions to build a large language model from scratch, and this process is more affordable, Amazon said."
+    },
+    {
+      "headline": "Amazon Releases AI Agents It Says Can Work for Days at a Time",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPMmNwX0dZZXM1YTgwdjRXcUYwb19WeXpueXctUFBuY1ZwdFZYNVVqcjNqT191MGtzb3czbUtCSm9pNy1MdEp5RlJuMnJVSkJYWEJHOWpWYkt0aTQyVFVNSG5qVUZBaU1UWm5nQkt1MkxoLTcyem05alRmS3JjS2ExbXIwOU0wSXlKUHNNaFplZmtEVkdyQ3UwTjRPRFZRSnE2U201aWRiYUhSLU9YMzY3blhFblFxZDlBR2otS3lHVmFTU2FnNXkydDNHS3dBLXdPRkQyZXozU1JoV1REWGFuWlY2emphV0RSUzAzMWlKWW5LVk5HdnRFMUZvRmNtd0ZvVGpKdkhwTGoyWTM4d3gyNXFNeHplUDNfRnpnanJNSUlybC1ZSkU4N1h2Mllidk5FS3RsUkdvZ201UVFsZkRzOElxUnNoTUhBV3dVbHU1NFJyWjRZRHFDUWlReWRRM2FjVW8tYzI1SmNOUDhPd25aUTVTRHBtUnRHVnBiSG16SXZ6Sk1jRlFUaUxBcUxSM2plN3VrbUV1a0w0VkpLalZJMG9UMXpHQQ?oc=5",
+      "pub_date": 1764699360.0,
+      "article_url": "https://www.wsj.com/articles/amazon-releases-ai-agents-it-says-can-work-for-days-at-a-time-79c82902?gaa_at=eafs&gaa_n=AWEtsqc_kd9O3YLWTU2sAbu7dSdzO2ZeJ0iC6AOSihz0uKDoi7oyQiu9XDEx&gaa_ts=692f9061&gaa_sig=tkA7HXqTjozH5xIUoElQvSvnA2lfgydX7V0hqM-eUgsmUl3TqiTOzr30OGz_bTJsyUDXJnsDRPq9190aCHrdQQ%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Silicon Valley Builds Amazon and Gmail Copycats to Train A.I. Agents",
@@ -45,24 +35,44 @@
       "description": null
     },
     {
-      "headline": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5",
-      "pub_date": 1764691197.0,
-      "article_url": "https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro",
-      "image": "https://assets.aboutamazon.com/dims4/default/2cb6e15/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff0%2Fc7%2Fe0cff167432b9d05bbd70532d0de%2Faa-frontier-agents-riv-hero-2.jpg",
-      "description": "The first three frontier agents revolutionize how you build, secure, and operate software"
+      "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQMEhuaTJhSmhHXzVJbWQ3WkxqNm5VYkVwQlZfUVF0UkI0aVNuQnEyTG54eDQ1WW5yWkZiWlpOeWJaQTlPWGxFTm1sQW9PNWhFdVBQUVRCYVVFMnc4SGNqSndPSVRxVTQ0cU9pUmx2Y0RaTW9DM3RCQUsxR3o2c0dhSTBNVTJkNDNGaVc3Rlo4djY4YnBkYi1pSzZIVDllak93WW55cFRJdnhaemctMFRjdWFrSkRMbWI1b3hxQVV0X3lDbkhlOWFhTGdPcHBpMi1EQXFFak5ZdUtkcnl3MnpLaWMtcU1BVkh2Qk5OWjRmRm52eDA5V1FYTlpuSTFGLThVRmtyT2Z0UGkxNkZYRi1vcjEyT1NEMVRtbm1PRm9pdGdZMGVUVWRlbFhrT2VJTXdjamtUX3lqQ2hoazlESzFDRDFWUjduZUhTc2tRN3VyUHlWZTU4bXRra3pyeG83WTRLdU5EUkNYX0JXODM3QUZrWTlIckMwSHVvaFZHWVk1TXVha0s1TTV5Mm1RWXhJVVgxa1QzM3hqZFlvdG53UHNDS24zY2prZXBZTjRvNWs3Y1U3Vl9pcHZHT3hjVk0?oc=5",
+      "pub_date": 1764656820.0,
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqftc3HEMlxNGpfFXOighJpnFg7aRJHRXZPXqpFVm9Gbl4xBSQonBkZA&gaa_ts=692f9061&gaa_sig=_0d3d75gCNcyEtbWbut7NMF0mStMgSzubXu68ao4MbY_BD600_QMOqDW8C53s0-6Gl6JSJMdnsM282l3Rr-Mrw%3D%3D",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Amazon previews 3 AI agents, including \u2018Kiro\u2019 that can code on its own for days",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHNsR2l5NHVBUVRSWWhNSHVzeUd2MEpQaUEtQzJCX09MVVNkcV9lbTdaRW14bkZ5bU1yb1pHUHliZ1d0NEFET3g1ZzlwNDBHaGpYYW9LblJtSnpraURxbHhTeWJpV20tMkJHSEJuZVJMTmJkMFMyX1JVZVU4Q09XMjllcThUQmtOZjRCb3o4c0I1RnJIVlljU2FZY0NaRkZ4NHdZYUlfeWo2cjRRdmJSVg?oc=5",
-      "pub_date": 1764713881.0,
-      "article_url": "https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1065679054.jpg?resize=1200,849",
-      "description": "Amazon Web Services on Tuesday announced three new AI agents it calls \"Frontier agents\" for coding, security, and DevOps."
+      "headline": "OpenAI is under pressure as Google, Anthropic gain ground",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLNVRNMm12WWxsSng3WGxjOVB3bGRrRmJhZjBrMFhpVHRkRXk3Q0ZFTTRpZ1hHREFlYjNTUUtlaUdaQzdvWlNFWFZIa2FaaXdndUh1OUVQMXh4TUZLNlZnd19BMlpScUpHTnhYWDFZNWhnUS1FNTZjczdB0gF_QVVfeXFMTlI5Zy1PMm5UcVFiVFEzT0QwcGl4WFJhNU5jb0VfZEhrN0hWel95ZFpGVG9FUEk1Qzl3U3Bidkp2ZzhMVmtQaFExd2FBcjVNMUtNMnRwQV90QXlncms5QW1tM19SeVFBZ3V6Z1Jabkxkd3J3cEVHNmh3Wmpac3JqOA?oc=5",
+      "pub_date": 1764690966.0,
+      "article_url": "https://www.cnbc.com/2025/12/02/open-ai-code-red-google-anthropic.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108187812-1764696032432-108187812-1755581084982-gettyimages-2225624138-US_FEDERAL_RESERVE.jpeg?v=1764696049&w=1920&h=1080",
+      "description": "Sam Altman reportedly sent a memo to his staffers outlining a \"code red\" effort to improve ChatGPT."
+    },
+    {
+      "headline": "OpenAI declares \u2018code red\u2019 as Google catches up in AI race",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtMkQwcnZCa05fMFpnbWh5dzdaWUFodDdKaDB5N2N6THhRdVNnWU5NY3dqNHVsZU0yWVJ1ZmZPOXo4UFpGSXk1bnpCNnF2ODl3TGFEajUzMHBiRjRIbE1JUE5pQzJsMnRDY2RpcQ?oc=5",
+      "pub_date": 1764675607.0,
+      "article_url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Google\u2019s own \u2018code red\u2019 response to ChatGPT has started paying off."
+    },
+    {
+      "headline": "Three best friends built an AI startup \u2014 and have a pact to drink one beer if it all collapses",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR1JqZW9TV2ZXUUdwNzl5ZF9UTXVSRUNHZi1RMTM1UEN2QXFmNTVEWnJnYzBlcE4xRTlKcFB3aGY1MDRJUUhiYjdpYzdkaU1yalRsRzdTdHYzUnMwSUFUTGxGc3pIb0tzbE1UdXd0N0V5T0NEZWozbnNGRW4tckQ2V0NFMGREeDlCTVVvTnBILVRBRUpHaEZlcXhCYU43eU9qakdPb0N1R3BQY1B0RWNqcG5XX09jZw?oc=5",
+      "pub_date": 1764720000.0,
+      "article_url": "https://www.businessinsider.com/raylu-fundraise-cofounders-ondracek-dastjerdi-ilkka-vc-ai-agents-friendship-2025-12",
+      "image": "https://i.insider.com/692ea12671107c9f345726bb?width=1200&format=jpeg",
+      "description": "Three friends, who raised $8 million for their AI startup, explained how to keep their relationship strong amid the challenges of founding a business."
     },
     {
       "headline": "Amazon Rushes Out Latest AI Chip to Take On Nvidia, Google",
@@ -85,26 +95,16 @@
       "description": "The AI infrastructure buildout is creating shortages of components including various types of chips that are also used in consumer electronics."
     },
     {
-      "headline": "Google creates \"code red\" emergency for its AI rivals scrambling to keep up",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IMmZZUTM1RllYVk9EbFd1OGIyWVZ6Uk16NnFVWGZ5QmEtSlBQT01FeEdmSkxxTTNuSkdDbFkwMUNfVTNBTHBFWTZ6N1RsR3FwanlhU2FtNFAxWEM5a2ZUNjhjV3psOVh5eDJN?oc=5",
-      "pub_date": 1764715043.0,
-      "article_url": "https://www.axios.com/2025/12/02/googles-pressure-ai-rivals",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Indiana state website hosted AI deepfake porn instructions",
-      "source": "IndyStar",
-      "source_url": "https://www.indystar.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazQzb0JYaVdjZzJuS0FUYnJsSEZMekJPUVlEN3VqU3E4dXdOanBRdFhnQXRESHRDVjR4QUNPNTdXT1hFSTh0d3ctSU5kV1lqVlJGTk5PQUg5ckdTZDgwcHJaQUcwZFNrMWZfWnRMWDEtenlYOEh4WDM5QjFxdWtJZGNzcTMxQXc5bkFXRFZrenQ0eDFOT0habGJyWkxsZV8yUjFxZnNsN1NFek8tNGc5WGFaV3BJVkd0Rmc?oc=5",
-      "pub_date": 1764716400.0,
-      "article_url": "https://www.indystar.com/story/news/2025/12/02/indiana-state-website-hosted-ai-deepfake-porn-instructions/87574172007/",
-      "image": "https://www.indystar.com/gcdn/authoring/authoring-images/2025/12/02/PIND/87573718007-ingov-ai.png?crop=563,316,x0,y0&width=563&height=316&format=pjpg&auto=webp",
-      "description": "The Indiana Department of Health has been working with the state's IT department to scrub Google search results of the uploaded content."
+      "headline": "Amazon challenges competitors with on-premises Nvidia \u2018AI Factories\u2019",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWkhjVG14WVBGLVFkeXJ2TzVUOFF1b2NxU0FTVVAtM3M0ZkpfckFvWjFEekFlenZiQkFYRXBCY1dtQnNKRHkzcmsxQ0RiX0Z3ZWhybFp0aEVHWGlNTXpVNmJWRXRkTGpabUE0SnRqT0xUOHZONzRoLWtnckRtR2hYZTlaZ1pZV1BMbUdtV2hWaDdzZUNuU2REcWdCamNQX0lUZkRz?oc=5",
+      "pub_date": 1764722617.0,
+      "article_url": "https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Amazon-AWS-AI-Factory.jpg?resize=1200,675",
+      "description": "If the product name sounds familiar, it should. It's a collab with Nvidia that combines AWS tech with the chip maker's tech."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T23:26:15.243732+00:00"
+  "fetched_at": "2025-12-03T01:06:04.224563+00:00"
 }

@@ -57,17 +57,6 @@
       "description": "A quick summary: I have not written papers since undergraduate school, but can write well. My wife is getting a graduate degree and is not a great writer. She asked me to edit her paper and I did. Her style is just basically stream of consciousness, not really good with the proper style and formatting of papers. I made a lot of edits. Afterwords I noticed my wife was undoing a lot of the edits I made, in ways that respectfully were much worse. I asked her why. She said when she handed me her paper the AI tool she was using to detect AI was at 0 percent, but after I made my edits to her paper that number had jumped up to 12%. She was fixing the areas that the machine thought looked like AI. I don't care, I'm not insulted. But I feel like this is just a microcosm of what is happening with kids right now, who are probably learning weird and awkward ways to write papers just to make sure they don't get flagged by AI detectors."
     },
     {
-      "title": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI | In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pcaia0/its_going_much_too_fast_the_inside_story_of_the/",
-      "published": 1764687321.0,
-      "thumbnail": "https://external-preview.redd.it/mqHyDeosvuMG7pPnaraSLxLNMpGfaQqbT2XGhuf2YLs.jpeg?width=640&crop=smart&auto=webp&s=5f174fe6376d304b7118364b16f840197807ed65",
-      "external_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
-    },
-    {
       "title": "OpenSUSE begins rolling out Intel NPU support",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1pckywl/opensuse_begins_rolling_out_intel_npu_support/",
@@ -77,6 +66,17 @@
       "site_name": "phoronix.com",
       "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
       "description": "Via the openSUSE Innovator Initiative, packaging of the Intel Neural Processing Unit (NPU) driver for the openSUSE ecosystem has begun"
+    },
+    {
+      "title": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI | In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pcaia0/its_going_much_too_fast_the_inside_story_of_the/",
+      "published": 1764687321.0,
+      "thumbnail": "https://external-preview.redd.it/mqHyDeosvuMG7pPnaraSLxLNMpGfaQqbT2XGhuf2YLs.jpeg?width=640&crop=smart&auto=webp&s=5f174fe6376d304b7118364b16f840197807ed65",
+      "external_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     },
     {
       "title": "Anthropic is all in on 'AI safety'\u2014and that's helping the $183 billion startup win over big business | Fortune",
@@ -90,15 +90,15 @@
       "description": "Founders Daniela and Dario Amodei have made Anthropic and its Claude models the AI many companies prefer over rivals OpenAI and ChatGPT."
     },
     {
-      "title": "\u2018The biggest decision yet\u2019 - Allowing AI to train itself | Anthropic\u2019s chief scientist says AI autonomy could spark a beneficial \u2018intelligence explosion\u2019 \u2013 or be the moment humans lose control",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pcacci/the_biggest_decision_yet_allowing_ai_to_train/",
-      "published": 1764686922.0,
-      "thumbnail": "https://external-preview.redd.it/kTBnz7i0cgq4KFqrFC1-KJpFV27NR2OAqfIFu8eCc-Q.jpeg?width=640&crop=smart&auto=webp&s=9e29bd4a1adb3e456f8237f3f9383f18e996790d",
-      "external_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/02/jared-kaplan-artificial-intelligence-train-itself",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "Anthropic\u2019s chief scientist says AI autonomy could spark a beneficial \u2018intelligence explosion\u2019 \u2013 or be the moment humans lose control"
+      "title": "Has ingestion drift quietly broken your RAG pipeline before?",
+      "author": "coolandy00",
+      "url": "https://www.reddit.com/r/artificial/comments/1pcpndh/has_ingestion_drift_quietly_broken_your_rag/",
+      "published": 1764722038.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We\u2019ve been working on an Autonomous Agentic AI, and the thing that keeps surprising me is how often performance drops come from ingestion changing quietly in the background, not from embeddings or the retriever. Sometimes the extractor handles a doc differently than it did a month ago. Sometimes the structure collapses. Sometimes small OCR glitches creep in. Or the team updates a file and forgets to re-ingest it. I\u2019ve been diffing extraction outputs over time and checking token count changes, which helps a bit. But I still see drift when different export tools or file types get mixed in. If you\u2019ve run RAG in the wild for a while, what kinds of ingestion surprises have bitten you?"
     },
     {
       "title": "The Radicalization of Ziz Lasota: How an AI Doomer Became an Accused Cult Leader",
@@ -112,5 +112,5 @@
       "description": "Lasota\u2019s friends, colleagues, and family talk about how a NASA intern and Google employee wound up at the center of a bizarre string of murders"
     }
   ],
-  "fetched_at": "2025-12-02T23:25:52.337784+00:00"
+  "fetched_at": "2025-12-03T01:05:34.756875+00:00"
 }

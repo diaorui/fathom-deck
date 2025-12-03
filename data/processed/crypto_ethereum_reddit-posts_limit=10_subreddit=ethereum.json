@@ -35,17 +35,6 @@
       "description": "Why should the average person be excited about ethereum and/or ETH? What specific real world use cases are available to the average person today?"
     },
     {
-      "title": "Portfolio Update: I bought more BMNR and ETH - here\u2019s why",
-      "author": "TacoTrades",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pcn2vh/portfolio_update_i_bought_more_bmnr_and_eth_heres/",
-      "published": 1764715520.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "never NOT a good day to be converting people into self-custody",
       "author": "haochizzle",
       "url": "https://www.reddit.com/r/ethereum/comments/1pc6mkk/never_not_a_good_day_to_be_converting_people_into/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "We\u2019ve all run into at least one Solidity bug that took way longer than it should\u2019ve. Sometimes it\u2019s a storage layout issue, sometimes it\u2019s proxies behaving weirdly, an inheritance quirk, calldata alignment, math edge cases, or a subtle security assumption that only shows up under certain conditions. Curious to hear from other devs what\u2019s the toughest or most confusing bug you\u2019ve had to debug in a smart contract, and how did you finally track it down?"
+    },
+    {
+      "title": "Yearn Finance Exploited for Over $3 Million Worth of Assets",
+      "author": "iffattalll",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pb39dn/yearn_finance_exploited_for_over_3_million_worth/",
+      "published": 1764563061.0,
+      "thumbnail": null,
+      "external_url": "https://medium.com/@wzrqjs/yearn-finance-exploit-analysis-c0e89979672a",
+      "site_name": "medium.com",
+      "favicon": null,
+      "description": "The Yearn Finance yETH vault was exploited for over $3 million. The attacker leveraged a dust attack combined with a flash loan to destabilize the underlying pool. In this case, the locus of the root cause was a flawed mathematical singularity in the _calc_supplyfunction that implemented the Newton-Raphson solver. The attacker submitted dust or small amount of liqudity into the skewed pool, causing the _calc_supplyfunction to diverge which forced the contract to incorrectly calculate the pool\u2019s value as infinite. As a result, the attacker was able to practically mint millions of dollars worth of liquidity share for a bare-minimum cost."
     }
   ],
-  "fetched_at": "2025-12-02T23:25:54.910597+00:00"
+  "fetched_at": "2025-12-03T01:05:37.309842+00:00"
 }

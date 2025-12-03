@@ -5,42 +5,22 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Amazon to let cloud clients customize AI models midway through training for $100,000 a year",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzhhdnNGQloxajAyTkJaVkE0aHF3UDR5V09BZXV4OEdwYjB4TU5MZ0EzUTVoSURjZXdlem1OVThCQ0pneVJkRmJyVFB0STBPZ1RuLXlfTTdSUWJfbmtDSVJyNVIwX0UySUpoS2hoTXZUWVFMUWI1emY3MmZKYzZxWENFWFprbWFIejJyRlJnYkFuZ1dvU3ZWUHB3RFdpV0pnN2VJTzIyZUnSAa4BQVVfeXFMTnRJbEk5TTMyRzNqQl9BYmNIcUVrTzd4bGs5d3BzOW5VYTBuT3VaV1FpZjdNek1MOThpdkhpREpVWVo4MUFqTXNDY1R6ZnV1Y1QxT1VCWno2OC14alVPV3ZLODRUUVc5ekY5UURNZnJKQzdTYU84dU82Tml3NjhZT3ZoOVJlUUR0UENpVkhMYnh3X2hVQ3JkUW5xcGFMR3UwNTEzR1M5VU5ucEpaMGtn?oc=5",
-      "pub_date": 1764691201.0,
-      "article_url": "https://www.cnbc.com/2025/12/02/amazon-nova-forge-lets-clients-customize-ai-models-for-100000-a-year.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108234913-1764645561370-gettyimages-2188101070-776246284_01_u86qe5ms.jpeg?v=1764702899&w=1920&h=1080",
-      "description": "It can cost hundreds of millions or even billions to build a large language model from scratch, and this process is more affordable, Amazon said."
-    },
-    {
-      "headline": "Amazon Releases AI Agents It Says Can Work for Days at a Time",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPMmNwX0dZZXM1YTgwdjRXcUYwb19WeXpueXctUFBuY1ZwdFZYNVVqcjNqT191MGtzb3czbUtCSm9pNy1MdEp5RlJuMnJVSkJYWEJHOWpWYkt0aTQyVFVNSG5qVUZBaU1UWm5nQkt1MkxoLTcyem05alRmS3JjS2ExbXIwOU0wSXlKUHNNaFplZmtEVkdyQ3UwTjRPRFZRSnE2U201aWRiYUhSLU9YMzY3blhFblFxZDlBR2otS3lHVmFTU2FnNXkydDNHS3dBLXdPRkQyZXozU1JoV1REWGFuWlY2emphV0RSUzAzMWlKWW5LVk5HdnRFMUZvRmNtd0ZvVGpKdkhwTGoyWTM4d3gyNXFNeHplUDNfRnpnanJNSUlybC1ZSkU4N1h2Mllidk5FS3RsUkdvZ201UVFsZkRzOElxUnNoTUhBV3dVbHU1NFJyWjRZRHFDUWlReWRRM2FjVW8tYzI1SmNOUDhPd25aUTVTRHBtUnRHVnBiSG16SXZ6Sk1jRlFUaUxBcUxSM2plN3VrbUV1a0w0VkpLalZJMG9UMXpHQQ?oc=5",
-      "pub_date": 1764699360.0,
-      "article_url": "https://www.wsj.com/articles/amazon-releases-ai-agents-it-says-can-work-for-days-at-a-time-79c82902?gaa_at=eafs&gaa_n=AWEtsqc_kd9O3YLWTU2sAbu7dSdzO2ZeJ0iC6AOSihz0uKDoi7oyQiu9XDEx&gaa_ts=692f9061&gaa_sig=tkA7HXqTjozH5xIUoElQvSvnA2lfgydX7V0hqM-eUgsmUl3TqiTOzr30OGz_bTJsyUDXJnsDRPq9190aCHrdQQ%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Silicon Valley Builds Amazon and Gmail Copycats to Train A.I. Agents",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWl9QamdibTJhWWUzUkcxOW1md29TZWY1VW1BRW1NejZ2eXZFMEx6OUJFbkJMQ05fNk94VmxfTDZCYjNkRTRfRDZlb2I2Wk9MSHhnR2lFNHQxUWlsaFNjV0VUNEdpOWdHcmRpU1hQdEVrTWlUeENLRkJiYVZJSnBNZFNhNFdrN1dBVFctdXFSWEk?oc=5",
-      "pub_date": 1764669637.0,
-      "article_url": "https://www.nytimes.com/2025/12/02/technology/artificial-intelligence-amazon-gmail.html",
-      "image": null,
-      "description": null
+      "headline": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team",
+      "source": "About Amazon",
+      "source_url": "https://www.aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5",
+      "pub_date": 1764691197.0,
+      "article_url": "https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro",
+      "image": "https://assets.aboutamazon.com/dims4/default/2cb6e15/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff0%2Fc7%2Fe0cff167432b9d05bbd70532d0de%2Faa-frontier-agents-riv-hero-2.jpg",
+      "description": "The first three frontier agents revolutionize how you build, secure, and operate software"
     },
     {
       "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQMEhuaTJhSmhHXzVJbWQ3WkxqNm5VYkVwQlZfUVF0UkI0aVNuQnEyTG54eDQ1WW5yWkZiWlpOeWJaQTlPWGxFTm1sQW9PNWhFdVBQUVRCYVVFMnc4SGNqSndPSVRxVTQ0cU9pUmx2Y0RaTW9DM3RCQUsxR3o2c0dhSTBNVTJkNDNGaVc3Rlo4djY4YnBkYi1pSzZIVDllak93WW55cFRJdnhaemctMFRjdWFrSkRMbWI1b3hxQVV0X3lDbkhlOWFhTGdPcHBpMi1EQXFFak5ZdUtkcnl3MnpLaWMtcU1BVkh2Qk5OWjRmRm52eDA5V1FYTlpuSTFGLThVRmtyT2Z0UGkxNkZYRi1vcjEyT1NEMVRtbm1PRm9pdGdZMGVUVWRlbFhrT2VJTXdjamtUX3lqQ2hoazlESzFDRDFWUjduZUhTc2tRN3VyUHlWZTU4bXRra3pyeG83WTRLdU5EUkNYX0JXODM3QUZrWTlIckMwSHVvaFZHWVk1TXVha0s1TTV5Mm1RWXhJVVgxa1QzM3hqZFlvdG53UHNDS24zY2prZXBZTjRvNWs3Y1U3Vl9pcHZHT3hjVk0?oc=5",
-      "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqftc3HEMlxNGpfFXOighJpnFg7aRJHRXZPXqpFVm9Gbl4xBSQonBkZA&gaa_ts=692f9061&gaa_sig=_0d3d75gCNcyEtbWbut7NMF0mStMgSzubXu68ao4MbY_BD600_QMOqDW8C53s0-6Gl6JSJMdnsM282l3Rr-Mrw%3D%3D",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNZDZGamhCMUg1VFZUU1R6b1U2Qks4MV80V0pOY3pKX2w4WFNmN0tKR05DRm5VNm1UVkZyQWJQOXRsU2g3UnVRdXE0dW04VGJOY3Z6eXgzNV9iX3ZOX3VibS1Cbjd6LTVNMXNyWUViRFVJblJpemtxbWpiTFh5dW1BWE1BaERXU01KTS15QjE4Q1QtMHVLQ09PdGJxNHdJdHNkczNhOFRKTEU4ckZJY0hRWk9vdUU0REF3VlJMUS1ETnEybHVyQUhOUEUyTE9FRFJ0VkFxXzZqU1dtTl8yUjNORnU3bHcxQTZTcDY1UjlBZW1qUDhwRU9aUVZKRy1BQzZLWUp2cFhXak41MXJ2UUpoWkFvNWk1V3VfQkNYRkYzZjdwUjRuNnc3QTUzWVJQb0wyaHRTdWVTOUQzZTlIeGxNTmRHWUNEVW1YT0JIYy1RSlhHTzZfZWphZldkRzYxMG4zcTMwQlNXaGVOMEhsYkF3cHNsOUNpbUxiQTNqM3ZQSG1Nc3JpRkV1aEZvbmVEMnN2OG1fbWJXUHNqZWUxU09yd0NrclVhcEhaSkpKY29GbHZIeFRZVlR3TE1ZVlA?oc=5",
+      "pub_date": 1764711753.0,
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqfj8QJhSBWOI0nrtu-oeTWp3yPhIhq-kFGCTRY8BsE7KWVeHPr_8b35&gaa_ts=692fa994&gaa_sig=dkq4J-agfWDD7Y2A9WdAldvnRE7uOu8CaED93Z74iuA5SUQuNCTT0NpErpvzWuyv9QFEJbhPbJAYJAzzR9h8gw%3D%3D",
       "image": null,
       "description": null
     },
@@ -65,46 +45,66 @@
       "description": "Google\u2019s own \u2018code red\u2019 response to ChatGPT has started paying off."
     },
     {
-      "headline": "Three best friends built an AI startup \u2014 and have a pact to drink one beer if it all collapses",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR1JqZW9TV2ZXUUdwNzl5ZF9UTXVSRUNHZi1RMTM1UEN2QXFmNTVEWnJnYzBlcE4xRTlKcFB3aGY1MDRJUUhiYjdpYzdkaU1yalRsRzdTdHYzUnMwSUFUTGxGc3pIb0tzbE1UdXd0N0V5T0NEZWozbnNGRW4tckQ2V0NFMGREeDlCTVVvTnBILVRBRUpHaEZlcXhCYU43eU9qakdPb0N1R3BQY1B0RWNqcG5XX09jZw?oc=5",
-      "pub_date": 1764720000.0,
-      "article_url": "https://www.businessinsider.com/raylu-fundraise-cofounders-ondracek-dastjerdi-ilkka-vc-ai-agents-friendship-2025-12",
-      "image": "https://i.insider.com/692ea12671107c9f345726bb?width=1200&format=jpeg",
-      "description": "Three friends, who raised $8 million for their AI startup, explained how to keep their relationship strong amid the challenges of founding a business."
-    },
-    {
-      "headline": "Amazon Rushes Out Latest AI Chip to Take On Nvidia, Google",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb01rLU5JUHhzUkVVa0NqY05udGhGdXlCWWxuRTY4aWxySFNUUjVYNThyZHJHTk16LVB2cGhEUTJYNzMzUHVidEk3aXR1STZJaXNRZVhMVm1WVTMxYTFEUnJqUzdRVGdzbDZ5T21hQUk2YUpkY3lMbmplY1pCSEdXeEY1Q29kaW9pRnFwQk1ObjJGTlFZckVtYzhkVUNxVEYtSWQ3OHA2Y2ltNG5zQjd3cEdRbmg?oc=5",
-      "pub_date": 1764707803.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/amazon-rushes-latest-ai-chip-to-market-to-take-on-nvidia-google",
+      "headline": "The AI frenzy is driving a memory chip supply crisis",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
+      "pub_date": 1764727500.0,
+      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
       "image": null,
       "description": null
     },
     {
-      "headline": "A 'seismic' Nvidia shift, AI chip shortages and how it's threatening to hike gadget prices",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzVJeVpWbWtQc2tfNGVzcHJHdWJXVUt1a3lZOTBRRDFhRDBOTWNCb0FpeDlpVlNKdUdSQzQ5UmJuMklJTGZFODFqSTJuM2xhN2tnLUd4ZUFkUW9kVHFIT3M5a2d5NnRRTnllTmRxZUFNVjk1OHVkLUozSzZWT2FCbkFIWF94cVNZc1N6OFFVSXRDMWRscy1hQmdHR1ozVUZmZG9R0gGoAUFVX3lxTFBaYlhKUUlQRWluSGJJUmFQTHBGdl9TYWxHdzg1QlZZMHp6RkltUTFZTmswYm1jWlNKemNyeTJOVDZyaF9tbzk5aEpmNE1KWjlpTnNHUTgxR0RTWW9hdnlxQUVMd21TSl9ZS21BaFBrVGIxV3U0M2ptUmY3elZsMFRvb1Boc25sSjRQVkt5TmhjalVPWmp5SmF2cjM3WlhmM3RHdWFmdlBfUg?oc=5",
-      "pub_date": 1764657008.0,
-      "article_url": "https://www.cnbc.com/2025/12/02/nvidia-shift-ai-chip-shortages-threatening-to-hike-gadget-prices.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108233306-1764322289679-gettyimages-2241962168-ECP_fc1300561.jpeg?v=1764322377&w=1920&h=1080",
-      "description": "The AI infrastructure buildout is creating shortages of components including various types of chips that are also used in consumer electronics."
+      "headline": "How AI Is Transforming Work at Anthropic",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
+      "pub_date": 1764703349.0,
+      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
+      "description": "How AI Is Transforming Work at Anthropic"
     },
     {
-      "headline": "Amazon challenges competitors with on-premises Nvidia \u2018AI Factories\u2019",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWkhjVG14WVBGLVFkeXJ2TzVUOFF1b2NxU0FTVVAtM3M0ZkpfckFvWjFEekFlenZiQkFYRXBCY1dtQnNKRHkzcmsxQ0RiX0Z3ZWhybFp0aEVHWGlNTXpVNmJWRXRkTGpabUE0SnRqT0xUOHZONzRoLWtnckRtR2hYZTlaZ1pZV1BMbUdtV2hWaDdzZUNuU2REcWdCamNQX0lUZkRz?oc=5",
-      "pub_date": 1764722617.0,
-      "article_url": "https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Amazon-AWS-AI-Factory.jpg?resize=1200,675",
-      "description": "If the product name sounds familiar, it should. It's a collab with Nvidia that combines AWS tech with the chip maker's tech."
+      "headline": "YouTube's new AI deepfake tracking tool is alarming experts and creators",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5XMEJBNGlJTXdONE5odDJ4Q1JjVEVlNDJrdUUzZFU0dThsVi1CWU1iTXZQSk1KX0t3cFRibExCTnlaSGRXX3JZdF9zMHdjcmhUd2V5Z0ZlSVFQa0NlWDNDSDFxMWkxeTVSczZxWXRpaVlkUTBhN3dqYktGSVdFQWNwRmdNUdIBiwFBVV95cUxQbTJnQkJ1Vi14dE1sbk1LVy1oblI3SEN3cmhrRWY5UGZ4VE9HcVUtckgwcDhRdEt5VzlLbWtPSXlQVGZlMTFZY3FsbC1rSjRFNjVrbGU0RmFDTFlmeGQwWk1MMXRwX3E0OWdORkVjRlJMMWZOSlgtc05PMlh6Q3oydTMycEhNbTZKby1V?oc=5",
+      "pub_date": 1764676801.0,
+      "article_url": "https://www.cnbc.com/2025/12/02/youtube-ai-biometric-data-creator-deepfake.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108231894-1764095127352-behind_the_scenes_2.JPEG?v=1764650315&w=1920&h=1080",
+      "description": "A YouTube tool that uses creators' biometrics to remove AI-generated videos also allows Google to train its AI models on that sensitive data, experts told CNBC."
+    },
+    {
+      "headline": "IBM CEO says there is 'no way' spending trillions on AI data centers will pay off at today's infrastructure costs",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGRfbUV0U1k1YU1mRG5YR2ttQXh5M21VM3lSRFRjUlZvaW1CaEdka2VXaHdGWmdCbUV5dU5SeW9hOVQ4dnFuV0JUUFVQY1dtS2FXbnIyMUVmQjdRZWZHZjRnWGNUWTNEMk5JV2xPTlJwcTZqUmpERV91aDBUZHlXQW9FUzgwRktKT2N3OUIzRQ?oc=5",
+      "pub_date": 1764671400.0,
+      "article_url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
+      "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
+      "description": "IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data center spending \u2014\u00a0and raised some doubts on if it'll prove profitable."
+    },
+    {
+      "headline": "College Students Choosing A.I. Majors Over Computer Science",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzBCcTJWdGk2N3psSEtzUGdQekluQVdtSk04UV9hcTJuR3JYaWdxblhSUHQxUWMtT200UzM4Ykw5TlQ2cks3dkQ4WEVSM0NaSHlvOG11WTQwa3dSQ1d5NklwWTdDT0JrX2phTk5qZ3JNRHBsWFVLWWUySXY4c3pvaGZyMTQ0al9HckFz?oc=5",
+      "pub_date": 1764613413.0,
+      "article_url": "https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI is Destroying the University and Learning Itself",
+      "source": "Home \u2767 Current Affairs",
+      "source_url": "https://www.currentaffairs.org",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWC05OW1Qd3drT0hIcGZUcFZPT1Z4LXVCaE5hXzJNRmx0dk8xYkJ5bGZuZzcwVlRiVUxqdlNmS1RYeGQwSklGYjJxT1NNcTZYclhGUjY0LUtSZDZNRnp2bDBIRWkxRTkxTDA2UXdhSDhvdFAwbURwUWVhQWZQazhKdG4yV0I2WFdGZXFtdlN6YVk?oc=5",
+      "pub_date": 1764624084.0,
+      "article_url": "https://www.currentaffairs.org/news/ai-is-destroying-the-university-and-learning-itself",
+      "image": "https://www.currentaffairs.org/hubfs/Issue%2056%20Online%20Images/Issue56-Chatversity-Online-Image.jpg",
+      "description": "Students use AI to write papers, professors use AI to grade them, degrees become meaningless, and tech companies make fortunes. Welcome to the death of higher education."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T01:06:04.224563+00:00"
+  "fetched_at": "2025-12-03T02:53:29.988888+00:00"
 }

@@ -35,6 +35,17 @@
       "description": "All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?"
     },
     {
+      "title": "Looking for a Coding Robot",
+      "author": "Ill_Start6386",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcqymd/looking_for_a_coding_robot/",
+      "published": 1764725597.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The 11 year old is pretty smart and wants one of those robot arms. She has done some robotics and coding at school and wants to go into some type of engineering. I don\u2019t like buying cheap stuff and I also don\u2019t like buying something that she will build and be done with it. I guess what I\u2019m looking for is some modular building kits to ultimately get her a robot arm type system that she can also modify over time. My goal is to stay $150 or less on the initial purchase and then it have options that she can add to this and have it grow along with her skills in doing this. I can\u2019t find any shops around here anymore that could even help me with this and online has too many of these in such a wide price range I have no clue where to start. Maybe that is also a possibility to have books that she can read that could guide her through years of growing and learning with this. Any help would be appreciated."
+    },
+    {
       "title": "This Giving Tuesday support the OSRF Build Farm (the infrastructure building your ROS binary packages) by becoming a Build Farm Backer [details inside]",
       "author": "OpenRobotics",
       "url": "https://www.reddit.com/r/robotics/comments/1pch51k/this_giving_tuesday_support_the_osrf_build_farm/",
@@ -68,6 +79,17 @@
       "description": "Hi everyone! I\u2019m part of FTC Team 9045 Greenhill Hornet Robotics. We\u2019ve been working on an AI tool that started as a helper for FTC teams, and we're trying to grow it into something useful for many educational robotics environments that use Java, computer vision, or real-time control loops. We\u2019re launching a beta version and would love feedback from yall! What the AI Workbench Does The tool functions as an AI programming assistant that can: - Generate or debug Java-based robot code Help set up autonomous routines, motion planning, and state machines - Explain control theory concepts - Build and analyze vision pipelines (AprilTags, object detection, etc.) - Provide structured diffs to improve or extend existing code - Assist new learners with foundational programming questions Although the training corpus is rooted in FTC materials (SDK, Road Runner, Limelight docs, etc), the tool behaves like a general robotics coding assistant capable of helping with: - PID control - Localization - Kinematics - Sensor fusion - Finite state machines - Vision processing - System architecture This is an early release, and we\u2019d genuinely appreciate any feedback yall might have. Everything runs server-side, so no user API keys are needed, and nothing sensitive is stored in the browser. Try it here: https://ai-ftc.vercel.app/workbench We\u2019re excited to push this further- and any feedback or critiques are hugely appreciated!"
     },
     {
+      "title": "Chinese T800 Full-Size General Humanoid Robot Officially Launched to Disrupt",
+      "author": "DifferentAd7239",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc3oxo/chinese_t800_fullsize_general_humanoid_robot/",
+      "published": 1764665860.0,
+      "thumbnail": "https://external-preview.redd.it/ZcoEiGnDsqT6-TTFzf3-FSfQkaPnZQjQjgCIxIaZz3g.jpeg?width=320&crop=smart&auto=webp&s=4c1e8071049f50936b614b7fbd10562a13e87c33",
+      "external_url": "https://www.youtube.com/watch?v=J5L3Y-Qtdaw",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/76a077af/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
       "title": "Love robotics, hate heavy algorithm stuff \u2014 what roles fit?",
       "author": "Technical-Force-6266",
       "url": "https://www.reddit.com/r/robotics/comments/1pc7azx/love_robotics_hate_heavy_algorithm_stuff_what/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Chinese T800 Full-Size General Humanoid Robot Officially Launched to Disrupt",
-      "author": "DifferentAd7239",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc3oxo/chinese_t800_fullsize_general_humanoid_robot/",
-      "published": 1764665860.0,
-      "thumbnail": "https://external-preview.redd.it/ZcoEiGnDsqT6-TTFzf3-FSfQkaPnZQjQjgCIxIaZz3g.jpeg?width=320&crop=smart&auto=webp&s=4c1e8071049f50936b614b7fbd10562a13e87c33",
-      "external_url": "https://www.youtube.com/watch?v=J5L3Y-Qtdaw",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/76a077af/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "Demonstration of sanitation robots in Shenzhen last week",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pb8geg/demonstration_of_sanitation_robots_in_shenzhen/",
-      "published": 1764581393.0,
-      "thumbnail": "https://external-preview.redd.it/bzE5czdsazNhazRnMZNmrQ2qSiOJZnjCQEc7estSYXQIA3irPB-JEHj5BZA9.png?width=640&crop=smart&auto=webp&s=92b1c04743b1792c22b374adc8e5adb8a376b211",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From Tuo Liu on \ud835\udd4f: https://x.com/Robo_Tuo/status/1995314021281771644"
     }
   ],
-  "fetched_at": "2025-12-03T01:05:38.611550+00:00"
+  "fetched_at": "2025-12-03T02:53:10.266710+00:00"
 }

@@ -79,17 +79,6 @@
       "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     },
     {
-      "title": "Anthropic is all in on 'AI safety'\u2014and that's helping the $183 billion startup win over big business | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1pc9mm2/anthropic_is_all_in_on_ai_safetyand_thats_helping/",
-      "published": 1764685183.0,
-      "thumbnail": "https://external-preview.redd.it/4ADGpe0WjAUtrxXsLbqdLhqcn1sw_H_ikb_gNlbrOTc.jpeg?width=640&crop=smart&auto=webp&s=38e6f1d54ac2f79d9015d4bf055f8059996fd63f",
-      "external_url": "https://fortune.com/article/anthropic-ceo-dario-amodei-openai-chatgpt-artificial-intelligence-safety-donald-trump/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "Founders Daniela and Dario Amodei have made Anthropic and its Claude models the AI many companies prefer over rivals OpenAI and ChatGPT."
-    },
-    {
       "title": "Has ingestion drift quietly broken your RAG pipeline before?",
       "author": "coolandy00",
       "url": "https://www.reddit.com/r/artificial/comments/1pcpndh/has_ingestion_drift_quietly_broken_your_rag/",
@@ -110,7 +99,18 @@
       "site_name": "Rolling Stone",
       "favicon": "https://www.rollingstone.com/wp-content/uploads/2024/12/R-Avatar_512x512_flat.png?w=180",
       "description": "Lasota\u2019s friends, colleagues, and family talk about how a NASA intern and Google employee wound up at the center of a bizarre string of murders"
+    },
+    {
+      "title": "Anthropic is all in on 'AI safety'\u2014and that's helping the $183 billion startup win over big business | Fortune",
+      "author": "fortune",
+      "url": "https://www.reddit.com/r/artificial/comments/1pc9mm2/anthropic_is_all_in_on_ai_safetyand_thats_helping/",
+      "published": 1764685183.0,
+      "thumbnail": "https://external-preview.redd.it/4ADGpe0WjAUtrxXsLbqdLhqcn1sw_H_ikb_gNlbrOTc.jpeg?width=640&crop=smart&auto=webp&s=38e6f1d54ac2f79d9015d4bf055f8059996fd63f",
+      "external_url": "https://fortune.com/article/anthropic-ceo-dario-amodei-openai-chatgpt-artificial-intelligence-safety-donald-trump/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
+      "description": "Founders Daniela and Dario Amodei have made Anthropic and its Claude models the AI many companies prefer over rivals OpenAI and ChatGPT."
     }
   ],
-  "fetched_at": "2025-12-03T01:05:34.756875+00:00"
+  "fetched_at": "2025-12-03T02:53:04.817036+00:00"
 }

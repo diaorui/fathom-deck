@@ -35,36 +35,6 @@
       "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
-      "headline": "Bitcoin and Ethereum Price Fall Offers \u2018Attractive' Entry, Says Tom Lee, Predicts BTC ATH Next Month",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5LQUk5Zk55TFcxdlFqVkc2LVJYTFhWdU5LZGUxVjdFWHB2dFpPTUYxb1hMYzBJZ0k5OHJOT0ZuN3I5Q2JqbnRxOGozS1M2Ujgxd05XTkh1RllxQ3EtczJmckVTWk9YNFU3MzV2M01iZDZDZ3BrRFNiaHRqX1hUQXpWcFNvQTg?oc=5",
-      "pub_date": 1764668154.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-price-fall-offers-093554015.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/c0UY4QLSXNfMqv3Sm9B_QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/fc775726129380c33e1402bee8518dae",
-      "description": "Fundstrat\u2019s Tom Lee and Mark Newton remain bullish on Bitcoin and Ethereum despite recent sharp declines. Ethereum and Bitcoin face near-term volatility. Both analysts still ..."
-    },
-    {
-      "headline": "Ethereum treasuries collapse 80% as the trade unwinds, Bitwise warns",
-      "source": "dlnews.com",
-      "source_url": "https://www.dlnews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcm1oSndpSkMtNHVYUWhWSmttOWctZGx2MU5XWHpZRHM1eVg2OW9Ya2Fad19VSjNrZFQ0cFJWejdWaHVHallNazF6U2hVVFpIS1hUOTBuYV9DblJFeHFTVkN4VldFbTQtSUxXVU9Felkwek1EZ3gwS2lZakhHZF93MTZDTXdoNkNfN3prM3RhY0JURGVEM3J1dHRUOEktaHFz?oc=5",
-      "pub_date": 1764711230.0,
-      "article_url": "https://www.dlnews.com/articles/markets/ethereum-treasuries-collapse-as-trade-unwinds-says-bitwise/",
-      "image": "https://www.dlnews.com/resizer/v2/MPEPQUOL3BG5RFGZW4KB37BBSM.jpg?smart=true&auth=a42a36bcfa9bc94558b2a068230a2ebe8e0e75a6a30d4afce6ccb29818df153b&width=1200&height=630",
-      "description": "Ethereum treasury purchases fell to 370,000 ETH in November from 1.97 million in August. Bitwise says the treasury model is unwinding as smaller players struggle to survive. Bitmine holds more Ether than all other digital asset treasuries combined."
-    },
-    {
-      "headline": "Ethereum Devs Push ZK \u2018Secret Santa\u2019 System Toward Deployment",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzRaT09BbXFQQVk0UmY3aWZvQ1dxd3dERWdscDVvNzBLazYtNngyUlYtQTBhZW1qTmt0Y2xaUVpOOFU2VnRnZ3A1cGd0UFByZExKMjVxTzVmM0lybDI2bGRoWTlxeGhEajJxNmlOWHVJdld3clpmQUhvWC1YVDRYMnJQc0NGNFVrQjQzRjdFWjhFc1puQk85dExsNk44NmVRcWc?oc=5",
-      "pub_date": 1764660669.0,
-      "article_url": "https://www.coindesk.com/tech/2025/12/02/ethereum-devs-push-zk-secret-santa-system-toward-deployment",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88d3548e2bf6ce1a9780df7e901bda3d36597f8-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The proposed protocol uses zero-knowledge proofs to verify sender\u2013receiver relationships without revealing identities."
-    },
-    {
       "headline": "What Is the Fusaka Upgrade: Ethereum's Next Hard Fork",
       "source": "CoinGecko",
       "source_url": "https://www.coingecko.com",
@@ -95,6 +65,36 @@
       "description": "Ethereum\u2019s Fusaka upgrade launches Dec. 3. Past upgrades have triggered rallies. Analysts remain unconvinced. Ethereum is preparing to implement its next major network upgrade, known ..."
     },
     {
+      "headline": "Ethereum treasuries collapse 80% as the trade unwinds, Bitwise warns",
+      "source": "dlnews.com",
+      "source_url": "https://www.dlnews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcm1oSndpSkMtNHVYUWhWSmttOWctZGx2MU5XWHpZRHM1eVg2OW9Ya2Fad19VSjNrZFQ0cFJWejdWaHVHallNazF6U2hVVFpIS1hUOTBuYV9DblJFeHFTVkN4VldFbTQtSUxXVU9Felkwek1EZ3gwS2lZakhHZF93MTZDTXdoNkNfN3prM3RhY0JURGVEM3J1dHRUOEktaHFz?oc=5",
+      "pub_date": 1764711230.0,
+      "article_url": "https://www.dlnews.com/articles/markets/ethereum-treasuries-collapse-as-trade-unwinds-says-bitwise/",
+      "image": "https://www.dlnews.com/resizer/v2/MPEPQUOL3BG5RFGZW4KB37BBSM.jpg?smart=true&auth=a42a36bcfa9bc94558b2a068230a2ebe8e0e75a6a30d4afce6ccb29818df153b&width=1200&height=630",
+      "description": "Ethereum treasury purchases fell to 370,000 ETH in November from 1.97 million in August. Bitwise says the treasury model is unwinding as smaller players struggle to survive. Bitmine holds more Ether than all other digital asset treasuries combined."
+    },
+    {
+      "headline": "Why Ethereum Is Gaining Today",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTlCRUlhQVpVRkl6LXd2Ri1HQlRyek90aDVIY2IzTkt0RExKMEdOLXhRUHp4ejJzZWJCSXBKZ2VjbWMzUWhBVmg0QmNCOVFFWjdXbl8wODZ5Vm1INldpdFJra2ZPT3BjV3YyVWZWLUlZcXFsR2JMN0JkQnFPbUxBb2FQZHluUDl2?oc=5",
+      "pub_date": 1764708360.0,
+      "article_url": "https://www.fool.com/investing/2025/12/02/why-ethereum-is-gaining-fed-vice-chair/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845234%2Feth.jpg&w=1200&op=resize",
+      "description": "Stablecoin regulation is moving forward."
+    },
+    {
+      "headline": "Ethereum Devs Push ZK \u2018Secret Santa\u2019 System Toward Deployment",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzRaT09BbXFQQVk0UmY3aWZvQ1dxd3dERWdscDVvNzBLazYtNngyUlYtQTBhZW1qTmt0Y2xaUVpOOFU2VnRnZ3A1cGd0UFByZExKMjVxTzVmM0lybDI2bGRoWTlxeGhEajJxNmlOWHVJdld3clpmQUhvWC1YVDRYMnJQc0NGNFVrQjQzRjdFWjhFc1puQk85dExsNk44NmVRcWc?oc=5",
+      "pub_date": 1764660669.0,
+      "article_url": "https://www.coindesk.com/tech/2025/12/02/ethereum-devs-push-zk-secret-santa-system-toward-deployment",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88d3548e2bf6ce1a9780df7e901bda3d36597f8-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The proposed protocol uses zero-knowledge proofs to verify sender\u2013receiver relationships without revealing identities."
+    },
+    {
       "headline": "Tom Lee's BitMine Buys More Ethereum\u2014But Both ETH and BMNR Are Diving",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T01:05:57.915561+00:00"
+  "fetched_at": "2025-12-03T02:53:25.725571+00:00"
 }

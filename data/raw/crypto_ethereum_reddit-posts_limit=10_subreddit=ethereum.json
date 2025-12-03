@@ -112,5 +112,5 @@
       "description": "The Yearn Finance yETH vault was exploited for over $3 million. The attacker leveraged a dust attack combined with a flash loan to destabilize the underlying pool. In this case, the locus of the root cause was a flawed mathematical singularity in the _calc_supplyfunction that implemented the Newton-Raphson solver. The attacker submitted dust or small amount of liqudity into the skewed pool, causing the _calc_supplyfunction to diverge which forced the contract to incorrectly calculate the pool\u2019s value as infinite. As a result, the attacker was able to practically mint millions of dollars worth of liquidity share for a bare-minimum cost."
     }
   ],
-  "fetched_at": "2025-12-03T01:05:37.309842+00:00"
+  "fetched_at": "2025-12-03T02:53:08.772706+00:00"
 }

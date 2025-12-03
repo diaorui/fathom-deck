@@ -5,42 +5,12 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Rout Picks Up Steam as Investors Fret Over a New \u2018Crypto Winter\u2019",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNTnpGUTB6Um8xS1l6MXRscTZLT3JMc2RxS0ZqMlkyM0txakJUbksxcGJiamhJQ0luRWRNcGZHWWtuVE02WWRDeHFvOC1EYTNzc2JjUDVmTzZFTk9NSk5oSDdBMGU3eTE5S0gtODJHN0tldmJPUWwweVlaLXVUTlV5X3BpWU9GZUNlMWRlUW9IQ0RUY240THYyZ2Y1TFBzUXlmbzJuTjVnNFZ1czNwR2pjQlF3OGpNRWh1eG5qMERzXzVJUG0xeTgtSFlVRV9sMENjbDRJeWd2dXhXOWc4ZE9JQXRxR1R6WDdsOFQybHZnOFQzazFaRUpWUUxXeEh2OUgxLUl4aUp0Z21EQk5LcG80djN2LXBLeEI4V2k5UnF5R244b1RraWVOei01M0ZsLUMwN0NnZnRyZXFtRi16QUpQS2MzZUd6amVSWmtRclBwWlZLU0h3Vm9Penpmc3FWTGhqUGFQazJLRDNCdGtWZ3FCQ0ZMWnpHWkYxcTRSRjJoNU1SYVlNZ1NsSUV0MDJ6aUtpWk9LMnMxNU5DMU5OUElKbG9Nc1lla1pfYkhwQTNaRlJVeDdKZ3RqLXNVaVVselk?oc=5",
-      "pub_date": 1764631500.0,
-      "article_url": "https://www.wsj.com/finance/currencies/bitcoin-rout-picks-up-steam-as-investors-fret-over-a-new-crypto-winter-1ffd2100?gaa_at=eafs&gaa_n=AWEtsqeAmTpjpPE5eA5pCr-F1Ao9OxnORH8HzdZLO_8wuGTbxTEjiV03iiVt&gaa_ts=692f9063&gaa_sig=Ia1boCHp3bM8p0eWzoEZce132qv7tVEB59zgqruPeczgfCtD0s40uy0wh2rl5jr5VJpWXrfKbSVqFeZH80BLcg%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin rockets back above $90,000",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHhXbDROdzZ1TlVncTBjTFhKR3hjbVJTTkhTS1NhOGgtQmxyRnlwRUZrQm9DMTVieWVUQ1lwQzFBWlVtX0prcC1uTm5Cd1FQclp0VTd1WWRuYVZTaDMyQUJ6YlF1X1RoZlNlLUl0VEF3bWwzZWFNVTAxMUtqRTVVbi1LVkpoNnFXMkJhb1lxVmVhSE41d2pfQktmbDdiajNRNTRXNmVaWWN2OEFLdjk1LXgtQ2NTdGhkTWRseVNxdmdMNVJLU2Vn?oc=5",
-      "pub_date": 1764718326.0,
-      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-bitcoin-rockets-back-above-90000-210121108.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ZCO2o4qppSRSiPuX3v69qA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-12/441224f0-2925-11ea-96ff-875256a153fc",
-      "description": "Wall Street is eyeing a comeback as the flight from risk starts to cool."
-    },
-    {
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq slide as bitcoin tumbles to kick off December",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXRIdXY5NTBuZk5CMG5XcU9iSWFTWkNBSGljRzdBRmNxdDAzS2x3Sk1lTzU5U0JNUmVYaTR0QmZ5TFRPc3R1WFhkNm9JX215TThZampKd0p2N292Qm1heU94M2VaMHdRcEM5RXNrcE05M1BZTnFGdU1laWZHOVFXcUU3X0JBN2MtQkstQ0lXRkVUZzBTcU03ZjdCcy1qcmFSc21YNjFmN1M5dGd0aTRJdU1MN1NBd25UbmlWb0xkLVoyQ3hlUWpyRUROdXhNZw?oc=5",
-      "pub_date": 1764623005.0,
-      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-december-210035496.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/lvmtNDwzV7lcqAQNJZd0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6f40c5f0-a863-11f0-b3eb-c74a2e7e85d5",
-      "description": "Wall Street's strong late-November rebound looked set to hit a speed bump on the first trading day of December."
-    },
-    {
-      "headline": "Stock Market Today: Nasdaq, Dow Gain; Bitcoin Price Rebounds \u2014 Live Updates",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOYWI4ZF96ZEx4ajl4RlpramlEVHlZdzVYcDZCVF9jamVOc052aXFJbGV1dENuS1pRZUJRc0N5aDl0M0YtSkE5YkxNMC1WLWN2OXV5TmdfYUVMenRBbkt2YTM3MElidE8yNDN0Vk1IWDZzc3RkbFZNckIzY2hPcHZsUHp6OEltcXZSYU5hbjdSSmJ0MldVNzQxZmxaYmEtUkRpWHR4ZlFhMExQdzhzbG94WkRNVVZNejl6ZFBHaHoySmxtLWNBOGNGSHRCSE5lWFYtSkU4enpZMGpSNEJVRVllRm56ZmNmbW9MNWF4M2duUm9La0E5STZ2MVFYU3BkaTlVTm4zNmlzTmxVRzI2eHk0MWVUMEV3aTB5M3NsR2pUMkhubERsWml4alN1bGtZckloTUxlQnllUHhJb3RKcXBwdzV2ZmxFQ2daWmtrdS02QVJUM19pUU9zTnlfMk9QcmhnNDBGMmhwOGlGUmdGbDNacDBHNDNwdjFuWmFmaGZYenBNWUNlZzVydFNMc04?oc=5",
-      "pub_date": 1764719100.0,
-      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025?gaa_at=eafs&gaa_n=AWEtsqf0AKnmjlPlT5jYEj_TkSGfQPgSId6UCH-QL_fLTpmf4qercwpcU655&gaa_ts=692f9063&gaa_sig=7d4NZWFgLrKvJzkb_K9YjQSugToBeNXRbpSmrW7kWLbK_hNAO91OtfgA3lJ3COqmjRakM4DMBj4pbzjcMvniag%3D%3D",
+      "headline": "Bitcoin Jumps Back Above $90,000 After Bruising Selloff",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnl1U0Y1bG5MRW1yQ2VrWEhpbVdWR3JzTFBuZ2I2WEZ4bGhZWE42S05ZNWtWNW1LbExfSDBBMmhMOHYzNGF4YmxIZ3Nhd1pjRXNpcUlMX2xiaG8zUHl5Sk9lWWtyQWhyS19MM1E4SzhMYlR3dEVIQ0hOTjRhYTBZZ2d5bUFrMkkzZE5uV245RmpvV2ZMc0g5QkZwa0ZzbjRVYmE1UEhYWC1yWFdRcGtV?oc=5",
+      "pub_date": 1764711512.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/crypto-markets-steady-as-indicators-point-to-weak-sentiment",
       "image": null,
       "description": null
     },
@@ -75,36 +45,66 @@
       "description": "Due to a recent downturn in bitcoin, the Trump family has had roughly a billion dollars of their net worth erased in just a matter of weeks, according to estimates."
     },
     {
-      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin rockets back above $90,000",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHhXbDROdzZ1TlVncTBjTFhKR3hjbVJTTkhTS1NhOGgtQmxyRnlwRUZrQm9DMTVieWVUQ1lwQzFBWlVtX0prcC1uTm5Cd1FQclp0VTd1WWRuYVZTaDMyQUJ6YlF1X1RoZlNlLUl0VEF3bWwzZWFNVTAxMUtqRTVVbi1LVkpoNnFXMkJhb1lxVmVhSE41d2pfQktmbDdiajNRNTRXNmVaWWN2OEFLdjk1LXgtQ2NTdGhkTWRseVNxdmdMNVJLU2Vn?oc=5",
+      "pub_date": 1764718326.0,
+      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-bitcoin-rockets-back-above-90000-210121108.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZCO2o4qppSRSiPuX3v69qA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-12/441224f0-2925-11ea-96ff-875256a153fc",
+      "description": "Wall Street is eyeing a comeback as the flight from risk starts to cool."
+    },
+    {
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq slide as bitcoin tumbles to kick off December",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXRIdXY5NTBuZk5CMG5XcU9iSWFTWkNBSGljRzdBRmNxdDAzS2x3Sk1lTzU5U0JNUmVYaTR0QmZ5TFRPc3R1WFhkNm9JX215TThZampKd0p2N292Qm1heU94M2VaMHdRcEM5RXNrcE05M1BZTnFGdU1laWZHOVFXcUU3X0JBN2MtQkstQ0lXRkVUZzBTcU03ZjdCcy1qcmFSc21YNjFmN1M5dGd0aTRJdU1MN1NBd25UbmlWb0xkLVoyQ3hlUWpyRUROdXhNZw?oc=5",
+      "pub_date": 1764623005.0,
+      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-december-210035496.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/lvmtNDwzV7lcqAQNJZd0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6f40c5f0-a863-11f0-b3eb-c74a2e7e85d5",
+      "description": "Wall Street's strong late-November rebound looked set to hit a speed bump on the first trading day of December."
+    },
+    {
+      "headline": "Stock Market Today: Nasdaq, Dow Gain; Bitcoin Price Rebounds \u2014 Live Updates",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOTERUM3UzNjAya0Itc0RLek5CLVJPdEZodTJnMFUwX0REcE9pMEp6c3d3MVVxTTdWYVFKdTRjWXVmWmM4X1haejFubHRYb0lmcjlUS1h3Qk9yTk11Yzh3amtKem96WGNuTmhOQVF6VUd0NEFTazdMTkFUWnFyWXA1UmtZM2xBdlpWeWlWTXFaNF82YlpuR29rbzBaQ2VtOXAyNV9Rekp6c1dvLUZyR28xR2xPNWFmZDViWTlnb3VJRWVOTDVEM1BsLUJkUnZHQjZTakJPTzZzMjJ1MHhpNFdKUFJUanhPSmtmLVU1cXVVOThWUDU3Uk5McW56WkRJbVpCTlpLb3hCRUMtQ2NvalczdWJoYi01WFJ0NjZCMnhYR2oxUGpKWXRrSmVOMllRZW80NmIwbXJYal85Q1YyLTdIa25DSVhCTFJUYnJCWlJEQ2FkSDA0OXNjbnhLSThjTEtJV3BSZTdIakxscWZuZnNfMkJSU0FLZS1udjRkODBXV2toMlRMUnZOVHprNUloMm1kUWVnak02dFluYktRVDMzWEJHemNVbGhZcUVpalhKcDB2Zk1rOGtYXw?oc=5",
-      "pub_date": 1764626940.0,
-      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqcmdU_9FKzeZ9GASdsou-V9sDqBUWCTGQY-Aa_Z3caxO4KV0suuSJpI&gaa_ts=692f9063&gaa_sig=t7LpINz6HyxkF-EEX_WdoHtm4dIrB4wJr9Q_g2JbctMY2gw3K_fajsFEhm7dkuwCp_GQqybCnLlx_5AJkx_eJA%3D%3D",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOUlBsMFhNY3NXUjB0Yl9GNE5ZeTlBV01jWXBFYS1pNmJDV0cwR0RZYS1mZEctNW16eWo4WEp3V3hPcExwWDJTTm5RQ29sTVYxbksyY3ZhTnRDZjhWcVFPNXk2bnhRLXlGR1pMX3RiY1VmajItS0VOQXZCZE9PTTE4WHJaU0lLNDV6N2pxa2otaVpsN04wU2NUSXdXSVBpaWJHZktxQjBQbmE5X3gwMXd2ekhTdDJlZWRPNzZCc2JPdTJBM1p3b1lweXFfZ3p6azlENVlWX01OcWV4QWFaRVV4c0did1J3bElsbk9sbEZZOEp2cHU4akF6ZERLTWp6TEUtV01UNURYUzNqNmlaai1fTFNUaS03bV9xdUtHSHM0ZW1vbV9ma1BkMnFFMEVxLTRpaC1Sb014WWhYeU9nRzJUYlE3RUpQeWtCUkRLd0t5VE96Y3R2ZmN2QlpnYWhjUlF5LVMwTkFtRzZpUGVJT2N0Y3JTVG1vZk5DMS1pcmpJUXFQNno3UzhSNUl1aWY?oc=5",
+      "pub_date": 1764719100.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025?gaa_at=eafs&gaa_n=AWEtsqfNYU4BpjW_wR7eGm5IjVkjDBQ3irs59rynDdRrReIErs-sDoZ0_MJU&gaa_ts=692fa995&gaa_sig=iCmVWo89UddcNRUl3cyMF17hwjXmWBagj_csUV54cVktmBLaTfA6hv6NPFP8IQqVMBGmlsVn2FYKUsuKI6AWXg%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Will Michael Saylor Do the Unthinkable? MSTR CEO Says Bitcoin Sales Are Possible",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2ozNXJnb2xJbDI5eGlKaWY0YXVPZk9zcEU5eXhtVjhNZUJnUFpmMUtseTRLU0s3SzNfc2R0TjBJMGtHX2NwN3VDN3p6WGppTVhUR3FzdElidG1vdlk5c0FKRWdHdUhZamVoX2lZSUZNLUh2Z0lpR0tjX3pRa29XRUpuaHpVYnZ3?oc=5",
-      "pub_date": 1764615018.0,
-      "article_url": "https://finance.yahoo.com/news/michael-saylor-unthinkable-mstr-ceo-185018018.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/8MwADRXqvqrzvVHY1w7M2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/24_7_wall_st__718/9438acfb2cfb30ca262ff4c78299f900",
-      "description": "For half a decade, Strategy (NASDAQ:MSTR) \u2014 still \u201cMicroStrategy\u201d in every trader\u2019s muscle memory \u2014 has lived by a simple, almost religious rule: buy Bitcoin (CRYPTO:BTC), never sell. Executive chairman Michael Saylor turned that hard-and-fast rule into a brand \u2014 a battle cry, even \u2014 and the company\u2019s stock went up faster than the asset ... Will Michael Saylor Do the Unthinkable? MSTR CEO Says Bitcoin Sales Are Possible"
+      "headline": "Stocks rise as slide in bitcoin, global bonds hit pause",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2dUYUd4WVpqUG5CV014aU1ELURDS0Iwbkx4d2NvZzZETEtCOGE2RzVPQ1hIR3JQTS1YcGdzaWdLUXFJM0w2cU96Y0VMblNTN1JlSVUwNGNBbTNLeEpnYW9ZRWFOOUJVTHFXdnAxSElvbXhKaG9ld0doQmI2M2M4SjNfUQ?oc=5",
+      "pub_date": 1764726311.0,
+      "article_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-12-03/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Michael Saylor's Bitcoin Hype Machine Is Glitching Out",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdlZybURvY3pBU2lCRGFWNlJlY1VnenJxTTF5c0ZaMUd3NzFobnlGdFQybm9MMDhodTQ3NDZkLVdIWGlTM0VGT29sTG9tOWFWOVFEckRRTktxWmtsLWZKUnFXVVJkeUFlT29MbDBsX2YwUU44aGVtRlVlTExkVG55cFRwYkluYkw5ZmxtLVVoSGdUejFpYXVOUWs3eG1TSnd3dWh3MWZWTW0yM1N5TVZsTldrVzRsODNhQTB6UktB?oc=5",
-      "pub_date": 1764666012.0,
-      "article_url": "https://www.bloomberg.com/opinion/articles/2025-12-02/bitcoin-price-michael-saylor-strategy-hype-machine-is-glitching-out",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imhh7Ve4_ul4/v1/1200x800.jpg",
-      "description": "Here\u2019s how Michael Saylor\u2019s Bitcoin treasury company Strategy Inc. is supposed to work: The firm raises funds to buy Bitcoin; that buying drives up the price of Bitcoin; the share price of Strategy follows suit. Rinse and repeat. The trade, helped along by the utter self-belief of Saylor as a hype capitalist on par with OpenAI Inc.\u2019s Sam Altman, has been so lucrative it has spawned dozens of imitators hoping to capture the same \u201cinfinite money glitch,\u201d like a cheat code on a video game."
+      "headline": "Vanguard has a change of heart on crypto, lists Bitcoin and other ETFs",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLU5maUtfOHExRXp4aDkxdGRjUHZmQUIzRGJ5RnIwMnZwNVU3RzhDUmNtUjRvM3A0UE9TSzdtZWpaRG16R25UeFpuc2xkYkw5Zi1rRGEzM1plOHpjQktJeEJZUXFpN0FzakczTEI5NWo3NTJQRW9zY3NpMDE3emJFajZfM1ZiMU82QkVYeHZzTEY0T1JrTzlBcWoySGNiQU45U3V3?oc=5",
+      "pub_date": 1764711840.0,
+      "article_url": "https://fortune.com/2025/12/02/vanguard-has-a-change-of-heart-on-crypto-lists-bitcoin-and-other-etfs/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1772102313-e1764708480251.jpg?resize=1200,600",
+      "description": "The brokerage firm, long averse to crypto, will let traders buy and sell blockchain-wrapped funds."
+    },
+    {
+      "headline": "Vanguard finally dips a toe into crypto waters as bitcoin rebounds above $91,000",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOMUhVVm1URmhTZVdrcTQ1R3lnZ2pILXB1S0FBTFFBMUpZdWptMXA3U0lraFdQRlB3VjRBMkg3RlVwdjNyNVZYYXFyUzNRa2tBUXA3UGdqU0wyWWVUem1BbF9LNkdZblM2ano5U0VyOERDX1JVTW80czY2WVFKQWhmSjdhNERmdlB1T3lRR0JGa25fUkFtZ3ZfSVdSWkpVbFdLLUxXT1RIMmNNUWN3dGtia3U2SVBHcWdoVGZnMHBRTXVzNWJBMzBLUl9EYTVaMXhzSm5xS0EtTmJnS3JRbEJpeDRzM1ItS1MtWHN4MjZ5OTcyaEVJdDBpQUFnbXF3aDMwNWtMbC1CUWE0SlFNeVRYRnRWMnpnRGZTYXpqb1JHRDVabTJ5d3ZFS2pVZXZfNWVlVUZZSkg1QlNhNUR5UXJjdk5mZjNiWE03bjl5S3AybTlFQVY5ZTVwUU1aWUNRUTFDMVd6WHg2RE0yZ1hPNVJIZFNvZ3BORmk1UGNBdFBMQnlzd2Z1VnVKT2d5RjlNTmxsd2NJRzE4ZlNzbVg1MmJSSFdTdVgzaWhMei1mSFZ0V3NHcDg?oc=5",
+      "pub_date": 1764670860.0,
+      "article_url": "https://www.marketwatch.com/story/vanguard-finally-dips-a-toe-into-crypto-waters-after-bitcoin-slump-58e9191d?gaa_at=eafs&gaa_n=AWEtsqe4YKnPXHibZQVu2S1CRmvuSKUNTV65dmWrPFL1-6kcHFl7hQ53f7qB&gaa_ts=692fa995&gaa_sig=t3-zx5pUDbNBWa3_6td3zmj_7jPJ5eu7YxWfkqgbluiASa5yPGXwHBQkmQVcyjB-vQyLaVZfKqfce_Wt5jiEmw%3D%3D",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T01:06:13.800791+00:00"
+  "fetched_at": "2025-12-03T02:53:38.739072+00:00"
 }

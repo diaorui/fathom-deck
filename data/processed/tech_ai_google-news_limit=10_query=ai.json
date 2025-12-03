@@ -5,6 +5,36 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Microsoft Lowers AI Software Sales Quotas as Customers Resist Newer Products",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0dMQ0RMU0p3Q1g1UUg1RGJ1REhOT2lraGgzaExWQm55TU5QVFNRQkxYZTZHNnBzV1dsaE5qY1N4T0ZJMUVfQXhJSFBMa01BNkhiaDdjYVlhRVVLVHdyUC0ycHRaS19PbHRkM2ZoVDhBeG15ZWRuZlRkZ2xCNHlfX2JpX3hWMlF0czlsTVVjZmpMSEJET1NTdzdhNnM0UVF5TlI2Y0lDOHhGZm95SVVhb2k1QQ?oc=5",
+      "pub_date": 1764770400.0,
+      "article_url": "https://www.theinformation.com/articles/microsoft-lowers-ai-software-sales-quotas-customers-resist-newer-products",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Microsoft lowers AI software sales quota as customers resist new products, The Information reports",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQem5HdVNmWmZRT194Y0VsTkJQLURoU3lTaHVpZWYtWDlYZmpXOUs2d09WeUJCSGZvYy14MmNpN01BS2tPUkt1TW9FeFY1MC1kTFhxTWRrYjA1ZHZTNHd1M0YySUdfNzZoQm9jM1M4R1BTOGxuaVJSSWVPeFFqYndNUFV5Zk9JYk0?oc=5",
+      "pub_date": 1764771331.0,
+      "article_url": "https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/6f18ec98d8371aa28c130bea8170a867",
+      "description": "Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many \u200bsales staff missed goals in the fiscal year that \u200cended in June, The Information reported on Wednesday.  It is rare for Microsoft to \u200clower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about \u200breal-world adoption of AI as an MIT study from earlier \u200cthis year had found that only about 5% of AI projects advance beyond the pilot stage."
+    },
+    {
+      "headline": "Microsoft lowers AI software sales quota as customers resist new products, The Information reports",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc1p3bXpETmtxNWlzWmE4QkZxQThYYjRtRTExN2pzTEdWVDY4QTdwNXhhYlk4cHdvWWZDTjFNVlpCU19jaEQzSGt1N21kWjZQLTFOYjhEQXl3RW5TLTd6SkpfYmJaQWRuQlVHZzlCUW5UeDdHXzdHZHI2eWRQZm9hQTBVUGtRd19ZaEVmc2tMWWtuaVlXTDJzYVE4ZXdwdkpTNTBlNkxnMWQ3VTFBbHhyYWVOdVBqa19q?oc=5",
+      "pub_date": 1764771610.0,
+      "article_url": "https://www.reuters.com/technology/microsoft-lowers-ai-software-sales-quota-customers-resist-new-products-2025-12-03/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Why Does A.I. Write Like \u2026 That?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -15,96 +45,66 @@
       "description": null
     },
     {
-      "headline": "The AI frenzy is driving a memory chip supply crisis",
+      "headline": "3 Best ETFs to Invest In, According to AI Analyst, 12/3/2025",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQml0U0pvMUc1S25OakVlbVNhaGJ4T0YwZ0FKWl9oMk02UVhfdWNmOVUzTzlFNElVdWp2TWJPX3lQcWI4YUtEbEgxaldtV2JPNU83b28tbnBwT3FNYVFBNDYxVEdqUktvYl9sMzZMUDBtMnNkYTg2VldyTV8wMkhrUWpSMEZiT2Q3Y1VYUVppNVlZQQ?oc=5",
+      "pub_date": 1764771139.0,
+      "article_url": "https://www.tipranks.com/news/3-best-etfs-to-invest-in-according-to-ai-analyst-12-3-2025",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Top AI companies\u2019 safety practices fall short, says new report",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXh6bE5PY25HREU3U21qamxMWXBiek9VM3J1WHl0R1hfVlpsRUVqNlcwRGxqMUx3MGd2emJOZGsxSndpRGk1M3JaOGczaDZjWXVwdnk5V3Nsaml0Wnh1YnRFQ0J2VV9ZRnNVN0xFMmtxbUZFdlFOb1dDc0R6NmtKNzBjb2RvLXJKWE1RZk1nS1ZtWl9kWkhqM2pCM2d0dy00VllSekVQZWpQQnRDZVFB0gFWQVVfeXFMT2RTSnVoSVZBVDQtcXBHTHBFdG05VlNHa1MtTWNPTUE3SG9Gbnk5bDAxZFB3a09MRWNGTnRtZUdDZ2lhNWdaeVB2TVEtTEFrUlYyb0lDQ0E?oc=5",
+      "pub_date": 1764770440.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/top-ai-companies-safety-practices-fall-short-says-new-report-rcna246143",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251001-open-ai-vl-119p-115a9c.jpg",
+      "description": "Independent experts said in the report that powerful AI systems face critical gaps in safety protocols even though capabilities continue to increase."
+    },
+    {
+      "headline": "AI companies' safety practices fail to meet global standards, study shows",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
-      "pub_date": 1764731700.0,
-      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkpUXzEtSWFFTkUzQ05LTjNQM0RyemhmRUoyQWpleXVOU1NHRmtmSWlTQ0JYV2xERjNJRVVHTnRlSmxoa2lXNXFVaUpqVWUxbkpQR2dES2ZNUU5FOFlHREtZNTF4YVJwWXVFVkY0cXc3akl6X2lsWWxMZHFiNUo2RTdxMlFMeVF1Y3d6R1dpbmtzSnYzVllRVEliRjZiQjZmWGpRbkYwYUdiWXZLS0RCMmZpUQ?oc=5",
+      "pub_date": 1764770131.0,
+      "article_url": "https://www.reuters.com/business/ai-companies-safety-practices-fail-meet-global-standards-study-shows-2025-12-03/",
       "image": null,
       "description": null
     },
     {
-      "headline": "The case for playing the AI trade in emerging markets",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TWkdLMWYxUzAxTmRXVFRtTmRXUHEzN0lSbXdxczdtVUE5REVqWks2amN2V1kweXJkNWl1MlBPZlg2UU94SmhhVTVkZkRNUVprR21hS19BY3gzbU9PcWdBaXlKZnJ0Z1U1V3Jv?oc=5",
-      "pub_date": 1764763244.0,
-      "article_url": "https://www.axios.com/2025/12/03/ai-bubble-emerging-markets",
-      "image": null,
-      "description": null
+      "headline": "Major AI companies fail safety test for superintelligence",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMXMwekFjaDh4T05qMGVSeHYzZTh5eE5UX1Z1Y2ZNdDAwSUZMVVVSSGZSdVlmd3FNX2NUZEJ2cW9JcktzcTh3WlhfSHlob0VvazFickxuNkxIbnNBUXdxY25qbmpRbGgwa0NaQ0Q4aUhKWjZRSUNTRmdqaXFIZEVEODc1cWYyWmxPNXF3?oc=5",
+      "pub_date": 1764769142.0,
+      "article_url": "https://qz.com/ai-companies-fail-existential-safety-test-as-capabilities-race-ahead",
+      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2247155184.jpg",
+      "description": "A sweeping safety review shows leading AI companies advancing toward superhuman systems without guardrails to stop catastrophic failure"
     },
     {
-      "headline": "Oracle will emerge as an AI leader and see big gains ahead, Wells Fargo says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0RNNlBUMjkzemhkVFdrZ3BDM1lUUGZtUjVYWlNIc3NYU1I3U0JzNHljNDJva3YxN0VvSVFvSTdIdHNLMzJCa2lFMlJMcnJLclI2QVdoeFVUMDY5dU4tYV8tREZYLWRYZ1lTXzBSTWRUdXNWQnNvOThXbFlNSWxGQmVKOGxDbThROFhVR0xpX1hpaUtreExnUEd0U2t4MzE2SHVtc3FBdnVLbG03M09yTkpB?oc=5",
-      "pub_date": 1764762183.0,
-      "article_url": "https://www.cnbc.com/2025/12/03/oracle-will-emerge-as-an-ai-leader-and-see-big-gains-ahead-wells-fargo-says.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108211331-17603717962025-09-23t214917z_1660418692_rc2vxgazfh6t_rtrmadp_0_tech-openai-texas.jpeg?v=1760371821&w=1920&h=1080",
-      "description": "Shares of Oracle are up 21% this year, but they've fallen nearly 29% in the fourth quarter as investors worry the company can sustain its sky high valuations."
-    },
-    {
-      "headline": "AI Is 'Under-Hyped' and Its Biggest Gains Are Ahead, Eric Schmidt Says",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONVQwT3BSMlN3Sno0Q3ZIemNuYmE4SGRXcXlpb0ZxVXdSampiUVp1SXBmbXZRWTlnakFzbkhVQzd0SWlfSkJCU0wtSmdzRWdHZWlmT3UtYUZRQ3lVN3h0S2YxSzMxMnR3a3FZYkxNdFpXUDYzaVRGdzlRZDU0YlhmZnloQXdoRzR6T0pOQUNOZWV5UEdnRnZyNE80MFRLQ1E?oc=5",
-      "pub_date": 1764763980.0,
-      "article_url": "https://www.businessinsider.com/ai-under-hyped-biggest-gains-still-ahead-eric-schmidt-says-2025-12",
-      "image": "https://i.insider.com/693013e97ecd1d1da662d28a?width=1200&format=jpeg",
-      "description": "Former Google CEO Eric Schmidt says AI is 'under-hyped' and that its most 'extraordinary' benefits are still ahead."
-    },
-    {
-      "headline": "Amazon Releases AI Agents It Says Can Work for Days at a Time",
+      "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPWWl4cnc3cG13Zk00bWlXYzJqQUVnQ3hBQXlNRThfbWgwOVFpNHNtNDZXNFRyMGJrRXVERXpwWEdzYlBCTjd3SThLR19vRVF2RXVLLUhQSWZwMm9aeDRCeTdYaFh3R3JoOGV2WTY1czQ5bzlaNXlNdktzUlJwN3Z6Q3RyWFRvRzFDZ2JFbmFhUElaQ0M4aHViVjIya2RDV2s2TXRrX1ZCNVZpZ2FLQ3FoejVQendUaWNwcGFQRkFCcEpUcmkyNXBqSGxsREVRd19wRWlPWVJTS00wbW11YkRRbDB1eHVmRGxiVTM5UkpJUWJPZXJnNnc3UkRsZVZfM3prRGJ0OG1sTFFSWk1LLUFLYXFRcXNCTG9jU3ZadlVpNmR1czVsbThNSWpBX3lWeTdfX2UyVHVndWJIM0tDd3NoSC02WGRwVHc0NWduZEZyZkNnQTRmOXdFbmZEazZtWllreHM5cnNsSTYxT3JlcFk3Vkc3YkZvNENYbnNLTkRCRlBCai1wUHhlelg3VTB3clpBMkZ0eV9wcTQtYWlKSl9GUmU3Y3BVdw?oc=5",
-      "pub_date": 1764699360.0,
-      "article_url": "https://www.wsj.com/articles/amazon-releases-ai-agents-it-says-can-work-for-days-at-a-time-79c82902?gaa_at=eafs&gaa_n=AWEtsqc1NGFiYdHymPP6wHuT03olGgcr-12w8FvaGt3KS8OoK5xtI9JX2yHM&gaa_ts=693043ed&gaa_sig=z49Z_trDeaVlMxHh0nFjoHb5nANnfybOBZBuCoe_R8McswcGj9h922QKKAT3VsxL2wXGeqBLi9uFd6PHdeFWbg%3D%3D",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOaFZUaWFXWGFEZFl6NF9xTlRDSE9rRUhwbzh5S2Y5MjhQTk9YRzljVndlWHh2ZUFSdGJjZ0N4NlZVWGcwdjdBY3d4UXQ1MGFiY3B0X2JEc09DaGpxRzZCSmYyRm80a1ZoSWppTmEzU0hQUE0ydWJlOFh0azJSblhsdTNuUDRkSmdZVDdROU1kUUxLM3lINklfVTVua2RnUHlYdlVLTDRPYzFmeTV3eVdYeFNvbHFzbTJmOFJwSVFGWWR6QkwzU1UtblRMblYzNjVvdDQ3YTFvSHRzYUVvcTM1cUVyMlFGLXQwWVN2NlpIeGVIV0JKak9rWldfWGhYeXF4OFFteTNSckRVR1N3WWRES296UUNkTlRULUVlazJac2hfVVphZWl2azhzYlZ3VXgtNW1sdklVRkIxOFEtcnJ4ZGUtcmI0ZTFERlRfSk9nTmJFRVBkTHg3T1FKTEFrcHlScTBYUy1PZUt4aWpSbGpzR2x4Q3dxV0lhQnI5LUd1U2tCYTBWOFo1MVBWdmctaHdsYjJxVm9lWTk2RWpkdTBEQWR3VFljT2pMUW5jcHhaVU82aE9XX0x3YkVZckc?oc=5",
+      "pub_date": 1764656820.0,
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqcpj-iNdicaGAxpmthbttoFrCaGr9GklPnYYnTm4w6GuWXXjF8xOleq&gaa_ts=69304ff0&gaa_sig=VFOJKzjpdVX29OsMWQFrL8it1JJkGzAqIksZCQY50i5oJEyvXZTVcFI-zOcXjgMPJT5mCdbRWE9gl-aOiitQYA%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Amazon introduces new frontier Nova models, a pioneering Nova Forge service for organizations to build their own models, and Nova Act for building agents",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnV5Y2I1Ykk3bW9rNUh6dUwtU09nMXFuWU5SenFvc0hZQ2RIZEFIYXEwWVgyTGl1b3BqNm8tdHpaWWw3bkw1Sm11REhrVXZxV1dMQnB0dDMzX3NXSGNPSHkxcVQ0ZVdaZE1ZbWdOQWJPS01PMFc1X2xidnB2dXMyWldjZjk?oc=5",
-      "pub_date": 1764691197.0,
-      "article_url": "https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models",
-      "image": "https://assets.aboutamazon.com/dims4/default/61b7a71/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F95%2Fdc%2Fc004987040dcafbd49d49a6e5bbc%2Fabout-amazon-hero-nova-forge-hero1-2000x1125.jpg",
-      "description": "Key takeaways"
-    },
-    {
-      "headline": "Veeva AI Agents Now Available to Increase Productivity and Customer Centricity",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZFVURi0tTmRDR3BJOE1FRnMzWVNPOGh1V1hsMzBMUGRhUkFwUlMtcVpoWmNPZGRqZlJ2TWxmZkhmbUtnMnJnZEgxdV9JQzhJdWxnOW1ua2N1TFNianc1bkR6T21NdjhwaHJWRTdEZWN6RlJaRDVGNk91bFFBbjE4Qw?oc=5",
-      "pub_date": 1764763380.0,
-      "article_url": "https://finance.yahoo.com/news/veeva-ai-agents-now-available-120300578.html",
-      "image": "https://media.zenfs.com/en/prnewswire.com/365dc5fee8d98cd52bb1416af70b45d0",
-      "description": "In a major milestone for Veeva AI, industry-specific AI for life sciences, Veeva Systems (NYSE: VEEV) today announced the availability of Veeva AI Agents for Vault CRM and PromoMats. Veeva AI in the Veeva Vault Platform and deep, specialized AI agents working in Veeva applications deliver practical AI with clear business value. Additional Veeva AI Agents for clinical, regulatory, safety, quality, medical, and commercial are planned for release throughout 2026."
-    },
-    {
-      "headline": "How AI Is Transforming Work at Anthropic",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
-      "pub_date": 1764703349.0,
-      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
-      "description": "How AI Is Transforming Work at Anthropic"
-    },
-    {
-      "headline": "\u2018The biggest decision yet\u2019: Jared Kaplan on allowing AI to train itself",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3htZDNHeEE0aWl3cGMtbU1mVnV4TDY4QjllanlEODAwSFdfYWZybVFXdjFWVmxpeGZvVGlwUENwd1JjU1VXcW5tMVYxRGVTclB1MnFKcnMzVDRxWTNHRnBnT1RFNEl2UjJYRkdpcU1hb2JFNkt1ZWF2a1hNLThYNVRmU1I4eTRrVTFSSTlMTDFxRnNZUE5PNVZsM01QeFo5TDYwb0dOb3JYdkEtZlRoWFB4aDdLQQ?oc=5",
-      "pub_date": 1764680160.0,
-      "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/02/jared-kaplan-artificial-intelligence-train-itself",
-      "image": "https://i.guim.co.uk/img/media/5f1dbff127345154bf57ef7a554a4727975d1c3e/0_848_3091_2471/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6daf53e3bf38527380051f2157a5fb94",
-      "description": "Anthropic\u2019s chief scientist says AI autonomy could spark a beneficial \u2018intelligence explosion\u2019 \u2013 or be the moment humans lose control"
+      "headline": "Why many Philadelphia doctors now use AI to record patient visits",
+      "source": "WHYY",
+      "source_url": "https://whyy.org",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHSVBibjZfdHc3eFRON3RoTVYtUi00YW1lc3R6Z18xSDlKNnBNZHBLUWlIMzU3dHlnVmJ3WWl1cDBsVDlyQ2tIYnk0MlRyMldxSjdxaFNMUzBVdG5vU3h6YXN6LW1rWm5JaDRKVkZTTWRVZVlKaXZXWldyZzAxZw?oc=5",
+      "pub_date": 1764759825.0,
+      "article_url": "https://whyy.org/articles/artificial-intelligence-doctors-patient-visits/",
+      "image": "https://whyy.org/wp-content/uploads/2025/12/2025-10-29-e-lee-corinne-rhodes-philadelphia-university-of-pennsylvania-ai-in-doctors-offices-app.jpeg",
+      "description": "Health systems say AI note-taking tools could save doctors precious hours each day. But some research shows doctors have mixed feelings about the technology."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T13:51:57.238837+00:00"
+  "fetched_at": "2025-12-03T14:43:33.351231+00:00"
 }

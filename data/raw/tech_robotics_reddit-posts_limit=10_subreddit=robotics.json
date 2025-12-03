@@ -57,6 +57,17 @@
       "description": "Not sure if that's version 2 or 3, maybe someone can elaborate in the comments."
     },
     {
+      "title": "Robotics Kit for Husband?",
+      "author": "Top_Special_8061",
+      "url": "https://www.reddit.com/r/robotics/comments/1pd5r3c/robotics_kit_for_husband/",
+      "published": 1764772362.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I do not know much about any of this (so sorry). My husband asked for a robotics kit for Christmas. I have no idea what to look for or purchase. He's been into Raspberry Pi for a couple of years now and I'm afraid to get him something he already has or that isn't challenging enough for him. Please help! Links would be great."
+    },
+    {
       "title": "Any ideas why urdf-stl looking incorrect in FoxGlove but correct in RVIZ2?",
       "author": "alarin",
       "url": "https://www.reddit.com/r/robotics/comments/1pcvoik/any_ideas_why_urdfstl_looking_incorrect_in/",
@@ -79,15 +90,15 @@
       "description": "Me and my friend have this idea that we would turn a vacuum roomba or something (open for alternatives), into basically something that can see and talk. We were thinking of putting speakers and cameras and somehow make it work, as for the voice we were thinking of using a Teto voicebank I'd also like to say we have no experience about these so I hope for some really detailed insights, we are also open for any suggestions as long as we could make this idea (or something similar) be brought to life!"
     },
     {
-      "title": "Tying your shoes on a real bimanual mobile robot! ByteDance Seed just drops GR-RL, a new VLA+RL system that manages long-horizon precise dexterous manipulation of deformable objects (paper)",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc8kdi/tying_your_shoes_on_a_real_bimanual_mobile_robot/",
-      "published": 1764682451.0,
-      "thumbnail": "https://external-preview.redd.it/d2dvMjR0amlsczRnMaCiBgwQLnOBGKXTF1DSXq7q_DiQjpxh0SG0ta2h6icx.png?width=640&crop=smart&auto=webp&s=4294f9750a48be1dc1824d642e67aeeb5baded6b",
+      "title": "The \"it is AI or CGI\" people are getting really annoying.",
+      "author": "MilesLongthe3rd",
+      "url": "https://www.reddit.com/r/robotics/comments/1pd5vmt/the_it_is_ai_or_cgi_people_are_getting_really/",
+      "published": 1764772656.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Project page: https://seed.bytedance.com/en/gr_rl ArXiv: https://arxiv.org/abs/2512.01801"
+      "description": "Robotics is developing at a very fast pace, and we are seeing new developments every week. But instead of a discussion about robots, it is the same people over and over again just yelling, \"It is CGI, AI, or fake.\" The funny thing is, they are proven wrong over and over again. Like with the Xpeng \"Iron\" humanoid robot or now again with the EngineAI T-800. But still the next time, they will do it again. This adds absolutly nothing to the disussion and also instead of robotics, only loud voices with their biases dominate."
     },
     {
       "title": "Inside China\u2019s Robot Training Factory: Where Humanoids Learn to Work",
@@ -99,18 +110,7 @@
       "site_name": "#SixthTone",
       "favicon": "https://www.sixthtone.com/favicon.ico",
       "description": "Young operators remotely guide robots through thousands of everyday tasks, generating the scarce data needed to teach machines how to work in the real world."
-    },
-    {
-      "title": "First robotics project: I want to make my lawnmower remote control",
-      "author": "VegetableDistrict576",
-      "url": "https://www.reddit.com/r/robotics/comments/1pct4rl/first_robotics_project_i_want_to_make_my/",
-      "published": 1764731594.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I want to make my ride on lawn mower remote control. My plan is to use stepper motors for steering and speed control lever actuation and hopefully use my drone controller(elrs, boxer) and a flight controller to connect reciever and send signal to stepper controllers. I think my main question here is: are there software programs similar to betaflight that allow my to load firmware to my fc and control/program it in a different way then you would do for a drone. And second question: does this sound feasable, and are there better methods of achieving this."
     }
   ],
-  "fetched_at": "2025-12-03T13:51:45.142023+00:00"
+  "fetched_at": "2025-12-03T14:42:56.769684+00:00"
 }

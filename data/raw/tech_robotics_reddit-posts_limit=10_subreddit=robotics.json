@@ -24,6 +24,17 @@
       "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
     },
     {
+      "title": "Optimus: Next-Generation Highly Flexible Hand",
+      "author": "AlbatrossHummingbird",
+      "url": "https://www.reddit.com/r/robotics/comments/1pde8o5/optimus_nextgeneration_highly_flexible_hand/",
+      "published": 1764790874.0,
+      "thumbnail": "https://external-preview.redd.it/ZDlxMTY2amJsMTVnMdymnC4DYzDl4nmRFCa29adQLOgOJIM-qnPuk14K7m8J.png?width=640&crop=smart&auto=webp&s=01bded19c440d58e06b168d941a5c4acfb9a52f9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Unitree H2 (1.8m) humanoid robot boxing test shows full force impact and balance control",
       "author": "BuildwithVignesh",
       "url": "https://www.reddit.com/r/robotics/comments/1pd9avr/unitree_h2_18m_humanoid_robot_boxing_test_shows/",
@@ -44,17 +55,6 @@
       "site_name": null,
       "favicon": null,
       "description": "From EngineAI on \ud835\udd4f: https://x.com/engineairobot/status/1996165785056919634?s=20"
-    },
-    {
-      "title": "Optimus: Next-Generation Highly Flexible Hand",
-      "author": "AlbatrossHummingbird",
-      "url": "https://www.reddit.com/r/robotics/comments/1pde8o5/optimus_nextgeneration_highly_flexible_hand/",
-      "published": 1764790874.0,
-      "thumbnail": "https://external-preview.redd.it/ZDlxMTY2amJsMTVnMdymnC4DYzDl4nmRFCa29adQLOgOJIM-qnPuk14K7m8J.png?width=640&crop=smart&auto=webp&s=01bded19c440d58e06b168d941a5c4acfb9a52f9",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     },
     {
       "title": "I\u2019m building a browser-based robotics playground (open source). You can test robots with zero setup.",
@@ -112,5 +112,5 @@
       "description": "His take is that a lot of what we see online right now is carefully staged. Preplanned motions, rehearsed scenes, and very little of the real complexity that comes with unstructured environments. The gap between a controlled demo and an actual deployable product is huge, and he seems worried that people are starting to confuse the two. He also pointed out that most of the systems shown in flashy videos still struggle with the basics. Reliable manipulation. Robust sensing. Working without a team of engineers one room away. None of that makes it into marketing clips, of course. So the public sees a humanoid walking and carrying a box, and assumes the market is further along than it really is."
     }
   ],
-  "fetched_at": "2025-12-03T19:57:05.910846+00:00"
+  "fetched_at": "2025-12-03T20:31:22.702280+00:00"
 }

@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Billionaires are building bunkers out of fear of societal collapse: \"I know a lot of AI CEOs who have cancelled all public appearances, especially in the wake of Charlie Kirk. They think there's gonna be a wave of anti-AI sentiment next year.\"",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd2j6h/billionaires_are_building_bunkers_out_of_fear_of/",
-      "published": 1764763960.0,
-      "thumbnail": "https://external-preview.redd.it/aXlnamJsZTlkejRnMcyi1Tg4bfuxFKJWkKxm1v1ZfXAnfUDVwMflnfREIbFI.png?width=640&crop=smart&auto=webp&s=b02601227356e889bcd3b0138243c410ad808cc8",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Full interview with Stability AI founder Emad Mostaque."
-    },
-    {
       "title": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1pdb7ml/microsofts_reported_sales_struggles_are_a_warning/",
@@ -22,6 +11,17 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "A report from The Information that said Microsoft is struggling to sell some of its AI tools to customers sent the stock tumbling."
+    },
+    {
+      "title": "Billionaires are building bunkers out of fear of societal collapse: \"I know a lot of AI CEOs who have cancelled all public appearances, especially in the wake of Charlie Kirk. They think there's gonna be a wave of anti-AI sentiment next year.\"",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pd2j6h/billionaires_are_building_bunkers_out_of_fear_of/",
+      "published": 1764763960.0,
+      "thumbnail": "https://external-preview.redd.it/aXlnamJsZTlkejRnMcyi1Tg4bfuxFKJWkKxm1v1ZfXAnfUDVwMflnfREIbFI.png?width=640&crop=smart&auto=webp&s=b02601227356e889bcd3b0138243c410ad808cc8",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Full interview with Stability AI founder Emad Mostaque."
     },
     {
       "title": "Microsoft slashes AI sales growth targets as customers resist unproven agents",
@@ -55,6 +55,17 @@
       "site_name": "bleepingcomputer.com",
       "favicon": "https://www.bleepingcomputer.com/favicon.ico",
       "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
+    },
+    {
+      "title": "Micron stops selling memory to consumers as demand spikes from AI chips",
+      "author": "Doug24",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdepwf/micron_stops_selling_memory_to_consumers_as/",
+      "published": 1764791949.0,
+      "thumbnail": "https://external-preview.redd.it/Dj9L9kIE7NpZO87ZBMIM5WS4PpRvjexmnyoRgEndSgE.jpeg?width=640&crop=smart&auto=webp&s=9ed03c1500a378f90129410c96a54cab0648c081",
+      "external_url": "https://www.cnbc.com/2025/12/03/micron-stops-selling-memory-to-consumers-demand-spikes-from-ai-chips.html",
+      "site_name": "CNBC",
+      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
+      "description": "Demand driven by the AI infrastructure boom is creating shortages for certain products like memory."
     },
     {
       "title": "IBM CEO Has Doubts That Big Tech's AI Spending Spree Will Pay Off",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Lately I noticed I\u2019ve worked a bunch of AI stuff into my daily workflow without even planning to. I draft things with a model, clean them up myself, then run them through a detector that gives actual sentence level notes so I can fix any stiff sounding parts. Curious what everyone else is using day to day. What stuck and what did you drop?"
-    },
-    {
-      "title": "Why are they forcing AI onto us through TVs?",
-      "author": "Ok_Personality6148",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdeaao/why_are_they_forcing_ai_onto_us_through_tvs/",
-      "published": 1764790974.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I was recently shopping around for a new TV and was 'aomewhat' surprised to see all these AI TV models. I say somewhat because everyone is putting AI into everything right now but I thought a TV could be left alone. Is this going to be the next 3D? Will it have a moment then die a death or will the march of AI continue to infect everything regardless of whether there's a use case or not? Curious to hear people's thoughts."
     }
   ],
-  "fetched_at": "2025-12-03T19:57:01.673987+00:00"
+  "fetched_at": "2025-12-03T20:31:19.565735+00:00"
 }

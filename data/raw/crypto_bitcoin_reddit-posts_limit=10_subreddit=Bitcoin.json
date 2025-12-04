@@ -35,17 +35,6 @@
       "description": null
     },
     {
-      "title": "300 years from now wouldn't 90% of Bitcoins eventually end up being permanently lost?",
-      "author": "GodblessBTC",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdsa0w/300_years_from_now_wouldnt_90_of_bitcoins/",
-      "published": 1764827664.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It's basic math. Every year thousands of bitcoins are sent to the wrong addresses, owners with cold wallets die, and private keys are lost forever. Right now over 4 million bitcoins are estimated to be lost forever and every year that number rises. So eventually say 300-400 years from now if 90% of Bitcoins end up being permanently lost what happens to the network security if so little transactions are being performed? Wouldn't this decrease the hash rate by A LOT since miners wouldn't make a lot of money from transaction fees?"
-    },
-    {
       "title": "\ud83e\udde1 Thank You Satoshi, for Bitcoin",
       "author": "DardMiner1982",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Sometimes we forget the obvious: without Satoshi, BTC wouldn\u2019t exist and our entire crypto journey wouldn\u2019t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. \ud83d\ude80"
+    },
+    {
+      "title": "full speed",
+      "author": "Repulsive-Box-6516",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/",
+      "published": 1764868320.0,
+      "thumbnail": "https://preview.redd.it/09jtf1imz75g1.png?width=640&crop=smart&auto=webp&s=9c5a632623d86d478ce52111d55bbe14e4a58122",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "What do you think?",
@@ -79,22 +79,22 @@
       "description": null
     },
     {
+      "title": "300 years from now wouldn't 90% of Bitcoins eventually end up being permanently lost?",
+      "author": "GodblessBTC",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdsa0w/300_years_from_now_wouldnt_90_of_bitcoins/",
+      "published": 1764827664.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It's basic math. Every year thousands of bitcoins are sent to the wrong addresses, owners with cold wallets die, and private keys are lost forever. Right now over 4 million bitcoins are estimated to be lost forever and every year that number rises. So eventually say 300-400 years from now if 90% of Bitcoins end up being permanently lost what happens to the network security if so little transactions are being performed? Wouldn't this decrease the hash rate by A LOT since miners wouldn't make a lot of money from transaction fees?"
+    },
+    {
       "title": "Oh Franklin",
       "author": "CrosstrekTrail",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pdo8kv/oh_franklin/",
       "published": 1764815639.0,
       "thumbnail": "https://preview.redd.it/b0xrw19zm35g1.jpeg?width=640&crop=smart&auto=webp&s=228bd5a23e6669c40f63ee2ce792488905aaf32b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "why you didn\u2019t buy more",
-      "author": "Available_Reveal4066",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdy81p/why_you_didnt_buy_more/",
-      "published": 1764849634.0,
-      "thumbnail": "https://preview.redd.it/qkc5dthzf65g1.png?width=640&crop=smart&auto=webp&s=8614992c4676417c3b67d9a29351852e040edde9",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-04T17:30:40.563659+00:00"
+  "fetched_at": "2025-12-04T18:46:11.035804+00:00"
 }

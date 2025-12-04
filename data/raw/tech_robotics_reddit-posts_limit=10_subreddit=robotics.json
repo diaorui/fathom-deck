@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "Snake oil or basic hydraulics?",
-      "author": "Narasimhan_Balaji",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdvtrs/snake_oil_or_basic_hydraulics/",
-      "published": 1764840975.0,
-      "thumbnail": "https://external-preview.redd.it/c2l3Zmp5d3hwNTVnMQx2qOEkCcs55ppPA3hWRZ9b_PEFTZobXdS-GCoL6cnC.png?width=640&crop=smart&auto=webp&s=95e99dc04b0aec91f76fafd433aaed342789a23c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "How is this even possible without a motor or hydraulics as the post claims? I can clearly see the hydraulic hoses on the upper part of the exo skeleton. While the lower part is just plain addition without any active peripherals. Is this just plain manually powered hydraulics + some servo motors? or some new tech?!"
-    },
-    {
       "title": "Art installation draws attention for its robot dogs with famous faces",
       "author": "nbcnews",
       "url": "https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/",
@@ -68,6 +57,17 @@
       "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
     },
     {
+      "title": "I created a coding agent specialised for ROS",
+      "author": "Ok-Leg3893",
+      "url": "https://www.reddit.com/r/robotics/comments/1pe70xu/i_created_a_coding_agent_specialised_for_ros/",
+      "published": 1764871420.0,
+      "thumbnail": "https://preview.redd.it/gabj81rgwd3g1.png?width=640&crop=smart&auto=webp&s=6b5116c271ebdba47b1d8eb19b9717269ddd7063",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Robot Arm Item-Picking Demo in a Simulated Supermarket Scene",
       "author": "Individual-Major-309",
       "url": "https://www.reddit.com/r/robotics/comments/1pdwivk/robot_arm_itempicking_demo_in_a_simulated/",
@@ -112,5 +112,5 @@
       "description": "https://youtu.be/UAlm8Z4mfpU?si=h4K9IuzuAVVI7tnS"
     }
   ],
-  "fetched_at": "2025-12-04T17:30:45.449436+00:00"
+  "fetched_at": "2025-12-04T18:46:13.915906+00:00"
 }

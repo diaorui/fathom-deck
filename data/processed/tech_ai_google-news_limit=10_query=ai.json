@@ -5,56 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "As Hochul Considers an A.I. Bill, Its Sponsor Throws Her a Fund-Raiser",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpSEZadkZwTzhvaTJsTDhXOWxDVHo2X0YtTWk1XzV5cGNDUEFFMk1fYkJLR0pkNWE0U0lHSmJONURRS3R1SkhOOEhuMFFsQmwxVC0yZWhCTC12dlhBNHRIcmpadTlMQkY1SEUzdjVSZFpVbWgxLXBkRg?oc=5",
-      "pub_date": 1764861935.0,
-      "article_url": "https://www.nytimes.com/2025/12/04/nyregion/hochul-ai-bill-bores.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The AI boom is heralding a new gold rush in the American west",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBneVRydDFuam1rcEpvX2YxN25wM181dENRS1dwdE96Xzdja1g5aC1saUh5S3lwSGhOc0JLdy13SG91UVhseWhPSEJSSjY3b0trZ3lxd19UelBwclNOVmNfZ1NQM25vRGtRS2gxUVlUak9taTRhOU9JTkJKRkpfUQ?oc=5",
-      "pub_date": 1764863160.0,
-      "article_url": "https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers",
-      "image": "https://i.guim.co.uk/img/media/98b1dc3ef8182910c8dc25f71f49cdb364619a90/426_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3038117c30becf03294ba8e66858bb5",
-      "description": "Once home to gold and prospectors, the Nevada desert is now the site of a new kind of expansion: tech datacenters"
-    },
-    {
-      "headline": "Communicator Spotlight: Tom Channick of Scale AI",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQUFOYTE1YkZmNE9EVlB2NlRmcUVaN3BROWZReDhRSm13LWRuUFFEWDh4OW43RC1xZV9wZjdpQXAxMk1kN3M1UVhuWUJpbE5lOGlSeDhsTmMtUWZ4SWV6QnVUSFJxWkFLaER5emhzR0pDSmo4UGUyZ2dQV1lRS3RjRTg0TQ?oc=5",
-      "pub_date": 1764867739.0,
-      "article_url": "https://www.axios.com/2025/12/04/communicator-spotlight-tom-channick-scale-ai",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "As AI impersonation spikes, this startup just raised $28M to stop deepfakes in real time",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb3FUelB0UXpEMnV3aW16YjFZR1NUczV6QWdRZnBOWk1EalhmUGhkQ01QYUNyTHB4Zmg4MTVtY2twa0hTb0tQNkZ3ZzZsZ092Q2FnZHdvLVY1S1RncGt4RUd4YWxfNURtRU02bU1zMDVvMnVYdlIyWHlfOFVMWWVXczZKdjBFYTVKTng1RGJwVHBqZVBxSG5DNWFYamtrUGpaUFg0X0dnMDhsRlg4aHI3RnBlM2k0SGFfQjlDUVNGQ0tiSThZTjNQZllkUUx2Z2ZIX0hTTkZJV1hMdmYtUklha3BNVUxfd3J3elBZRmpNZkY?oc=5",
-      "pub_date": 1764867600.0,
-      "article_url": "https://fortune.com/2025/12/04/companies-are-increasingly-falling-victim-to-ai-impersonation-scams-this-startup-just-raised-28m-to-stop-deepfakes-in-real-time/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/1Rom-Dudkiewicz-CTO-Noam-Awadish-CEO-and-Anatoly-Blighovsky-CPO-imperai-2.jpg?resize=1200,600",
-      "description": "imper.ai says the only defense is spotting the invisible signals even perfect deepfakes can\u2019t spoof"
-    },
-    {
-      "headline": "ByteDance and DeepSeek Are Placing Very Different AI Bets",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OVFRvYkxWUHoyRVlSZXl1WS1ZWk1SVm00aVpId3Q4b2VjemxhQ3dpblFqcEpyR29OUnBUajJjMHYwcGw1SWhrLVpkX3I0al9GTXRrekZraThTemVqWEdoMC11T2o0Rm1rWHlMVEV0a09ZbGZjQmdWNU5vb0diUQ?oc=5",
-      "pub_date": 1764867420.0,
-      "article_url": "https://www.wired.com/story/deepseek-goes-high-while-bytedance-goes-wide/",
-      "image": "https://media.wired.com/photos/6930b3bb54e1eb75e23499a5/191:100/w_1280,c_limit/Made-In-China-DeepSeek-Goes-High-While-ByteDance-Goes-Wide-Business.jpg",
-      "description": "The diverging path of China\u2019s two leading AI players shows where the country\u2019s artificial intelligence industry is headed."
-    },
-    {
       "headline": "Google taps AI vibe-coder Replit in challenge to Anthropic and Cursor",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -65,14 +15,54 @@
       "description": "Replit will expand usage of Google Cloud services, add more of Google's models onto its platform, and support AI coding use cases for enterprise customers."
     },
     {
-      "headline": "How AI Is Transforming Work at Anthropic",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
-      "pub_date": 1764703349.0,
-      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
-      "description": "How AI Is Transforming Work at Anthropic"
+      "headline": "As Hochul Considers an A.I. Bill, Its Sponsor Throws Her a Fund-Raiser",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpSEZadkZwTzhvaTJsTDhXOWxDVHo2X0YtTWk1XzV5cGNDUEFFMk1fYkJLR0pkNWE0U0lHSmJONURRS3R1SkhOOEhuMFFsQmwxVC0yZWhCTC12dlhBNHRIcmpadTlMQkY1SEUzdjVSZFpVbWgxLXBkRg?oc=5",
+      "pub_date": 1764861935.0,
+      "article_url": "https://www.nytimes.com/2025/12/04/nyregion/hochul-ai-bill-bores.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI Impact: The Speed of Trust",
+      "source": "Newsweek",
+      "source_url": "https://www.newsweek.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4YjYxVm1PX2ZRNW00bFVyaGVPVDdndGhYOFNEYXA0eXMwNnlDZnVnQUItRXQ3ckdPOVpiaVFac1ZVVnRkQWgwWHp3VUNxVm9IZWtuUmJyRzNtRThNTk9tRG1ndF9PWFludnZpa0ZJNDlCQ3RVSFZF?oc=5",
+      "pub_date": 1764872095.0,
+      "article_url": "https://www.newsweek.com/nw-ai/ai-impact-the-speed-of-trust-11157995",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2025/10/AI-Impact.jpeg?w=1200crop=1",
+      "description": "AI Impact highlights shifting consumer behavior, AI adoption insights, new research, major exec moves and Newsweek events."
+    },
+    {
+      "headline": "AI Cloud Provider Aiding Google\u2019s Chip Push Is in Talks to Raise $700 Million",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHRxSkt1dDZya2FZNFhjYzRVbFJJVjYyVE5QOTlZTVVaS3Q3RExhVE9FMlcyQXVTOWZFNWhiRlh0dS04TXdaUnFvNnc2UzA2a0JRM2h5TkxfaUZFNWxEcVVGb2NfSjNDRnU2Z0RJRUc2ODB6TGRuLUV2dkFjX1Vkd1h1V0huSkl6WU00aGxRX1d0ZDVkeDVkYkYzOWN0ZjFvWmxjY1E4ZDB2Zw?oc=5",
+      "pub_date": 1764872940.0,
+      "article_url": "https://www.theinformation.com/articles/ai-cloud-provider-aiding-googles-chip-push-talks-raise-700-million",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Min Chun Fu: Why Design, Not Code, Will Decide AI\u2019s Future",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMkplOXlvTGkxdGxlYXctYkFfSnN6Z2VMWGdyZFlsdmc2NUZWeWpMS1lOeHBSR013elBJOUdMNXpPelVubEozSk9zVFdQOGNEYVpLdm5VdEp6c3h1cFJGUFliVjVGZzQ4MHJrLUx6cTN3NXR5OFVnaHJNRnNPbkltbjBZNExxSlpyOEFWWFZNLVNJY1kzMVRwbjNwZUthMVlwYmp6ZV8ybHJsaGFVVHhJZ1ptQTFybUJXVktNZndzUWs5UVo2U1gxbURpYnhiUU5Zdmlr?oc=5",
+      "pub_date": 1764871680.0,
+      "article_url": "https://www.usatoday.com/story/special/contributor-content/2025/12/04/min-chun-fu-why-design-not-code-will-decide-ais-future/87606639007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/04/USAT/87606644007-dsc-09964.jpeg?crop=9503,5347,x0,y494&width=3200&height=1801&format=pjpg&auto=webp",
+      "description": "He argues the next stage of AI won\u2019t be defined by greater computational force but by a discipline long treated as secondary: transparent design."
+    },
+    {
+      "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNazhnN0pQaWZoUjdfTUI5eW1QVFZNYWtPMEx3bUpaaTczTFM3cGlHNXQyVUJaOHctd3hCWktVWTNNeUVHbU5FdWpvQU5WSWlhUjZFRmtJdkw4Qjc1WU1aT1ZOUXRicUI3ekFHb2x5ak5xZXpNSjdiQXRxQjZKeXJ1dU81TDhzZjR4VzUwU2Y3Rzc3TXJRY1FRbjViVkNSMmlsWklXeTJuUGJHX0xlZDdrNmRPM2Z5YVZDbV9Gb3UzeTd3NnVVbXBnYWVhR2Y4czRZeHY5Y3dZYng4RVlkTmVpNEhfN1BXZFNQc0dxX0IxSFh3UnVTb1ZENXZocm5UeU5nMDAxUzFiRVNBeHRUZEZ1REVjZWlCZ2lvc25QMkZFY3J5dzl3OXlmQ0Z1dF9CY0plLXc?oc=5",
+      "pub_date": 1764864660.0,
+      "article_url": "https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1260047116-e1764863526884.jpg?resize=1200,600",
+      "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
     },
     {
       "headline": "The US may be running the wrong AI race",
@@ -83,6 +73,16 @@
       "article_url": "https://www.ft.com/content/45615c0a-952d-49b6-b2e0-c35d3826768f",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76180ea3-b738-4223-ab13-ac6df21ea7f1.jpg?source=next-barrier-page",
       "description": "China\u2019s favouring of small and cheap models such as DeepSeek could prove to be the better bet"
+    },
+    {
+      "headline": "The AI boom is heralding a new gold rush in the American west",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBneVRydDFuam1rcEpvX2YxN25wM181dENRS1dwdE96Xzdja1g5aC1saUh5S3lwSGhOc0JLdy13SG91UVhseWhPSEJSSjY3b0trZ3lxd19UelBwclNOVmNfZ1NQM25vRGtRS2gxUVlUak9taTRhOU9JTkJKRkpfUQ?oc=5",
+      "pub_date": 1764870540.0,
+      "article_url": "https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers",
+      "image": "https://i.guim.co.uk/img/media/98b1dc3ef8182910c8dc25f71f49cdb364619a90/426_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3038117c30becf03294ba8e66858bb5",
+      "description": "Once home to gold and prospectors, the Nevada desert is now the site of a new kind of expansion: tech datacenters"
     },
     {
       "headline": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T17:30:58.511985+00:00"
+  "fetched_at": "2025-12-04T18:46:29.070327+00:00"
 }

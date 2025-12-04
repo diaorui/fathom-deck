@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-12-04T15:16:42.722575+00:00",
+  "data": {
+    "url": "https://github.com/REICHIYAN/llm_infra_lab",
+    "title": "GitHub - REICHIYAN/llm_infra_lab: LLM infra with JAX pmap, vLLM-style inference mock, FSDP loop, and K8s/Terraform scaffolds.",
+    "description": "LLM infra with JAX pmap, vLLM-style inference mock, FSDP loop, and K8s/Terraform scaffolds. - REICHIYAN/llm_infra_lab",
+    "image": "https://opengraph.githubassets.com/acb64fcc19800d95a75d52a37aade4648eec04fb7ab9e20c4daf7e608cf48245/REICHIYAN/llm_infra_lab",
+    "favicon": "https://github.githubassets.com/favicons/favicon.png",
+    "site_name": "GitHub",
+    "author": null,
+    "keywords": null
+  }
+}

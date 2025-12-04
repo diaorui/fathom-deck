@@ -13,22 +13,22 @@
       "description": "How is this even possible without a motor or hydraulics as the post claims? I can clearly see the hydraulic hoses on the upper part of the exo skeleton. While the lower part is just plain addition without any active peripherals. Is this just plain manually powered hydraulics + some servo motors? or some new tech?!"
     },
     {
-      "title": "Optimus: Next-Generation Highly Flexible Hand",
-      "author": "AlbatrossHummingbird",
-      "url": "https://www.reddit.com/r/robotics/comments/1pde8o5/optimus_nextgeneration_highly_flexible_hand/",
-      "published": 1764790874.0,
-      "thumbnail": "https://external-preview.redd.it/ZDlxMTY2amJsMTVnMdymnC4DYzDl4nmRFCa29adQLOgOJIM-qnPuk14K7m8J.png?width=640&crop=smart&auto=webp&s=01bded19c440d58e06b168d941a5c4acfb9a52f9",
+      "title": "A comparison of Figure 03, EngineAI T800, and Tesla Optimus running",
+      "author": "heart-aroni",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdy9mn/a_comparison_of_figure_03_engineai_t800_and_tesla/",
+      "published": 1764849765.0,
+      "thumbnail": "https://external-preview.redd.it/MzJ0MW50cGZnNjVnMeHfc8HEPZjy1jF6CEoikLt2YRP45U6zCVh8Ohy2O7jN.png?width=640&crop=smart&auto=webp&s=9d5b374f63f785bf03a43178fe6110a9e373d9ec",
       "external_url": null,
       "site_name": null,
       "favicon": null,
       "description": null
     },
     {
-      "title": "A comparison of Figure 03, EngineAI T800, and Tesla Optimus running",
-      "author": "heart-aroni",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdy9mn/a_comparison_of_figure_03_engineai_t800_and_tesla/",
-      "published": 1764849765.0,
-      "thumbnail": "https://external-preview.redd.it/MzJ0MW50cGZnNjVnMeHfc8HEPZjy1jF6CEoikLt2YRP45U6zCVh8Ohy2O7jN.png?width=640&crop=smart&auto=webp&s=9d5b374f63f785bf03a43178fe6110a9e373d9ec",
+      "title": "Optimus: Next-Generation Highly Flexible Hand",
+      "author": "AlbatrossHummingbird",
+      "url": "https://www.reddit.com/r/robotics/comments/1pde8o5/optimus_nextgeneration_highly_flexible_hand/",
+      "published": 1764790874.0,
+      "thumbnail": "https://external-preview.redd.it/ZDlxMTY2amJsMTVnMdymnC4DYzDl4nmRFCa29adQLOgOJIM-qnPuk14K7m8J.png?width=640&crop=smart&auto=webp&s=01bded19c440d58e06b168d941a5c4acfb9a52f9",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -55,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
+    },
+    {
+      "title": "List of Robotics Companies That Closed in 2025?",
+      "author": "Stowie1022",
+      "url": "https://www.reddit.com/r/robotics/comments/1pe1gnd/list_of_robotics_companies_that_closed_in_2025/",
+      "published": 1764858674.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Anybody keeping track of robotics companies that closed in 2025? Here's what I got so far: Guardian Agriculture AWS RoboMaker Rethink Robotics Aldebaran (IP acquired) Attabotics (IP acquired) K-Scale Labs Shape Robotics"
     },
     {
       "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
@@ -90,27 +101,16 @@
       "description": "A short demo of an item-picking sequence inside a supermarket-style simulation environment. The robot\u2019s navigation in this clip is teleoperated (not autonomous), and the goal is mainly to show how the pick action and scene interactions behave under the current physics setup. For anyone working with manipulation or sim-based workflows, feedback is welcome on aspects such as: motion quality or controller behavior, grasp sequence setup, physics consistency, scene design considerations for similar tasks. Interested in hearing how others approach supermarket-style manipulation tasks in simulation. BGM: Zatplast"
     },
     {
-      "title": "Another close up of Optimus new flexible hand",
-      "author": "AlbatrossHummingbird",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdg7yo/another_close_up_of_optimus_new_flexible_hand/",
-      "published": 1764795338.0,
-      "thumbnail": "https://external-preview.redd.it/M3pmcnZ1NWx5MTVnMRGOH0pOqmmGNLMm6x_-78GW-TxQE2BlRQrYaR8uoDMg.png?width=640&crop=smart&auto=webp&s=f8ba3f1bfd988bb69094fdbb5230a3bdc97a5f4e",
+      "title": "Industrial arms for configurable applications",
+      "author": "Tanky321",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdye9t/industrial_arms_for_configurable_applications/",
+      "published": 1764850174.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Unitree H2 (1.8m) humanoid robot boxing test shows full force impact and balance control",
-      "author": "BuildwithVignesh",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd9avr/unitree_h2_18m_humanoid_robot_boxing_test_shows/",
-      "published": 1764780291.0,
-      "thumbnail": "https://external-preview.redd.it/MzhnMm1rM3VwMDVnMYc4-QeJkNLDnpzJh8OpQtUMhqj7iXJ0VSOwXmWEFOdE.png?width=640&crop=smart&auto=webp&s=81b593abfba0c4e0f92da519a713b58e458e4919",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Unitree Robotics: Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall reliability of the robot, please do not attempt to replicate this. Please use robots in a friendly manner. Source : YT(Unitree Robotics) \ud83d\udd17 : https://youtu.be/kjJeQZECPcQ?si=rsmZHVdMuBLagHHN"
+      "description": "Hi all, Looking for suggestions for an application where I need to send commands to the arm via some field bus (preferably EtherCAT). Ideally I want to send start positions, end positions, velocity abd move style (moveJ, MoveL) and have the robot do the rest. This would be mixed with pre established routines on the robot which would also be called via field bus. Any experience with similar applications? Any recommendations on brands to go with or to stay away from? We would not need a cobot for this application, just a standard 6 axis arm. Thanks!"
     }
   ],
-  "fetched_at": "2025-12-04T14:32:03.387423+00:00"
+  "fetched_at": "2025-12-04T15:16:44.356339+00:00"
 }

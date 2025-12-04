@@ -129,9 +129,23 @@
       "description": null,
       "favicon": null,
       "site_name": "nytimes.com"
+    },
+    {
+      "title": "Show HN: LLM-Infra-Lab \u2013 A minimal, reproducible lab for LLM systems",
+      "url": "https://github.com/REICHIYAN/llm_infra_lab",
+      "hn_url": "https://news.ycombinator.com/item?id=46148523",
+      "author": "Sai-HN",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2025-12-04T15:11:15Z",
+      "object_id": "46148523",
+      "image": "https://opengraph.githubassets.com/acb64fcc19800d95a75d52a37aade4648eec04fb7ab9e20c4daf7e608cf48245/REICHIYAN/llm_infra_lab",
+      "description": "LLM infra with JAX pmap, vLLM-style inference mock, FSDP loop, and K8s/Terraform scaffolds. - REICHIYAN/llm_infra_lab",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2025-12-04T14:32:00.622164+00:00"
+  "fetched_at": "2025-12-04T15:16:42.722874+00:00"
 }

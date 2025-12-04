@@ -90,17 +90,6 @@
       "description": "Getting this error: Grok is experiencing server related issues. We are working on restoring service as quickly as possible."
     },
     {
-      "title": "Billionaires are building bunkers out of fear of societal collapse: \"I know a lot of AI CEOs who have cancelled all public appearances, especially in the wake of Charlie Kirk. They think there's gonna be a wave of anti-AI sentiment next year.\"",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd2j6h/billionaires_are_building_bunkers_out_of_fear_of/",
-      "published": 1764763960.0,
-      "thumbnail": "https://external-preview.redd.it/aXlnamJsZTlkejRnMcyi1Tg4bfuxFKJWkKxm1v1ZfXAnfUDVwMflnfREIbFI.png?width=640&crop=smart&auto=webp&s=b02601227356e889bcd3b0138243c410ad808cc8",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Full interview with Stability AI founder Emad Mostaque."
-    },
-    {
       "title": "What is the point of ChatGPT subscription?",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pdqldc/what_is_the_point_of_chatgpt_subscription/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "I pay for ChatGPT Plus and asked it about Windows BitLocker. It showed me an ad to shop at Target. This is how you lose users. ChatGPT response (excerpt) ChatGPT 5.1 Thinking You can: \u2022 Try to enable Core isolation / Memory integrity for extra protection. \u2022 Improve firmware settings (Secure Boot, UEFI, virtualization) so Windows stops saying \u201cStandard hardware security not supported.\u201d For actual drive encryption: \u2022 Look in Settings \u2192 Privacy & security \u2192 Device encryption. \u2022 If it\u2019s there, use it. \u2022 If not, your realistic options are upgrade to Pro (BitLocker) or use VeraCrypt/other third-party encryption. If you want, tell me your laptop model and I can suggest what to flip in BIOS and what\u2019s realistically possible (e.g., whether Modern Standby / Device Encryption is likely supported). Shop for home and groceries \u2014 Connect Target By BenjaminDEKR"
+    },
+    {
+      "title": "Billionaires are building bunkers out of fear of societal collapse: \"I know a lot of AI CEOs who have cancelled all public appearances, especially in the wake of Charlie Kirk. They think there's gonna be a wave of anti-AI sentiment next year.\"",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pd2j6h/billionaires_are_building_bunkers_out_of_fear_of/",
+      "published": 1764763960.0,
+      "thumbnail": "https://external-preview.redd.it/aXlnamJsZTlkejRnMcyi1Tg4bfuxFKJWkKxm1v1ZfXAnfUDVwMflnfREIbFI.png?width=640&crop=smart&auto=webp&s=b02601227356e889bcd3b0138243c410ad808cc8",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Full interview with Stability AI founder Emad Mostaque."
     }
   ],
-  "fetched_at": "2025-12-04T14:31:59.483739+00:00"
+  "fetched_at": "2025-12-04T15:16:39.815954+00:00"
 }

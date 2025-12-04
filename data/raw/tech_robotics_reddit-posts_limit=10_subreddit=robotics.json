@@ -79,6 +79,17 @@
       "description": "From EngineAI on \ud835\udd4f: https://x.com/engineairobot/status/1996165785056919634?s=20"
     },
     {
+      "title": "NVIDIA CEO Jensen Huang on Tesla Optimus:",
+      "author": "shadrack_CK",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdlhe3/nvidia_ceo_jensen_huang_on_tesla_optimus/",
+      "published": 1764808089.0,
+      "thumbnail": "https://external-preview.redd.it/d3dkYng5dGkwMzVnMbbwpuX7-8VsNfH7A1Nkx7tYaacnBWHQ7beSZgJeeMS3.png?width=640&crop=smart&auto=webp&s=9b1ad9070dc7c886bfe880136fb2334af155f91f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "My Robot Dog",
       "author": "doppler07",
       "url": "https://www.reddit.com/r/robotics/comments/1pda1f8/my_robot_dog/",
@@ -88,17 +99,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Been working on this dog for 2 months. Finally modelled the dogs body dynamics. This is where all the trigonometry,triangles and laws of cosiness that I learnt in high school came to use. Its remote controlled I will open source the code once the robot is complete. If anybody has any queries do dm me\ud83d\ude42"
-    },
-    {
-      "title": "I\u2019m building a browser-based robotics playground (open source). You can test robots with zero setup.",
-      "author": "Silly_Asparagus_76",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcwp3c/im_building_a_browserbased_robotics_playground/",
-      "published": 1764742597.0,
-      "thumbnail": "https://external-preview.redd.it/OHRobHR2ZmtseDRnMVhn10-Nc1-9KriehFOzrubxZY11FK4j-7-Mf4lOMvGA.png?width=640&crop=smart&auto=webp&s=71a081a0112389c9327782bec9d6515fec72cadb",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019m making a small open-source robotics playground that runs in the browser. It started as a fun idea and somehow turned into a physics sandbox where you can drive robots without installing anything. I want to add a few more robot types, but I\u2019m not sure what would actually be fun or interesting to try. What robots should I add next? Just curious what people here would enjoy testing."
     },
     {
       "title": "It might be dumb, but I bought a welding robot for fun.",
@@ -112,5 +112,5 @@
       "description": "I've wanted to mess around with robotics for a loooong time, but it's not an easy sort of thing around here and small scale hobby stuff just doesn't seem that useful to me. Found a pretty good deal on this thing so I'll be diving in headfirst with minimal planning. My original plan was to look into making my own resolver to digital converters and motor drive solution, however, with the cost of RDC chips, it might actually be more feasible and affordable to try and find a used pendant, and work on putting the controls from the cabinet into something smaller, lighter and more reasonable. Time will tell, going to be a long and big project but that's what I've been craving."
     }
   ],
-  "fetched_at": "2025-12-04T02:51:44.850365+00:00"
+  "fetched_at": "2025-12-04T03:49:16.227225+00:00"
 }

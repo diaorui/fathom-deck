@@ -15,6 +15,16 @@
       "description": "At the center of the upgrade is PeerDAS, a system that lets validators check slices of data rather than entire \u201cblobs,\u201d reducing costs and computational load"
     },
     {
+      "headline": "Ethereum Is Jumping Today-Here's Why",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWGpldHgyMXZmeGkzdy1WTWtJZXNOQ3BCcjd4czFHMnhCcjNOeHpaLU5NczRXY3FSbng5QlE2OGZWejRGemI0T21tWjNTSnVyYl9ZbEtkMXBDM3pQNEtEUWNOLXcwNXJIS0tQaDNlRGx2QQ?oc=5",
+      "pub_date": 1764791640.0,
+      "article_url": "https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsEthereum receives a major update today that should improve its ability to scale."
+    },
+    {
       "headline": "Ethereum treasuries collapse 80% as the trade unwinds, Bitwise warns",
       "source": "dlnews.com",
       "source_url": "https://www.dlnews.com",
@@ -85,16 +95,6 @@
       "description": "Vanguard will allow trading of crypto-focused ETFs and mutual funds on its brokerage platform, ending years of resistance."
     },
     {
-      "headline": "While Ethereum whales rotate, XRP data shows a fatal concentration flaw that leaves one group holding the bag.",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQU1yWmF4R3ZRVEREbUpmMlNuSEl1YVFUa09RNmRQTnhOLUVUaE5oT2ZmNWo0TWN4VUJlTHdGWGdtZm1sLUtPVFc0MTZuZHJxeE50aTIwWVZFZFZ1UFBCRWJXUlhDUlFmMS1YZGdjdEM?oc=5",
-      "pub_date": 1764779700.0,
-      "article_url": "https://cryptoslate.com/ethereum-xrp-whales-concentration-risk/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2025/12/ethereum-xrp-whale.jpg",
-      "description": "We quantify how much old supply just moved and why now."
-    },
-    {
       "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
       "source": "New York Post",
       "source_url": "https://nypost.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T02:51:57.864531+00:00"
+  "fetched_at": "2025-12-04T03:49:29.484605+00:00"
 }

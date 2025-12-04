@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
-      "author": "businessinsider",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdb7ml/microsofts_reported_sales_struggles_are_a_warning/",
-      "published": 1764784378.0,
-      "thumbnail": "https://external-preview.redd.it/e0-HB8ToMX9nnFYcnGMYwtKYDJwlU0myzQ-_qvVPa-g.jpeg?width=640&crop=smart&auto=webp&s=b0bc391a52bd929bb1425bd7bccc7fd7a0d6b07b",
-      "external_url": "https://www.businessinsider.com/microsoft-stock-ai-sales-outlook-quota-msft-tech-stocks-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "A report from The Information that said Microsoft is struggling to sell some of its AI tools to customers sent the stock tumbling."
-    },
-    {
       "title": "Microsoft slashes AI sales growth targets as customers resist unproven agents",
       "author": "arstechnica",
       "url": "https://www.reddit.com/r/artificial/comments/1pdcr4z/microsoft_slashes_ai_sales_growth_targets_as/",
@@ -22,6 +11,17 @@
       "site_name": "Ars Technica",
       "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
       "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
+    },
+    {
+      "title": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
+      "author": "businessinsider",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdb7ml/microsofts_reported_sales_struggles_are_a_warning/",
+      "published": 1764784378.0,
+      "thumbnail": "https://external-preview.redd.it/e0-HB8ToMX9nnFYcnGMYwtKYDJwlU0myzQ-_qvVPa-g.jpeg?width=640&crop=smart&auto=webp&s=b0bc391a52bd929bb1425bd7bccc7fd7a0d6b07b",
+      "external_url": "https://www.businessinsider.com/microsoft-stock-ai-sales-outlook-quota-msft-tech-stocks-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "A report from The Information that said Microsoft is struggling to sell some of its AI tools to customers sent the stock tumbling."
     },
     {
       "title": "Bank of America predicts an 'air pocket,' not an AI bubble, fueled by mountains of debt piling up from the data center rush | Fortune",
@@ -79,6 +79,17 @@
       "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
     },
     {
+      "title": "An AI model trained on prison phone calls now looks for planned crimes in those calls",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdik70/an_ai_model_trained_on_prison_phone_calls_now/",
+      "published": 1764800793.0,
+      "thumbnail": "https://external-preview.redd.it/BXWRyR9F_5YIkrj6at4ENf1IN_XmeBJq7wsGLm7r0LY.jpeg?width=640&crop=smart&auto=webp&s=f5232398849b994e76b5e637793f39f5d49856db",
+      "external_url": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/",
+      "site_name": "MIT Technology Review",
+      "favicon": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+      "description": "The model is built to detect when crimes are being \u201ccontemplated.\u201d"
+    },
+    {
       "title": "What AI tools have quietly become part of your everyday routine?",
       "author": "messysoul96",
       "url": "https://www.reddit.com/r/artificial/comments/1pd7s7i/what_ai_tools_have_quietly_become_part_of_your/",
@@ -99,18 +110,7 @@
       "site_name": "videocardz.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "An AI model trained on prison phone calls now looks for planned crimes in those calls",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdik70/an_ai_model_trained_on_prison_phone_calls_now/",
-      "published": 1764800793.0,
-      "thumbnail": "https://external-preview.redd.it/BXWRyR9F_5YIkrj6at4ENf1IN_XmeBJq7wsGLm7r0LY.jpeg?width=640&crop=smart&auto=webp&s=f5232398849b994e76b5e637793f39f5d49856db",
-      "external_url": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/",
-      "site_name": "MIT Technology Review",
-      "favicon": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
-      "description": "The model is built to detect when crimes are being \u201ccontemplated.\u201d"
     }
   ],
-  "fetched_at": "2025-12-04T02:51:40.546861+00:00"
+  "fetched_at": "2025-12-04T03:49:12.424704+00:00"
 }

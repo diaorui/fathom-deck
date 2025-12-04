@@ -112,5 +112,5 @@
       "description": "It has seemed to me \"sharding\" often tends to split the consensus mechanism. The technicalities of it seem well thought out but not the consensus part. It seems like it often uses something like randomly delegating from the validator pool but this (even if random) splits the consensus. Another approach is to not split the consensus. Add an intermediary level, a \"validator manager\", and make this what is voted for with coin-vote (or people-vote). This \"validator manager\" (or maybe it could even be called \"government\") then delegates one block producer per shard. That way, each shard has the same majority consensus as any other. The \"threads\" of a sharded blockchain have the same consensus as a single-threaded blockchain would."
     }
   ],
-  "fetched_at": "2025-12-04T15:16:42.916852+00:00"
+  "fetched_at": "2025-12-04T15:56:31.150024+00:00"
 }

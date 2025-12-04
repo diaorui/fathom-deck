@@ -35,17 +35,6 @@
       "description": null
     },
     {
-      "title": "Waymo self-driving car enters active police standoff with passenger inside",
-      "author": "BuildwithVignesh",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcz5ba/waymo_selfdriving_car_enters_active_police/",
-      "published": 1764751715.0,
-      "thumbnail": "https://external-preview.redd.it/dGsxcHM0MXdjeTRnMQzCE-oKnmX0A0tzj78iO1FrgUK3uFro-tgp7j8i7UI-.png?width=640&crop=smart&auto=webp&s=6c04322bd908a9bd161244d22c7a57aae89950a5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
-    },
-    {
       "title": "Pi0 worked for a entire day",
       "author": "drgoldenpants",
       "url": "https://www.reddit.com/r/robotics/comments/1pdjp2c/pi0_worked_for_a_entire_day/",
@@ -57,26 +46,15 @@
       "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
     },
     {
-      "title": "List of Robotics Companies That Closed in 2025?",
-      "author": "Stowie1022",
-      "url": "https://www.reddit.com/r/robotics/comments/1pe1gnd/list_of_robotics_companies_that_closed_in_2025/",
-      "published": 1764858674.0,
-      "thumbnail": null,
+      "title": "Waymo self-driving car enters active police standoff with passenger inside",
+      "author": "BuildwithVignesh",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcz5ba/waymo_selfdriving_car_enters_active_police/",
+      "published": 1764751715.0,
+      "thumbnail": "https://external-preview.redd.it/dGsxcHM0MXdjeTRnMQzCE-oKnmX0A0tzj78iO1FrgUK3uFro-tgp7j8i7UI-.png?width=640&crop=smart&auto=webp&s=6c04322bd908a9bd161244d22c7a57aae89950a5",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Anybody keeping track of robotics companies that closed in 2025? Here's what I got so far: Guardian Agriculture AWS RoboMaker Rethink Robotics Aldebaran (IP acquired) Attabotics (IP acquired) K-Scale Labs Shape Robotics"
-    },
-    {
-      "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/",
-      "published": 1764764059.0,
-      "thumbnail": "https://external-preview.redd.it/bWR1Y2UxZ2FjejRnMehQ1aaS4XjeqQ-tkOafX_QGfxfKAAmw--YdRyc3L3ph.png?width=640&crop=smart&auto=webp&s=c1a08a56d08595a514bbc79301ded1792a6c73d9",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Website: https://gitai.tech/ On \ud835\udd4f: https://x.com/GITAI_HQ"
+      "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
     },
     {
       "title": "accidentally built a web robotics simulator pizza delivery game inside lamo",
@@ -90,6 +68,17 @@
       "description": "I\u2019m building an open\u2011source, web based simulator, and as a quick platform test I put together a simple pizza delivery game! Under the hood it runs browser\u2011side physics, basic path planning, and sensor mocking, so it\u2019s easy to extend into robot tasks. What do you think? !!!"
     },
     {
+      "title": "List of Robotics Companies That Closed in 2025?",
+      "author": "Stowie1022",
+      "url": "https://www.reddit.com/r/robotics/comments/1pe1gnd/list_of_robotics_companies_that_closed_in_2025/",
+      "published": 1764858674.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Anybody keeping track of robotics companies that closed in 2025? Here's what I got so far: Guardian Agriculture AWS RoboMaker Rethink Robotics Aldebaran (IP acquired) Attabotics (IP acquired) K-Scale Labs Shape Robotics"
+    },
+    {
       "title": "Robot Arm Item-Picking Demo in a Simulated Supermarket Scene",
       "author": "Individual-Major-309",
       "url": "https://www.reddit.com/r/robotics/comments/1pdwivk/robot_arm_itempicking_demo_in_a_simulated/",
@@ -99,6 +88,17 @@
       "site_name": null,
       "favicon": null,
       "description": "A short demo of an item-picking sequence inside a supermarket-style simulation environment. The robot\u2019s navigation in this clip is teleoperated (not autonomous), and the goal is mainly to show how the pick action and scene interactions behave under the current physics setup. For anyone working with manipulation or sim-based workflows, feedback is welcome on aspects such as: motion quality or controller behavior, grasp sequence setup, physics consistency, scene design considerations for similar tasks. Interested in hearing how others approach supermarket-style manipulation tasks in simulation. BGM: Zatplast"
+    },
+    {
+      "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/",
+      "published": 1764764059.0,
+      "thumbnail": "https://external-preview.redd.it/bWR1Y2UxZ2FjejRnMehQ1aaS4XjeqQ-tkOafX_QGfxfKAAmw--YdRyc3L3ph.png?width=640&crop=smart&auto=webp&s=c1a08a56d08595a514bbc79301ded1792a6c73d9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Website: https://gitai.tech/ On \ud835\udd4f: https://x.com/GITAI_HQ"
     },
     {
       "title": "Industrial arms for configurable applications",
@@ -112,5 +112,5 @@
       "description": "Hi all, Looking for suggestions for an application where I need to send commands to the arm via some field bus (preferably EtherCAT). Ideally I want to send start positions, end positions, velocity abd move style (moveJ, MoveL) and have the robot do the rest. This would be mixed with pre established routines on the robot which would also be called via field bus. Any experience with similar applications? Any recommendations on brands to go with or to stay away from? We would not need a cobot for this application, just a standard 6 axis arm. Thanks!"
     }
   ],
-  "fetched_at": "2025-12-04T15:16:44.356339+00:00"
+  "fetched_at": "2025-12-04T15:56:32.605465+00:00"
 }

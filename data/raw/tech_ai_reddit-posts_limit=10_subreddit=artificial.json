@@ -46,15 +46,15 @@
       "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
     },
     {
-      "title": "Micron stops selling memory to consumers as demand spikes from AI chips",
-      "author": "Doug24",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdepwf/micron_stops_selling_memory_to_consumers_as/",
-      "published": 1764791949.0,
-      "thumbnail": "https://external-preview.redd.it/Dj9L9kIE7NpZO87ZBMIM5WS4PpRvjexmnyoRgEndSgE.jpeg?width=640&crop=smart&auto=webp&s=9ed03c1500a378f90129410c96a54cab0648c081",
-      "external_url": "https://www.cnbc.com/2025/12/03/micron-stops-selling-memory-to-consumers-demand-spikes-from-ai-chips.html",
-      "site_name": "CNBC",
-      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
-      "description": "Demand driven by the AI infrastructure boom is creating shortages for certain products like memory."
+      "title": "\"Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have.\" -Bernie Sanders",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/",
+      "published": 1764863192.0,
+      "thumbnail": "https://external-preview.redd.it/ajQ1djVmdGNrNzVnMS4wHavFcD04_Fo8pEITu-NLXvUDDhlCWUlUtaGpwxPY.png?width=640&crop=smart&auto=webp&s=c781b57ddf360ddd59e94e68ae8a3dd3a0f9529a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
@@ -68,15 +68,15 @@
       "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
     },
     {
-      "title": "OpenAI loses fight to keep ChatGPT logs secret in copyright case",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdxw5b/openai_loses_fight_to_keep_chatgpt_logs_secret_in/",
-      "published": 1764848537.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/legal/government/openai-loses-fight-keep-chatgpt-logs-secret-copyright-case-2025-12-03/",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": "AI stole all contents and code written by humans."
+      "title": "Micron stops selling memory to consumers as demand spikes from AI chips",
+      "author": "Doug24",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdepwf/micron_stops_selling_memory_to_consumers_as/",
+      "published": 1764791949.0,
+      "thumbnail": "https://external-preview.redd.it/Dj9L9kIE7NpZO87ZBMIM5WS4PpRvjexmnyoRgEndSgE.jpeg?width=640&crop=smart&auto=webp&s=9ed03c1500a378f90129410c96a54cab0648c081",
+      "external_url": "https://www.cnbc.com/2025/12/03/micron-stops-selling-memory-to-consumers-demand-spikes-from-ai-chips.html",
+      "site_name": "CNBC",
+      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
+      "description": "Demand driven by the AI infrastructure boom is creating shortages for certain products like memory."
     },
     {
       "title": "Grok is down today",
@@ -112,5 +112,5 @@
       "description": "Full interview with Stability AI founder Emad Mostaque."
     }
   ],
-  "fetched_at": "2025-12-04T15:16:39.815954+00:00"
+  "fetched_at": "2025-12-04T15:56:28.255905+00:00"
 }

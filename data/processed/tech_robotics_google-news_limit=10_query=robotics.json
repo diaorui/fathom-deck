@@ -25,14 +25,14 @@
       "description": "iRobot (IRBT) stock surged 31% amid White House robotics support, but volatility remains high."
     },
     {
-      "headline": "The rise of humanoid robots threatens political disruption",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IRDNGdy02X0o2OS13Y1R4MVhrMVlaWHlmbld3NzZKVnZXS3JGQVRGQ2kxSFNRT1BLc0VJaFRRRmJfZThfVnhENkR2WUc4czlpLUJHRlZWa1M3dF95c3RIbWh3QlRHRmw2MnVGVVM1RFU?oc=5",
-      "pub_date": 1764824429.0,
-      "article_url": "https://www.ft.com/content/39c06adf-1895-426e-8648-727844fc91a4",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F43fd309f-cd30-4855-864e-449ee41abe1f.jpg?source=next-barrier-page",
-      "description": "Our delighted faith in the automatons raises the question of how they will integrate into human society"
+      "headline": "MIT\u2019s AI Robotics Lab Director Is Building People-Centered Robots",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94N21yTl9hVXJGYjlVWkQtbHdHYThTTnBaUDV2Tkc4RzBDdUIya042LVNnbWZfWTZ4ZnFMejI1bU9SWW1EdE90Wmc1WW8wbFdTbjdSdzB4X1ZWekowWTNRR25HY0l1UdIBekFVX3lxTE92OTRqLWtobU1EYU9YaFRoSmhvdzNXS3ZULXE2VUNzVW5LRlNjbnNCWjI5MU9DLWZjYkEyZDg5dkM4TUYzdWdId2lQcjgya2Y0S3NKUWlkZ1pKVTFpZDlqeGMzMVpyMTgtdXR4ck9SeXVsOTAtOWRGMEl3?oc=5",
+      "pub_date": 1764662400.0,
+      "article_url": "https://spectrum.ieee.org/mits-ai-robotics-lab-director",
+      "image": "https://spectrum.ieee.org/media-library/portrait-of-daniela-rus.jpg?id=62267674&width=1200&height=600&coordinates=0%2C228%2C0%2C228",
+      "description": "From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?"
     },
     {
       "headline": "After AI push, Trump administration is now looking to robots",
@@ -85,16 +85,6 @@
       "description": "Malaysia\u2019s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace."
     },
     {
-      "headline": "Micropolis AI Robotics (NYSE: MCRP) inks Saudi LOI, eyes up to 500 robots over two years",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSllSX1Rqak1nd3FZT0xuMHlsRDI2TzlsT0podzAySmp2UkZ1ZGVIdVkzaFJuYWc0WUYzM1NCSV9EbUt5SnBMQ3dhYkxfM0tPZWZod0xoaFh1TnVaM1dLMzFkNi11d1VuUzVjQTVOanBqbGRBRHRfSlJZMlgtNWJBa3dVT1FZVXlCWGJUQUxycmtrNDRiS0xsNUVhRUJEejV4WW5Qa1dFOG9nbkhBYUNDTkN6YXExbDhRTXJB?oc=5",
-      "pub_date": 1764766800.0,
-      "article_url": "https://www.stocktitan.net/news/MCRP/micropolis-ai-robotics-and-qss-robotics-sign-letter-of-intent-to-fzpc0oc60asv.html",
-      "image": "https://www.stocktitan.net/news_covers/Micropolis_AI_Robotics_and_QSS_Robotics_Sign_Letter_of_Intent_to_Procure_500_Robots_and_Expand_Auton_943263.png",
-      "description": "Micropolis AI Robotics signs a Saudi LOI with QSS Robotics, planning pilots with the Ministry of Interior and ARAMCO starting December 20, 2025."
-    },
-    {
       "headline": "Tesla stock rises after Trump administration signals robotics push",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.investing.com/news/stock-market-news/tesla-stock-rises-after-trump-administration-signals-robotics-push-4388466",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Micropolis AI Robotics (NYSE: MCRP) inks Saudi LOI, eyes up to 500 robots over two years",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSllSX1Rqak1nd3FZT0xuMHlsRDI2TzlsT0podzAySmp2UkZ1ZGVIdVkzaFJuYWc0WUYzM1NCSV9EbUt5SnBMQ3dhYkxfM0tPZWZod0xoaFh1TnVaM1dLMzFkNi11d1VuUzVjQTVOanBqbGRBRHRfSlJZMlgtNWJBa3dVT1FZVXlCWGJUQUxycmtrNDRiS0xsNUVhRUJEejV4WW5Qa1dFOG9nbkhBYUNDTkN6YXExbDhRTXJB?oc=5",
+      "pub_date": 1764766800.0,
+      "article_url": "https://www.stocktitan.net/news/MCRP/micropolis-ai-robotics-and-qss-robotics-sign-letter-of-intent-to-fzpc0oc60asv.html",
+      "image": "https://www.stocktitan.net/news_covers/Micropolis_AI_Robotics_and_QSS_Robotics_Sign_Letter_of_Intent_to_Procure_500_Robots_and_Expand_Auton_943263.png",
+      "description": "Micropolis AI Robotics signs a Saudi LOI with QSS Robotics, planning pilots with the Ministry of Interior and ARAMCO starting December 20, 2025."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T05:30:50.539615+00:00"
+  "fetched_at": "2025-12-04T06:42:42.535478+00:00"
 }

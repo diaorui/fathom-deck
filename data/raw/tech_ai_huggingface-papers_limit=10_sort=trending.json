@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 125,
+      "upvotes": 126,
       "num_comments": 2,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
@@ -115,25 +115,6 @@
       "project_page": null
     },
     {
-      "id": "2511.20462",
-      "title": "STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flow",
-      "authors": "Jiatao Gu, Ying Shen, Tianrong Chen et al. (9 authors)",
-      "organization_name": "apple",
-      "organization_fullname": "Apple",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1653390727490-5dd96eb166059660ed1ee413.jpeg",
-      "summary": "Normalizing flows (NFs) are end-to-end likelihood-based generative models for continuous data, and have recently regained attention with encouraging progress on image generation. Yet in the video generation domain, where spatiotemporal complexity and computational cost are substantially higher, state-of-the-art systems almost exclusively rely on diffusion-based models. In this work, we revisit this design space by presenting STARFlow-V, a normalizing flow-based video generator with substantial benefits such as end-to-end learning, robust causal prediction, and native likelihood estimation. Building upon the recently proposed STARFlow, STARFlow-V operates in the spatiotemporal latent space with a global-local architecture which restricts causal dependencies to a global latent space while preserving rich local within-frame interactions. This eases error accumulation over time, a common pitfall of standard autoregressive diffusion model generation. Additionally, we propose flow-score matching, which equips the model with a light-weight causal denoiser to improve the video generation consistency in an autoregressive fashion. To improve the sampling efficiency, STARFlow-V employs a video-aware Jacobi iteration scheme that recasts inner updates as parallelizable iterations without breaking causality. Thanks to the invertible structure, the same model can natively support text-to-video, image-to-video as well as video-to-video generation tasks. Empirically, STARFlow-V achieves strong visual fidelity and temporal consistency with practical sampling throughput relative to diffusion-based baselines. These results present the first evidence, to our knowledge, that NFs are capable of high-quality autoregressive video generation, establishing them as a promising research direction for building world models. Code and generated samples are available at https://github.com/apple/ml-starflow.",
-      "ai_summary": "STARFlow-V, a normalizing flow-based video generator, offers end-to-end learning, robust causal prediction, and high-quality video generation with practical sampling efficiency.",
-      "hf_url": "https://huggingface.co/papers/2511.20462",
-      "arxiv_url": "https://arxiv.org/abs/2511.20462",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.20462.png",
-      "upvotes": 29,
-      "num_comments": 2,
-      "published_at": "2025-11-25T11:27:58.000Z",
-      "github_repo": "https://github.com/apple/ml-starflow",
-      "github_stars": 323,
-      "project_page": "https://starflow-v.github.io"
-    },
-    {
       "id": "2511.16624",
       "title": "SAM 3D: 3Dfy Anything in Images",
       "authors": "SAM 3D Team, Xingyu Chen, Fu-Jen Chu et al. (23 authors)",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "github_stars": 17176,
       "project_page": "https://fapo-rl.github.io/"
+    },
+    {
+      "id": "2511.20462",
+      "title": "STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flow",
+      "authors": "Jiatao Gu, Ying Shen, Tianrong Chen et al. (9 authors)",
+      "organization_name": "apple",
+      "organization_fullname": "Apple",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1653390727490-5dd96eb166059660ed1ee413.jpeg",
+      "summary": "Normalizing flows (NFs) are end-to-end likelihood-based generative models for continuous data, and have recently regained attention with encouraging progress on image generation. Yet in the video generation domain, where spatiotemporal complexity and computational cost are substantially higher, state-of-the-art systems almost exclusively rely on diffusion-based models. In this work, we revisit this design space by presenting STARFlow-V, a normalizing flow-based video generator with substantial benefits such as end-to-end learning, robust causal prediction, and native likelihood estimation. Building upon the recently proposed STARFlow, STARFlow-V operates in the spatiotemporal latent space with a global-local architecture which restricts causal dependencies to a global latent space while preserving rich local within-frame interactions. This eases error accumulation over time, a common pitfall of standard autoregressive diffusion model generation. Additionally, we propose flow-score matching, which equips the model with a light-weight causal denoiser to improve the video generation consistency in an autoregressive fashion. To improve the sampling efficiency, STARFlow-V employs a video-aware Jacobi iteration scheme that recasts inner updates as parallelizable iterations without breaking causality. Thanks to the invertible structure, the same model can natively support text-to-video, image-to-video as well as video-to-video generation tasks. Empirically, STARFlow-V achieves strong visual fidelity and temporal consistency with practical sampling throughput relative to diffusion-based baselines. These results present the first evidence, to our knowledge, that NFs are capable of high-quality autoregressive video generation, establishing them as a promising research direction for building world models. Code and generated samples are available at https://github.com/apple/ml-starflow.",
+      "ai_summary": "STARFlow-V, a normalizing flow-based video generator, offers end-to-end learning, robust causal prediction, and high-quality video generation with practical sampling efficiency.",
+      "hf_url": "https://huggingface.co/papers/2511.20462",
+      "arxiv_url": "https://arxiv.org/abs/2511.20462",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.20462.png",
+      "upvotes": 29,
+      "num_comments": 2,
+      "published_at": "2025-11-25T11:27:58.000Z",
+      "github_repo": "https://github.com/apple/ml-starflow",
+      "github_stars": 335,
+      "project_page": "https://starflow-v.github.io"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-04T05:30:30.640769+00:00"
+  "fetched_at": "2025-12-04T06:42:24.325916+00:00"
 }

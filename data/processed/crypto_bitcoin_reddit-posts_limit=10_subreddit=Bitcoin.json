@@ -2,6 +2,17 @@
   "subreddit": "Bitcoin",
   "posts": [
     {
+      "title": "Oh Franklin",
+      "author": "CrosstrekTrail",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdo8kv/oh_franklin/",
+      "published": 1764815639.0,
+      "thumbnail": "https://preview.redd.it/b0xrw19zm35g1.jpeg?width=640&crop=smart&auto=webp&s=228bd5a23e6669c40f63ee2ce792488905aaf32b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "What do you think?",
       "author": "No-Focus-1429",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pdjkx6/what_do_you_think/",
@@ -18,17 +29,6 @@
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pdf762/a_year_of_dcaing/",
       "published": 1764793014.0,
       "thumbnail": "https://preview.redd.it/400rmo9pr15g1.jpeg?width=640&crop=smart&auto=webp&s=15231701998ce483cfc6d4d11f8060d9484e8331",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Oh Franklin",
-      "author": "CrosstrekTrail",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdo8kv/oh_franklin/",
-      "published": 1764815639.0,
-      "thumbnail": "https://preview.redd.it/b0xrw19zm35g1.jpeg?width=640&crop=smart&auto=webp&s=228bd5a23e6669c40f63ee2ce792488905aaf32b",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -57,17 +57,6 @@
       "description": null
     },
     {
-      "title": "Don\u2019t take your eye off the ball!",
-      "author": "Leading_Confection32",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pd2nj0/dont_take_your_eye_off_the_ball/",
-      "published": 1764764338.0,
-      "thumbnail": "https://preview.redd.it/xqb0umpfez4g1.jpeg?width=640&crop=smart&auto=webp&s=9a25551835541cf3303147c0809defbbe666d4c1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "What will the next be?",
       "author": "MrMBTC",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pdiv3j/what_will_the_next_be/",
@@ -79,26 +68,26 @@
       "description": "2025: \u201cBuying 0.10 BTC for $9,000 won\u2019t change your life.\u201d (BTC \u2248 $90,000) 2022: \u201cBuying 0.45 BTC for $9,000 won\u2019t change your life.\u201d (BTC \u2248 $20,000) 2018: \u201cBuying 1.22 BTC for $9,000 won\u2019t change your life.\u201d (BTC \u2248 $7,400) 2016: \u201cBuying 9.37 BTC for $9,000 won\u2019t change your life.\u201d (BTC \u2248 $960) 2013: \u201cBuying 35.29 BTC for $9,000 won\u2019t change your life.\u201d (BTC \u2248 $255) 2011: \u201cBuying 2,000 BTC for $9,000 won\u2019t change your life.\u201d (BTC \u2248 $4.50) True story."
     },
     {
-      "title": "Your choice.",
-      "author": "MrMBTC",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pd4mzj/your_choice/",
-      "published": 1764769713.0,
-      "thumbnail": "https://preview.redd.it/rmkqbczeuz4g1.jpeg?width=640&crop=smart&auto=webp&s=a31c1bf3c826b286afd94c6581eedf776042b86d",
+      "title": "Don\u2019t take your eye off the ball!",
+      "author": "Leading_Confection32",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pd2nj0/dont_take_your_eye_off_the_ball/",
+      "published": 1764764338.0,
+      "thumbnail": "https://preview.redd.it/xqb0umpfez4g1.jpeg?width=640&crop=smart&auto=webp&s=9a25551835541cf3303147c0809defbbe666d4c1",
       "external_url": null,
       "site_name": null,
       "favicon": null,
       "description": null
     },
     {
-      "title": "Yep...this says it all!!!",
-      "author": "tdubz22",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdlz58/yepthis_says_it_all/",
-      "published": 1764809403.0,
-      "thumbnail": "https://preview.redd.it/hbutx2qf435g1.gif?width=320&crop=smart&s=f5b40c87b96608aa26775205bbdf4c478906a848",
+      "title": "300 years from now wouldn't 90% of Bitcoins eventually end up being permanently lost?",
+      "author": "GodblessBTC",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdsa0w/300_years_from_now_wouldnt_90_of_bitcoins/",
+      "published": 1764827664.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "It's basic math. Every year thousands of bitcoins are sent to the wrong addresses, owners with cold wallets die, and private keys are lost forever. Right now over 4 million bitcoins are estimated to be lost forever and every year that number rises. So eventually say 300-400 years from now if 90% of Bitcoins end up being permanently lost what happens to the network security if so little transactions are being performed? Wouldn't this decrease the hash rate by A LOT since miners wouldn't make a lot of money from transaction fees?"
     },
     {
       "title": "Paying off my credit card debt",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "Should have done this a long time ago\u2026 finally pulling out some BTC to pay off my credit card debt. Been paying interest, stupidly, for too long. Just wanted to let everyone know because now that I finally did it the price will probably go up tomorrow. Feels good to be debt free though! Cheers"
+    },
+    {
+      "title": "Yep...this says it all!!!",
+      "author": "tdubz22",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdlz58/yepthis_says_it_all/",
+      "published": 1764809403.0,
+      "thumbnail": "https://preview.redd.it/hbutx2qf435g1.gif?width=320&crop=smart&s=f5b40c87b96608aa26775205bbdf4c478906a848",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     }
   ],
-  "fetched_at": "2025-12-04T05:30:31.129724+00:00"
+  "fetched_at": "2025-12-04T06:42:24.958120+00:00"
 }

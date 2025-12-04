@@ -68,6 +68,17 @@
       "description": null
     },
     {
+      "title": "Built a small conversational AI experiment\u2026.unexpected user responses",
+      "author": "One-Ice7086",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdt3gj/built_a_small_conversational_ai/",
+      "published": 1764830472.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I made a simple conversational AI to test dialogue handling and shared it with a few people. What surprised me is how quickly they started having long, emotionally heavy conversations with it instead of just testing features. Is this kind of high-emotion engagement common with conversational agents? Curious if others building dialog systems have seen the same pattern."
+    },
+    {
       "title": "ChatGPT is down worldwide, conversations disappeared for users",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pd1jll/chatgpt_is_down_worldwide_conversations/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I pay for ChatGPT Plus and asked it about Windows BitLocker. It showed me an ad to shop at Target. This is how you lose users. ChatGPT response (excerpt) ChatGPT 5.1 Thinking You can: \u2022 Try to enable Core isolation / Memory integrity for extra protection. \u2022 Improve firmware settings (Secure Boot, UEFI, virtualization) so Windows stops saying \u201cStandard hardware security not supported.\u201d For actual drive encryption: \u2022 Look in Settings \u2192 Privacy & security \u2192 Device encryption. \u2022 If it\u2019s there, use it. \u2022 If not, your realistic options are upgrade to Pro (BitLocker) or use VeraCrypt/other third-party encryption. If you want, tell me your laptop model and I can suggest what to flip in BIOS and what\u2019s realistically possible (e.g., whether Modern Standby / Device Encryption is likely supported). Shop for home and groceries \u2014 Connect Target By BenjaminDEKR"
-    },
-    {
-      "title": "An AI model trained on prison phone calls now looks for planned crimes in those calls",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdik70/an_ai_model_trained_on_prison_phone_calls_now/",
-      "published": 1764800793.0,
-      "thumbnail": "https://external-preview.redd.it/BXWRyR9F_5YIkrj6at4ENf1IN_XmeBJq7wsGLm7r0LY.jpeg?width=640&crop=smart&auto=webp&s=f5232398849b994e76b5e637793f39f5d49856db",
-      "external_url": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/",
-      "site_name": "MIT Technology Review",
-      "favicon": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
-      "description": "The model is built to detect when crimes are being \u201ccontemplated.\u201d"
     }
   ],
-  "fetched_at": "2025-12-04T05:30:29.865251+00:00"
+  "fetched_at": "2025-12-04T06:42:23.533374+00:00"
 }

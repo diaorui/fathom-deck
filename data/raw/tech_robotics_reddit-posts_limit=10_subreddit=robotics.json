@@ -24,17 +24,6 @@
       "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
     },
     {
-      "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/",
-      "published": 1764764059.0,
-      "thumbnail": "https://external-preview.redd.it/bWR1Y2UxZ2FjejRnMehQ1aaS4XjeqQ-tkOafX_QGfxfKAAmw--YdRyc3L3ph.png?width=640&crop=smart&auto=webp&s=c1a08a56d08595a514bbc79301ded1792a6c73d9",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Website: https://gitai.tech/ On \ud835\udd4f: https://x.com/GITAI_HQ"
-    },
-    {
       "title": "Pi0 worked for a entire day",
       "author": "drgoldenpants",
       "url": "https://www.reddit.com/r/robotics/comments/1pdjp2c/pi0_worked_for_a_entire_day/",
@@ -44,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
+    },
+    {
+      "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/",
+      "published": 1764764059.0,
+      "thumbnail": "https://external-preview.redd.it/bWR1Y2UxZ2FjejRnMehQ1aaS4XjeqQ-tkOafX_QGfxfKAAmw--YdRyc3L3ph.png?width=640&crop=smart&auto=webp&s=c1a08a56d08595a514bbc79301ded1792a6c73d9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Website: https://gitai.tech/ On \ud835\udd4f: https://x.com/GITAI_HQ"
     },
     {
       "title": "accidentally built a web robotics simulator pizza delivery game inside lamo",
@@ -112,5 +112,5 @@
       "description": "I've wanted to mess around with robotics for a loooong time, but it's not an easy sort of thing around here and small scale hobby stuff just doesn't seem that useful to me. Found a pretty good deal on this thing so I'll be diving in headfirst with minimal planning. My original plan was to look into making my own resolver to digital converters and motor drive solution, however, with the cost of RDC chips, it might actually be more feasible and affordable to try and find a used pendant, and work on putting the controls from the cabinet into something smaller, lighter and more reasonable. Time will tell, going to be a long and big project but that's what I've been craving."
     }
   ],
-  "fetched_at": "2025-12-04T05:30:33.721646+00:00"
+  "fetched_at": "2025-12-04T06:42:28.080035+00:00"
 }

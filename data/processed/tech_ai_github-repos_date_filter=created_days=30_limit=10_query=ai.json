@@ -8,7 +8,7 @@
       "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
       "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
       "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
-      "stars": 4938,
+      "stars": 4939,
       "stars_display": "4.9k",
       "forks": 380,
       "forks_display": "380",
@@ -66,8 +66,8 @@
       "description": "AI-powered git commit message rewriter using Ollama or GPT",
       "url": "https://github.com/f/git-rewrite-commits",
       "preview_image": "https://opengraph.githubassets.com/c6b09847c72773387ee5104f29860f48c86cb236c664f2498a9824bd0f2f1b88/f/git-rewrite-commits",
-      "stars": 986,
-      "stars_display": "986",
+      "stars": 987,
+      "stars_display": "987",
       "forks": 44,
       "forks_display": "44",
       "language": "TypeScript",
@@ -91,7 +91,7 @@
       "forks_display": "27",
       "language": "Go",
       "topics": [],
-      "updated_at": "2025-12-04T19:39:47Z"
+      "updated_at": "2025-12-04T22:45:25Z"
     },
     {
       "full_name": "Ryandonofrio3/osgrep",
@@ -101,8 +101,8 @@
       "description": "Open Source Semantic Search for your AI Agent",
       "url": "https://github.com/Ryandonofrio3/osgrep",
       "preview_image": "https://opengraph.githubassets.com/d6f904bedb3bcbfddcb55a5ebb459b30a448d7a9be6f868c8f862737aa9dd35f/Ryandonofrio3/osgrep",
-      "stars": 814,
-      "stars_display": "814",
+      "stars": 815,
+      "stars_display": "815",
       "forks": 41,
       "forks_display": "41",
       "language": "TypeScript",
@@ -128,7 +128,7 @@
       "forks_display": "102",
       "language": "JavaScript",
       "topics": [],
-      "updated_at": "2025-12-02T06:34:29Z"
+      "updated_at": "2025-12-04T23:12:54Z"
     },
     {
       "full_name": "AnandChowdhary/continuous-claude",
@@ -160,8 +160,8 @@
       "description": "\ud83d\udc68\u200d\ud83c\udfeb ChatTutor: Visual and Interactive AI Tutor",
       "url": "https://github.com/HugeCatLab/ChatTutor",
       "preview_image": "https://opengraph.githubassets.com/e9157eb46672c03098222d401312ad77657411f4732f5747fb498b7aa7385f79/HugeCatLab/ChatTutor",
-      "stars": 745,
-      "stars_display": "745",
+      "stars": 746,
+      "stars_display": "746",
       "forks": 95,
       "forks_display": "95",
       "language": "TypeScript",
@@ -200,6 +200,6 @@
   "search_query": "ai created:>2025-11-04",
   "days": 30,
   "limit": 10,
-  "total_count": 221862,
-  "fetched_at": "2025-12-04T22:33:13.935555+00:00"
+  "total_count": 222046,
+  "fetched_at": "2025-12-04T23:41:49.510331+00:00"
 }

@@ -5,20 +5,6 @@
   "days": 7,
   "posts": [
     {
-      "title": "OSMU Community member posts proof that certain Bitcoin mining pools are fugazi",
-      "url": "https://github.com/mweinberg/stratum-speed-test/tree/main/findings",
-      "hn_url": "https://news.ycombinator.com/item?id=46064373",
-      "author": "metaprinter",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2025-11-27T01:21:14Z",
-      "object_id": "46064373",
-      "image": "https://opengraph.githubassets.com/02cabf1417d119fde2cad2c671b06331f99ca5f47380cd0173411fa1059660ce/mweinberg/stratum-speed-test",
-      "description": "A simple script to test latency and stratum handshake speed to Bitcoin mining pool stratum servers. - mweinberg/stratum-speed-test",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "Bitcoin's Sky-High Prices Have Not Panned Out",
       "url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
       "hn_url": "https://news.ycombinator.com/item?id=46132636",
@@ -131,7 +117,7 @@
       "site_name": "Bitmovin"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2025-12-04T00:58:44.592389+00:00"
+  "fetched_at": "2025-12-04T02:51:41.592053+00:00"
 }

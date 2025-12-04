@@ -5,36 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjhSWDVTUWthWXhtQnV2WVA3eXB6UmhqNmdJUG5pa0hQN3Rod2hQN3c3dHNFdTBSSTdIdnJnY29oa1NYbjdVOVM2alpTVWpfSVk1ZkZNWFh4VlByVHJVUTVLWEZ0ZHdDaUxPVFJ3bUJrRFhCblJrRWluSkUwWHN5Z0tqVkdHX0VvTmlUSGlneFY0N09sUHFvSEhWbDZldy1RUTZj?oc=5",
-      "pub_date": 1764600720.0,
-      "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
-      "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP Spike a Day After Mass Sell-off",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaS1ZrWm1wSUZwWHpVdHo2QklTcGswUTNjX3VnVUExXy1xN1U4TUFFZXJha2FsNWhjZ0lhbkxLbnV6Q3YyYUFieFFtMVh2cmZqSVNwRFZUY1Izd1lkeUVtalNrTDRfSURGeUhOZDYxQTQyNmpoVjg0RzJ30gGCAUFVX3lxTFBsYURSYzdQSnd6eUFfQUc5SlA0YXBMemFndld0TlROSHFhY0l4bUJsbkNURVZPWXJOWVZpTEZ6RlF1dFhSNUFNS1dLS2pyTkFQOVhrZ3hKdFp2TS1Malc1dFZSTkctTlFCNzQ4NHFmVU5VNEdEcTNQdElwRmFjWWF2V3c?oc=5",
-      "pub_date": 1764693776.0,
-      "article_url": "https://decrypt.co/350651/bitcoin-ethereum-xrp-spike-day-mass-sell-off",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
-      "description": "Bitcoin rebounds above $90,000 with a 6.7% gain as crypto markets rally. ETH tops $3K, XRP surges while analysts eye Fed's upcoming decision."
-    },
-    {
-      "headline": "Bitcoin logs its worst day since March",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
-      "pub_date": 1764574221.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
-    },
-    {
       "headline": "Ethereum Activates Fusaka Upgrade, Aiming to Cut Node Costs, Speed Layer-2 Settlements",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -43,16 +13,6 @@
       "article_url": "https://www.coindesk.com/tech/2025/12/03/ethereum-activates-fusaka-upgrade-aiming-to-cut-node-costs-speed-layer-2-settlements",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7dd683e48326c2ace004e4e6c4b4f6ff6c84c77-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
       "description": "At the center of the upgrade is PeerDAS, a system that lets validators check slices of data rather than entire \u201cblobs,\u201d reducing costs and computational load"
-    },
-    {
-      "headline": "Ethereum Fusaka upgrade goes live, bringing eightfold increase in \u2018blob\u2019 capacity",
-      "source": "Currently.com",
-      "source_url": "https://currently.att.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcndRUFViUU5HOXVTaXhEdkk1Qm95YXhDX3RvOWxzZ2J1Q1lfdm14Nnl5M2JoUFpTc3hLUGx0Q2hvUHNUTFp5cmNIMXd3TVhid2d0WGd5OW16cFk2UUp3ZFdsS29ZU3pZaHV6MnJSbmEtN1JSS05zZzlKQURKZXZZZzk1dF9BNmpCd1pWMQ?oc=5",
-      "pub_date": 1764799828.0,
-      "article_url": "https://currently.att.yahoo.com/att/ethereum-fusaka-upgrade-goes-live-221028219.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/R14fJPTZiFB6v09Km8pDxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU7Y2Y9d2VicA--/https://media.zenfs.com/en/dlnews_702/63f10311378f09e544c79cb0c713d018",
-      "description": "Ethereum underwent its second major upgrade of the year on Wednesday. The upgrade, Fusaka, further reduces the cost of transactions on layer 2 blockchains. A minor upgrade will follow on December 9."
     },
     {
       "headline": "Ethereum treasuries collapse 80% as the trade unwinds, Bitwise warns",
@@ -75,11 +35,21 @@
       "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
     },
     {
+      "headline": "Bitcoin logs its worst day since March",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
+      "pub_date": 1764574221.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
+    },
+    {
       "headline": "Ethereum Whale Buying Steps Up as Market Rebounds From Heavy Liquidations",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHg0YTBhdy1wSmNGMlMxdmpjYTVXZFgxT0dabzZNWE42T0dlRmxUcEhwNnVLNzM4VmhyN1J5cTduNUdmQ2M2cldmVDd1bTVCZDVibUE5aVMxcWVrcGNTVWhNMFAtdTc3Yk9ucnVzYzlRODBybFRhMlV5Y2dZUDlZaUJoekJyd0JudG1wSHhHVnpoMWRo0gGcAUFVX3lxTE5DV0M5SnRNYmF3bjJqdlFoZERCczRkRlJVQ1FWcnh3WkNWTWVXS1R1UUhuUktYTUtFMDNjVXdLU3VhMGdsRFhOQUJ5dnJVUWZ0bHlaTmVzdUs4TDdIMEh1QnFrbkd2SjdiUzRCcFVhVzk1WU9JcXBZYXV2RHd4NUVHclZqUV8wRnJjc0hic055ZVpRNzZoMk1qb1hlbw?oc=5",
-      "pub_date": 1764791771.0,
+      "pub_date": 1764802623.0,
       "article_url": "https://decrypt.co/350728/ethereum-whale-buying-steps-up-market-rebound-heavy-liquidations",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
       "description": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday\u2019s wipeout."
@@ -95,16 +65,46 @@
       "description": "Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?"
     },
     {
-      "headline": "Why Ethereum Is Gaining Today",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTlCRUlhQVpVRkl6LXd2Ri1HQlRyek90aDVIY2IzTkt0RExKMEdOLXhRUHp4ejJzZWJCSXBKZ2VjbWMzUWhBVmg0QmNCOVFFWjdXbl8wODZ5Vm1INldpdFJra2ZPT3BjV3YyVWZWLUlZcXFsR2JMN0JkQnFPbUxBb2FQZHluUDl2?oc=5",
-      "pub_date": 1764708360.0,
-      "article_url": "https://www.fool.com/investing/2025/12/02/why-ethereum-is-gaining-fed-vice-chair/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845234%2Feth.jpg&w=1200&op=resize",
-      "description": "Stablecoin regulation is moving forward."
+      "headline": "Bitcoin, Ethereum, XRP Spike a Day After Mass Sell-off",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaS1ZrWm1wSUZwWHpVdHo2QklTcGswUTNjX3VnVUExXy1xN1U4TUFFZXJha2FsNWhjZ0lhbkxLbnV6Q3YyYUFieFFtMVh2cmZqSVNwRFZUY1Izd1lkeUVtalNrTDRfSURGeUhOZDYxQTQyNmpoVjg0RzJ30gGCAUFVX3lxTFBsYURSYzdQSnd6eUFfQUc5SlA0YXBMemFndld0TlROSHFhY0l4bUJsbkNURVZPWXJOWVZpTEZ6RlF1dFhSNUFNS1dLS2pyTkFQOVhrZ3hKdFp2TS1Malc1dFZSTkctTlFCNzQ4NHFmVU5VNEdEcTNQdElwRmFjWWF2V3c?oc=5",
+      "pub_date": 1764693776.0,
+      "article_url": "https://decrypt.co/350651/bitcoin-ethereum-xrp-spike-day-mass-sell-off",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
+      "description": "Bitcoin rebounds above $90,000 with a 6.7% gain as crypto markets rally. ETH tops $3K, XRP surges while analysts eye Fed's upcoming decision."
+    },
+    {
+      "headline": "Vanguard to Allow Bitcoin, Ethereum and XRP ETF Trading in Major Crypto Pivot",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSDljREtzVTQyZGlqSWNkY0dFNlZfMGFOWXNXR3BSZ2Z6eXh3M0xwaUoyZ1ZGNTBuZHFIWVpGTXhHblhEUDRyQVpYRmJUSGhKVzRuRUx5cEVRWXczeFlkVm5wcjVNb2g0U1V4b3lvQTd6NFRnX2FQcTFHOU44ZHktQWtmVVk1WUwx?oc=5",
+      "pub_date": 1764629428.0,
+      "article_url": "https://finance.yahoo.com/news/vanguard-allow-bitcoin-ethereum-xrp-225028664.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/hXrdldpry5a21Xch5OqnSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/4eea251eb4eefbfb54f2898888037206",
+      "description": "Vanguard will allow trading of crypto-focused ETFs and mutual funds on its brokerage platform, ending years of resistance."
+    },
+    {
+      "headline": "While Ethereum whales rotate, XRP data shows a fatal concentration flaw that leaves one group holding the bag.",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQU1yWmF4R3ZRVEREbUpmMlNuSEl1YVFUa09RNmRQTnhOLUVUaE5oT2ZmNWo0TWN4VUJlTHdGWGdtZm1sLUtPVFc0MTZuZHJxeE50aTIwWVZFZFZ1UFBCRWJXUlhDUlFmMS1YZGdjdEM?oc=5",
+      "pub_date": 1764779700.0,
+      "article_url": "https://cryptoslate.com/ethereum-xrp-whales-concentration-risk/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2025/12/ethereum-xrp-whale.jpg",
+      "description": "We quantify how much old supply just moved and why now."
+    },
+    {
+      "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjhSWDVTUWthWXhtQnV2WVA3eXB6UmhqNmdJUG5pa0hQN3Rod2hQN3c3dHNFdTBSSTdIdnJnY29oa1NYbjdVOVM2alpTVWpfSVk1ZkZNWFh4VlByVHJVUTVLWEZ0ZHdDaUxPVFJ3bUJrRFhCblJrRWluSkUwWHN5Z0tqVkdHX0VvTmlUSGlneFY0N09sUHFvSEhWbDZldy1RUTZj?oc=5",
+      "pub_date": 1764600720.0,
+      "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
+      "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T00:59:02.304883+00:00"
+  "fetched_at": "2025-12-04T02:51:57.864531+00:00"
 }

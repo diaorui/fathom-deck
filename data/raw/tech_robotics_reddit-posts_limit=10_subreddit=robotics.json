@@ -35,6 +35,17 @@
       "description": "Website: https://gitai.tech/ On \ud835\udd4f: https://x.com/GITAI_HQ"
     },
     {
+      "title": "Pi0 worked for a entire day",
+      "author": "drgoldenpants",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdjp2c/pi0_worked_for_a_entire_day/",
+      "published": 1764803539.0,
+      "thumbnail": "https://external-preview.redd.it/OXE2azkweDdtMjVnMUDnGq3QNGwXnAWzx6NNgwjNH9GfBK1kx4uRQGpYEO_C.png?width=640&crop=smart&auto=webp&s=a287bc81dfb34bbc53da2244a9ebf2ead24bcce0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
+    },
+    {
       "title": "Unitree H2 (1.8m) humanoid robot boxing test shows full force impact and balance control",
       "author": "BuildwithVignesh",
       "url": "https://www.reddit.com/r/robotics/comments/1pd9avr/unitree_h2_18m_humanoid_robot_boxing_test_shows/",
@@ -55,17 +66,6 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Pi0 worked for a entire day",
-      "author": "drgoldenpants",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdjp2c/pi0_worked_for_a_entire_day/",
-      "published": 1764803539.0,
-      "thumbnail": "https://external-preview.redd.it/OXE2azkweDdtMjVnMUDnGq3QNGwXnAWzx6NNgwjNH9GfBK1kx4uRQGpYEO_C.png?width=640&crop=smart&auto=webp&s=a287bc81dfb34bbc53da2244a9ebf2ead24bcce0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
     },
     {
       "title": "EngineAI T800 behind the scenes footage",
@@ -112,5 +112,5 @@
       "description": "I've wanted to mess around with robotics for a loooong time, but it's not an easy sort of thing around here and small scale hobby stuff just doesn't seem that useful to me. Found a pretty good deal on this thing so I'll be diving in headfirst with minimal planning. My original plan was to look into making my own resolver to digital converters and motor drive solution, however, with the cost of RDC chips, it might actually be more feasible and affordable to try and find a used pendant, and work on putting the controls from the cabinet into something smaller, lighter and more reasonable. Time will tell, going to be a long and big project but that's what I've been craving."
     }
   ],
-  "fetched_at": "2025-12-04T00:58:49.802800+00:00"
+  "fetched_at": "2025-12-04T02:51:44.850365+00:00"
 }

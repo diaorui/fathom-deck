@@ -45,54 +45,14 @@
       "description": null
     },
     {
-      "headline": "Wikipedia seeks more AI licensing deals similar to Google tie-up, co-founder Wales says",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdWE5ZkNjckFnTFRyNEt1MkhyZVI1SzJxdHc2WWtoU2MxQ3phOHlseEdYRXdfMmFmX0lueEZndWYwczVFNG9qZjVkM0NRMzJ0ZGliQVhWR3lFSHl6MGVVbzZuLXJnMHdtLWtxanVFTnVnanNQMjJfajNMNmxpa2FPdlNHckNvOGd0d1c2cTdfcjB2VV9PbEIzbG4wb1JKaF9oOFZxa1ducllYbEhFZS0tMXJQWW9JOEQtTnFyc0hqSlAwOU01ZDlNd3hocWFjamxnWU5n?oc=5",
-      "pub_date": 1764806552.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/wikipedia-seeks-more-ai-licensing-deals-similar-google-tie-up-co-founder-wales-2025-12-04/",
+      "headline": "A State AI Regulation Ban Would Only Hurt Business",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPNlNGRkl4UnZXMVFseEE5UkNhM0gwQzFuY1lLNnVqTU9FQmgzdE1HaGVQenQ5b1dRM2l1Z0xubk9QMkJmZ0VfY3pzNEJsS1FFUExfR2d1bVhrNzQ2RWdlTHoxeFNWbGRyNHprZFgxQ1pFcGJualZKLURWNWZjSFVzQm81RmhSUGhNYUoxM2xQZHpfTFZuZG10SjdWWV9rWFFCWWZvWnFuM1Q1YWRHY2N1bnZwbHdRNnlqclZZR3RWWFFtUVdlN1pwSUFZRUtDYUlEMG5KV24yYjR2QmVVWU40Y3dRZE8yMmZyYWZQaERGd1N1NWszZmxMY3ZvTFFZeFJ4Y0RDNUs1LVRiS2ptamNCX2RvSkhqd092Z25oUHlGT0hLQXVZU1kzSEJVY0pUcEw3bkxzbUEyTGxObGRTZlBfVi1ORTgxRnBESXBkT2Q4Y0pxT0lBOUFYNDViNjdSSk5PNDU0ODRXcG9GMi1XS3hXYlhB?oc=5",
+      "pub_date": 1764812520.0,
+      "article_url": "https://www.barrons.com/articles/state-ai-laws-ndaa-e9b0fa6d?gaa_at=eafs&gaa_n=AWEtsqfJXhQ8EucJyaAfZl4sVTWtUllQFrm4GvpyIo2WBLqNlfZyOf247uxz&gaa_ts=6930fabf&gaa_sig=L50s_4ae1w0LP_SCyTD_VSJAbnHsKEBjFQGHLTwnko7MLk2XccqXSnmcU8tYb0cTblouz7yBT7BW_5BM2RDPPw%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzLVRMME1KM01Pcl9qS3BsTjNLM0lGWUFKYk5Yem80TkxPWTAwN2NnVjBpQjA1N0lpNGJhY05wdEh1T1d5a2FOdXUxSncycTU2WFJlSzhId2FudUV6MUc1dVRUTFVLc2hIZlN1dTVCUmhmcTVTZUtNeGxYRQ?oc=5",
-      "pub_date": 1764806468.0,
-      "article_url": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=sky",
-      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "headline": "AWS simplifies model customization to help customers build faster, more efficient AI agents",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSlVxbFo2R1poLUE0UGpBanhxNDJhRmZKcjVrcnFtV21yS19hMFc1Unlvbi1DVFJIRHlud3FrRXlpdVRYSW15cEFPNVAwbmhjeGIwOF9Cb1JXQnpTUzJBVEU4QjlSbFBoaG9nbGNNZG1wcFptWEZObTQyNzBvVTk5d1ZsYi11bWtrM25zd2tB?oc=5",
-      "pub_date": 1764779397.0,
-      "article_url": "https://www.aboutamazon.com/news/aws/amazon-sagemaker-ai-amazon-bedrock-aws-ai-agents",
-      "image": "https://assets.aboutamazon.com/dims4/default/d823885/2147483647/strip/true/crop/2000x1000+0+44/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc3%2F3b%2Fbfa624864172be0393e6dcfcade0%2Faa-amazon-bedrock-sagemaker-ai-2000x1125.jpg",
-      "description": "Amazon Bedrock and Amazon SageMaker AI put advanced model customization into the hands of any developer, while reducing costs and improving performance."
-    },
-    {
-      "headline": "Amazon challenges competitors with on-premises Nvidia \u2018AI Factories\u2019",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQck0yMkdUMzdCNldOT1NmWnBHNDVJZnFnOTdsTkFaRFc0ZURXVVRRX2JsVVVwWVR2TFVJVkV3eXZDY0twdURGWWp5X1YtMkFPOHJSM2dEc2lQOVR4V2NnbzdhM3FveWZaQnBNWFpRMk9nMzI5OTU0dk5sU01Od3IyallSSm8ydHYyajB3UXN0eHVLWE1fSGc?oc=5",
-      "pub_date": 1764722580.0,
-      "article_url": "https://finance.yahoo.com/news/amazon-challenges-competitors-premises-nvidia-004337664.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/7fy1kLfQMMxlMaH5g4u5Sw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_finance_785/549b2099ae1577b4f87859d62bb7d493",
-      "description": "If the product name sounds familiar, it should. It's a collab with Nvidia that combines AWS tech with the chip maker's tech."
-    },
-    {
-      "headline": "Amazon hopes to jump start its AI coding tool Kiro by giving it away to startups",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTRjY0I4MzhZMGtXajlvZDhSV0FoT0ZxQi1ud0VQZXZIM0JMYktOQkNzeTVjUlJxMDZWejlyVmowVVRaSFotZjNmMkhiN0pyOWxRZi15bkJfMUc2UWdYODI1c0EwZDZpeGFmaXk0OXR0N0Y1a01wNVdNSXBzUlZ0WUtwbk8tV0NXazVSWW5QV2xSQzJGQWxBUHVNQzRWWXp6b3A1eTRfYVR3VGZPaE51ZW1iNU5EZw?oc=5",
-      "pub_date": 1764806114.0,
-      "article_url": "https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?w=1200",
-      "description": "Can Kiro win the hearts of startup founders above the many AI coding tools they already have? Amazon hopes a free year will tempt them."
     },
     {
       "headline": "Not a 'bubble,' but maybe an 'air pocket': Wall Street says it's time to reset the AI narrative",
@@ -103,8 +63,48 @@
       "article_url": "https://finance.yahoo.com/news/not-a-bubble-but-maybe-an-air-pocket-wall-street-says-its-time-to-reset-the-ai-narrative-165125153.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/H0EaRfcf1kN6uqB8tlL_Hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDI-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/770379a0-9589-11f0-be7e-d22d61f4aec0",
       "description": "Two of Wall Street\u2019s biggest firms say the AI boom isn\u2019t a bubble, arguing real spending and earnings support the stock market rally even as near-term risks emerge."
+    },
+    {
+      "headline": "Nvidia servers speed up AI models from China's Moonshoot AI and others tenfold",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZGeWtQd2wyblh4MjJKTElXSnpxd3FlT2dsUHg4YTRSQWF0SkFOTnJfUjFHeEtQZ0g1OXJkZ29wNmZHdXZWM0h0UE0xaXRoSXRzLWI4NFdxMHo3MFFHMk90cGZmZVFmbGZ1Q0hXX1FKWGF0Z2Q4SmlrVnByc3NjZkpkdnNCcU9mT1RoMjBsQjVoUXFMR0NyUlVMQzctZmhwVFhXbUlOMEhqSkg4MGNMZGhmdzdiZDg?oc=5",
+      "pub_date": 1764799000.0,
+      "article_url": "https://www.reuters.com/world/china/nvidia-servers-speed-up-ai-models-chinas-moonshoot-ai-others-tenfold-2025-12-03/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China does not need Nvidia chips in the AI war \u2014 export controls only pushed it to build its own AI machine",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU0x1WjZXNlFCN3RaU19CZTJVNHpmVnhBMGZzOV9wTF9TVm1LZ2lfSDZ4SC12dW1NVHdBOTEwaWJsY2J0NGVDRC03cHVINnUtLVlKaWNpaThsRFp3X3dJUWVvWkVxTTEyejV2Wm1DSGh0MFpaZmZNY29xYk5PaTVyelN3czlvLWts?oc=5",
+      "pub_date": 1764770400.0,
+      "article_url": "https://fortune.com/2025/12/03/china-trade-war-chips-nvidia-flawed-logic-gpus-ai/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/rakesh-kumar-e1764704398769.png?resize=1200,600",
+      "description": "If the U.S. wants to lead in AI, chip controls are not the answer."
+    },
+    {
+      "headline": "Mixture of Experts Powers the Most Intelligent Frontier AI Models, Runs 10x Faster on NVIDIA Blackwell NVL72",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wNjRTMFNZOGZHX0kyMHpVSklSVmdtcTZxcTlKcjNQaU9yMVpwRzYxa01SUlhZUUo1VVlRNndCdzFrZGtCdXV1aHJ0a3F5REZkTzk4Ykt6Mm5UYTlFYUM0dWw2Uk1EUlZvQk1tSm9fRmJEY2c?oc=5",
+      "pub_date": 1764777734.0,
+      "article_url": "https://blogs.nvidia.com/blog/mixture-of-experts-frontier-models/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2025/12/moe-main-feature-image-2.jpg",
+      "description": "Kimi K2 Thinking, DeepSeek-R1, Mistral Large 3 and others run 10x faster on NVIDIA GB200 NVL72."
+    },
+    {
+      "headline": "How AI Is Transforming Work at Anthropic",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
+      "pub_date": 1764703349.0,
+      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
+      "description": "How AI Is Transforming Work at Anthropic"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T00:59:04.529165+00:00"
+  "fetched_at": "2025-12-04T02:52:00.084602+00:00"
 }

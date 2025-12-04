@@ -19,6 +19,20 @@
       "site_name": "bosschallenge.xyz"
     },
     {
+      "title": "The Bitcoin Ultras vs. Broken Britain",
+      "url": "https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/",
+      "hn_url": "https://news.ycombinator.com/item?id=46147501",
+      "author": "comradino123",
+      "points": 5,
+      "num_comments": 0,
+      "created_at": "2025-12-04T13:35:18Z",
+      "object_id": "46147501",
+      "image": "https://dispatch-media.com/content/images/size/w1200/2025/12/Value-4-Value.--1-.png",
+      "description": "Ignore the crash \u2022 Keep the faith \u2022 Meet the evangelists who believe Bitcoin will cure everything",
+      "favicon": "https://dispatch-media.com/content/images/size/w256h256/2025/03/Dispatch-icon-png.png",
+      "site_name": "Dispatch"
+    },
+    {
       "title": "Bitcoin's Sky-High Prices Have Not Panned Out",
       "url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
       "hn_url": "https://news.ycombinator.com/item?id=46132636",
@@ -117,7 +131,7 @@
       "site_name": "nytimes.com"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2025-12-04T13:01:52.769209+00:00"
+  "fetched_at": "2025-12-04T13:45:39.079713+00:00"
 }

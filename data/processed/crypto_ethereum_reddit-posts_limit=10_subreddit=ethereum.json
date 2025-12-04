@@ -35,6 +35,17 @@
       "description": "a wonderful fusaka day to you all - original post if you want to help boost on twitter!"
     },
     {
+      "title": "Trump Family\u2019s Crypto Empire Collapses: Nearly $1 Billion Wiped Out as World Liberty and Memecoins Crash",
+      "author": "shadrack_CK",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pe06ir/trump_familys_crypto_empire_collapses_nearly_1/",
+      "published": 1764855388.0,
+      "thumbnail": "https://external-preview.redd.it/_d8gHOZZJgORyIb0nJddwObrhDilPHbkHJO1sj3AD28.jpeg?width=640&crop=smart&auto=webp&s=3b0f309c71d656a6e8832924d0a64d458dc101f1",
+      "external_url": "https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/",
+      "site_name": "\ud835\udc13\ud835\udc07\ud835\udc04 \ud835\udc03\ud835\udc00\ud835\udc08\ud835\udc0b\ud835\udc18 \ud835\udc06\ud835\udc0b\ud835\udc08\ud835\udc13\ud835\udc02\ud835\udc07",
+      "favicon": "https://dailyglitch.com/wp-content/uploads/2025/08/site-icon.png",
+      "description": "Trump crypto empire falls faster than bitcoin"
+    },
+    {
       "title": "How is Ethereum solving the blockchain trilemma? Post Fusaka upgrade analysis.",
       "author": "Worldly-Law9012",
       "url": "https://www.reddit.com/r/ethereum/comments/1pdra4c/how_is_ethereum_solving_the_blockchain_trilemma/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "It has seemed to me \"sharding\" often tends to split the consensus mechanism. The technicalities of it seem well thought out but not the consensus part. It seems like it often uses something like randomly delegating from the validator pool but this (even if random) splits the consensus. Another approach is to not split the consensus. Add an intermediary level, a \"validator manager\", and make this what is voted for with coin-vote (or people-vote). This \"validator manager\" (or maybe it could even be called \"government\") then delegates one block producer per shard. That way, each shard has the same majority consensus as any other. The \"threads\" of a sharded blockchain have the same consensus as a single-threaded blockchain would."
-    },
-    {
-      "title": "Anoma just activated an entirely new state machine on Ethereum and everyone is too busy farming points to realize what just happened",
-      "author": "Direct_Reporter9112",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pcj7vc/anoma_just_activated_an_entirely_new_state/",
-      "published": 1764706627.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Only in crypto can someone ship a whole new state architecture onto Ethereum mainnet and the collective reaction is basically \u201ccool anyway who\u2019s getting the next airdrop.\u201d Anoma quietly deployed the Resource Machine and it\u2019s honestly wild how little attention it\u2019s getting. Here\u2019s the part people are already getting wrong Anoma is NOT a privacy project. Yes it has privacy baked in. Yes it uses commitments and nullifiers. Yes it uses a zkVM. But the whole point isn\u2019t \u201cZcash on Ethereum.\u201d It\u2019s that Anoma is introducing a completely different state model that just happens to make privacy possible but it goes so much further. This thing isn\u2019t a rollup. It\u2019s not a coprocessor. It\u2019s not an \u201cL2 but with extra steps.\u201d It\u2019s a parallel state machine living on Ethereum. A second way to define and verify state transitions. Like if the EVM suddenly had a strange, overpowered cousin that grew up reading Zerocash papers and lifting weights with RISC0. Instead of giant mutable smart contracts, everything becomes tiny immutable resources verified with commitments and nullifiers. Off chain computation. On chain verification. Millions of private micro-objects instead of one giant public diary. The EVM suddenly looks like a 2006 Nintendo DS sitting next to this thing. And the apps you can build aren\u2019t vaporware. They\u2019re what our industry desperately needs NOW: Private swaps that still use Uniswap liquidity A private Gitcoin where your conditions stay hidden Dark pools without liquidation snipers breathing down your neck Private payments across any EVM chain like it\u2019s nothing Again none of this makes Anoma \u201ca privacy project.\u201d That\u2019s like calling Ethereum \u201ca database project.\u201d Privacy is just a side effect of the state model. The real unlock is intent-centric apps, parallel execution, flexible off-chain computation, and a verification-first design that makes the EVM look hilariously outdated. But the timeline is still spreadsheeting loyalty points like it\u2019s Web2 airline rewards season. Not telling you to buy anything. Just saying a parallel state machine literally booted up inside Ethereum and most people won\u2019t realize what that means until they see it at a multibillion FDV and suddenly \u201cremember hearing about it early.\u201d https://ethresear.ch/t/the-anoma-protocol-adapter-is-live-on-ethereum/23466"
     }
   ],
-  "fetched_at": "2025-12-04T13:01:53.962062+00:00"
+  "fetched_at": "2025-12-04T13:45:40.762453+00:00"
 }

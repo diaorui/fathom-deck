@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Bank of America predicts an 'air pocket,' not an AI bubble, fueled by mountains of debt piling up from the data center rush | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdi0q7/bank_of_america_predicts_an_air_pocket_not_an_ai/",
-      "published": 1764799503.0,
-      "thumbnail": "https://external-preview.redd.it/rikD1kTak-7UeKXyFBVQjJSeeyMAZOJYG3BXm0hUl70.jpeg?width=640&crop=smart&auto=webp&s=a73349d531ed79f976ab4340c780cea9d0cac711",
-      "external_url": "https://fortune.com/2025/12/03/is-ai-a-bubble-bofa-says-air-pocket-in-2026-data-center-debt/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "\u201cIs this 2000? Are we in a bubble? No,\u201d BofA\u2019s strategy chief Savita Subramanian said. \u201cWill AI continue in unfettered leadership? No.\u201d"
-    },
-    {
       "title": "Popular RAM brand Crucial axed, so its owners can focus on \"faster-growing segments\" like AI",
       "author": "Tiny-Independent273",
       "url": "https://www.reddit.com/r/artificial/comments/1pdyaiz/popular_ram_brand_crucial_axed_so_its_owners_can/",
@@ -22,6 +11,17 @@
       "site_name": "PC Guide",
       "favicon": "https://www.pcguide.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
       "description": "Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls \u201cfaster-growing segments.\""
+    },
+    {
+      "title": "Bank of America predicts an 'air pocket,' not an AI bubble, fueled by mountains of debt piling up from the data center rush | Fortune",
+      "author": "fortune",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdi0q7/bank_of_america_predicts_an_air_pocket_not_an_ai/",
+      "published": 1764799503.0,
+      "thumbnail": "https://external-preview.redd.it/rikD1kTak-7UeKXyFBVQjJSeeyMAZOJYG3BXm0hUl70.jpeg?width=640&crop=smart&auto=webp&s=a73349d531ed79f976ab4340c780cea9d0cac711",
+      "external_url": "https://fortune.com/2025/12/03/is-ai-a-bubble-bofa-says-air-pocket-in-2026-data-center-debt/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
+      "description": "\u201cIs this 2000? Are we in a bubble? No,\u201d BofA\u2019s strategy chief Savita Subramanian said. \u201cWill AI continue in unfettered leadership? No.\u201d"
     },
     {
       "title": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
@@ -101,16 +101,16 @@
       "description": "Full interview with Stability AI founder Emad Mostaque."
     },
     {
-      "title": "How to measure AI automation efficiency gains?",
-      "author": "No-Cloud-5075",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdwnb1/how_to_measure_ai_automation_efficiency_gains/",
-      "published": 1764844130.0,
+      "title": "What is the point of ChatGPT subscription?",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdqldc/what_is_the_point_of_chatgpt_subscription/",
+      "published": 1764822384.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey everyone, I am trying to implement an AI Agent in my work to automatically create a project plan. This usually takes a lot of time and I have to manually adapt the plan several times during a project. Obviously, once the agent is set I will have an efficiency boost. But my question ist how you could potentially measure an efficiency increase and how to academically prove this to scale it to different projects. The only 3 options to gain hard facts at the moment are: 1. Measure the total time that I spend with manual plan creation VS. The time that an Ai needs 2. the implementation time of an Ai agent (prompting, programming, api, data etc) 3. Create a cost-benefit-calculation with the information from 1 and 2 4. Use the calculation for scaling in other projects My question to you: Am I missing any option or would you generally measure efficiency gains with Ai agents in another way?"
+      "description": "I pay for ChatGPT Plus and asked it about Windows BitLocker. It showed me an ad to shop at Target. This is how you lose users. ChatGPT response (excerpt) ChatGPT 5.1 Thinking You can: \u2022 Try to enable Core isolation / Memory integrity for extra protection. \u2022 Improve firmware settings (Secure Boot, UEFI, virtualization) so Windows stops saying \u201cStandard hardware security not supported.\u201d For actual drive encryption: \u2022 Look in Settings \u2192 Privacy & security \u2192 Device encryption. \u2022 If it\u2019s there, use it. \u2022 If not, your realistic options are upgrade to Pro (BitLocker) or use VeraCrypt/other third-party encryption. If you want, tell me your laptop model and I can suggest what to flip in BIOS and what\u2019s realistically possible (e.g., whether Modern Standby / Device Encryption is likely supported). Shop for home and groceries \u2014 Connect Target By BenjaminDEKR"
     }
   ],
-  "fetched_at": "2025-12-04T13:01:51.577425+00:00"
+  "fetched_at": "2025-12-04T13:45:36.612108+00:00"
 }

@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Microsoft Lowers Sales Staff\u2019s Growth Targets For Newer AI Software",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0dMQ0RMU0p3Q1g1UUg1RGJ1REhOT2lraGgzaExWQm55TU5QVFNRQkxYZTZHNnBzV1dsaE5qY1N4T0ZJMUVfQXhJSFBMa01BNkhiaDdjYVlhRVVLVHdyUC0ycHRaS19PbHRkM2ZoVDhBeG15ZWRuZlRkZ2xCNHlfX2JpX3hWMlF0czlsTVVjZmpMSEJET1NTdzdhNnM0UVF5TlI2Y0lDOHhGZm95SVVhb2k1QQ?oc=5",
-      "pub_date": 1764770400.0,
-      "article_url": "https://www.theinformation.com/articles/microsoft-lowers-ai-software-sales-quotas-customers-resist-newer-products",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Microsoft stock sinks on report AI product sales are missing growth goals",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -35,6 +25,16 @@
       "description": null
     },
     {
+      "headline": "Microsoft denies report of lowering targets for AI software sales growth",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQem5HdVNmWmZRT194Y0VsTkJQLURoU3lTaHVpZWYtWDlYZmpXOUs2d09WeUJCSGZvYy14MmNpN01BS2tPUkt1TW9FeFY1MC1kTFhxTWRrYjA1ZHZTNHd1M0YySUdfNzZoQm9jM1M4R1BTOGxuaVJSSWVPeFFqYndNUFV5Zk9JYk0?oc=5",
+      "pub_date": 1764771331.0,
+      "article_url": "https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/6f18ec98d8371aa28c130bea8170a867",
+      "description": "Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many \u200bsales staff missed goals in the fiscal year that \u200cended in June, The Information reported on Wednesday.  It is rare for Microsoft to \u200clower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about \u200breal-world adoption of AI as an MIT study from earlier \u200cthis year had found that only about 5% of AI projects advance beyond the pilot stage."
+    },
+    {
       "headline": "Not a 'bubble,' but maybe an 'air pocket': Wall Street says it's time to reset the AI narrative",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -45,34 +45,34 @@
       "description": "Two of Wall Street\u2019s biggest firms say the AI boom isn\u2019t a bubble, arguing real spending and earnings support the stock market rally even as near-term risks emerge."
     },
     {
-      "headline": "This AI Pioneer Says AI Could Replace Almost Every Job \u2014 Even CEOs",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWVWalZoUjg5WXVnRU5zcmU2LWJqYTVCYVV6UktwU0laWWhLblB0S20za3AyTmFVQ0pveVlXVGlOY1NnVE9xQjZZVF9MT2lFZ0VSQU9aNmRfS1JISVBPZ1RrV2R1SkNsMTlZZFZPaXRLM2Q3TmQ1amo3YjZob3hGdU9qdVo4SEtZOUFHS0NXNUV1QTNWUFZmZ1pjR2M0MlJf?oc=5",
-      "pub_date": 1764850260.0,
-      "article_url": "https://www.businessinsider.com/ai-will-replace-almost-every-job-including-ceos-expert-says-2025-12",
-      "image": "https://i.insider.com/6931663771107c9f34574fb4?width=1200&format=jpeg",
-      "description": "Stuart Russell warns AI's rapid rise could upend careers, replace leaders, and trigger a jobs crisis governments aren't ready for."
-    },
-    {
-      "headline": "The future of country music is here, and it\u2019s AI",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUndOLUktdnp3ekRtVlBNeVdwbDNqT0FFbnNzV0ZZOS1JOEVrQ1Z2X0RTVE40TDRHTzExNzdjMlR4MnZ3cWRKTnZQTUlLa3RuSVF2SEZwQVI3UThsYzlmaF9KZFVwVmZVZnlsNllNUlpfTUFVNWRBaml6emltbHQzZA?oc=5",
-      "pub_date": 1764849600.0,
-      "article_url": "https://www.theverge.com/ai-artificial-intelligence/829964/country-music-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258106_Nashville_AI_demos_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "For AI and country."
-    },
-    {
-      "headline": "As Hochul Considers an A.I. Bill, Its Sponsor Throws Her a Fund-Raiser",
+      "headline": "Harvey, a Maker of A.I. Legal Software, Raises $160 Million",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpSEZadkZwTzhvaTJsTDhXOWxDVHo2X0YtTWk1XzV5cGNDUEFFMk1fYkJLR0pkNWE0U0lHSmJONURRS3R1SkhOOEhuMFFsQmwxVC0yZWhCTC12dlhBNHRIcmpadTlMQkY1SEUzdjVSZFpVbWgxLXBkRg?oc=5",
-      "pub_date": 1764835205.0,
-      "article_url": "https://www.nytimes.com/2025/12/04/nyregion/hochul-ai-bill-bores.html",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kRmhvQy1qbUp2NkhrOWpIR2EyWjhWZnFOdnpHTk1MbV9lNHJwS3RKRVdpNGFLbkR1WGRQVXNXb2JlbFh0TXpJa3pMRFlxSDJYLTVkN0Q1TVpBd0J3dEFRZDI1UEoyZF9JM1dVNzZWZWE3WU1NQnNhcG9YeFIwZw?oc=5",
+      "pub_date": 1764853523.0,
+      "article_url": "https://www.nytimes.com/2025/12/04/business/dealbook/harvey-legal-ai.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Gen Z wants more personalized responses from chatbots",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObElDWlQwT1ZIMWJwZWFjdm5ZdHYyWS1Vb0ZtWkNjNHpDUzVCTmROYkowb3g0b1ZrRVJieVJtQ0JNRVNmdEU4R2lEd0kxM1Ryb1FRX3JxUTRBMy1GWXRHTkdnNmlqY0ZBbGp2Z3ZqX1QxQTJGdVlJdzFfM1FnR3ZLUVliMzQ?oc=5",
+      "pub_date": 1764853222.0,
+      "article_url": "https://www.axios.com/2025/12/04/google-workspace-workers-want-personalized-ai",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google VP says the AI revolution is just a matter of time: It's a 'native part' of how Gen Z works",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcDVyUld5RFFyX1dBeDdZWmFjS0lDUFhPckt5d1dybWxVNkE5N2pQdUFVVTA0M3R5RFpEUmtKMkYyYTNjTFYzMkZabjFyd3lDQTVKbjZqbjRtQjdKMEZyLVIyYm91ZndxWmtBOE9wWlk4V2ZNTzVSTTdJYWtIajRSUml0aHNVR1FJeGtUQm1NR2Mwbmt0MFhoNnpsTGJZSDRwVnV5R05pcklSUERkZjBPa1FSRGREc3NvMFI0?oc=5",
+      "pub_date": 1764853200.0,
+      "article_url": "https://fortune.com/2025/12/04/ai-revolution-just-matter-of-time-gen-z-native-users-google-vp-workspace-yulie-kwon-kim/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-527878748-e1764797904726.jpg?resize=1200,600",
+      "description": "\"A lot of the Gen Zers are really using it in ways that are very native,\" says Yulie Kwon Kim, VP of Product at Google Workspace."
     },
     {
       "headline": "Alphabet\u2019s AI Chips Are a Potential $900 Billion \u2018Secret Sauce\u2019",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T13:02:16.165638+00:00"
+  "fetched_at": "2025-12-04T13:46:01.844042+00:00"
 }

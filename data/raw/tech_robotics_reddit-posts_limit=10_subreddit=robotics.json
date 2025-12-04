@@ -35,17 +35,6 @@
       "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
     },
     {
-      "title": "A comparison of Figure 03, EngineAI T800, and Tesla Optimus running",
-      "author": "heart-aroni",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdy9mn/a_comparison_of_figure_03_engineai_t800_and_tesla/",
-      "published": 1764849765.0,
-      "thumbnail": "https://external-preview.redd.it/MzJ0MW50cGZnNjVnMeHfc8HEPZjy1jF6CEoikLt2YRP45U6zCVh8Ohy2O7jN.png?width=640&crop=smart&auto=webp&s=9d5b374f63f785bf03a43178fe6110a9e373d9ec",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Pi0 worked for a entire day",
       "author": "drgoldenpants",
       "url": "https://www.reddit.com/r/robotics/comments/1pdjp2c/pi0_worked_for_a_entire_day/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
+    },
+    {
+      "title": "A comparison of Figure 03, EngineAI T800, and Tesla Optimus running",
+      "author": "heart-aroni",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdy9mn/a_comparison_of_figure_03_engineai_t800_and_tesla/",
+      "published": 1764849765.0,
+      "thumbnail": "https://external-preview.redd.it/MzJ0MW50cGZnNjVnMeHfc8HEPZjy1jF6CEoikLt2YRP45U6zCVh8Ohy2O7jN.png?width=640&crop=smart&auto=webp&s=9d5b374f63f785bf03a43178fe6110a9e373d9ec",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
@@ -101,16 +101,16 @@
       "description": "Unitree Robotics: Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall reliability of the robot, please do not attempt to replicate this. Please use robots in a friendly manner. Source : YT(Unitree Robotics) \ud83d\udd17 : https://youtu.be/kjJeQZECPcQ?si=rsmZHVdMuBLagHHN"
     },
     {
-      "title": "FrodoBots are open-sourcing their Earth Rover platform with Hugging Face and SIGRobotics. Integrated hardware (electronics, software, 3D files) with LeRobotHF. 7,000 hours of driving data from 40+ cities, curated by UC Berkeley researchers",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdyxrf/frodobots_are_opensourcing_their_earth_rover/",
-      "published": 1764851866.0,
-      "thumbnail": "https://external-preview.redd.it/c3hsM3dqM3ZrNjVnMaS3elVkj0zTZvQ6WmPdQtW9RmL483_VaSiTUGjSckaC.png?width=640&crop=smart&auto=webp&s=3d96839915a00ed6b35dc7ebea58feddbad23dcd",
+      "title": "Industrial arms for configurable applications",
+      "author": "Tanky321",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdye9t/industrial_arms_for_configurable_applications/",
+      "published": 1764850174.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "From FrodoBots on \ud835\udd4f: https://x.com/frodobots/status/1996263341392908448 Website: https://www.frodobots.ai/ Shop (EarthRover Mini+ $255): https://shop.frodobots.com/ Doc on Hugging Face: https://huggingface.co/docs/lerobot/earthrover_mini_plus Dataset curated with UCBerkeley researchers: https://huggingface.co/datasets/frodobots/Berkeley-FrodoBots-7K"
+      "description": "Hi all, Looking for suggestions for an application where I need to send commands to the arm via some field bus (preferably EtherCAT). Ideally I want to send start positions, end positions, velocity abd move style (moveJ, MoveL) and have the robot do the rest. This would be mixed with pre established routines on the robot which would also be called via field bus. Any experience with similar applications? Any recommendations on brands to go with or to stay away from? We would not need a cobot for this application, just a standard 6 axis arm. Thanks!"
     }
   ],
-  "fetched_at": "2025-12-04T13:01:55.421471+00:00"
+  "fetched_at": "2025-12-04T13:45:40.905784+00:00"
 }

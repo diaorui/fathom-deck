@@ -57,17 +57,6 @@
       "description": "Full interview with Stability AI founder Emad Mostaque."
     },
     {
-      "title": "Border troops getting replaced by robots",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pczmey/border_troops_getting_replaced_by_robots/",
-      "published": 1764753558.0,
-      "thumbnail": "https://external-preview.redd.it/bHBvdXhhc2NpeTRnMT_RZvUTpuXUUHWTIg8M4yRuEpeAGpLY0kwZmsOSsO2r.png?width=640&crop=smart&auto=webp&s=2e6ed45e60eaecb784fb25cc111fceb82f850024",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1pduq42/antiimmigrant_material_among_aigenerated_content/",
@@ -77,6 +66,28 @@
       "site_name": "the Guardian",
       "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
       "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
+    },
+    {
+      "title": "How to measure AI automation efficiency gains?",
+      "author": "No-Cloud-5075",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdwnb1/how_to_measure_ai_automation_efficiency_gains/",
+      "published": 1764844130.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, I am trying to implement an AI Agent in my work to automatically create a project plan. This usually takes a lot of time and I have to manually adapt the plan several times during a project. Obviously, once the agent is set I will have an efficiency boost. But my question ist how you could potentially measure an efficiency increase and how to academically prove this to scale it to different projects. The only 3 options to gain hard facts at the moment are: 1. Measure the total time that I spend with manual plan creation VS. The time that an Ai needs 2. the implementation time of an Ai agent (prompting, programming, api, data etc) 3. Create a cost-benefit-calculation with the information from 1 and 2 4. Use the calculation for scaling in other projects My question to you: Am I missing any option or would you generally measure efficiency gains with Ai agents in another way?"
+    },
+    {
+      "title": "Border troops getting replaced by robots",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pczmey/border_troops_getting_replaced_by_robots/",
+      "published": 1764753558.0,
+      "thumbnail": "https://external-preview.redd.it/bHBvdXhhc2NpeTRnMT_RZvUTpuXUUHWTIg8M4yRuEpeAGpLY0kwZmsOSsO2r.png?width=640&crop=smart&auto=webp&s=2e6ed45e60eaecb784fb25cc111fceb82f850024",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "What is the point of ChatGPT subscription?",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Unpopular opinion: Hoarding prompts is holding back the entire field of prompt engineering. Hear me out. The best breakthroughs in tech came from open collaboration: Open source revolutionized software arXiv accelerated AI research GitHub made coding social But prompt engineering? We're all working in silos, reinventing the wheel, losing incredible work to private note apps. This is my attempt to change that: thepromptspace The Thesis: Prompt engineering becomes exponentially better when it's: Social - Learn from the best, share your discoveries Collaborative - Build on each other's work (with credit) Documented - Track what works, what fails, and why Accessible - Lower the barrier for newcomers Platform Architecture: Think of it as the creative layer for AI: 1. Social Discovery Follow top prompt engineers Trending prompts and techniques Topic-based communities (coding, research, creative writing) Upvoting and quality signals 2. Collaboration Infrastructure Remix and fork prompts (like GitHub repos) Attribution chains (know who contributed what) Co-creation on complex prompt workflows Comments and discussions on techniques 3. Knowledge Management Version control for prompt iterations A/B testing documentation Tags, categories, and searchability Cross-references between related prompts 4. Portfolio & Reputation Showcase your best prompt engineering work Build reputation in the community Get discovered by teams hiring prompt engineers Monetize your expertise (coming soon) Real-World Use Cases: Research: Share your chain-of-thought templates that improve reasoning Engineering: Collaborate on production-grade system prompts Education: Learn advanced techniques from top practitioners Innovation: Discover cutting-edge methods you'd never find alone Why This Matters for Prompt Engineering: Accelerated learning - See what works without months of trial and error Standardization - Community consensus on best practices Innovation - Build on proven foundations instead of starting from scratch Recognition - Prompt engineers deserve credit for their craft Future-proofing - As AI evolves, our collective knowledge evolves with it Technical Features: Multi-model support (test across different LLMs) Prompt templating with variables Performance tracking and analytics Export to code/API Private workspaces + public sharing Rich markdown and formatting What I'm Building Toward: A world where the best prompt engineering techniques are: Open and accessible Properly attributed Continuously improved by the community Rewarding for creators Link: ThePromptSpace Challenge for this community: Take your best prompt. Share it on thepromptspace. See if the community can make it even better through collaboration. I believe the future of prompt engineering is social. Who's with me?"
-    },
-    {
-      "title": "Built a small conversational AI experiment\u2026.unexpected user responses",
-      "author": "One-Ice7086",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdt3gj/built_a_small_conversational_ai/",
-      "published": 1764830472.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I made a simple conversational AI to test dialogue handling and shared it with a few people. What surprised me is how quickly they started having long, emotionally heavy conversations with it instead of just testing features. Is this kind of high-emotion engagement common with conversational agents? Curious if others building dialog systems have seen the same pattern."
     }
   ],
-  "fetched_at": "2025-12-04T09:59:32.036828+00:00"
+  "fetched_at": "2025-12-04T10:34:56.256373+00:00"
 }

@@ -9,7 +9,7 @@
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejNGdTMxbmswLUkwaWk3Y216UXQ2dWluWU0wMk1jNTRJd1Y2b0tfWE5FM3JoUmlzTFJoZExBM3dMZVVLSmp5d0tmeXpLTk9OT3lFa3k4VTlzUjdqckIwZDdHajBKTS1QVUZmT2lJUkUyWTh6aWFJZ2lYaFNRV1pfSNIBiAFBVV95cUxOZ29YM0kzUkVlT1V0dFVQYjJrVjdMZHZocTJTYkNEYjNQMk51dDA4UVlYdnZubVNKYjBKb0tOOWt4cGRXQXNxNUVSYlYyUGtLWG5VWFowVzN4Y1FFblRrQmozdjkwekJsVFAtVDZxby15M1UyVFhYOXZialRvNHVMNzk5UWZhNEtq?oc=5",
-      "pub_date": 1764825149.0,
+      "pub_date": 1764831375.0,
       "article_url": "https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-01-gID_7.png",
       "description": "Fusaka represents what some describe as Ethereum\u2019s first real step into key data sampling and capacity mechanisms it has sought for a decade."
@@ -23,16 +23,6 @@
       "article_url": "https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why",
       "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
       "description": "Key PointsEthereum receives a major update today that should improve its ability to scale."
-    },
-    {
-      "headline": "News Explorer \u2014 Ethereum's Fusaka Upgrade Goes Live as ETH Price Spikes",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcU5ScnlieTg1Rk5ublNoRzdTd3lUNjYzR3k1bHczTHZHS0JmbkNrV0Z4N0V2RXpnRXYzY2hRY3dlYXAzREc0Yk9jQXdfbTdvN0Q4YU9zeTJPRGF3ZXZXOGk2T0FiLUlXWlpiMDg0OFcxMjVKR2FlQkhHVHIzcDN6WFFuMkRZaVpnaDI2akZKbk9UdlNJeE1KWVhVdlhnTjJCcExQbl9OTUFfSTFE?oc=5",
-      "pub_date": 1764828095.0,
-      "article_url": "https://decrypt.co/news-explorer?pinned=1250155&title=ethereums-fusaka-upgrade-goes-live-as-eth-price-spikes",
-      "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-01-gID_7.png",
-      "description": "The next-generation media outlet navigating the intersection of culture and technology."
     },
     {
       "headline": "Bitcoin and Ethereum Price Fall Offers \u2018Attractive' Entry, Says Tom Lee, Predicts BTC ATH Next Month",
@@ -75,6 +65,26 @@
       "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
     },
     {
+      "headline": "Bitcoin, Ethereum, XRP Spike a Day After Mass Sell-off",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaS1ZrWm1wSUZwWHpVdHo2QklTcGswUTNjX3VnVUExXy1xN1U4TUFFZXJha2FsNWhjZ0lhbkxLbnV6Q3YyYUFieFFtMVh2cmZqSVNwRFZUY1Izd1lkeUVtalNrTDRfSURGeUhOZDYxQTQyNmpoVjg0RzJ30gGCAUFVX3lxTFBsYURSYzdQSnd6eUFfQUc5SlA0YXBMemFndld0TlROSHFhY0l4bUJsbkNURVZPWXJOWVZpTEZ6RlF1dFhSNUFNS1dLS2pyTkFQOVhrZ3hKdFp2TS1Malc1dFZSTkctTlFCNzQ4NHFmVU5VNEdEcTNQdElwRmFjWWF2V3c?oc=5",
+      "pub_date": 1764693776.0,
+      "article_url": "https://decrypt.co/350651/bitcoin-ethereum-xrp-spike-day-mass-sell-off",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
+      "description": "Bitcoin rebounds above $90,000 with a 6.7% gain as crypto markets rally. ETH tops $3K, XRP surges while analysts eye Fed's upcoming decision."
+    },
+    {
+      "headline": "Vanguard to Allow Bitcoin, Ethereum and XRP ETF Trading in Major Crypto Pivot",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tZm4yX0NCUkV6bmN2N2Q0LWMtN2ZaT1N2SnBTYTduTlBHRm1faWh3WGlIYV9qLXZUWTF5UWFyVVJmUWw5QlNLYXc4cVRsbUx2cFRKaEZ2UDZibHRCaUl1WTlTVlFGOHNOQUQ4ZExJQTI1anIxRlgtaldPRzItZ9IBhgFBVV95cUxNOHUwNUJYZXJ1MUFQRnp4VzliZ2g0eUtFZjhHRDgxaTJoVDQ3eE8wSEdIaURVcjNTOF8wdHlpYjRFTTRJQ3o2OTBXVHBFYW5WVjlDTU1TMnA4eElDVkpYQ1ZORjVLeWtBcmxhQndESUZweDlENVRvUmtySi1oWGFwX1Y2Z3hQdw?oc=5",
+      "pub_date": 1764629428.0,
+      "article_url": "https://decrypt.co/350558/vanguard-allow-trading-bitcoin-ethereum-xrp-etf",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg",
+      "description": "Vanguard will allow trading of crypto-focused ETFs and mutual funds on its brokerage platform, ending years of resistance."
+    },
+    {
       "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -93,18 +103,8 @@
       "article_url": "https://247wallst.com/investing/2025/12/03/ethereum-crashes-45-from-4950-peak-why-layer-2s-are-killing-eths-value/",
       "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-1680257149-huge-licensed-scaled.jpg",
       "description": "Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?"
-    },
-    {
-      "headline": "Vanguard to Allow Bitcoin, Ethereum and XRP ETF Trading in Major Crypto Pivot",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSDljREtzVTQyZGlqSWNkY0dFNlZfMGFOWXNXR3BSZ2Z6eXh3M0xwaUoyZ1ZGNTBuZHFIWVpGTXhHblhEUDRyQVpYRmJUSGhKVzRuRUx5cEVRWXczeFlkVm5wcjVNb2g0U1V4b3lvQTd6NFRnX2FQcTFHOU44ZHktQWtmVVk1WUwx?oc=5",
-      "pub_date": 1764629428.0,
-      "article_url": "https://finance.yahoo.com/news/vanguard-allow-bitcoin-ethereum-xrp-225028664.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/hXrdldpry5a21Xch5OqnSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/4eea251eb4eefbfb54f2898888037206",
-      "description": "Vanguard will allow trading of crypto-focused ETFs and mutual funds on its brokerage platform, ending years of resistance."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T08:34:00.389964+00:00"
+  "fetched_at": "2025-12-04T09:29:04.321727+00:00"
 }

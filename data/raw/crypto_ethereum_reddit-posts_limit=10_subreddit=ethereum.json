@@ -79,6 +79,17 @@
       "description": "Recently, Hudson Rock analyzed a unique infection from a LummaC2 infostealer log. The victim wasn't a corporate employee or an unsuspecting consumer. The victim was a high-level threat actor operating a sophisticated malware development rig."
     },
     {
+      "title": "Is this approach used in \"sharding\" or a good idea?",
+      "author": "johanngr",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pd6oau/is_this_approach_used_in_sharding_or_a_good_idea/",
+      "published": 1764774459.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It has seemed to me \"sharding\" often tends to split the consensus mechanism. The technicalities of it seem well thought out but not the consensus part. It seems like it often uses something like randomly delegating from the validator pool but this (even if random) splits the consensus. Another approach is to not split the consensus. Add an intermediary level, a \"validator manager\", and make this what is voted for with coin-vote (or people-vote). This \"validator manager\" (or maybe it could even be called \"government\") then delegates one block producer per shard. That way, each shard has the same majority consensus as any other. The \"threads\" of a sharded blockchain have the same consensus as a single-threaded blockchain would."
+    },
+    {
       "title": "Anoma just activated an entirely new state machine on Ethereum and everyone is too busy farming points to realize what just happened",
       "author": "Direct_Reporter9112",
       "url": "https://www.reddit.com/r/ethereum/comments/1pcj7vc/anoma_just_activated_an_entirely_new_state/",
@@ -99,18 +110,7 @@
       "site_name": "Fellowship of Ethereum Magicians",
       "favicon": "https://ethereum-magicians.org/uploads/default/optimized/2X/3/3a633db8b362151a5dd196670cef12dc5deafc05_2_180x180.png",
       "description": "A portmanteau (Portmanteau generator) is needed for Heka + Bogot\u00e1 upgrade after Glamsterdam  The consensus layer uses star names for upgrades whilst the execution layer uses Devcon cities.  See: Post-Merge Network Upgrade Naming Schemes  Recent upgrade names:   \ud83e\udd89 Shapella (Shanghai + Capella) \ud83d\udc21 Dencun (Cancun + Deneb) \ud83e\udd92 Pectra (Prague + Electra) \ud83e\udd93 Fusaka (Fulu + Osaka) Glamsterdam (Gloas + Amsterdam) Heka + Bogot\u00e1  (Apologies if I am stepping on the process for selecti..."
-    },
-    {
-      "title": "Is this approach used in \"sharding\" or a good idea?",
-      "author": "johanngr",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pd6oau/is_this_approach_used_in_sharding_or_a_good_idea/",
-      "published": 1764774459.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It has seemed to me \"sharding\" often tends to split the consensus mechanism. The technicalities of it seem well thought out but not the consensus part. It seems like it often uses something like randomly delegating from the validator pool but this (even if random) splits the consensus. Another approach is to not split the consensus. Add an intermediary level, a \"validator manager\", and make this what is voted for with coin-vote (or people-vote). This \"validator manager\" (or maybe it could even be called \"government\") then delegates one block producer per shard. That way, each shard has the same majority consensus as any other. The \"threads\" of a sharded blockchain have the same consensus as a single-threaded blockchain would."
     }
   ],
-  "fetched_at": "2025-12-04T08:33:46.999924+00:00"
+  "fetched_at": "2025-12-04T09:28:50.935481+00:00"
 }

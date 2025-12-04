@@ -57,17 +57,6 @@
       "description": "Full interview with Stability AI founder Emad Mostaque."
     },
     {
-      "title": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1pduq42/antiimmigrant_material_among_aigenerated_content/",
-      "published": 1764836556.0,
-      "thumbnail": "https://external-preview.redd.it/gc-S3CffAXHWvte7VxwxPcFWp7MXdfgP3hQOBB_fW-g.jpeg?width=640&crop=smart&auto=webp&s=c3f88d8a29a23eb38dda06ffed8d15bc42f06ef9",
-      "external_url": "https://www.theguardian.com/technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
-    },
-    {
       "title": "Border troops getting replaced by robots",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pczmey/border_troops_getting_replaced_by_robots/",
@@ -77,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pduq42/antiimmigrant_material_among_aigenerated_content/",
+      "published": 1764836556.0,
+      "thumbnail": "https://external-preview.redd.it/gc-S3CffAXHWvte7VxwxPcFWp7MXdfgP3hQOBB_fW-g.jpeg?width=640&crop=smart&auto=webp&s=c3f88d8a29a23eb38dda06ffed8d15bc42f06ef9",
+      "external_url": "https://www.theguardian.com/technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
     },
     {
       "title": "The future of prompt engineering is collaborative - built a social platform to prove it",
@@ -112,5 +112,5 @@
       "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
     }
   ],
-  "fetched_at": "2025-12-04T08:33:44.497444+00:00"
+  "fetched_at": "2025-12-04T09:28:49.702459+00:00"
 }

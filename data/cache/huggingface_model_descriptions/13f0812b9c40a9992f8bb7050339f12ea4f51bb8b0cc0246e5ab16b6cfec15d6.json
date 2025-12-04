@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-12-04T09:29:08.913731+00:00",
+  "data": "STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.",
+  "model_id": "apple/starflow"
+}

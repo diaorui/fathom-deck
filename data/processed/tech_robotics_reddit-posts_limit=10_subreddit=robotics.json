@@ -35,17 +35,6 @@
       "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
     },
     {
-      "title": "NVIDIA CEO Jensen Huang on Tesla Optimus:",
-      "author": "shadrack_CK",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdlhe3/nvidia_ceo_jensen_huang_on_tesla_optimus/",
-      "published": 1764808089.0,
-      "thumbnail": "https://external-preview.redd.it/d3dkYng5dGkwMzVnMbbwpuX7-8VsNfH7A1Nkx7tYaacnBWHQ7beSZgJeeMS3.png?width=640&crop=smart&auto=webp&s=9b1ad9070dc7c886bfe880136fb2334af155f91f",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/",
@@ -110,7 +99,18 @@
       "site_name": "youtu.be",
       "favicon": "https://www.youtube.com/s/desktop/9123e71c/img/favicon.ico",
       "description": "I've wanted to mess around with robotics for a loooong time, but it's not an easy sort of thing around here and small scale hobby stuff just doesn't seem that useful to me. Found a pretty good deal on this thing so I'll be diving in headfirst with minimal planning. My original plan was to look into making my own resolver to digital converters and motor drive solution, however, with the cost of RDC chips, it might actually be more feasible and affordable to try and find a used pendant, and work on putting the controls from the cabinet into something smaller, lighter and more reasonable. Time will tell, going to be a long and big project but that's what I've been craving."
+    },
+    {
+      "title": "Question about calibration",
+      "author": "EducationalAd5827",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdt8pi/question_about_calibration/",
+      "published": 1764830993.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi, I'm currently working on a machine that can remove screws from laptops. It's based on this 2D CNC plotter (https://www.youtube.com/watch?v=CW3tCkms7oM&pp=ygUYaG9tZXdvcmsgd3JpdGluZyBtYWNoaW5l2AaKA9IHCQkiCgGHKiGM7w%3D%3D) I'm using a custom trained YOLOV11n model to get virtual coordinates of the screws, but how am I supposed to convert these virtual coordinates into real,actual coordinates in my motion plane so that I can send the relevant GRBL commands? Thanks a lot!"
     }
   ],
-  "fetched_at": "2025-12-04T08:33:48.280305+00:00"
+  "fetched_at": "2025-12-04T09:28:52.196457+00:00"
 }

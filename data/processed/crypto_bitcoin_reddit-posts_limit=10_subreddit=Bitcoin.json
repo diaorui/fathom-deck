@@ -2,17 +2,6 @@
   "subreddit": "Bitcoin",
   "posts": [
     {
-      "title": "300 years from now wouldn't 90% of Bitcoins eventually end up being permanently lost?",
-      "author": "GodblessBTC",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdsa0w/300_years_from_now_wouldnt_90_of_bitcoins/",
-      "published": 1764827664.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It's basic math. Every year thousands of bitcoins are sent to the wrong addresses, owners with cold wallets die, and private keys are lost forever. Right now over 4 million bitcoins are estimated to be lost forever and every year that number rises. So eventually say 300-400 years from now if 90% of Bitcoins end up being permanently lost what happens to the network security if so little transactions are being performed? Wouldn't this decrease the hash rate by A LOT since miners wouldn't make a lot of money from transaction fees?"
-    },
-    {
       "title": "Bitcoin in 2025",
       "author": "Whereas-Informal",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "\ud83d\udc80"
+    },
+    {
+      "title": "300 years from now wouldn't 90% of Bitcoins eventually end up being permanently lost?",
+      "author": "GodblessBTC",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdsa0w/300_years_from_now_wouldnt_90_of_bitcoins/",
+      "published": 1764827664.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It's basic math. Every year thousands of bitcoins are sent to the wrong addresses, owners with cold wallets die, and private keys are lost forever. Right now over 4 million bitcoins are estimated to be lost forever and every year that number rises. So eventually say 300-400 years from now if 90% of Bitcoins end up being permanently lost what happens to the network security if so little transactions are being performed? Wouldn't this decrease the hash rate by A LOT since miners wouldn't make a lot of money from transaction fees?"
     },
     {
       "title": "What do you think?",
@@ -79,6 +79,17 @@
       "description": null
     },
     {
+      "title": "\ud83e\udde1 Thank You Satoshi, for Bitcoin",
+      "author": "DardMiner1982",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/",
+      "published": 1764864084.0,
+      "thumbnail": "https://preview.redd.it/4bp35l21n75g1.jpeg?width=640&crop=smart&auto=webp&s=62ef9d97ad2d4351f44ecc938d7fdd0f99e5af20",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Sometimes we forget the obvious: without Satoshi, BTC wouldn\u2019t exist and our entire crypto journey wouldn\u2019t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. \ud83d\ude80"
+    },
+    {
       "title": "why you didn\u2019t buy more",
       "author": "Available_Reveal4066",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pdy81p/why_you_didnt_buy_more/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "The 4 year cycle is dead. Long live the super-cycle.",
-      "author": "B1ggusDckus",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdu5wd/the_4_year_cycle_is_dead_long_live_the_supercycle/",
-      "published": 1764834421.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Last cycle people were claiming at the top of the euphoria that a super-cycle is about to start. I was very sceptic about that idea, because you know it's always gonna crash. However, this time is different. The market never gone through a phase of euphoria. In fact, all price increases were very reasonable and related to real-live adoption. Now the question is, how can the market crash if it hasn't been through the phase of euphoria? The answer is very simple: It won't. There will be no big crash this time. Welcome to the super-cycle."
     }
   ],
-  "fetched_at": "2025-12-04T15:56:29.642729+00:00"
+  "fetched_at": "2025-12-04T16:36:00.059736+00:00"
 }

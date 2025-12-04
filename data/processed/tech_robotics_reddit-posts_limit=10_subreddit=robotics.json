@@ -57,6 +57,17 @@
       "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
     },
     {
+      "title": "Robot Arm Item-Picking Demo in a Simulated Supermarket Scene",
+      "author": "Individual-Major-309",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdwivk/robot_arm_itempicking_demo_in_a_simulated/",
+      "published": 1764843661.0,
+      "thumbnail": "https://external-preview.redd.it/eXRmNXd5YXl3NTVnMYCv8PAXkGgCffkZ3mU3mCIn1fQ3PLGJd4AHR1j6dS6i.png?width=640&crop=smart&auto=webp&s=d95e093b93b6cf63e90427ce47e7edbaa7e3d828",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A short demo of an item-picking sequence inside a supermarket-style simulation environment. The robot\u2019s navigation in this clip is teleoperated (not autonomous), and the goal is mainly to show how the pick action and scene interactions behave under the current physics setup. For anyone working with manipulation or sim-based workflows, feedback is welcome on aspects such as: motion quality or controller behavior, grasp sequence setup, physics consistency, scene design considerations for similar tasks. Interested in hearing how others approach supermarket-style manipulation tasks in simulation. BGM: Zatplast"
+    },
+    {
       "title": "accidentally built a web robotics simulator pizza delivery game inside lamo",
       "author": "Silly_Asparagus_76",
       "url": "https://www.reddit.com/r/robotics/comments/1pdpf11/accidentally_built_a_web_robotics_simulator_pizza/",
@@ -79,15 +90,15 @@
       "description": "Anybody keeping track of robotics companies that closed in 2025? Here's what I got so far: Guardian Agriculture AWS RoboMaker Rethink Robotics Aldebaran (IP acquired) Attabotics (IP acquired) K-Scale Labs Shape Robotics"
     },
     {
-      "title": "Robot Arm Item-Picking Demo in a Simulated Supermarket Scene",
-      "author": "Individual-Major-309",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdwivk/robot_arm_itempicking_demo_in_a_simulated/",
-      "published": 1764843661.0,
-      "thumbnail": "https://external-preview.redd.it/eXRmNXd5YXl3NTVnMYCv8PAXkGgCffkZ3mU3mCIn1fQ3PLGJd4AHR1j6dS6i.png?width=640&crop=smart&auto=webp&s=d95e093b93b6cf63e90427ce47e7edbaa7e3d828",
+      "title": "Sunday Robotics, New Podcast Episode",
+      "author": "marwaeldiwiny",
+      "url": "https://www.reddit.com/r/robotics/comments/1pe3va3/sunday_robotics_new_podcast_episode/",
+      "published": 1764864416.0,
+      "thumbnail": "https://external-preview.redd.it/MTBlYXJ3NHVuNzVnMbtkBYuAaT2pID18gUmEoHrxBw0Oi--CtM_V6HPif-8k.png?width=640&crop=smart&auto=webp&s=80c2fd1e62ee428a64998ed5e17792ee7ef94d14",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A short demo of an item-picking sequence inside a supermarket-style simulation environment. The robot\u2019s navigation in this clip is teleoperated (not autonomous), and the goal is mainly to show how the pick action and scene interactions behave under the current physics setup. For anyone working with manipulation or sim-based workflows, feedback is welcome on aspects such as: motion quality or controller behavior, grasp sequence setup, physics consistency, scene design considerations for similar tasks. Interested in hearing how others approach supermarket-style manipulation tasks in simulation. BGM: Zatplast"
+      "description": "https://youtu.be/UAlm8Z4mfpU?si=h4K9IuzuAVVI7tnS"
     },
     {
       "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Website: https://gitai.tech/ On \ud835\udd4f: https://x.com/GITAI_HQ"
-    },
-    {
-      "title": "Industrial arms for configurable applications",
-      "author": "Tanky321",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdye9t/industrial_arms_for_configurable_applications/",
-      "published": 1764850174.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi all, Looking for suggestions for an application where I need to send commands to the arm via some field bus (preferably EtherCAT). Ideally I want to send start positions, end positions, velocity abd move style (moveJ, MoveL) and have the robot do the rest. This would be mixed with pre established routines on the robot which would also be called via field bus. Any experience with similar applications? Any recommendations on brands to go with or to stay away from? We would not need a cobot for this application, just a standard 6 axis arm. Thanks!"
     }
   ],
-  "fetched_at": "2025-12-04T15:56:32.605465+00:00"
+  "fetched_at": "2025-12-04T16:36:02.848928+00:00"
 }

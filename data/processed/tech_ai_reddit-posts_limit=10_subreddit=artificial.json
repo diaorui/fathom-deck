@@ -13,6 +13,17 @@
       "description": "Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls \u201cfaster-growing segments.\""
     },
     {
+      "title": "\"Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have.\" -Bernie Sanders",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/",
+      "published": 1764863192.0,
+      "thumbnail": "https://external-preview.redd.it/ajQ1djVmdGNrNzVnMS4wHavFcD04_Fo8pEITu-NLXvUDDhlCWUlUtaGpwxPY.png?width=640&crop=smart&auto=webp&s=c781b57ddf360ddd59e94e68ae8a3dd3a0f9529a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Bank of America predicts an 'air pocket,' not an AI bubble, fueled by mountains of debt piling up from the data center rush | Fortune",
       "author": "fortune",
       "url": "https://www.reddit.com/r/artificial/comments/1pdi0q7/bank_of_america_predicts_an_air_pocket_not_an_ai/",
@@ -44,17 +55,6 @@
       "site_name": "Ars Technica",
       "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
       "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
-    },
-    {
-      "title": "\"Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have.\" -Bernie Sanders",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/",
-      "published": 1764863192.0,
-      "thumbnail": "https://external-preview.redd.it/ajQ1djVmdGNrNzVnMS4wHavFcD04_Fo8pEITu-NLXvUDDhlCWUlUtaGpwxPY.png?width=640&crop=smart&auto=webp&s=c781b57ddf360ddd59e94e68ae8a3dd3a0f9529a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     },
     {
       "title": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
@@ -112,5 +112,5 @@
       "description": "Full interview with Stability AI founder Emad Mostaque."
     }
   ],
-  "fetched_at": "2025-12-04T15:56:28.255905+00:00"
+  "fetched_at": "2025-12-04T16:35:58.716586+00:00"
 }

@@ -2,6 +2,17 @@
   "subreddit": "Bitcoin",
   "posts": [
     {
+      "title": "\ud83e\udde1 Thank You Satoshi, for Bitcoin",
+      "author": "DardMiner1982",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/",
+      "published": 1764864084.0,
+      "thumbnail": "https://preview.redd.it/4bp35l21n75g1.jpeg?width=640&crop=smart&auto=webp&s=62ef9d97ad2d4351f44ecc938d7fdd0f99e5af20",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Sometimes we forget the obvious: without Satoshi, BTC wouldn\u2019t exist and our entire crypto journey wouldn\u2019t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. \ud83d\ude80"
+    },
+    {
       "title": "Bitcoin in 2025",
       "author": "Whereas-Informal",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/",
@@ -33,17 +44,6 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "\ud83e\udde1 Thank You Satoshi, for Bitcoin",
-      "author": "DardMiner1982",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/",
-      "published": 1764864084.0,
-      "thumbnail": "https://preview.redd.it/4bp35l21n75g1.jpeg?width=640&crop=smart&auto=webp&s=62ef9d97ad2d4351f44ecc938d7fdd0f99e5af20",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Sometimes we forget the obvious: without Satoshi, BTC wouldn\u2019t exist and our entire crypto journey wouldn\u2019t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. \ud83d\ude80"
     },
     {
       "title": "full speed",
@@ -90,17 +90,6 @@
       "description": "It's basic math. Every year thousands of bitcoins are sent to the wrong addresses, owners with cold wallets die, and private keys are lost forever. Right now over 4 million bitcoins are estimated to be lost forever and every year that number rises. So eventually say 300-400 years from now if 90% of Bitcoins end up being permanently lost what happens to the network security if so little transactions are being performed? Wouldn't this decrease the hash rate by A LOT since miners wouldn't make a lot of money from transaction fees?"
     },
     {
-      "title": "Oh Franklin",
-      "author": "CrosstrekTrail",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdo8kv/oh_franklin/",
-      "published": 1764815639.0,
-      "thumbnail": "https://preview.redd.it/b0xrw19zm35g1.jpeg?width=640&crop=smart&auto=webp&s=228bd5a23e6669c40f63ee2ce792488905aaf32b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "When every outcome in 2025 is bullish somehow \ud83d\ude02\ud83d\udcc8",
       "author": "Intelligent-Skin4163",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pe3z6z/when_every_outcome_in_2025_is_bullish_somehow/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Oh Franklin",
+      "author": "CrosstrekTrail",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdo8kv/oh_franklin/",
+      "published": 1764815639.0,
+      "thumbnail": "https://preview.redd.it/b0xrw19zm35g1.jpeg?width=640&crop=smart&auto=webp&s=228bd5a23e6669c40f63ee2ce792488905aaf32b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     }
   ],
-  "fetched_at": "2025-12-04T18:46:11.035804+00:00"
+  "fetched_at": "2025-12-04T19:27:13.560477+00:00"
 }

@@ -5,56 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Google taps AI vibe-coder Replit in challenge to Anthropic and Cursor",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQREZhbUllU25qWXlpUzFOSklXOFBNQzhJMU9udVcwMHhTZHR6VVNTcS0yeUJnLXNRazByWkFqWGZ0bDRQSFIzbDdjUkY2TVhhTTU0TVdQLUVDaEN3Zi04c3FWYWttYjZzVjRERFoxdkpob0dwZnVhalRxc2RpVjhtekhpWVZ4ZlRmU0HSAY8BQVVfeXFMTmRfb19JZ0tka0IxQ19McnljU0RiaU9mVEVpQlRvTDB5bF9Id1dGOXJBTDdJZjNaZklwQkd4eXFiN3VtdWcyX21adkYzcjBqN29McG4yWG9KUUZsWS0xT2ZOMFdpT1dtcF9RSk5WM1VwVjVCdGoxU3hXbG1GUkZlamZ4b1FIR182MTExSG5HVnc?oc=5",
-      "pub_date": 1764865501.0,
-      "article_url": "https://www.cnbc.com/2025/12/04/google-replit-ai-vibe-coding-anthropic-cursor.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108110442-17410953382025-03-04t133422z_1544458560_rc2c6dayqlr2_rtrmadp_0_tech-conference-mwc.jpeg?v=1741095676&w=1920&h=1080",
-      "description": "Replit will expand usage of Google Cloud services, add more of Google's models onto its platform, and support AI coding use cases for enterprise customers."
-    },
-    {
-      "headline": "As Hochul Considers an A.I. Bill, Its Sponsor Throws Her a Fund-Raiser",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpSEZadkZwTzhvaTJsTDhXOWxDVHo2X0YtTWk1XzV5cGNDUEFFMk1fYkJLR0pkNWE0U0lHSmJONURRS3R1SkhOOEhuMFFsQmwxVC0yZWhCTC12dlhBNHRIcmpadTlMQkY1SEUzdjVSZFpVbWgxLXBkRg?oc=5",
-      "pub_date": 1764861935.0,
-      "article_url": "https://www.nytimes.com/2025/12/04/nyregion/hochul-ai-bill-bores.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI Impact: The Speed of Trust",
-      "source": "Newsweek",
-      "source_url": "https://www.newsweek.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4YjYxVm1PX2ZRNW00bFVyaGVPVDdndGhYOFNEYXA0eXMwNnlDZnVnQUItRXQ3ckdPOVpiaVFac1ZVVnRkQWgwWHp3VUNxVm9IZWtuUmJyRzNtRThNTk9tRG1ndF9PWFludnZpa0ZJNDlCQ3RVSFZF?oc=5",
-      "pub_date": 1764872095.0,
-      "article_url": "https://www.newsweek.com/nw-ai/ai-impact-the-speed-of-trust-11157995",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2025/10/AI-Impact.jpeg?w=1200crop=1",
-      "description": "AI Impact highlights shifting consumer behavior, AI adoption insights, new research, major exec moves and Newsweek events."
-    },
-    {
-      "headline": "AI Cloud Provider Aiding Google\u2019s Chip Push Is in Talks to Raise $700 Million",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHRxSkt1dDZya2FZNFhjYzRVbFJJVjYyVE5QOTlZTVVaS3Q3RExhVE9FMlcyQXVTOWZFNWhiRlh0dS04TXdaUnFvNnc2UzA2a0JRM2h5TkxfaUZFNWxEcVVGb2NfSjNDRnU2Z0RJRUc2ODB6TGRuLUV2dkFjX1Vkd1h1V0huSkl6WU00aGxRX1d0ZDVkeDVkYkYzOWN0ZjFvWmxjY1E4ZDB2Zw?oc=5",
-      "pub_date": 1764872940.0,
-      "article_url": "https://www.theinformation.com/articles/ai-cloud-provider-aiding-googles-chip-push-talks-raise-700-million",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Min Chun Fu: Why Design, Not Code, Will Decide AI\u2019s Future",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMkplOXlvTGkxdGxlYXctYkFfSnN6Z2VMWGdyZFlsdmc2NUZWeWpMS1lOeHBSR013elBJOUdMNXpPelVubEozSk9zVFdQOGNEYVpLdm5VdEp6c3h1cFJGUFliVjVGZzQ4MHJrLUx6cTN3NXR5OFVnaHJNRnNPbkltbjBZNExxSlpyOEFWWFZNLVNJY1kzMVRwbjNwZUthMVlwYmp6ZV8ybHJsaGFVVHhJZ1ptQTFybUJXVktNZndzUWs5UVo2U1gxbURpYnhiUU5Zdmlr?oc=5",
-      "pub_date": 1764871680.0,
-      "article_url": "https://www.usatoday.com/story/special/contributor-content/2025/12/04/min-chun-fu-why-design-not-code-will-decide-ais-future/87606639007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/04/USAT/87606644007-dsc-09964.jpeg?crop=9503,5347,x0,y494&width=3200&height=1801&format=pjpg&auto=webp",
-      "description": "He argues the next stage of AI won\u2019t be defined by greater computational force but by a discipline long treated as secondary: transparent design."
-    },
-    {
       "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -65,24 +15,34 @@
       "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
     },
     {
-      "headline": "The US may be running the wrong AI race",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52QzFKUXpCX09iY0hhVG1OYVRKcXJ1ZDFrcWtZSXNpNmNWYUlQWWVoRFFPTHpnU1ZkSVpXb3NGeHdXN0dFZDhpUjBvQWtRY29ZRWhCcmlqdnNLZS0wajU5Rm52VVpfYnZiNFFlR0JIUmU?oc=5",
-      "pub_date": 1764859498.0,
-      "article_url": "https://www.ft.com/content/45615c0a-952d-49b6-b2e0-c35d3826768f",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76180ea3-b738-4223-ab13-ac6df21ea7f1.jpg?source=next-barrier-page",
-      "description": "China\u2019s favouring of small and cheap models such as DeepSeek could prove to be the better bet"
+      "headline": "As Hochul Considers an A.I. Bill, Its Sponsor Throws Her a Fund-Raiser",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpSEZadkZwTzhvaTJsTDhXOWxDVHo2X0YtTWk1XzV5cGNDUEFFMk1fYkJLR0pkNWE0U0lHSmJONURRS3R1SkhOOEhuMFFsQmwxVC0yZWhCTC12dlhBNHRIcmpadTlMQkY1SEUzdjVSZFpVbWgxLXBkRg?oc=5",
+      "pub_date": 1764835205.0,
+      "article_url": "https://www.nytimes.com/2025/12/04/nyregion/hochul-ai-bill-bores.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "The AI boom is heralding a new gold rush in the American west",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBneVRydDFuam1rcEpvX2YxN25wM181dENRS1dwdE96Xzdja1g5aC1saUh5S3lwSGhOc0JLdy13SG91UVhseWhPSEJSSjY3b0trZ3lxd19UelBwclNOVmNfZ1NQM25vRGtRS2gxUVlUak9taTRhOU9JTkJKRkpfUQ?oc=5",
-      "pub_date": 1764870540.0,
-      "article_url": "https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers",
-      "image": "https://i.guim.co.uk/img/media/98b1dc3ef8182910c8dc25f71f49cdb364619a90/426_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3038117c30becf03294ba8e66858bb5",
-      "description": "Once home to gold and prospectors, the Nevada desert is now the site of a new kind of expansion: tech datacenters"
+      "headline": "Google\u2019s AI model is getting really good at spoofing phone photos",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEFYU1hCNkZXMDRwdjYzamJYU3BNZ0p2SzNNNEY0OFAxNmMtRUl1cGg4RjF1ZjJ0TWJTbEsxOVNDQnFka1RmLWljVkpvbnlpRy0zZDZqUks5cUNOVTNSbGk3VkVRdS1wUWotYTRLZ2p6LU12cGdjQTlFLXBoMm54eGJpTU12M3hPZjJlRw?oc=5",
+      "pub_date": 1764873900.0,
+      "article_url": "https://www.theverge.com/report/837971/google-nano-banana-pro-realistic-phone-photos",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ai-label-4.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "We\u2019re cooked."
+    },
+    {
+      "headline": "AI chatbots used inaccurate information to change political opinions: study",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR0dPZUNRWWNKandkcWZ0VnZic1MtWUlibHlBY1JoWjdkOFQ5RkxMdEZhSlI4QllDTEhRSlZveU44OGpxV1NtWWdrc0dFZkdqZ2dLNzhpcnIzMVkwcFQ2RmdLYzN6WG55VmxhUTk3alUwODRLVUZTX2F0RkV5UGNPZVYxSmpERzRNdXZiWjNtMGFUTFlTU0RfNWpyUFdDc3NabjVPREt5d3J4NVh3bDFMWkZ3WWpxN0ZHQjJiY9IBVkFVX3lxTFBUWUtkVlREVDlieGNzNTlna3lhcTNGNzJfd3NLQl9jNmRtV0txWkkxWDVBcTd2ZU5VRWJ6alVwekdNS2I2WENiMklwX0ZlX0RDTVNZdjVn?oc=5",
+      "pub_date": 1764874834.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251204-ai-political-chatbot-jg-97efd8.jpg",
+      "description": "A paper published in the journal Science found that chatbots become more persuasive when they share large amounts of information."
     },
     {
       "headline": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
@@ -103,8 +63,48 @@
       "article_url": "https://www.cnbc.com/2025/12/03/microsoft-stock-ai-foundry-sales.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108147619-1747681492573-gettyimages-2215431528-AFP_47CD63U.jpeg?v=1764772737&w=1920&h=1080",
       "description": "Microsoft stock sank after a report that multiple sales teams for the company's Azure Foundry product missed growth goals in the last fiscal year."
+    },
+    {
+      "headline": "Microsoft Wants to Sell Software Subscriptions\u2014to AI Agents; AWS\u2019 AI Fallback Plan",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkNOQWpNTlNNQndCTGs1bXNnaG9KaXZkdVBKclJYYmNKU1l5bElzQWNHbVB2NlRRbm1lX3NpN00xUmxmVlJFN1hnNGItdmFxZEZ2X0NsOUpha1pybVpEcWk5NDVNald2LVBoU1pDRlNHams1VnZYS084MUtHY0tHVFRWSHRVQ0g2S1gzTmVqSG1GeVp0UzMyZERJYlp0STlrSVpwMFZQSVprT3ctRC1KQ0JLdmc?oc=5",
+      "pub_date": 1764873840.0,
+      "article_url": "https://www.theinformation.com/articles/microsoft-wants-sell-software-subscriptions-ai-agents-aws-ai-fallback-plan",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How AI is rewiring childhood",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEODhlSTI5VGZ6amg1clNjeDRwTWQ3RDFXWGFtWW9DYXlNRGN3b25UdE0xSko2aktmRWJqSTY2SzlQM1ZBY2RpMWpObkhzZTdHMkVwVjRuazVmQjJ0ZjNyOXdBLVJIRGlxeG1jWUhyS3AwX3B4ekJkdFpER0YxQQ?oc=5",
+      "pub_date": 1764847921.0,
+      "article_url": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google taps AI vibe-coder Replit in challenge to Anthropic and Cursor",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQREZhbUllU25qWXlpUzFOSklXOFBNQzhJMU9udVcwMHhTZHR6VVNTcS0yeUJnLXNRazByWkFqWGZ0bDRQSFIzbDdjUkY2TVhhTTU0TVdQLUVDaEN3Zi04c3FWYWttYjZzVjRERFoxdkpob0dwZnVhalRxc2RpVjhtekhpWVZ4ZlRmU0HSAY8BQVVfeXFMTmRfb19JZ0tka0IxQ19McnljU0RiaU9mVEVpQlRvTDB5bF9Id1dGOXJBTDdJZjNaZklwQkd4eXFiN3VtdWcyX21adkYzcjBqN29McG4yWG9KUUZsWS0xT2ZOMFdpT1dtcF9RSk5WM1VwVjVCdGoxU3hXbG1GUkZlamZ4b1FIR182MTExSG5HVnc?oc=5",
+      "pub_date": 1764865501.0,
+      "article_url": "https://www.cnbc.com/2025/12/04/google-replit-ai-vibe-coding-anthropic-cursor.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108110442-17410953382025-03-04t133422z_1544458560_rc2c6dayqlr2_rtrmadp_0_tech-conference-mwc.jpeg?v=1741095676&w=1920&h=1080",
+      "description": "Replit will expand usage of Google Cloud services, add more of Google's models onto its platform, and support AI coding use cases for enterprise customers."
+    },
+    {
+      "headline": "The US may be running the wrong AI race",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52QzFKUXpCX09iY0hhVG1OYVRKcXJ1ZDFrcWtZSXNpNmNWYUlQWWVoRFFPTHpnU1ZkSVpXb3NGeHdXN0dFZDhpUjBvQWtRY29ZRWhCcmlqdnNLZS0wajU5Rm52VVpfYnZiNFFlR0JIUmU?oc=5",
+      "pub_date": 1764859498.0,
+      "article_url": "https://www.ft.com/content/45615c0a-952d-49b6-b2e0-c35d3826768f",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76180ea3-b738-4223-ab13-ac6df21ea7f1.jpg?source=next-barrier-page",
+      "description": "China\u2019s favouring of small and cheap models such as DeepSeek could prove to be the better bet"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T18:46:29.070327+00:00"
+  "fetched_at": "2025-12-04T19:27:33.124883+00:00"
 }

@@ -35,6 +35,17 @@
       "description": "\u201cIs this 2000? Are we in a bubble? No,\u201d BofA\u2019s strategy chief Savita Subramanian said. \u201cWill AI continue in unfettered leadership? No.\u201d"
     },
     {
+      "title": "AMD CEO Lisa Su Says Concerns About an AI Bubble Are Overblown",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1pe8g15/amd_ceo_lisa_su_says_concerns_about_an_ai_bubble/",
+      "published": 1764874518.0,
+      "thumbnail": "https://external-preview.redd.it/BPOIx-ZOz9ssHu4OECRub9inJfHprj42iuv9KiLfiBw.jpeg?width=640&crop=smart&auto=webp&s=9473d945c8bc571b75f7b7e03acd75c55c15e0c6",
+      "external_url": "https://www.wired.com/story/big-interview-event-lisa-su-amd/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "Lisa Su leads Nvidia\u2019s biggest rival in the AI chip market. When asked at WIRED\u2019s Big Interview event if AI is a bubble, company said \u201cEmphatically, from my perspective, no.\u201d"
+    },
+    {
       "title": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1pdb7ml/microsofts_reported_sales_struggles_are_a_warning/",
@@ -55,6 +66,17 @@
       "site_name": "Ars Technica",
       "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
       "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
+    },
+    {
+      "title": "Extremists could use AI to make bioweapons capable of sparking future pandemics, tech experts warn",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pe5j2f/extremists_could_use_ai_to_make_bioweapons/",
+      "published": 1764868146.0,
+      "thumbnail": null,
+      "external_url": "https://www.euronews.com/health/2025/12/03/extremists-could-use-ai-to-make-bioweapons-capable-of-sparking-future-pandemics-tech-exper",
+      "site_name": "euronews",
+      "favicon": "https://www.euronews.com/apple-touch-icon.png",
+      "description": "Existing and emerging AI tools could technically be used to create a bioweapon capable of starting a pandemic, experts said."
     },
     {
       "title": "On the Like Between Human Legitimacy & Slop; No Hate Just Want Discussion",
@@ -88,29 +110,7 @@
       "site_name": "the Guardian",
       "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
       "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
-    },
-    {
-      "title": "Extremists could use AI to make bioweapons capable of sparking future pandemics, tech experts warn",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pe5j2f/extremists_could_use_ai_to_make_bioweapons/",
-      "published": 1764868146.0,
-      "thumbnail": null,
-      "external_url": "https://www.euronews.com/health/2025/12/03/extremists-could-use-ai-to-make-bioweapons-capable-of-sparking-future-pandemics-tech-exper",
-      "site_name": "euronews",
-      "favicon": "https://www.euronews.com/apple-touch-icon.png",
-      "description": "Existing and emerging AI tools could technically be used to create a bioweapon capable of starting a pandemic, experts said."
-    },
-    {
-      "title": "YouTube Creators Spin Up AI Videos to Keep Babies Glued to the Screen",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pe57ck/youtube_creators_spin_up_ai_videos_to_keep_babies/",
-      "published": 1764867441.0,
-      "thumbnail": "https://external-preview.redd.it/9oNbCiSTiy0OECpI2b979PaWnvHrCK-QHAupDrtRBUI.jpeg?width=640&crop=smart&auto=webp&s=6f1ef19e12cadd42e58a4d992cd5ef630ec6cb3a",
-      "external_url": "https://www.bloomberg.com/news/newsletters/2025-12-04/youtube-creators-spin-up-ai-videos-to-keep-babies-glued-to-the-screen",
-      "site_name": "Bloomberg.com",
-      "favicon": "https://www.bloomberg.com/favicon-black.png",
-      "description": "Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg\u2019s journalists around the world. Today, Alexandra S. Levine follows her report on the growing use of AI videos on YouTube aimed at children younger than 2 years old."
     }
   ],
-  "fetched_at": "2025-12-04T18:46:13.381403+00:00"
+  "fetched_at": "2025-12-04T19:27:13.562529+00:00"
 }

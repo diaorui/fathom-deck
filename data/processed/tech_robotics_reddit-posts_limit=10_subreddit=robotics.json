@@ -90,6 +90,17 @@
       "description": "The video shows: - the system's calm state - the moment an object appears in the zone - the transition to active mode and activation This is very early logic, without optimizations or \"smart\" algorithms\u2014I'm simply testing the principle: is it possible to reliably capture live events this way? Feedback would be appreciated."
     },
     {
+      "title": "Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:",
+      "author": "shadrack_CK",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/",
+      "published": 1764847786.0,
+      "thumbnail": "https://external-preview.redd.it/ZXFyNnBrYWthNjVnMZic-YAL2FrbG_LahCho4nLawiVY0IxB1oL25EA8EEnf.png?width=640&crop=smart&auto=webp&s=a3f734b42d1aaff8fe44a188560a007b1b91ae2b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Waymo self-driving car enters active police standoff with passenger inside",
       "author": "BuildwithVignesh",
       "url": "https://www.reddit.com/r/robotics/comments/1pcz5ba/waymo_selfdriving_car_enters_active_police/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
-    },
-    {
-      "title": "X-VLA: The First Soft-Prompted Robot Foundation Model for Any Robot, Any Task",
-      "author": "Soft-Worth-4872",
-      "url": "https://www.reddit.com/r/robotics/comments/1pe7g1f/xvla_the_first_softprompted_robot_foundation/",
-      "published": 1764872329.0,
-      "thumbnail": "https://b.thumbs.redditmedia.com/CXJagVm6hhP8uvT5NnTGTn61vXo4qG5GX2no-3v72_s.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi everyone! At Hugging Face / LeRobot, one of our goals is to make strong, accessible VLA models available to the whole robotics community. Today we\u2019re excited to announce X-VLA in LeRobot, a new soft-prompted robot foundation model that can generalize across embodiments, sensors, and action spaces. We\u2019re releasing 6 checkpoints, including a pretrained base model and a cloth-folding checkpoint that hits 100% success for two straight hours. There is also an uncut 2-hour folding run powered entirely by X-VLA (video + checkpoints). You can check it out here: \ud83d\udc49 https://x.com/jadechoghari/status/1996639961366548597 If you want to try it yourself, you can fine-tune X-VLA on any dataset, with any action dimension, directly through LeRobot: https://huggingface.co/collections/lerobot/xvla Happy tinkering, and would love feedback from the community! \ud83e\uddf5\ud83e\udd16 Docs/Blog: https://huggingface.co/docs/lerobot/en/xvlaPaper from Tsinghua: https://arxiv.org/abs/2510.10274 https://preview.redd.it/fzhq2qd7b85g1.png?width=2282&format=png&auto=webp&s=51d9ae8f9481bd3f0537eda6b6e2ee1d29f1e76a"
     }
   ],
-  "fetched_at": "2025-12-04T22:46:44.795581+00:00"
+  "fetched_at": "2025-12-04T23:26:35.498804+00:00"
 }

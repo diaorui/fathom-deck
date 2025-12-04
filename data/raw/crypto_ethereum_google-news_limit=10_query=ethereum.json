@@ -5,24 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Ethereum Price Swells as Fusaka Upgrade Goes Live",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVnQxWnpfN2RCSFU0YUE4Y3Y1U2VIeW9UcVRjTXlEYjVSNHAwRm5UMFctdV93OWdNOEFfLXd6SWhtaEZma3pFUTV0bEdURFlzb2lpdDByUFhPOHZIUHJVOUNoamRyZ1dxRWZFX2k0Qm5EVkZSVlFJeUloaUdCdFY4SHh2cHhLazlNZmc?oc=5",
-      "pub_date": 1764825000.0,
-      "article_url": "https://finance.yahoo.com/news/ethereum-price-swells-fusaka-upgrade-051052394.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/oH5paLbWX3wzGFaVVlXfoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/2e7137a839018d659fb583b8c63fc123",
-      "description": "Fusaka represents what some describe as Ethereum\u2019s first real step into key data sampling and capacity mechanisms it has sought for a decade."
-    },
-    {
-      "headline": "Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward",
-      "source": "cheddar.com",
-      "source_url": "https://www.cheddar.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTVmU0xYbUpQR2ZuTkJmUW5laWVVTzNRWmROaV90N1pKWDM2NzVGU3QwM2pCMHkzbU1kQnNuei1xSHVtVzBicTd4YlZxR3FhaDhBcmRZZzBQeWdUbnd4M0pwcml5UVI5ZFRTVDAyT2Via2xNYm1wTDJCSk13LUkwdkxmeWpmaVdfS0lkUndVWDYxZndVbmFSbHZtZ291N0dMVmJPMDVSdnVWM3RZR1RF?oc=5",
-      "pub_date": 1764882090.0,
-      "article_url": "https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/",
-      "image": "https://www.armytimes.com/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F12-04-2025%2Ft_45411740f6d845718216e5084da325ac_name_GettyImages_1949242392.jpg?width=1200&auth=739acda4878c2a3de6385a8d35c657cd02961264fe44edcf5adbab972b158712",
-      "description": "Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market."
+      "headline": "Ethereum Fusaka upgrade goes live, bringing eightfold increase in \u2018blob\u2019 capacity",
+      "source": "dlnews.com",
+      "source_url": "https://www.dlnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWk9NcWY4S25CdTlQaFhnYjRRMjhpMlhPdTlBN1lBSlRVZGJjRWtySTFhVXlLOXFuMjdoRm8yLXdSTEVfWk5kZy1YLXZlbkJpN0ZBN0U3bm1vWm9LS01fRlVIbG8tNDBxLVBVeUJ0Y2h0ZjBmbVFpZ2ZXOFhXNzR4MlN2ZXdnUVlaemxJbkxmS3pyVExuTGNJMDJTaUQ?oc=5",
+      "pub_date": 1764800118.0,
+      "article_url": "https://www.dlnews.com/articles/defi/ethereum-fusaka-brings-eightfold-increase-in-blob-capacity/",
+      "image": "https://www.dlnews.com/resizer/v2/7KP24JRD4NAHBNQSX3634VDX7Q.jpg?smart=true&auth=90a956a4f6dc5552d86b5b75cb5fa4a433c1e5af44333d2eb4fc3949617e3d9c&width=1200&height=630",
+      "description": "Ethereum underwent its second major upgrade of the year on Wednesday. The upgrade, Fusaka, further reduces the cost of transactions on layer 2 blockchains. A minor upgrade will follow on December 9."
     },
     {
       "headline": "Solana and Ethereum Network Base Are Now Connected Thanks to Coinbase and Chainlink",
@@ -45,6 +35,56 @@
       "description": "Top markets on Myriad this week include predictions on where Bitcoin and Ethereum are headed next, plus odds of another major liquidation event."
     },
     {
+      "headline": "Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum",
+      "source": "dlnews.com",
+      "source_url": "https://www.dlnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX01sbUpWQzJyRXp1YVNhd2c1UGtlTFR6QldTRy1LTGZKeUdISVRUbzNaZ3h4V3BMcGdIUTN6VWNaZ2xDcnZKcUVVSXpVOE9SazNFMHFwU1QyZUFFN2pNcWFGVXctYjJKRGRFMC1HQzFtZHQySlJ0QWxaeVUxUmF1cjlPZUhnM1E3Z203S0lDWjRvNUExdG8yTXhxc3RGaEtQekpRVFNCZVl0UEk?oc=5",
+      "pub_date": 1764842594.0,
+      "article_url": "https://www.dlnews.com/articles/markets/bitmine-stock-jumps-15-percent-as-tom-lee-snaps-up-150-in-ethereum/",
+      "image": "https://www.dlnews.com/resizer/v2/FXE6Z4LPNJHKNCND4557ZTMV6M.jpg?smart=true&auth=38492572677366fd120ff010adf3924d35be13444f140486ebd3020bc995054e&width=1200&height=630",
+      "description": "Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December."
+    },
+    {
+      "headline": "Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward",
+      "source": "cheddar.com",
+      "source_url": "https://www.cheddar.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTVmU0xYbUpQR2ZuTkJmUW5laWVVTzNRWmROaV90N1pKWDM2NzVGU3QwM2pCMHkzbU1kQnNuei1xSHVtVzBicTd4YlZxR3FhaDhBcmRZZzBQeWdUbnd4M0pwcml5UVI5ZFRTVDAyT2Via2xNYm1wTDJCSk13LUkwdkxmeWpmaVdfS0lkUndVWDYxZndVbmFSbHZtZ291N0dMVmJPMDVSdnVWM3RZR1RF?oc=5",
+      "pub_date": 1764882090.0,
+      "article_url": "https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/",
+      "image": "https://www.armytimes.com/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F12-04-2025%2Ft_45411740f6d845718216e5084da325ac_name_GettyImages_1949242392.jpg?width=1200&auth=739acda4878c2a3de6385a8d35c657cd02961264fe44edcf5adbab972b158712",
+      "description": "Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market."
+    },
+    {
+      "headline": "Ethereum Is Jumping Today-Here's Why",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWGpldHgyMXZmeGkzdy1WTWtJZXNOQ3BCcjd4czFHMnhCcjNOeHpaLU5NczRXY3FSbng5QlE2OGZWejRGemI0T21tWjNTSnVyYl9ZbEtkMXBDM3pQNEtEUWNOLXcwNXJIS0tQaDNlRGx2QQ?oc=5",
+      "pub_date": 1764791640.0,
+      "article_url": "https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsEthereum receives a major update today that should improve its ability to scale."
+    },
+    {
+      "headline": "Why Ethereum Is Gaining Today",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SdzVJN2dQOFFHZkpIRkhuOWNQU0Q1WTBlaXoxVG9TTl85VVZ6b2NPY3l0SXhHVG1BMFlYbTYtUHlTclZjYm5Fb1lQeGF5VWxlbmtuVmRMdXRJM3hPY3hJSnNPNENqM3NLWlVMUVVFN0pLOVQyWGJKMzkyNWI?oc=5",
+      "pub_date": 1764708396.0,
+      "article_url": "https://finance.yahoo.com/news/why-ethereum-gaining-today-204636059.html",
+      "image": "https://media.zenfs.com/en/motleyfool.com/310cc4ae9f8db60010a48b0e54aeb4ae",
+      "description": "Stablecoin regulation is moving forward."
+    },
+    {
+      "headline": "Ethereum Crashes 45% From $4,950 Peak: Why Layer 2s Are Killing ETH\u2019s Value",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORndpWjVXNHJDQzJfMlA2aFZ0OTRvTVZ0U1lVWXROU3E2Smsza09IOE5Bc2xWSTZGUFVaTXhGbko0ekN3ZjlsUkplOFA2dGRLNXIyekRmNXFUQjRrcXBfWG9qOE4tRzV3UVZuZWtKMDRMWUxsNk10WlNWcndaTGc0cEJfczNEUm96ZmxRQkg5TGNMdmEtTzYwUGE3bWdJcWxUSTR6N2hVcXpwNUJNZ2hHaDN1YXA?oc=5",
+      "pub_date": 1764780355.0,
+      "article_url": "https://247wallst.com/investing/2025/12/03/ethereum-crashes-45-from-4950-peak-why-layer-2s-are-killing-eths-value/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-1680257149-huge-licensed-scaled.jpg",
+      "description": "Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?"
+    },
+    {
       "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -63,48 +103,8 @@
       "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
       "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
       "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
-    },
-    {
-      "headline": "While Ethereum whales rotate, XRP data shows a fatal concentration flaw that leaves one group holding the bag.",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQU1yWmF4R3ZRVEREbUpmMlNuSEl1YVFUa09RNmRQTnhOLUVUaE5oT2ZmNWo0TWN4VUJlTHdGWGdtZm1sLUtPVFc0MTZuZHJxeE50aTIwWVZFZFZ1UFBCRWJXUlhDUlFmMS1YZGdjdEM?oc=5",
-      "pub_date": 1764779700.0,
-      "article_url": "https://cryptoslate.com/ethereum-xrp-whales-concentration-risk/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2025/12/ethereum-xrp-whale.jpg",
-      "description": "We quantify how much old supply just moved and why now."
-    },
-    {
-      "headline": "ChatGPT Thinks Ethereum Will Close At This Level By The End of 2025",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHNLZ2VNWDVGOG5NcFI3QWJ4bTJ4dzl4MXpyQTk0UHBRdmpidjF0Ql9DU2t0YWdDOVhBNFBVcTdGRDB2X2hvbmdCM1VESUlSWklNcnFSbzkxT0pFTnVlSEVXSElvTlc5OG1YWU42a2tWbVJKVVJTR3dsRFc0dEZUMkpETDZlVFlx?oc=5",
-      "pub_date": 1764875908.0,
-      "article_url": "https://finance.yahoo.com/news/chatgpt-thinks-ethereum-close-level-191828479.html",
-      "image": "https://media.zenfs.com/en/benzinga_79/cd8f7f3516e5885b4127b690baf2b5d1",
-      "description": "Ethereum is starting December in Bitcoin's shadow. The token is selling off with the rest of crypto but holding key support zones as traders wait for signs of stabilization in risk assets. It has lagged Bitcoin on the way up this cycle, giving the ..."
-    },
-    {
-      "headline": "Ethereum Crashes 45% From $4,950 Peak: Why Layer 2s Are Killing ETH\u2019s Value",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORndpWjVXNHJDQzJfMlA2aFZ0OTRvTVZ0U1lVWXROU3E2Smsza09IOE5Bc2xWSTZGUFVaTXhGbko0ekN3ZjlsUkplOFA2dGRLNXIyekRmNXFUQjRrcXBfWG9qOE4tRzV3UVZuZWtKMDRMWUxsNk10WlNWcndaTGc0cEJfczNEUm96ZmxRQkg5TGNMdmEtTzYwUGE3bWdJcWxUSTR6N2hVcXpwNUJNZ2hHaDN1YXA?oc=5",
-      "pub_date": 1764780355.0,
-      "article_url": "https://247wallst.com/investing/2025/12/03/ethereum-crashes-45-from-4950-peak-why-layer-2s-are-killing-eths-value/",
-      "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-1680257149-huge-licensed-scaled.jpg",
-      "description": "Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?"
-    },
-    {
-      "headline": "Why Ethereum Is Gaining Today",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTlCRUlhQVpVRkl6LXd2Ri1HQlRyek90aDVIY2IzTkt0RExKMEdOLXhRUHp4ejJzZWJCSXBKZ2VjbWMzUWhBVmg0QmNCOVFFWjdXbl8wODZ5Vm1INldpdFJra2ZPT3BjV3YyVWZWLUlZcXFsR2JMN0JkQnFPbUxBb2FQZHluUDl2?oc=5",
-      "pub_date": 1764708360.0,
-      "article_url": "https://www.fool.com/investing/2025/12/02/why-ethereum-is-gaining-fed-vice-chair/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845234%2Feth.jpg&w=1200&op=resize",
-      "description": "Stablecoin regulation is moving forward."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T22:33:31.997115+00:00"
+  "fetched_at": "2025-12-04T23:26:47.654232+00:00"
 }

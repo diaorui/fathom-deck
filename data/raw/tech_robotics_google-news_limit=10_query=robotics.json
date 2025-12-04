@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robotics Stocks Surged on Wednesday. Here's Why.",
-      "source": "Nasdaq",
-      "source_url": "https://www.nasdaq.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOQW9FdmxCb1NwWFZyZGo5cERDa2JTaWUtS1BVb2cxSmlMT3NHLTVnSEQ2OVVnSk02SnBHTXJBMnF6REY3d1JaZGFXY3I0V2E0cC1yU0xPRXV5TTVXazhjMkExYzhoNThsNVNiUTcyUzZWUE9IMDJVeDFmQ1I4T3M?oc=5",
-      "pub_date": 1764822960.0,
-      "article_url": "https://www.nasdaq.com/articles/robotics-stocks-surged-wednesday-heres-why",
-      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-      "description": "Key PointsPresident Trump is reportedly considering signing an executive order in the new year to accelerate the development of robots in the U.S."
+      "headline": "After AI push, Trump administration is now looking to robots",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODlWRm96ekx1MlBkMnZOcE5zMm9ZRkZjVTI1YlNiNm9wS1BNTGJNMDV0RmphQlhFeF9wdEx5UWI1RjRzZGp5UlRZNTloa3RGd241ZTlkRXpYR0hYdXRmYzJBdXROSk5BNUdSeFdhaUhFcmdOOUpuVHBVdjh5a1FONkpGbV96czczRmc?oc=5",
+      "pub_date": 1764775036.0,
+      "article_url": "https://www.politico.com/news/2025/12/03/trump-administration-ai-robotics-00674204",
+      "image": null,
+      "description": null
     },
     {
       "headline": "MIT\u2019s AI Robotics Lab Director Is Building People-Centered Robots",
@@ -25,16 +25,6 @@
       "description": "From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?"
     },
     {
-      "headline": "Former Stryker robotics leader named CEO at Olympus\u2019 Swan EndoSurgical robotics play",
-      "source": "MassDevice",
-      "source_url": "https://www.massdevice.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNzBtV1pfZHdJYWJJdjJMUXZoempDcE85dzhGbnRYM0I2RW55TDdYb19qUE1tOWdyQnV2WGNMR0VUUFBYSXN4bnNsSmg1NXJ1S3Y1di10M25KbHp4UzJfaEJyU0FJOXdBVGJJZ0JGQWJNanhvSDY1a09Fenl5eEkzSlpiV0p5Zw?oc=5",
-      "pub_date": 1764699075.0,
-      "article_url": "https://www.massdevice.com/former-stryker-leader-ceo-swan-endosurgical-olympus/",
-      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/12/02121755/Erik-Todd-Swan-Endosurgical.jpg",
-      "description": "Swan EndoSurgical announced today that it has appointed longtime Stryker robotics leader Erik Todd as its CEO."
-    },
-    {
       "headline": "Vision-native AI opportunities: a precursor to intelligent robotics",
       "source": "Bessemer Venture Partners",
       "source_url": "https://www.bvp.com",
@@ -43,6 +33,16 @@
       "article_url": "https://www.bvp.com/atlas/vision-native-ai-opportunities-a-precursor-to-intelligent-robotics",
       "image": "https://www.bvp.com/assets/uploads/2025/12/ATLAS_Vision-Native-AI_1600x900_final-min.png",
       "description": "As AI advances into the real world of robotics and automation, we\u2019re seeing a turning point for physical AI \u2014 1X\u2019s NEO Home Robot can now adapt to new environments in real-time, Physical Intelligence\u2019s Pi0 became the first robot to fold laundry with human-level dexterity straight from a hamper, and Tesla\u2019s Optimus is performing complex [\u2026]"
+    },
+    {
+      "headline": "Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO",
+      "source": "Fierce Biotech",
+      "source_url": "https://www.fiercebiotech.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUnQ2SS1rMm1GUGt0NWJLaUZWeG1rcTI5NEFCejUwNW5FOVl2emVBVUhEMmx0RTlVUTlDZVlZMXlVU3RsekFiQ3ZpT25hS0sxQV9iRDZ6WUJhemdtdzJkQzVYcEljdUh4LTZzdjFFQ3lWLVBkSVF6QzNFcEhrQVpTVU5BQWFIbjZEZUNwbmJ5YlVUb2lQVl9EaEI0QUkxalF4UmxBQg?oc=5",
+      "pub_date": 1764771600.0,
+      "article_url": "https://www.fiercebiotech.com/medtech/olympus-backed-swan-endosurgical-names-stryker-vet-erik-todd-ceo",
+      "image": "https://qtxasset.com/quartz/qcloud5/media/image/bowel.jpg?VersionId=ga.xyJQC9FL_qLAFEn_3IoQFJWfi.Ycj",
+      "description": "Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO."
     },
     {
       "headline": "Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago",
@@ -55,26 +55,6 @@
       "description": "Malaysia\u2019s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace."
     },
     {
-      "headline": "Micropolis AI Robotics (NYSE: MCRP) inks Saudi LOI, eyes up to 500 robots over two years",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSllSX1Rqak1nd3FZT0xuMHlsRDI2TzlsT0podzAySmp2UkZ1ZGVIdVkzaFJuYWc0WUYzM1NCSV9EbUt5SnBMQ3dhYkxfM0tPZWZod0xoaFh1TnVaM1dLMzFkNi11d1VuUzVjQTVOanBqbGRBRHRfSlJZMlgtNWJBa3dVT1FZVXlCWGJUQUxycmtrNDRiS0xsNUVhRUJEejV4WW5Qa1dFOG9nbkhBYUNDTkN6YXExbDhRTXJB?oc=5",
-      "pub_date": 1764766800.0,
-      "article_url": "https://www.stocktitan.net/news/MCRP/micropolis-ai-robotics-and-qss-robotics-sign-letter-of-intent-to-fzpc0oc60asv.html",
-      "image": "https://www.stocktitan.net/news_covers/Micropolis_AI_Robotics_and_QSS_Robotics_Sign_Letter_of_Intent_to_Procure_500_Robots_and_Expand_Auton_943263.png",
-      "description": "Micropolis AI Robotics signs a Saudi LOI with QSS Robotics, planning pilots with the Ministry of Interior and ARAMCO starting December 20, 2025."
-    },
-    {
-      "headline": "Humanoid robots will take over factory jobs within 5 years, Xiaomi CEO says",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1lWbWxGazduU0NwcUZucmN0MFN4YW9rZHNMSlpLOElYd2xHcjV2bkl6bkV0NUxxRUh0NGdKZTlCeTVRVVkyY3RfUVV6MlNoSnpWalotZnNSVFdBZVhhcG8ySzdYOTQwQnFuTzhiOTh5VG1uTWhySHBPbzB5cUdwWTI2RG1tYTVWcFJYZExxNmJQV0U?oc=5",
-      "pub_date": 1764581760.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-set-to-run-smart-factories",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/IE-Photo-59.jpg",
-      "description": "Xiaomi CEO Lei Jun says artificial intelligence will overhaul traditional industries within five years as humanoid robots move into core factory roles."
-    },
-    {
       "headline": "Musk says AI and robotics are 'only' things that can solve massive US debt crisis",
       "source": "Fox Business",
       "source_url": "https://www.foxbusiness.com",
@@ -85,14 +65,14 @@
       "description": "Elon Musk claims AI and robotics are the only solution to America's $38 trillion debt crisis, predicting dramatic economic changes within three years."
     },
     {
-      "headline": "EY rolls out physical AI platform, opens EY.ai Lab, and names global robotics lead",
+      "headline": "AILOS Robotics introduces drive technology to make robots lighter, more agile, and safer",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTNTZUZ4eF9FN0UyUDloX3lJd0tMZVZFS3JFcFBWLUdLMlQtYjduSjZlcWtka1RYMjZoMi1ROXEyMUVoNVpuOUZQTklnb2hvc2d5SEpDSklCWTQ0cHhvREd1Vm1McDJqczRldDRENkY0Z0pEbkV0aS1VVm8xdUdIOFIyWU5JVVpfZEdNbVl1MGdoS3VFbnIweDhOU2g3UDlEUjJLUWJwR0pYb0lEZ05nQw?oc=5",
-      "pub_date": 1764763543.0,
-      "article_url": "https://www.therobotreport.com/ey-rolls-out-physical-ai-platform-opens-ey-ai-lab-appoints-global-robotics-lead/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2025/12/ey-engineer-checking-robotics-workshop.jpg",
-      "description": "EY does not make robots, but it is working on a platform and a lab to help companies simulate and manage physical AI."
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFczYnI2UjZIRmpPSEs1NlRFaFNQT0dSWjlockNTd3VrdHZqazZaZWV2bTF2WlhmdHlESzhLM2dvNTljbjBBOTI0WUVRVlp1N2tWUVZ1SFhiTWNoc0dOb29ydm9JSTRJS2NzS1ZNUzNnY2lNQ1lTY3VNZzNzZXBzMlhiV0VRREF5QnJjWWY5NTRZelRXNWdIZDdpOEd2a1hrR0xDS0N5UjRLaEJSMTBSRzh3SQ?oc=5",
+      "pub_date": 1764651943.0,
+      "article_url": "https://www.therobotreport.com/ailos-robotics-introduces-drive-technology-making-robots-lighter-more-agile-safer/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2025/12/1713098318657.jpeg",
+      "description": "VUB spinoff AILOS Robotics said its patented gearbox heralds a new era for humanoids, cobots, and wearable robotics."
     },
     {
       "headline": "MIT engineers design an aerial microrobot that can fly as fast as a bumblebee",
@@ -103,8 +83,28 @@
       "article_url": "https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203",
       "image": "https://news.mit.edu/sites/default/files/images/202512/MIT-MicroRobot-Learning-01-press.jpg",
       "description": "MIT researchers developed an aerial microrobot that can fly with speed and agility comparable to real insects. The research opens the door to future bug-sized robots that could aid in search-and-rescue missions."
+    },
+    {
+      "headline": "Chinese schools offer \u2018embodied intelligence\u2019 courses to aid robotics industry",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmRRM2tUVkFhYjBLbnAzUWdtbGREYlZ3RkdWTElBR3dXeEVldmFJeDJTU0pHTGNMMmJiTlFmcjBxNVJ6OWNmaDNtdXVpUENvU0dtaHF3UGQ4X3VmVnRqY3FOQ1dUWlNUb0djVi1tOTFfOGt2ZTZBd2Z3S1JGeDk1UXhfdzZzWWo4TE9pSzAzaGZHelFNcE1JaXFCWjJfd2NuR1BfMFgybU9FU01FZ0VfRnpQYlFJM0xoOG9xZ29CeC03LWllbnVOelI1d9IBywFBVV95cUxQS0YwMElyQ2ZiazhRX3FWa0lWUlNZM3pXamxVaWhUZDZzR1hMYnhxOEc4aGg3N0hfbkt6VW1XY09va1l4VWtJeXRvZ2R6WUo5R1p2R1dnSHQzU3BjaGs2VG5xS05PeEcyUENQUDhLV1JsZjBja3JORVRhT2szbTRQN2xBRnczeWpDbGMtcGYzVTVKSGlBeXpYLU9ybkJxWG5kY01QSndJZFRXanlmekdOVXRfdnJnRHdTTlg1Wk9IODlOUzNiTVk5N1F0VQ?oc=5",
+      "pub_date": 1764630012.0,
+      "article_url": "https://www.scmp.com/tech/policy/article/3334779/top-chinese-universities-offer-courses-embodied-intelligence-aid-robotics-industry",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/01/ed068441-092e-4fbf-b4ab-5a8a28b86a20_992ae625.jpg?itok=95UPh6ws&v=1764582667",
+      "description": "Shanghai Jiao Tong University and Zhejiang University are among seven schools that plan to offer \u2018embodied intelligence\u2019 as a new major."
+    },
+    {
+      "headline": "China Is Officially Scared of Robots",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHBvU2RNd1c2dEFlcGNuNGNtUkh5UkNCYzA2aWdjNlRtSWNHOWFaZXpzbjRQTjk3NEt6QnhUZ3FVTFZER2JkVlNnZE9JNFU1OXNESXRsc19VYVpmTEtSRGx6VndRSGxfN082elJfeTZjWWltOUJ0TjNGTjg4azFiU3c0OEs?oc=5",
+      "pub_date": 1764623460.0,
+      "article_url": "https://futurism.com/robots-and-machines/china-officially-scared-robots-bubble",
+      "image": "https://futurism.com/wp-content/uploads/2025/12/china-officially-scared-robots-bubble.jpg?w=1200",
+      "description": "Chinese officials are warning that the country's humanoid robotics industry could be forming a massive bubble."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T10:35:14.012306+00:00"
+  "fetched_at": "2025-12-04T11:17:08.307814+00:00"
 }

@@ -46,6 +46,17 @@
       "description": "Demand driven by the AI infrastructure boom is creating shortages for certain products like memory."
     },
     {
+      "title": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pduq42/antiimmigrant_material_among_aigenerated_content/",
+      "published": 1764836556.0,
+      "thumbnail": "https://external-preview.redd.it/gc-S3CffAXHWvte7VxwxPcFWp7MXdfgP3hQOBB_fW-g.jpeg?width=640&crop=smart&auto=webp&s=c3f88d8a29a23eb38dda06ffed8d15bc42f06ef9",
+      "external_url": "https://www.theguardian.com/technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
+    },
+    {
       "title": "Billionaires are building bunkers out of fear of societal collapse: \"I know a lot of AI CEOs who have cancelled all public appearances, especially in the wake of Charlie Kirk. They think there's gonna be a wave of anti-AI sentiment next year.\"",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1pd2j6h/billionaires_are_building_bunkers_out_of_fear_of/",
@@ -57,15 +68,15 @@
       "description": "Full interview with Stability AI founder Emad Mostaque."
     },
     {
-      "title": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1pduq42/antiimmigrant_material_among_aigenerated_content/",
-      "published": 1764836556.0,
-      "thumbnail": "https://external-preview.redd.it/gc-S3CffAXHWvte7VxwxPcFWp7MXdfgP3hQOBB_fW-g.jpeg?width=640&crop=smart&auto=webp&s=c3f88d8a29a23eb38dda06ffed8d15bc42f06ef9",
-      "external_url": "https://www.theguardian.com/technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
+      "title": "Should AI feel?",
+      "author": "RikusLategan",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdx08w/should_ai_feel/",
+      "published": 1764845460.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "After reading this study (https://arxiv.org/html/2508.10286v2), I started wondering about the differing opinions on what people accept as real versus emulated emotion in AI. What concrete milestones or architectures would convince you that AI emotions are more than mimicry? We talk a lot about how AI \u201cunderstands\u201d emotions, but that\u2019s mostly mimicry\u2014pattern-matching and polite responses. What would it take for AI to actually have emotions, and why should we care? Internal states: Not just detecting your mood\u2014AI would need its own affective states that persist and change decisions across contexts. Embodiment: Emotions are tied to bodily signals (stress, energy, pain). Simulated \u201cphysiology\u201d could create richer, non-scripted behavior. Memory: Emotions aren\u2019t isolated. AI needs long-term emotional associations to learn from experience. Ethical alignment: Emotions like \u201ccompassion\u201d or \u201cguilt\u201d could help AI prioritize human safety over pure optimization. The motivation: better care, safer decisions, and more human-centered collaboration. Critics say it\u2019s just mimicry. Supporters argue that if internal states reliably shape behavior, it\u2019s \u201creal enough\u201d to matter. Question: If we could build AI that truly felt, should we? Where do you draw the line between simulation and experience?"
     },
     {
       "title": "How to measure AI automation efficiency gains?",
@@ -90,27 +101,16 @@
       "description": null
     },
     {
-      "title": "What is the point of ChatGPT subscription?",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdqldc/what_is_the_point_of_chatgpt_subscription/",
-      "published": 1764822384.0,
+      "title": "Built a small conversational AI experiment\u2026.unexpected user responses",
+      "author": "One-Ice7086",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdt3gj/built_a_small_conversational_ai/",
+      "published": 1764830472.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I pay for ChatGPT Plus and asked it about Windows BitLocker. It showed me an ad to shop at Target. This is how you lose users. ChatGPT response (excerpt) ChatGPT 5.1 Thinking You can: \u2022 Try to enable Core isolation / Memory integrity for extra protection. \u2022 Improve firmware settings (Secure Boot, UEFI, virtualization) so Windows stops saying \u201cStandard hardware security not supported.\u201d For actual drive encryption: \u2022 Look in Settings \u2192 Privacy & security \u2192 Device encryption. \u2022 If it\u2019s there, use it. \u2022 If not, your realistic options are upgrade to Pro (BitLocker) or use VeraCrypt/other third-party encryption. If you want, tell me your laptop model and I can suggest what to flip in BIOS and what\u2019s realistically possible (e.g., whether Modern Standby / Device Encryption is likely supported). Shop for home and groceries \u2014 Connect Target By BenjaminDEKR"
-    },
-    {
-      "title": "The future of prompt engineering is collaborative - built a social platform to prove it",
-      "author": "zmilesbruce",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdtyrd/the_future_of_prompt_engineering_is_collaborative/",
-      "published": 1764833665.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Unpopular opinion: Hoarding prompts is holding back the entire field of prompt engineering. Hear me out. The best breakthroughs in tech came from open collaboration: Open source revolutionized software arXiv accelerated AI research GitHub made coding social But prompt engineering? We're all working in silos, reinventing the wheel, losing incredible work to private note apps. This is my attempt to change that: thepromptspace The Thesis: Prompt engineering becomes exponentially better when it's: Social - Learn from the best, share your discoveries Collaborative - Build on each other's work (with credit) Documented - Track what works, what fails, and why Accessible - Lower the barrier for newcomers Platform Architecture: Think of it as the creative layer for AI: 1. Social Discovery Follow top prompt engineers Trending prompts and techniques Topic-based communities (coding, research, creative writing) Upvoting and quality signals 2. Collaboration Infrastructure Remix and fork prompts (like GitHub repos) Attribution chains (know who contributed what) Co-creation on complex prompt workflows Comments and discussions on techniques 3. Knowledge Management Version control for prompt iterations A/B testing documentation Tags, categories, and searchability Cross-references between related prompts 4. Portfolio & Reputation Showcase your best prompt engineering work Build reputation in the community Get discovered by teams hiring prompt engineers Monetize your expertise (coming soon) Real-World Use Cases: Research: Share your chain-of-thought templates that improve reasoning Engineering: Collaborate on production-grade system prompts Education: Learn advanced techniques from top practitioners Innovation: Discover cutting-edge methods you'd never find alone Why This Matters for Prompt Engineering: Accelerated learning - See what works without months of trial and error Standardization - Community consensus on best practices Innovation - Build on proven foundations instead of starting from scratch Recognition - Prompt engineers deserve credit for their craft Future-proofing - As AI evolves, our collective knowledge evolves with it Technical Features: Multi-model support (test across different LLMs) Prompt templating with variables Performance tracking and analytics Export to code/API Private workspaces + public sharing Rich markdown and formatting What I'm Building Toward: A world where the best prompt engineering techniques are: Open and accessible Properly attributed Continuously improved by the community Rewarding for creators Link: ThePromptSpace Challenge for this community: Take your best prompt. Share it on thepromptspace. See if the community can make it even better through collaboration. I believe the future of prompt engineering is social. Who's with me?"
+      "description": "I made a simple conversational AI to test dialogue handling and shared it with a few people. What surprised me is how quickly they started having long, emotionally heavy conversations with it instead of just testing features. Is this kind of high-emotion engagement common with conversational agents? Curious if others building dialog systems have seen the same pattern."
     }
   ],
-  "fetched_at": "2025-12-04T10:34:56.256373+00:00"
+  "fetched_at": "2025-12-04T11:16:49.167690+00:00"
 }

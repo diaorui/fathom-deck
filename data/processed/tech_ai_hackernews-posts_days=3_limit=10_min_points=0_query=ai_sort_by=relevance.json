@@ -9,8 +9,8 @@
       "url": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
       "hn_url": "https://news.ycombinator.com/item?id=46131406",
       "author": "Brajeshwar",
-      "points": 996,
-      "num_comments": 581,
+      "points": 1000,
+      "num_comments": 582,
       "created_at": "2025-12-03T07:52:37Z",
       "object_id": "46131406",
       "image": "https://regmedia.co.uk/2024/05/21/github1_shutterstock.jpg",
@@ -24,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46124324",
       "author": "nabla9",
       "points": 819,
-      "num_comments": 917,
+      "num_comments": 918,
       "created_at": "2025-12-02T18:10:23Z",
       "object_id": "46124324",
       "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
@@ -37,8 +37,8 @@
       "url": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
       "hn_url": "https://news.ycombinator.com/item?id=46138952",
       "author": "mips_avatar",
-      "points": 807,
-      "num_comments": 816,
+      "points": 818,
+      "num_comments": 827,
       "created_at": "2025-12-03T19:37:25Z",
       "object_id": "46138952",
       "image": null,
@@ -65,8 +65,8 @@
       "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
       "hn_url": "https://news.ycombinator.com/item?id=46137514",
       "author": "bearsyankees",
-      "points": 689,
-      "num_comments": 230,
+      "points": 697,
+      "num_comments": 232,
       "created_at": "2025-12-03T17:44:33Z",
       "object_id": "46137514",
       "image": null,
@@ -89,6 +89,20 @@
       "site_name": "Reverb Machine"
     },
     {
+      "title": "Are we repeating the telecoms crash with AI datacenters?",
+      "url": "https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/",
+      "hn_url": "https://news.ycombinator.com/item?id=46133141",
+      "author": "davedx",
+      "points": 211,
+      "num_comments": 174,
+      "created_at": "2025-12-03T11:14:56Z",
+      "object_id": "46133141",
+      "image": "https://martinalderson.com/img/og/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters.png",
+      "description": "Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume",
+      "favicon": "https://martinalderson.com/apple-touch-icon.png",
+      "site_name": "Martin Alderson"
+    },
+    {
       "title": "AI agents find $4.6M in blockchain smart contract exploits",
       "url": "https://red.anthropic.com/2025/smart-contracts/",
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
@@ -101,20 +115,6 @@
       "description": null,
       "favicon": "https://red.anthropic.com/anthropic-serve/favicon.ico",
       "site_name": "red.anthropic.com"
-    },
-    {
-      "title": "Are we repeating the telecoms crash with AI datacenters?",
-      "url": "https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/",
-      "hn_url": "https://news.ycombinator.com/item?id=46133141",
-      "author": "davedx",
-      "points": 210,
-      "num_comments": 173,
-      "created_at": "2025-12-03T11:14:56Z",
-      "object_id": "46133141",
-      "image": "https://martinalderson.com/img/og/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters.png",
-      "description": "Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume",
-      "favicon": "https://martinalderson.com/apple-touch-icon.png",
-      "site_name": "Martin Alderson"
     },
     {
       "title": "A new AI winter is coming?",
@@ -145,7 +145,7 @@
       "site_name": "MacRumors"
     }
   ],
-  "total_hits": 565,
+  "total_hits": 566,
   "has_metadata": true,
-  "fetched_at": "2025-12-04T10:34:56.101209+00:00"
+  "fetched_at": "2025-12-04T11:16:49.043391+00:00"
 }

@@ -79,17 +79,6 @@
       "description": null
     },
     {
-      "title": "Snake oil or basic hydraulics?",
-      "author": "Narasimhan_Balaji",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdvtrs/snake_oil_or_basic_hydraulics/",
-      "published": 1764840975.0,
-      "thumbnail": "https://external-preview.redd.it/c2l3Zmp5d3hwNTVnMQx2qOEkCcs55ppPA3hWRZ9b_PEFTZobXdS-GCoL6cnC.png?width=640&crop=smart&auto=webp&s=95e99dc04b0aec91f76fafd433aaed342789a23c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "How is this even possible without a motor or hydraulics as the post claims? I can clearly see the hydraulic hoses on the upper part of the exo skeleton. While the lower part is just plain addition without any active peripherals. Is this just plain manually powered hydraulics + some servo motors? or some new tech?!"
-    },
-    {
       "title": "EngineAI T800 behind the scenes footage",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1pd24zj/engineai_t800_behind_the_scenes_footage/",
@@ -99,6 +88,17 @@
       "site_name": null,
       "favicon": null,
       "description": "From EngineAI on \ud835\udd4f: https://x.com/engineairobot/status/1996165785056919634?s=20"
+    },
+    {
+      "title": "My Robot Dog",
+      "author": "doppler07",
+      "url": "https://www.reddit.com/r/robotics/comments/1pda1f8/my_robot_dog/",
+      "published": 1764781863.0,
+      "thumbnail": "https://external-preview.redd.it/bGV4a212YWN1MDVnMWUWjaeK5hXOBd8FvHKc5cwQ_ZXRvAAQoc_yITuvpEpb.png?width=640&crop=smart&auto=webp&s=8b6893b864dd9f64a51f7d52b6369711a0ab9f39",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Been working on this dog for 2 months. Finally modelled the dogs body dynamics. This is where all the trigonometry,triangles and laws of cosiness that I learnt in high school came to use. Its remote controlled I will open source the code once the robot is complete. If anybody has any queries do dm me\ud83d\ude42"
     },
     {
       "title": "It might be dumb, but I bought a welding robot for fun.",
@@ -112,5 +112,5 @@
       "description": "I've wanted to mess around with robotics for a loooong time, but it's not an easy sort of thing around here and small scale hobby stuff just doesn't seem that useful to me. Found a pretty good deal on this thing so I'll be diving in headfirst with minimal planning. My original plan was to look into making my own resolver to digital converters and motor drive solution, however, with the cost of RDC chips, it might actually be more feasible and affordable to try and find a used pendant, and work on putting the controls from the cabinet into something smaller, lighter and more reasonable. Time will tell, going to be a long and big project but that's what I've been craving."
     }
   ],
-  "fetched_at": "2025-12-04T10:35:00.029148+00:00"
+  "fetched_at": "2025-12-04T11:16:53.320724+00:00"
 }

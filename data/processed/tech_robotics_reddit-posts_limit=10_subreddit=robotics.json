@@ -68,17 +68,6 @@
       "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
     },
     {
-      "title": "Night test of a laser-based local detection prototype",
-      "author": "Independent_Win_Alex",
-      "url": "https://www.reddit.com/r/robotics/comments/1pe8nau/night_test_of_a_laserbased_local_detection/",
-      "published": 1764874955.0,
-      "thumbnail": "https://external-preview.redd.it/YjRhbmk4cGJqODVnMfRJhNI_Lz9eqGNjLw5FUWRuziCQ9-CH03w1J9N3aHMm.png?width=640&crop=smart&auto=webp&s=80da42074c3ee1f06f9eba1a67a80e37bf5b0ca6",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The video shows: - the system's calm state - the moment an object appears in the zone - the transition to active mode and activation This is very early logic, without optimizations or \"smart\" algorithms\u2014I'm simply testing the principle: is it possible to reliably capture live events this way? Feedback would be appreciated."
-    },
-    {
       "title": "Robot Arm Item-Picking Demo in a Simulated Supermarket Scene",
       "author": "Individual-Major-309",
       "url": "https://www.reddit.com/r/robotics/comments/1pdwivk/robot_arm_itempicking_demo_in_a_simulated/",
@@ -88,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "A short demo of an item-picking sequence inside a supermarket-style simulation environment. The robot\u2019s navigation in this clip is teleoperated (not autonomous), and the goal is mainly to show how the pick action and scene interactions behave under the current physics setup. For anyone working with manipulation or sim-based workflows, feedback is welcome on aspects such as: motion quality or controller behavior, grasp sequence setup, physics consistency, scene design considerations for similar tasks. Interested in hearing how others approach supermarket-style manipulation tasks in simulation. BGM: Zatplast"
+    },
+    {
+      "title": "Night test of a laser-based local detection prototype",
+      "author": "Independent_Win_Alex",
+      "url": "https://www.reddit.com/r/robotics/comments/1pe8nau/night_test_of_a_laserbased_local_detection/",
+      "published": 1764874955.0,
+      "thumbnail": "https://external-preview.redd.it/YjRhbmk4cGJqODVnMfRJhNI_Lz9eqGNjLw5FUWRuziCQ9-CH03w1J9N3aHMm.png?width=640&crop=smart&auto=webp&s=80da42074c3ee1f06f9eba1a67a80e37bf5b0ca6",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The video shows: - the system's calm state - the moment an object appears in the zone - the transition to active mode and activation This is very early logic, without optimizations or \"smart\" algorithms\u2014I'm simply testing the principle: is it possible to reliably capture live events this way? Feedback would be appreciated."
     },
     {
       "title": "Waymo self-driving car enters active police standoff with passenger inside",
@@ -112,5 +112,5 @@
       "description": "Hi everyone! At Hugging Face / LeRobot, one of our goals is to make strong, accessible VLA models available to the whole robotics community. Today we\u2019re excited to announce X-VLA in LeRobot, a new soft-prompted robot foundation model that can generalize across embodiments, sensors, and action spaces. We\u2019re releasing 6 checkpoints, including a pretrained base model and a cloth-folding checkpoint that hits 100% success for two straight hours. There is also an uncut 2-hour folding run powered entirely by X-VLA (video + checkpoints). You can check it out here: \ud83d\udc49 https://x.com/jadechoghari/status/1996639961366548597 If you want to try it yourself, you can fine-tune X-VLA on any dataset, with any action dimension, directly through LeRobot: https://huggingface.co/collections/lerobot/xvla Happy tinkering, and would love feedback from the community! \ud83e\uddf5\ud83e\udd16 Docs/Blog: https://huggingface.co/docs/lerobot/en/xvlaPaper from Tsinghua: https://arxiv.org/abs/2510.10274 https://preview.redd.it/fzhq2qd7b85g1.png?width=2282&format=png&auto=webp&s=51d9ae8f9481bd3f0537eda6b6e2ee1d29f1e76a"
     }
   ],
-  "fetched_at": "2025-12-04T21:39:32.886037+00:00"
+  "fetched_at": "2025-12-04T22:09:49.863528+00:00"
 }

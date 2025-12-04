@@ -131,21 +131,21 @@
       "site_name": "nytimes.com"
     },
     {
-      "title": "Show HN: LLM-Infra-Lab \u2013 A minimal, reproducible lab for LLM systems",
-      "url": "https://github.com/REICHIYAN/llm_infra_lab",
-      "hn_url": "https://news.ycombinator.com/item?id=46148523",
-      "author": "Sai-HN",
+      "title": "Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol",
+      "url": "https://www.mdpi.com/2076-2607/13/11/2605",
+      "hn_url": "https://news.ycombinator.com/item?id=46149605",
+      "author": "PaulHoule",
       "points": 1,
       "num_comments": 0,
-      "created_at": "2025-12-04T15:11:15Z",
-      "object_id": "46148523",
-      "image": "https://opengraph.githubassets.com/acb64fcc19800d95a75d52a37aade4648eec04fb7ab9e20c4daf7e608cf48245/REICHIYAN/llm_infra_lab",
-      "description": "LLM infra with JAX pmap, vLLM-style inference mock, FSDP loop, and K8s/Terraform scaffolds. - REICHIYAN/llm_infra_lab",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
+      "created_at": "2025-12-04T16:41:52Z",
+      "object_id": "46149605",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "mdpi.com"
     }
   ],
-  "total_hits": 10,
+  "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2025-12-04T16:35:59.920432+00:00"
+  "fetched_at": "2025-12-04T17:30:44.460189+00:00"
 }

@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "After AI push, Trump administration is now looking to robots",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODlWRm96ekx1MlBkMnZOcE5zMm9ZRkZjVTI1YlNiNm9wS1BNTGJNMDV0RmphQlhFeF9wdEx5UWI1RjRzZGp5UlRZNTloa3RGd241ZTlkRXpYR0hYdXRmYzJBdXROSk5BNUdSeFdhaUhFcmdOOUpuVHBVdjh5a1FONkpGbV96czczRmc?oc=5",
+      "pub_date": 1764775036.0,
+      "article_url": "https://www.politico.com/news/2025/12/03/trump-administration-ai-robotics-00674204",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "MIT\u2019s AI Robotics Lab Director Is Building People-Centered Robots",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -15,21 +25,11 @@
       "description": "From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?"
     },
     {
-      "headline": "Robotics Stocks Surged on Wednesday. Here's Why.",
-      "source": "Nasdaq",
-      "source_url": "https://www.nasdaq.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOQW9FdmxCb1NwWFZyZGo5cERDa2JTaWUtS1BVb2cxSmlMT3NHLTVnSEQ2OVVnSk02SnBHTXJBMnF6REY3d1JaZGFXY3I0V2E0cC1yU0xPRXV5TTVXazhjMkExYzhoNThsNVNiUTcyUzZWUE9IMDJVeDFmQ1I4T3M?oc=5",
-      "pub_date": 1764822960.0,
-      "article_url": "https://www.nasdaq.com/articles/robotics-stocks-surged-wednesday-heres-why",
-      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-      "description": "Key PointsPresident Trump is reportedly considering signing an executive order in the new year to accelerate the development of robots in the U.S."
-    },
-    {
       "headline": "Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run",
       "source": "Investor's Business Daily",
       "source_url": "https://www.investors.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRkE1UEpSNHpQcHhVOEIwZGVEZ1JnVk9kWVduSnlTdm5nR241TkxzSjFHaTdwS2ljUWVaN3hRUnduSUt5ZUwxZjFaWVRQQV94d09oWmRfa1hTanVXdl9HdVNVZTlIOGNhdXBzTDlTR1pCYjJvOVFjZFFkRUctQzlqaEZSa0I4NzdMVWQ2bTZzSjVYV0U?oc=5",
-      "pub_date": 1764854100.0,
+      "pub_date": 1764859140.0,
       "article_url": "https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/",
       "image": null,
       "description": null
@@ -75,14 +75,14 @@
       "description": "Malaysia\u2019s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace."
     },
     {
-      "headline": "EY rolls out physical AI platform, opens EY.ai Lab, and names global robotics lead",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTNTZUZ4eF9FN0UyUDloX3lJd0tMZVZFS3JFcFBWLUdLMlQtYjduSjZlcWtka1RYMjZoMi1ROXEyMUVoNVpuOUZQTklnb2hvc2d5SEpDSklCWTQ0cHhvREd1Vm1McDJqczRldDRENkY0Z0pEbkV0aS1VVm8xdUdIOFIyWU5JVVpfZEdNbVl1MGdoS3VFbnIweDhOU2g3UDlEUjJLUWJwR0pYb0lEZ05nQw?oc=5",
-      "pub_date": 1764763543.0,
-      "article_url": "https://www.therobotreport.com/ey-rolls-out-physical-ai-platform-opens-ey-ai-lab-appoints-global-robotics-lead/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2025/12/ey-engineer-checking-robotics-workshop.jpg",
-      "description": "EY does not make robots, but it is working on a platform and a lab to help companies simulate and manage physical AI."
+      "headline": "MIT engineers design an aerial microrobot that can fly as fast as a bumblebee",
+      "source": "MIT News",
+      "source_url": "https://news.mit.edu",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2h0ZEhpSC1TUHV0UEpGcHZEeUxXQVNzVXlnblhZYXNiRlJZZ1JIbjN1YmdJbi1OSnhjcHVPNHloaC1nUU9FSGRKZnNMazM5TUR5aFpPU3duYzZjaWRIMno2NF9saDBKa3RDakxMVVFhZnBXOHRHSnFWYmYxdTFHMGp1U0ltREZVRWY4eXdxcl9uZw?oc=5",
+      "pub_date": 1764788400.0,
+      "article_url": "https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203",
+      "image": "https://news.mit.edu/sites/default/files/images/202512/MIT-MicroRobot-Learning-01-press.jpg",
+      "description": "MIT researchers developed an aerial microrobot that can fly with speed and agility comparable to real insects. The research opens the door to future bug-sized robots that could aid in search-and-rescue missions."
     },
     {
       "headline": "Musk says AI and robotics are 'only' things that can solve massive US debt crisis",
@@ -95,16 +95,16 @@
       "description": "Elon Musk claims AI and robotics are the only solution to America's $38 trillion debt crisis, predicting dramatic economic changes within three years."
     },
     {
-      "headline": "MIT engineers design an aerial microrobot that can fly as fast as a bumblebee",
-      "source": "MIT News",
-      "source_url": "https://news.mit.edu",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2h0ZEhpSC1TUHV0UEpGcHZEeUxXQVNzVXlnblhZYXNiRlJZZ1JIbjN1YmdJbi1OSnhjcHVPNHloaC1nUU9FSGRKZnNMazM5TUR5aFpPU3duYzZjaWRIMno2NF9saDBKa3RDakxMVVFhZnBXOHRHSnFWYmYxdTFHMGp1U0ltREZVRWY4eXdxcl9uZw?oc=5",
-      "pub_date": 1764788400.0,
-      "article_url": "https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203",
-      "image": "https://news.mit.edu/sites/default/files/images/202512/MIT-MicroRobot-Learning-01-press.jpg",
-      "description": "MIT researchers developed an aerial microrobot that can fly with speed and agility comparable to real insects. The research opens the door to future bug-sized robots that could aid in search-and-rescue missions."
+      "headline": "AILOS Robotics introduces drive technology to make robots lighter, more agile, and safer",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFczYnI2UjZIRmpPSEs1NlRFaFNQT0dSWjlockNTd3VrdHZqazZaZWV2bTF2WlhmdHlESzhLM2dvNTljbjBBOTI0WUVRVlp1N2tWUVZ1SFhiTWNoc0dOb29ydm9JSTRJS2NzS1ZNUzNnY2lNQ1lTY3VNZzNzZXBzMlhiV0VRREF5QnJjWWY5NTRZelRXNWdIZDdpOEd2a1hrR0xDS0N5UjRLaEJSMTBSRzh3SQ?oc=5",
+      "pub_date": 1764651943.0,
+      "article_url": "https://www.therobotreport.com/ailos-robotics-introduces-drive-technology-making-robots-lighter-more-agile-safer/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2025/12/1713098318657.jpeg",
+      "description": "VUB spinoff AILOS Robotics said its patented gearbox heralds a new era for humanoids, cobots, and wearable robotics."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T16:36:17.868126+00:00"
+  "fetched_at": "2025-12-04T17:30:59.343599+00:00"
 }

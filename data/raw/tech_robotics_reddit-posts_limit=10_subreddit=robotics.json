@@ -13,6 +13,17 @@
       "description": "How is this even possible without a motor or hydraulics as the post claims? I can clearly see the hydraulic hoses on the upper part of the exo skeleton. While the lower part is just plain addition without any active peripherals. Is this just plain manually powered hydraulics + some servo motors? or some new tech?!"
     },
     {
+      "title": "Art installation draws attention for its robot dogs with famous faces",
+      "author": "nbcnews",
+      "url": "https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/",
+      "published": 1764867378.0,
+      "thumbnail": "https://external-preview.redd.it/cTJ2N2RidXF3NzVnMa2NkyWLusU3EEB1G1quIu5uMib9yhFcaTJpvX4KlXi-.png?width=640&crop=smart&auto=webp&s=5c4b356e7b7139ee64c4e5a27f5c0e40298e7324",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "A comparison of Figure 03, EngineAI T800, and Tesla Optimus running",
       "author": "heart-aroni",
       "url": "https://www.reddit.com/r/robotics/comments/1pdy9mn/a_comparison_of_figure_03_engineai_t800_and_tesla/",
@@ -68,17 +79,6 @@
       "description": "A short demo of an item-picking sequence inside a supermarket-style simulation environment. The robot\u2019s navigation in this clip is teleoperated (not autonomous), and the goal is mainly to show how the pick action and scene interactions behave under the current physics setup. For anyone working with manipulation or sim-based workflows, feedback is welcome on aspects such as: motion quality or controller behavior, grasp sequence setup, physics consistency, scene design considerations for similar tasks. Interested in hearing how others approach supermarket-style manipulation tasks in simulation. BGM: Zatplast"
     },
     {
-      "title": "accidentally built a web robotics simulator pizza delivery game inside lamo",
-      "author": "Silly_Asparagus_76",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdpf11/accidentally_built_a_web_robotics_simulator_pizza/",
-      "published": 1764818909.0,
-      "thumbnail": "https://external-preview.redd.it/N2ZwNm05a2xyMzVnMSuzBBq0MNDBjvBnGXjUEPQYROcQZE3dpG1jZAeklLv9.png?width=640&crop=smart&auto=webp&s=32f82bbc18afa15d30db97fda875aa51ec06516b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019m building an open\u2011source, web based simulator, and as a quick platform test I put together a simple pizza delivery game! Under the hood it runs browser\u2011side physics, basic path planning, and sensor mocking, so it\u2019s easy to extend into robot tasks. What do you think? !!!"
-    },
-    {
       "title": "List of Robotics Companies That Closed in 2025?",
       "author": "Stowie1022",
       "url": "https://www.reddit.com/r/robotics/comments/1pe1gnd/list_of_robotics_companies_that_closed_in_2025/",
@@ -90,6 +90,17 @@
       "description": "Anybody keeping track of robotics companies that closed in 2025? Here's what I got so far: Guardian Agriculture AWS RoboMaker Rethink Robotics Aldebaran (IP acquired) Attabotics (IP acquired) K-Scale Labs Shape Robotics"
     },
     {
+      "title": "accidentally built a web robotics simulator pizza delivery game inside lamo",
+      "author": "Silly_Asparagus_76",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdpf11/accidentally_built_a_web_robotics_simulator_pizza/",
+      "published": 1764818909.0,
+      "thumbnail": "https://external-preview.redd.it/N2ZwNm05a2xyMzVnMSuzBBq0MNDBjvBnGXjUEPQYROcQZE3dpG1jZAeklLv9.png?width=640&crop=smart&auto=webp&s=32f82bbc18afa15d30db97fda875aa51ec06516b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019m building an open\u2011source, web based simulator, and as a quick platform test I put together a simple pizza delivery game! Under the hood it runs browser\u2011side physics, basic path planning, and sensor mocking, so it\u2019s easy to extend into robot tasks. What do you think? !!!"
+    },
+    {
       "title": "Sunday Robotics, New Podcast Episode",
       "author": "marwaeldiwiny",
       "url": "https://www.reddit.com/r/robotics/comments/1pe3va3/sunday_robotics_new_podcast_episode/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "https://youtu.be/UAlm8Z4mfpU?si=h4K9IuzuAVVI7tnS"
-    },
-    {
-      "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/",
-      "published": 1764764059.0,
-      "thumbnail": "https://external-preview.redd.it/bWR1Y2UxZ2FjejRnMehQ1aaS4XjeqQ-tkOafX_QGfxfKAAmw--YdRyc3L3ph.png?width=640&crop=smart&auto=webp&s=c1a08a56d08595a514bbc79301ded1792a6c73d9",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Website: https://gitai.tech/ On \ud835\udd4f: https://x.com/GITAI_HQ"
     }
   ],
-  "fetched_at": "2025-12-04T16:36:02.848928+00:00"
+  "fetched_at": "2025-12-04T17:30:45.449436+00:00"
 }

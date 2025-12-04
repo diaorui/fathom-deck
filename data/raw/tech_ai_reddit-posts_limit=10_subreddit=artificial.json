@@ -57,17 +57,6 @@
       "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
     },
     {
-      "title": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1pduq42/antiimmigrant_material_among_aigenerated_content/",
-      "published": 1764836556.0,
-      "thumbnail": "https://external-preview.redd.it/gc-S3CffAXHWvte7VxwxPcFWp7MXdfgP3hQOBB_fW-g.jpeg?width=640&crop=smart&auto=webp&s=c3f88d8a29a23eb38dda06ffed8d15bc42f06ef9",
-      "external_url": "https://www.theguardian.com/technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
-    },
-    {
       "title": "Micron stops selling memory to consumers as demand spikes from AI chips",
       "author": "Doug24",
       "url": "https://www.reddit.com/r/artificial/comments/1pdepwf/micron_stops_selling_memory_to_consumers_as/",
@@ -79,6 +68,39 @@
       "description": "Demand driven by the AI infrastructure boom is creating shortages for certain products like memory."
     },
     {
+      "title": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pduq42/antiimmigrant_material_among_aigenerated_content/",
+      "published": 1764836556.0,
+      "thumbnail": "https://external-preview.redd.it/gc-S3CffAXHWvte7VxwxPcFWp7MXdfgP3hQOBB_fW-g.jpeg?width=640&crop=smart&auto=webp&s=c3f88d8a29a23eb38dda06ffed8d15bc42f06ef9",
+      "external_url": "https://www.theguardian.com/technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
+    },
+    {
+      "title": "The Chatbot-Delusion Crisis",
+      "author": "theatlantic",
+      "url": "https://www.reddit.com/r/artificial/comments/1pe618v/the_chatbotdelusion_crisis/",
+      "published": 1764869264.0,
+      "thumbnail": "https://external-preview.redd.it/sC1juzOdWLR4EygE0ldMkMmCxOwHjkJDe2VeLsLDu7k.jpeg?width=640&crop=smart&auto=webp&s=6ec58177ccb0fbfbc24c04dac863c220e7ecff19",
+      "external_url": "https://www.theatlantic.com/technology/2025/12/ai-psychosis-is-a-medical-mystery/685133/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo",
+      "site_name": "The Atlantic",
+      "favicon": "https://cdn.theatlantic.com/_next/static/images/apple-touch-icon-default-b504d70343a9438df64c32ce339c7ebc.png",
+      "description": "Researchers are scrambling to figure out why generative AI appears to lead some people to a state of \u201cpsychosis.\u201d"
+    },
+    {
+      "title": "Extremists could use AI to make bioweapons capable of sparking future pandemics, tech experts warn",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pe5j2f/extremists_could_use_ai_to_make_bioweapons/",
+      "published": 1764868146.0,
+      "thumbnail": null,
+      "external_url": "https://www.euronews.com/health/2025/12/03/extremists-could-use-ai-to-make-bioweapons-capable-of-sparking-future-pandemics-tech-exper",
+      "site_name": "euronews",
+      "favicon": "https://www.euronews.com/apple-touch-icon.png",
+      "description": "Existing and emerging AI tools could technically be used to create a bioweapon capable of starting a pandemic, experts said."
+    },
+    {
       "title": "Grok is down today",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pdxsjq/grok_is_down_today/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Getting this error: Grok is experiencing server related issues. We are working on restoring service as quickly as possible."
-    },
-    {
-      "title": "What is the point of ChatGPT subscription?",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdqldc/what_is_the_point_of_chatgpt_subscription/",
-      "published": 1764822384.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I pay for ChatGPT Plus and asked it about Windows BitLocker. It showed me an ad to shop at Target. This is how you lose users. ChatGPT response (excerpt) ChatGPT 5.1 Thinking You can: \u2022 Try to enable Core isolation / Memory integrity for extra protection. \u2022 Improve firmware settings (Secure Boot, UEFI, virtualization) so Windows stops saying \u201cStandard hardware security not supported.\u201d For actual drive encryption: \u2022 Look in Settings \u2192 Privacy & security \u2192 Device encryption. \u2022 If it\u2019s there, use it. \u2022 If not, your realistic options are upgrade to Pro (BitLocker) or use VeraCrypt/other third-party encryption. If you want, tell me your laptop model and I can suggest what to flip in BIOS and what\u2019s realistically possible (e.g., whether Modern Standby / Device Encryption is likely supported). Shop for home and groceries \u2014 Connect Target By BenjaminDEKR"
-    },
-    {
-      "title": "Billionaires are building bunkers out of fear of societal collapse: \"I know a lot of AI CEOs who have cancelled all public appearances, especially in the wake of Charlie Kirk. They think there's gonna be a wave of anti-AI sentiment next year.\"",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd2j6h/billionaires_are_building_bunkers_out_of_fear_of/",
-      "published": 1764763960.0,
-      "thumbnail": "https://external-preview.redd.it/aXlnamJsZTlkejRnMcyi1Tg4bfuxFKJWkKxm1v1ZfXAnfUDVwMflnfREIbFI.png?width=640&crop=smart&auto=webp&s=b02601227356e889bcd3b0138243c410ad808cc8",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Full interview with Stability AI founder Emad Mostaque."
     }
   ],
-  "fetched_at": "2025-12-04T16:35:58.716586+00:00"
+  "fetched_at": "2025-12-04T17:30:41.478671+00:00"
 }

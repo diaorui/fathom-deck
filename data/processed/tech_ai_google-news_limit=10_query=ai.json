@@ -45,14 +45,54 @@
       "description": null
     },
     {
-      "headline": "How AI Is Transforming Work at Anthropic",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
-      "pub_date": 1764703349.0,
-      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
-      "description": "How AI Is Transforming Work at Anthropic"
+      "headline": "From lawsuits to lobbying: How publishers are fighting AI",
+      "source": "Digiday",
+      "source_url": "https://digiday.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnNzWnM1YkRDdnhoNjhIMDA1NHBfWHE4WFFMN1Y0TnhNM2p4cjBWVEc3TXV6TXRHWjc5N056b1hhdWZPbk9BbzN1cW03WjFrWTBCaWZtWUFpenk3Zy1EVGxzTnB1R0JqemdfUDQ0YnpHaEowWjEyMW40WEpsNFBURElOZ1B2bHFGSEdB?oc=5",
+      "pub_date": 1764824493.0,
+      "article_url": "https://digiday.com/media/from-lawsuits-to-lobbying-how-publishers-are-fighting-ai/",
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/09/ai-effects-digiday.jpg",
+      "description": "Put publishers aren\u2019t retreating from the battle of AI search \u2014 some are escalating it, and they expect the fight to stretch deep into 2026."
+    },
+    {
+      "headline": "EU to Begin Probe Into WhatsApp AI Features Rollout, FT Says",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3cxbWtORW5zU3daVHJhZVd4RVZFcXZYN0pQbFplT1JEV0w3Vmw1dEd1LWxOcG9fX1c1UUdFX0NjM2c3QjVEU1lzTjJEM3luU09KYUgzbzBSbmJ6UEhDdnBMWURpNnRwMjNBXzRVU3FDVUV2N19waDNxWXBVWWNrb1N2U0xicWlWT2JIOHh2ZzRYaVZFYy1ReVEtRTg2V3NfdjVBb1MyeTRoendDeGdF?oc=5",
+      "pub_date": 1764825060.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-04/eu-to-begin-probe-into-whatsapp-ai-features-rollout-ft-says",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang talks chip restrictions with Trump, blasts state-by-state AI regulations",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZERwNjhNOTdBWHpSdDZIbkRTVm9pczNCcTJnajdxczhqcWw4S2I4OXdnT3JfcjVCU3dReDA0TmlRR25URHJCU05saUh0MEZxbVhCeE9wOUlmNjBkYWxSV21nRGVmWEtZazRybWxOZjIwUmxJZTFOTXB1dnBqTW9FVV9lamJ6Y1RqbnRVVzdpSVJpb1M3WkJ6SmhXMU1jdWV2Ujg2R2RBRdIBrAFBVV95cUxNV00zcm9XdlQyQ25xclhNa0JZd0JiUUZqVUhOQnBGTmI3QzVRdXo0eGtocng0SEZXcll1OHZTRGJCcG8tZ2xhSGFMMTQ1eTduMGk5X3AxVjgwX3FDc2ZpbHA0SnYwZUxtempObEc0eUhYS1RkeFU5bWk3aVBFTk44NC1zelFHWW1pOVY2TWt2RkpjdXRRWXpBQXNSWWtDeTlheEJadkU4OC1zWWZi?oc=5",
+      "pub_date": 1764796678.0,
+      "article_url": "https://www.cnbc.com/2025/12/03/nvidias-jensen-huang-talks-chip-controls-with-trump-hits-regulation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108236087-1764784471491-gettyimages-2249114707-HUANG_SENATE.jpeg?v=1764784489&w=1920&h=1080",
+      "description": "Nvidia CEO Jensen Huang told reporters on Capitol Hill that he had just met with President Trump, and the two \"talked in general about export controls.\""
+    },
+    {
+      "headline": "Nvidia's Jensen Huang warns of China's AI 'belt and road' ambitions",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWdiSm01MlFLSnprVHVGcFE5TkpHcEM4OGdLbnB6YWs3alJSY01fM2RLZDJ2aUpqZWFTUGlCT25aS0V2Z2lrMDE0LUpnWndUQ1c1Y1BINllRYkx1MVdGOWtsWWpEVzJqNDRHNXozSUgwN2syU19FbmdxdGprdE53Z3NReV9BZXpvTFhZazN1bHhNbm5VYmxvZWN2S1lHMVdCOTFEb0JQRTdEcWNiZUNUc0tfY1dTZFk2SFViYXpLUy1pRjFOdHdwZk50VlhNQQ?oc=5",
+      "pub_date": 1764805080.0,
+      "article_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-jensen-huang-warns-of-china-s-ai-belt-and-road-ambitions",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F6%2F5%2F2%2F11782566-2-eng-GB%2Fe65062b4269b-2025-12-03T204335Z_757741984_RC269IAIN83Y_RTRMADP_3_NVIDIA-HUANG-CONGRESS.JPG?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+      "description": "CEO calls for more use of nuclear power as data center energy demand surges"
+    },
+    {
+      "headline": "Trump Is Taking 3 Steps Backward in the AI Race",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXd2a0dYamxwVERCYWpNRHk1M05mTW1GXzFaZHNJTVF3bGhLX1pnZ254RFd6WU9YVXZYblo1eTdzcDlCMVFsTzYzMjI1UkxLN0hYQjk0TGp1aDkwWVN2V3I3R29NeE4tX1pueGJtT1Z4Z0dLSjF0dFZnNHpWUmVQTkJRWmRNT1pSWVdlaVdrM0ZTaGRWbmI0cUtSMEt0ay15ZzdxVW9YaHYzeHNUTUF4M0NtMmdaaXAzcFdtdHdn?oc=5",
+      "pub_date": 1764782051.0,
+      "article_url": "https://www.politico.com/news/magazine/2025/12/03/what-the-trump-administration-is-getting-right-and-wrong-on-ai-00674211",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Not a 'bubble,' but maybe an 'air pocket': Wall Street says it's time to reset the AI narrative",
@@ -63,48 +103,8 @@
       "article_url": "https://finance.yahoo.com/news/not-a-bubble-but-maybe-an-air-pocket-wall-street-says-its-time-to-reset-the-ai-narrative-165125153.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/H0EaRfcf1kN6uqB8tlL_Hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDI-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/770379a0-9589-11f0-be7e-d22d61f4aec0",
       "description": "Two of Wall Street\u2019s biggest firms say the AI boom isn\u2019t a bubble, arguing real spending and earnings support the stock market rally even as near-term risks emerge."
-    },
-    {
-      "headline": "Major AI companies fail safety test for superintelligence",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMXMwekFjaDh4T05qMGVSeHYzZTh5eE5UX1Z1Y2ZNdDAwSUZMVVVSSGZSdVlmd3FNX2NUZEJ2cW9JcktzcTh3WlhfSHlob0VvazFickxuNkxIbnNBUXdxY25qbmpRbGgwa0NaQ0Q4aUhKWjZRSUNTRmdqaXFIZEVEODc1cWYyWmxPNXF3?oc=5",
-      "pub_date": 1764769142.0,
-      "article_url": "https://qz.com/ai-companies-fail-existential-safety-test-as-capabilities-race-ahead",
-      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2247155184.jpg",
-      "description": "A sweeping safety review shows leading AI companies advancing toward superhuman systems without guardrails to stop catastrophic failure"
-    },
-    {
-      "headline": "An AI Dark Horse Is Rewriting the Rules of Game Design",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU3BDdWJJSzdzVHhUbzJsQVBsdnRXVU1aNFl0ZmVHNHpjSGQ5MjF6SGkyR2tUMnZ6dTNGUVNvTnZVcVFfbUtkZ21PZ0drSkVERFktLTRiWmxQU1BEN2hZS2t2QUR2a2Q4eXVnWVo0elpwYThRY3c1WkRmZXNGSnhwYzkwaGZhWWNmOTE2c1UxZEI?oc=5",
-      "pub_date": 1764788400.0,
-      "article_url": "https://www.wired.com/story/tecent-3d-models-video-game-design-artificial-intelligence/",
-      "image": "https://media.wired.com/photos/692f7438359d941921890935/191:100/w_1280,c_limit/AI-Lab-Tencents-Hunyuan-Models-Business.jpg",
-      "description": "The Chinese video game giant Tencent is now building some of the world\u2019s best 3D AI models. This could have implications far outside gaming."
-    },
-    {
-      "headline": "Dartmouth Announces AI Partnership With Anthropic and AWS",
-      "source": "Dartmouth",
-      "source_url": "https://home.dartmouth.edu",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFFPUjRPMFhDcERlZmUzYTJBYjJBSXhyY3BqS09hbXh3dHFodjVYVEYtYWlWRnAzS3o4cUpaeWEzU2Q0TFJPY2s0aG0yNHRZUV91Y05uUXhCUFNkX0FUYk1CTDVPN0xZQXltNWpmYmxId21rMXBJUTA5UkZlWnJXelFFMjVRMHJSWWt1emk1a0RFZkpkbFVR?oc=5",
-      "pub_date": 1764792540.0,
-      "article_url": "https://home.dartmouth.edu/news/2025/12/dartmouth-announces-ai-partnership-anthropic-and-aws",
-      "image": "https://home.dartmouth.edu/sites/home/files/styles/16_9_lg/public/2025-12/Baker_Spire.png?h=c6980913&itok=4rLU0OPp",
-      "description": null
-    },
-    {
-      "headline": "Nvidia servers speed up AI models from China's Moonshoot AI and others tenfold",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZGeWtQd2wyblh4MjJKTElXSnpxd3FlT2dsUHg4YTRSQWF0SkFOTnJfUjFHeEtQZ0g1OXJkZ29wNmZHdXZWM0h0UE0xaXRoSXRzLWI4NFdxMHo3MFFHMk90cGZmZVFmbGZ1Q0hXX1FKWGF0Z2Q4SmlrVnByc3NjZkpkdnNCcU9mT1RoMjBsQjVoUXFMR0NyUlVMQzctZmhwVFhXbUlOMEhqSkg4MGNMZGhmdzdiZDg?oc=5",
-      "pub_date": 1764799000.0,
-      "article_url": "https://www.reuters.com/world/china/nvidia-servers-speed-up-ai-models-chinas-moonshoot-ai-others-tenfold-2025-12-03/",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T04:47:28.375617+00:00"
+  "fetched_at": "2025-12-04T05:30:51.352337+00:00"
 }

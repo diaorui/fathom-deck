@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
-      "author": "businessinsider",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdb7ml/microsofts_reported_sales_struggles_are_a_warning/",
-      "published": 1764784378.0,
-      "thumbnail": "https://external-preview.redd.it/e0-HB8ToMX9nnFYcnGMYwtKYDJwlU0myzQ-_qvVPa-g.jpeg?width=640&crop=smart&auto=webp&s=b0bc391a52bd929bb1425bd7bccc7fd7a0d6b07b",
-      "external_url": "https://www.businessinsider.com/microsoft-stock-ai-sales-outlook-quota-msft-tech-stocks-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "A report from The Information that said Microsoft is struggling to sell some of its AI tools to customers sent the stock tumbling."
-    },
-    {
       "title": "Bank of America predicts an 'air pocket,' not an AI bubble, fueled by mountains of debt piling up from the data center rush | Fortune",
       "author": "fortune",
       "url": "https://www.reddit.com/r/artificial/comments/1pdi0q7/bank_of_america_predicts_an_air_pocket_not_an_ai/",
@@ -22,6 +11,17 @@
       "site_name": "Fortune",
       "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
       "description": "\u201cIs this 2000? Are we in a bubble? No,\u201d BofA\u2019s strategy chief Savita Subramanian said. \u201cWill AI continue in unfettered leadership? No.\u201d"
+    },
+    {
+      "title": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
+      "author": "businessinsider",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdb7ml/microsofts_reported_sales_struggles_are_a_warning/",
+      "published": 1764784378.0,
+      "thumbnail": "https://external-preview.redd.it/e0-HB8ToMX9nnFYcnGMYwtKYDJwlU0myzQ-_qvVPa-g.jpeg?width=640&crop=smart&auto=webp&s=b0bc391a52bd929bb1425bd7bccc7fd7a0d6b07b",
+      "external_url": "https://www.businessinsider.com/microsoft-stock-ai-sales-outlook-quota-msft-tech-stocks-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "A report from The Information that said Microsoft is struggling to sell some of its AI tools to customers sent the stock tumbling."
     },
     {
       "title": "Microsoft slashes AI sales growth targets as customers resist unproven agents",
@@ -79,6 +79,17 @@
       "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
     },
     {
+      "title": "Annoying AI Customer Service",
+      "author": "Actual_Bat5457",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdrgag/annoying_ai_customer_service/",
+      "published": 1764825023.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It feels like everytime you go on any website or make a call to a company for help with a product or want to report a website issue or simply need help recovering an account but you are only ever are answered by AI customer service. A lot of companies have turned to using AI as customer service help but it has many issues that can render it completely useless like being unable to grasp complex issues, questions, simply sending you a link to solve issues, or not understanding what you are communicating. Often times when you have issues with the AI customer service you are almost completely unable to get in contact with an actual person who can help and or are told to do the same things over and over again by the bot. I wish companies would simply realize that humans are way more efficient and qualified to provide customer service especially because it creates jobs and makes it so that issues can be resolved instead of just sit and marinate over time."
+    },
+    {
       "title": "What is the point of ChatGPT subscription?",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pdqldc/what_is_the_point_of_chatgpt_subscription/",
@@ -99,18 +110,7 @@
       "site_name": "MIT Technology Review",
       "favicon": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
       "description": "The model is built to detect when crimes are being \u201ccontemplated.\u201d"
-    },
-    {
-      "title": "What AI tools have quietly become part of your everyday routine?",
-      "author": "messysoul96",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd7s7i/what_ai_tools_have_quietly_become_part_of_your/",
-      "published": 1764776949.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Lately I noticed I\u2019ve worked a bunch of AI stuff into my daily workflow without even planning to. I draft things with a model, clean them up myself, then run them through a detector that gives actual sentence level notes so I can fix any stiff sounding parts. Curious what everyone else is using day to day. What stuck and what did you drop?"
     }
   ],
-  "fetched_at": "2025-12-04T04:47:11.936104+00:00"
+  "fetched_at": "2025-12-04T05:30:29.865251+00:00"
 }

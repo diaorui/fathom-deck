@@ -107,7 +107,7 @@
       "hf_url": "https://huggingface.co/papers/2510.14528",
       "arxiv_url": "https://arxiv.org/abs/2510.14528",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png",
-      "upvotes": 100,
+      "upvotes": 101,
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
@@ -187,11 +187,11 @@
       "num_comments": 1,
       "published_at": "2025-10-26T01:49:38.000Z",
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 17150,
+      "github_stars": 17176,
       "project_page": "https://fapo-rl.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-04T04:19:06.522014+00:00"
+  "fetched_at": "2025-12-04T05:30:30.640769+00:00"
 }

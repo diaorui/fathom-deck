@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "4 reasons why bitcoin is slogging through an epic plunge",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0ZwQ2ZJR1FQWkhxcC1xaTcwWmxQUE9YQlJOOGtmdWJnazBvSzJpZTNaZVM3RGdzME1KSmdsSmJMb0N2TDl6bTZMUFpVSnFSUTNWTk5ZZHFQVEtabDQ2RmUzcm5mOXFPLTJHaXh0NEplMXRoSHJHN2lhZF91RzFpXzhrNkhaOHZKVWxtMExBVGJfUThvRlR5UU5vM00tNFNIYlFUcTJOWTNxekg3d0E?oc=5",
-      "pub_date": 1764671100.0,
-      "article_url": "https://www.businessinsider.com/bitcoin-price-crash-explained-headwinds-hurting-crypto-market-outlook-2025-12",
-      "image": "https://i.insider.com/692e03407ecd1d1da662b675?width=1024&format=jpeg",
-      "description": "There are a few reasons why this sell-off in bitcoin feels different than ones past."
+      "headline": "Bitcoin\u2019s Predicted Sky-High Prices Have Not Panned Out",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLV80ZjAtYy1HdlV4aVRkWXk0Rk0tOWtSM3JGNHpOVThqZEZpMGR3ZUMzR2xXVExaVXlZQnpoRE9LU0ZkT1F2WXlVbDBTbzdka1p0cW91RlRSWjBGRkpPWkY2dmVrV3NRTUdCZG9XR1dFZldZWVFlVmt3d3MyS01VTzFWUnJIb2RJWlpKclFOaw?oc=5",
+      "pub_date": 1764777388.0,
+      "article_url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin Miners Hunted After Stealing $1 Billion of Electricity From Malaysia Grid",
@@ -25,14 +25,24 @@
       "description": "Cracking down on illegal Bitcoin mining gangs has become a cat-and-mouse game in Malaysia."
     },
     {
-      "headline": "Asia Market Open: Bitcoin Steadies Around $93K, Stocks Drift After Weak US Prints Reinforce Fed Cut Outlook",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeHg1cTVTTWZlWVNYY1NobFY2T05RTmdKb1lBWU9wQkVkMnNNT0lpWnpMdGtDNmN3bWpZcDV3cW5vMHdxRGxEUjJ5TWRmUGp1b2J6T1ZXWE5OaFpmU3ZicFdOVlp4enBXYXdoMTBwUmJyWXhDV09ZcVNsYjRORjhOVlhTd09Fdw?oc=5",
-      "pub_date": 1764818940.0,
-      "article_url": "https://finance.yahoo.com/news/asia-market-open-bitcoin-steadies-032903041.html",
-      "image": "https://media.zenfs.com/en/cryptonews_us_711/a16db159d392fa8256c80be1f242d7b4",
-      "description": "Bitcoin held near $93,000 in Asian trading on Thursday, while regional stocks made a lacklustre start as soft US data reinforced expectations that the Federal Reserve will cut interest rates next week.Nic Puckrin, investment analyst and co-founder of The Coin Bureau, said Bitcoin has staged a \u201cremarkable recovery\u201d over the ..."
+      "headline": "4 reasons why bitcoin is slogging through an epic plunge",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0ZwQ2ZJR1FQWkhxcC1xaTcwWmxQUE9YQlJOOGtmdWJnazBvSzJpZTNaZVM3RGdzME1KSmdsSmJMb0N2TDl6bTZMUFpVSnFSUTNWTk5ZZHFQVEtabDQ2RmUzcm5mOXFPLTJHaXh0NEplMXRoSHJHN2lhZF91RzFpXzhrNkhaOHZKVWxtMExBVGJfUThvRlR5UU5vM00tNFNIYlFUcTJOWTNxekg3d0E?oc=5",
+      "pub_date": 1764671100.0,
+      "article_url": "https://www.businessinsider.com/bitcoin-price-crash-explained-headwinds-hurting-crypto-market-outlook-2025-12",
+      "image": "https://i.insider.com/692e03407ecd1d1da662b675?width=1024&format=jpeg",
+      "description": "There are a few reasons why this sell-off in bitcoin feels different than ones past."
+    },
+    {
+      "headline": "News Explorer \u2014 Could Bitcoin See a Short Squeeze Following the Fed's Interest Rate Decision?",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSnAwWW1nWGpMejRRMVJqY1UwVDNYWWx4YTlRSDZLMzRkN3BNZGlWcFE2dEdHdDBJLW82RWpmQ0lqNHlDaEhOVlNlNk9ZLW5XUVV5Rk02WHYzeEdacFFEbVFfVEFwa2N6WERpNjNzU2UwbHdJN1pXMmNrT2otMDFJS0xIU2xYRGZyY0lrUEp2RDV2UEpmaGoyREF2MFRFWWNoTy1yNGl6eFR5U3JRdGViMlV6U3ZCMUc3b3NyYUtYMEFTTE9qaEdhTw?oc=5",
+      "pub_date": 1764822417.0,
+      "article_url": "https://decrypt.co/news-explorer?pinned=1250123&title=could-bitcoin-see-a-short-squeeze-following-the-feds-interest-rate-decision",
+      "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-02-gID_7.png",
+      "description": "The next-generation media outlet navigating the intersection of culture and technology."
     },
     {
       "headline": "Bitcoin sell-off halts Trump family's crypto windfall",
@@ -45,12 +55,12 @@
       "description": "Due to a recent downturn in bitcoin, the Trump family has had roughly a billion dollars of their net worth erased in just a matter of weeks, according to estimates."
     },
     {
-      "headline": "Strategy CEO Says Reserve Reduces Pressure to Sell Bitcoin",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHk4V1ktaDhvd3Vzb0Q0WWZOclVYSEFzSVVVVmJxZWZvLU1IWVktdmJqTjNuNlR0TDhhRzNJS29iTU1BTkVvZTBxaWZkZGdLZGpqano4OHdoMnBOTzFvOVQwYk1TeF8yVnVVTkhrX0ZfVWZNYWlLMTR4TnhLSVVYTjFDMGU0MlMxMmJZWUIxYjdLaXMzNERTaHlDNi1LeEVGQ2NnVGxIZFBmMHVvZUJfX1BR?oc=5",
-      "pub_date": 1764703795.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/strategy-ceo-sees-reserve-used-to-make-payments-in-perpetuity",
+      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNc0lqdTZuM1FxamlFZE0yUFBPdlJWYjQ0eFFXOUVuLWZoNWdFcGE3em9XSVNKa1ZLT2ZtS3Bad081a083T3djYzczUDhBcTFQMndLb0M0UEdBcjRISWd3aEhTTmh5dHhCMEZqTmVjbEZYSHR3elBqRWlRMGwxYXR0WHRMaUFKSVZPU2VKZlFSamV6MmZzS3NMUXMtQ0hQXzJFemVVeEhMTENOQ21zR1JGQnc2U041SmRKNjhHY3IzNGxNd2p5dE5ZNkF4UVpJeW01YUVLbUVqaEJ3TjJNWTM0amZMQkN4M1hnMjdGOXNjNFc1TnI2bHUtR0EwS09hNDVQWjl3d2pPNTVSM00wZUdWa3BrR2l4UTRQS29vdmdYbnQwbkVQODJrREVPNTg4RWtVTk1zVHVTcUhCQm9RWlZucmJnUmdobjZVYU1IanhLanVDT2l3ZXptVTVkYXBmekhUNEtHRWdYZS1EZzBibXYxelNOb1JnYWowQXpDcXB2WDRNZTNqYm1QOXB6SUJBaGlZbmluY09VOXNwQWlNdmY5a0FQRkZmejlBWE5RVnZuUnlYRExoS29LUw?oc=5",
+      "pub_date": 1764626940.0,
+      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqesmf21-CIXsIyfGEUJHpbpZ3GDcWnmqEZQR4pkz2rbm4dHi_lWPl8U&gaa_ts=69311ffa&gaa_sig=2yLJFkzkEepAxDeeNJs18fm5BCRn_Fs0OXlBCJWFeI69RNnfpGJyc8zeEH9tdf9pGGRXaD9RETkrJow1gxJa6Q%3D%3D",
       "image": null,
       "description": null
     },
@@ -75,26 +85,6 @@
       "description": null
     },
     {
-      "headline": "Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQYzJCeE1VVi1qMWtENnlOWnFqNlM2LU5iRnFseG9QLUFiMnlCN2puLXdQVXBTdU54Y01DNHpkdmNHUmVjUnpyMEZpdENQRHBQOFJWRGZpWF9nT1c0UTlLVUlxZmxUOXJOLUdEcXZpbzh4dnZrc2lKMzdhb2ltVHlRc2wzMmx6RzMwVTR4a3dwSE5Ic3AwV1A2MnphTmVhWGRsZXRsSWozWHJVd2lvUWs3YzhvcFFUaldWZ3lhNVNjMXB6a25QNVlIYUhHWDh4b3B6M0tNaUdzc09VUEJPeWVUSGlkY2pUSkhYTHNfbXZhVV9NX2Q2TEFxbzFhYTliZnZ3eTg1YkdXcFVXUnpfZVpXZ04zRE5QTHNERmVjcW9LVkxlUHppRHRhRkhsTnlZR3JGWDBpbXlhNGdIc0xsd3RMZmx6eDQtQ21EZTlvU1JSdW92cmppcDh3c3otRGhmMlY0cUV3alVtRENHVVFpTkp0V0h4OVZmS05aSVE?oc=5",
-      "pub_date": 1764770640.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqd66JTWRpu3MAEE46wC-IXHbLtInPZ6R-EAwzBIFFjZ4ZmW1uFWdSfj&gaa_ts=693115d4&gaa_sig=uoVE8_WuQ-4TQDCV9Dk-jbRQvXrqNUZHWzc8UNoSVXYKI1z6m3hXSDAqDOkzCMKEDfKcTetKESyjgXYiyyP38A%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Was the Bitcoin Jump a 'Fake Breakout'?",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BQ2o3U3FJS1AwaUp1SEtGRkZtdGtmTUhqLUdSS1pCWkY4UE16UEs2QngwVHJmdlc0bm1OSmpHYUZhWDA4RXVoZ3BqS1hTRXZPNjBEWVdxTFRmRUxzLTlVcWhIZkR3cWPSAW9BVV95cUxPLVU0Z1l6SEVvYzZLLXZaV1RjVzMtT3Q0WkRGVHc2SHA1cEpUaUJqMGlVU1RES3VTQTZwOXFkVlhIeFVkU3VIU1FaQi1FbU04M2JGaTRzX3Z6WW82dFdmaFhHR09IRWZfNS1uX1I2MEE?oc=5",
-      "pub_date": 1764789820.0,
-      "article_url": "https://decrypt.co/350787/was-bitcoin-jump-fake-breakout",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
-      "description": "Bitcoin gained 5.7% Tuesday but analysts warn of a potential fake breakout as the cryptocurrency struggles to hold $93K ahead of Fed meeting."
-    },
-    {
       "headline": "Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved'",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -103,8 +93,18 @@
       "article_url": "https://finance.yahoo.com/news/larry-fink-softens-crypto-stance-as-blackrock-boasts-biggest-us-bitcoin-etf-my-thought-process-has-evolved-184909682.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/LCqYj_OUyWeEiQelje7S9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3d8e6010-d074-11f0-b5df-33145c765fcd",
       "description": "Larry Fink, once a proud crypto skeptic, has evolved his views as his firm, BlackRock, has become a leader in the industry."
+    },
+    {
+      "headline": "Video: BlackRock C.E.O. Calls Bitcoin an \u2018Asset of Fear\u2019",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemkwbnVmYy1RczRGQ3A4cmlUdy1UbEkzR09RVkNHZnBMN2phVmE4MVBQclNJeFVtRFNDMko2MjdZeGIwZ214VHJaSXh4WldhT011c2dsNWMxRThvSFh1WjJiYTROMVdjOWJXUlAzSW5qODJWMW44Mmp3aC1nWUtFMlNOMVN0S0xBZDVCYUwxaWhNMEl1djM1NW9jQjNsRy1ub043Z0U1WU1FcFpCT2JlNzgwYw?oc=5",
+      "pub_date": 1764781993.0,
+      "article_url": "https://www.nytimes.com/video/business/dealbook/100000010562120/blackrock-ceo-calls-bitcoin-an-asset-of-fear.html",
+      "image": "https://static01.nyt.com/images/2025/12/03/multimedia/03dealbook-summit-armstrong-fink-wckh/03dealbook-summit-armstrong-fink-wckh-facebookJumbo.jpg?video-overlay",
+      "description": "Larry Fink, the chief executive of BlackRock, dismissed concerns about the long-term value of cryptocurrency."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T04:47:34.424712+00:00"
+  "fetched_at": "2025-12-04T05:30:50.039753+00:00"
 }

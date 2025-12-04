@@ -13,6 +13,17 @@
       "description": "a wonderful fusaka day to you all - original post if you want to help boost on twitter!"
     },
     {
+      "title": "How is Ethereum solving the blockchain trilemma? Post Fusaka upgrade analysis.",
+      "author": "Worldly-Law9012",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pdra4c/how_is_ethereum_solving_the_blockchain_trilemma/",
+      "published": 1764824506.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Ethereum is actively working to address the blockchain trilemma, a core challenge in the design of decentralized systems that suggests a blockchain can only achieve two of three key properties\u2014Decentralization, Security, and Scalability\u2014at the same time. Ethereum's strategy involves a multi-phased roadmap and the heavy utilization of Layer 2 (L2) scaling solutions to tackle scalability while maintaining its core commitments to decentralization and security. \ud83d\udee1\ufe0f Security and Decentralization Ethereum's foundational layer, or Layer 1 (L1), prioritizes security and decentralization, which are fundamental to its value proposition as a \"world computer.\" Security: The network transitioned from a Proof-of-Work (PoW) consensus mechanism to Proof-of-Stake (PoS), known as The Merge (September 2022). PoS maintains a high level of security by making it prohibitively expensive for a malicious actor to gain enough staked ETH to compromise the network. The economic cost of an attack on Ethereum's PoS network is arguably higher than on its former PoW network. Decentralization: PoS is intended to boost decentralization in the long run by making it easier for more people to become validators, as it requires less specialized, expensive hardware compared to PoW mining. The development roadmap also includes phases like The Scourge and The Purge, which aim to further improve censorship resistance and reduce the hardware requirements for running a node, promoting wider network participation. \ud83d\ude80 Scaling (Solving the Trilemma's Third Side) Ethereum's main challenge was scalability\u2014the network became congested, leading to slow transactions and high gas fees. The strategy to address this is primarily through Layer 2 solutions and fundamental L1 upgrades. Layer 2 (L2) Scaling Solutions Ethereum leans heavily on L2 networks, which process transactions off the main chain but settle on L1, inheriting Ethereum's robust security. Rollups: These are the most prominent L2 solution. They execute thousands of transactions off-chain and then bundle (\"roll up\") the resulting data into a single, compressed transaction that gets submitted back to the Ethereum Mainnet. Optimistic Rollups (e.g., Arbitrum, Optimism): Assume transactions are valid but allow a \"challenge period\" where anyone can submit a fraud proof if they detect an invalid transaction. Zero-Knowledge (ZK) Rollups (e.g., zkSync, Starknet): Use cryptographic proofs (validity proofs) to instantly verify the correctness of off-chain transactions, providing stronger security guarantees. By offloading the execution layer to L2s, Ethereum L1 can focus on its role as the secure and decentralized data availability layer. Layer 1 Upgrades Ethereum's roadmap includes major L1 upgrades to support the L2 scaling strategy: Proto-Danksharding (EIP-4844): Implemented in the Dencun upgrade (March 2024), this introduced a new, cheaper way for rollups to post transaction data to the L1 using \"blobs\". This significantly lowered L2 transaction costs, boosting scalability without compromising security or decentralization. The Surge (Full Sharding): The long-term vision involves a form of data sharding where the network is split to handle data more efficiently. This will dramatically increase the data capacity of the L1, further scaling the L2 ecosystem to potentially handle hundreds of thousands of transactions per second (TPS). In essence, Ethereum is solving the trilemma by adopting a layered approach: L1 provides decentralized security, and L2s provide scalability."
+    },
+    {
       "title": "Daily General Discussion December 03, 2025",
       "author": "EthereumDailyThread",
       "url": "https://www.reddit.com/r/ethereum/comments/1pcwf5g/daily_general_discussion_december_03_2025/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Why should the average person be excited about ethereum and/or ETH? What specific real world use cases are available to the average person today?"
-    },
-    {
-      "title": "Been out of the loop for some time. Whats the go-to wallet solution these days?",
-      "author": "TripleSpeeder",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pcz1jq/been_out_of_the_loop_for_some_time_whats_the_goto/",
-      "published": 1764751311.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "For several years I've been using the combination of frame.sh + brave browser plugin, backed by the Lattice1 hardware wallet. This combo works basically fine, but it seems there is not much development going on. I really did not follow ethereum ecosystem changes in recent years. Are there other/newer projects I should have a look at? Especially frame.sh always feels somewhat clumsy to use - I would love to have something that feels more integrated into my desktop."
     }
   ],
-  "fetched_at": "2025-12-04T04:47:14.807645+00:00"
+  "fetched_at": "2025-12-04T05:30:32.449215+00:00"
 }

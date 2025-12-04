@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 111244,
-      "likes": 1987,
+      "likes": 1989,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-12-02T11:54:58.000Z",
@@ -69,7 +69,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/black-forest-labs/FLUX.2-dev.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/633f7a8f4be90e06da248e0f/m5YoF33abJ09vcwFxt1Mj.png",
       "downloads": 185428,
-      "likes": 869,
+      "likes": 870,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-27T11:17:09.000Z",
@@ -129,7 +129,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1650342890988-623c6253389748c9f72ca287.png",
       "downloads": 0,
-      "likes": 212,
+      "likes": 213,
       "pipeline_tag": null,
       "num_parameters": null,
       "last_modified": "2025-12-02T06:54:47.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-12-04T04:47:25.541378+00:00"
+  "fetched_at": "2025-12-04T05:30:41.433304+00:00"
 }

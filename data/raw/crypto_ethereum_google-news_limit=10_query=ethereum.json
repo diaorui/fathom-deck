@@ -35,16 +35,6 @@
       "description": "Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ..."
     },
     {
-      "headline": "Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum",
-      "source": "dlnews.com",
-      "source_url": "https://www.dlnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX01sbUpWQzJyRXp1YVNhd2c1UGtlTFR6QldTRy1LTGZKeUdISVRUbzNaZ3h4V3BMcGdIUTN6VWNaZ2xDcnZKcUVVSXpVOE9SazNFMHFwU1QyZUFFN2pNcWFGVXctYjJKRGRFMC1HQzFtZHQySlJ0QWxaeVUxUmF1cjlPZUhnM1E3Z203S0lDWjRvNUExdG8yTXhxc3RGaEtQekpRVFNCZVl0UEk?oc=5",
-      "pub_date": 1764842594.0,
-      "article_url": "https://www.dlnews.com/articles/markets/bitmine-stock-jumps-15-percent-as-tom-lee-snaps-up-150-in-ethereum/",
-      "image": "https://www.dlnews.com/resizer/v2/FXE6Z4LPNJHKNCND4557ZTMV6M.jpg?smart=true&auth=38492572677366fd120ff010adf3924d35be13444f140486ebd3020bc995054e&width=1200&height=630",
-      "description": "Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December."
-    },
-    {
       "headline": "BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target",
       "source": "TipRanks",
       "source_url": "https://www.tipranks.com",
@@ -53,6 +43,16 @@
       "article_url": "https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum",
+      "source": "dlnews.com",
+      "source_url": "https://www.dlnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX01sbUpWQzJyRXp1YVNhd2c1UGtlTFR6QldTRy1LTGZKeUdISVRUbzNaZ3h4V3BMcGdIUTN6VWNaZ2xDcnZKcUVVSXpVOE9SazNFMHFwU1QyZUFFN2pNcWFGVXctYjJKRGRFMC1HQzFtZHQySlJ0QWxaeVUxUmF1cjlPZUhnM1E3Z203S0lDWjRvNUExdG8yTXhxc3RGaEtQekpRVFNCZVl0UEk?oc=5",
+      "pub_date": 1764842594.0,
+      "article_url": "https://www.dlnews.com/articles/markets/bitmine-stock-jumps-15-percent-as-tom-lee-snaps-up-150-in-ethereum/",
+      "image": "https://www.dlnews.com/resizer/v2/FXE6Z4LPNJHKNCND4557ZTMV6M.jpg?smart=true&auth=38492572677366fd120ff010adf3924d35be13444f140486ebd3020bc995054e&width=1200&height=630",
+      "description": "Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December."
     },
     {
       "headline": "Better Buy in 2026: Ethereum or Solana?",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T21:15:08.648269+00:00"
+  "fetched_at": "2025-12-05T21:56:36.130135+00:00"
 }

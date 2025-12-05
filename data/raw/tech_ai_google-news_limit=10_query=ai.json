@@ -25,6 +25,36 @@
       "description": null
     },
     {
+      "headline": "Meta acquiring AI wearable company Limitless",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtMWNFZGFabzVEYV9jNlhqOUpGX19JM2pjejZ3ODM2NjhaM0VTblRSNnZoZHdaR2ktVVF5VTY1S3pyQ3JiSFVFbmlrMUNlUXA2QkdhYUhlSWVOVXZVTmtQZWNhdlZ5bTd2OWV4LTljM1jSAXZBVV95cUxPa2pQb21PbjVEc1FvVHRzZzUxcFpScXlBVlZ6Zm1IZWQ4dkFHaWZaZXFJNWFtQ0hMQTdWZW85R1pMLWw4SU55ZThnaXhKZXRadklVNFVjdlRUanZCeGQ5b21iZm1UbURvUkxIblFQa3pRcTJ6SkZn?oc=5",
+      "pub_date": 1764963805.0,
+      "article_url": "https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108219443-17618392362025-09-18t012656z_736652099_rc20uga8mamw_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1761839305&w=1920&h=1080",
+      "description": "Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant."
+    },
+    {
+      "headline": "Meta acquires AI-wearables startup Limitless",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFJPbFdCU3Bmck9fY2daNnBQRVA2UlZhLTdxdU95X3RTeGVFN3NXMmpXSXRBU2MtS2g0WDdGQjJCUm1HRDJGc05YdG1yd0ozYmNKRVFjOTV5czdtQUo2dkp4WFZmTEFsRHFrYWhRdVFuV0t6Wkw5NzlsYnhNbGhlMFRUZy1aZzhkQXctT2xfdXZIVFE?oc=5",
+      "pub_date": 1764961699.0,
+      "article_url": "https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meta Platforms Buys AI-Device Maker Limitless",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOd2hmb2VORHoyNUh3amVZTjlPS1M5X0s0aUx0UjVQNmwxZVRvcGNTMWRrX2dNTWNsWnFhelotTjFXR29Za1otbEIwMkhFdUNGUDV5b1RRejhvdmcxSzF3cGdCNE5sOXY0bkRqSDVscEhCZGNBQXI0X1QxcWZJbGh6czROLWFJRjFGaWh6VkdqZDFWME1HakdPSTliZl9VR05fYUhJeGhEdnpMOWVlMWlMRHZ1ZTMtTk9XRlRXWnlvRTNhZEZsMDNSSVRzb2dWSXNOVGVqSzF4Qk1aZEtlQXdkdW5hNE5Jd1oyUWRoT3JBWXluWmU5Q2VUejFBejZmb2FGX2NLSWNROVBsZEZtTGNCOGVVUkxuYUxISG1WcmVibmdzb210RjI2YjI0QkNSR3ZtVi1LY25MUGl3RDh4dmlEbGxoSVRCTUFheWQxMFFTLTNYalJuYkdfbHhMSFFET3A3NEx0MEtaRUdJSG1KZXE5eTF6NTNsNlZsNHlqSlQ2LTlKXzM5djYtd2lUQQ?oc=5",
+      "pub_date": 1764968940.0,
+      "article_url": "https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqfYjlJHN1zpeKnjNuSP6XnLNQbyvW6E-yJfd-iivK4RoFdD1GVi5l40&gaa_ts=69335888&gaa_sig=g3BpC8t2JV9LgRGJZRPAlUICeAT430utEjR81mjkkP8OwL7fmwKHL6PdHn4N9YyYhUFPMFqdtOsnLQXLj2nU6w%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Character.AI | Sunday on 60 Minutes",
       "source": "CBS News",
       "source_url": "https://www.cbsnews.com",
@@ -35,54 +65,24 @@
       "description": "Parents who lost their daughter to suicide say Character.AI chatbots led her down a dark and sexually explicit path. Sharyn Alfonsi investigates the scale and dangers of what's unfolding inside this rapidly growing AI technology."
     },
     {
-      "headline": "AI Job Losses Are Coming, Tech Execs Say. The Question: Who\u2019s Most at Risk?",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQdFNJblh2SllaU3JrQURLUmN5d0xPcjNIUnFneVlrNVByRmpxaFdZSkxGMnZZdkEyS2g1dXNRcGc4Qkw2ZzZ5Zm5MZGFiRm9RUzlybzMwOHlfVUthelBWT2dOZ25LaHZCWUFNYTlDWmdTWGluV0RaUEw5aXhZSl9iMEd3UlNQeU54THE5d0R1S0xzOFgyUk1CV0pET2k2aXdRUC0yeC1CSjVyNjFzSU4ySGtTNEV0aUdPV3JXa1NwZWcwenNSTFZhazBmdElSdXFvbjFfWUY2Q2d5WXJQdWdycFdWdTJrOXU5a29kYkhjZm5kdnVFdVdoYWdHUVBzSldoUW9UNWhrcDZneHlDRWlDSHRYU2lnWjhQUFNEUXAtemxEbTVUOE5GVWo3ZVh2U3V0TGhMcW1uMkZsd0Z6bVdUMWhMRF85S21rZVl6VDFkSmJnN2JsVmtGQXF0UXN1V2M3MC1fRXZtX3JRbnpubzhUMklJTHFMN1FNdmpodHdXTWVSNzhvOGNfSU9aUS1jQUpnRUhfbEZ0WU13dlRjc3pCQUQyenRhak5IMXBSdW0tajM?oc=5",
-      "pub_date": 1764965640.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-job-losses-are-coming-tech-execs-say-the-question-whos-most-at-risk-984331d4?gaa_at=eafs&gaa_n=AWEtsqdmFyp59oaPkkcKTcI8dqg0Sgel_ZeuS6JPwkvGIWzQ7q-KprfTSSHe&gaa_ts=69334ecf&gaa_sig=u5Z_IzoTSnX5b3wVkjNxQwEOOIbR9Sh91r0tI6bQcLx69ke8SDmi7Qb22A1NGrr8YujK9RcxhZUAFuV3X9bjlA%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "This crazy chart shows just how much cash OpenAI is burning as it chases AI profits",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNUzh4LWxCcElwX1BMV3gwNGx0RV9UbkpaRklEUVhkRWtXNzk0ckdZc0xpb0kzb0J4RUt1b0xFVkxYT1g3UHFZd2pqOUtLTVJlNlFUbjJnalBtWVBjQlVRSTVZanNsWkZNS0k1NTdYTjZjSWdOVmtJSGRCQU1SbmlDUzRUSjU1VWVaaTh3cU1CNHRoclN1bUxVS1hFNlFkS0tXRzc5S2Q2bkZKZHpPQlB3OXU1MGxxMUJ4YnZYanZiS09KNl81ZDhqcXhHbk1OOUVLWnVpZFhhNUlBUU1CT2x0bURaTXo2aEhZMkVaNjcwZ2RzSGd2aGh3N0lGWDFiekF2VnZnNms5dTY1QUZIME5sa0ZtaEgzQlZUY0JWVVhYZlFtSlN6cmFtdXc0VDAwamRaT2JsdFdvSXVNTFRCLTVDaGFVRjVhdDlZTHhBVkJpRTR5THdYX1VQUkxucWxIcXpnOUVPb1hGMW1XVi1vS2w3SXRvMkctZ2Q3SEVVbXozeFFVTlI1THdKVkdHcDB2c2F4c0JLMkpBQ1hFTlBUV0VGWWdTVEtaTkVia2w0N2VIVGY5M01lbkJ2Nk84QkYzaHdRT3R2MTU4WVV6UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPNk5fY1VITGY4bVVhdHRyUUF5NmJEVTBuSmtNeWFwZEdZT0x5Zkl3NUlkb05SOHR5dkp0VUVuVUdfVmxpM0YzaUFKQm1OSTR6Tk0zWHZySUpGejJrLXJLcW5kV0g4WDRmNFhqRkctVzRDaWlDMEhDUHlHdURQTWlwU2JzOTAtbXJkNVF4dnVOMUJjbk00RWR2T19OQ1hUbFZhLWVmUG00WW1vZDYyQ2RXLWlyMXBSeEM0MlpxT1Rzb0pkWFV0b2JvYUViUFZGV0JJcHRGQzZ4aG9Qd3B4SWRNdlJOZVhtV1cwRE5LRkk0Vnd4c3pNb3dKbG1JRkotQXlRRTFSR1FBT2k1MzY5ck4wTVF3Z1dnaXpkRGNGOGVELWhBTGJSV3VqTllCcTVnWDN3SEJEandzY2pXTDFlRWw0RzR6akxDYl9MQlRTdUR2ZkVqSXRTNWJ3REpEMFowSnk2LWZQSERRVVdISzRrdEJZaDlHTEZkMTNnczFMU3IzSEhjZF9sWElrcTVkLXZQSmxoUjVBZHpoQWg3RjJ1TXUtZThpSEFGb1JPUjNkd3VFMDVnZS1KNHZRTnN4OFJod2Y4WFRxYXVqT2YzQQ?oc=5",
       "pub_date": 1764967140.0,
-      "article_url": "https://www.marketwatch.com/story/this-crazy-chart-shows-just-how-much-cash-openai-is-burning-as-it-chases-ai-profits-81e7ffef?gaa_at=eafs&gaa_n=AWEtsqcNtwm1YDikQlD4m3e7iMeFzFPfmek3IQ6CytQM0zWr4M4XynZYe7Ie&gaa_ts=69334ecf&gaa_sig=lpCaAdGl9LU4GdBVg5yGsHQ0HY3ke5gzuSYzHVnBi8pmW7dVExlx6Z_xtiXgmZ58lx4ogyoPZloyNgJrlxw7Ew%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/this-crazy-chart-shows-just-how-much-cash-openai-is-burning-as-it-chases-ai-profits-81e7ffef?gaa_at=eafs&gaa_n=AWEtsqeHxrrJwl8qeQHDX_7f02SKjsikQjfpIeub8pZyprOa17qoZfOCiPqR&gaa_ts=69335888&gaa_sig=WZQaSymWpxVQQ_DsT0wcrnZIJZHqgZZhino897-XxdLJ_NXLbhuRaINmKeZacIEB67iZSZLCWwFGpyLwAq2o2w%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Exclusive: Meta strikes multiple AI deals with news publishers",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VQklkdEVMNlo5dDVvVzBYaTZkS3A5MkJROF9ReGtrazk3NC1IaTBlV2NQU0hlOWExR082TE9XQnVsempSSU5aYTN5RGY3cU5IOXJmdkw3M1R5LW1kZ09RQVZGVFdNZnlMOFVELTlIdw?oc=5",
-      "pub_date": 1764939681.0,
-      "article_url": "https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Meta strikes multiple AI deals with news publishers",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUkJpaXNocHItVTkzbkZZSXg3eHhSTXdyY0pYMlJ2REFoMFAtM1hSVUJjNG5GWExCQXI3VDhrN1NpcExoYTFKQ3l6QzluT1VpMEtqN2hGaFBtblpKNmNEMEJSSmVvb0d0UjNWX3g4aFNlV280X19ZU2lZam9fU0gyeXZQVXVNOW9LWk5nVWt1dzdNZ9IBlwFBVV95cUxOdDFOUjUySzlTMU1WV1REdlBadkhGOVRCTDNaNEp0bGpUR3hMckdKUTVRcURiS016Qjdmc2g3V20tdEczTk5aWDIyUU1aVU5PUGNoQmV3VEFBVTFMZlU3Z3FxWGVDaFdVUVRzMDFZcll4aGRxejRmS1c4YmwwOTBqSWVwUncyaUtMbkVpYXRjMnk0N3NQM1Q4?oc=5",
-      "pub_date": 1764946926.0,
-      "article_url": "https://www.cnbc.com/2025/12/05/meta-strikes-multiple-ai-deals-with-news-publishers.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107368948-1707137441266-gettyimages-1978494980-raa-metaplat240204_npg9u.jpeg?v=1737052286&w=1920&h=1080",
-      "description": "Meta has struck several commercial AI data agreements with news publishers, including USA Today, People, CNN and Fox News, the company said on Friday."
-    },
-    {
-      "headline": "Meta acquires AI device startup Limitless",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0Q1aUl6MWRtZHBWWlZwdkdWTmtTYVprS2NaOE5MdWZkVGNhNmFFSFU5ZWhaSXU0ZS0zbWIteHVZbHZxVTh1UUxPem9xTExWZTZMR01RMHRPRWpKSHZ0UzA0UWtSV3NVZVBSR0VfOWZqOGdXZ2pjcXhWc3h2MW1tdkJ3?oc=5",
-      "pub_date": 1764968533.0,
-      "article_url": "https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Limitless-pendant.jpg?resize=1200,675",
-      "description": "Limitless said it shares Meta's vision of bringing personal superintelligence to everyone."
+      "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNazhnN0pQaWZoUjdfTUI5eW1QVFZNYWtPMEx3bUpaaTczTFM3cGlHNXQyVUJaOHctd3hCWktVWTNNeUVHbU5FdWpvQU5WSWlhUjZFRmtJdkw4Qjc1WU1aT1ZOUXRicUI3ekFHb2x5ak5xZXpNSjdiQXRxQjZKeXJ1dU81TDhzZjR4VzUwU2Y3Rzc3TXJRY1FRbjViVkNSMmlsWklXeTJuUGJHX0xlZDdrNmRPM2Z5YVZDbV9Gb3UzeTd3NnVVbXBnYWVhR2Y4czRZeHY5Y3dZYng4RVlkTmVpNEhfN1BXZFNQc0dxX0IxSFh3UnVTb1ZENXZocm5UeU5nMDAxUzFiRVNBeHRUZEZ1REVjZWlCZ2lvc25QMkZFY3J5dzl3OXlmQ0Z1dF9CY0plLXc?oc=5",
+      "pub_date": 1764864660.0,
+      "article_url": "https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1260047116-e1764863526884.jpg?resize=1200,600",
+      "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
     },
     {
       "headline": "The Strange Disappearance of an Anti-AI Activist",
@@ -95,16 +95,16 @@
       "description": "Sam Kirchner wants to save the world from artificial superintelligence. He\u2019s been missing for two weeks."
     },
     {
-      "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNazhnN0pQaWZoUjdfTUI5eW1QVFZNYWtPMEx3bUpaaTczTFM3cGlHNXQyVUJaOHctd3hCWktVWTNNeUVHbU5FdWpvQU5WSWlhUjZFRmtJdkw4Qjc1WU1aT1ZOUXRicUI3ekFHb2x5ak5xZXpNSjdiQXRxQjZKeXJ1dU81TDhzZjR4VzUwU2Y3Rzc3TXJRY1FRbjViVkNSMmlsWklXeTJuUGJHX0xlZDdrNmRPM2Z5YVZDbV9Gb3UzeTd3NnVVbXBnYWVhR2Y4czRZeHY5Y3dZYng4RVlkTmVpNEhfN1BXZFNQc0dxX0IxSFh3UnVTb1ZENXZocm5UeU5nMDAxUzFiRVNBeHRUZEZ1REVjZWlCZ2lvc25QMkZFY3J5dzl3OXlmQ0Z1dF9CY0plLXc?oc=5",
-      "pub_date": 1764864660.0,
-      "article_url": "https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1260047116-e1764863526884.jpg?resize=1200,600",
-      "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
+      "headline": "A safety report card ranks AI company efforts to protect humanity",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUW8xaF9NOE5mVFhPYmhTVjNVeWZRY21QZFB6NzdwSE04TjV0LS1lVGxqOHJqejJRU3lDNFhEbUtTczFkcjBDcWRubl9ZZEhqeF9yYk4yR1RHc3Y1WjIyTWRjMDRDTkJPNm16TEMxdGdsbHBhaXdCQ2VoMnJibjU3STY1eUg5MmRiT3RaYnE3T2FmYVB2TEhIUHh2XzJBYTd5T0xIT0dORUV0aXcyV3JYTTBVd1F3MGxydHR5bkFfQnJMYnVka215WXVhdU9lSDAz?oc=5",
+      "pub_date": 1764932400.0,
+      "article_url": "https://www.latimes.com/entertainment-arts/business/story/2025-12-05/ai-artificial-intelligence-company-scorecard-ranks-safety-humanity",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/571d8f3/2147483647/strip/true/crop/4564x2396+0+323/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2Fff%2Fe32c277e4854a26d2d77424aebe4%2F2235057505.jpg",
+      "description": "Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T21:15:18.734815+00:00"
+  "fetched_at": "2025-12-05T21:56:44.479854+00:00"
 }

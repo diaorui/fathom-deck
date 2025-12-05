@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2512.02589",
       "arxiv_url": "https://arxiv.org/abs/2512.02589",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2512.02589.png",
-      "upvotes": 21,
+      "upvotes": 22,
       "num_comments": 1,
       "published_at": "2025-12-02T05:00:37.000Z",
       "github_repo": "https://github.com/PaperDebugger/PaperDebugger",
@@ -92,7 +92,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 5264,
+      "github_stars": 5285,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 1,
       "published_at": "2025-12-04T10:57:27.000Z",
       "github_repo": "https://github.com/yuemingPAN/SFD",
-      "github_stars": 33,
+      "github_stars": 56,
       "project_page": "https://yuemingpan.github.io/SFD.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-05T20:53:08.551929+00:00"
+  "fetched_at": "2025-12-05T21:56:21.425517+00:00"
 }

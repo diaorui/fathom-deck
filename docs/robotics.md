@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T21:45:21.987595+00:00'
+updated: '2025-12-05T21:56:45.767205+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 21:45 UTC  
+**Last Updated:** December 05, 2025 at 21:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -206,7 +206,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 32K • 👍 166 • 💬 4 • ⏱️ 0:19 • 8h ago
+👁️ 32K • 👍 166 • 💬 4 • ⏱️ 0:19 • 9h ago
 
 ---
 

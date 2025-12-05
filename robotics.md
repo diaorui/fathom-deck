@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T10:42:10.249967+00:00'
+updated: '2025-12-05T10:54:39.472819+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 10:42 UTC  
+**Last Updated:** December 05, 2025 at 10:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -94,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Humanoid robotics is getting cheaper, smarter, and a lot more capable at moving through the world. But construction sites are a different beast with uneven terrain, unpredictable workflows, and tasks that vary wildly from day to day. I’m curious whether robotics aimed specifically at construction has kept up. Not the glossy demo videos, but actual sector-focused systems that show real progress on tasks like material handling, layout, inspections, drilling, or repetitive onsite work. It actually feels like construction is one of the few fields where purpose-built robots should make far more sense than humanoids. Most site tasks don’t need a human-shaped form factor at all. Are there ad hoc or specialized robots that feel like a real breakthrough, or is the field still stuck in research prototypes?
 
-1h ago
+2h ago
 
 ---
 
@@ -126,7 +126,7 @@ IEEE Spectrum • 3d ago
 
 The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 

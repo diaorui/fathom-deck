@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T10:42:10.246687+00:00'
+updated: '2025-12-05T10:54:39.469538+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 10:42 UTC  
+**Last Updated:** December 05, 2025 at 10:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** +5.1%  
-**30d:** -5.3%  
-**90d:** -27.2%  
-**1y:** -21.3%  
+**24h:** -1.5%  
+**7d:** +4.9%  
+**30d:** -5.4%  
+**90d:** -27.3%  
+**1y:** -21.4%  
 
 ---
 
@@ -166,7 +166,7 @@ dlnews.com • 1d ago
 
 Bitmine added another $130 million in ETH on Dec. 5. The firm now holds over 3.7 million ETH, valued at roughly $18 billion. Chairman Tom ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 1h ago
 
 Key PointsEthereum's newest upgrade, Fusaka, is here.
 
-Nasdaq • 42m ago
+Nasdaq • 54m ago
 
 ---
 
@@ -276,7 +276,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 53 • 💬 114 • ⏱️ 5:52 • 19h ago
+👁️ 1K • 👍 53 • 💬 114 • ⏱️ 5:52 • 20h ago
 
 ---
 
@@ -296,7 +296,7 @@ Ethereum (ETH) is approaching a critical point, and the next major move could de
 
 📺 HKCM GLOBAL
 
-👁️ 1K • 👍 136 • 💬 6 • ⏱️ 10:00 • 17h ago
+👁️ 1K • 👍 136 • 💬 6 • ⏱️ 10:00 • 18h ago
 
 ---
 

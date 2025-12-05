@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T10:42:10.231923+00:00'
+updated: '2025-12-05T10:54:39.455119+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 10:42 UTC  
+**Last Updated:** December 05, 2025 at 10:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 12h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 13h ago
 
 ---
 
@@ -53,13 +53,13 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 14h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 15h ago
 
 ---
 
 **["Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have." -Bernie Sanders](https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -83,7 +83,7 @@ Micron has confirmed that it is exiting the Crucial consumer business so it can 
 
 Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn’t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer “mysterious RAG failures” Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?
 
-10h ago
+11h ago
 
 ---
 
@@ -107,7 +107,7 @@ The U.S. Department of Health and Human Services has outlined a new strategy to 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/z_gHuD_IxZs?si=JB_V38KslkGIR8OB) • 2h ago
+🔗 [youtu.be](https://youtu.be/z_gHuD_IxZs?si=JB_V38KslkGIR8OB) • 3h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Economist • 23h ago
 
 **[What Trump could do next on state AI laws](https://www.axios.com/2025/12/05/trump-next-ai-state-laws)**
 
-Axios • 41m ago
+Axios • 53m ago
 
 ---
 
@@ -139,7 +139,7 @@ Axios • 41m ago
 
 Apple lost executives and researcher in 2025, some to retirement or startups, but mostly to Mark Zuckerberg's Meta that spent big on recruitment.
 
-Business Insider • 17m ago
+Business Insider • 29m ago
 
 ---
 
@@ -167,7 +167,7 @@ The Wall Street Journal • 19h ago
 
 Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
 
-Forbes • 16h ago
+Forbes • 17h ago
 
 ---
 
@@ -467,7 +467,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 224 • 8h ago
+⬇️ 12,984 • ❤️ 224 • 9h ago
 
 ---
 
@@ -676,7 +676,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 820 • 🔱 42 • 4h ago
+⭐ 820 • 🔱 42 • 5h ago
 
 ---
 

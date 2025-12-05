@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T10:42:10.240645+00:00'
+updated: '2025-12-05T10:54:39.463546+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 10:42 UTC  
+**Last Updated:** December 05, 2025 at 10:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,006.06
+### $91,417.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +0.7%  
+**24h:** -1.5%  
+**7d:** +0.6%  
 **30d:** -9.8%  
-**90d:** -17.9%  
+**90d:** -18.0%  
 **1y:** -8.3%  
 
 ---
@@ -107,13 +107,13 @@ Im only up 3000% now
 
 **[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Bitcoin in 2025](https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -121,7 +121,7 @@ Im only up 3000% now
 
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
-5h ago
+6h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Economist • 1d ago
 
 Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -223,7 +223,7 @@ Forbes • 22h ago
 
 Woori Bank has begun displaying Bitcoin prices inside its main trading room in Seoul, placing the cryptocurrency alongside core financial indicators such as the won–dollar exchange rate and stock market data. Key Takeaways: Woori Bank is the first Korean commercial bank to display Bitcoin prices in its main trading room. ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -235,7 +235,7 @@ Yahoo Finance • 2h ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 6 • 💬 1 • 22h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 6 • 💬 1 • 23h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
@@ -313,7 +313,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 232 • ⏱️ 23:27 • 9h ago
+👁️ 28K • 👍 2K • 💬 232 • ⏱️ 23:27 • 10h ago
 
 ---
 
@@ -323,7 +323,7 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 47K • 👍 2K • 💬 202 • ⏱️ 18:48 • 12h ago
+👁️ 47K • 👍 2K • 💬 202 • ⏱️ 18:48 • 13h ago
 
 ---
 
@@ -373,7 +373,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 411 • 💬 78 • ⏱️ 9:41 • 5h ago
+👁️ 5K • 👍 411 • 💬 78 • ⏱️ 9:41 • 6h ago
 
 ---
 

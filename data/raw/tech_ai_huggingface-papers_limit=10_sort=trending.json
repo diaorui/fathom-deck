@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 139,
+      "upvotes": 140,
       "num_comments": 2,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
@@ -92,7 +92,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 5229,
+      "github_stars": 5264,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -168,30 +168,30 @@
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65800,
+      "github_stars": 65826,
       "project_page": null
     },
     {
-      "id": "2509.22186",
-      "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing",
-      "authors": "Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "We introduce MinerU2.5, a 1.2B-parameter document parsing vision-language\nmodel that achieves state-of-the-art recognition accuracy while maintaining\nexceptional computational efficiency. Our approach employs a coarse-to-fine,\ntwo-stage parsing strategy that decouples global layout analysis from local\ncontent recognition. In the first stage, the model performs efficient layout\nanalysis on downsampled images to identify structural elements, circumventing\nthe computational overhead of processing high-resolution inputs. In the second\nstage, guided by the global layout, it performs targeted content recognition on\nnative-resolution crops extracted from the original image, preserving\nfine-grained details in dense text, complex formulas, and tables. To support\nthis strategy, we developed a comprehensive data engine that generates diverse,\nlarge-scale training corpora for both pretraining and fine-tuning. Ultimately,\nMinerU2.5 demonstrates strong document parsing ability, achieving\nstate-of-the-art performance on multiple benchmarks, surpassing both\ngeneral-purpose and domain-specific models across various recognition tasks,\nwhile maintaining significantly lower computational overhead.",
-      "ai_summary": "MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.",
-      "hf_url": "https://huggingface.co/papers/2509.22186",
-      "arxiv_url": "https://arxiv.org/abs/2509.22186",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.22186.png",
-      "upvotes": 135,
-      "num_comments": 2,
-      "published_at": "2025-09-26T06:45:48.000Z",
-      "github_repo": "https://github.com/opendatalab/MinerU",
-      "github_stars": 49906,
-      "project_page": "https://opendatalab.github.io/MinerU/"
+      "id": "2512.04926",
+      "title": "Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion",
+      "authors": "Yueming Pan, Ruoyu Feng, Qi Dai et al. (8 authors)",
+      "organization_name": "XianJiaotongUniversity",
+      "organization_fullname": "Xi'an Jiaotong University",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/66a92ba2f351acac61ba119c/6zLTkLwBLMbRLR1y7tfpC.png",
+      "summary": "Latent Diffusion Models (LDMs) inherently follow a coarse-to-fine generation process, where high-level semantic structure is generated slightly earlier than fine-grained texture. This indicates the preceding semantics potentially benefit texture generation by providing a semantic anchor. Recent advances have integrated semantic priors from pretrained visual encoders to further enhance LDMs, yet they still denoise semantic and VAE-encoded texture synchronously, neglecting such ordering. Observing these, we propose Semantic-First Diffusion (SFD), a latent diffusion paradigm that explicitly prioritizes semantic formation. SFD first constructs composite latents by combining a compact semantic latent, which is extracted from a pretrained visual encoder via a dedicated Semantic VAE, with the texture latent. The core of SFD is to denoise the semantic and texture latents asynchronously using separate noise schedules: semantics precede textures by a temporal offset, providing clearer high-level guidance for texture refinement and enabling natural coarse-to-fine generation. On ImageNet 256x256 with guidance, SFD achieves FID 1.06 (LightningDiT-XL) and FID 1.04 (1.0B LightningDiT-XXL), while achieving up to 100x faster convergence than the original DiT. SFD also improves existing methods like ReDi and VA-VAE, demonstrating the effectiveness of asynchronous, semantics-led modeling. Project page and code: https://yuemingpan.github.io/SFD.github.io/.",
+      "ai_summary": "Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.",
+      "hf_url": "https://huggingface.co/papers/2512.04926",
+      "arxiv_url": "https://arxiv.org/abs/2512.04926",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2512.04926.png",
+      "upvotes": 25,
+      "num_comments": 1,
+      "published_at": "2025-12-04T10:57:27.000Z",
+      "github_repo": "https://github.com/yuemingPAN/SFD",
+      "github_stars": 33,
+      "project_page": "https://yuemingpan.github.io/SFD.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-05T11:45:12.809834+00:00"
+  "fetched_at": "2025-12-05T12:51:37.802179+00:00"
 }

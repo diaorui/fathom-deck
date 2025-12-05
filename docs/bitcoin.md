@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T11:56:46.550122+00:00'
+updated: '2025-12-05T12:52:17.667866+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 11:56 UTC  
+**Last Updated:** December 05, 2025 at 12:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +0.6%  
-**30d:** -9.9%  
-**90d:** -18.2%  
-**1y:** -8.6%  
+**24h:** -1.4%  
+**7d:** +0.5%  
+**30d:** -10.0%  
+**90d:** -18.1%  
+**1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1822.84B
+**Market Cap:** $1820.61B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.5%
+-27.6%
 
 **All-Time Low:** $67.81
-+134608.7%
++134428.8%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Im only up 3000% now
 
-9h ago
+10h ago
 
 ---
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -95,13 +95,13 @@ Im only up 3000% now
 
 I finally sold all my bitcoin, it would be a shame if it pumps now, right? I really really hope it doesn't!! 😉 🙏🙏
 
-33m ago
+1h ago
 
 ---
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -115,7 +115,15 @@ I finally sold all my bitcoin, it would be a shame if it pumps now, right? I rea
 
 **[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
 
-11h ago
+12h ago
+
+---
+
+**[Senators buying the dip on BTC](https://www.reddit.com/r/Bitcoin/comments/1pem50a/senators_buying_the_dip_on_btc/)**
+
+Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
+
+8h ago
 
 ---
 
@@ -125,19 +133,11 @@ I finally sold all my bitcoin, it would be a shame if it pumps now, right? I rea
 
 ---
 
-**[Senators buying the dip on BTC](https://www.reddit.com/r/Bitcoin/comments/1pem50a/senators_buying_the_dip_on_btc/)**
-
-Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
-
-7h ago
-
----
-
 **[Broke .1 finally!](https://www.reddit.com/r/Bitcoin/comments/1pedy60/broke_1_finally/)**
 
 .2 next, just wanted to share with someone
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our entire crypto journey wouldn’t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. 🚀
 
-19h ago
+20h ago
 
 ---
 
@@ -157,45 +157,27 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Vanguard has a change of heart on crypto, lists Bitcoin and other ETFs](https://fortune.com/2025/12/02/vanguard-has-a-change-of-heart-on-crypto-lists-bitcoin-and-other-etfs/)**
+**[Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks](https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit)**
 
-The brokerage firm, long averse to crypto, will let traders buy and sell blockchain-wrapped funds.
-
-Fortune • 2d ago
+The Block • 6h ago
 
 ---
 
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdzhsfza3b0MVzNncCzN3bS8y0cNA8MKL4z4NVZ7HJXLaNB_Z0KaOLQ&gaa_ts=6932cbec&gaa_sig=u8I_EN6A4G7XxsZHDxs1K3YYWhEyOgRZcSeXgr2AdGDLfPM5mCtKx9C9-YVGT99iAhpor11_lp1Y4l_zoxCBcw%3D%3D)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqecH3OVKt9g0sF2D0mhk5YrxaNgpgJ4MDbb8c77ALNZ8OIfcnCdTI-o&gaa_ts=6932d8dd&gaa_sig=DAOOcl9Y8fChftCBzFpH_wv3pQ2RrmNAaU12iISoL27UXjf8L2A1nO5bgvux7eJJFDUENNMf94nTQJyt0AB2eg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
 ---
 
-**[Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus](https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus)**
+**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
 
-The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high.
+In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
 
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin Hits Two-Week High in Cautious Crypto Market Recovery](https://finance.yahoo.com/news/bitcoin-hits-two-week-high-071352153.html)**
-
-The original cryptocurrency rose as much as 2.6% to about $93,965, its highest intraday level since Nov. 17.  The digital assets market remains on shaky ground after a bruising selloff that began in early October, just days after Bitcoin hit a record of over $126,000.  “Bitcoin fans will be rightly cautious about this rally in the cryptocurrency, having seen so many false dawns in recent months, but it looks like the recovery in stock market risk appetite is finally leaching across into the crypto space,” Chris Beauchamp, UK chief market analyst at investment and trading platform IG, said in a note.
-
-Yahoo Finance • 1d ago
-
----
-
-**[IMF Warns Stablecoins Pose Financial Stability Risks as Cross-Border Flows Surpass Bitcoin and Ethereum](https://finance.yahoo.com/news/imf-warns-stablecoins-pose-financial-100000826.html)**
-
-IMF warns as stablecoin flows surpass BTC and ETH, raising global financial stability and dollarization risks.
-
-Yahoo Finance • 1h ago
+CNBC • 1d ago
 
 ---
 
@@ -203,13 +185,13 @@ Yahoo Finance • 1h ago
 
 JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
-Business Insider • 18h ago
+Business Insider • 19h ago
 
 ---
 
 **[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -217,13 +199,29 @@ The Block • 13h ago
 
 JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
+**[Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus](https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus)**
 
-The Economist • 1d ago
+The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high.
+
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin rebounds after drawdown hits 20%. Is the crypto winter over or just starting?](https://www.cnbc.com/2025/12/02/bitcoin-rebounds-after-drawdown-hits-20percent-is-the-crypto-winter-over-or-just-starting-.html)**
+
+Bitcoin could lose about 80% of its value if it follows its previous bear-market patterns, analysts said. But they're uncertain a crypto winter has started.
+
+CNBC • 2d ago
+
+---
+
+**[Bitcoin, XRP Fall as Crypto Rebound Stalls. Why It May Quickly Restart.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-fed-pce-6e68daba?gaa_at=eafs&gaa_n=AWEtsqcOu1TPl2pALLjKFTxQnvCPs5vaUDR7_u8j4ZTMZiq85XXvHVg0ivBB&gaa_ts=6932d8dd&gaa_sig=2PhPVqVl9rCF_XbWux5GIT4evvCeJKUE3qji0P_t6n_5ZgETLZDhE3lrM7CTJo3ksDvfXOGB1av54cpSsBjngw%3D%3D)**
+
+Barron's • 8m ago
 
 ---
 
@@ -243,7 +241,7 @@ The Economist • 1d ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 22h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 23h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -299,7 +297,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol](https://news.ycombinator.com/item?id=46149605)**
 
-⬆️ 1 • 💬 0 • 19h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
+⬆️ 1 • 💬 0 • 20h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
 
 ---
 
@@ -313,7 +311,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 187 • 💬 278 • ⏱️ 15:38 • 6h ago
+👁️ 4K • 👍 187 • 💬 278 • ⏱️ 15:38 • 7h ago
 
 ---
 
@@ -323,7 +321,7 @@ BITCOIN & ALTCOINS: Time is Running Out (important)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 1K • 👍 106 • 💬 112 • ⏱️ 19:02 • 1h ago
+👁️ 1K • 👍 106 • 💬 112 • ⏱️ 19:02 • 2h ago
 
 ---
 
@@ -333,7 +331,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 3K • 💬 355 • ⏱️ 11:16 • 10h ago
+👁️ 45K • 👍 3K • 💬 355 • ⏱️ 11:16 • 11h ago
 
 ---
 
@@ -353,7 +351,7 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 51K • 👍 2K • 💬 241 • ⏱️ 18:48 • 14h ago
+👁️ 51K • 👍 2K • 💬 241 • ⏱️ 18:48 • 15h ago
 
 ---
 
@@ -363,7 +361,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 493 • 💬 27 • ⏱️ 9:41 • 7h ago
+👁️ 7K • 👍 493 • 💬 27 • ⏱️ 9:41 • 8h ago
 
 ---
 
@@ -373,7 +371,7 @@ Platform I Trade on http://ckenny.com/joinBC Free Strategy Course https://ckenny
 
 📺 Conor Kenny
 
-👁️ 8K • 👍 600 • 💬 65 • ⏱️ 22:03 • 5h ago
+👁️ 8K • 👍 600 • 💬 65 • ⏱️ 22:03 • 6h ago
 
 ---
 
@@ -393,7 +391,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 336 • ⏱️ 47:51 • 20h ago
+👁️ 30K • 👍 2K • 💬 336 • ⏱️ 47:51 • 21h ago
 
 ---
 
@@ -403,7 +401,7 @@ Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (
 
 📺 MegaWhale Crypto
 
-👁️ 5K • 👍 346 • 💬 204 • ⏱️ 20:47 • 10h ago
+👁️ 5K • 👍 346 • 💬 204 • ⏱️ 20:47 • 11h ago
 
 ---
 

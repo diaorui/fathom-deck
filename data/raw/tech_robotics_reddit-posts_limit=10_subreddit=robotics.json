@@ -68,17 +68,6 @@
       "description": "Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin."
     },
     {
-      "title": "Any genuinely promising robotics applications in construction?",
-      "author": "chari_md",
-      "url": "https://www.reddit.com/r/robotics/comments/1peq7b7/any_genuinely_promising_robotics_applications_in/",
-      "published": 1764924737.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Humanoid robotics is getting cheaper, smarter, and a lot more capable at moving through the world. But construction sites are a different beast with uneven terrain, unpredictable workflows, and tasks that vary wildly from day to day. I\u2019m curious whether robotics aimed specifically at construction has kept up. Not the glossy demo videos, but actual sector-focused systems that show real progress on tasks like material handling, layout, inspections, drilling, or repetitive onsite work. It actually feels like construction is one of the few fields where purpose-built robots should make far more sense than humanoids. Most site tasks don\u2019t need a human-shaped form factor at all. Are there ad hoc or specialized robots that feel like a real breakthrough, or is the field still stuck in research prototypes?"
-    },
-    {
       "title": "Are we witnessing the end of \u201creal robot data\u201d as the foundation of Embodied AI? Recent results from InternData-A1, GEN-0, and Tesla suggest a shift. (Original post by Felicia)",
       "author": "Individual-Major-309",
       "url": "https://www.reddit.com/r/robotics/comments/1pessi4/are_we_witnessing_the_end_of_real_robot_data_as/",
@@ -110,7 +99,18 @@
       "site_name": "youtu.be",
       "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
+      "title": "Any genuinely promising robotics applications in construction?",
+      "author": "chari_md",
+      "url": "https://www.reddit.com/r/robotics/comments/1peq7b7/any_genuinely_promising_robotics_applications_in/",
+      "published": 1764924737.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Humanoid robotics is getting cheaper, smarter, and a lot more capable at moving through the world. But construction sites are a different beast with uneven terrain, unpredictable workflows, and tasks that vary wildly from day to day. I\u2019m curious whether robotics aimed specifically at construction has kept up. Not the glossy demo videos, but actual sector-focused systems that show real progress on tasks like material handling, layout, inspections, drilling, or repetitive onsite work. It actually feels like construction is one of the few fields where purpose-built robots should make far more sense than humanoids. Most site tasks don\u2019t need a human-shaped form factor at all. Are there ad hoc or specialized robots that feel like a real breakthrough, or is the field still stuck in research prototypes?"
     }
   ],
-  "fetched_at": "2025-12-05T11:56:28.017314+00:00"
+  "fetched_at": "2025-12-05T12:51:40.762215+00:00"
 }

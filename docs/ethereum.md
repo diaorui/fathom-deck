@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T19:30:15.629093+00:00'
+updated: '2025-12-05T19:41:54.617322+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 19:30 UTC  
+**Last Updated:** December 05, 2025 at 19:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
-**7d:** +1.1%  
-**30d:** -8.9%  
-**90d:** -30.0%  
-**1y:** -24.3%  
+**24h:** -3.6%  
+**7d:** +1.4%  
+**30d:** -8.6%  
+**90d:** -29.8%  
+**1y:** -24.1%  
 
 ---
 
@@ -96,7 +96,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 7h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 8h ago
 
 ---
 
@@ -188,7 +188,7 @@ dlnews.com • 1d ago
 
 **[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
 
-TipRanks • 5h ago
+TipRanks • 6h ago
 
 ---
 
@@ -234,7 +234,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 450 • 👍 28 • 💬 176 • ⏱️ 5:24 • 5h ago
+👁️ 450 • 👍 28 • 💬 176 • ⏱️ 5:24 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 4K • 💬 481 • ⏱️ 11:16 • 17h ago
+👁️ 61K • 👍 4K • 💬 481 • ⏱️ 11:16 • 18h ago
 
 ---
 
@@ -284,7 +284,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 1K • 👍 191 • 2h ago
+👁️ 1K • 👍 191 • 3h ago
 
 ---
 

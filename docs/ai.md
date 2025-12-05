@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T19:30:15.614442+00:00'
+updated: '2025-12-05T19:41:54.602936+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 19:30 UTC  
+**Last Updated:** December 05, 2025 at 19:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -87,7 +87,7 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 So, the defining moment everyone's been dreading, has actually happened .. and basically nobody noticed! We have a channel stealing the identity of a person who happens to be a respected public figure and a top level scientist, still online, spreading false information and fooling people. https://youtu.be/_bOF-yCspps?si=tT0d0Fqq6Rds1Zp6
 
-30m ago
+41m ago
 
 ---
 
@@ -133,7 +133,7 @@ The New York Times • 9h ago
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-The Guardian • 43m ago
+The Guardian • 54m ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 1h ago
 
 **[Patchy Oversight Leaves GPs Adrift in AI ‘Wild West’](https://www.medscape.com/viewarticle/patchy-oversight-leaves-gps-adrift-ai-wild-west-2025a1000y65?src=rss)**
 
-Medscape • 39m ago
+Medscape • 50m ago
 
 ---
 
@@ -161,7 +161,7 @@ Fortune • 1d ago
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-The Atlantic • 21h ago
+The Atlantic • 22h ago
 
 ---
 
@@ -173,7 +173,7 @@ The New York Times • 6h ago
 
 **[New York Times sues Perplexity AI for 'illegal' copying of content](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ The New York Times Company • 5h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 943 • 💬 1041 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 943 • 💬 1041 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -495,20 +495,6 @@ z_image_turbo is a diffusion model designed for single-file image generation, li
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 18 • 💬 2 • ⭐ 4,659 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -520,6 +506,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 141 • 💬 2 • ⭐ 4,703 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 18 • 💬 2 • ⭐ 4,712 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -673,6 +673,16 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 ---
 
+**[bscript/rep](https://github.com/bscript/rep)**
+
+rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
+
+`JavaScript`
+
+⭐ 824 • 🔱 103 • 3h ago
+
+---
+
 **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)**
 
 Open Source Semantic Search for your AI Agent
@@ -680,16 +690,6 @@ Open Source Semantic Search for your AI Agent
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
 ⭐ 822 • 🔱 42 • 13h ago
-
----
-
-**[bscript/rep](https://github.com/bscript/rep)**
-
-rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
-
-`JavaScript`
-
-⭐ 821 • 🔱 103 • 3h ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 748 • 🔱 19 • 10d ago
+⭐ 751 • 🔱 19 • 10d ago
 
 ---
 
@@ -729,7 +729,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 493 • 🔱 40 • 2d ago
+⭐ 493 • 🔱 41 • 2d ago
 
 ---
 

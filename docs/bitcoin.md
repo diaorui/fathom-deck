@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T19:30:15.623020+00:00'
+updated: '2025-12-05T19:41:54.611391+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 19:30 UTC  
+**Last Updated:** December 05, 2025 at 19:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -3.2%  
-**7d:** -1.5%  
-**30d:** -11.8%  
+**7d:** -1.4%  
+**30d:** -11.7%  
 **90d:** -19.7%  
-**1y:** -10.3%  
+**1y:** -10.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ Im only up 3000% now
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -127,7 +127,7 @@ Im only up 3000% now
 
 It can't just be as simple as that, can it? Maybe it is but I just know I would fuck it up. Obviously that can't be sustainable as a financial system but that's how it all seems to work outside of the Bitcoin system.
 
-1h ago
+2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fast Company • 1h ago
 
 Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
 
-Bloomberg.com • 43m ago
+Bloomberg.com • 55m ago
 
 ---
 
@@ -307,7 +307,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 1K • 💬 271 • ⏱️ 10:13 • 4h ago
+👁️ 14K • 👍 1K • 💬 271 • ⏱️ 10:13 • 5h ago
 
 ---
 
@@ -357,7 +357,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 4K • 💬 481 • ⏱️ 11:16 • 17h ago
+👁️ 61K • 👍 4K • 💬 481 • ⏱️ 11:16 • 18h ago
 
 ---
 

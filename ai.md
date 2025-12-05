@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T17:01:20.559354+00:00'
+updated: '2025-12-05T17:29:24.507324+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 17:01 UTC  
+**Last Updated:** December 05, 2025 at 17:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 3h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 4h ago
 
 ---
 
@@ -63,7 +63,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -107,7 +107,7 @@ Meta is paying a slate of major publishers for real‑time access so Meta AI can
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 5h ago
+🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 6h ago
 
 ---
 
@@ -117,25 +117,25 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
 **[New York Times sues Perplexity AI for 'illegal' copying of content](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
 
-Reuters • 22m ago
+Reuters • 50m ago
 
 ---
 
 **[NYT, Chicago Tribune Sue Perplexity AI as Copyright War Rages On](https://www.bloomberg.com/news/articles/2025-12-05/nyt-chicago-tribune-sue-perplexity-ai-as-copyright-war-rages-on)**
 
-Bloomberg.com • 25m ago
+Bloomberg.com • 53m ago
 
 ---
 
 **[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
-The Washington Post • 59m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ WIRED • 1h ago
 
 Google Workspace has released findings from our second survey that looks at how people aged 22-39 are using AI at work. Commissioned by Workspace in partnership with the…
 
-The Keyword • 29m ago
+The Keyword • 57m ago
 
 ---
 
@@ -257,7 +257,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 196 • 💬 91 • 18h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 196 • 💬 91 • 19h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -299,7 +299,7 @@ This New AI literally does everything — slides, sites, brand kits, emails, cal
 
 📺 AI Revolution
 
-👁️ 12K • 👍 481 • 💬 34 • ⏱️ 8:37 • 19h ago
+👁️ 12K • 👍 481 • 💬 34 • ⏱️ 8:37 • 20h ago
 
 ---
 
@@ -503,7 +503,7 @@ z_image_turbo is a diffusion model designed for single-file image generation, li
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 140 • 💬 2 • ⭐ 4,635 • 8d ago
+▲ 141 • 💬 2 • ⭐ 4,635 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -563,6 +563,30 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 22 • 💬 0 • ⭐ 25,407 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 14 • 💬 0 • ⭐ 26,196 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
 **[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://huggingface.co/papers/2306.08568)**
 
 *Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)*
@@ -574,30 +598,6 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 ▲ 31 • 💬 2 • ⭐ 9,469 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2306.08568) • [💻 code](https://github.com/nlpxucan/WizardLM)
-
----
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 14 • 💬 0 • ⭐ 26,181 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 22 • 💬 0 • ⭐ 25,407 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -639,7 +639,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 391 • 13h ago
+⭐ 5.1k • 🔱 392 • 14h ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 811 • 🔱 103 • 1h ago
+⭐ 814 • 🔱 103 • 1h ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 746 • 🔱 19 • 9d ago
+⭐ 748 • 🔱 19 • 9d ago
 
 ---
 
@@ -719,7 +719,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 704 • 🔱 14 • 16d ago
+⭐ 706 • 🔱 14 • 16d ago
 
 ---
 

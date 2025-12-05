@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T17:01:20.577115+00:00'
+updated: '2025-12-05T17:29:24.524849+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 17:01 UTC  
+**Last Updated:** December 05, 2025 at 17:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mecha
 
 AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
 
-3h ago
+4h ago
 
 ---
 
@@ -142,7 +142,7 @@ MIT News • 2h ago
 
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 20h ago
 
 ---
 
@@ -254,7 +254,7 @@ Which one is the most humanlike? First, Tesla shared a 5-second clip of its Opti
 
 📺 Kalil 4.0
 
-👁️ 22K • 👍 147 • 💬 30 • ⏱️ 0:14 • 19h ago
+👁️ 22K • 👍 147 • 💬 30 • ⏱️ 0:14 • 20h ago
 
 ---
 

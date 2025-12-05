@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T17:01:20.567893+00:00'
+updated: '2025-12-05T17:29:24.515605+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 17:01 UTC  
+**Last Updated:** December 05, 2025 at 17:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,908.32
+### $89,024.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.5%  
-**7d:** -2.0%  
-**30d:** -12.2%  
-**90d:** -20.1%  
-**1y:** -10.7%  
+**24h:** -3.6%  
+**7d:** -2.1%  
+**30d:** -12.3%  
+**90d:** -20.2%  
+**1y:** -10.8%  
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Did my part , thanks](https://www.reddit.com/r/Bitcoin/comments/1pez7nm/did_my_part_thanks/)**
 
-44m ago
+1h ago
 
 ---
 
@@ -119,7 +119,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 2h ago
 
 The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -303,7 +303,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 3K • 💬 194 • ⏱️ 15:38 • 5h ago
+👁️ 30K • 👍 3K • 💬 194 • ⏱️ 15:38 • 6h ago
 
 ---
 
@@ -313,7 +313,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 290 • 💬 339 • ⏱️ 15:38 • 11h ago
+👁️ 9K • 👍 290 • 💬 339 • ⏱️ 15:38 • 12h ago
 
 ---
 
@@ -323,7 +323,7 @@ Trump, Bitcoin, stocks, and crypto updates ! BITUNIX TRADE THE TOP COINS (availa
 
 📺 Lark Davis
 
-👁️ 10K • 👍 684 • 💬 119 • ⏱️ 52:39 • 4h ago
+👁️ 10K • 👍 684 • 💬 119 • ⏱️ 52:39 • 5h ago
 
 ---
 
@@ -383,7 +383,7 @@ Claim 50% deposit bonus + $100 BONUS!
 
 📺 Crypto Goos
 
-👁️ 699 • 👍 41 • 💬 117 • ⏱️ 12:23 • 7h ago
+👁️ 699 • 👍 41 • 💬 117 • ⏱️ 12:23 • 8h ago
 
 ---
 

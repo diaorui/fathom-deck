@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T17:01:20.573884+00:00'
+updated: '2025-12-05T17:29:24.521598+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 17:01 UTC  
+**Last Updated:** December 05, 2025 at 17:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
-**7d:** +1.7%  
-**30d:** -8.3%  
-**90d:** -29.6%  
-**1y:** -23.9%  
+**24h:** -4.0%  
+**7d:** +0.9%  
+**30d:** -9.1%  
+**90d:** -30.1%  
+**1y:** -24.5%  
 
 ---
 
@@ -104,7 +104,7 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 16h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 17h ago
 
 ---
 
@@ -204,7 +204,7 @@ Nasdaq • 1d ago
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-cheddar.com • 19h ago
+cheddar.com • 20h ago
 
 ---
 
@@ -218,7 +218,7 @@ Decrypt • 1d ago
 
 **[Ethereum Price Could Herald a 170% Surge if History Repeats. Trader Declares ‘You Know What’s Coming’](https://www.tipranks.com/news/ethereum-price-could-herald-a-170-surge-if-history-repeats-trader-declares-you-know-whats-coming)**
 
-TipRanks • 4h ago
+TipRanks • 5h ago
 
 ---
 
@@ -242,7 +242,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 17K • 👍 1K • 💬 113 • ⏱️ 31:23 • 7h ago
+👁️ 17K • 👍 1K • 💬 113 • ⏱️ 31:23 • 8h ago
 
 ---
 
@@ -262,7 +262,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 31K • 👍 2K • 💬 112 • ⏱️ 17:37 • 23h ago
+👁️ 31K • 👍 2K • 💬 112 • ⏱️ 17:37 • 1d ago
 
 ---
 
@@ -302,7 +302,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 290 • 💬 339 • ⏱️ 15:38 • 11h ago
+👁️ 9K • 👍 290 • 💬 339 • ⏱️ 15:38 • 12h ago
 
 ---
 

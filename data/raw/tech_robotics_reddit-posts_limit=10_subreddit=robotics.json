@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "Behind-the-scenes footage from the EngineAI T800 shoot \u2014 a direct response to the CG accusations.",
+      "author": "Ready_Device8994",
+      "url": "https://www.reddit.com/r/robotics/comments/1peipg7/behindthescenes_footage_from_the_engineai_t800/",
+      "published": 1764899968.0,
+      "thumbnail": "https://external-preview.redd.it/vopCp3AoP3agRM_vVjx1qGQ2dEK42KQd5nQEj5DdiQA.jpeg?width=320&crop=smart&auto=webp&s=b4c4505fe2c220f8942da9db848c634ecdba635b",
+      "external_url": "https://www.youtube.com/watch?v=VoytjBgpG28",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
       "title": "Marc Raibert on Why Robotics Needs More Transparency",
       "author": "Responsible-Grass452",
       "url": "https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/",
@@ -24,17 +35,6 @@
       "description": "Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin."
     },
     {
-      "title": "A comparison of Figure 03, EngineAI T800, and Tesla Optimus running",
-      "author": "heart-aroni",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdy9mn/a_comparison_of_figure_03_engineai_t800_and_tesla/",
-      "published": 1764849765.0,
-      "thumbnail": "https://external-preview.redd.it/MzJ0MW50cGZnNjVnMeHfc8HEPZjy1jF6CEoikLt2YRP45U6zCVh8Ohy2O7jN.png?width=640&crop=smart&auto=webp&s=9d5b374f63f785bf03a43178fe6110a9e373d9ec",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Unpacking 6 vintage Unimate PUMA robots",
       "author": "SaintWillyMusic",
       "url": "https://www.reddit.com/r/robotics/comments/1pegubw/unpacking_6_vintage_unimate_puma_robots/",
@@ -44,6 +44,17 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
+      "title": "A comparison of Figure 03, EngineAI T800, and Tesla Optimus running",
+      "author": "heart-aroni",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdy9mn/a_comparison_of_figure_03_engineai_t800_and_tesla/",
+      "published": 1764849765.0,
+      "thumbnail": "https://external-preview.redd.it/MzJ0MW50cGZnNjVnMeHfc8HEPZjy1jF6CEoikLt2YRP45U6zCVh8Ohy2O7jN.png?width=640&crop=smart&auto=webp&s=9d5b374f63f785bf03a43178fe6110a9e373d9ec",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "I created a coding agent specialised for ROS",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "A short demo of an item-picking sequence inside a supermarket-style simulation environment. The robot\u2019s navigation in this clip is teleoperated (not autonomous), and the goal is mainly to show how the pick action and scene interactions behave under the current physics setup. For anyone working with manipulation or sim-based workflows, feedback is welcome on aspects such as: motion quality or controller behavior, grasp sequence setup, physics consistency, scene design considerations for similar tasks. Interested in hearing how others approach supermarket-style manipulation tasks in simulation. BGM: Zatplast"
-    },
-    {
-      "title": "Night test of a laser-based local detection prototype",
-      "author": "Independent_Win_Alex",
-      "url": "https://www.reddit.com/r/robotics/comments/1pe8nau/night_test_of_a_laserbased_local_detection/",
-      "published": 1764874955.0,
-      "thumbnail": "https://external-preview.redd.it/YjRhbmk4cGJqODVnMfRJhNI_Lz9eqGNjLw5FUWRuziCQ9-CH03w1J9N3aHMm.png?width=640&crop=smart&auto=webp&s=80da42074c3ee1f06f9eba1a67a80e37bf5b0ca6",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The video shows: - the system's calm state - the moment an object appears in the zone - the transition to active mode and activation This is very early logic, without optimizations or \"smart\" algorithms\u2014I'm simply testing the principle: is it possible to reliably capture live events this way? Feedback would be appreciated."
     }
   ],
-  "fetched_at": "2025-12-05T01:12:09.751827+00:00"
+  "fetched_at": "2025-12-05T02:56:30.162906+00:00"
 }

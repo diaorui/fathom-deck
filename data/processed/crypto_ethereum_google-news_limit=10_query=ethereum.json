@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Solana and Ethereum Network Base Are Now Connected Thanks to Coinbase and Chainlink",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORER3Tm5LUVlUZXliUUlRVVl0eWZRekFmTXZreGxpcklCbFowNXNVQ2U5VEVGM19qYWstVkpRcmVoNGhhclRUazJXeTQ0aXJ6NTRqeVJqdXNyTURxb0tmUVRpYVg5X1JuSUdDTnNjVGhrOEdGdzRXSHZ2NzR5ZmdFbnFGY0ozNUFUUV9N0gGTAUFVX3lxTE8zM3B3d0tJcjRkNk9pbFhQQWYwMTg2UjVveHFqc3dESWtLekRFNjJ3MndUTUFXMlN5b3BSa2pvR3kzR3RTZzBpcG42OWJBVjVlT0Q1QS1oMExVc09hWGp1UDhlLUlyRmQ5bGwwWFFiNnhrT1NxUXFmQUowT3NyZE4wcC1LNmVHNVJfUjZMY1JyOUdTRQ?oc=5",
-      "pub_date": 1764883556.0,
-      "article_url": "https://decrypt.co/350987/solana-ethereum-network-base-connected-coinbase-chainlink",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg",
-      "description": "Solana and Base are now connected thanks to a new bridge secured by Chainlink's interoperability protocol and crypto exchange Coinbase."
-    },
-    {
       "headline": "Ethereum Price Swells as Fusaka Upgrade Goes Live",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -33,16 +23,6 @@
       "article_url": "https://finance.yahoo.com/news/chatgpt-thinks-ethereum-close-level-191828479.html",
       "image": "https://media.zenfs.com/en/benzinga_79/cd8f7f3516e5885b4127b690baf2b5d1",
       "description": "Ethereum is starting December in Bitcoin's shadow. The token is selling off with the rest of crypto but holding key support zones as traders wait for signs of stabilization in risk assets. It has lagged Bitcoin on the way up this cycle, giving the ..."
-    },
-    {
-      "headline": "Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward",
-      "source": "cheddar.com",
-      "source_url": "https://www.cheddar.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTVmU0xYbUpQR2ZuTkJmUW5laWVVTzNRWmROaV90N1pKWDM2NzVGU3QwM2pCMHkzbU1kQnNuei1xSHVtVzBicTd4YlZxR3FhaDhBcmRZZzBQeWdUbnd4M0pwcml5UVI5ZFRTVDAyT2Via2xNYm1wTDJCSk13LUkwdkxmeWpmaVdfS0lkUndVWDYxZndVbmFSbHZtZ291N0dMVmJPMDVSdnVWM3RZR1RF?oc=5",
-      "pub_date": 1764882090.0,
-      "article_url": "https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/",
-      "image": "https://www.armytimes.com/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F12-04-2025%2Ft_45411740f6d845718216e5084da325ac_name_GettyImages_1949242392.jpg?width=1200&auth=739acda4878c2a3de6385a8d35c657cd02961264fe44edcf5adbab972b158712",
-      "description": "Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market."
     },
     {
       "headline": "Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum",
@@ -65,14 +45,24 @@
       "description": null
     },
     {
-      "headline": "Ethereum News: BitMine (BMNR) Bought 97K in ETH Ahead of Fusaka Upgrade",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUlTNmRnVjlscGVzMXlxVWpxd1EwVHkwNWhxcVBka2JlaW9vMzEzZlFJVFdCVGlxa3I1Y0hzZUhab3FPOS1kT2JCa0t0b1c2V2Z2MGJNeE5OTHZ1QkxtelBEdzNXM0xyR21JN1JkdldwY1VfaGp5SURYU3FqblpHUmVjRUdmcHJkbV9lSlhXT3JWaExtalFJUUlTZm5Lc0JDN2REb25vLUpfc1B5emRuanZ4R19KUVoxTW1UdHFycUJDNk84S2JCYl84YVhrRWc?oc=5",
-      "pub_date": 1764599120.0,
-      "article_url": "https://www.coindesk.com/business/2025/12/01/tom-lee-s-bitmine-acquires-97k-eth-eyeing-fusaka-upgrade-fed-policy-as-positive-catalysts",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06503e9de607f639801425df078631e0e62f12d-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The firm has increased the pace of purchases from the previous week despite sitting on large unrealized losses on its Ethereum bet."
+      "headline": "Tom Lee\u2019s Relentless ETH Buying Puts BMNR Stock on a Possible 55% Breakout Path",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVBoMWNnS0hWaFpCX1NYQlhnbmFsc1hpM04tS1E0QUJYU3hKUW5aQi1NaENzZ001eUVwY0o3T05rQVBKUFZ5UkV4NTFTUzZ0UUJGWm1ldVBLWlpBV21BYWNCdWF2YVVsSkk3eEl6bXdmUXVMU1JfS2dMWTFXSnkzZw?oc=5",
+      "pub_date": 1764849600.0,
+      "article_url": "https://finance.yahoo.com/news/tom-lee-relentless-eth-buying-120000505.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/0eYXwJPDvXgevdTArL.hxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/3ba1519f6a6b137202d404c15e608694",
+      "description": "A major ETH purchase by Tom Lee has put the BMNR price back in focus as traders watch for a breakout from a key reversal setup."
+    },
+    {
+      "headline": "Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward",
+      "source": "cheddar.com",
+      "source_url": "https://www.cheddar.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTVmU0xYbUpQR2ZuTkJmUW5laWVVTzNRWmROaV90N1pKWDM2NzVGU3QwM2pCMHkzbU1kQnNuei1xSHVtVzBicTd4YlZxR3FhaDhBcmRZZzBQeWdUbnd4M0pwcml5UVI5ZFRTVDAyT2Via2xNYm1wTDJCSk13LUkwdkxmeWpmaVdfS0lkUndVWDYxZndVbmFSbHZtZ291N0dMVmJPMDVSdnVWM3RZR1RF?oc=5",
+      "pub_date": 1764882090.0,
+      "article_url": "https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/",
+      "image": "https://www.armytimes.com/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F12-04-2025%2Ft_45411740f6d845718216e5084da325ac_name_GettyImages_1949242392.jpg?width=1200&auth=739acda4878c2a3de6385a8d35c657cd02961264fe44edcf5adbab972b158712",
+      "description": "Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market."
     },
     {
       "headline": "Ethereum Is Jumping Today-Here's Why",
@@ -103,8 +93,18 @@
       "article_url": "https://247wallst.com/investing/2025/12/03/ethereum-crashes-45-from-4950-peak-why-layer-2s-are-killing-eths-value/",
       "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-1680257149-huge-licensed-scaled.jpg",
       "description": "Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?"
+    },
+    {
+      "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbjZNMU41QkJ4RnFsMWw3NU16WjFnelIzd3ZYTXg1VUZEVEFTaVRGVTZUOGFxLU02ZWx2TTZ0ajl4NTlRUHh6YlBqd1NJWFBtVE5mU09aNWxuWk1YMlVsTWJWUkhuMmRYalJJdVB2MEE5eDNkWXMzaWtHTl9hRGkyQ3VaT1Yyd1FxTjFZeDVNMVRYM3dqMWNCdEUtMVpKUk9wVjdTUFg4UnQ1dw?oc=5",
+      "pub_date": 1764682252.0,
+      "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T01:12:24.790951+00:00"
+  "fetched_at": "2025-12-05T02:56:41.996160+00:00"
 }

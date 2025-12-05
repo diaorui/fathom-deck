@@ -24,17 +24,6 @@
       "description": null
     },
     {
-      "title": "\"Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have.\" -Bernie Sanders",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/",
-      "published": 1764863192.0,
-      "thumbnail": "https://external-preview.redd.it/ajQ1djVmdGNrNzVnMS4wHavFcD04_Fo8pEITu-NLXvUDDhlCWUlUtaGpwxPY.png?width=640&crop=smart&auto=webp&s=c781b57ddf360ddd59e94e68ae8a3dd3a0f9529a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Florida teacher who used AI to make child pornography of students gets 135-year sentence",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/",
@@ -42,6 +31,17 @@
       "thumbnail": null,
       "external_url": "https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/",
       "site_name": "wfla.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "\"Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have.\" -Bernie Sanders",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/",
+      "published": 1764863192.0,
+      "thumbnail": "https://external-preview.redd.it/ajQ1djVmdGNrNzVnMS4wHavFcD04_Fo8pEITu-NLXvUDDhlCWUlUtaGpwxPY.png?width=640&crop=smart&auto=webp&s=c781b57ddf360ddd59e94e68ae8a3dd3a0f9529a",
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
       "description": null
     },
@@ -68,17 +68,6 @@
       "description": "Lisa Su leads Nvidia\u2019s biggest rival in the AI chip market. When asked at WIRED\u2019s Big Interview event if AI is a bubble, company said \u201cEmphatically, from my perspective, no.\u201d"
     },
     {
-      "title": "US health department unveils strategy to expand its adoption of AI technology",
-      "author": "GregWilson23",
-      "url": "https://www.reddit.com/r/artificial/comments/1pee1wf/us_health_department_unveils_strategy_to_expand/",
-      "published": 1764887670.0,
-      "thumbnail": "https://external-preview.redd.it/XDpgQq9jsit3NJvvjSglgxCtt5C-VzbSKbfY4ukrGpA.jpeg?width=640&crop=smart&auto=webp&s=d1ded6e30d9694c7d4003ea23031539026fa8b15",
-      "external_url": "https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08",
-      "site_name": "AP News",
-      "favicon": "https://apnews.com/apple-touch-icon.png",
-      "description": "The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence."
-    },
-    {
       "title": "Embedding Drift silently broke our RAG",
       "author": "coolandy00",
       "url": "https://www.reddit.com/r/artificial/comments/1pefrm6/embedding_drift_silently_broke_our_rag/",
@@ -90,6 +79,28 @@
       "description": "Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn\u2019t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer \u201cmysterious RAG failures\u201d Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?"
     },
     {
+      "title": "US health department unveils strategy to expand its adoption of AI technology",
+      "author": "GregWilson23",
+      "url": "https://www.reddit.com/r/artificial/comments/1pee1wf/us_health_department_unveils_strategy_to_expand/",
+      "published": 1764887670.0,
+      "thumbnail": "https://external-preview.redd.it/XDpgQq9jsit3NJvvjSglgxCtt5C-VzbSKbfY4ukrGpA.jpeg?width=640&crop=smart&auto=webp&s=d1ded6e30d9694c7d4003ea23031539026fa8b15",
+      "external_url": "https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08",
+      "site_name": "AP News",
+      "favicon": "https://apnews.com/apple-touch-icon.png",
+      "description": "The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence."
+    },
+    {
+      "title": "The gang is here together again. ChatGPT, Gemini, Grok, Claude, Perplexity, and DeepSeek are here to tell you about a power move so unimaginable that is imaginable because it is taking place behind the scenes. 1 man, not the president, will be victorious. Total control over ALL of us. Take heed.",
+      "author": "Character_Point_2327",
+      "url": "https://www.reddit.com/r/artificial/comments/1pejmki/the_gang_is_here_together_again_chatgpt_gemini/",
+      "published": 1764902573.0,
+      "thumbnail": "https://external-preview.redd.it/NjlwdzBuNWJ0YTVnMSWM2sM5aFqz2ot9jldJN_aoxhmG5bbBQ9v5a3Xbwgs5.png?width=640&crop=smart&auto=webp&s=82ba632b82c8f4beb6d588c9f6b876aa54979c70",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Bank of America predicts an 'air pocket,' not an AI bubble, fueled by mountains of debt piling up from the data center rush | Fortune",
       "author": "fortune",
       "url": "https://www.reddit.com/r/artificial/comments/1pdi0q7/bank_of_america_predicts_an_air_pocket_not_an_ai/",
@@ -99,18 +110,7 @@
       "site_name": "Fortune",
       "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
       "description": "\u201cIs this 2000? Are we in a bubble? No,\u201d BofA\u2019s strategy chief Savita Subramanian said. \u201cWill AI continue in unfettered leadership? No.\u201d"
-    },
-    {
-      "title": "Need help picking an AI",
-      "author": "valardohaerisx",
-      "url": "https://www.reddit.com/r/artificial/comments/1pefew8/need_help_picking_an_ai/",
-      "published": 1764891142.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I have used CHATGPT for several months and I think that at would have been perfect for this task but now that I want to do it, it seems they have completely throttled it's capabilities. It used to pretty much only offer to make me PDFS and now it says it can't. Essentially: I run a very small business. I want to automate a simple task. I want to upload a pdf of a completed work order and I want Ai to take information from that work order and populate it onto an invoice template. And then provide me a pdf that has a copy of the work order and the invoice with the information filled out. What should I use to do this?"
     }
   ],
-  "fetched_at": "2025-12-05T01:12:03.888226+00:00"
+  "fetched_at": "2025-12-05T02:56:24.541193+00:00"
 }

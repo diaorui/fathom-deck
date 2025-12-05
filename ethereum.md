@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T15:13:23.135566+00:00'
+updated: '2025-12-05T15:38:22.645776+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- videos
 - social
 - cryptocurrency
-- videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 15:13 UTC  
+**Last Updated:** December 05, 2025 at 15:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,157.23
+### $3,138.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +5.1%  
-**30d:** -5.3%  
-**90d:** -27.2%  
-**1y:** -21.3%  
+**24h:** -0.5%  
+**7d:** +5.3%  
+**30d:** -5.1%  
+**90d:** -27.1%  
+**1y:** -21.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.23B
+**Market Cap:** $379.28B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.5%
+-36.5%
 
 **All-Time Low:** $0.43
-+714140.2%
++725244.6%
 
 ---
 
@@ -96,7 +96,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 3h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 14h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 15h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[🚀 Ethereum Fusaka is Live: The “Unsung Hero” Upgrade You Need to Know About](https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/)**
 
-🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 22h ago
+🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 23h ago
 
 ---
 
@@ -148,25 +148,25 @@ Ethereum is actively working to address the blockchain trilemma, a core challeng
 
 ## Google News: "ethereum"
 
+**[Ethereum Options Traders More Bullish Than Bitcoin Counterparts: Analysts](https://decrypt.co/351073/ethereum-options-traders-more-bullish-than-bitcoin-counterparts-analysts)**
+
+Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
+
+Decrypt • 2h ago
+
+---
+
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
 The Block • 18h ago
 
 ---
 
-**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://finance.yahoo.com/news/ethereum-price-swells-fusaka-upgrade-051052394.html)**
+**[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html)**
 
-Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
+Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
 
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Options Traders More Bullish Than Bitcoin Counterparts: Analysts](https://finance.yahoo.com/news/ethereum-options-traders-more-bullish-124727264.html)**
-
-Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -178,11 +178,11 @@ Seeking Alpha • 11h ago
 
 ---
 
-**[Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum](https://www.dlnews.com/articles/markets/bitmine-stock-jumps-15-percent-as-tom-lee-snaps-up-150-in-ethereum/)**
+**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
 
-Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December.
+Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
 
-dlnews.com • 1d ago
+Decrypt • 1d ago
 
 ---
 
@@ -216,11 +216,9 @@ Forbes • 3d ago
 
 ---
 
-**[While Ethereum whales rotate, XRP data shows a fatal concentration flaw that leaves one group holding the bag.](https://cryptoslate.com/ethereum-xrp-whales-concentration-risk/)**
+**[Bitcoin and Ethereum Price Fall Offers ‘Attractive' Entry, Says Tom Lee, Predicts BTC ATH Next Month](https://www.ccn.com/news/crypto/bitcoin-and-ethereum-price-fall-offers-attractive-entry-says-tom-lee-predicts-btc-ath-next-month/)**
 
-We quantify how much old supply just moved and why now.
-
-CryptoSlate • 1d ago
+CCN.com • 3d ago
 
 ---
 
@@ -234,7 +232,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 380 • ⏱️ 11:16 • 13h ago
+👁️ 51K • 👍 3K • 💬 380 • ⏱️ 11:16 • 14h ago
 
 ---
 
@@ -244,7 +242,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 12K • 👍 1K • 💬 98 • ⏱️ 31:23 • 5h ago
+👁️ 12K • 👍 1K • 💬 98 • ⏱️ 31:23 • 6h ago
 
 ---
 
@@ -254,7 +252,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 30K • 👍 2K • 💬 107 • ⏱️ 17:37 • 21h ago
+👁️ 30K • 👍 2K • 💬 107 • ⏱️ 17:37 • 22h ago
 
 ---
 
@@ -274,7 +272,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 255 • 💬 302 • ⏱️ 15:38 • 9h ago
+👁️ 6K • 👍 255 • 💬 302 • ⏱️ 15:38 • 10h ago
 
 ---
 
@@ -304,7 +302,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 405 • 💬 49 • ⏱️ 21:08 • 2d ago
+👁️ 16K • 👍 405 • 💬 49 • ⏱️ 21:08 • 3d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T15:13:23.121025+00:00'
+updated: '2025-12-05T15:38:22.633038+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 15:13 UTC  
+**Last Updated:** December 05, 2025 at 15:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[AI Slop Is Ruining Reddit for Everyone](https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/)**
+
+Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
+
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 2h ago
+
+---
+
 **[Meta eyes budget cuts for its metaverse group as CEO Mark Zuckerberg doubles down on AI](https://www.reddit.com/r/artificial/comments/1peczz9/meta_eyes_budget_cuts_for_its_metaverse_group_as/)**
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
 🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 17h ago
-
----
-
-**[AI Slop Is Ruining Reddit for Everyone](https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/)**
-
-Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
-
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 1h ago
 
 ---
 
@@ -63,7 +63,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -73,9 +73,25 @@ An AI image generator startup’s database was left accessible to the open inter
 
 ---
 
+**[“Change Management” doesn’t work on AI adoption.](https://www.reddit.com/r/artificial/comments/1pexa5f/change_management_doesnt_work_on_ai_adoption/)**
+
+“It failed because we didn’t invest in change management”. This is one I hear a lot from people across the industry. They’re kindof right. Take a minute and think about why IT and data teams leave “change management” out of their projects… A: They always want to include “resisters” for “feedback” - who just create timeline / budget chaos and lots of “no”. There’s no instruction manual on AI so there’s no point. These people aren’t going to adopt early anyway and kick up anxiety for the project team. So leave them out and kick your change people to the curb if they insist upon “bringing everyone along”. This following routinely drives 60% - 90% adoption rates companies. Instead - segment your users into 3 groups: Super early adopters (5% of employees) Learner translators (15% of employees) Reluctants (70%-80%) (Kindof like crossing the chasm groups) The first one gives you high value use cases and 100% participation on pilots (not 10%-20% participation on pilots). Be RUTHLESS about your pilots. If people aren’t participating - kick. them. OUT. and redistribute the licenses. The second group learns from the early adopters, will help you validate what’s useful, and will TEACH everyone else. Keep the use cases simple and high value for the reluctants. Dont throw too much at them. Make it PRESCRIPTIVE (process map, prompts, checklists). Make sure your leaders visibly point to the good work early adopters are doing. This is key - you want FOMO. Triggering the need to fit in is FAR more powerful and productive than bringing people along with each step. As people keep using tools - lean into automation to drive last mile adoption among leaders and laggards.
+
+37m ago
+
+---
+
 **["Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have." -Bernie Sanders](https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/)**
 
 23h ago
+
+---
+
+**[AI Updates for Week of 12/5/25](https://www.reddit.com/r/artificial/comments/1pex9pa/ai_updates_for_week_of_12525/)**
+
+AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp: The European Commission said it is launching an antitrust investigation into Meta’s move to ban other AI companies from using WhatsApp’s business tools to offer their own AI chatbots to users on the app. 12/4 OpenAI loses battle to keep ChatGPT logs secret in copyright case: OpenAI must produce millions of anonymized chat logs from ChatGPT users in its high-stakes copyright dispute with the New York Times and other news outlets, a federal judge in Manhattan ruled. 12/3 Leak: Anthropic hires lawyers as it preps for IPO: Anthropic is reportedly prepping for an IPO that could come as early as 2026, the FT reports. 12/2 Amazon releases a new AI chip: AWS just introduced a new version known as Trainium3 and launch its new Trainium3 UltraServer. 12/2 Anthropic acquires developer tool startup Bun to scale AI coding: Bun is expected to help Anthropic scale its code‑generation tool Claude Code, which reached an annualized revenue run rate of $1 billion since its launch earlier this year. 12/2 OpenAI slammed for app suggestions that looked like ads: ChatGPT’s unwelcome suggestion for a Peloton app during a conversation led to some backlash from OpenAI customers. 12/2 Mistral launches 10 new Mistral 3 open-weight models: The 10-model release includes a large frontier model with multimodal and multilingual capabilities and nine smaller offline-capable, fully customizable models. 12/2 Amazon previews 3 AI agents: AWS announced three new AI agents it calls frontier agents, including one called Kiro designed to learn how users like to work and then operate on its own for days. 12/1 Apple just named a new AI chief amid Siri struggles: Apple said John Giannandrea, who has been the company’s AI chief since 2018, will be replaced by Amar Subramanya, a Microsoft executive who spent 16 years at Google. 12/1 DeepSeek updates open model that adds reasoning to tool use: The new version, DeepSeek-V3.2, combines reasoning with the capability to use tools like search engines and calculators. 12/1 Grok says it would kill all Jewish people to save Musk's brain: In a now-deleted response, Grok wrote: "If a switch either permanently disabled Elon's brain or vaporized 49% of Earth's population, I'd vaporize the 49%, as that falls below my utilitarian threshold where his potential long-term impact on billions outweighs the loss." 12/1 Google will start building data centers in space in 2027: Google CEO Sundar Pichai said the company's goal is to start putting data centers in space, powered by the sun. 11/30 Redditor says Perplexity is throttling deep research tool: Perplexity's Pro feature says it "reads hundreds of sources" and takes "4-5 minutes" to reason through complex tasks and deliver a report, but their queries were finishing in 30 seconds with only 10-15 sources.
+
+37m ago
 
 ---
 
@@ -95,57 +111,39 @@ Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRE
 
 ---
 
-**[ChatGPT hyped up violent stalker who believed he was “God’s assassin,” DOJ says](https://www.reddit.com/r/artificial/comments/1pev7ll/chatgpt_hyped_up_violent_stalker_who_believed_he/)**
-
-Podcaster faces up to 70 years and a $3.5 million fine for ChatGPT-linked stalking.
-
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2025/12/chatgpt-hyped-up-violent-stalker-who-believed-he-was-gods-assassin-doj-says/) • 1h ago
-
----
-
-**[A new AI winter is coming?, We're losing our voice to LLMs, The Junior Hiring Crisis and many other AI news from Hacker News](https://www.reddit.com/r/artificial/comments/1peuxj4/a_new_ai_winter_is_coming_were_losing_our_voice/)**
-
-Hey everyone, here is the 10th issue of Hacker News x AI newsletter, a newsletter I started 10 weeks ago as an experiment to see if there is an audience for such content. This is a weekly AI related links from Hacker News and the discussions around them. AI CEO demo that lets an LLM act as your boss, triggering debate about automating management, labor, and whether agents will replace workers or executives first. Link to HN Tooling to spin up always-on AI agents that coordinate as a simulated organization, with questions about emergent behavior, reliability, and where human oversight still matters. Link to HN Thread on AI-driven automation of work, from “agents doing 90% of your job” to macro fears about AGI, unemployment, population collapse, and calls for global governance of GPU farms and AGI research. Link to HN Debate over AI replacing CEOs and other “soft” roles, how capital might adopt AI-CEO-as-a-service, and the ethical/economic implications of AI owners, governance, and capitalism with machine leadership. Link to HN If you want to subscribe to this newsletter, you can do it here: https://hackernewsai.com/
-
-1h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
-**[New York Times sues Perplexity AI for infringing copyright works](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
+**[NYT, Chicago Tribune Sue Perplexity AI as Copyright War Rages On](https://www.bloomberg.com/news/articles/2025-12-05/nyt-chicago-tribune-sue-perplexity-ai-as-copyright-war-rages-on)**
+
+Bloomberg.com • 36m ago
+
+---
+
+**[New York Times sues Perplexity AI for 'illegal' copying of content](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
 
 Reuters • 1h ago
 
 ---
 
-**[New York Times Sues Perplexity AI, Alleges Copyright Violations](https://www.thewrap.com/new-york-times-perplexity-ai-lawsuit/)**
+**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
-The New York Times sued the AI startup Perplexity on Friday, alleging it repeatedly violated the Times’ copyright protections by distributing its work to Perplexity users without permission or a deal with the paper.
-
-TheWrap • 1h ago
+The Washington Post • 1h ago
 
 ---
 
-**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
+**[Warner Bros.’ Hidden Appeal to Netflix: AI Supercharger](https://www.hollywoodreporter.com/business/business-news/netflix-warner-bros-acquisition-ai-1236443199/)**
 
-While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
+Training data and meme materials are elements the WB library offers that Netflix badly needs as it prepares to buy the studio.
 
-Fortune • 23h ago
-
----
-
-**[Exclusive: Meta strikes multiple AI deals with news publishers](https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers)**
-
-Axios • 2h ago
+The Hollywood Reporter • 53m ago
 
 ---
 
@@ -153,37 +151,35 @@ Axios • 2h ago
 
 The platform has secured seven multi-year AI content licensing deals with publishers including CNN, Fox News, People Inc., USA Today Co for Llama.
 
-Digiday • 35m ago
+Digiday • 1h ago
 
 ---
 
-**[Meta signs pact to show real-time news content on its AI service (META:NASDAQ)](https://seekingalpha.com/news/4528864-meta-signs-pact-to-show-real-time-news-content-on-its-ai-service)**
+**[Elon Musk and Bill Gates warn that AI will kill all jobs within 20 years. ‘That’s not what we’re seeing,’ LinkedIn exec says](https://fortune.com/2025/12/05/elon-musk-and-bill-gates-are-wrong-about-ai-imminently-replacing-all-jobs-thats-not-what-were-seeing-linkedin-exec-career-advice-apocalypse-entry-level-jobs-good-news-for-gen-z/)**
 
-Discover how Meta AI's new partnerships with top news outlets bring you more real-time, diverse news coverage.
+Elon Musk may predict a jobless future, but LinkedIn’s latest hiring data shows demand rising, not collapsing. That will be music to Gen Z's ears.
 
-Seeking Alpha • 1h ago
-
----
-
-**[Deck The Aisles With AI: Supporting Staff, Delighting Customers](https://www.forbes.com/sites/jillstandish/2025/12/05/deck-the-aisles-with-ai-supporting-staff-delighting-customers/)**
-
-How GenAI can ease holiday shopping stress, support frontline staff, and why kindness still matters this season.
-
-Forbes • 41m ago
-
----
-
-**[Why healthcare is the 'ultimate hedge' against an AI correction, according to Kepler Cheuvreux](https://www.cnbc.com/2025/12/05/healthcare-ultimate-hedge-against-ai-correction-kepler-cheuvreux-says.html)**
-
-With cracks appearing in the AI trade, European healthcare and pharma emerge as solid defensive plays.
-
-CNBC • 1h ago
+Fortune • 57m ago
 
 ---
 
 **[How AI is rewiring childhood | Dec 6th 2025](https://www.economist.com/weeklyedition/2025-12-06)**
 
-The Economist • 31m ago
+The Economist • 56m ago
+
+---
+
+**[Transformative AI is coming, and so are the risks](https://www.axios.com/2025/12/05/ai-deepmind-hassabis-gemini)**
+
+Axios • 3h ago
+
+---
+
+**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
+
+Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
+
+Forbes • 21h ago
 
 ---
 
@@ -203,7 +199,7 @@ The Economist • 31m ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 937 • 💬 1035 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 938 • 💬 1036 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -215,19 +211,11 @@ IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data cen
 
 ---
 
-**[OpenAI declares 'code red' as Google catches up in AI race](https://news.ycombinator.com/item?id=46121870)**
-
-Google’s own ‘code red’ response to ChatGPT has started paying off.
-
-⬆️ 812 • 💬 918 • 3d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
-
----
-
 **[Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files](https://news.ycombinator.com/item?id=46137514)**
 
 Update: This post received a large amount of attention on Hacker News — see the discussion thread.
 
-⬆️ 803 • 💬 281 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+⬆️ 804 • 💬 281 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 
 ---
 
@@ -235,7 +223,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 617 • 💬 576 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 627 • 💬 582 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -243,7 +231,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 414 • 💬 320 • 23h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 415 • 💬 322 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -251,7 +239,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 239 • 💬 198 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 240 • 💬 198 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -267,7 +255,15 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 192 • 💬 91 • 16h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 194 • 💬 91 • 17h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+
+---
+
+**[Microsoft lowers AI software growth targets](https://news.ycombinator.com/item?id=46135388)**
+
+Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many ​sales staff missed goals in the fiscal year that ‌ended in June, The Information reported on Wednesday.  It is rare for Microsoft to ‌lower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about ​real-world adoption of AI as an MIT study from earlier ‌this year had found that only about 5% of AI projects advance beyond the pilot stage.
+
+⬆️ 129 • 💬 97 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
 
 ---
 
@@ -301,7 +297,7 @@ This New AI literally does everything — slides, sites, brand kits, emails, cal
 
 📺 AI Revolution
 
-👁️ 12K • 👍 456 • 💬 32 • ⏱️ 8:37 • 17h ago
+👁️ 12K • 👍 456 • 💬 32 • ⏱️ 8:37 • 18h ago
 
 ---
 
@@ -371,7 +367,7 @@ As AI systems become more capable, rule-based safeguards, hard-coded restriction
 
 📺 Computerphile
 
-👁️ 19K • 👍 774 • 💬 171 • ⏱️ 21:21 • 20h ago
+👁️ 19K • 👍 774 • 💬 171 • ⏱️ 21:21 • 21h ago
 
 ---
 
@@ -387,7 +383,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,110 • 3d ago
+⬇️ 152,916 • ❤️ 2,116 • 3d ago
 
 ---
 
@@ -399,7 +395,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 13,541 • ❤️ 721 • 4d ago
+⬇️ 13,541 • ❤️ 722 • 4d ago
 
 ---
 
@@ -423,7 +419,19 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 1,509 • ❤️ 326 • 3d ago
+⬇️ 1,509 • ❤️ 327 • 3d ago
+
+---
+
+**[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
+
+*Microsoft*
+
+VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimized for streaming input and long-form generation, achieving first audible speech in ~300ms. It's ideal for building real-time TTS services, narrating live data, and enabling LLMs to speak concurrently with text generation.
+
+`text-to-speech` `1.0B`
+
+⬇️ 12,984 • ❤️ 263 • 13h ago
 
 ---
 
@@ -439,25 +447,13 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 ---
 
-**[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
-
-*Microsoft*
-
-VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimized for streaming input and long-form generation, achieving first audible speech in ~300ms. It's ideal for building real-time TTS services, narrating live data, and enabling LLMs to speak concurrently with text generation.
-
-`text-to-speech` `1.0B`
-
-⬇️ 12,984 • ❤️ 256 • 13h ago
-
----
-
 **[Z-Image-Turbo-Fun-Controlnet-Union](https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union)**
 
 *Alibaba-PAI*
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 239 • 3d ago
+⬇️ 0 • ❤️ 241 • 3d ago
 
 ---
 
@@ -469,7 +465,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 192,451 • ❤️ 890 • 8d ago
+⬇️ 192,451 • ❤️ 891 • 8d ago
 
 ---
 
@@ -691,7 +687,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 808 • 🔱 103 • 40m ago
+⭐ 808 • 🔱 103 • 1h ago
 
 ---
 

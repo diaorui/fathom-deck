@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T07:44:17.542354+00:00'
+updated: '2025-12-05T07:55:23.131045+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 07:44 UTC  
+**Last Updated:** December 05, 2025 at 07:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 9h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 10h ago
 
 ---
 
@@ -53,13 +53,13 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 11h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 12h ago
 
 ---
 
 **["Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have." -Bernie Sanders](https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -75,7 +75,7 @@ Micron has confirmed that it is exiting the Crucial consumer business so it can 
 
 Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRED’s Big Interview event if AI is a bubble, company said “Emphatically, from my perspective, no.”
 
-🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 12h ago
+🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 13h ago
 
 ---
 
@@ -99,7 +99,7 @@ The U.S. Department of Health and Human Services has outlined a new strategy to 
 
 Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn’t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer “mysterious RAG failures” Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?
 
-7h ago
+8h ago
 
 ---
 
@@ -149,7 +149,7 @@ Business Insider • 1h ago
 
 **[AI is reshaping work. It could also spark an entrepreneurial boom](https://www.fastcompany.com/91452382/ai-could-spark-the-next-entrepreneurial-boom)**
 
-Fast Company • 37m ago
+Fast Company • 48m ago
 
 ---
 
@@ -195,7 +195,7 @@ The New York Times • 15h ago
 
 : Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
 
-⬆️ 1042 • 💬 602 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+⬆️ 1042 • 💬 602 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 
 ---
 
@@ -267,7 +267,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 In 1978, Brian Eno released Ambient 1: Music for Airports, a landmark album in ambient and electronic music. Although it wasn't the first ambient
 
-⬆️ 220 • 💬 104 • 2d ago • [Reverb Machine](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
+⬆️ 220 • 💬 104 • 3d ago • [Reverb Machine](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
 
 ---
 
@@ -479,7 +479,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 0 • ❤️ 195 • 5h ago
+⬇️ 0 • ❤️ 195 • 6h ago
 
 ---
 
@@ -660,7 +660,7 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 `TypeScript` `git` `pre-commit-hook`
 
-⭐ 1.1k • 🔱 46 • 5d ago
+⭐ 1.1k • 🔱 47 • 5d ago
 
 ---
 
@@ -680,7 +680,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 819 • 🔱 42 • 1h ago
+⭐ 819 • 🔱 42 • 2h ago
 
 ---
 
@@ -720,7 +720,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 694 • 🔱 14 • 16d ago
+⭐ 695 • 🔱 14 • 16d ago
 
 ---
 

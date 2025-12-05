@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T07:44:17.550701+00:00'
+updated: '2025-12-05T07:55:23.139529+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 07:44 UTC  
+**Last Updated:** December 05, 2025 at 07:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Im only up 3000% now
 
 **[We have no idea how bad things have really gotten.](https://www.reddit.com/r/Bitcoin/comments/1pebeih/we_have_no_idea_how_bad_things_have_really_gotten/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ Im only up 3000% now
 
 **[Bitcoin in 2025](https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -143,7 +143,7 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
-2h ago
+3h ago
 
 ---
 
@@ -155,7 +155,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 Bitcoin adoption could rise “200 times” if global retirement savers allocate even modestly, Tom Lee said. Lee predicts the traditional four-year Bitcoin cycle is ending. ...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -189,7 +189,7 @@ MarketWatch • 11h ago
 
 JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
@@ -229,7 +229,7 @@ The Block • 9h ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 6 • 💬 1 • 19h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 6 • 💬 1 • 20h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
@@ -307,7 +307,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 239 • ⏱️ 23:27 • 6h ago
+👁️ 23K • 👍 2K • 💬 239 • ⏱️ 23:27 • 7h ago
 
 ---
 
@@ -317,7 +317,7 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 42K • 👍 2K • 💬 158 • ⏱️ 18:48 • 9h ago
+👁️ 42K • 👍 2K • 💬 158 • ⏱️ 18:48 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 298 • 💬 95 • ⏱️ 9:41 • 2h ago
+👁️ 3K • 👍 298 • 💬 95 • ⏱️ 9:41 • 3h ago
 
 ---
 

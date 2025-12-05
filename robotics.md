@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T07:44:17.559824+00:00'
+updated: '2025-12-05T07:55:23.148943+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 07:44 UTC  
+**Last Updated:** December 05, 2025 at 07:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -78,7 +78,7 @@ Hi everyone, My husband is a mechanical engineer and has found his niche in robo
 
 **[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
 
-48m ago
+59m ago
 
 ---
 
@@ -92,7 +92,7 @@ Hi everyone, My husband is a mechanical engineer and has found his niche in robo
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=NAcanWv_2Z8) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=NAcanWv_2Z8) • 2h ago
 
 ---
 
@@ -164,7 +164,7 @@ Nasdaq • 1d ago
 
 The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-Barchart.com • 12h ago
+Barchart.com • 13h ago
 
 ---
 

@@ -79,17 +79,6 @@
       "description": "Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT\u2026 and so is Marjorie Greene \ud83e\udee3"
     },
     {
-      "title": "\ud83e\udde1 Thank You Satoshi, for Bitcoin",
-      "author": "DardMiner1982",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/",
-      "published": 1764864084.0,
-      "thumbnail": "https://preview.redd.it/4bp35l21n75g1.jpeg?width=640&crop=smart&auto=webp&s=62ef9d97ad2d4351f44ecc938d7fdd0f99e5af20",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Sometimes we forget the obvious: without Satoshi, BTC wouldn\u2019t exist and our entire crypto journey wouldn\u2019t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. \ud83d\ude80"
-    },
-    {
       "title": "Broke .1 finally!",
       "author": "AntZealousideal3728",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pedy60/broke_1_finally/",
@@ -99,6 +88,17 @@
       "site_name": null,
       "favicon": null,
       "description": ".2 next, just wanted to share with someone"
+    },
+    {
+      "title": "\ud83e\udde1 Thank You Satoshi, for Bitcoin",
+      "author": "DardMiner1982",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/",
+      "published": 1764864084.0,
+      "thumbnail": "https://preview.redd.it/4bp35l21n75g1.jpeg?width=640&crop=smart&auto=webp&s=62ef9d97ad2d4351f44ecc938d7fdd0f99e5af20",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Sometimes we forget the obvious: without Satoshi, BTC wouldn\u2019t exist and our entire crypto journey wouldn\u2019t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. \ud83d\ude80"
     },
     {
       "title": "Cant stop, won't stop Bitcoin",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-05T10:41:45.250042+00:00"
+  "fetched_at": "2025-12-05T11:18:52.357963+00:00"
 }

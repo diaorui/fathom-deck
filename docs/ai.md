@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T10:54:39.455119+00:00'
+updated: '2025-12-05T11:19:21.499181+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- videos
 - news
 - social
-- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 10:54 UTC  
+**Last Updated:** December 05, 2025 at 11:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -67,7 +67,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRED’s Big Interview event if AI is a bubble, company said “Emphatically, from my perspective, no.”
 
-🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 15h ago
+🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 16h ago
 
 ---
 
@@ -75,7 +75,15 @@ Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRE
 
 Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls “faster-growing segments."
 
-🔗 [PC Guide](https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/) • 22h ago
+🔗 [PC Guide](https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/) • 23h ago
+
+---
+
+**[Comparing AI Risks - Anders Sandberg #ai #aiRisk #aiSafety](https://www.reddit.com/r/artificial/comments/1pesahk/comparing_ai_risks_anders_sandberg_ai_airisk/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 15m ago
 
 ---
 
@@ -99,15 +107,7 @@ The U.S. Department of Health and Human Services has outlined a new strategy to 
 
 👋 Après douze années passées chez Meta, Yann LeCun a fait le grand saut. Le mois dernier, il a annoncé qu'il quittait le géant des réseaux sociaux pour lancer sa propre start-up en vue de créer une nouvelle génération de systèmes d'intelligence artificielle. Dans cette aventure, encore relativement nébuleuse, « Meta est un partenaire, ce n'est pas un investisseur », a déclaré Yann LeCun, ce jeudi, lors de l'événement AI Pulse organisé par Scaleway à Paris. 🧠 Le chercheur français fait figure de parrain de l'IA moderne et a été récompensé du prix Turing en 2018. Il mobilise actuellement des fonds pour lancer sa start-up autour du concept d'« intelligence avancée » basée sur le monde physique et les « world models », en opposition aux grands modèles génératifs sur lesquels parient actuellement les géants américains de la tech. 💡 Les explications de Joséphine Boone
 
-🔗 [linkedin.com](https://www.linkedin.com/posts/les-echos_lex-directeur-scientifique-de-meta-sappr%25C3%25AAte-activity-7402587567272910848-h34L?utm_source%3Dshare%26utm_medium%3Dmember_ios%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4) • 2h ago
-
----
-
-**[The Experiment That Made AIs Admit Awareness | Am I? | EP 15](https://www.reddit.com/r/artificial/comments/1pep81u/the_experiment_that_made_ais_admit_awareness_am_i/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/z_gHuD_IxZs?si=JB_V38KslkGIR8OB) • 3h ago
+🔗 [linkedin.com](https://www.linkedin.com/posts/les-echos_lex-directeur-scientifique-de-meta-sappr%25C3%25AAte-activity-7402587567272910848-h34L?utm_source%3Dshare%26utm_medium%3Dmember_ios%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4) • 3h ago
 
 ---
 
@@ -119,7 +119,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -129,23 +129,43 @@ The Economist • 23h ago
 
 ---
 
+**[Nvidia partner Foxconn reports 26% revenue spike as AI boom continues](https://www.cnbc.com/2025/12/05/nvidia-partner-foxconn-reports-26percent-revenue-spike-as-ai-boom-continues.html)**
+
+The Taiwanese company has increasingly moved into the AI infrastructure space in recent times
+
+CNBC • 37m ago
+
+---
+
 **[What Trump could do next on state AI laws](https://www.axios.com/2025/12/05/trump-next-ai-state-laws)**
 
-Axios • 53m ago
+Axios • 1h ago
 
 ---
 
-**[Execs and AI researchers who have left Apple — and the one company that's snapped many of them up](https://www.businessinsider.com/ai-execs-and-researchers-left-apple-mostly-for-meta-2025-12)**
+**[AI bubble to be short-lived, rebound stronger, NTT DATA chief says](https://www.reuters.com/world/asia-pacific/ai-bubble-be-short-lived-rebound-stronger-ntt-data-chief-says-2025-12-05/)**
 
-Apple lost executives and researcher in 2025, some to retirement or startups, but mostly to Mark Zuckerberg's Meta that spent big on recruitment.
-
-Business Insider • 29m ago
+Reuters • 1h ago
 
 ---
 
-**[Cristiano Ronaldo Invests in Perplexity AI, Enters Partnership](https://www.bloomberg.com/news/articles/2025-12-05/cristiano-ronaldo-invests-in-perplexity-ai-enters-partnership-misnf0af)**
+**[Talk of an 'AI bubble' is exploding on earnings calls. Executives keep getting the same question.](https://www.businessinsider.com/ai-bubble-mentions-surge-earnings-call-data-2025-12)**
 
-Bloomberg.com • 1h ago
+Mentions of an "AI bubble" surged 740% this quarter, appearing in 42 earnings calls and investor conferences as executives fielded the same question.
+
+Business Insider • 49m ago
+
+---
+
+**[Opinion | A.I. Technology Needs the Bubble to Burst](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[Exclusive | The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old](https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417?gaa_at=eafs&gaa_n=AWEtsqfczklbeZ2YoBzKsA40c8O3Anp4V4MyCYbnZ5af2JXCL947aWyy0uy8&gaa_ts=6932c31e&gaa_sig=GPAyDNVcdeK5reWSbm6dLu74HyYcfOzxaFOHS8t3mxDc__kBnQQXWPrI49c5wWMSRDG3fcQCIMJ7xOL__LivCA%3D%3D)**
+
+The Wall Street Journal • 19h ago
 
 ---
 
@@ -153,13 +173,7 @@ Bloomberg.com • 1h ago
 
 James Daunt says booksellers instinctively have "disdain" for AI but it could be sold if clearly labelled.
 
-BBC • 10h ago
-
----
-
-**[Exclusive | The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old - WSJ](https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417?gaa_at=eafs&gaa_n=AWEtsqfXcVJsqlZjHayst1fyAlMw0fV0iOfuksN3kXuAqh_wIBV1MHQvmABr&gaa_ts=6932ba6b&gaa_sig=n7ZE2v1qPTLa3d-hs0seR-D-L0eeYNkq7iAyFRJ3lE2VuX_wbOy8FyLVIDFyX7TOd1kaUFkRqf5Q0hhvVrgoXA%3D%3D)**
-
-The Wall Street Journal • 19h ago
+BBC • 11h ago
 
 ---
 
@@ -171,20 +185,6 @@ Forbes • 17h ago
 
 ---
 
-**[‘It was about degrading someone completely’: the story of Mr DeepFakes – the world’s most notorious AI porn site](https://www.theguardian.com/society/ng-interactive/2025/dec/05/it-was-about-degrading-someone-completely-the-story-of-mr-deepfakes-the-worlds-most-notorious-ai-porn-site)**
-
-The hobbyists who helped build this site created technology that has been used to humiliate countless women. Why didn’t governments step in and stop them?
-
-The Guardian • 2h ago
-
----
-
-**[Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html)**
-
-The New York Times • 2d ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -193,7 +193,7 @@ The New York Times • 2d ago
 
 : Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
 
-⬆️ 1044 • 💬 602 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+⬆️ 1046 • 💬 602 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 
 ---
 
@@ -233,7 +233,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 577 • 💬 534 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 583 • 💬 540 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -241,7 +241,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 407 • 💬 305 • 19h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 408 • 💬 305 • 19h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -249,7 +249,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 237 • 💬 195 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 237 • 💬 196 • 14h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -257,7 +257,7 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 
 Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume
 
-⬆️ 233 • 💬 189 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
+⬆️ 233 • 💬 189 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 
 ---
 
@@ -265,7 +265,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 186 • 💬 83 • 12h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 187 • 💬 84 • 12h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -339,7 +339,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 198K • 👍 693 • 💬 46 • ⏱️ 8:09 • 23h ago
+👁️ 198K • 👍 693 • 💬 46 • ⏱️ 8:09 • 1d ago
 
 ---
 
@@ -369,7 +369,7 @@ AI #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle
 
 📺 Θαύμα Προφητείας Θεών
 
-👁️ 6K • 👍 101 • 💬 1 • ⏱️ 0:11 • 5h ago
+👁️ 6K • 👍 101 • 💬 1 • ⏱️ 0:11 • 6h ago
 
 ---
 
@@ -385,7 +385,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,099 • 2d ago
+⬇️ 152,916 • ❤️ 2,100 • 2d ago
 
 ---
 
@@ -397,7 +397,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 13,541 • ❤️ 719 • 3d ago
+⬇️ 13,541 • ❤️ 719 • 4d ago
 
 ---
 
@@ -409,7 +409,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 3,773 • ❤️ 502 • 3d ago
+⬇️ 3,773 • ❤️ 502 • 4d ago
 
 ---
 
@@ -421,7 +421,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 1,509 • ❤️ 325 • 3d ago
+⬇️ 1,509 • ❤️ 326 • 3d ago
 
 ---
 
@@ -447,18 +447,6 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 ---
 
-**[FLUX.2-dev](https://huggingface.co/black-forest-labs/FLUX.2-dev)**
-
-*Black Forest Labs*
-
-FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image generation and editing, excelling at text-to-image, single/multi-reference editing without finetuning, and style/character transfer.
-
-`image-to-image`
-
-⬇️ 192,451 • ❤️ 887 • 7d ago
-
----
-
 **[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
 
 *Microsoft*
@@ -467,7 +455,19 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 224 • 9h ago
+⬇️ 12,984 • ❤️ 229 • 9h ago
+
+---
+
+**[FLUX.2-dev](https://huggingface.co/black-forest-labs/FLUX.2-dev)**
+
+*Black Forest Labs*
+
+FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image generation and editing, excelling at text-to-image, single/multi-reference editing without finetuning, and style/character transfer.
+
+`image-to-image`
+
+⬇️ 192,451 • ❤️ 887 • 8d ago
 
 ---
 
@@ -477,7 +477,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 206 • 3d ago
+⬇️ 0 • ❤️ 207 • 3d ago
 
 ---
 
@@ -636,7 +636,7 @@ Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with ver
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 390 • 7h ago
+⭐ 5.1k • 🔱 390 • 8h ago
 
 ---
 
@@ -686,7 +686,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 801 • 🔱 102 • 11h ago
+⭐ 801 • 🔱 102 • 12h ago
 
 ---
 

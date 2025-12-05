@@ -45,6 +45,16 @@
       "description": "Key PointsEthereum's newest upgrade, Fusaka, is here."
     },
     {
+      "headline": "IMF Warns Stablecoins Pose Financial Stability Risks as Cross-Border Flows Surpass Bitcoin and Ethereum",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQTEyR3V4c2EtZTdMQnZULTFHcTE5T3RXWlVfMy1McndQc1EyZ3BMZXRpcDJvMGNPZEIwQkNTdy05NFY2c3hSWlRCcFNZTEFtUFJtd1MzN2dseThjYmxDdldGQmRtd3V5S2JPbThfYkFVejdhcVVoN1YwTGU3NDhEbklQVmpHOWVmZ2c?oc=5",
+      "pub_date": 1764928800.0,
+      "article_url": "https://finance.yahoo.com/news/imf-warns-stablecoins-pose-financial-100000826.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/tfhIv9JCukKUNjZ3p0N2Sw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/9ed1579033f0ec1ed7b4e66aa482d2ef",
+      "description": "IMF warns as stablecoin flows surpass BTC and ETH, raising global financial stability and dollarization risks."
+    },
+    {
       "headline": "Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum",
       "source": "dlnews.com",
       "source_url": "https://www.dlnews.com",
@@ -85,16 +95,6 @@
       "description": "We quantify how much old supply just moved and why now."
     },
     {
-      "headline": "Why Ethereum Is Gaining Today",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SdzVJN2dQOFFHZkpIRkhuOWNQU0Q1WTBlaXoxVG9TTl85VVZ6b2NPY3l0SXhHVG1BMFlYbTYtUHlTclZjYm5Fb1lQeGF5VWxlbmtuVmRMdXRJM3hPY3hJSnNPNENqM3NLWlVMUVVFN0pLOVQyWGJKMzkyNWI?oc=5",
-      "pub_date": 1764708396.0,
-      "article_url": "https://finance.yahoo.com/news/why-ethereum-gaining-today-204636059.html",
-      "image": "https://media.zenfs.com/en/motleyfool.com/310cc4ae9f8db60010a48b0e54aeb4ae",
-      "description": "Stablecoin regulation is moving forward."
-    },
-    {
       "headline": "ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)",
       "source": "Seeking Alpha",
       "source_url": "https://seekingalpha.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T10:42:03.169266+00:00"
+  "fetched_at": "2025-12-05T11:19:09.000641+00:00"
 }

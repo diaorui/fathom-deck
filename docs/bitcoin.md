@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T10:54:39.463546+00:00'
+updated: '2025-12-05T11:19:21.507619+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 10:54 UTC  
+**Last Updated:** December 05, 2025 at 11:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** +0.6%  
-**30d:** -9.8%  
-**90d:** -18.0%  
-**1y:** -8.3%  
+**24h:** -2.1%  
+**7d:** +0.5%  
+**30d:** -10.0%  
+**90d:** -18.1%  
+**1y:** -8.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1823.63B
+**Market Cap:** $1825.67B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.5%
+-27.4%
 
 **All-Time Low:** $67.81
-+134657.4%
++134807.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Im only up 3000% now
 
-8h ago
+9h ago
 
 ---
 
@@ -95,13 +95,13 @@ Im only up 3000% now
 
 💀
 
-20h ago
+21h ago
 
 ---
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -125,19 +125,19 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ---
 
-**[🧡 Thank You Satoshi, for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/)**
-
-Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our entire crypto journey wouldn’t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. 🚀
-
-18h ago
-
----
-
 **[Broke .1 finally!](https://www.reddit.com/r/Bitcoin/comments/1pedy60/broke_1_finally/)**
 
 .2 next, just wanted to share with someone
 
 12h ago
+
+---
+
+**[🧡 Thank You Satoshi, for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/)**
+
+Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our entire crypto journey wouldn’t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. 🚀
+
+19h ago
 
 ---
 
@@ -151,25 +151,33 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 ## Google News: "bitcoin"
 
-**[Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus](https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus)**
+**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
 
-The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high.
+BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
 
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin Rises Above $90,000. Why Traders Are Bracing For Another Big Drop.](https://www.barrons.com/articles/bitcoin-price-today-selloff-ether-xrp-9118e5ec?gaa_at=eafs&gaa_n=AWEtsqfa3lJVJmh7LkLLCJF99F3gYBu45YjDq_I6FMUHBowMgwCygMIbOWdn&gaa_ts=6932ba6c&gaa_sig=B4fgfsCssKDzdJRgz_70rylep01XuK0Ub_q5kbcwe8f6GdKxYoxtCs1PgY99NgwMZUqY-UzhI3gDSdgaKVoT3A%3D%3D)**
-
-Barron's • 2d ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin Exchange Supply Nears 5-year Low After $2 Billion Buy This Week](https://finance.yahoo.com/news/bitcoin-exchange-supply-nears-5-074002583.html)**
+**[Vanguard has a change of heart on crypto, lists Bitcoin and other ETFs](https://fortune.com/2025/12/02/vanguard-has-a-change-of-heart-on-crypto-lists-bitcoin-and-other-etfs/)**
 
-Bitcoin exchange reserves hit a 5-year low after $2 billion in buying, but price still struggles under key resistance.
+The brokerage firm, long averse to crypto, will let traders buy and sell blockchain-wrapped funds.
 
-Yahoo Finance • 3h ago
+Fortune • 2d ago
+
+---
+
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqf3hlUAZl1Ujf0JO5L5NibYKSzKkcfNcRzvv5CrQqdhVLYUYoAIm38J&gaa_ts=6932c31f&gaa_sig=0AqBb4oS1hhsik8CX3KcizM52SYisHGMwcigYvxejy7lklUP6SiFovjYCjOtkp7QSws_jzx9nSGm7id6dLLOrQ%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[Tom Lee Says Bitcoin Adoption Could Rise ‘200 Times,’ Predicts End of the Four-Year Cycle](https://finance.yahoo.com/news/tom-lee-says-bitcoin-adoption-114850760.html)**
+
+Bitcoin adoption could rise “200 times” if global retirement savers allocate even modestly, Tom Lee said. Lee predicts the traditional four-year Bitcoin cycle is ending. ...
+
+Yahoo Finance • 23h ago
 
 ---
 
@@ -179,19 +187,17 @@ The Economist • 1d ago
 
 ---
 
-**[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
+**[Bitcoin’s Predicted Sky-High Prices Have Not Panned Out](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
 
-Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
-
-CNBC • 20h ago
+The New York Times • 2d ago
 
 ---
 
-**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html)**
+**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
 
-A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
+JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
-Yahoo Finance • 1d ago
+Business Insider • 17h ago
 
 ---
 
@@ -203,27 +209,19 @@ The New York Times • 1d ago
 
 ---
 
+**[Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved'](https://finance.yahoo.com/news/larry-fink-softens-crypto-stance-as-blackrock-boasts-biggest-us-bitcoin-etf-my-thought-process-has-evolved-184909682.html)**
+
+Larry Fink, once a proud crypto skeptic, has evolved his views as his firm, BlackRock, has become a leader in the industry.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Michael Saylor’s Strategy may have BlackRock to thank for the 11% rise in Bitcoin](https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/)**
 
 BlackRock’s ETF now owns 3.9% of all existing Bitcoin, more than Strategy.
 
-Fortune • 22h ago
-
----
-
-**[They ‘Bought More’—BlackRock CEO Reveals Sovereign Fund Bitcoin Price Bombshell Alongside A Stark Trump Warning](https://www.forbes.com/sites/digital-assets/2025/12/04/faster-than-most-expect-blackrock-ceo-issues-enormous-price-prediction-as-bitcoin-suddenly-soars-toward-2-trillion/)**
-
-The chief executive of the world’s largest asset manager BlackRock has predicted the “enormous growth” of crypto-based tokenization in coming years...
-
-Forbes • 22h ago
-
----
-
-**[Woori Bank Becomes First in Korea to Display Bitcoin Prices in Trading Room](https://finance.yahoo.com/news/woori-bank-becomes-first-korea-074526421.html)**
-
-Woori Bank has begun displaying Bitcoin prices inside its main trading room in Seoul, placing the cryptocurrency alongside core financial indicators such as the won–dollar exchange rate and stock market data. Key Takeaways: Woori Bank is the first Korean commercial bank to display Bitcoin prices in its main trading room. ...
-
-Yahoo Finance • 3h ago
+Fortune • 23h ago
 
 ---
 
@@ -333,7 +331,7 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 669 • 💬 1 • ⏱️ 28:20 • 12h ago
+👁️ 17K • 👍 669 • 💬 1 • ⏱️ 28:20 • 13h ago
 
 ---
 
@@ -343,7 +341,7 @@ Platform I Trade on http://ckenny.com/joinBC Free Strategy Course https://ckenny
 
 📺 Conor Kenny
 
-👁️ 5K • 👍 475 • 💬 196 • ⏱️ 22:03 • 4h ago
+👁️ 5K • 👍 475 • 💬 196 • ⏱️ 22:03 • 5h ago
 
 ---
 
@@ -383,7 +381,7 @@ Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (
 
 📺 MegaWhale Crypto
 
-👁️ 4K • 👍 325 • 💬 174 • ⏱️ 20:47 • 9h ago
+👁️ 4K • 👍 325 • 💬 174 • ⏱️ 20:47 • 10h ago
 
 ---
 
@@ -403,7 +401,7 @@ Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative t
 
 📺 The Wolf Of All Streets
 
-👁️ 24K • 👍 898 • 💬 318 • ⏱️ 35:57 • 19h ago
+👁️ 24K • 👍 898 • 💬 318 • ⏱️ 35:57 • 20h ago
 
 ---
 

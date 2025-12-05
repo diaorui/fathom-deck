@@ -9,7 +9,7 @@
       "url": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
       "hn_url": "https://news.ycombinator.com/item?id=46131406",
       "author": "Brajeshwar",
-      "points": 1044,
+      "points": 1046,
       "num_comments": 602,
       "created_at": "2025-12-03T07:52:37Z",
       "object_id": "46131406",
@@ -79,8 +79,8 @@
       "url": "https://arxiv.org/abs/2512.04047",
       "hn_url": "https://news.ycombinator.com/item?id=46145180",
       "author": "50kIters",
-      "points": 577,
-      "num_comments": 534,
+      "points": 583,
+      "num_comments": 540,
       "created_at": "2025-12-04T08:38:17Z",
       "object_id": "46145180",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -93,7 +93,7 @@
       "url": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
       "hn_url": "https://news.ycombinator.com/item?id=46148748",
       "author": "OptionOfT",
-      "points": 407,
+      "points": 408,
       "num_comments": 305,
       "created_at": "2025-12-04T15:31:52Z",
       "object_id": "46148748",
@@ -108,7 +108,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46152941",
       "author": "toss1",
       "points": 237,
-      "num_comments": 195,
+      "num_comments": 196,
       "created_at": "2025-12-04T20:56:08Z",
       "object_id": "46152941",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/28c4/live/af28cc40-d12f-11f0-91c0-a3ef1eb0ee2e.png",
@@ -135,8 +135,8 @@
       "url": "https://openrouter.ai/state-of-ai",
       "hn_url": "https://news.ycombinator.com/item?id=46154022",
       "author": "anjneymidha",
-      "points": 186,
-      "num_comments": 83,
+      "points": 187,
+      "num_comments": 84,
       "created_at": "2025-12-04T22:26:43Z",
       "object_id": "46154022",
       "image": "https://openrouter.ai/dynamic-og?pathname=state-of-ai&title=State+of+AI&description=An+empirical+study+analyzing+over+100+trillion+tokens+of+real-world+LLM+interactions+across+tasks%2C+geographies%2C+and+time.",
@@ -145,7 +145,7 @@
       "site_name": "OpenRouter"
     }
   ],
-  "total_hits": 597,
+  "total_hits": 596,
   "has_metadata": true,
-  "fetched_at": "2025-12-05T10:41:43.797601+00:00"
+  "fetched_at": "2025-12-05T11:18:50.975463+00:00"
 }

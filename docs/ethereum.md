@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T10:54:39.469538+00:00'
+updated: '2025-12-05T11:19:21.513615+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 10:54 UTC  
+**Last Updated:** December 05, 2025 at 11:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +4.9%  
-**30d:** -5.4%  
-**90d:** -27.3%  
-**1y:** -21.4%  
+**24h:** -0.9%  
+**7d:** +5.2%  
+**30d:** -5.2%  
+**90d:** -27.1%  
+**1y:** -21.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $379.72B
+**Market Cap:** $379.08B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
@@ -62,7 +62,7 @@ No max supply
 -36.5%
 
 **All-Time Low:** $0.43
-+725628.0%
++725270.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Trump crypto empire falls faster than bitcoin
 
 I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was part of their Private Clients program with the portfolio boost. On October 10th, 2025, around 23:00 CET, the Nexo app completely stopped working for me. I couldn’t add USDT, swap, manage my loan, nothing. I was literally inside the app trying to fix it, and I have screen-time proof showing it was frozen. At 23:12 I suddenly got an email saying my LTV changed to 76.92%. At 23:20 I got another email telling me my collateral had been fully liquidated. When I finally managed to get back into the app at 00:26 CET, everything was gone. My entire $123K portfolio was wiped out while I was stuck watching the app glitch out. This isn’t even the first time something like this has happened. Coinfomania reported in April 2025 that Nexo had already been accused of unfair liquidations worth $10 million. People were saying the same thing back then: the app wasn’t working and they only got two emails before losing everything. Nexo is registered in the Cayman Islands and acts like it’s untouchable. They ignore EU and US courts and even ignore letters from lawyers who represent affected users. And Antoni Trenchev is nowhere to be found. When Binance had system issues, they actually compensated their users. Nexo stayed silent. They didn’t just liquidate me, they took everything while their own platform was offline. Since my situation happened, a lot of people have reached out with almost identical stories. Same timeline, same type of outage, same zero response from Nexo. At this point it’s obvious we won’t get anywhere alone. If you had a similar experience, we need to organize together and take collective action. Nexo isn’t giving anyone answers on their own. #Nexo #CryptoScam #DeFi #NexoDown #CryptoJustice
 
-3h ago
+4h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -174,7 +174,15 @@ Yahoo Finance • 2h ago
 
 Key PointsEthereum's newest upgrade, Fusaka, is here.
 
-Nasdaq • 54m ago
+Nasdaq • 1h ago
+
+---
+
+**[IMF Warns Stablecoins Pose Financial Stability Risks as Cross-Border Flows Surpass Bitcoin and Ethereum](https://finance.yahoo.com/news/imf-warns-stablecoins-pose-financial-100000826.html)**
+
+IMF warns as stablecoin flows surpass BTC and ETH, raising global financial stability and dollarization risks.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -190,7 +198,7 @@ dlnews.com • 1d ago
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-cheddar.com • 13h ago
+cheddar.com • 14h ago
 
 ---
 
@@ -210,19 +218,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Why Ethereum Is Gaining Today](https://finance.yahoo.com/news/why-ethereum-gaining-today-204636059.html)**
-
-Stablecoin regulation is moving forward.
-
-Yahoo Finance • 2d ago
-
----
-
 **[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 6h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 52K • 👍 2K • 💬 366 • ⏱️ 27:33 • 16h ago
+👁️ 52K • 👍 2K • 💬 366 • ⏱️ 27:33 • 17h ago
 
 ---
 

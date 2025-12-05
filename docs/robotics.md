@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T10:54:39.472819+00:00'
+updated: '2025-12-05T11:19:21.516859+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 10:54 UTC  
+**Last Updated:** December 05, 2025 at 11:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,12 +32,6 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Art installation draws attention for its robot dogs with famous faces](https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/)**
-
-17h ago
-
----
-
 **["Volonaut" Airbike: Jet-powered hoverbike landing with advanced stabilization (Prototype Demo)](https://www.reddit.com/r/robotics/comments/1pequkz/volonaut_airbike_jetpowered_hoverbike_landing/)**
 
 This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mechanism: Jet-powered vertical take-off and landing (VTOL). Control: Uses an advanced stabilization system to assist the rider's balance during precision maneuvers. Specs: Carbon fiber frame (30kg), top speed ~100km/h (capped) and flight time ~10 mins. Source: Volonaut 🔗 : https://youtu.be/4b0Laxsj_z0?si=8loRPWJWr4v622ii
@@ -46,11 +40,23 @@ This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mecha
 
 ---
 
+**[Art installation draws attention for its robot dogs with famous faces](https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/)**
+
+18h ago
+
+---
+
 **[Behind-the-scenes footage from the EngineAI T800 shoot — a direct response to the CG accusations.](https://www.reddit.com/r/robotics/comments/1peipg7/behindthescenes_footage_from_the_engineai_t800/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 9h ago
+
+---
+
+**[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
+
+4h ago
 
 ---
 
@@ -60,17 +66,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
-
-3h ago
-
----
-
 **[Marc Raibert on Why Robotics Needs More Transparency](https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/)**
 
 Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
 
-14h ago
+15h ago
 
 ---
 
@@ -86,7 +86,7 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO) • 1h ago
+🔗 [youtu.be](https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO) • 2h ago
 
 ---
 
@@ -118,7 +118,15 @@ Politico • 1d ago
 
 From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?
 
-IEEE Spectrum • 3d ago
+IEEE Spectrum • 1d ago
+
+---
+
+**[Ukrainian robotics company says autonomy in defense is overhyped — but it's also past the point of no return](https://www.businessinsider.com/autonomy-defense-overhyped-past-point-of-no-return-ukraine-company-2025-12)**
+
+Defense forces "want a hundred percent reliability and the AI is just not there," Ark Robotics' founder and CEO told Business Insider.
+
+Business Insider • 34m ago
 
 ---
 
@@ -138,17 +146,17 @@ CBS News • 13h ago
 
 ---
 
-**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
-
-Investor's Business Daily • 13h ago
-
----
-
 **[Robotics Stocks Surged on Wednesday. Here's Why.](https://www.nasdaq.com/articles/robotics-stocks-surged-wednesday-heres-why)**
 
 Key PointsPresident Trump is reportedly considering signing an executive order in the new year to accelerate the development of robots in the U.S.
 
 Nasdaq • 1d ago
+
+---
+
+**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
+
+Investor's Business Daily • 14h ago
 
 ---
 
@@ -168,19 +176,11 @@ Bessemer Venture Partners • 2d ago
 
 ---
 
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
 
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-MLive.com • 14h ago
-
----
-
-**[As Trump Looks to Boost Robotics, This 1 Lesser-Known Stock Is a Strong Buy](https://www.barchart.com/story/news/36463172/as-trump-looks-to-boost-robotics-this-1-lesser-known-stock-is-a-strong-buy)**
-
-Serve Robotics is a lesser-known play on Trump’s emerging pro‑robotics agenda, pairing triple‑digit revenue growth, expanding partnerships, and strong cash reserves.
-
-Barchart.com • 13h ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -242,7 +242,7 @@ Pure-play robotics stock Symbotic (SYM) has had a wild ride in 2025, soaring to 
 
 📺 Chip Stock Investor
 
-👁️ 3K • 👍 139 • 💬 7 • ⏱️ 14:23 • 19h ago
+👁️ 3K • 👍 139 • 💬 7 • ⏱️ 14:23 • 20h ago
 
 ---
 

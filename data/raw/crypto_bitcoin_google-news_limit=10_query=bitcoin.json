@@ -5,34 +5,44 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Solana, XRP, ETH Extend Losses as Bitcoin\u2019s $91K Support Back in Focus",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGNEWTVoNVk4ZDl6NTIwOTJJTWhPRXdHZWZVYkkxX0ZOOF9sSEtZRUUwc0wwTk5iRnpEOWZWUmk1ejFhem5xRWVoRTV3UUlreGVlaHhDUXAwdFphQ1BJaU5ZZnlxS185RmZfNng2VjUycFVJZ3VhRGZRSDFuYnpDNzN6N0ExT1RfLWRDQlFjUnBYcmw2Ml9vSThBdXpEazh0RjR5c2h2cElYY09ENFl5MEJTQ3c?oc=5",
-      "pub_date": 1764914321.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/181148f5c39f60293705e8d02619029fe9b70222-1280x914.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The one-month chart shows BTC still locked inside a descending structure from early November\u2019s highs, with the latest rebound producing another lower high."
+      "headline": "BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTdZWU9ZcTloV3RIeW44R3E2aUNYUmFUX3NnUEZ3Uzk0c3ZRdldRakIxbHRrX2JmYk5TX1ZQYW1rYkg1YXlNeVMyRTdWcWllblJsRllkNi1GT0Q4V0FtSkd0bkM1T21rVk1ka2p5Rmx5QkZUd2tBWHBZYkE2bHJvOGc1U3c2UUZhNk96X1hEb3VLVUpfckJiOVBqZHVyT3BGb2liM2hvd2tZNl9tMjktQk1Xd2FHSDd3M2sxbnd1czk?oc=5",
+      "pub_date": 1764922300.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imggtXTZHkQE/v0/1200x800.jpg",
+      "description": "BlackRock Inc.\u2019s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world\u2019s largest cryptocurrency remains subdued even as prices stabilize."
     },
     {
-      "headline": "Bitcoin Rises Above $90,000. Why Traders Are Bracing For Another Big Drop.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOaWVLbTF1Nk9aWUxpajJqb2s0TnU5U2pkRWJKZXEzVVYtS3J1WU4xS0xqdVoydUpSUUhHZ2tJdlNpVWg1NExvVExnT1d2eFpHMVZUNzBYYlZtbExxRkR0NFpKaE0yaS1IdE1salJ6bjF5S0VXUnhjekRUTzBOTEkySkN2WFBjQ2dJZDZNZFp4ZlM4ZWhMSGNWdXRuUTdnNTdmSHo0NzBudEhmMXhvZU5wdElIY2xuZHJ6WXRhWFRRWVZSSHRnYm9DYlhEbXVkcUpNcjc3Q25Id250cTFfNEVueGFJVWRKV0ZERnl4ajA2SHBsSUxkZUcySHN6VWNTbmR1WGh6NXczb29iV2RUQXNhZGZZY3pzUTRMbmJQS2x3dEFkRnFoeHV1bW9td3JRNWJ4b1ZTWHQzdHlaaGVHN2FHNGkyRVBiQ2wwNW53eE1mUjlkWGpvdC03UVNQd3dZOWJrY2dJdEZoSEFhdjJUNkxmaGp2VDJfTS1aSmt0X3BmNmJxSGNQNFZyV083Yw?oc=5",
-      "pub_date": 1764706920.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-today-selloff-ether-xrp-9118e5ec?gaa_at=eafs&gaa_n=AWEtsqfa3lJVJmh7LkLLCJF99F3gYBu45YjDq_I6FMUHBowMgwCygMIbOWdn&gaa_ts=6932ba6c&gaa_sig=B4fgfsCssKDzdJRgz_70rylep01XuK0Ub_q5kbcwe8f6GdKxYoxtCs1PgY99NgwMZUqY-UzhI3gDSdgaKVoT3A%3D%3D",
+      "headline": "Vanguard has a change of heart on crypto, lists Bitcoin and other ETFs",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLU5maUtfOHExRXp4aDkxdGRjUHZmQUIzRGJ5RnIwMnZwNVU3RzhDUmNtUjRvM3A0UE9TSzdtZWpaRG16R25UeFpuc2xkYkw5Zi1rRGEzM1plOHpjQktJeEJZUXFpN0FzakczTEI5NWo3NTJQRW9zY3NpMDE3emJFajZfM1ZiMU82QkVYeHZzTEY0T1JrTzlBcWoySGNiQU45U3V3?oc=5",
+      "pub_date": 1764711840.0,
+      "article_url": "https://fortune.com/2025/12/02/vanguard-has-a-change-of-heart-on-crypto-lists-bitcoin-and-other-etfs/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1772102313-e1764708480251.jpg?resize=1200,600",
+      "description": "The brokerage firm, long averse to crypto, will let traders buy and sell blockchain-wrapped funds."
+    },
+    {
+      "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOMzEtVjFxWWozVENRMlhrVFl5a3hoZ29Mal9leV9IcVlTck8tSWZuVF96azducGFRaG9LQ1dJSzFwVXNmYUpUcWxWN0xIMmgwcEkyN3dKZWVydHlBN0M0S1JadXdpaFJJU1Y4eXRiOE5nbkpiZjhKVXlpSkdBb29zaFZLTE1pVjhEaXBQSzdXSXJzSGpmcGszOG1VZDV5cy0ydFRsd1ZIdm40VVBuUkJZdGNzenRQbFdDZG1jVDB5ZjhDZWRKMzZrdVR4b0pmcnZqR2FKaWk3MnBoeFVMWVVsOVNvRzB3Z3VmXzc4dDkzUmlwN1l1dTNyZ3hJUFpUUVhvMjZSVlNsVTlSWXZoV3FJc2Zwc1hUazQ1TmczbGtkRnRoeU1rUnBkRDFKYWRkeGQ2d0lJQmtxX3ZVSHFybFdQR0hwTmZPYmxyaGZFY0ZRcWVDbWpBSG1qamxfWENmeTliUHNYaERzVXljNk1pY2VjQm1vLVJVZ0JCMnAtb1dVS1EzT25ZT3k4ZVRZQ1d4SUo5NndaX0tWRzVXVG92bGJMeWNKSUR3cW1QV1Rj?oc=5",
+      "pub_date": 1764716700.0,
+      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqf3hlUAZl1Ujf0JO5L5NibYKSzKkcfNcRzvv5CrQqdhVLYUYoAIm38J&gaa_ts=6932c31f&gaa_sig=0AqBb4oS1hhsik8CX3KcizM52SYisHGMwcigYvxejy7lklUP6SiFovjYCjOtkp7QSws_jzx9nSGm7id6dLLOrQ%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin Exchange Supply Nears 5-year Low After $2 Billion Buy This Week",
+      "headline": "Tom Lee Says Bitcoin Adoption Could Rise \u2018200 Times,\u2019 Predicts End of the Four-Year Cycle",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcm9CQ3RQWV91eldmVC1ZelV5d3M0Q2JPQXg1US02MkV1OE4ydHlCdUxXUndFWjFwYXFiWnd4LThzRXNrWVNBUzQ3dzJySGNMalhpMi1CSlN4cEFRSGNXQXNhXzBoeXRveHdiREdtb2wtcGxrZlg4U0xYWGtqRUNsV29LRQ?oc=5",
-      "pub_date": 1764920400.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-exchange-supply-nears-5-074002583.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/jWaZJj1Fq0JqIPxTk4yaiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/fac7a43c3df82c31410379340c023ae5",
-      "description": "Bitcoin exchange reserves hit a 5-year low after $2 billion in buying, but price still struggles under key resistance."
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdHlkUVlOVHdsRVFYd3pwREh4WXFWMVl1WXNBUTRxZlpDejk5RnF6bzlTMXNaajcwdXBZcW9kSmNVbVU5NEViRG56UjNsUU9OVlI0dUpjTEpzampkckRTa0lCckZ5VEZhVVFpUmg3MTEyVVBwVEQ5Y0lOZ0Utcloyag?oc=5",
+      "pub_date": 1764848930.0,
+      "article_url": "https://finance.yahoo.com/news/tom-lee-says-bitcoin-adoption-114850760.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/wsmNby4YAmDPqCT9diyyhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/dcddf4aed30ca2e97ff1581582667dd2",
+      "description": "Bitcoin adoption could rise \u201c200 times\u201d if global retirement savers allocate even modestly, Tom Lee said. Lee predicts the traditional four-year Bitcoin cycle is ending. ..."
     },
     {
       "headline": "Bitcoin has plunged. Strategy Inc is an early victim",
@@ -45,24 +55,24 @@
       "description": null
     },
     {
-      "headline": "Why Michael Saylor's Strategy could hold the key for the whole bitcoin market",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGNUcjVTZE1XVW0ySldXWHhNdHZuTklUQU9NT1ozYlBZeWNLeFI4OHJCLXRqNFM0UEZPcVZBT3BhWFd1ekRBZFZlUzF0LTVrdG9hTUNWNlVVbzBvSGZYd25kdkM1TTF3T3h3QjV2UmFvZW9ESElOVkVTZGp5SF9wU0hoS0drb04yZmNDcDBIdTV2dVVkcWRsNUthS2VKNW96cmZVOC1aQVZpZkljYzc0NWFGUQ?oc=5",
-      "pub_date": 1764859950.0,
-      "article_url": "https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108235235-1764690992444-gettyimages-2247743557-img_6813.jpeg?v=1764691074&w=1920&h=1080",
-      "description": "Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts."
+      "headline": "Bitcoin\u2019s Predicted Sky-High Prices Have Not Panned Out",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLV80ZjAtYy1HdlV4aVRkWXk0Rk0tOWtSM3JGNHpOVThqZEZpMGR3ZUMzR2xXVExaVXlZQnpoRE9LU0ZkT1F2WXlVbDBTbzdka1p0cW91RlRSWjBGRkpPWkY2dmVrV3NRTUdCZG9XR1dFZldZWVFlVmt3d3MyS01VTzFWUnJIb2RJWlpKclFOaw?oc=5",
+      "pub_date": 1764756144.0,
+      "article_url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Bitcoin\u2019s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3ZmSFVXZU80X3k0LU1TZ3UyYlB1MHl5QUNvdVhaUUFvZ3V3bnlfOUxJY2FNODNnR2dKT0JtS0hCNGluVXN6aG0xZTZMN05tdFFhb25FWXgzOEZfM3JoZGw2Vm5iUDczT0J5WHFxcktYWWlmWG5saFVGYVNXMHdPeVNwa1MwdkJienk0VA?oc=5",
-      "pub_date": 1764780516.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/FL24d8aJvPqLv_JDWpEY3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/97b3e1f462be391d2bad2e12ad194263",
-      "description": "A rule change could force Saylor's company to sell some of its $650 billion holdings\u2014but crypto veterans say Strategy will be just fine."
+      "headline": "Why JPMorgan says bitcoin could rocket to $170,000 in the coming months",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2c4WWkwZ1hoR0YtNGVDOEdjSnEwQU1GR0I4S21TSXZEekVHYUdpdmRiMVMzQ05NQU42TExCSUhfX3otTEdPMXRYS3pscy02Sk5HSjA0VVlKYVAxQ1R2QkVRanZyLUdIcV8waDVVM25oUTlwSzVhYzZsVUs0QVdpMjVnYjVVYWl0UFVPbnFWcXd1ckRmM3BTRms0QjI?oc=5",
+      "pub_date": 1764870360.0,
+      "article_url": "https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12",
+      "image": "https://i.insider.com/69319bec7ecd1d1da662e9ed?width=1200&format=jpeg",
+      "description": "JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term."
     },
     {
       "headline": "Video: BlackRock C.E.O. Calls Bitcoin an \u2018Asset of Fear\u2019",
@@ -75,6 +85,16 @@
       "description": "Larry Fink, the chief executive of BlackRock, dismissed concerns about the long-term value of cryptocurrency."
     },
     {
+      "headline": "Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved'",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUnM4NWxpRmUwNzVLcS1SNjN1WHVvamNrSHBmd0U3RGtuaGZZV3JyUzFVaW5EamxtM3pqbC02cUFpczVaekw1WEdfeDJacDMyWVppQTJxS29aSnNSUjJ5Tms5R041eTI5UnlscTQ0elRQQnJFMkt1UDZYYjY3S3NoN0NvY3Q1TWFmcmJ1YWhRUk9TWWVEdEhnTVBxdEZDOE91QVRpam8wbllzREl4YTFFWnRYNE84LTNGTHBqb2k2TTZteFhBUlBlYTM0YnM2TlNwSWhMd0c1MVRlU2JBRjYtN1N0TktHRXc?oc=5",
+      "pub_date": 1764787749.0,
+      "article_url": "https://finance.yahoo.com/news/larry-fink-softens-crypto-stance-as-blackrock-boasts-biggest-us-bitcoin-etf-my-thought-process-has-evolved-184909682.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/LCqYj_OUyWeEiQelje7S9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3d8e6010-d074-11f0-b5df-33145c765fcd",
+      "description": "Larry Fink, once a proud crypto skeptic, has evolved his views as his firm, BlackRock, has become a leader in the industry."
+    },
+    {
       "headline": "Michael Saylor\u2019s Strategy may have BlackRock to thank for the 11% rise in Bitcoin",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -83,28 +103,8 @@
       "article_url": "https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-1491618289-e1739538790764.jpg?resize=1200,600",
       "description": "BlackRock\u2019s ETF now owns 3.9% of all existing Bitcoin, more than Strategy."
-    },
-    {
-      "headline": "They \u2018Bought More\u2019\u2014BlackRock CEO Reveals Sovereign Fund Bitcoin Price Bombshell Alongside A Stark Trump Warning",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTDFXNVJNb19SeG9ZTmRkYnZQeXZ5eHpISGtPYUdFakhINEVEUXRYS0RVZGNTTE9WaGN3NmRJWFdmbFdZUlp4UGNhNUlFNno0YjdsbWJTdXVTcHpHZHZmT3lpMXVMWGNmU29MTG1GQzNGdFloMkFlMkxZZ3lKb2NRWkhwU1ZVV1NVcXlsdE5kcXlkZVB6NFVjNlByOW1LbkozWEhOUXdlazZSbFY5amlTT0ZFWDBpN1J4allaczdNZnRaZWRlUFpKVVdTSGlqVXV4UXhucDZoX2ZONHJpeEZhTktBazl3Q1h5VEFoNUFXVWV6WGFPX21tZXRDNGozUlU?oc=5",
-      "pub_date": 1764851820.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2025/12/04/faster-than-most-expect-blackrock-ceo-issues-enormous-price-prediction-as-bitcoin-suddenly-soars-toward-2-trillion/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/68ce62c731907dbb97ed44ac/0x0.jpg?format=jpg&crop=2284,1284,x143,y0,safe&height=900&width=1600&fit=bounds",
-      "description": "The chief executive of the world\u2019s largest asset manager BlackRock has predicted the \u201cenormous growth\u201d of crypto-based tokenization in coming years..."
-    },
-    {
-      "headline": "Woori Bank Becomes First in Korea to Display Bitcoin Prices in Trading Room",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeE51Z3dWNS1RRzVadUdBdWpTNjJHdnhkcDBvV3lCQV9qZlAxM1g3LWNuOXljNl9aVWNEYk5XUk5QdkdfZnlHbDZqcW92NDZneDQ5VG9SU2dOQ0ozZ2JQWGo0X3B3Y2htTm1DUHJITzczSTRyeTlCem1JcUUwT2pKa1V3?oc=5",
-      "pub_date": 1764920700.0,
-      "article_url": "https://finance.yahoo.com/news/woori-bank-becomes-first-korea-074526421.html",
-      "image": "https://media.zenfs.com/en/cryptonews_us_711/4309fa420fc0062dfbd0701c71eec0e0",
-      "description": "Woori Bank has begun displaying Bitcoin prices inside its main trading room in Seoul, placing the cryptocurrency alongside core financial indicators such as the won\u2013dollar exchange rate and stock market data. Key Takeaways: Woori Bank is the first Korean commercial bank to display Bitcoin prices in its main trading room. ..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T10:42:05.995339+00:00"
+  "fetched_at": "2025-12-05T11:19:09.979794+00:00"
 }

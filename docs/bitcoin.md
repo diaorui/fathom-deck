@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T22:41:25.259145+00:00'
+updated: '2025-12-05T22:52:03.367828+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 22:41 UTC  
+**Last Updated:** December 05, 2025 at 22:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.1%  
-**7d:** -1.8%  
-**30d:** -12.0%  
-**90d:** -20.0%  
-**1y:** -10.5%  
+**24h:** -2.9%  
+**7d:** -1.6%  
+**30d:** -11.9%  
+**90d:** -19.8%  
+**1y:** -10.4%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 16h ago
 
 Bitcoin (BTC-USD) is on track to record a yearly decline for 2025, while the S&P 500 (^GSPC) sees gains for the same period. This would mark the first split in crypto and equity performance since 2014, according to Bloomberg. Yahoo Finance Senior Reporter Ines Ferré examines the phenomenon and how precious metal prices (GC=F, SI=F) play a part. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 56m ago
 
 ---
 
@@ -203,7 +203,7 @@ The New York Times • 2d ago
 
 BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Wall Street Journal • 2d ago
 
 **[Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks](https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 

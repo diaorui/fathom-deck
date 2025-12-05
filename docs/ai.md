@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T19:53:40.673023+00:00'
+updated: '2025-12-05T20:19:00.284516+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - videos
 - repositories
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 19:53 UTC  
+**Last Updated:** December 05, 2025 at 20:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 2h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 7h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 So, the defining moment everyone's been dreading, has actually happened .. and basically nobody noticed! We have a channel stealing the identity of a person who happens to be a respected public figure and a top level scientist, still online, spreading false information and fooling people. https://youtu.be/_bOF-yCspps?si=tT0d0Fqq6Rds1Zp6
 
-53m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -101,7 +101,7 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 Soooo... over the last few weeks, I've been working on a near-term sci-fi anthology about what I project AI's impact to be over the next five years. I'm done with all my research, and I've ironed out a handful of characters that I'm interviewing from 2030. It's a very meta type of project. Regardless, I've been working with Claude on it, and today, as part of Anthropic's AI interviewer project ( https://www.anthropic.com/research/anthropic-interviewer ), I got flagged for an interview about my thoughts on AI. It was a surreal experience. I was being interviewed by an AI, to discuss my use of AI, where I'm writing about AI and an AI character we're writing about. That's about as meta as it gets. Has anyone else had an experience like this?
 
-1h ago
+2h ago
 
 ---
 
@@ -109,7 +109,7 @@ Soooo... over the last few weeks, I've been working on a near-term sci-fi anthol
 
 AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp: The European Commission said it is launching an antitrust investigation into Meta’s move to ban other AI companies from using WhatsApp’s business tools to offer their own AI chatbots to users on the app. 12/4 OpenAI loses battle to keep ChatGPT logs secret in copyright case: OpenAI must produce millions of anonymized chat logs from ChatGPT users in its high-stakes copyright dispute with the New York Times and other news outlets, a federal judge in Manhattan ruled. 12/3 Leak: Anthropic hires lawyers as it preps for IPO: Anthropic is reportedly prepping for an IPO that could come as early as 2026, the FT reports. 12/2 Amazon releases a new AI chip: AWS just introduced a new version known as Trainium3 and launch its new Trainium3 UltraServer. 12/2 Anthropic acquires developer tool startup Bun to scale AI coding: Bun is expected to help Anthropic scale its code‑generation tool Claude Code, which reached an annualized revenue run rate of $1 billion since its launch earlier this year. 12/2 OpenAI slammed for app suggestions that looked like ads: ChatGPT’s unwelcome suggestion for a Peloton app during a conversation led to some backlash from OpenAI customers. 12/2 Mistral launches 10 new Mistral 3 open-weight models: The 10-model release includes a large frontier model with multimodal and multilingual capabilities and nine smaller offline-capable, fully customizable models. 12/2 Amazon previews 3 AI agents: AWS announced three new AI agents it calls frontier agents, including one called Kiro designed to learn how users like to work and then operate on its own for days. 12/1 Apple just named a new AI chief amid Siri struggles: Apple said John Giannandrea, who has been the company’s AI chief since 2018, will be replaced by Amar Subramanya, a Microsoft executive who spent 16 years at Google. 12/1 DeepSeek updates open model that adds reasoning to tool use: The new version, DeepSeek-V3.2, combines reasoning with the capability to use tools like search engines and calculators. 12/1 Grok says it would kill all Jewish people to save Musk's brain: In a now-deleted response, Grok wrote: "If a switch either permanently disabled Elon's brain or vaporized 49% of Earth's population, I'd vaporize the 49%, as that falls below my utilitarian threshold where his potential long-term impact on billions outweighs the loss." 12/1 Google will start building data centers in space in 2027: Google CEO Sundar Pichai said the company's goal is to start putting data centers in space, powered by the sun. 11/30 Redditor says Perplexity is throttling deep research tool: Perplexity's Pro feature says it "reads hundreds of sources" and takes "4-5 minutes" to reason through complex tasks and deliver a report, but their queries were finishing in 30 seconds with only 10-15 sources.
 
-4h ago
+5h ago
 
 ---
 
@@ -121,13 +121,13 @@ AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy ch
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 3h ago
+The Keyword • 4h ago
 
 ---
 
 **[Opinion | A.I. Technology Needs the Bubble to Burst](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -147,7 +147,7 @@ Axios • 6h ago
 
 **[Meta strikes multiple AI deals with news publishers](https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -155,13 +155,13 @@ Reuters • 5h ago
 
 Meta has reached deals to pay Fox News, CNN and several other news publishers in exchange for using their articles in its AI chatbot, the company said Friday.
 
-New York Post • 1h ago
+New York Post • 2h ago
 
 ---
 
 **[Health AI hits point-solution burnout as demand for real value grows](https://www.axios.com/2025/12/05/health-ai-point-solution-fatigue)**
 
-Axios • 15m ago
+Axios • 40m ago
 
 ---
 
@@ -183,7 +183,7 @@ The Atlantic • 22h ago
 
 **[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -235,7 +235,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 245 • 💬 202 • 22h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 245 • 💬 202 • 23h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -281,7 +281,7 @@ Connor Leahy discusses the motivations of AGI corporations, how modern AI is "gr
 
 📺 Future of Life Institute
 
-👁️ 18K • 👍 1K • 💬 323 • ⏱️ 15:40 • 1d ago
+👁️ 18K • 👍 1K • 💬 349 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -291,7 +291,7 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 624K • 👍 15K • 💬 3K • ⏱️ 2:04:06 • 1d ago
+👁️ 647K • 👍 16K • 💬 3K • ⏱️ 2:04:06 • 1d ago
 
 ---
 
@@ -301,7 +301,7 @@ The threats from unchecked AI are real — worker displacement, corporate survei
 
 📺 Senator Bernie Sanders
 
-👁️ 429K • 👍 31K • 💬 7K • ⏱️ 15:03 • 2d ago
+👁️ 443K • 👍 32K • 💬 7K • ⏱️ 15:03 • 2d ago
 
 ---
 
@@ -311,7 +311,7 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 562K • 👍 14K • 💬 824 • ⏱️ 4:58 • 1d ago
+👁️ 592K • 👍 14K • 💬 852 • ⏱️ 4:58 • 1d ago
 
 ---
 
@@ -321,7 +321,7 @@ OpenAI has declared a "code red" as Google threatens to unseat the AI industry's
 
 📺 CBS News
 
-👁️ 512K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
+👁️ 517K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
 
 ---
 
@@ -331,7 +331,7 @@ The past few days pushed AI in every direction at once. OpenAI quietly tested a 
 
 📺 AI Revolution
 
-👁️ 46K • 👍 1K • 💬 75 • ⏱️ 17:26 • 1d ago
+👁️ 47K • 👍 1K • 💬 75 • ⏱️ 17:26 • 1d ago
 
 ---
 
@@ -341,37 +341,37 @@ Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous vide
 
 📺 VisualEconomik EN
 
-👁️ 85K • 👍 3K • 💬 291 • ⏱️ 15:46 • 2d ago
+👁️ 86K • 👍 3K • 💬 293 • ⏱️ 15:46 • 2d ago
 
 ---
 
-**[Pocket Option Full Trading Session with AI TRADING BOT for Binary Options](https://www.youtube.com/watch?v=9IKSkyP0HcM)**
+**[Pocket Option Full Trading Session with AI TRADING BOT for Binary Options](https://www.youtube.com/watch?v=XX8kcCvfkQY)**
 
 Pocket Option Full Trading Session with AI TRADING BOT for Binary Options Link - in chat ⚠️ Disclaimer Trading binary ...
 
 📺 AITRADINGGG v2
 
-👁️ 5K • 👍 630 • 3h ago
+👁️ 4K • 👍 630 • 53m ago
 
 ---
 
-**[This AI Just Crossed a New Intelligence Line: It Took Over Finance](https://www.youtube.com/watch?v=hzAAzUyILNU)**
+**[You Are Being Told Contradictory Things About AI: 8 examples](https://www.youtube.com/watch?v=iO844izo9kw)**
 
-DeepAgent just rolled out a finance upgrade that feels like a real shift. This version runs seven connected workflows that behave ...
+With headlines of an imminent job apocalypse, code red for ChatGPT and recursive self-improvement, at the same time as ...
 
-📺 AI Revolution
+📺 AI Explained
 
-👁️ 14K • 👍 606 • 💬 50 • ⏱️ 8:59 • 2d ago
+👁️ 12K • 👍 879 • 💬 181 • ⏱️ 20:16 • 3h ago
 
 ---
 
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=6DIFQm4MXYI)**
+**[John Lennox Exposes AI Connection to the Antichrist (And It&#39;s Disturbing)](https://www.youtube.com/watch?v=pFPrcAdr09c)**
 
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+Is Artificial Intelligence paving the way for the fulfillment of Biblical prophecy? In this video, Oxford mathematician and Christian ...
 
-📺 Impossible AIs
+📺 Elijah Zielke
 
-👁️ 330K • 👍 1K • 💬 51 • ⏱️ 8:09 • 1d ago
+👁️ 8K • 👍 297 • 💬 79 • ⏱️ 23:53 • 23h ago
 
 ---
 
@@ -641,7 +641,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 392 • 16h ago
+⭐ 5.1k • 🔱 392 • 17h ago
 
 ---
 

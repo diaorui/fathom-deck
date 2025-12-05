@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T19:53:40.688777+00:00'
+updated: '2025-12-05T20:19:00.302239+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 19:53 UTC  
+**Last Updated:** December 05, 2025 at 20:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 17h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
 
-23h ago
+1d ago
 
 ---
 
@@ -128,7 +128,7 @@ IEEE Spectrum • 2d ago
 
 Wise is building a team of experts in Silicon Valley to unify KUKA's software systems and apply AI to more robots.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -136,13 +136,13 @@ The Robot Report • 2h ago
 
 Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
-Investor's Business Daily • 22h ago
+Investor's Business Daily • 23h ago
 
 ---
 
@@ -174,7 +174,7 @@ Nasdaq • 1d ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 4h ago
+MIT News • 5h ago
 
 ---
 
@@ -182,7 +182,7 @@ MIT News • 4h ago
 
 Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
 
-MLive.com • 23h ago
+MLive.com • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 52K • 👍 425 • 💬 217 • ⏱️ 2:30 • 2d ago
+👁️ 55K • 👍 442 • 💬 220 • ⏱️ 2:30 • 2d ago
 
 ---
 
@@ -206,7 +206,27 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 16K • 👍 120 • 💬 1 • ⏱️ 0:19 • 6h ago
+👁️ 32K • 👍 166 • 💬 4 • ⏱️ 0:19 • 7h ago
+
+---
+
+**[ChatGPT in a real robot does what experts warned.](https://www.youtube.com/watch?v=byQmJ9x0RWA)**
+
+Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.com/insideai to get an exclusive 60% off Please ...
+
+📺 InsideAI
+
+👁️ 531K • 👍 22K • 💬 3K • ⏱️ 14:58 • 5d ago
+
+---
+
+**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
+
+Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
+
+📺 Unitree Robotics
+
+👁️ 430K • 👍 1K • 💬 275 • ⏱️ 1:06 • 2d ago
 
 ---
 
@@ -216,7 +236,17 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 87K • 💬 562 • ⏱️ 1:21 • 2d ago
+👁️ 89K • 💬 568 • ⏱️ 1:21 • 2d ago
+
+---
+
+**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.youtube.com/watch?v=XvXNEYbIBYw)**
+
+Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be ...
+
+📺 CBS News
+
+👁️ 8K • 👍 167 • 💬 105 • ⏱️ 4:05 • 21h ago
 
 ---
 
@@ -226,27 +256,15 @@ XPeng's new humanoid robot, IRON, went viral after the company cut it open on st
 
 📺 CNET
 
-👁️ 540K • 👍 3K • 💬 538 • ⏱️ 5:04 • 5d ago
+👁️ 540K • 👍 3K • 💬 541 • ⏱️ 5:04 • 5d ago
 
 ---
 
-**[MobED | Robotics LAB | Hyundai Motor Group](https://www.youtube.com/watch?v=WfaYrxCwad0)**
+**[New Humanoid ‘Jena’ Unveiled at the 2025 Robot Expo. #robotics #humanoidrobot #robot #ai](https://www.youtube.com/watch?v=XVHKg1DNMg4)**
 
-Go Anywhere, Do anything, For everyone : MobED Learn more ...
+📺 AI . Robot
 
-📺 Hyundai Motor Group
-
-👁️ 60K • 👍 539 • 💬 34 • ⏱️ 3:01 • 2d ago
-
----
-
-**[Tesla Optimus vs. Figure 03 vs. EngineAI T800](https://www.youtube.com/watch?v=jNZrmIjI6EA)**
-
-Which one is the most humanlike? First, Tesla shared a 5-second clip of its Optimus humanoid robot running the EV maker's ...
-
-📺 Kalil 4.0
-
-👁️ 25K • 👍 157 • 💬 31 • ⏱️ 0:14 • 22h ago
+👁️ 394K • 👍 4K • 💬 42 • ⏱️ 0:19 • 4d ago
 
 ---
 
@@ -256,33 +274,17 @@ Inside a high-security robotics lab in Los Angeles, a next-gen humanoid robot is
 
 📺 AI Robot Lab
 
-👁️ 342K • 👍 3K • 💬 26 • ⏱️ 0:34 • 3d ago
+👁️ 373K • 👍 3K • 💬 27 • ⏱️ 0:34 • 3d ago
 
 ---
 
-**[This Robot Girl Tried To Sell Me A Wife At Tech Expo](https://www.youtube.com/watch?v=UBF3X1ASuug)**
+**[MobED | Robotics LAB | Hyundai Motor Group](https://www.youtube.com/watch?v=WfaYrxCwad0)**
 
-I Asked Robot Receptionist About My Wife And Got This Response All visuals created with AI video generators and Human Edited ...
+Go Anywhere, Do anything, For everyone : MobED Learn more ...
 
-📺 SYN:THETIC_BLOOD
+📺 Hyundai Motor Group
 
-👁️ 553K • 👍 7K • 💬 183 • ⏱️ 0:16 • 2d ago
-
----
-
-**[New Humanoid ‘Jena’ Unveiled at the 2025 Robot Expo. #robotics #humanoidrobot #robot #ai](https://www.youtube.com/watch?v=XVHKg1DNMg4)**
-
-📺 AI . Robot
-
-👁️ 392K • 👍 4K • 💬 42 • ⏱️ 0:19 • 4d ago
-
----
-
-**[Humanoid AI Girlfriend Robot Enters the Market #robot #shorts #humanoidrobot](https://www.youtube.com/watch?v=L_XDzIzz6o8)**
-
-📺 Robotics
-
-👁️ 337K • 👍 3K • 💬 40 • ⏱️ 0:25 • 4d ago
+👁️ 62K • 👍 584 • 💬 35 • ⏱️ 3:01 • 2d ago
 
 ---
 

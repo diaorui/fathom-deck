@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T19:53:40.680611+00:00'
+updated: '2025-12-05T20:19:00.292981+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 19:53 UTC  
+**Last Updated:** December 05, 2025 at 20:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,000.00
+### $89,639.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.2%  
-**7d:** -1.5%  
-**30d:** -11.7%  
-**90d:** -19.7%  
-**1y:** -10.2%  
+**24h:** -2.9%  
+**7d:** -1.6%  
+**30d:** -11.8%  
+**90d:** -19.8%  
+**1y:** -10.3%  
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-17m ago
+42m ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Hi I’m new to this. I don’t have a lot of money to put into it but wanted to start with 100. It’s ok ?
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hi I’m new to this. I don’t have a lot of money to put into it but wanted to
 
 Im only up 3000% now
 
-17h ago
+18h ago
 
 ---
 
@@ -133,7 +133,7 @@ Im only up 3000% now
 
 Most people let their wallet software generate their private key, which is totally fine but Bitcoin doesn’t require a computer to create one. A Bitcoin private key is just a 256-bit number… And a fair coin flip produces 1 bit of entropy. So in theory (and in practice), you can generate a completely valid, secure Bitcoin private key by doing: Heads = 1 Tails = 0 The math is simple. 256 coin flips is 2^256 potential outcomes. Once you have your 256-bit binary sequence, you can convert it offline into: hex format WIF private key or even a BIP39 seed phrase All without touching the internet. You could also do this with dice, a dice roll is roughly 2.585 bits of entropy. Therefore 99-100 dice rolls will give you enough entropy for a 256 bit private key. This works because Bitcoin’s security comes from math. I mean how could you not love Bitcoin!
 
-1h ago
+2h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 4h ago
 
 Bitcoin falls below $90,000 again as liquidations, weak ETF flows, macro pressure and PCE inflation data shape market sentiment.
 
-Yahoo Finance • 35m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -307,17 +307,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 1K • 💬 271 • ⏱️ 10:13 • 5h ago
-
----
-
-**[What Happens to Bitcoin When the Fed Finally Cuts?](https://www.youtube.com/watch?v=nrSuqkGl1t4)**
-
-Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break down the growing divisions inside the Federal ...
-
-📺 Anthony Pompliano
-
-👁️ 22K • 👍 865 • 💬 27 • ⏱️ 28:20 • 21h ago
+👁️ 22K • 👍 1K • 💬 317 • ⏱️ 10:13 • 5h ago
 
 ---
 
@@ -327,47 +317,37 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 326 • 💬 363 • ⏱️ 15:38 • 14h ago
+👁️ 12K • 👍 354 • 💬 378 • ⏱️ 15:38 • 14h ago
 
 ---
 
-**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
+**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
 
-As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
+Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
 
-📺 Swan Bitcoin
+📺 Benjamin Cowen
 
-👁️ 61K • 👍 3K • 💬 322 • ⏱️ 18:48 • 22h ago
-
----
-
-**[&quot;The Bitcoin Collapse Has Started!&quot; Do NOT Be Fooled!!](https://www.youtube.com/watch?v=MqdAC_se7vY)**
-
-I'm Selling EVERYTHING!” Why Tom Crown Is Cashing Out of Bitcoin 50% deposit bonus on first $100 on WEEX: ...
-
-📺 Altcoin Daily
-
-👁️ 65K • 👍 3K • 💬 412 • ⏱️ 17:04 • 2d ago
+👁️ 59K • 👍 4K • 💬 315 • ⏱️ 15:38 • 8h ago
 
 ---
 
-**[Tom Lee: &quot;Ethereum Could Go To $62,000 Within A Few Months&quot;](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
+**[bitcoin is about to change forever (and nobody even realises)](https://www.youtube.com/watch?v=fE1XaJjBwkg)**
 
-LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
+bitcoin is having some massive changes and I see nobody talking about them. future is bright fam Check out Casa's free guide on ...
 
-📺 Altcoin Daily
+📺 BTC Isla
 
-👁️ 61K • 👍 4K • 💬 481 • ⏱️ 11:16 • 18h ago
+👁️ 4K • 👍 745 • 💬 147 • ⏱️ 10:23 • 3h ago
 
 ---
 
-**[Crypto Alert: Here&#39;s What Bitcoin Is Signalling Now](https://www.youtube.com/watch?v=1SvvvzpgDME)**
+**[BITCOIN FELL ON GOOD NEWS!](https://www.youtube.com/watch?v=ceuSRtnNJ8g)**
 
-Crypto update - Bitcoin is unprecedented territory Bybit $30000 Bonus: https://bit.ly/Bybit-ZG My Top Centralised Exchange (No ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 MoneyZG
+📺 My Financial Friend
 
-👁️ 6K • 👍 598 • 💬 197 • ⏱️ 11:07 • 5h ago
+👁️ 5K • 👍 383 • 💬 266 • ⏱️ 5:50 • 3h ago
 
 ---
 
@@ -377,27 +357,47 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 3K • 💬 304 • ⏱️ 23:27 • 19h ago
+👁️ 42K • 👍 3K • 💬 313 • ⏱️ 23:27 • 19h ago
 
 ---
 
-**[Bitcoin Hesitates As The Fed Prepares To Flood Markets! What&#39;s Next?](https://www.youtube.com/watch?v=4aAnKyuf_Vw)**
+**[Crypto Alert: Here&#39;s What Bitcoin Is Signalling Now](https://www.youtube.com/watch?v=1SvvvzpgDME)**
 
-Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative tightening, preparing to inject trillions in new ...
+Crypto update - Bitcoin is unprecedented territory Bybit $30000 Bonus: https://bit.ly/Bybit-ZG My Top Centralised Exchange (No ...
 
-📺 The Wolf Of All Streets
+📺 MoneyZG
 
-👁️ 26K • 👍 931 • 💬 383 • ⏱️ 35:57 • 1d ago
+👁️ 10K • 👍 751 • 💬 202 • ⏱️ 11:07 • 6h ago
 
 ---
 
-**[BITCOIN: THIS IS THE NEXT MOVE...](https://www.youtube.com/watch?v=80ZA2jW9K70)**
+**[Smart Money Is Front-Running Bitcoin 2026 (You’re Not Bullish Enough)](https://www.youtube.com/watch?v=TbxqNVtHs_s)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
+In today's video, Miles Deutscher breaks down why Bitcoin's reaction to fear is signalling the early stages of a 2026 liquidity cycle ...
 
-📺 Crypto Rover
+📺 Miles Deutscher Finance
 
-👁️ 10K • 👍 613 • 💬 67 • ⏱️ 9:41 • 15h ago
+👁️ 2K • 👍 144 • 💬 151 • ⏱️ 49:07 • 4h ago
+
+---
+
+**[A New Dangerous Era Starts [Crypto Holders Be Ready]](https://www.youtube.com/watch?v=RvyvISqMMko)**
+
+Trump, Bitcoin, stocks, and crypto updates ! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT ...
+
+📺 Lark Davis
+
+👁️ 16K • 👍 814 • 💬 128 • ⏱️ 52:39 • 8h ago
+
+---
+
+**[What Happens to Bitcoin When the Fed Finally Cuts?](https://www.youtube.com/watch?v=nrSuqkGl1t4)**
+
+Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break down the growing divisions inside the Federal ...
+
+📺 Anthony Pompliano
+
+👁️ 23K • 👍 895 • 💬 27 • ⏱️ 28:20 • 22h ago
 
 ---
 

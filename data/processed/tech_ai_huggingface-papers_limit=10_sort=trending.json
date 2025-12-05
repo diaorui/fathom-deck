@@ -92,7 +92,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 5200,
+      "github_stars": 5229,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65787,
+      "github_stars": 65800,
       "project_page": null
     },
     {
@@ -153,25 +153,6 @@
       "project_page": "https://fapo-rl.github.io/"
     },
     {
-      "id": "2509.22186",
-      "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing",
-      "authors": "Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "We introduce MinerU2.5, a 1.2B-parameter document parsing vision-language\nmodel that achieves state-of-the-art recognition accuracy while maintaining\nexceptional computational efficiency. Our approach employs a coarse-to-fine,\ntwo-stage parsing strategy that decouples global layout analysis from local\ncontent recognition. In the first stage, the model performs efficient layout\nanalysis on downsampled images to identify structural elements, circumventing\nthe computational overhead of processing high-resolution inputs. In the second\nstage, guided by the global layout, it performs targeted content recognition on\nnative-resolution crops extracted from the original image, preserving\nfine-grained details in dense text, complex formulas, and tables. To support\nthis strategy, we developed a comprehensive data engine that generates diverse,\nlarge-scale training corpora for both pretraining and fine-tuning. Ultimately,\nMinerU2.5 demonstrates strong document parsing ability, achieving\nstate-of-the-art performance on multiple benchmarks, surpassing both\ngeneral-purpose and domain-specific models across various recognition tasks,\nwhile maintaining significantly lower computational overhead.",
-      "ai_summary": "MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.",
-      "hf_url": "https://huggingface.co/papers/2509.22186",
-      "arxiv_url": "https://arxiv.org/abs/2509.22186",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.22186.png",
-      "upvotes": 135,
-      "num_comments": 2,
-      "published_at": "2025-09-26T06:45:48.000Z",
-      "github_repo": "https://github.com/opendatalab/MinerU",
-      "github_stars": 49865,
-      "project_page": "https://opendatalab.github.io/MinerU/"
-    },
-    {
       "id": "2508.03680",
       "title": "Agent Lightning: Train ANY AI Agents with Reinforcement Learning",
       "authors": "Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/microsoft/agent-lightning",
       "github_stars": 9379,
       "project_page": "https://www.microsoft.com/en-us/research/project/agent-lightning/"
+    },
+    {
+      "id": "2511.16624",
+      "title": "SAM 3D: 3Dfy Anything in Images",
+      "authors": "SAM 3D Team, Xingyu Chen, Fu-Jen Chu et al. (23 authors)",
+      "organization_name": "facebook",
+      "organization_fullname": "AI at Meta",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1592839207516-noauth.png",
+      "summary": "We present SAM 3D, a generative model for visually grounded 3D object reconstruction, predicting geometry, texture, and layout from a single image. SAM 3D excels in natural images, where occlusion and scene clutter are common and visual recognition cues from context play a larger role. We achieve this with a human- and model-in-the-loop pipeline for annotating object shape, texture, and pose, providing visually grounded 3D reconstruction data at unprecedented scale. We learn from this data in a modern, multi-stage training framework that combines synthetic pretraining with real-world alignment, breaking the 3D \"data barrier\". We obtain significant gains over recent work, with at least a 5:1 win rate in human preference tests on real-world objects and scenes. We will release our code and model weights, an online demo, and a new challenging benchmark for in-the-wild 3D object reconstruction.",
+      "ai_summary": "SAM 3D is a generative model that reconstructs 3D objects from single images using a multi-stage training framework that includes synthetic pretraining and real-world alignment, achieving high performance in human preference tests.",
+      "hf_url": "https://huggingface.co/papers/2511.16624",
+      "arxiv_url": "https://arxiv.org/abs/2511.16624",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
+      "upvotes": 106,
+      "num_comments": 3,
+      "published_at": "2025-11-20T13:31:46.000Z",
+      "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
+      "github_stars": 4432,
+      "project_page": "https://ai.meta.com/sam3d/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-05T02:56:25.382618+00:00"
+  "fetched_at": "2025-12-05T04:26:20.649794+00:00"
 }

@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 135731,
-      "likes": 2077,
+      "likes": 2079,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-12-02T11:54:58.000Z",
@@ -114,7 +114,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/apple/starflow.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1653390727490-5dd96eb166059660ed1ee413.jpeg",
       "downloads": 0,
-      "likes": 198,
+      "likes": 199,
       "pipeline_tag": null,
       "num_parameters": null,
       "last_modified": "2025-12-02T01:12:08.000Z",
@@ -144,7 +144,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/Fara-7B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583646260758-5e64858c87403103f9f1055d.png",
       "downloads": 27269,
-      "likes": 413,
+      "likes": 414,
       "pipeline_tag": "image-text-to-text",
       "num_parameters": "8.3B",
       "last_modified": "2025-12-01T15:20:36.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-12-05T03:53:06.802664+00:00"
+  "fetched_at": "2025-12-05T04:26:32.229967+00:00"
 }

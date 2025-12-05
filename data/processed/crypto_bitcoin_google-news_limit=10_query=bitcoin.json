@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin (BTC) Price News: Bulls Face Key Test at $93K",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUFtUUZPZXBvR0FxYTh4aTRaR1YxcWxvRHJGLU1YcWdoZ1dqaDhZVTE1OWhxMnZaWkNYR21aMXNOYzRZeFlhai1Zc1FXYUswTjkweWpsdWxVRmpIQmlqNjVVUkZfdEQwZ2wzb3M5V1ViSmg5MWkwbzdvU0ZXY29wTGhXMUVmMG9WQ3NUbExJbmVUYmU5Q2E5Unhxc0h5MTNWd3hxMWd6NnRfTXV0WU1qWk1wM2ljRmhZSGhPVm5yRktBMFc2RkI0Ug?oc=5",
-      "pub_date": 1764800467.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/03/crypto-rally-stumbles-bitcoin-slips-back-to-usd92k-as-microsoft-lowers-ai-sales-goals",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/600ea7deef0c237a3e3a263759c0ab9719f15643-2246x1188.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Bitcoin shot up 10% in two days, but it's stalling at around the 2025 yearly open."
+      "headline": "Bitcoin breaks above $92,000: 'A Santa rally is certainly not off the cards'",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd2d5bWVVd3dmcjdZeG5Ldnlhd1FoRFVROWdBUFVYUW1GYmhwelVhSHliaTRvNDJpMEZPaXB1VGVmdXFIX1ZuTjdZTk1DVW5ncGZLVjdSMjdVb01rYnVadzBhUXJEc2lJYzloa1RmQmNVaW5Wdk1Cd19JRWl4alhZNUQ0SldjbFhyNnhBV1BuTUxjOWhZUzFxNGd1YTRXb0pLNWtUMFFmOXJ1QUpBR05DbVhCX2JKSUty?oc=5",
+      "pub_date": 1764775372.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-breaks-above-92000-a-santa-rally-is-certainly-not-off-the-cards-152252559.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/.Z5tyxKY78q5nSzRFNKQXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/5af69a20-a8e5-11eb-bf7f-5f2e9fe992ce",
+      "description": "Bitcoin prices held above $92,000, signaling that a run to $100,000 isn't off the table."
     },
     {
       "headline": "Bitcoin has plunged. Strategy Inc is an early victim",
@@ -25,42 +25,12 @@
       "description": null
     },
     {
-      "headline": "Why Michael Saylor's Strategy could hold the key for the whole bitcoin market",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGNUcjVTZE1XVW0ySldXWHhNdHZuTklUQU9NT1ozYlBZeWNLeFI4OHJCLXRqNFM0UEZPcVZBT3BhWFd1ekRBZFZlUzF0LTVrdG9hTUNWNlVVbzBvSGZYd25kdkM1TTF3T3h3QjV2UmFvZW9ESElOVkVTZGp5SF9wU0hoS0drb04yZmNDcDBIdTV2dVVkcWRsNUthS2VKNW96cmZVOC1aQVZpZkljYzc0NWFGUQ?oc=5",
-      "pub_date": 1764859950.0,
-      "article_url": "https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108235235-1764690992444-gettyimages-2247743557-img_6813.jpeg?v=1764691074&w=1920&h=1080",
-      "description": "Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts."
-    },
-    {
-      "headline": "Michael Saylor\u2019s Strategy may have BlackRock to thank for the 11% rise in Bitcoin",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclRPQVBtSmI1RG5mTndDZHFTYXVSNFRkbno4OTVsQ1pEWUJZRFJmdzgzX1JYNS0xTV9MUjR2LWdCNDhwMnZaT0RCWnE5LWNWbkQ0YXNvUVhRaGUyOU92TkEtX0Z4UkloTFlPRE9zVWphVUZ2b0d0b3E4eFJVNUlHbnBmbWtKZw?oc=5",
-      "pub_date": 1764850620.0,
-      "article_url": "https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-1491618289-e1739538790764.jpg?resize=1200,600",
-      "description": "BlackRock\u2019s ETF now owns 3.9% of all existing Bitcoin, more than Strategy."
-    },
-    {
       "headline": "Bitcoin\u2019s Predicted Sky-High Prices Have Not Panned Out",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLV80ZjAtYy1HdlV4aVRkWXk0Rk0tOWtSM3JGNHpOVThqZEZpMGR3ZUMzR2xXVExaVXlZQnpoRE9LU0ZkT1F2WXlVbDBTbzdka1p0cW91RlRSWjBGRkpPWkY2dmVrV3NRTUdCZG9XR1dFZldZWVFlVmt3d3MyS01VTzFWUnJIb2RJWlpKclFOaw?oc=5",
       "pub_date": 1764756144.0,
       "article_url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "With bitcoin down to around $92,000, should you rethink how much crypto to own? Here\u2019s what experts say.",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNUXp2VUx4YXcyLXJmTWVKYW1vU3hodERsR0JHQjZQa1k0SUlqRHM0ZnRvT19KM3QxenpCcWJubkhDOHB1azZpbUE2d3h2cHk0YTNWUHZWTVlxcHFBbFBYdUhBR3JzaWwybFNQT0p1UFlLTXZBM2gzMUc5Vk5aak5CNmxqSFkzeVo5SDNYOFBJLWFzd3JxLXV0UnNyMV9QcHlaWDkwcEJvUXhjMHE5N3FJdEFIV2tNNmdRNHdBY09LM0pCZFU2VlBuMHJzaUJEUzlvazNiTDd1Si1aNW5UakJlakZFalI0VDI0MmtzaS1BZXdOZWc3cDZDb3lvc3M2dFVXb2x4aUNKLU0xSUJsR0tJQnpZcjZnc3cwb0JwelRWaTBoR2JOMFRMWGczMnVsSVY1VWltdmJmQnhPMk5xZW5yeHlkQlVPeTNlRGdGeGtyU3dqWnVTTGhNUl8yQVJZM0lUVjBzRkRUZ1JxejdkQU5FQ3BCSzhVcGFWX2hHTXR2Tkgyckx3blRoV0I3azNSNmZ6M0V5TUZpWUhuSE1pQkp4Uzg3XzFwTzF4dTJDZFEySWJpYnJrM1RzZERkZGVqakVUTmotbVpWM2hNMDA5eEplRVl1N1l0S3FhVUhkeEhZVQ?oc=5",
-      "pub_date": 1764880980.0,
-      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeIIpdyXNCEIs21RiS9XbI8tDuS8WFNM2v5G-6upmuvySEPw7SptTop&gaa_ts=69325a6b&gaa_sig=Sivlu6dxvtBiGjwmlilS-RF3GYpA-dv8m8KqoHd8OJ5WouO5fL616dJYO0wC9YEEG_jmuL7A0jyY-pMg2wXVYw%3D%3D",
       "image": null,
       "description": null
     },
@@ -88,9 +58,9 @@
       "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPYW5paHBkN1FtTV9uemhZVk0xODR3bXUwbHhqd2RnSnkxbkFrUUpkZmZBOVlKRjZ1UzRGcjBqdHd1R1Z6dDh5U0pFVkJSNDF6YXBFZWNvRjNnRFJzWGZSQU5Bd0xJY2pqc2RhVG5mVWZmX2c3emRMdEpwMFJxMWxEOE8tWFJKUEpqenhuR1lKZjBPdFFmNkgzUFRtYmJzVWtxSGgycU1QN2xVa1oxMU1zY2ZDQmFaTEljazNTbjJJeW10dlRhb1VlMVNoY2VkV3RqWXNVTGlvMmVjcXhxUklXamd6eHNLdXA4NE1ZUmJhYVgzdTdmVnEyRWZObV8zYkRmUkNZTG9GNWRsZHdJV1JHVVpaTnpvRDRGb0NERElJWDlfMzlkUWg0SGZtWm5kSXpheTV4MW9YOEgxRXQyb2NDazhFNG5KOFFPZTA2bklMcU9UYnZMeHYzN1FuN25RcElqdDg2TXloR0JjRUNSRkF0aV9KNDI5TDNyLTlQdlprdDVFZjFSUGZZV2xMbUUyZlViU1ByWXZxcU1CSlNtMG45Z1lDVkVWdEFLbExB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOZ1hSOVBSLVBzYzVNbDZxaEFsSHo4SkxtNHNPZWJrdGphUTlQd0labERzYzRQcXJXbENIdjhfLUx0ejl4UlV6UDI3bUx5dlppYWxDUnBiRW9tbUwtWTRidHlVaDdaMnJVbk9hVHpoRlRwSUZuZkJUSTBzeDhlaGNURVBnSnhRWG53RGI1Rzd3SVJIQmNSZVNoWEwyWW1EZklxRWNfNXQ1VVd2eTBkZ2ZJR2JYZ1FnMDZlOE96emxNQ3RYSVhfeWFaNzNuQnlhMmdPTWtzWm5pU0FyLXFNaVlFNFA3SjZPSVVhOWl2SzBlS05GWUdjRXJRMVpSZXMwM2JBaGtTanRDcDYxcmZhcTFCVlA2M2ZaMTl0MGdoOGhwZUFLLTgzM2xkQzU5aDBWeGlGZk1FcTROclR2N29ReFhpTVF5MDhMeWZ3SGpfRUNXZ0VpLTJyUTJnaW40cXIyWWZBN3Q5WXpVTFpheXl1bkJGZHB6QnJRSWdQbFNmYlZZUUxVaGdVV1RpbmtBQnJMODJ0REpuR1ZsSXZ4bzZvMVpRdW05T1pUc085SXRn?oc=5",
       "pub_date": 1764716700.0,
-      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdF9w8EcbN2MROiHBaxdfDG543N5SgDqnI5MqMOsFM1jDhlbEaj88Lb&gaa_ts=69325a6b&gaa_sig=FzxxJR8wpfMtu-j21tfOXI-QXV3G-dwQAROa-nWB-QLewWyBVjt9xELI6Ik7gDq7T5zloKKLxgLcFVgmpQ1Drw%3D%3D",
+      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdULdLM1to8sHb8TpcQMiBPofMQHqxqRaoUSJjCz1__8t-V5V0WjMUD&gaa_ts=69326270&gaa_sig=3Wqn8pKyZAOzhb_oLnJsm_8eEhOuqQU5cI_LpEI4qIHGzn96cX4icdmqXWX3IhpgnfNbhdiXMwgHRplbORGPqg%3D%3D",
       "image": null,
       "description": null
     },
@@ -103,8 +73,38 @@
       "article_url": "https://www.coindesk.com/markets/2025/12/04/usd4b-bitcoin-etf-outflows-in-oct-nov-reflect-basis-trade-unwind-not-capitulation-research-analyst",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7990c1aee6dc662da6a92e4675c895b7b28cf2b-1920x1080.jpg?auto=format",
       "description": "Recent outflows from U.S.-listed spot bitcoin ETFs were driven by specific arbitrage trade closures, not widespread institutional panic."
+    },
+    {
+      "headline": "Vanguard has a change of heart on crypto, lists Bitcoin and other ETFs",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLU5maUtfOHExRXp4aDkxdGRjUHZmQUIzRGJ5RnIwMnZwNVU3RzhDUmNtUjRvM3A0UE9TSzdtZWpaRG16R25UeFpuc2xkYkw5Zi1rRGEzM1plOHpjQktJeEJZUXFpN0FzakczTEI5NWo3NTJQRW9zY3NpMDE3emJFajZfM1ZiMU82QkVYeHZzTEY0T1JrTzlBcWoySGNiQU45U3V3?oc=5",
+      "pub_date": 1764711840.0,
+      "article_url": "https://fortune.com/2025/12/02/vanguard-has-a-change-of-heart-on-crypto-lists-bitcoin-and-other-etfs/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1772102313-e1764708480251.jpg?resize=1200,600",
+      "description": "The brokerage firm, long averse to crypto, will let traders buy and sell blockchain-wrapped funds."
+    },
+    {
+      "headline": "Bitcoin sell-off halts Trump family's crypto windfall",
+      "source": "ABC News",
+      "source_url": "https://abcnews.go.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmlWMDNZVUtjS1dsWHFyaTdfMnhSMTEta1J0WGZDTlJ0czUxcFlJeV95Y0pUSGRVZG0tSmE3MlVxMDNGb1pBZjlWOF9uZXlZVlJncTRldWtaMDRRMm5NelRQN216N0I1YldHSVNja0Nsb3FpUDliZk12aTVaZEd6TVkzaW1FeUZRcWtBcWl2WkhTS1JGbExzUDFIRFlnUdIBowFBVV95cUxQVGxtTWthQ3gxRS1QUUpYZFd0RTB0OXVPYm5STk1sLWJPUzZLeGRhVUM0NzBfcm1IaGdqdVNESG9leWZpTHpkUDFsaEpDbG94d0FjOTlpRGNZOFZDWF9ZeGhNMkRzRHNzOHpDVGNZQWNDamdQR0R2Ni1PVkhtVmpsQUpyZHdLVzgxelQwNzU3RmFkMXNOOXB3UmFRV1IzUGItc2Q4?oc=5",
+      "pub_date": 1764696059.0,
+      "article_url": "https://abcnews.go.com/US/bitcoin-sell-off-halts-trump-familys-crypto-windfall/story?id=128035773",
+      "image": "https://i.abcnewsfe.com/a/cb51083f-cd27-4bf8-8f01-4b848cd3d681/donald-trump-5-ap-gmh-251201_1764611758255_hpMain_16x9.jpg?w=1600",
+      "description": "Due to a recent downturn in bitcoin, the Trump family has had roughly a billion dollars of their net worth erased in just a matter of weeks, according to estimates."
+    },
+    {
+      "headline": "The Bitcoin Canary in the Coalmine? - American Enterprise Institute",
+      "source": "American Enterprise Institute - AEI",
+      "source_url": "https://www.aei.org",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lVzBVakdqTDEwdGNDczBsMnduOFQxakMyT2M0eTMtSUNKR3ByWEVPNUZfYlZ5SS0yaVNFVjI4ZmVicHpxUjFIRmlNcGJ0eGZWS1pkSHZxOEg1NkZ0M2tIbGUzbi1YdVdSWGNPdHQtMTlvYlk?oc=5",
+      "pub_date": 1764625009.0,
+      "article_url": "https://www.aei.org/economics/the-bitcoin-canary-in-the-coalmine/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T03:53:22.738660+00:00"
+  "fetched_at": "2025-12-05T04:26:38.630233+00:00"
 }

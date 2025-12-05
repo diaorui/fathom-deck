@@ -24,15 +24,15 @@
       "description": null
     },
     {
-      "title": "\ud83e\udde1 Thank You Satoshi, for Bitcoin",
-      "author": "DardMiner1982",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/",
-      "published": 1764864084.0,
-      "thumbnail": "https://preview.redd.it/4bp35l21n75g1.jpeg?width=640&crop=smart&auto=webp&s=62ef9d97ad2d4351f44ecc938d7fdd0f99e5af20",
+      "title": "The Struggle\u2026.",
+      "author": "Frostdotco",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1peipkt/the_struggle/",
+      "published": 1764899977.0,
+      "thumbnail": "https://preview.redd.it/uec2picrla5g1.jpeg?width=320&crop=smart&auto=webp&s=dbea9253f1c94507af8133b82e78aa0018c84d3b",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Sometimes we forget the obvious: without Satoshi, BTC wouldn\u2019t exist and our entire crypto journey wouldn\u2019t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. \ud83d\ude80"
+      "description": "Im only up 3000% now"
     },
     {
       "title": "Found this invoice in my old email",
@@ -44,17 +44,6 @@
       "site_name": null,
       "favicon": null,
       "description": "\ud83d\udc80"
-    },
-    {
-      "title": "The Struggle\u2026.",
-      "author": "Frostdotco",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1peipkt/the_struggle/",
-      "published": 1764899977.0,
-      "thumbnail": "https://preview.redd.it/uec2picrla5g1.jpeg?width=320&crop=smart&auto=webp&s=dbea9253f1c94507af8133b82e78aa0018c84d3b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Im only up 3000% now"
     },
     {
       "title": "Bitcoin in 2025",
@@ -77,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "\ud83e\udde1 Thank You Satoshi, for Bitcoin",
+      "author": "DardMiner1982",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/",
+      "published": 1764864084.0,
+      "thumbnail": "https://preview.redd.it/4bp35l21n75g1.jpeg?width=640&crop=smart&auto=webp&s=62ef9d97ad2d4351f44ecc938d7fdd0f99e5af20",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Sometimes we forget the obvious: without Satoshi, BTC wouldn\u2019t exist and our entire crypto journey wouldn\u2019t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. \ud83d\ude80"
     },
     {
       "title": "Broke .1 finally!",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-05T03:52:57.452119+00:00"
+  "fetched_at": "2025-12-05T04:26:21.195697+00:00"
 }

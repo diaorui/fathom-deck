@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T23:31:37.815695+00:00'
+updated: '2025-12-05T23:44:30.643705+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 23:31 UTC  
+**Last Updated:** December 05, 2025 at 23:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -3.5%  
-**7d:** -2.1%  
-**30d:** -12.3%  
-**90d:** -20.2%  
-**1y:** -10.8%  
+**7d:** -2.0%  
+**30d:** -12.2%  
+**90d:** -20.1%  
+**1y:** -10.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1777.04B
+**Market Cap:** $1782.02B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.3%
+-29.2%
 
 **All-Time Low:** $67.81
-+131317.2%
++131598.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -157,9 +157,19 @@ Bloomberg.com • 6h ago
 
 ---
 
-**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqd-NumkNWAvS02o4mPZ_mPhE28xyUaZCPe_VQj_k2e3xv6F39pP88FC&gaa_ts=69336a91&gaa_sig=zdPLlIEJ0E_ujc4aMFCABqAQeFtz6Be0LrfzVutqFICzscfcybL3QxX-wCy6Moj4lWWDIOSNxGdbtXu8Oqcn9A%3D%3D)**
+**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
 
-Barron's • 2d ago
+Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Stocks Are Leaving Bitcoin Behind: Evening Briefing Americas](https://www.bloomberg.com/news/newsletters/2025-12-05/stocks-are-leaving-bitcoin-behind-evening-briefing-americas)**
+
+Get caught up.
+
+Bloomberg.com • 16m ago
 
 ---
 
@@ -199,15 +209,9 @@ The New York Times • 2d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdCOUtKg4EiDnWboNV9kkH9sbEmjojQGOqudb55EnsHjSUkOLZgPNu2&gaa_ts=69336a91&gaa_sig=fcAFVSai4LPrxw6vNpXvLG6Uk1I59tSczA28StPKbF0gdRmyJMYdYudYUxxiuH3vpdx9T_9qOpUGIFeWfiSHsg%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdwWixt8PylydQ9sO0RDZQ-cOyou43CkqDXSRacP5rQYReDIvlBQ3B8&gaa_ts=693371cd&gaa_sig=YCRCLdAenNGgRR8mfvOSzTKEiZUvK9BP9licCgZ_eHfzVoAonYXYPVZnsj_bT3CePWaKvLJrC7XbCVbWhSggqg%3D%3D)**
 
 MarketWatch • 1d ago
-
----
-
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdbo-15c63H4ur2UckjD5eE8u4nJTx2mWKQe6wE94AfYuVmwZrPEYlH&gaa_ts=69336a91&gaa_sig=FFo4Y-HBK2g8h9MF6oSsMzRWK_t6Qy0pTZDgHW0jgFItkZL_WdoJvTKHJDc5Y9ruSk_0vL2VaL9f9nZwgpSupQ%3D%3D)**
-
-The Wall Street Journal • 3d ago
 
 ---
 

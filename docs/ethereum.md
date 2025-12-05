@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T23:31:37.820937+00:00'
+updated: '2025-12-05T23:44:30.649666+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 23:31 UTC  
+**Last Updated:** December 05, 2025 at 23:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,24 +45,24 @@ Live Ethereum monitoring dashboard
 **24h:** -4.0%  
 **7d:** +1.0%  
 **30d:** -9.0%  
-**90d:** -30.0%  
+**90d:** -30.1%  
 **1y:** -24.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $363.82B
+**Market Cap:** $364.87B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.0%
+-38.9%
 
 **All-Time Low:** $0.43
-+696150.9%
++698204.1%
 
 ---
 
@@ -104,7 +104,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 11h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 12h ago
 
 ---
 
@@ -192,6 +192,14 @@ Nasdaq • 1d ago
 
 ---
 
+**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
+
+Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
+
+Decrypt • 1d ago
+
+---
+
 **[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
@@ -208,19 +216,11 @@ cheddar.com • 1d ago
 
 ---
 
-**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
+**[Bitcoin Vs. Ethereum And The Flippening Lubin Predicts](https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/)**
 
-Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
+Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH’s utility loop, Bitcoin’s scarcity, and why money is entering a multi-form future.
 
-Decrypt • 1d ago
-
----
-
-**[Jane Street Leads $105M Funding for Antithesis, a Testing Tool Used by Ethereum Network](https://www.coindesk.com/business/2025/12/03/jane-street-leads-usd105m-funding-for-antithesis-a-testing-tool-used-by-ethereum-network)**
-
-Antithesis said its Series A will scale deterministic simulation testing, replaying complex failures exactly for crypto and other always-on systems.
-
-CoinDesk • 2d ago
+Forbes • 3d ago
 
 ---
 
@@ -234,7 +234,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 69K • 👍 4K • 💬 541 • ⏱️ 11:16 • 21h ago
+👁️ 69K • 👍 4K • 💬 541 • ⏱️ 11:16 • 22h ago
 
 ---
 
@@ -244,7 +244,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 900 • 👍 33 • 💬 264 • ⏱️ 5:24 • 9h ago
+👁️ 900 • 👍 33 • 💬 264 • ⏱️ 5:24 • 10h ago
 
 ---
 
@@ -294,7 +294,7 @@ Ethereum is finally showing signs of a major reversal, and the charts suggest th
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 414 • 💬 98 • ⏱️ 59:34 • 6h ago
+👁️ 6K • 👍 414 • 💬 98 • ⏱️ 59:34 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T23:31:37.808288+00:00'
+updated: '2025-12-05T23:44:30.635451+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 23:31 UTC  
+**Last Updated:** December 05, 2025 at 23:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,6 +61,12 @@ An AI image generator startup’s database was left accessible to the open inter
 
 ---
 
+**[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
+
+2h ago
+
+---
+
 **[Using AI as a "blandness detector" instead of a content generator](https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/)**
 
 Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
@@ -85,15 +91,17 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 ---
 
-**[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
-
-2h ago
-
----
-
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
 1d ago
+
+---
+
+**[Are real-time rewards and punishments via social media the next logical step?](https://www.reddit.com/r/artificial/comments/1pf9z4g/are_realtime_rewards_and_punishments_via_social/)**
+
+Obviously algorithms and bots already massively twist people's perceptions of each other on social media. They boost controversial posts and ones that shift your focus quickly, as well as propaganda that the company owning the platform wants you to see. And of course they tend to boost trolling and infighting in groups they don't like, especially leftist and anti-capitalist ones. Old news. But as AI gets better at both processing social media content and generating fake content, I wonder if it will be used for more direct mental manipulation. Like if you interact positively with a post the algorithm "likes", it won't only show you more like it, it will show you something you like to give you a little dopamine or make you feel more at home with the accounts you're following, and if you engage with something it doesn't like it will do the opposite. Eventually it could do the same in response to things you do in real life, using location data, security cameras etc. Basically the same way someone emotionally abusive tries to manipulate you, or the way nazis and other fascist groups target lonely people and accept them only if they go along with their beliefs, I'm thinking tech companies could possibly do that on a larger scale. Is this possible / coming soon / already happening? I'm interested to hear your opinions. And is there any information out there on this? I could have sworn I saw an article headline predicting something about it a few years ago but I never read it and now I can't find it
+
+21m ago
 
 ---
 
@@ -101,13 +109,7 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 20m ago
-
----
-
-**[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
-
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 1d ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 33m ago
 
 ---
 
@@ -123,43 +125,33 @@ The Keyword • 7h ago
 
 ---
 
-**[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
+**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-The New York Times • 10h ago
-
----
-
-**[New York Times sues AI startup for ‘illegal’ copying of millions of articles](https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit)**
-
-Perplexity AI also faces lawsuit from Murdoch-owned Dow Jones and New York Post for its use of copyrighted content
-
-The Guardian • 4h ago
+The New York Times • 13h ago
 
 ---
 
-**[New York Times sues Perplexity AI for 'illegal' copying of content](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
+**[Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term](https://www.fool.com/investing/2025/12/05/got-3k-artificial-intelligence-ai-stocks-buy-hold/)**
 
-Reuters • 6h ago
+These companies were great investments before the artificial intelligence (AI) boom and should remain worthy long-term holds for the foreseeable future.
+
+The Motley Fool • 4h ago
 
 ---
 
-**[Is This AI Software Stock About to Have Its Nvidia Moment?](https://finance.yahoo.com/news/ai-software-stock-nvidia-moment-222000721.html)**
+**[Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More Than Palantir in 2026](https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-225000360.html)**
+
+Palantir stock has gained more than 2,000% since the AI revolution kicked off three years ago.
+
+Yahoo Finance • 54m ago
+
+---
+
+**[Is This AI Software Stock About to Have Its Nvidia Moment?](https://www.aol.com/articles/ai-software-stock-nvidia-moment-222000316.html)**
 
 Nvidia is the dominant player in the AI hardware market, and Palantir could occupy a similar position on the software side.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Is this AI software stock about to have its Nvidia moment?](https://www.msn.com/en-us/money/companies/is-this-ai-software-stock-about-to-have-its-nvidia-moment/ar-AA1RO7yu?ocid=finance-verthp-feeds)**
-
-MSN • 22m ago
-
----
-
-**[Nvidia Stock Rises. What Foxconn, HPE Sales Say About AI Chip Demand.](https://www.barrons.com/articles/nvidia-stock-price-foxconn-hpe-ai-servers-40ed27d1?gaa_at=eafs&gaa_n=AWEtsqc1VvpCNh6rSazC-SG5R7mSM1P9E3sHH7cHquxllRMcKKxZpQvpeqOO&gaa_ts=69336a8f&gaa_sig=9Kr2iadtjQf2t_e-pLC4uWWInUB-AYJGZKqtWaOaH4hoUYTGteDrEJFGG1F1pCLaCIt27RECwIHvgk6YENNdmg%3D%3D)**
-
-Barron's • 12h ago
+AOL.com • 1h ago
 
 ---
 
@@ -167,13 +159,7 @@ Barron's • 12h ago
 
 Anthropic is challenging the world’s biggest AI players with a bold mission: to build systems that are both powerful and aligned with human values. The company’s president and cofounder, Daniela Amodei, will join WIRED’s Steven Levy for a candid conversation about Anthropic’s “constitutional” approach to AI safety, the race to develop ever-smarter models, and how to balance innovation with accountability.
 
-WIRED • 31m ago
-
----
-
-**[Man Says that Grok AI Saved His Life after an ER Misdiagnosis](https://www.tipranks.com/news/man-says-that-grok-ai-saved-his-life-after-an-er-misdiagnosis)**
-
-TipRanks • 1h ago
+WIRED • 44m ago
 
 ---
 
@@ -181,7 +167,29 @@ TipRanks • 1h ago
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-CNBC • 3h ago
+CNBC • 4h ago
+
+---
+
+**[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
+
+Reuters • 4h ago
+
+---
+
+**[Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)**
+
+Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
+
+TechCrunch • 2h ago
+
+---
+
+**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
+
+While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
+
+Fortune • 1d ago
 
 ---
 
@@ -193,7 +201,7 @@ CNBC • 3h ago
 
 : Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
 
-⬆️ 1048 • 💬 604 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+⬆️ 1048 • 💬 605 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 
 ---
 
@@ -201,7 +209,7 @@ CNBC • 3h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 945 • 💬 1048 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 945 • 💬 1049 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -217,7 +225,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 673 • 💬 639 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 674 • 💬 639 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -233,7 +241,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 267 • 💬 130 • 7h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 286 • 💬 137 • 7h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -249,7 +257,7 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 
 Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume
 
-⬆️ 237 • 💬 190 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
+⬆️ 237 • 💬 191 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 
 ---
 
@@ -385,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,132 • 3d ago
+⬇️ 152,916 • ❤️ 2,133 • 3d ago
 
 ---
 
@@ -421,7 +429,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 1,509 • ❤️ 331 • 3d ago
+⬇️ 1,509 • ❤️ 332 • 3d ago
 
 ---
 
@@ -433,7 +441,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 285 • 21h ago
+⬇️ 12,984 • ❤️ 287 • 21h ago
 
 ---
 
@@ -681,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 825 • 🔱 103 • 1h ago
+⭐ 825 • 🔱 103 • 2h ago
 
 ---
 
@@ -691,7 +699,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 28m ago
+⭐ 822 • 🔱 42 • 41m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T14:11:24.057313+00:00'
+updated: '2025-12-05T14:37:50.180911+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 14:11 UTC  
+**Last Updated:** December 05, 2025 at 14:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,662.64
+### $90,588.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -0.2%  
-**30d:** -10.6%  
-**90d:** -18.7%  
-**1y:** -9.1%  
+**24h:** -2.9%  
+**7d:** -0.6%  
+**30d:** -11.0%  
+**90d:** -19.0%  
+**1y:** -9.5%  
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I finally sold all my bitcoin, it would be a shame if it pumps now, right? I really really hope it doesn't!! 😉 🙏🙏
 
-2h ago
+3h ago
 
 ---
 
@@ -107,7 +107,7 @@ Im only up 3000% now
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -143,7 +143,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 .2 next, just wanted to share with someone
 
-15h ago
+16h ago
 
 ---
 
@@ -155,7 +155,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 5h ago
 
 Analysts argue this could mean institutional investors are continuing to unwind leveraged positions and basis trades.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ MSN • 1h ago
 
 Bitcoin's big drop from a record price has led to questions about crypto's correlation to the broader market, and what it really represents in a portfolio.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -351,7 +351,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 337 • ⏱️ 47:51 • 22h ago
+👁️ 31K • 👍 2K • 💬 337 • ⏱️ 47:51 • 23h ago
 
 ---
 
@@ -371,7 +371,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 380 • ⏱️ 11:16 • 12h ago
+👁️ 51K • 👍 3K • 💬 380 • ⏱️ 11:16 • 13h ago
 
 ---
 
@@ -381,7 +381,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 16K • 👍 2K • 💬 127 • ⏱️ 15:38 • 2h ago
+👁️ 16K • 👍 2K • 💬 127 • ⏱️ 15:38 • 3h ago
 
 ---
 

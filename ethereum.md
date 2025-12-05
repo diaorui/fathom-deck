@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T14:11:24.063367+00:00'
+updated: '2025-12-05T14:37:50.186987+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 14:11 UTC  
+**Last Updated:** December 05, 2025 at 14:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** +4.3%  
-**30d:** -6.0%  
-**90d:** -27.8%  
-**1y:** -21.9%  
+**24h:** -3.0%  
+**7d:** +3.9%  
+**30d:** -6.4%  
+**90d:** -28.1%  
+**1y:** -22.2%  
 
 ---
 
@@ -88,7 +88,7 @@ Trump crypto empire falls faster than bitcoin
 
 I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was part of their Private Clients program with the portfolio boost. On October 10th, 2025, around 23:00 CET, the Nexo app completely stopped working for me. I couldn’t add USDT, swap, manage my loan, nothing. I was literally inside the app trying to fix it, and I have screen-time proof showing it was frozen. At 23:12 I suddenly got an email saying my LTV changed to 76.92%. At 23:20 I got another email telling me my collateral had been fully liquidated. When I finally managed to get back into the app at 00:26 CET, everything was gone. My entire $123K portfolio was wiped out while I was stuck watching the app glitch out. This isn’t even the first time something like this has happened. Coinfomania reported in April 2025 that Nexo had already been accused of unfair liquidations worth $10 million. People were saying the same thing back then: the app wasn’t working and they only got two emails before losing everything. Nexo is registered in the Cayman Islands and acts like it’s untouchable. They ignore EU and US courts and even ignore letters from lawyers who represent affected users. And Antoni Trenchev is nowhere to be found. When Binance had system issues, they actually compensated their users. Nexo stayed silent. They didn’t just liquidate me, they took everything while their own platform was offline. Since my situation happened, a lot of people have reached out with almost identical stories. Same timeline, same type of outage, same zero response from Nexo. At this point it’s obvious we won’t get anywhere alone. If you had a similar experience, we need to organize together and take collective action. Nexo isn’t giving anyone answers on their own. #Nexo #CryptoScam #DeFi #NexoDown #CryptoJustice
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 2h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 3h ago
 
 ---
 
@@ -112,7 +112,7 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 13h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 14h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[🚀 Ethereum Fusaka is Live: The “Unsung Hero” Upgrade You Need to Know About](https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/)**
 
-🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 21h ago
+🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 380 • ⏱️ 11:16 • 12h ago
+👁️ 51K • 👍 3K • 💬 380 • ⏱️ 11:16 • 13h ago
 
 ---
 
@@ -246,7 +246,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 12K • 👍 1K • 💬 98 • ⏱️ 31:23 • 4h ago
+👁️ 12K • 👍 1K • 💬 98 • ⏱️ 31:23 • 5h ago
 
 ---
 
@@ -256,7 +256,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 30K • 👍 2K • 💬 107 • ⏱️ 17:37 • 20h ago
+👁️ 30K • 👍 2K • 💬 107 • ⏱️ 17:37 • 21h ago
 
 ---
 
@@ -276,7 +276,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 255 • 💬 302 • ⏱️ 15:38 • 8h ago
+👁️ 6K • 👍 255 • 💬 302 • ⏱️ 15:38 • 9h ago
 
 ---
 

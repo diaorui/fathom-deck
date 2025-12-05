@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T14:11:24.048904+00:00'
+updated: '2025-12-05T14:37:50.172382+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 14:11 UTC  
+**Last Updated:** December 05, 2025 at 14:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -91,7 +91,7 @@ Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRE
 
 Podcaster faces up to 70 years and a $3.5 million fine for ChatGPT-linked stalking.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2025/12/chatgpt-hyped-up-violent-stalker-who-believed-he-was-gods-assassin-doj-says/) • 36m ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2025/12/chatgpt-hyped-up-violent-stalker-who-believed-he-was-gods-assassin-doj-says/) • 1h ago
 
 ---
 
@@ -99,7 +99,7 @@ Podcaster faces up to 70 years and a $3.5 million fine for ChatGPT-linked stalki
 
 Hey everyone, here is the 10th issue of Hacker News x AI newsletter, a newsletter I started 10 weeks ago as an experiment to see if there is an audience for such content. This is a weekly AI related links from Hacker News and the discussions around them. AI CEO demo that lets an LLM act as your boss, triggering debate about automating management, labor, and whether agents will replace workers or executives first. Link to HN Tooling to spin up always-on AI agents that coordinate as a simulated organization, with questions about emergent behavior, reliability, and where human oversight still matters. Link to HN Thread on AI-driven automation of work, from “agents doing 90% of your job” to macro fears about AGI, unemployment, population collapse, and calls for global governance of GPU farms and AGI research. Link to HN Debate over AI replacing CEOs and other “soft” roles, how capital might adopt AI-CEO-as-a-service, and the ethical/economic implications of AI owners, governance, and capitalism with machine leadership. Link to HN If you want to subscribe to this newsletter, you can do it here: https://hackernewsai.com/
 
-48m ago
+1h ago
 
 ---
 
@@ -107,7 +107,7 @@ Hey everyone, here is the 10th issue of Hacker News x AI newsletter, a newslette
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 50m ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 1h ago
 
 ---
 
@@ -117,7 +117,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 **[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
 
-The New York Times • 56m ago
+The New York Times • 1h ago
 
 ---
 
@@ -131,7 +131,7 @@ Axios • 1h ago
 
 A controversial executive order dictating America’s AI policy has MAGA scrambling against the White House and its Special Adviser on AI and Crypto.
 
-The Verge • 56m ago
+The Verge • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Anthropic • 21h ago
 
 **[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
-The Washington Post • 5m ago
+The Washington Post • 32m ago
 
 ---
 
@@ -243,7 +243,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 413 • 💬 319 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 413 • 💬 319 • 23h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -267,7 +267,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 192 • 💬 91 • 15h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 192 • 💬 91 • 16h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -301,7 +301,7 @@ This New AI literally does everything — slides, sites, brand kits, emails, cal
 
 📺 AI Revolution
 
-👁️ 12K • 👍 456 • 💬 32 • ⏱️ 8:37 • 16h ago
+👁️ 12K • 👍 456 • 💬 32 • ⏱️ 8:37 • 17h ago
 
 ---
 
@@ -371,7 +371,7 @@ As AI systems become more capable, rule-based safeguards, hard-coded restriction
 
 📺 Computerphile
 
-👁️ 19K • 👍 774 • 💬 171 • ⏱️ 21:21 • 19h ago
+👁️ 19K • 👍 774 • 💬 171 • ⏱️ 21:21 • 20h ago
 
 ---
 
@@ -641,7 +641,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 391 • 10h ago
+⭐ 5.1k • 🔱 391 • 11h ago
 
 ---
 
@@ -661,7 +661,7 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 `TypeScript` `git` `pre-commit-hook`
 
-⭐ 1.1k • 🔱 47 • 5d ago
+⭐ 1.1k • 🔱 47 • 6d ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 802 • 🔱 102 • 5m ago
+⭐ 802 • 🔱 102 • 32m ago
 
 ---
 

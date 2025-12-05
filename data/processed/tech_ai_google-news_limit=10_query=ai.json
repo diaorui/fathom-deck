@@ -5,22 +5,12 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNazhnN0pQaWZoUjdfTUI5eW1QVFZNYWtPMEx3bUpaaTczTFM3cGlHNXQyVUJaOHctd3hCWktVWTNNeUVHbU5FdWpvQU5WSWlhUjZFRmtJdkw4Qjc1WU1aT1ZOUXRicUI3ekFHb2x5ak5xZXpNSjdiQXRxQjZKeXJ1dU81TDhzZjR4VzUwU2Y3Rzc3TXJRY1FRbjViVkNSMmlsWklXeTJuUGJHX0xlZDdrNmRPM2Z5YVZDbV9Gb3UzeTd3NnVVbXBnYWVhR2Y4czRZeHY5Y3dZYng4RVlkTmVpNEhfN1BXZFNQc0dxX0IxSFh3UnVTb1ZENXZocm5UeU5nMDAxUzFiRVNBeHRUZEZ1REVjZWlCZ2lvc25QMkZFY3J5dzl3OXlmQ0Z1dF9CY0plLXc?oc=5",
-      "pub_date": 1764864660.0,
-      "article_url": "https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1260047116-e1764863526884.jpg?resize=1200,600",
-      "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
-    },
-    {
-      "headline": "ChatGPT started the AI race. Now its lead is looking shaky.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem8wQjlxQVN2RUZIbW1udnlkZmhzSmFGVkx2bHU3clE1dFN6T096NXN6bmNZLWpWMGM0Y1VEUEVKMy1JWkFjN3pEUWc4bmZvTng4RWQ1Y0xQWmszVFpDbWNYRlpIcmRiR2VYZnNmUzhESHpaQ2lPUlp1cF9fcHNWeFNpeldpRU5MU05n?oc=5",
-      "pub_date": 1764939724.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/",
+      "headline": "New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWU5zX3ptYUtzT0xMVjkwRTVpaTdQRm14aUJ3QnBMQmRkOHJxcW9tdU44NE5MZDhSR2trNXFHSEw2S3N3ODFrYVJRa1FpZUlrbUZ4RElibU5ZOGhpQmJBRWQzdW91ZVpfQkc0LUlfRnpSeDlUaGIycnR2T1dVZVF6eXVEUk9VODhkR0JXZXFkc2M?oc=5",
+      "pub_date": 1764940498.0,
+      "article_url": "https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html",
       "image": null,
       "description": null
     },
@@ -29,30 +19,50 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VQklkdEVMNlo5dDVvVzBYaTZkS3A5MkJROF9ReGtrazk3NC1IaTBlV2NQU0hlOWExR082TE9XQnVsempSSU5aYTN5RGY3cU5IOXJmdkw3M1R5LW1kZ09RQVZGVFdNZnlMOFVELTlIdw?oc=5",
-      "pub_date": 1764939581.0,
+      "pub_date": 1764939681.0,
       "article_url": "https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI Slop Is Ruining Reddit for Everyone",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FN0Z2c2R5Sk42dEYxWFMzVUtQX1RfTlpCQlZSZzhkVGo4UFUwUVo2TmUwRDVvRVpNaFdIN1ZrLUl1eVo4RkRpZGtxSS1EMDU3cWlyUUFlSUIwUEZuV3N4VGRsNUVHTXlwT3NidHZtQkJFTUxNMGc?oc=5",
-      "pub_date": 1764936000.0,
-      "article_url": "https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/",
-      "image": "https://media.wired.com/photos/692f329c56ed04538b1ea189/191:100/w_1280,c_limit/Die-Hard-Redditors-Feeling-Pushed-out-by-AI-Culture-.jpg",
-      "description": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits."
+      "headline": "The far right is mobilizing against Trump AI czar David Sacks",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNczJXVmZtanF2WGhrUWM3TGItRHlqTWVJVjRXZ0MtR3dtOUh0MlZPVkJ0ZWY5dVY3ZWFSOVMwXzVPUDdWUmlfdzNlY21pb19BSk5BYmdoUGFXbW5WY0ozMFpnMjZzcFgtNHppTTRzdV9vX0p1SXlBSW5pdFdhWjRDeGRjcGZuWkRCOG95WjhrM3Mzd2h5a2IwckdR?oc=5",
+      "pub_date": 1764940521.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/838776/maga-ai-executive-order-david-sacks",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP213_DAVID_SACKS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "A controversial executive order dictating America\u2019s AI policy has MAGA scrambling against the White House and its Special Adviser on AI and Crypto."
     },
     {
-      "headline": "Dr. Michio Kaku on AI's 'double-edged sword' and job displacement fears",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SUGowTW1FS01VN01NaDB0UUtIdHFVYURnWkJzZVdraTB0NzdmVmRjSi0zSW85dmdVNm8wX1N3aUFKVFlpZFVjU0pyZ050Nm1uZmE2YlN3?oc=5",
-      "pub_date": 1764937812.0,
-      "article_url": "https://www.foxnews.com/video/6386032064112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e96e5262-dbe4-45c3-8877-e6889739354a/91c54b6b-dd0a-43ae-bd06-fc78ddf65dfc/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to blackmail, on 'The Story.'"
+      "headline": "Dambisa Moyo on Gold, Bitcoin, AI and the UK",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTNGLXR5UXo3dVlGd0lveTFLSktzc1FPanlMa29wODJVVGNfZ2RJS01HN2JEd2hPbHRFOWJvLWlfYkpoaVpvOGw0N3ZDTHJWQXZ3RmFCZVZfMVlxN2daOEdWYjJfNzFEVkZCb0FfLVd5dWkwajYzUGZhTXhsdlF6QkhiQmlnVXhmbnhCSzZvYlNzeWoyQTlWcVZZR01YOFVjSmJpemFNSkRYdUVSMDhYQWppNA?oc=5",
+      "pub_date": 1764940096.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2025-12-05/economist-dambisa-moyo-on-ai-bubble-bitcoin-gold-uk-economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHcY8IKVP17I/v0/1200x800.jpg",
+      "description": "The economist shares her views on what\u2019s holding back the UK and where we are in the AI bubble."
+    },
+    {
+      "headline": "Microsoft's Copilot+ AI PC plan fizzled, but it still served a purpose",
+      "source": "Engadget",
+      "source_url": "https://www.engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNkk5U19FOXF6d2E5VHNVZDNYaUxFcnJnMXlxVWdVdjNkUXE4RUhtM2xjdjFFd0pWTXU1cEh4cjBleTVNdXNpV29TMFJsQlJud0ZPd1pJTFJGU0ExNTBKb1FtaHJSSHV0bi1IbTRhRmxzYU5Xa2YwUlpaVzA2T3poRThsWUtmemVhOUhDSnh4ekk5TEhlQXVfVlRSWDh5OF9NcXppYXFQN3BuV28zTjZ0UGdnYzA2bzZkenhteEhiUld0QmM?oc=5",
+      "pub_date": 1764939600.0,
+      "article_url": "https://www.engadget.com/computing/laptops/microsofts-copilot-ai-pc-plan-fizzled-but-it-still-served-a-purpose-130000239.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/3MeFjff41LDtZHNuL4zw.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzI-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/9c1f1230-3310-11ef-bab7-bb286fa69975_%281%29.jpeg",
+      "description": "Microsoft's Copilot+ AI PC plan launched with a ton of hype, but the company has little to show for it today."
+    },
+    {
+      "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNazhnN0pQaWZoUjdfTUI5eW1QVFZNYWtPMEx3bUpaaTczTFM3cGlHNXQyVUJaOHctd3hCWktVWTNNeUVHbU5FdWpvQU5WSWlhUjZFRmtJdkw4Qjc1WU1aT1ZOUXRicUI3ekFHb2x5ak5xZXpNSjdiQXRxQjZKeXJ1dU81TDhzZjR4VzUwU2Y3Rzc3TXJRY1FRbjViVkNSMmlsWklXeTJuUGJHX0xlZDdrNmRPM2Z5YVZDbV9Gb3UzeTd3NnVVbXBnYWVhR2Y4czRZeHY5Y3dZYng4RVlkTmVpNEhfN1BXZFNQc0dxX0IxSFh3UnVTb1ZENXZocm5UeU5nMDAxUzFiRVNBeHRUZEZ1REVjZWlCZ2lvc25QMkZFY3J5dzl3OXlmQ0Z1dF9CY0plLXc?oc=5",
+      "pub_date": 1764864660.0,
+      "article_url": "https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1260047116-e1764863526884.jpg?resize=1200,600",
+      "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
     },
     {
       "headline": "How AI is rewiring childhood | Dec 6th 2025",
@@ -75,6 +85,16 @@
       "description": "What 1,250 professionals told us about working with AI"
     },
     {
+      "headline": "ChatGPT started the AI race. Now its lead is looking shaky.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem8wQjlxQVN2RUZIbW1udnlkZmhzSmFGVkx2bHU3clE1dFN6T096NXN6bmNZLWpWMGM0Y1VEUEVKMy1JWkFjN3pEUWc4bmZvTng4RWQ1Y0xQWmszVFpDbWNYRlpIcmRiR2VYZnNmUzhESHpaQ2lPUlp1cF9fcHNWeFNpeldpRU5MU05n?oc=5",
+      "pub_date": 1764943546.0,
+      "article_url": "https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/",
       "image": "https://imageio.forbes.com/specials-images/imageserve/693133eaa5dc0082dddd0368/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "description": "Ali Ansari\u2019s decision to turn micro1\u2019s AI recruitment assistant into a data labeling business spiked the company\u2019s valuation from $80 million to $2.5 billion."
-    },
-    {
-      "headline": "Opinion | A.I. Technology Needs the Bubble to Burst",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3A1S3Z6OEN6OENwQ0E2YVl2RHRyd051WEVtLWV3enJGcmhVc3c4S25DLVg0SkxqU2RnWlk4XzlCc19ycG9kLWdqTTd5RHRwUnp0T0ZXY185aVhhMTVGOGxaTzFHeGtEMGhubHZPaC1wS2swN0J2VVcta1BVWXEtNUlKdGVVQ3M?oc=5",
-      "pub_date": 1764928902.0,
-      "article_url": "https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018It was about degrading someone completely\u2019: the story of Mr DeepFakes \u2013 the world\u2019s most notorious AI porn site",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMEJvbDI3cUhTR0pXVnhMb1lJTlFiYTcwX0ZFU1loUnUxVFpuRjVqS2w2Uk5YNEZOZ0QycXFVYXNpSk5lNFJCdUd4cnZpMFRCNUt4Q09YSUdZZnJrVlhWeW9MQTMyVmpOZ21qcDMyZEZndGsxckxCLV9ZVktkTTltSjljS0NGMk5Sam9wOEVreno3cmFXbHV3aFh0eUh2Tk94VzB4ekxsNEZnemZIdldVc3BuVHBqeXlzR1pJaWFyaDNnbXBPUDEzVlRtcGIyZElxUU1PRjJydjQyTDlQeWlxbHgyeUpKb2dDeGNTdWpJOU1YQ25ZM1hJT3VGTjhHdw?oc=5",
-      "pub_date": 1764922980.0,
-      "article_url": "https://www.theguardian.com/society/ng-interactive/2025/dec/05/it-was-about-degrading-someone-completely-the-story-of-mr-deepfakes-the-worlds-most-notorious-ai-porn-site",
-      "image": "https://i.guim.co.uk/img/media/d3093061b6e62e20f1cf8fa72d0ba1dd0f0d0563/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da704e2d32d95533ab740d211fc54d6b",
-      "description": "The hobbyists who helped build this site created technology that has been used to humiliate countless women. Why didn\u2019t governments step in and stop them?"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T13:27:52.786384+00:00"
+  "fetched_at": "2025-12-05T14:11:22.001124+00:00"
 }

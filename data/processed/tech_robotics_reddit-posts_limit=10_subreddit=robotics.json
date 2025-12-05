@@ -24,17 +24,6 @@
       "description": null
     },
     {
-      "title": "Behind-the-scenes footage from the EngineAI T800 shoot \u2014 a direct response to the CG accusations.",
-      "author": "Ready_Device8994",
-      "url": "https://www.reddit.com/r/robotics/comments/1peipg7/behindthescenes_footage_from_the_engineai_t800/",
-      "published": 1764899968.0,
-      "thumbnail": "https://external-preview.redd.it/vopCp3AoP3agRM_vVjx1qGQ2dEK42KQd5nQEj5DdiQA.jpeg?width=320&crop=smart&auto=webp&s=b4c4505fe2c220f8942da9db848c634ecdba635b",
-      "external_url": "https://www.youtube.com/watch?v=VoytjBgpG28",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
       "title": "AGIBOT D1 Pro",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1peuynn/agibot_d1_pro/",
@@ -46,33 +35,22 @@
       "description": "AGIBOT on \ud835\udd4f: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations\uff5e 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537"
     },
     {
+      "title": "Behind-the-scenes footage from the EngineAI T800 shoot \u2014 a direct response to the CG accusations.",
+      "author": "Ready_Device8994",
+      "url": "https://www.reddit.com/r/robotics/comments/1peipg7/behindthescenes_footage_from_the_engineai_t800/",
+      "published": 1764899968.0,
+      "thumbnail": "https://external-preview.redd.it/vopCp3AoP3agRM_vVjx1qGQ2dEK42KQd5nQEj5DdiQA.jpeg?width=320&crop=smart&auto=webp&s=b4c4505fe2c220f8942da9db848c634ecdba635b",
+      "external_url": "https://www.youtube.com/watch?v=VoytjBgpG28",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
       "title": "PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.",
       "author": "Important-Battle-374",
       "url": "https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/",
       "published": 1764912844.0,
       "thumbnail": "https://preview.redd.it/dsg58fxs665g1.png?width=640&crop=smart&auto=webp&s=df74ae3986191e470f38017b6aff1d3490a14bfa",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Marc Raibert on Why Robotics Needs More Transparency",
-      "author": "Responsible-Grass452",
-      "url": "https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/",
-      "published": 1764878463.0,
-      "thumbnail": "https://external-preview.redd.it/czZ0M2RhcXZrODVnMXDFs25VAGMQ7jD7P7IJtotqHhQXTfEBoVTtdkOU5sNG.png?width=640&crop=smart&auto=webp&s=1ce77a3ba16429df69e330a6878c87a7c4a26597",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin."
-    },
-    {
-      "title": "Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.",
-      "author": "jabestimmt",
-      "url": "https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/",
-      "published": 1764917767.0,
-      "thumbnail": "https://external-preview.redd.it/dHVtNTAxMzh3YjVnMY8hunvne-G1istBpMnnp_zGAnVmB3Gp1Lacn2gJ41YC.png?width=640&crop=smart&auto=webp&s=bc12e5929a11a7fc356697681205c441ddb0ca61",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -88,6 +66,28 @@
       "site_name": null,
       "favicon": null,
       "description": "For a long time, many robotics teams believed that real robot interaction data was the only reliable foundation for training generalist manipulation models. But real-world data collection is extremely expensive, slow, and fundamentally limited by human labor. Recent results suggest the landscape is changing. Three industry signals stand out: 1. InternData-A1: Synthetic data beats the strongest real-world dataset Shanghai AI Lab\u2019s new paper InternData-A1 (Nov 2025, arXiv) is the first to show that pure simulation data can match or outperform the best real-robot dataset used to train Pi0. The dataset is massive: 630k+ trajectories 7,434 hours 401M frames 4 robot embodiments, 18 skill types, 70 tasks $0.003 per trajectory generation cost One 8\u00d7RTX4090 workstation \u2192 200+ hours of robot data per day Results: On RoboTwin2.0 (49 bimanual tasks): +5\u20136% success over Pi0 On 9 real-world tasks: +6.2% success Sim-to-Real: 1,600 synthetic samples \u2248 200 real samples (\u22488:1 efficiency) The long-held \u201csimulation quality discount\u201d is shrinking fast. 2. GEN-0 exposes the economic impossibility of scaling real-world teleoperation Cross-validated numbers show: Human teleoperation cost per trajectory: $2\u2013$10 Hardware systems: $30k\u2013$40k 1 billion trajectories \u2192 $2\u201310 billion GEN-0\u2019s own scaling law predicts that laundry alone would require 1B interactions for strong performance. https://preview.redd.it/qd8pkcdpfd5g1.png?width=556&format=png&auto=webp&s=1df2607476d3e63f5ca32edae1bf7319d97f1176 Even with Tesla-level resources, this is not feasible. That\u2019s why GEN-0 relies on distributed UMI collection across thousands of sites instead of traditional teleoperation. 3. Tesla\u2019s Optimus shifts dramatically: from mocap \u2192 human video imitation Timeline: 2022\u20132024: Tesla used full-body mocap suits + VR teleop; operators wore ~30 lb rigs, walked 7 hours/day, paid up to $48/hr. May 21, 2025: Tesla confirms:\u201cOptimus is now learning new tasks directly from human videos.\u201d June 2025: Tesla transitions to a vision-only approach, dropping mocap entirely. Their demo showed Optimus performing tasks like trash disposal, vacuuming, cabinet/microwave use, stirring, tearing paper towels, sorting industrial parts \u2014 all claimed to be controlled by a single end-to-end network. 4. So is real robot data obsolete? Not exactly. These developments indicate a shift, not a disappearance: Synthetic data (InternData-A1) is now strong enough to pre-train generalist policies Distributed real data (GEN-0) remains critical for grounding and calibration Pure video imitation (Tesla) offers unmatched scalability but still needs validation for fine manipulation All major approaches still rely on a small amount of real data for fine-tuning or evaluation Open Questions: Where do you think the field is heading? A synthetic-first paradigm? Video-only learning at scale? Hybrid pipelines mixing sim, video, and small real datasets? Or something entirely new? Curious to hear perspectives from researchers, roboticists, and anyone training embodied agents."
+    },
+    {
+      "title": "Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.",
+      "author": "jabestimmt",
+      "url": "https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/",
+      "published": 1764917767.0,
+      "thumbnail": "https://external-preview.redd.it/dHVtNTAxMzh3YjVnMY8hunvne-G1istBpMnnp_zGAnVmB3Gp1Lacn2gJ41YC.png?width=640&crop=smart&auto=webp&s=bc12e5929a11a7fc356697681205c441ddb0ca61",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Marc Raibert on Why Robotics Needs More Transparency",
+      "author": "Responsible-Grass452",
+      "url": "https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/",
+      "published": 1764878463.0,
+      "thumbnail": "https://external-preview.redd.it/czZ0M2RhcXZrODVnMXDFs25VAGMQ7jD7P7IJtotqHhQXTfEBoVTtdkOU5sNG.png?width=640&crop=smart&auto=webp&s=1ce77a3ba16429df69e330a6878c87a7c4a26597",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin."
     },
     {
       "title": "A potentially highly efficient image and video tokenizer for LLMs/VLAs.",
@@ -112,5 +112,5 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     }
   ],
-  "fetched_at": "2025-12-05T13:27:33.754669+00:00"
+  "fetched_at": "2025-12-05T14:11:02.605022+00:00"
 }

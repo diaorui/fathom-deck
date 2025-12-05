@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T13:50:46.903814+00:00'
+updated: '2025-12-05T14:11:24.057313+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 13:50 UTC  
+**Last Updated:** December 05, 2025 at 14:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,612.16
+### $90,662.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -0.3%  
-**30d:** -10.7%  
+**24h:** -2.6%  
+**7d:** -0.2%  
+**30d:** -10.6%  
 **90d:** -18.7%  
-**1y:** -9.2%  
+**1y:** -9.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1816.98B
+**Market Cap:** $1807.57B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.9%
+-28.1%
 
 **All-Time Low:** $67.81
-+134045.4%
++133538.1%
 
 ---
 
@@ -77,17 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[The Struggle….](https://www.reddit.com/r/Bitcoin/comments/1peipkt/the_struggle/)**
-
-Im only up 3000% now
-
-11h ago
-
----
-
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
 10h ago
+
+---
+
+**[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
+
+1h ago
 
 ---
 
@@ -99,23 +97,17 @@ I finally sold all my bitcoin, it would be a shame if it pumps now, right? I rea
 
 ---
 
-**[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
+**[The Struggle….](https://www.reddit.com/r/Bitcoin/comments/1peipkt/the_struggle/)**
 
-59m ago
+Im only up 3000% now
+
+12h ago
 
 ---
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
 20h ago
-
----
-
-**[Found this invoice in my old email](https://www.reddit.com/r/Bitcoin/comments/1pe0mlp/found_this_invoice_in_my_old_email/)**
-
-💀
-
-23h ago
 
 ---
 
@@ -127,6 +119,14 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ---
 
+**[Found this invoice in my old email](https://www.reddit.com/r/Bitcoin/comments/1pe0mlp/found_this_invoice_in_my_old_email/)**
+
+💀
+
+1d ago
+
+---
+
 **[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
 
 13h ago
@@ -135,7 +135,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 **[Bitcoin in 2025](https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -167,7 +167,7 @@ Decrypt • 1h ago
 
 ---
 
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcz7GNyyudTZx2jt40TRcYTYbUx5LgvjyZj_Ow9P_-184tPqjmMThHr&gaa_ts=6932e146&gaa_sig=oGQ1gJm_Xu3tZN-s2OEolvhPPp1GRXCnqVpYk9eMqNXgFcocS1pqML19NZurZ9vVWI5CcETN3WeFDrvSg6rSbg%3D%3D)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqckqC1H9f2LiW-obIoaFCirFeQKx4ivD7g1TcjvPw5vYIOMMbjNNIjQ&gaa_ts=6932eb77&gaa_sig=Y8ABuRSos6EPYw3AfpUfEBAl5EuRfbjCYU-SdgneNdp89LquRoWnopMIIIBTEX2caIcBxgXc4pwnyHEZ06B6TQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -181,47 +181,47 @@ CNBC • 1d ago
 
 ---
 
-**[Why bitcoin could shoot to $170,000 in the next year, according to JPMorgan](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+**[Bitcoin falls as crypto rebound stalls. Why it may quickly restart.](https://www.msn.com/en-us/money/markets/bitcoin-falls-as-crypto-rebound-stalls-why-it-may-quickly-restart/ar-AA1RMwyf?ocid=finance-verthp-feeds)**
+
+MSN • 1h ago
+
+---
+
+**[Is bitcoin really digital gold? In 2025, the leading crypto has failed to answer that question](https://www.cnbc.com/2025/12/05/bitcoin-digital-gold-crypto-store-of-value.html)**
+
+Bitcoin's big drop from a record price has led to questions about crypto's correlation to the broader market, and what it really represents in a portfolio.
+
+CNBC • 1h ago
+
+---
+
+**[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
+
+The Economist • 1d ago
+
+---
+
+**[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
+
+Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
+
+CNBC • 23h ago
+
+---
+
+**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html)**
+
+A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
 
 JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
 Business Insider • 20h ago
-
----
-
-**[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
-
-The Block • 15h ago
-
----
-
-**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
-
-JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus](https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus)**
-
-The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high.
-
-CoinDesk • 7h ago
-
----
-
-**[Bitcoin Hits Two-Week High But Crypto Sentiment Remains Fragile](https://www.bloomberg.com/news/articles/2025-12-03/bitcoin-price-btc-hits-two-week-high-as-crypto-sentiment-remains-fragile)**
-
-Bitcoin extended a tentative rebound on Wednesday, climbing to a two-week high as traders look for signs that the wider crypto market may be regaining its footing after a prolonged selloff.
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin Falls as Crypto Rebound Stalls. Why It May Quickly Restart.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-fed-pce-6e68daba?gaa_at=eafs&gaa_n=AWEtsqfYNHxT9xoSKKeZHvudqYmudo0yRjcDYWstSYXEOtLisjmeHGHFgCIH&gaa_ts=6932e146&gaa_sig=VraNfG7CTRj1gAN2-Olo_vav35gRAAFaN3bxo-uUjuWM6Dssr06kxmLIjipsV9h0cCNV2l1Bq1Nh-YgK3NWqAw%3D%3D)**
-
-Barron's • 1h ago
 
 ---
 
@@ -263,7 +263,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Track the next Bitcoin halving event with live countdown and real-time block updates
 
-⬆️ 2 • 💬 0 • 3d ago • [bitcoinhalvingcountdown.com](https://bitcoinhalvingcountdown.com)
+⬆️ 2 • 💬 0 • 4d ago • [bitcoinhalvingcountdown.com](https://bitcoinhalvingcountdown.com)
 
 ---
 
@@ -321,7 +321,7 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 19K • 👍 771 • 💬 1 • ⏱️ 28:20 • 15h ago
+👁️ 19K • 👍 771 • 💬 1 • ⏱️ 28:20 • 16h ago
 
 ---
 
@@ -331,7 +331,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 3K • 💬 272 • ⏱️ 23:27 • 12h ago
+👁️ 34K • 👍 3K • 💬 272 • ⏱️ 23:27 • 13h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative t
 
 📺 The Wolf Of All Streets
 
-👁️ 25K • 👍 915 • 💬 366 • ⏱️ 35:57 • 22h ago
+👁️ 25K • 👍 915 • 💬 366 • ⏱️ 35:57 • 23h ago
 
 ---
 
@@ -401,7 +401,7 @@ Get my free newsletter Letters From a Heretic: https://go.heresy.financial/lette
 
 📺 Heresy Financial
 
-👁️ 82K • 👍 4K • 💬 959 • ⏱️ 16:08 • 1d ago
+👁️ 82K • 👍 4K • 💬 959 • ⏱️ 16:08 • 2d ago
 
 ---
 

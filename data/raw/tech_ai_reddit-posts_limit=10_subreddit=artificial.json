@@ -24,17 +24,6 @@
       "description": null
     },
     {
-      "title": "Florida teacher who used AI to make child pornography of students gets 135-year sentence",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/",
-      "published": 1764877826.0,
-      "thumbnail": null,
-      "external_url": "https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/",
-      "site_name": "wfla.com",
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup\u2019s Exposed Database",
       "author": "wiredmagazine",
       "url": "https://www.reddit.com/r/artificial/comments/1pet67v/huge_trove_of_nude_images_leaked_by_ai_image/",
@@ -44,6 +33,17 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "An AI image generator startup\u2019s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been \u201cnudified.\u201d"
+    },
+    {
+      "title": "Florida teacher who used AI to make child pornography of students gets 135-year sentence",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/",
+      "published": 1764877826.0,
+      "thumbnail": null,
+      "external_url": "https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/",
+      "site_name": "wfla.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "\"Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have.\" -Bernie Sanders",
@@ -79,6 +79,17 @@
       "description": "Lisa Su leads Nvidia\u2019s biggest rival in the AI chip market. When asked at WIRED\u2019s Big Interview event if AI is a bubble, company said \u201cEmphatically, from my perspective, no.\u201d"
     },
     {
+      "title": "ChatGPT hyped up violent stalker who believed he was \u201cGod\u2019s assassin,\u201d DOJ says",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pev7ll/chatgpt_hyped_up_violent_stalker_who_believed_he/",
+      "published": 1764941713.0,
+      "thumbnail": "https://external-preview.redd.it/Fuhq0zSp9EACxdVovM2PVADp8CbyWhbW_Ae-VARqQ4Q.jpeg?width=640&crop=smart&auto=webp&s=478a5b7004b12b91065755b190cdae2140499bf0",
+      "external_url": "https://arstechnica.com/tech-policy/2025/12/chatgpt-hyped-up-violent-stalker-who-believed-he-was-gods-assassin-doj-says/",
+      "site_name": "Ars Technica",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "description": "Podcaster faces up to 70 years and a $3.5 million fine for ChatGPT-linked stalking."
+    },
+    {
       "title": "A new AI winter is coming?, We're losing our voice to LLMs, The Junior Hiring Crisis and many other AI news from Hacker News",
       "author": "alexeestec",
       "url": "https://www.reddit.com/r/artificial/comments/1peuxj4/a_new_ai_winter_is_coming_were_losing_our_voice/",
@@ -99,18 +110,7 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits."
-    },
-    {
-      "title": "Popular RAM brand Crucial axed, so its owners can focus on \"faster-growing segments\" like AI",
-      "author": "Tiny-Independent273",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdyaiz/popular_ram_brand_crucial_axed_so_its_owners_can/",
-      "published": 1764849844.0,
-      "thumbnail": "https://external-preview.redd.it/ouQdCwCVbHckpQ7eAiWKkfakSImuJ2bh4Cls5200cLM.jpeg?width=640&crop=smart&auto=webp&s=e00ad65819ba523a3d41beacf9017c3e6d25bb41",
-      "external_url": "https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/",
-      "site_name": "PC Guide",
-      "favicon": "https://www.pcguide.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
-      "description": "Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls \u201cfaster-growing segments.\""
     }
   ],
-  "fetched_at": "2025-12-05T13:27:29.947858+00:00"
+  "fetched_at": "2025-12-05T14:11:01.188020+00:00"
 }

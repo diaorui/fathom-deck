@@ -46,17 +46,6 @@
       "description": "saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made."
     },
     {
-      "title": "Highlights from the All Core Developers Execution (ACDE) Call #225",
-      "author": "Y_K_C_",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pego5o/highlights_from_the_all_core_developers_execution/",
-      "published": 1764894384.0,
-      "thumbnail": "https://external-preview.redd.it/K1RcM0LAadD7-6wwPZdTDKsNMd1iU6IoBFkKvn3bc54.png?width=640&crop=smart&auto=webp&s=539183c7c9064c060e9a9f3e9986f6338b07c25e",
-      "external_url": "https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/",
-      "site_name": "EtherWorld.co",
-      "favicon": "https://etherworld.co/content/images/size/w256h256/2023/03/new-logo--3--2.png",
-      "description": "A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade."
-    },
-    {
       "title": "Ethereal news weekly #1 | \ud83e\udd93 Fusaka upgrade live on mainnet \u26a0\ufe0f Client diversity: Lighthouse 55% \ud83c\udf82 Beacon chain 5th anniversary",
       "author": "abcoathup",
       "url": "https://www.reddit.com/r/ethereum/comments/1pesttx/ethereal_news_weekly_1_fusaka_upgrade_live_on/",
@@ -66,6 +55,17 @@
       "site_name": "ethereal.news",
       "favicon": "https://ethereal.news/favicon.svg",
       "description": "Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary"
+    },
+    {
+      "title": "Highlights from the All Core Developers Execution (ACDE) Call #225",
+      "author": "Y_K_C_",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pego5o/highlights_from_the_all_core_developers_execution/",
+      "published": 1764894384.0,
+      "thumbnail": "https://external-preview.redd.it/K1RcM0LAadD7-6wwPZdTDKsNMd1iU6IoBFkKvn3bc54.png?width=640&crop=smart&auto=webp&s=539183c7c9064c060e9a9f3e9986f6338b07c25e",
+      "external_url": "https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/",
+      "site_name": "EtherWorld.co",
+      "favicon": "https://etherworld.co/content/images/size/w256h256/2023/03/new-logo--3--2.png",
+      "description": "A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade."
     },
     {
       "title": "Daily General Discussion December 04, 2025",
@@ -112,5 +112,5 @@
       "description": "a wonderful fusaka day to you all - original post if you want to help boost on twitter!"
     }
   ],
-  "fetched_at": "2025-12-05T13:27:32.431574+00:00"
+  "fetched_at": "2025-12-05T14:11:01.205022+00:00"
 }

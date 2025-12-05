@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T13:50:46.895409+00:00'
+updated: '2025-12-05T14:11:24.048904+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 13:50 UTC  
+**Last Updated:** December 05, 2025 at 14:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 15h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 16h ago
 
 ---
 
@@ -51,17 +51,17 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 ---
 
-**[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
-
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 18h ago
-
----
-
 **[Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database](https://www.reddit.com/r/artificial/comments/1pet67v/huge_trove_of_nude_images_leaked_by_ai_image/)**
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 1h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 2h ago
+
+---
+
+**[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
+
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 18h ago
 
 ---
 
@@ -75,7 +75,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 2h ago
+🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 3h ago
 
 ---
 
@@ -83,7 +83,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRED’s Big Interview event if AI is a bubble, company said “Emphatically, from my perspective, no.”
 
-🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 18h ago
+🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 19h ago
+
+---
+
+**[ChatGPT hyped up violent stalker who believed he was “God’s assassin,” DOJ says](https://www.reddit.com/r/artificial/comments/1pev7ll/chatgpt_hyped_up_violent_stalker_who_believed_he/)**
+
+Podcaster faces up to 70 years and a $3.5 million fine for ChatGPT-linked stalking.
+
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2025/12/chatgpt-hyped-up-violent-stalker-who-believed-he-was-gods-assassin-doj-says/) • 36m ago
 
 ---
 
@@ -91,7 +99,7 @@ Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRE
 
 Hey everyone, here is the 10th issue of Hacker News x AI newsletter, a newsletter I started 10 weeks ago as an experiment to see if there is an audience for such content. This is a weekly AI related links from Hacker News and the discussions around them. AI CEO demo that lets an LLM act as your boss, triggering debate about automating management, labor, and whether agents will replace workers or executives first. Link to HN Tooling to spin up always-on AI agents that coordinate as a simulated organization, with questions about emergent behavior, reliability, and where human oversight still matters. Link to HN Thread on AI-driven automation of work, from “agents doing 90% of your job” to macro fears about AGI, unemployment, population collapse, and calls for global governance of GPU farms and AGI research. Link to HN Debate over AI replacing CEOs and other “soft” roles, how capital might adopt AI-CEO-as-a-service, and the ethical/economic implications of AI owners, governance, and capitalism with machine leadership. Link to HN If you want to subscribe to this newsletter, you can do it here: https://hackernewsai.com/
 
-27m ago
+48m ago
 
 ---
 
@@ -99,15 +107,7 @@ Hey everyone, here is the 10th issue of Hacker News x AI newsletter, a newslette
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 29m ago
-
----
-
-**[Popular RAM brand Crucial axed, so its owners can focus on "faster-growing segments" like AI](https://www.reddit.com/r/artificial/comments/1pdyaiz/popular_ram_brand_crucial_axed_so_its_owners_can/)**
-
-Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls “faster-growing segments."
-
-🔗 [PC Guide](https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/) • 1d ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 50m ago
 
 ---
 
@@ -115,45 +115,53 @@ Micron has confirmed that it is exiting the Crucial consumer business so it can 
 
 ## Google News: "ai"
 
-**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
+**[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
 
-While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
-
-Fortune • 21h ago
-
----
-
-**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
-
-The Washington Post • 48m ago
+The New York Times • 56m ago
 
 ---
 
 **[Exclusive: Meta strikes multiple AI deals with news publishers](https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers)**
 
-Axios • 51m ago
+Axios • 1h ago
 
 ---
 
-**[AI Slop Is Ruining Reddit for Everyone](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)**
+**[The far right is mobilizing against Trump AI czar David Sacks](https://www.theverge.com/ai-artificial-intelligence/838776/maga-ai-executive-order-david-sacks)**
 
-Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
+A controversial executive order dictating America’s AI policy has MAGA scrambling against the White House and its Special Adviser on AI and Crypto.
 
-WIRED • 1h ago
+The Verge • 56m ago
 
 ---
 
-**[Dr. Michio Kaku on AI's 'double-edged sword' and job displacement fears](https://www.foxnews.com/video/6386032064112)**
+**[Dambisa Moyo on Gold, Bitcoin, AI and the UK](https://www.bloomberg.com/news/newsletters/2025-12-05/economist-dambisa-moyo-on-ai-bubble-bitcoin-gold-uk-economy)**
 
-Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to blackmail, on 'The Story.'
+The economist shares her views on what’s holding back the UK and where we are in the AI bubble.
 
-Fox News • 1h ago
+Bloomberg.com • 1h ago
+
+---
+
+**[Microsoft's Copilot+ AI PC plan fizzled, but it still served a purpose](https://www.engadget.com/computing/laptops/microsofts-copilot-ai-pc-plan-fizzled-but-it-still-served-a-purpose-130000239.html)**
+
+Microsoft's Copilot+ AI PC plan launched with a ton of hype, but the company has little to show for it today.
+
+Engadget • 1h ago
+
+---
+
+**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
+
+While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
+
+Fortune • 22h ago
 
 ---
 
 **[How AI is rewiring childhood | Dec 6th 2025](https://www.economist.com/weeklyedition/2025-12-06)**
 
-The Economist • 49m ago
+The Economist • 1h ago
 
 ---
 
@@ -161,7 +169,13 @@ The Economist • 49m ago
 
 What 1,250 professionals told us about working with AI
 
-Anthropic • 20h ago
+Anthropic • 21h ago
+
+---
+
+**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
+
+The Washington Post • 5m ago
 
 ---
 
@@ -173,20 +187,6 @@ Forbes • 20h ago
 
 ---
 
-**[Opinion | A.I. Technology Needs the Bubble to Burst](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
-
-The New York Times • 3h ago
-
----
-
-**[‘It was about degrading someone completely’: the story of Mr DeepFakes – the world’s most notorious AI porn site](https://www.theguardian.com/society/ng-interactive/2025/dec/05/it-was-about-degrading-someone-completely-the-story-of-mr-deepfakes-the-worlds-most-notorious-ai-porn-site)**
-
-The hobbyists who helped build this site created technology that has been used to humiliate countless women. Why didn’t governments step in and stop them?
-
-The Guardian • 5h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -195,7 +195,7 @@ The Guardian • 5h ago
 
 : Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
 
-⬆️ 1047 • 💬 603 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+⬆️ 1047 • 💬 604 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 
 ---
 
@@ -203,7 +203,7 @@ The Guardian • 5h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 934 • 💬 1034 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 934 • 💬 1035 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -219,7 +219,7 @@ IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data cen
 
 Google’s own ‘code red’ response to ChatGPT has started paying off.
 
-⬆️ 811 • 💬 918 • 2d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
+⬆️ 812 • 💬 918 • 2d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
 
 ---
 
@@ -235,7 +235,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 603 • 💬 557 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 612 • 💬 567 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -243,7 +243,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 410 • 💬 312 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 413 • 💬 319 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -251,7 +251,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 238 • 💬 197 • 16h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 238 • 💬 198 • 17h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -259,7 +259,7 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 
 Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume
 
-⬆️ 234 • 💬 190 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
+⬆️ 235 • 💬 190 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 
 ---
 
@@ -267,7 +267,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 190 • 💬 91 • 15h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 192 • 💬 91 • 15h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -387,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,105 • 3d ago
+⬇️ 152,916 • ❤️ 2,109 • 3d ago
 
 ---
 
@@ -399,7 +399,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 13,541 • ❤️ 720 • 4d ago
+⬇️ 13,541 • ❤️ 721 • 4d ago
 
 ---
 
@@ -447,7 +447,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 241 • 12h ago
+⬇️ 12,984 • ❤️ 248 • 12h ago
 
 ---
 
@@ -457,7 +457,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 236 • 3d ago
+⬇️ 0 • ❤️ 238 • 3d ago
 
 ---
 
@@ -479,7 +479,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 210 • 3d ago
+⬇️ 0 • ❤️ 211 • 3d ago
 
 ---
 
@@ -505,7 +505,7 @@ z_image_turbo is a diffusion model designed for single-file image generation, li
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 140 • 💬 2 • ⭐ 4,635 • 7d ago
+▲ 140 • 💬 2 • ⭐ 4,635 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -559,7 +559,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 105 • 💬 4 • ⭐ 5,264 • 14d ago
+▲ 105 • 💬 4 • ⭐ 5,264 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
@@ -681,7 +681,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 821 • 🔱 42 • 7h ago
+⭐ 821 • 🔱 42 • 8h ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 802 • 🔱 102 • 59m ago
+⭐ 802 • 🔱 102 • 5m ago
 
 ---
 
@@ -711,7 +711,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 745 • 🔱 19 • 9d ago
+⭐ 746 • 🔱 19 • 9d ago
 
 ---
 
@@ -721,17 +721,17 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 702 • 🔱 14 • 16d ago
+⭐ 703 • 🔱 14 • 16d ago
 
 ---
 
-**[Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer)**
+**[open-gigaai/giga-world-0](https://github.com/open-gigaai/giga-world-0)**
 
-AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning
+GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 488 • 🔱 106 • 26d ago
+⭐ 488 • 🔱 40 • 2d ago
 
 ---
 

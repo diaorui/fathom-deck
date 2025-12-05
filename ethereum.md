@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T07:01:09.658202+00:00'
+updated: '2025-12-05T07:31:01.299952+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 07:01 UTC  
+**Last Updated:** December 05, 2025 at 07:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.4%  
-**7d:** +6.1%  
-**30d:** -4.4%  
+**7d:** +6.2%  
+**30d:** -4.3%  
 **90d:** -26.5%  
-**1y:** -20.6%  
+**1y:** -20.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $381.84B
+**Market Cap:** $383.81B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.0%
+-35.7%
 
 **All-Time Low:** $0.43
-+730866.2%
++734866.4%
 
 ---
 
@@ -80,7 +80,15 @@ Trump crypto empire falls faster than bitcoin
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-59m ago
+1h ago
+
+---
+
+**[Nexo Liquidated My Entire $123K Portfolio and they don’t want to refund!](https://www.reddit.com/r/ethereum/comments/1peorza/nexo_liquidated_my_entire_123k_portfolio_and_they/)**
+
+I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was part of their Private Clients program with the portfolio boost. On October 10th, 2025, around 23:00 CET, the Nexo app completely stopped working for me. I couldn’t add USDT, swap, manage my loan, nothing. I was literally inside the app trying to fix it, and I have screen-time proof showing it was frozen. At 23:12 I suddenly got an email saying my LTV changed to 76.92%. At 23:20 I got another email telling me my collateral had been fully liquidated. When I finally managed to get back into the app at 00:26 CET, everything was gone. My entire $123K portfolio was wiped out while I was stuck watching the app glitch out. This isn’t even the first time something like this has happened. Coinfomania reported in April 2025 that Nexo had already been accused of unfair liquidations worth $10 million. People were saying the same thing back then: the app wasn’t working and they only got two emails before losing everything. Nexo is registered in the Cayman Islands and acts like it’s untouchable. They ignore EU and US courts and even ignore letters from lawyers who represent affected users. And Antoni Trenchev is nowhere to be found. When Binance had system issues, they actually compensated their users. Nexo stayed silent. They didn’t just liquidate me, they took everything while their own platform was offline. Since my situation happened, a lot of people have reached out with almost identical stories. Same timeline, same type of outage, same zero response from Nexo. At this point it’s obvious we won’t get anywhere alone. If you had a similar experience, we need to organize together and take collective action. Nexo isn’t giving anyone answers on their own. #Nexo #CryptoScam #DeFi #NexoDown #CryptoJustice
+
+13m ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 6h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 7h ago
 
 ---
 
@@ -102,13 +110,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[🚀 Ethereum Fusaka is Live: The “Unsung Hero” Upgrade You Need to Know About](https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/)**
 
-🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 14h ago
+🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 15h ago
 
 ---
 
 **[Sony launches Stablecoin! 🎮 USDSC lists on Ethereum L2!](https://www.reddit.com/r/ethereum/comments/1pdxj1w/sony_launches_stablecoin_usdsc_lists_on_ethereum/)**
 
-🔗 [ecency.com](https://ecency.com/@pichat/sony-launches-stablecoin-usdsc-lists-on-ethereum-l2-9sh) • 19h ago
+🔗 [ecency.com](https://ecency.com/@pichat/sony-launches-stablecoin-usdsc-lists-on-ethereum-l2-9sh) • 20h ago
 
 ---
 
@@ -136,14 +144,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Protocol Guild | Q4 2025 Membership Audit](https://www.reddit.com/r/ethereum/comments/1pdgmut/protocol_guild_q4_2025_membership_audit/)**
-
-Our membership has concluded its latest quarterly audit of funded members as of Nov 19 2025. This 14th consecutive update reaffirms our institution’s consistency and ability to self-regulate. The member registry now includes a number of new contributor accounts as well as new alumni, and weight changes; creating a representative body of the developers and maintainers who work on client implementations, research, and upgrade delivery. Protocol Guild’s membership is now 184, with a net increase of 8 (+4.5%) members from 176 of last quarter. This quarter, the membership update was processed onchain via Protocol Guild’s new Agora-based DAO contracts. Readers will find a comprehensive list of the changeset below. Working Groups Added: zkEVM Working Group #400 Read more at blog post here Removed: Portal Working Group #423 New Members (23 total) Working Group New Members Lighthouse Josh King #420 Prysm Bastin #416, Chris Karabats #429 zkEVM Thomas Coratger #444, Cody #440, Sophia #439, TingHan Jian #438 P2P Raúl Kripalani #428, Marco Munizaga #425 Reth Roman Hodulák #426 Nethermind Marcos Maceo (part-time) #422, Maksim Menshikov #410 Testing Carson #390, Felix Hoffmann #406 Specs & Coordination Marc Garreau #408, Nixo #407 Statelessness Wei Han Ng #404, Carlos Perez #401 Mechanism Design Maria Silva #399 Security Antoine James #395, Yassine Ferhane #397 Prototyping Jihoon Song #392 New Alumni Members (14 Total) Protocol Guild members who move on to other work are considered ‘Alumni’ at the conclusion of their membership. We are grateful for their stewarding contributions to the world computer over the years and wish them well. Working Group New Alumni Architecture Dankrad #446 Lighthouse Paul Hauner #419, Mehdi #418, Adrian #417 Prysm Taran #445, Raul Jordan #412 Portal Piper #423 Reth Roman Krasiuk #402 Cryptography Mark Simkin #441 Prototyping shemnon #393 Mechanism Design Davide Crapis #398 EthereumJS am1r021 #437 DAS Dmitriy Ryajov #414, Leonardo Bautista-Gomez #405 Weight & Status Changes (9 Total) Change Type Updates Weight Increases Shoham Chakraborty (Erigon): 0.5 → 1 #433, Marc Holt (Erigon): 0.5 → 1 #432, Marc Harvey-Hill (Nethermind): 0.5 → 1 #421, Artiom: 0.5 → 1 #403 Weight Decreases Federico Gimenez: 1 → 0.5 #430, Alexey Shekhirin: 1 → 0.5 #427, Ayman Bouchareb: 1 → 0.5 #394, Damian Orzechowski: 1 → 0.5 #409, Scottypoi: 1 → 0.5 #431 Affiliation Updates Moved Paweł Bylica to Erigon #389 The next audit will begin in January 2026 and should be fully reflected in our active membership by mid-February.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -151,6 +151,14 @@ Our membership has concluded its latest quarterly audit of funded members as of 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
 The Block • 10h ago
+
+---
+
+**[Myriad Moves: Bitcoin and Ethereum Recovery Odds Rise as Traders Flip Bullish](https://decrypt.co/350986/myriad-moves-bitcoin-ethereum-recovery-odds-rise-traders-flip-bullish)**
+
+Top markets on Myriad this week include predictions on where Bitcoin and Ethereum are headed next, plus odds of another major liquidation event.
+
+Decrypt • 9h ago
 
 ---
 
@@ -166,7 +174,7 @@ dlnews.com • 1d ago
 
 Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December.
 
-dlnews.com • 20h ago
+dlnews.com • 21h ago
 
 ---
 
@@ -174,7 +182,7 @@ dlnews.com • 20h ago
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-cheddar.com • 9h ago
+cheddar.com • 10h ago
 
 ---
 
@@ -218,14 +226,6 @@ Forbes • 2d ago
 
 ---
 
-**[While Ethereum whales rotate, XRP data shows a fatal concentration flaw that leaves one group holding the bag.](https://cryptoslate.com/ethereum-xrp-whales-concentration-risk/)**
-
-We quantify how much old supply just moved and why now.
-
-CryptoSlate • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 2K • 💬 298 • ⏱️ 11:16 • 5h ago
+👁️ 30K • 👍 3K • 💬 300 • ⏱️ 11:16 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 1K • 💬 86 • ⏱️ 17:37 • 13h ago
+👁️ 23K • 👍 2K • 💬 125 • ⏱️ 17:37 • 14h ago
 
 ---
 
@@ -256,7 +256,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 39K • 👍 2K • 💬 323 • ⏱️ 27:33 • 13h ago
+👁️ 48K • 👍 2K • 💬 341 • ⏱️ 27:33 • 13h ago
 
 ---
 
@@ -266,17 +266,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 47 • 💬 109 • ⏱️ 5:52 • 16h ago
-
----
-
-**[Ethereum Leads Rally📈Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=rO3ZorrJ-ps)**
-
-Bitcoin steadied near weekly highs as concerns ease, but most altcoins remain weak. Market shows early signs of recovery ...
-
-📺 Paul Barron Network
-
-👁️ 22K • 👍 1K • 💬 79 • ⏱️ 32:14 • 10h ago
+👁️ 1K • 👍 50 • 💬 109 • ⏱️ 5:52 • 16h ago
 
 ---
 
@@ -286,7 +276,7 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 45 • ⏱️ 10:24 • 20h ago
+👁️ 22K • 👍 3K • 💬 45 • ⏱️ 10:24 • 21h ago
 
 ---
 
@@ -296,7 +286,17 @@ Ethereum (ETH) is approaching a critical point, and the next major move could de
 
 📺 HKCM GLOBAL
 
-👁️ 1K • 👍 125 • 💬 5 • ⏱️ 10:00 • 14h ago
+👁️ 1K • 👍 132 • 💬 5 • ⏱️ 10:00 • 14h ago
+
+---
+
+**[Ethereum Leads Rally📈Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=rO3ZorrJ-ps)**
+
+Bitcoin steadied near weekly highs as concerns ease, but most altcoins remain weak. Market shows early signs of recovery ...
+
+📺 Paul Barron Network
+
+👁️ 25K • 👍 1K • 💬 85 • ⏱️ 32:14 • 11h ago
 
 ---
 
@@ -316,7 +316,7 @@ The Ethereum network has fundamentally changed as of December 3rd. In this deep 
 
 📺 Wall Street Stockcast
 
-👁️ 4K • 👍 118 • 💬 17 • ⏱️ 10:55 • 15h ago
+👁️ 4K • 👍 119 • 💬 17 • ⏱️ 10:55 • 16h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 116 • 💬 10 • ⏱️ 5:41 • 6h ago
+👁️ 2K • 👍 157 • 💬 10 • ⏱️ 5:41 • 6h ago
 
 ---
 

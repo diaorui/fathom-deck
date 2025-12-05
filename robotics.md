@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T07:01:09.661407+00:00'
+updated: '2025-12-05T07:31:01.303941+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 07:01 UTC  
+**Last Updated:** December 05, 2025 at 07:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,6 +60,14 @@ Marc Raibert talks about how robotics demos usually show only the polished succe
 
 ---
 
+**[A potentially highly efficient image and video tokenizer for LLMs/VLAs.](https://www.reddit.com/r/robotics/comments/1peo0w3/a_potentially_highly_efficient_image_and_video/)**
+
+Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I’m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I’m posting it here in case anyone finds it interesting or useful.
+
+59m ago
+
+---
+
 **[Christmas Help](https://www.reddit.com/r/robotics/comments/1pekos3/christmas_help/)**
 
 Hi everyone, My husband is a mechanical engineer and has found his niche in robotics. He is mostly a simulation guy, but also enjoys machining. I’m trying to surprise him with a gift that he is not expecting. He never asks for anything and I think he deserves something that falls into his interests. If you guys have any ideas, please share! (Budget is $100-200)
@@ -68,17 +76,15 @@ Hi everyone, My husband is a mechanical engineer and has found his niche in robo
 
 ---
 
-**[A potentially highly efficient image and video tokenizer for LLMs/VLAs.](https://www.reddit.com/r/robotics/comments/1peo0w3/a_potentially_highly_efficient_image_and_video/)**
+**[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
 
-Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I’m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I’m posting it here in case anyone finds it interesting or useful.
-
-29m ago
+34m ago
 
 ---
 
 **[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -94,15 +100,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hello redditors, I am robotics engineer visiting China for the first time trying to meet vendors for parts procurement and also I want to use this time to meet and explore other vendors. I would be visiting Beijing, Guangdong, Shanghai and Shenzhen. Also let me know if I should meet any other company in any other area. I have worked on quadrupeds, drones, manipulators, mobile robots, underwater robots, iot, AI/ML for robotics and Reinforcement Learning Thanks in advance
 
-1h ago
-
----
-
-**[Robotics engineer visiting China](https://www.reddit.com/r/robotics/comments/1pemu1c/robotics_engineer_visiting_china/)**
-
-Hello redditors, I am robotics engineer visiting China for the first time trying to meet vendors for parts procurement and also I want to use this time to meet and explore other vendors. I would be visiting Beijing, Guangdong, Shanghai and Shenzhen. Also let me know if I should meet any other company in any other area. I have worked on quadrupeds, drones, manipulators, mobile robots, underwater robots, iot, AI/ML for robotics and Reinforcement Learning Thanks in advance
-
-1h ago
+2h ago
 
 ---
 
@@ -132,17 +130,25 @@ CBS News • 9h ago
 
 ---
 
-**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
-
-Investor's Business Daily • 9h ago
-
----
-
 **[Richtech Robotics (RR) Is Up 22.0% After U.S. Robotics Push And New AI Partnership News](https://finance.yahoo.com/news/richtech-robotics-rr-22-0-121351359.html)**
 
 In recent days, reports that the Trump administration is preparing an executive order and broader initiatives to accelerate U.S. robotics development have put Richtech Robotics in the spotlight, alongside news of Commerce Secretary Howard Lutnick meeting with industry CEOs. Richtech Robotics also announced a collaboration with NomadGo to integrate AI into inventory management, highlighting how policy momentum and product innovation are converging around the company’s automation...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
+
+---
+
+**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
+
+Investor's Business Daily • 10h ago
+
+---
+
+**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+
+Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+
+MLive.com • 11h ago
 
 ---
 
@@ -178,14 +184,6 @@ Bessemer Venture Partners • 2d ago
 
 ---
 
-**[Robotics stocks jolted higher by report the Trump administration is going “all in” to boost the industry](https://sherwood.news/markets/robotics-stocks-jolted-higher-by-report-the-trump-administration-is-going-all-in-on-industry/)**
-
-Supporting robotics is the natural evolution of supporting AI....
-
-Sherwood News • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +194,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 27K • 👍 282 • 💬 135 • ⏱️ 2:30 • 1d ago
+👁️ 34K • 👍 306 • 💬 151 • ⏱️ 2:30 • 1d ago
 
 ---
 
@@ -206,7 +204,7 @@ Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.c
 
 📺 InsideAI
 
-👁️ 488K • 👍 20K • 💬 3K • ⏱️ 14:58 • 4d ago
+👁️ 496K • 👍 20K • 💬 3K • ⏱️ 14:58 • 4d ago
 
 ---
 
@@ -216,7 +214,7 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 📺 Unitree Robotics
 
-👁️ 106K • 👍 1K • 💬 247 • ⏱️ 1:06 • 1d ago
+👁️ 108K • 👍 1K • 💬 253 • ⏱️ 1:06 • 1d ago
 
 ---
 
@@ -224,7 +222,7 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 📺 AI . Robot
 
-👁️ 472K • 👍 6K • 💬 226 • ⏱️ 0:27 • 5d ago
+👁️ 478K • 👍 6K • 💬 227 • ⏱️ 0:27 • 5d ago
 
 ---
 
@@ -234,7 +232,17 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 77K • 💬 505 • ⏱️ 1:21 • 1d ago
+👁️ 79K • 💬 517 • ⏱️ 1:21 • 1d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=_MgTHoFYPDs)**
+
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 3K • 👍 45 • ⏱️ 0:19 • 2h ago
 
 ---
 
@@ -244,7 +252,7 @@ In a high-end robotics lab in Silicon Valley, engineers activate and calibrate a
 
 📺 AI Robot Lab
 
-👁️ 41K • 👍 509 • 💬 5 • ⏱️ 0:29 • 1d ago
+👁️ 43K • 👍 545 • 💬 6 • ⏱️ 0:29 • 1d ago
 
 ---
 
@@ -254,27 +262,7 @@ Pure-play robotics stock Symbotic (SYM) has had a wild ride in 2025, soaring to 
 
 📺 Chip Stock Investor
 
-👁️ 2K • 👍 131 • 💬 3 • ⏱️ 14:23 • 16h ago
-
----
-
-**[Inside the Viral IRON Robot Everyone Thought Was Human | What The Future](https://www.youtube.com/watch?v=bEKH2eblWBk)**
-
-XPeng's new humanoid robot, IRON, went viral after the company cut it open on stage to prove it wasn't a human in disguise.
-
-📺 CNET
-
-👁️ 536K • 👍 3K • 💬 531 • ⏱️ 5:04 • 4d ago
-
----
-
-**[MobED | Robotics LAB | Hyundai Motor Group](https://www.youtube.com/watch?v=WfaYrxCwad0)**
-
-Go Anywhere, Do anything, For everyone : MobED Learn more ...
-
-📺 Hyundai Motor Group
-
-👁️ 50K • 👍 320 • 💬 27 • ⏱️ 3:01 • 2d ago
+👁️ 3K • 👍 133 • 💬 4 • ⏱️ 14:23 • 16h ago
 
 ---
 
@@ -282,7 +270,17 @@ Go Anywhere, Do anything, For everyone : MobED Learn more ...
 
 📺 Sydney McKenna
 
-👁️ 9K • 👍 903 • 💬 82 • ⏱️ 1:00 • 15h ago
+👁️ 10K • 👍 976 • 💬 87 • ⏱️ 1:00 • 16h ago
+
+---
+
+**[Humanoid robot Vol.149: Robotics Lab](https://www.youtube.com/watch?v=mVAHi_eB8Mc)**
+
+AI #stablediffusion #AIart #humanoid #scifi #robot #futuretech.
+
+📺 ROBOT HUMANOID AI
+
+👁️ 3K • 👍 77 • ⏱️ 0:25 • 14h ago
 
 ---
 

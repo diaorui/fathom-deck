@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T07:01:09.652208+00:00'
+updated: '2025-12-05T07:31:01.293756+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 07:01 UTC  
+**Last Updated:** December 05, 2025 at 07:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1837.46B
+**Market Cap:** $1844.66B
 Rank #1
 
 **Circulating Supply:** 19,957,765 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.0%
+-26.6%
 
 **All-Time Low:** $67.81
-+135720.7%
++136291.4%
 
 ---
 
@@ -99,6 +99,12 @@ Im only up 3000% now
 
 ---
 
+**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
+
+3h ago
+
+---
+
 **[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
 
 6h ago
@@ -107,13 +113,7 @@ Im only up 3000% now
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-13h ago
-
----
-
-**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
-
-3h ago
+14h ago
 
 ---
 
@@ -127,7 +127,7 @@ Im only up 3000% now
 
 Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our entire crypto journey wouldn’t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. 🚀
 
-14h ago
+15h ago
 
 ---
 
@@ -135,7 +135,7 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 .2 next, just wanted to share with someone
 
-8h ago
+9h ago
 
 ---
 
@@ -151,41 +151,17 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+**[Tom Lee Says Bitcoin Adoption Could Rise ‘200 Times,’ Predicts End of the Four-Year Cycle](https://finance.yahoo.com/news/tom-lee-says-bitcoin-adoption-114850760.html)**
 
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+Bitcoin adoption could rise “200 times” if global retirement savers allocate even modestly, Tom Lee said. Lee predicts the traditional four-year Bitcoin cycle is ending. ...
 
-CNBC • 19h ago
+Yahoo Finance • 19h ago
 
 ---
 
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
-The Economist • 20h ago
-
----
-
-**[Bitcoin (BTC) Price News: Bulls Face Key Test at $93K](https://www.coindesk.com/markets/2025/12/03/crypto-rally-stumbles-bitcoin-slips-back-to-usd92k-as-microsoft-lowers-ai-sales-goals)**
-
-Bitcoin shot up 10% in two days, but it's stalling at around the 2025 yearly open.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward](https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/)**
-
-Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
-
-cheddar.com • 9h ago
-
----
-
-**[Here's How Much Bitcoin, XRP, Ether, Solana May Move on Friday's Inflation Report](https://finance.yahoo.com/news/heres-much-bitcoin-xrp-ether-040015107.html)**
-
-A softer inflation report could lower the 10-year Treasury yield and support cryptocurrencies.
-
-Yahoo Finance • 3h ago
+The Economist • 21h ago
 
 ---
 
@@ -203,15 +179,17 @@ The New York Times • 1d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqemApEMCsK2_KyZsVZoG0ZkABwckkT7mf_87PmTpLpswSa7gQWBSThQ&gaa_ts=693282f2&gaa_sig=xcWuxtBuOQovxK4HObBnbS0Ctm-7T9XV4sIaPlbGB4elwnJc02mVePPhcNDsH0k9RBwQiuREu9CkaQ95mrJD5A%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqd1GLvs4B-lOXY8PXqHTXvW_Q-QablTLv7MpaIP_5vaErs6tDAIJeCC&gaa_ts=69328da0&gaa_sig=Zne2o4wNlDdb1WXplSIh_7j36vVpFWproi_GldzIWlgF6NJNhoFVwGWoUQvaqenFmTAadmxC-gpkYJh8av3Bxw%3D%3D)**
 
 MarketWatch • 10h ago
 
 ---
 
-**[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
+**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
 
-The Block • 8h ago
+JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
+
+Business Insider • 13h ago
 
 ---
 
@@ -219,7 +197,27 @@ The Block • 8h ago
 
 BlackRock’s ETF now owns 3.9% of all existing Bitcoin, more than Strategy.
 
-Fortune • 18h ago
+Fortune • 19h ago
+
+---
+
+**[A Huge Bitcoin Bar and Steakhouse Is Opening in DC](https://washingtonian.com/2025/12/03/a-huge-bitcoin-bar-and-steakhouse-is-opening-in-dc/)**
+
+PubKey expands from New York with a podcast studio, event space, and more.
+
+Washingtonian • 1d ago
+
+---
+
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcMWjQOCt6fjjrKTJCQr4McEbh-ng7uGi7qStBecjZ8tz5enD_6bm7R&gaa_ts=69328da0&gaa_sig=sd_4kkBRJmGh9_VyshcVFEP6jI9VXNS44eZWCnvVDtMgJgWF8pvvqpDfg5DO-upxnyYIpEpnXmcmdBROoTjv8g%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
+
+The Block • 8h ago
 
 ---
 
@@ -303,23 +301,33 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
-**[What Happens to Bitcoin When the Fed Finally Cuts?](https://www.youtube.com/watch?v=nrSuqkGl1t4)**
-
-Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break down the growing divisions inside the Federal ...
-
-📺 Anthony Pompliano
-
-👁️ 13K • 👍 580 • 💬 1 • ⏱️ 28:20 • 9h ago
-
----
-
 **[Every Major Bank Just Pivoted to Bitcoin… They Know What’s Coming!](https://www.youtube.com/watch?v=3rSaeVkFY4Q)**
 
 Every major economy is hitting the debt wall simultaneously. A global reset is coming—fast, systemic, and total. BlackRock ...
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 2K • 💬 142 • ⏱️ 23:27 • 6h ago
+👁️ 23K • 👍 2K • 💬 239 • ⏱️ 23:27 • 6h ago
+
+---
+
+**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
+
+As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
+
+📺 Swan Bitcoin
+
+👁️ 42K • 👍 2K • 💬 158 • ⏱️ 18:48 • 9h ago
+
+---
+
+**[BITCOIN: THIS IS THE NEXT MOVE...](https://www.youtube.com/watch?v=80ZA2jW9K70)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
+
+📺 Crypto Rover
+
+👁️ 3K • 👍 298 • 💬 95 • ⏱️ 9:41 • 2h ago
 
 ---
 
@@ -329,7 +337,7 @@ Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative t
 
 📺 The Wolf Of All Streets
 
-👁️ 23K • 👍 877 • 💬 270 • ⏱️ 35:57 • 16h ago
+👁️ 24K • 👍 884 • 💬 327 • ⏱️ 35:57 • 16h ago
 
 ---
 
@@ -339,17 +347,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 251 • ⏱️ 47:51 • 15h ago
-
----
-
-**[🚨 BTC &amp; ETH: I AM WARNING YOU AGAIN!!!! LISTEN THIS TIME!!!!!](https://www.youtube.com/watch?v=na9LpJZqDyY)**
-
-What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get ready now!!! AI Trading Club: ...
-
-📺 Thomas Kralow
-
-👁️ 22K • 👍 3K • 💬 45 • ⏱️ 10:24 • 20h ago
+👁️ 29K • 👍 1K • 💬 346 • ⏱️ 47:51 • 16h ago
 
 ---
 
@@ -359,17 +357,7 @@ Get my free newsletter Letters From a Heretic: https://go.heresy.financial/lette
 
 📺 Heresy Financial
 
-👁️ 79K • 👍 4K • 💬 929 • ⏱️ 16:08 • 1d ago
-
----
-
-**[Bitcoin Bull Market Is Coming Back | Massive Buys](https://www.youtube.com/watch?v=lplE5eZuWH4)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 34K • 👍 2K • 💬 245 • ⏱️ 37:39 • 1d ago
+👁️ 80K • 👍 4K • 💬 938 • ⏱️ 16:08 • 1d ago
 
 ---
 
@@ -379,27 +367,37 @@ I'm Selling EVERYTHING!” Why Tom Crown Is Cashing Out of Bitcoin 50% deposit b
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 399 • ⏱️ 17:04 • 1d ago
+👁️ 64K • 👍 3K • 💬 398 • ⏱️ 17:04 • 1d ago
 
 ---
 
-**[Did The Next Bitcoin Bull Market Just Start?](https://www.youtube.com/watch?v=E0VJqtSK7Rw)**
+**[🚨 BTC &amp; ETH: I AM WARNING YOU AGAIN!!!! LISTEN THIS TIME!!!!!](https://www.youtube.com/watch?v=na9LpJZqDyY)**
 
-Jeff Park is the Partner & Chief Investment Officer at ProCap BTC. In this conversation, we break down the latest FUD around ...
+What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get ready now!!! AI Trading Club: ...
 
-📺 Anthony Pompliano
+📺 Thomas Kralow
 
-👁️ 56K • 👍 2K • 💬 59 • ⏱️ 39:24 • 1d ago
+👁️ 22K • 👍 3K • 💬 45 • ⏱️ 10:24 • 21h ago
 
 ---
 
-**[Tom Lee’s Latest Ethereum Claim Explained](https://www.youtube.com/watch?v=ChtAuJVOzM4)**
+**[Did Saylor Just Bulletproof His Bitcoin Strategy?](https://www.youtube.com/watch?v=g5ncKRO0gPE)**
 
-Tom Lee just made one of his strongest Ethereum claims yet. He argues that ETH is entering a major inflection point as Wall Street ...
+Michael Saylor just sold MSTR stock to fund a $1.44 billion cash reserve for Strategy — and it completely changes the risk profile ...
 
-📺 Mikhail
+📺 Swan Bitcoin
 
-👁️ 268 • 👍 7 • ⏱️ 1:13 • 4h ago
+👁️ 15K • 👍 601 • 💬 39 • ⏱️ 2:10 • 1d ago
+
+---
+
+**[Company Buys $4 Billion Bitcoin: Is This Smart or Risky? #shorts](https://www.youtube.com/watch?v=BArg3Q5Mx1s)**
+
+A company uses its financial resources to purchase Bitcoin, leveraging price increases for growth. Smart strategy or financial risk?
+
+📺 Stockology Insider
+
+👁️ 703 • ⏱️ 0:44 • 5h ago
 
 ---
 

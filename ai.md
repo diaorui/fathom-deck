@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T07:01:09.643786+00:00'
+updated: '2025-12-05T07:31:01.285287+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 07:01 UTC  
+**Last Updated:** December 05, 2025 at 07:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -67,7 +67,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls “faster-growing segments."
 
-🔗 [PC Guide](https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/) • 18h ago
+🔗 [PC Guide](https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/) • 19h ago
 
 ---
 
@@ -107,7 +107,7 @@ Our RAG stack degraded slowly over months. Text-shape differences created differ
 
 Hi all, anyone know how can i make this kind of sport back and forth animation video? https://www.instagram.com/reel/DRjtY2Zks8d/?igsh=c29ocGNweWVsaGZ0
 
-🔗 [instagram.com](https://www.instagram.com/reel/DRjtY2Zks8d/?igsh=c29ocGNweWVsaGZ0) • 47m ago
+🔗 [instagram.com](https://www.instagram.com/reel/DRjtY2Zks8d/?igsh=c29ocGNweWVsaGZ0) • 1h ago
 
 ---
 
@@ -119,57 +119,7 @@ Hi all, anyone know how can i make this kind of sport back and forth animation v
 
 While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
-Fortune • 14h ago
-
----
-
-**[The AI boom is heralding a new gold rush in the American west](https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers)**
-
-Once home to gold and prospectors, the Nevada desert is now the site of a new kind of expansion: tech datacenters
-
-The Guardian • 10h ago
-
----
-
-**[England World Cup draw: Could AI help Thomas Tuchel win 2026 tournament?](https://www.bbc.com/sport/football/articles/cj0e7y754zpo)**
-
-BBC Sport hears from inside the England setup about how artificial intelligence is powering plans for next summer's World Cup.
-
-BBC • 43m ago
-
----
-
-**[On Pope Leo’s Visit to Lebanon and Turkey, A.I. Was a Frequent Concern](https://www.nytimes.com/2025/12/05/world/asia/pope-leo-lebanon-turkey-ai-technology.html)**
-
-The New York Times • 2h ago
-
----
-
-**[The Godmother of AI says she is disappointed by AI's messaging: It's either 'doomsday' or 'total utopian'](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12)**
-
-Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
-
-Business Insider • 37m ago
-
----
-
-**[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
-
-The Economist • 19h ago
-
----
-
-**[Exclusive: Some AI dangers are already real, DeepMind's Hassabis says](https://www.axios.com/2025/12/05/ai-hassabis-agi-risks-pdoom)**
-
-Axios • 5h ago
-
----
-
-**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
-
-Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
-
-Forbes • 13h ago
+Fortune • 15h ago
 
 ---
 
@@ -181,9 +131,59 @@ Anthropic • 14h ago
 
 ---
 
-**[The Rise of AI Reasoning Models Comes With A Big Energy Tradeoff](https://www.bloomberg.com/news/articles/2025-12-04/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff)**
+**[England World Cup draw: Could AI help Thomas Tuchel win 2026 tournament?](https://www.bbc.com/sport/football/articles/cj0e7y754zpo)**
 
-Bloomberg.com • 12h ago
+BBC Sport hears from inside the England setup about how artificial intelligence is powering plans for next summer's World Cup.
+
+BBC • 1h ago
+
+---
+
+**[The Godmother of AI says she is disappointed by AI's messaging: It's either 'doomsday' or 'total utopian'](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12)**
+
+Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
+
+Business Insider • 1h ago
+
+---
+
+**[AI is reshaping work. It could also spark an entrepreneurial boom](https://www.fastcompany.com/91452382/ai-could-spark-the-next-entrepreneurial-boom)**
+
+Fast Company • 24m ago
+
+---
+
+**[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
+
+The Economist • 19h ago
+
+---
+
+**[Exclusive: Some AI dangers are already real, DeepMind's Hassabis says](https://www.axios.com/2025/12/05/ai-hassabis-agi-risks-pdoom)**
+
+Axios • 6h ago
+
+---
+
+**[The AI boom is heralding a new gold rush in the American west](https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers)**
+
+Once home to gold and prospectors, the Nevada desert is now the site of a new kind of expansion: tech datacenters
+
+The Guardian • 11h ago
+
+---
+
+**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
+
+Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
+
+Forbes • 13h ago
+
+---
+
+**[A.I. Deal Making Is Getting Faster and Faster](https://www.nytimes.com/2025/12/04/technology/ai-deal-making-faster.html)**
+
+The New York Times • 15h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bloomberg.com • 12h ago
 
 : Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
 
-⬆️ 1042 • 💬 601 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+⬆️ 1042 • 💬 602 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg.com • 12h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 924 • 💬 1023 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 925 • 💬 1023 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -211,7 +211,7 @@ A post about everyone in Seattle hating AI.
 
 IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data center spending — and raised some doubts on if it'll prove profitable.
 
-⬆️ 836 • 💬 936 • 2d ago • [Business Insider](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
+⬆️ 836 • 💬 937 • 2d ago • [Business Insider](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 
 ---
 
@@ -219,7 +219,7 @@ IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data cen
 
 Google’s own ‘code red’ response to ChatGPT has started paying off.
 
-⬆️ 808 • 💬 914 • 2d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
+⬆️ 808 • 💬 915 • 2d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
 
 ---
 
@@ -227,7 +227,7 @@ Google’s own ‘code red’ response to ChatGPT has started paying off.
 
 Update: This post received a large amount of attention on Hacker News — see the discussion thread.
 
-⬆️ 798 • 💬 279 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+⬆️ 800 • 💬 279 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 
 ---
 
@@ -235,7 +235,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 534 • 💬 519 • 22h ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 543 • 💬 522 • 22h ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -243,7 +243,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 392 • 💬 297 • 15h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 394 • 💬 299 • 15h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -251,7 +251,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 231 • 💬 189 • 10h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 233 • 💬 190 • 10h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -259,7 +259,7 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 
 Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume
 
-⬆️ 229 • 💬 189 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
+⬆️ 230 • 💬 189 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 
 ---
 
@@ -275,23 +275,23 @@ In 1978, Brian Eno released Ambient 1: Music for Airports, a landmark album in a
 
 ## YouTube Videos: "ai"
 
+**[AI Surreal Flying Machines-I&#39;m Floating High | 4K](https://www.youtube.com/watch?v=uv9Dwo8x64U)**
+
+If you like my work, I post new AI art and cinematic videos daily — subscribe to follow the journey. I really love to make flying or ...
+
+📺 Kelly Boesch AI Art
+
+👁️ 11K • 👍 935 • 💬 73 • ⏱️ 4:25 • 16h ago
+
+---
+
 **[AI Expert: (Warning) 2030 Might Be The Point Of No Return! We&#39;ve Been Lied To About AI!](https://www.youtube.com/watch?v=P7Y-fynYsgE)**
 
 AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments won't regulate, how AGI could replace humans ...
 
 📺 The Diary Of A CEO
 
-👁️ 491K • 👍 13K • 💬 3K • ⏱️ 2:04:06 • 23h ago
-
----
-
-**[The threats from AI are real | Sen. Bernie Sanders](https://www.youtube.com/watch?v=K3qS345gAWI)**
-
-The threats from unchecked AI are real — worker displacement, corporate surveillance, invasion of privacy, environmental ...
-
-📺 Senator Bernie Sanders
-
-👁️ 379K • 👍 28K • 💬 6K • ⏱️ 15:03 • 2d ago
+👁️ 521K • 👍 14K • 💬 3K • ⏱️ 2:04:06 • 23h ago
 
 ---
 
@@ -301,7 +301,27 @@ OpenAI has declared a "code red" as Google threatens to unseat the AI industry's
 
 📺 CBS News
 
-👁️ 487K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
+👁️ 495K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
+
+---
+
+**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
+
+Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
+
+📺 VisualEconomik EN
+
+👁️ 75K • 👍 2K • 💬 263 • ⏱️ 15:46 • 1d ago
+
+---
+
+**[AI Exploded This Week: GPT 5.2, DeepSeek 3.2, Kling 2.6, Mistral 3, Trainium 3...](https://www.youtube.com/watch?v=KeqO2KM6CTk)**
+
+The past few days pushed AI in every direction at once. OpenAI quietly tested a new Memory Search system inside ChatGPT, ...
+
+📺 AI Revolution
+
+👁️ 41K • 👍 1K • 💬 67 • ⏱️ 17:26 • 1d ago
 
 ---
 
@@ -315,43 +335,23 @@ https://twitch.tv/ThePrimeagen - I Stream on Twitch https://twitter.com/terminal
 
 ---
 
-**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
-
-Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
-
-📺 VisualEconomik EN
-
-👁️ 73K • 👍 2K • 💬 259 • ⏱️ 15:46 • 1d ago
-
----
-
-**[Ronny Chieng Investigates the Promises of AI, the Most Expensive Circle Jerk Ever | The Daily Show](https://www.youtube.com/watch?v=RcPthlvzMY8)**
-
-Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford of the Institute for AI Policy and Strategy to ...
-
-📺 The Daily Show
-
-👁️ 409K • 👍 11K • 💬 679 • ⏱️ 4:58 • 18h ago
-
----
-
-**[AI Exploded This Week: GPT 5.2, DeepSeek 3.2, Kling 2.6, Mistral 3, Trainium 3...](https://www.youtube.com/watch?v=KeqO2KM6CTk)**
-
-The past few days pushed AI in every direction at once. OpenAI quietly tested a new Memory Search system inside ChatGPT, ...
-
-📺 AI Revolution
-
-👁️ 40K • 👍 1K • 💬 67 • ⏱️ 17:26 • 1d ago
-
----
-
 **[This AI Just Crossed a New Intelligence Line: It Took Over Finance](https://www.youtube.com/watch?v=hzAAzUyILNU)**
 
 DeepAgent just rolled out a finance upgrade that feels like a real shift. This version runs seven connected workflows that behave ...
 
 📺 AI Revolution
 
-👁️ 14K • 👍 588 • 💬 49 • ⏱️ 8:59 • 2d ago
+👁️ 14K • 👍 591 • 💬 49 • ⏱️ 8:59 • 2d ago
+
+---
+
+**[Cinematic AI Tutorial Showdown: Kling O1 vs. Nano Banana (Google Flow)](https://www.youtube.com/watch?v=kRlbbKZIMFU)**
+
+Can Kling O1 beat Google's Nano Banana in cinematic storytelling? Two major updates are changing the landscape of AI video ...
+
+📺 AI Video School
+
+👁️ 8K • 👍 517 • 💬 36 • ⏱️ 12:26 • 16h ago
 
 ---
 
@@ -361,7 +361,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 144K • 👍 551 • 💬 29 • ⏱️ 8:09 • 20h ago
+👁️ 171K • 👍 635 • 💬 37 • ⏱️ 8:09 • 20h ago
 
 ---
 
@@ -371,7 +371,7 @@ The latest AI News (and absolutely no financial advice). Learn about LLMs, Gen A
 
 📺 Wes Roth
 
-👁️ 16K • 👍 649 • 💬 199 • ⏱️ 27:54 • 1d ago
+👁️ 16K • 👍 659 • 💬 202 • ⏱️ 27:54 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 135,731 • ❤️ 2,083 • 2d ago
+⬇️ 135,731 • ❤️ 2,084 • 2d ago
 
 ---
 
@@ -435,7 +435,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,092 • ❤️ 320 • 3d ago
+⬇️ 2,092 • ❤️ 321 • 3d ago
 
 ---
 
@@ -467,7 +467,7 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 200 • 3d ago
+⬇️ 0 • ❤️ 202 • 3d ago
 
 ---
 
@@ -479,7 +479,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 0 • ❤️ 188 • 5h ago
+⬇️ 0 • ❤️ 195 • 5h ago
 
 ---
 
@@ -489,7 +489,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 z_image_turbo is a diffusion model designed for single-file image generation, likely integrated with ComfyUI workflows for advanced image synthesis tasks.
 
-⬇️ 1,674,013 • ❤️ 357 • 8d ago
+⬇️ 1,674,013 • ❤️ 358 • 8d ago
 
 ---
 
@@ -640,7 +640,7 @@ SAM 3D is a generative model that reconstructs 3D objects from single images usi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.0k • 🔱 386 • 3h ago
+⭐ 5.0k • 🔱 386 • 4h ago
 
 ---
 
@@ -650,7 +650,7 @@ SAM 3D is a generative model that reconstructs 3D objects from single images usi
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.4k • 🔱 119 • 20h ago
+⭐ 1.4k • 🔱 119 • 21h ago
 
 ---
 
@@ -690,7 +690,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 796 • 🔱 102 • 7h ago
+⭐ 796 • 🔱 102 • 8h ago
 
 ---
 
@@ -720,7 +720,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 694 • 🔱 14 • 15d ago
+⭐ 694 • 🔱 14 • 16d ago
 
 ---
 

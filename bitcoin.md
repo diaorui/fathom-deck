@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T21:45:21.978116+00:00'
+updated: '2025-12-05T21:56:45.758038+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 21:45 UTC  
+**Last Updated:** December 05, 2025 at 21:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,478.75
+### $89,221.10
 
 ---
 
@@ -47,7 +47,7 @@ Live Bitcoin monitoring dashboard
 **24h:** -3.3%  
 **7d:** -1.8%  
 **30d:** -12.0%  
-**90d:** -20.0%  
+**90d:** -19.9%  
 **1y:** -10.5%  
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -149,35 +149,27 @@ Im only up 3000% now
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
+**[Bitcoin Options Show Traders Hunkering Down for Crypto Winter](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-options-show-traders-hunkering-down-for-crypto-winter)**
 
-The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
+Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
 
-Bloomberg.com • 4h ago
-
----
-
-**[Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus](https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus)**
-
-The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high.
-
-CoinDesk • 15h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Ethereum Options Traders More Bullish Than Bitcoin Counterparts: Analysts](https://decrypt.co/351073/ethereum-options-traders-more-bullish-than-bitcoin-counterparts-analysts)**
+**[Why The Bitcoin Bear Market Is Almost Finished](https://bitcoinmagazine.com/markets/bitcoin-bear-market-almost-finished)**
 
-Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
+Bitcoin bear market ending sooner than USD charts suggest – Gold ratio already hit 350DMA breakdown and key Fib support; accumulation zone here.
 
-Decrypt • 8h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
-**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
+**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
 
-Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
+In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
 
-Yahoo Finance • 7h ago
+CNBC • 1d ago
 
 ---
 
@@ -209,17 +201,23 @@ The New York Times • 2d ago
 
 ---
 
-**[Bitcoin price today: slides to $90k ahead of PCE inflation, potential Fed cut](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-dips-to-92k-ahead-of-pce-inflation-potential-fed-cut-4392545)**
+**[Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks](https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit)**
 
-Investing.com • 6h ago
+The Block • 15h ago
 
 ---
 
-**[Surprise Fed Warning Reignites Bitcoin Price Crash Fears](https://www.forbes.com/sites/digital-assets/2025/12/05/surprise-fed-warning-reignites-bitcoin-price-crash-fears/)**
+**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
 
-Shark Tank star investor Kevin O’Leary has warned he doesn’t expected the Federal Reserve to cut interest rates next month...
+BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
 
-Forbes • 8h ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqeJ2BZb7xe2_BkAZZTRlo1T9_NqkeYRj1uqNByQJrCrcR275rLxcwyh&gaa_ts=6933588b&gaa_sig=bTkTrIV7cSGu364yoDdxgY2h3Qgufwppg-BVvvThh-A8W0y1UwRKADdWbJjqvqj5GsafztJUsMDt1WQR8nG1EQ%3D%3D)**
+
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -359,7 +357,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 3K • 💬 313 • ⏱️ 23:27 • 20h ago
+👁️ 42K • 👍 3K • 💬 313 • ⏱️ 23:27 • 21h ago
 
 ---
 

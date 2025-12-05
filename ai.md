@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T21:45:21.969452+00:00'
+updated: '2025-12-05T21:56:45.749696+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 21:45 UTC  
+**Last Updated:** December 05, 2025 at 21:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 9h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 10h ago
 
 ---
 
@@ -65,7 +65,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
 
-53m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Most discourse around AI writing is about using it to generate content faster. I
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 23h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 1d ago
 
 ---
 
@@ -131,6 +131,26 @@ The New York Times • 11h ago
 
 ---
 
+**[Meta acquiring AI wearable company Limitless](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
+
+Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
+
+CNBC • 2h ago
+
+---
+
+**[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
+
+Reuters • 2h ago
+
+---
+
+**[Meta Platforms Buys AI-Device Maker Limitless](https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqfYjlJHN1zpeKnjNuSP6XnLNQbyvW6E-yJfd-iivK4RoFdD1GVi5l40&gaa_ts=69335888&gaa_sig=g3BpC8t2JV9LgRGJZRPAlUICeAT430utEjR81mjkkP8OwL7fmwKHL6PdHn4N9YyYhUFPMFqdtOsnLQXLj2nU6w%3D%3D)**
+
+The Wall Street Journal • 47m ago
+
+---
+
 **[Character.AI | Sunday on 60 Minutes](https://www.cbsnews.com/video/character-ai-sunday-on-60-minutes/)**
 
 Parents who lost their daughter to suicide say Character.AI chatbots led her down a dark and sexually explicit path. Sharyn Alfonsi investigates the scale and dangers of what's unfolding inside this rapidly growing AI technology.
@@ -139,37 +159,17 @@ CBS News • 1h ago
 
 ---
 
-**[AI Job Losses Are Coming, Tech Execs Say. The Question: Who’s Most at Risk?](https://www.wsj.com/tech/ai/ai-job-losses-are-coming-tech-execs-say-the-question-whos-most-at-risk-984331d4?gaa_at=eafs&gaa_n=AWEtsqdmFyp59oaPkkcKTcI8dqg0Sgel_ZeuS6JPwkvGIWzQ7q-KprfTSSHe&gaa_ts=69334ecf&gaa_sig=u5Z_IzoTSnX5b3wVkjNxQwEOOIbR9Sh91r0tI6bQcLx69ke8SDmi7Qb22A1NGrr8YujK9RcxhZUAFuV3X9bjlA%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
-**[This crazy chart shows just how much cash OpenAI is burning as it chases AI profits](https://www.marketwatch.com/story/this-crazy-chart-shows-just-how-much-cash-openai-is-burning-as-it-chases-ai-profits-81e7ffef?gaa_at=eafs&gaa_n=AWEtsqcNtwm1YDikQlD4m3e7iMeFzFPfmek3IQ6CytQM0zWr4M4XynZYe7Ie&gaa_ts=69334ecf&gaa_sig=lpCaAdGl9LU4GdBVg5yGsHQ0HY3ke5gzuSYzHVnBi8pmW7dVExlx6Z_xtiXgmZ58lx4ogyoPZloyNgJrlxw7Ew%3D%3D)**
+**[This crazy chart shows just how much cash OpenAI is burning as it chases AI profits](https://www.marketwatch.com/story/this-crazy-chart-shows-just-how-much-cash-openai-is-burning-as-it-chases-ai-profits-81e7ffef?gaa_at=eafs&gaa_n=AWEtsqeHxrrJwl8qeQHDX_7f02SKjsikQjfpIeub8pZyprOa17qoZfOCiPqR&gaa_ts=69335888&gaa_sig=WZQaSymWpxVQQ_DsT0wcrnZIJZHqgZZhino897-XxdLJ_NXLbhuRaINmKeZacIEB67iZSZLCWwFGpyLwAq2o2w%3D%3D)**
 
 MarketWatch • 1h ago
 
 ---
 
-**[Exclusive: Meta strikes multiple AI deals with news publishers](https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers)**
+**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
 
-Axios • 8h ago
+While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
----
-
-**[Meta strikes multiple AI deals with news publishers](https://www.cnbc.com/2025/12/05/meta-strikes-multiple-ai-deals-with-news-publishers.html)**
-
-Meta has struck several commercial AI data agreements with news publishers, including USA Today, People, CNN and Fox News, the company said on Friday.
-
-CNBC • 6h ago
-
----
-
-**[Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)**
-
-Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
-
-TechCrunch • 43m ago
+Fortune • 1d ago
 
 ---
 
@@ -181,11 +181,11 @@ The Atlantic • 1d ago
 
 ---
 
-**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
+**[A safety report card ranks AI company efforts to protect humanity](https://www.latimes.com/entertainment-arts/business/story/2025-12-05/ai-artificial-intelligence-company-scorecard-ranks-safety-humanity)**
 
-While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
+Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety.
 
-Fortune • 1d ago
+Los Angeles Times • 10h ago
 
 ---
 
@@ -363,7 +363,7 @@ With headlines of an imminent job apocalypse, code red for ChatGPT and recursive
 
 📺 AI Explained
 
-👁️ 12K • 👍 879 • 💬 181 • ⏱️ 20:16 • 4h ago
+👁️ 12K • 👍 879 • 💬 181 • ⏱️ 20:16 • 5h ago
 
 ---
 
@@ -437,7 +437,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 284 • 19h ago
+⬇️ 12,984 • ❤️ 284 • 20h ago
 
 ---
 
@@ -535,7 +535,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 21 • 💬 1 • ⭐ 230 • 3d ago
+▲ 22 • 💬 1 • ⭐ 230 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -561,7 +561,7 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 105 • 💬 4 • ⭐ 5,264 • 15d ago
+▲ 105 • 💬 4 • ⭐ 5,285 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
@@ -627,7 +627,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 25 • 💬 1 • ⭐ 33 • 1d ago
+▲ 25 • 💬 1 • ⭐ 56 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -683,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 825 • 🔱 103 • 1h ago
+⭐ 825 • 🔱 103 • 24m ago
 
 ---
 
@@ -693,7 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 15h ago
+⭐ 822 • 🔱 42 • 16h ago
 
 ---
 
@@ -713,7 +713,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 751 • 🔱 19 • 10d ago
+⭐ 752 • 🔱 19 • 10d ago
 
 ---
 
@@ -723,7 +723,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 710 • 🔱 14 • 16d ago
+⭐ 712 • 🔱 14 • 16d ago
 
 ---
 
@@ -733,7 +733,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 494 • 🔱 41 • 2d ago
+⭐ 495 • 🔱 41 • 2d ago
 
 ---
 

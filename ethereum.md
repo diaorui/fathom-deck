@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T16:20:42.613273+00:00'
+updated: '2025-12-05T16:47:06.732401+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 16:20 UTC  
+**Last Updated:** December 05, 2025 at 16:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** +2.4%  
-**30d:** -7.7%  
-**90d:** -29.1%  
-**1y:** -23.4%  
+**24h:** -4.1%  
+**7d:** +1.2%  
+**30d:** -8.8%  
+**90d:** -29.9%  
+**1y:** -24.2%  
 
 ---
 
@@ -88,7 +88,7 @@ Trump crypto empire falls faster than bitcoin
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 4h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 5h ago
 
 ---
 
@@ -104,7 +104,7 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 15h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 16h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[🚀 Ethereum Fusaka is Live: The “Unsung Hero” Upgrade You Need to Know About](https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/)**
 
-🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 23h ago
+🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 1d ago
 
 ---
 
@@ -232,7 +232,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 4K • 💬 417 • ⏱️ 11:16 • 14h ago
+👁️ 56K • 👍 4K • 💬 417 • ⏱️ 11:16 • 15h ago
 
 ---
 
@@ -242,7 +242,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 17K • 👍 1K • 💬 113 • ⏱️ 31:23 • 6h ago
+👁️ 17K • 👍 1K • 💬 113 • ⏱️ 31:23 • 7h ago
 
 ---
 
@@ -252,7 +252,7 @@ Ethereum is finally showing signs of a major reversal, and the charts suggest th
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 114 • 1h ago
+👁️ 1K • 👍 114 • 2h ago
 
 ---
 
@@ -262,7 +262,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 31K • 👍 2K • 💬 112 • ⏱️ 17:37 • 22h ago
+👁️ 31K • 👍 2K • 💬 112 • ⏱️ 17:37 • 23h ago
 
 ---
 
@@ -272,7 +272,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 282 • 👍 24 • 💬 176 • ⏱️ 5:24 • 2h ago
+👁️ 282 • 👍 24 • 💬 176 • ⏱️ 5:24 • 3h ago
 
 ---
 
@@ -302,7 +302,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 290 • 💬 339 • ⏱️ 15:38 • 10h ago
+👁️ 9K • 👍 290 • 💬 339 • ⏱️ 15:38 • 11h ago
 
 ---
 

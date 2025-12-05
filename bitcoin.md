@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T16:20:42.607879+00:00'
+updated: '2025-12-05T16:47:06.726794+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 16:20 UTC  
+**Last Updated:** December 05, 2025 at 16:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,140.25
+### $88,171.84
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.3%  
-**7d:** -1.6%  
-**30d:** -11.9%  
-**90d:** -19.8%  
-**1y:** -10.4%  
+**24h:** -4.1%  
+**7d:** -2.4%  
+**30d:** -12.6%  
+**90d:** -20.5%  
+**1y:** -11.1%  
 
 ---
 
@@ -99,7 +99,7 @@ Im only up 3000% now
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 **[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -139,7 +139,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 **[Cant stop, won't stop Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pelu4f/cant_stop_wont_stop_bitcoin/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -151,7 +151,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo Finance • 1d ago
 
 **[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqfemkXYQHtC-Ib2q17IDHI-RzJTrPzuqiXfcTp4E0lM1-I45othLSyV&gaa_ts=693309c6&gaa_sig=i0GlxL4ObgPZnEV9aHmqJng76gm6GLleT3Q0iiHgf14jN8D7XzKLlOU8EVUd4YDh2I9ixGcNG04ZhABx6b2b0A%3D%3D)**
 
-MarketWatch • 19h ago
+MarketWatch • 20h ago
 
 ---
 
@@ -219,7 +219,7 @@ MarketWatch • 19h ago
 
 Investors yanked more than $2.7 billion from the exchange-traded fund over the five weeks to Nov. 28, according to data compiled by Bloomberg.  The IBIT fund oversees more than $71 billion in assets and has served as the flagship vehicle for traditional investors seeking exposure to Bitcoin.  The sustained period of outflows aligns with Bitcoin’s slide into a bear market following a severe liquidation event in early October, which kicked off a more than $1 trillion wipeout in crypto market value.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -295,7 +295,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol](https://news.ycombinator.com/item?id=46149605)**
 
-⬆️ 1 • 💬 0 • 23h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
+⬆️ 1 • 💬 0 • 1d ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
 
 ---
 
@@ -309,7 +309,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 3K • 💬 194 • ⏱️ 15:38 • 4h ago
+👁️ 30K • 👍 3K • 💬 194 • ⏱️ 15:38 • 5h ago
 
 ---
 
@@ -319,7 +319,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 290 • 💬 339 • ⏱️ 15:38 • 10h ago
+👁️ 9K • 👍 290 • 💬 339 • ⏱️ 15:38 • 11h ago
 
 ---
 
@@ -339,7 +339,7 @@ Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.c
 
 📺 Crypto Lifer
 
-👁️ 2K • 👍 300 • 3h ago
+👁️ 2K • 👍 300 • 4h ago
 
 ---
 
@@ -349,7 +349,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 4K • 💬 417 • ⏱️ 11:16 • 14h ago
+👁️ 56K • 👍 4K • 💬 417 • ⏱️ 11:16 • 15h ago
 
 ---
 

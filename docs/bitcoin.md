@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T20:40:56.401082+00:00'
+updated: '2025-12-05T20:53:20.476881+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 20:40 UTC  
+**Last Updated:** December 05, 2025 at 20:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -1.5%  
-**30d:** -11.8%  
-**90d:** -19.7%  
-**1y:** -10.3%  
+**24h:** -3.0%  
+**7d:** -1.7%  
+**30d:** -11.9%  
+**90d:** -19.8%  
+**1y:** -10.4%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
 
-31m ago
+43m ago
 
 ---
 
@@ -141,7 +141,7 @@ Most people let their wallet software generate their private key, which is total
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -153,7 +153,7 @@ Most people let their wallet software generate their private key, which is total
 
 Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ The New York Times • 2d ago
 
 **[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeSND8S64a8nNO3Gc6CgXbobDAN2RRA8lllc2M7mGoZ0rl7pb6bBBTS&gaa_ts=693346c3&gaa_sig=ZBMvt4SGNpNR9RYIBcU8EtXwo4Ptnw6lRKjn6ptPaeR-H7DdqwwFZDs3WixMqQpazeOzMDiG-pBaVqP6Q5Ip7A%3D%3D)**
 
-MarketWatch • 23h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -289,7 +289,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Market Volatility Underscores Epic Buildup of Global Risk](https://news.ycombinator.com/item?id=46126556)**
 
-⬆️ 1 • 💬 3 • 2d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
+⬆️ 1 • 💬 3 • 3d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
 
 ---
 
@@ -359,7 +359,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 3K • 💬 313 • ⏱️ 23:27 • 19h ago
+👁️ 42K • 👍 3K • 💬 313 • ⏱️ 23:27 • 20h ago
 
 ---
 

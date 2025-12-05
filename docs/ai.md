@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T20:40:56.391943+00:00'
+updated: '2025-12-05T20:53:20.468463+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 20:40 UTC  
+**Last Updated:** December 05, 2025 at 20:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 22h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 23h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 10h ago
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-CNBC • 57m ago
+CNBC • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Business Insider • 1h ago
 
 Royal Philips recently expanded commercial availability of its LumiGuide 3D Device Guidance across Europe and the US and unveiled its BlueSeal Horizon helium-free 3.0T MRI platform with integrated clinical AI, while also reiterating its 2026 earnings guidance and expectation of sequential comparable sales growth. Together, these AI-driven, low- and no-radiation imaging innovations signal Philips’ push to pair safer, more efficient procedures with a more predictable medium-term performance...
 
-Yahoo Finance • 31m ago
+Yahoo Finance • 44m ago
 
 ---
 
@@ -179,7 +179,7 @@ Fortune • 1d ago
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-The Atlantic • 22h ago
+The Atlantic • 23h ago
 
 ---
 
@@ -437,7 +437,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 281 • 18h ago
+⬇️ 12,984 • ❤️ 281 • 19h ago
 
 ---
 
@@ -529,18 +529,6 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
-**[Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](https://huggingface.co/papers/2512.04678)**
-
-*Yunhong Lu, Yanhong Zeng, Haobo Li et al. (12 authors)*
-
-The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.
-
-▲ 31 • 💬 2 • ⭐ 70 • 1d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.04678) • [💻 code](https://github.com/JaydenLyh/Reward-Forcing) • [🔗 project](https://reward-forcing.github.io/)
-
----
-
 **[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://huggingface.co/papers/2512.02589)**
 
 *Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)*
@@ -549,9 +537,21 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 21 • 💬 1 • ⭐ 176 • 3d ago
+▲ 21 • 💬 1 • ⭐ 230 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
+
+---
+
+**[Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](https://huggingface.co/papers/2512.04678)**
+
+*Yunhong Lu, Yanhong Zeng, Haobo Li et al. (12 authors)*
+
+The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.
+
+▲ 31 • 💬 2 • ⭐ 87 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.04678) • [💻 code](https://github.com/JaydenLyh/Reward-Forcing) • [🔗 project](https://reward-forcing.github.io/)
 
 ---
 
@@ -615,7 +615,7 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 103 • 💬 6 • ⭐ 65,826 • 1mo ago
+▲ 103 • 💬 6 • ⭐ 65,839 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 824 • 🔱 103 • 4h ago
+⭐ 825 • 🔱 103 • 23m ago
 
 ---
 
@@ -695,7 +695,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 14h ago
+⭐ 822 • 🔱 42 • 15h ago
 
 ---
 
@@ -725,7 +725,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 709 • 🔱 14 • 16d ago
+⭐ 710 • 🔱 14 • 16d ago
 
 ---
 
@@ -735,7 +735,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 493 • 🔱 41 • 2d ago
+⭐ 494 • 🔱 41 • 2d ago
 
 ---
 

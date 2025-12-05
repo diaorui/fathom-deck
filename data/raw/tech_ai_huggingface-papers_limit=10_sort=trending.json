@@ -39,25 +39,6 @@
       "project_page": "https://tongyi-mai.github.io/Z-Image-blog/"
     },
     {
-      "id": "2512.04678",
-      "title": "Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation",
-      "authors": "Yunhong Lu, Yanhong Zeng, Haobo Li et al. (12 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Efficient streaming video generation is critical for simulating interactive and dynamic worlds. Existing methods distill few-step video diffusion models with sliding window attention, using initial frames as sink tokens to maintain attention performance and reduce error accumulation. However, video frames become overly dependent on these static tokens, resulting in copied initial frames and diminished motion dynamics. To address this, we introduce Reward Forcing, a novel framework with two key designs. First, we propose EMA-Sink, which maintains fixed-size tokens initialized from initial frames and continuously updated by fusing evicted tokens via exponential moving average as they exit the sliding window. Without additional computation cost, EMA-Sink tokens capture both long-term context and recent dynamics, preventing initial frame copying while maintaining long-horizon consistency. Second, to better distill motion dynamics from teacher models, we propose a novel Rewarded Distribution Matching Distillation (Re-DMD). Vanilla distribution matching treats every training sample equally, limiting the model's ability to prioritize dynamic content. Instead, Re-DMD biases the model's output distribution toward high-reward regions by prioritizing samples with greater dynamics rated by a vision-language model. Re-DMD significantly enhances motion quality while preserving data fidelity. We include both quantitative and qualitative experiments to show that Reward Forcing achieves state-of-the-art performance on standard benchmarks while enabling high-quality streaming video generation at 23.1 FPS on a single H100 GPU.",
-      "ai_summary": "The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.",
-      "hf_url": "https://huggingface.co/papers/2512.04678",
-      "arxiv_url": "https://arxiv.org/abs/2512.04678",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2512.04678.png",
-      "upvotes": 31,
-      "num_comments": 2,
-      "published_at": "2025-12-04T06:12:13.000Z",
-      "github_repo": "https://github.com/JaydenLyh/Reward-Forcing",
-      "github_stars": 70,
-      "project_page": "https://reward-forcing.github.io/"
-    },
-    {
       "id": "2512.02589",
       "title": "PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing",
       "authors": "Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)",
@@ -73,8 +54,27 @@
       "num_comments": 1,
       "published_at": "2025-12-02T05:00:37.000Z",
       "github_repo": "https://github.com/PaperDebugger/PaperDebugger",
-      "github_stars": 176,
+      "github_stars": 230,
       "project_page": "https://www.paperdebugger.com/"
+    },
+    {
+      "id": "2512.04678",
+      "title": "Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation",
+      "authors": "Yunhong Lu, Yanhong Zeng, Haobo Li et al. (12 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Efficient streaming video generation is critical for simulating interactive and dynamic worlds. Existing methods distill few-step video diffusion models with sliding window attention, using initial frames as sink tokens to maintain attention performance and reduce error accumulation. However, video frames become overly dependent on these static tokens, resulting in copied initial frames and diminished motion dynamics. To address this, we introduce Reward Forcing, a novel framework with two key designs. First, we propose EMA-Sink, which maintains fixed-size tokens initialized from initial frames and continuously updated by fusing evicted tokens via exponential moving average as they exit the sliding window. Without additional computation cost, EMA-Sink tokens capture both long-term context and recent dynamics, preventing initial frame copying while maintaining long-horizon consistency. Second, to better distill motion dynamics from teacher models, we propose a novel Rewarded Distribution Matching Distillation (Re-DMD). Vanilla distribution matching treats every training sample equally, limiting the model's ability to prioritize dynamic content. Instead, Re-DMD biases the model's output distribution toward high-reward regions by prioritizing samples with greater dynamics rated by a vision-language model. Re-DMD significantly enhances motion quality while preserving data fidelity. We include both quantitative and qualitative experiments to show that Reward Forcing achieves state-of-the-art performance on standard benchmarks while enabling high-quality streaming video generation at 23.1 FPS on a single H100 GPU.",
+      "ai_summary": "The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.",
+      "hf_url": "https://huggingface.co/papers/2512.04678",
+      "arxiv_url": "https://arxiv.org/abs/2512.04678",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2512.04678.png",
+      "upvotes": 31,
+      "num_comments": 2,
+      "published_at": "2025-12-04T06:12:13.000Z",
+      "github_repo": "https://github.com/JaydenLyh/Reward-Forcing",
+      "github_stars": 87,
+      "project_page": "https://reward-forcing.github.io/"
     },
     {
       "id": "2511.16719",
@@ -168,7 +168,7 @@
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65826,
+      "github_stars": 65839,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-05T19:41:45.029595+00:00"
+  "fetched_at": "2025-12-05T20:53:08.551929+00:00"
 }

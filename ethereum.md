@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T22:52:03.373950+00:00'
+updated: '2025-12-05T23:13:49.400341+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 22:52 UTC  
+**Last Updated:** December 05, 2025 at 23:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** +1.3%  
-**30d:** -8.7%  
-**90d:** -29.8%  
-**1y:** -24.2%  
+**24h:** -4.1%  
+**7d:** +0.9%  
+**30d:** -9.1%  
+**90d:** -30.1%  
+**1y:** -24.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $364.59B
+**Market Cap:** $363.82B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.9%
+-39.0%
 
 **All-Time Low:** $0.43
-+698162.5%
++696150.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -152,7 +152,7 @@ a wonderful fusaka day to you all - original post if you want to help boost on t
 
 Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Block • 1d ago
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -196,7 +196,7 @@ Nasdaq • 1d ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 170 • 💬 21 • ⏱️ 5:20 • 7h ago
+👁️ 2K • 👍 170 • 💬 21 • ⏱️ 5:20 • 8h ago
 
 ---
 
@@ -274,7 +274,7 @@ Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydf
 
 📺 BitBoy X
 
-👁️ 2K • 👍 192 • ⏱️ 25:41 • 5h ago
+👁️ 2K • 👍 192 • ⏱️ 25:41 • 6h ago
 
 ---
 

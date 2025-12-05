@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T22:52:03.377186+00:00'
+updated: '2025-12-05T23:13:49.403594+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 22:52 UTC  
+**Last Updated:** December 05, 2025 at 23:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ For a long time, many robotics teams believed that real robot interaction data w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 20h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 21h ago
 
 ---
 
@@ -66,7 +66,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now available! If you want a quick summary of the event I put together ROSCon 2025 Recap for the OpenCV Weekly Webinar.       For Giving Tuesday we put together a new campaign for ROS users to become a become a Build Farm Backer. If you’ve every saved a few minutes by running sudo apt install ros-kilted-* instead of compiling from source we would love it if you helped cover our compute costs. Also, for the first time ever, we...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 2h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 3h ago
 
 ---
 
@@ -128,7 +128,7 @@ IEEE Spectrum • 2d ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 7h ago
+MIT News • 8h ago
 
 ---
 
@@ -162,6 +162,14 @@ Fierce Biotech • 2d ago
 
 ---
 
+**[Video: US humanoid robot nears human jogging pace in new running demo](https://interestingengineering.com/ai-robotics/figure-humanoid-nears-human-jogging-pace)**
+
+Figure AI CEO Brett Adcock dropped a short, electrifying video on social media, teasing the extraordinary speed and agility of Figure 03 humanoid robot.
+
+Interesting Engineering • 14h ago
+
+---
+
 **[AI advances robot navigation on the International Space Station](https://news.stanford.edu/stories/2025/12/ai-robot-international-space-station-autonomous-missions)**
 
 Stanford Report • 2d ago
@@ -173,12 +181,6 @@ Stanford Report • 2d ago
 Bradford researchers will take part in a pilot scheme in Greece next year to help spot wildfires.
 
 BBC • 1d ago
-
----
-
-**[Classical Indian dance inspires new ways to teach robots how to use their hands](https://techxplore.com/news/2025-12-classical-indian-ways-robots.html)**
-
-Tech Xplore • 1d ago
 
 ---
 
@@ -202,7 +204,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 41K • 👍 207 • 💬 6 • ⏱️ 0:19 • 9h ago
+👁️ 41K • 👍 207 • 💬 6 • ⏱️ 0:19 • 10h ago
 
 ---
 
@@ -252,7 +254,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 61K • 👍 336 • 💬 3 • ⏱️ 0:19 • 17h ago
+👁️ 61K • 👍 336 • 💬 3 • ⏱️ 0:19 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T22:52:03.367828+00:00'
+updated: '2025-12-05T23:13:49.394349+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 22:52 UTC  
+**Last Updated:** December 05, 2025 at 23:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** -1.6%  
-**30d:** -11.9%  
-**90d:** -19.8%  
-**1y:** -10.4%  
+**24h:** -3.3%  
+**7d:** -1.9%  
+**30d:** -12.1%  
+**90d:** -20.0%  
+**1y:** -10.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1779.03B
+**Market Cap:** $1777.04B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.3%
 
 **All-Time Low:** $67.81
-+131399.8%
++131317.2%
 
 ---
 
@@ -99,13 +99,21 @@ Rank #1
 
 Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
 
-2h ago
+3h ago
 
 ---
 
 **[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
 
 4h ago
+
+---
+
+**[Are you concerned about Bitcoin's 4-year cycle?](https://www.reddit.com/r/Bitcoin/comments/1pf7oou/are_you_concerned_about_bitcoins_4year_cycle/)**
+
+I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
+
+1h ago
 
 ---
 
@@ -119,7 +127,7 @@ Charts like this always remind me why time in the market beats timing the market
 
 Most people let their wallet software generate their private key, which is totally fine but Bitcoin doesn’t require a computer to create one. A Bitcoin private key is just a 256-bit number… And a fair coin flip produces 1 bit of entropy. So in theory (and in practice), you can generate a completely valid, secure Bitcoin private key by doing: Heads = 1 Tails = 0 The math is simple. 256 coin flips is 2^256 potential outcomes. Once you have your 256-bit binary sequence, you can convert it offline into: hex format WIF private key or even a BIP39 seed phrase All without touching the internet. You could also do this with dice, a dice roll is roughly 2.585 bits of entropy. Therefore 99-100 dice rolls will give you enough entropy for a 256 bit private key. This works because Bitcoin’s security comes from math. I mean how could you not love Bitcoin!
 
-4h ago
+5h ago
 
 ---
 
@@ -127,15 +135,7 @@ Most people let their wallet software generate their private key, which is total
 
 Hi I’m new to this. I don’t have a lot of money to put into it but wanted to start with 100. It’s ok ?
 
-5h ago
-
----
-
-**[The Struggle….](https://www.reddit.com/r/Bitcoin/comments/1peipkt/the_struggle/)**
-
-Im only up 3000% now
-
-20h ago
+6h ago
 
 ---
 
@@ -149,25 +149,17 @@ Im only up 3000% now
 
 ## Google News: "bitcoin"
 
-**[BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now](https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now)**
+**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
 
-Fast Company • 4h ago
+The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
 
----
-
-**[Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus](https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus)**
-
-The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high.
-
-CoinDesk • 16h ago
+Bloomberg.com • 6h ago
 
 ---
 
-**[Bitcoin down for 2025 while S&P 500 is up — a first since 2014](https://finance.yahoo.com/video/bitcoin-down-2025-while-p-215541104.html)**
+**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqd-NumkNWAvS02o4mPZ_mPhE28xyUaZCPe_VQj_k2e3xv6F39pP88FC&gaa_ts=69336a91&gaa_sig=zdPLlIEJ0E_ujc4aMFCABqAQeFtz6Be0LrfzVutqFICzscfcybL3QxX-wCy6Moj4lWWDIOSNxGdbtXu8Oqcn9A%3D%3D)**
 
-Bitcoin (BTC-USD) is on track to record a yearly decline for 2025, while the S&P 500 (^GSPC) sees gains for the same period. This would mark the first split in crypto and equity performance since 2014, according to Bloomberg. Yahoo Finance Senior Reporter Ines Ferré examines the phenomenon and how precious metal prices (GC=F, SI=F) play a part. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
-
-Yahoo Finance • 56m ago
+Barron's • 2d ago
 
 ---
 
@@ -193,29 +185,35 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+
+In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+
+CNBC • 1d ago
+
+---
+
 **[Bitcoin’s Predicted Sky-High Prices Have Not Panned Out](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
 
 The New York Times • 2d ago
 
 ---
 
-**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdCOUtKg4EiDnWboNV9kkH9sbEmjojQGOqudb55EnsHjSUkOLZgPNu2&gaa_ts=69336a91&gaa_sig=fcAFVSai4LPrxw6vNpXvLG6Uk1I59tSczA28StPKbF0gdRmyJMYdYudYUxxiuH3vpdx9T_9qOpUGIFeWfiSHsg%3D%3D)**
 
-BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
-
-Bloomberg.com • 7h ago
+MarketWatch • 1d ago
 
 ---
 
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcRcw2q-x341elCFusAuP2rM-QbatBb7-jKUYYSYhELWgAwGHpTFTfX&gaa_ts=69336301&gaa_sig=lmhncs3NPH7a6pH9SQvJklfIKrIBmCUbcgBawr5uhvycwtruDEV3yKCw0tU88AlCpE7cMjtuqGh8B8vUHBcKXg%3D%3D)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdbo-15c63H4ur2UckjD5eE8u4nJTx2mWKQe6wE94AfYuVmwZrPEYlH&gaa_ts=69336a91&gaa_sig=FFo4Y-HBK2g8h9MF6oSsMzRWK_t6Qy0pTZDgHW0jgFItkZL_WdoJvTKHJDc5Y9ruSk_0vL2VaL9f9nZwgpSupQ%3D%3D)**
 
-The Wall Street Journal • 2d ago
+The Wall Street Journal • 3d ago
 
 ---
 
-**[Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks](https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit)**
+**[Bitcoin price today: slides to $90k ahead of PCE inflation, potential Fed cut](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-dips-to-92k-ahead-of-pce-inflation-potential-fed-cut-4392545)**
 
-The Block • 16h ago
+Investing.com • 8h ago
 
 ---
 
@@ -249,7 +247,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 The endowment dramatically increased its holdings of a spot bitcoin ETF since its previous such report.Â
 
-⬆️ 2 • 💬 1 • 1d ago • [Gizmodo](https://gizmodo.com/the-harvard-endowments-biggest-public-investment-is-now-bitcoin-2000686439)
+⬆️ 2 • 💬 1 • 2d ago • [Gizmodo](https://gizmodo.com/the-harvard-endowments-biggest-public-investment-is-now-bitcoin-2000686439)
 
 ---
 
@@ -325,7 +323,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 10K • 👍 1K • 💬 235 • ⏱️ 10:23 • 5h ago
+👁️ 10K • 👍 1K • 💬 235 • ⏱️ 10:23 • 6h ago
 
 ---
 
@@ -345,7 +343,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 436 • 💬 286 • ⏱️ 5:50 • 5h ago
+👁️ 7K • 👍 436 • 💬 286 • ⏱️ 5:50 • 6h ago
 
 ---
 
@@ -355,7 +353,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 4K • 💬 331 • ⏱️ 23:27 • 21h ago
+👁️ 44K • 👍 4K • 💬 331 • ⏱️ 23:27 • 22h ago
 
 ---
 
@@ -395,7 +393,7 @@ Watch all of the day's interviews: https://www.youtube.com/playlist?list=PLN09Hi
 
 📺 New York Times Events
 
-👁️ 74K • 👍 2K • 💬 91 • ⏱️ 34:35 • 1d ago
+👁️ 74K • 👍 2K • 💬 91 • ⏱️ 34:35 • 2d ago
 
 ---
 

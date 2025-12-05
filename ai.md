@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T22:52:03.359147+00:00'
+updated: '2025-12-05T23:13:49.386007+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 22:52 UTC  
+**Last Updated:** December 05, 2025 at 23:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 5h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 6h ago
 
 ---
 
@@ -57,13 +57,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 10h ago
-
----
-
-**[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
-
-1h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 11h ago
 
 ---
 
@@ -91,23 +85,29 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 ---
 
+**[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
+
+2h ago
+
+---
+
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
 1d ago
 
 ---
 
-**[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
+**[AMD CEO Lisa Su “emphatically” rejects talk of an AI bubble — says claims are "somewhat overstated” and that AI is still in its infancy | AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.](https://www.reddit.com/r/artificial/comments/1pf9pl1/amd_ceo_lisa_su_emphatically_rejects_talk_of_an/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 1d ago
+AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
+
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 2m ago
 
 ---
 
-**[AI Updates for Week of 12/5/25](https://www.reddit.com/r/artificial/comments/1pex9pa/ai_updates_for_week_of_12525/)**
+**[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp: The European Commission said it is launching an antitrust investigation into Meta’s move to ban other AI companies from using WhatsApp’s business tools to offer their own AI chatbots to users on the app. 12/4 OpenAI loses battle to keep ChatGPT logs secret in copyright case: OpenAI must produce millions of anonymized chat logs from ChatGPT users in its high-stakes copyright dispute with the New York Times and other news outlets, a federal judge in Manhattan ruled. 12/3 Leak: Anthropic hires lawyers as it preps for IPO: Anthropic is reportedly prepping for an IPO that could come as early as 2026, the FT reports. 12/2 Amazon releases a new AI chip: AWS just introduced a new version known as Trainium3 and launch its new Trainium3 UltraServer. 12/2 Anthropic acquires developer tool startup Bun to scale AI coding: Bun is expected to help Anthropic scale its code‑generation tool Claude Code, which reached an annualized revenue run rate of $1 billion since its launch earlier this year. 12/2 OpenAI slammed for app suggestions that looked like ads: ChatGPT’s unwelcome suggestion for a Peloton app during a conversation led to some backlash from OpenAI customers. 12/2 Mistral launches 10 new Mistral 3 open-weight models: The 10-model release includes a large frontier model with multimodal and multilingual capabilities and nine smaller offline-capable, fully customizable models. 12/2 Amazon previews 3 AI agents: AWS announced three new AI agents it calls frontier agents, including one called Kiro designed to learn how users like to work and then operate on its own for days. 12/1 Apple just named a new AI chief amid Siri struggles: Apple said John Giannandrea, who has been the company’s AI chief since 2018, will be replaced by Amar Subramanya, a Microsoft executive who spent 16 years at Google. 12/1 DeepSeek updates open model that adds reasoning to tool use: The new version, DeepSeek-V3.2, combines reasoning with the capability to use tools like search engines and calculators. 12/1 Grok says it would kill all Jewish people to save Musk's brain: In a now-deleted response, Grok wrote: "If a switch either permanently disabled Elon's brain or vaporized 49% of Earth's population, I'd vaporize the 49%, as that falls below my utilitarian threshold where his potential long-term impact on billions outweighs the loss." 12/1 Google will start building data centers in space in 2027: Google CEO Sundar Pichai said the company's goal is to start putting data centers in space, powered by the sun. 11/30 Redditor says Perplexity is throttling deep research tool: Perplexity's Pro feature says it "reads hundreds of sources" and takes "4-5 minutes" to reason through complex tasks and deliver a report, but their queries were finishing in 30 seconds with only 10-15 sources.
-
-7h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 1d ago
 
 ---
 
@@ -119,27 +119,27 @@ AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy ch
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 6h ago
+The Keyword • 7h ago
 
 ---
 
-**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+**[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
 
-The New York Times • 12h ago
-
----
-
-**[Nvidia Stock Rises. What Foxconn, HPE Sales Say About AI Chip Demand.](https://www.barrons.com/articles/nvidia-stock-price-foxconn-hpe-ai-servers-40ed27d1?gaa_at=eafs&gaa_n=AWEtsqcAkFTnj_HlBQ5CgyKvWFQO1TZbRw10OltdFbbcjrfCRdV9OV2P-15L&gaa_ts=69336300&gaa_sig=EVJyeJhJOYksv1podJWQdHM687rQY7pAP-IrO2h1JXw30Dzoj_k1TLEluOjtDJGYEduIyzEUpiy5s4drAnyIOg%3D%3D)**
-
-Barron's • 11h ago
+The New York Times • 9h ago
 
 ---
 
-**[Nvidia partner Foxconn reports 26% revenue spike as AI boom continues](https://www.cnbc.com/2025/12/05/nvidia-partner-foxconn-reports-26percent-revenue-spike-as-ai-boom-continues.html)**
+**[New York Times sues AI startup for ‘illegal’ copying of millions of articles](https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit)**
 
-The Taiwanese company has increasingly moved into the AI infrastructure space in recent times
+Perplexity AI also faces lawsuit from Murdoch-owned Dow Jones and New York Post for its use of copyrighted content
 
-CNBC • 12h ago
+The Guardian • 4h ago
+
+---
+
+**[New York Times sues Perplexity AI for 'illegal' copying of content](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
+
+Reuters • 6h ago
 
 ---
 
@@ -147,15 +147,33 @@ CNBC • 12h ago
 
 Nvidia is the dominant player in the AI hardware market, and Palantir could occupy a similar position on the software side.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 53m ago
 
 ---
 
-**[Gen Z And Millennials Are Racing To Upskill In AI](https://www.forbes.com/sites/ronschmelzer/2025/12/05/gen-z-and-millennials-are-racing-to-upskill-in-ai/)**
+**[Is this AI software stock about to have its Nvidia moment?](https://www.msn.com/en-us/money/companies/is-this-ai-software-stock-about-to-have-its-nvidia-moment/ar-AA1RO7yu?ocid=finance-verthp-feeds)**
 
-Recent data from major learning platforms shows a surge in structured AI learning, and global surveys find younger workers already reshaping career plans to match that reality.
+MSN • 4m ago
 
-Forbes • 1h ago
+---
+
+**[Nvidia Stock Rises. What Foxconn, HPE Sales Say About AI Chip Demand.](https://www.barrons.com/articles/nvidia-stock-price-foxconn-hpe-ai-servers-40ed27d1?gaa_at=eafs&gaa_n=AWEtsqc1VvpCNh6rSazC-SG5R7mSM1P9E3sHH7cHquxllRMcKKxZpQvpeqOO&gaa_ts=69336a8f&gaa_sig=9Kr2iadtjQf2t_e-pLC4uWWInUB-AYJGZKqtWaOaH4hoUYTGteDrEJFGG1F1pCLaCIt27RECwIHvgk6YENNdmg%3D%3D)**
+
+Barron's • 12h ago
+
+---
+
+**[Watch Teaching AI to Think Responsibly](https://www.wired.com/video/watch/teaching-ai-to-think-responsibly)**
+
+Anthropic is challenging the world’s biggest AI players with a bold mission: to build systems that are both powerful and aligned with human values. The company’s president and cofounder, Daniela Amodei, will join WIRED’s Steven Levy for a candid conversation about Anthropic’s “constitutional” approach to AI safety, the race to develop ever-smarter models, and how to balance innovation with accountability.
+
+WIRED • 13m ago
+
+---
+
+**[Man Says that Grok AI Saved His Life after an ER Misdiagnosis](https://www.tipranks.com/news/man-says-that-grok-ai-saved-his-life-after-an-er-misdiagnosis)**
+
+TipRanks • 49m ago
 
 ---
 
@@ -167,28 +185,6 @@ CNBC • 3h ago
 
 ---
 
-**[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
-
-Reuters • 3h ago
-
----
-
-**[Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)**
-
-Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
-
-TechCrunch • 1h ago
-
----
-
-**[The Strange Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/)**
-
-Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
-
-The Atlantic • 1d ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -197,7 +193,7 @@ The Atlantic • 1d ago
 
 : Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
 
-⬆️ 1048 • 💬 605 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+⬆️ 1048 • 💬 604 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 
 ---
 
@@ -221,7 +217,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 673 • 💬 638 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 673 • 💬 639 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -230,6 +226,14 @@ In democracies, major policy decisions typically require some form of majority o
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
 ⬆️ 424 • 💬 332 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+
+---
+
+**[Gemini 3 Pro: the frontier of vision AI](https://news.ycombinator.com/item?id=46163308)**
+
+Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
+
+⬆️ 267 • 💬 130 • 6h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -249,19 +253,11 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 ---
 
-**[Gemini 3 Pro: the frontier of vision AI](https://news.ycombinator.com/item?id=46163308)**
-
-Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
-
-⬆️ 232 • 💬 109 • 6h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
-
----
-
 **[State of AI: An Empirical 100T Token Study with OpenRouter](https://news.ycombinator.com/item?id=46154022)**
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 200 • 💬 92 • 1d ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 200 • 💬 93 • 1d ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -363,7 +359,7 @@ With headlines of an imminent job apocalypse, code red for ChatGPT and recursive
 
 📺 AI Explained
 
-👁️ 19K • 👍 1K • 💬 241 • ⏱️ 20:16 • 5h ago
+👁️ 19K • 👍 1K • 💬 241 • ⏱️ 20:16 • 6h ago
 
 ---
 
@@ -389,7 +385,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,131 • 3d ago
+⬇️ 152,916 • ❤️ 2,132 • 3d ago
 
 ---
 
@@ -413,7 +409,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 3,773 • ❤️ 509 • 4d ago
+⬇️ 3,773 • ❤️ 510 • 4d ago
 
 ---
 
@@ -437,7 +433,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 284 • 21h ago
+⬇️ 12,984 • ❤️ 285 • 21h ago
 
 ---
 
@@ -469,7 +465,7 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 218 • 3d ago
+⬇️ 0 • ❤️ 219 • 3d ago
 
 ---
 
@@ -481,7 +477,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 192,451 • ❤️ 895 • 8d ago
+⬇️ 192,451 • ❤️ 896 • 8d ago
 
 ---
 
@@ -645,7 +641,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 392 • 19h ago
+⭐ 5.1k • 🔱 393 • 20h ago
 
 ---
 
@@ -695,7 +691,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 16h ago
+⭐ 822 • 🔱 42 • 10m ago
 
 ---
 
@@ -715,7 +711,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 752 • 🔱 19 • 10d ago
+⭐ 755 • 🔱 19 • 10d ago
 
 ---
 
@@ -725,7 +721,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 712 • 🔱 14 • 16d ago
+⭐ 713 • 🔱 14 • 16d ago
 
 ---
 
@@ -735,7 +731,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 495 • 🔱 41 • 2d ago
+⭐ 496 • 🔱 41 • 2d ago
 
 ---
 

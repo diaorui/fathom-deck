@@ -11,6 +11,7 @@ from urllib.parse import urlparse
 from ..core.base_widget import BaseWidget
 from ..core.url_fetch_manager import get_url_fetch_manager
 from ..core.url_metadata import get_url_metadata_extractor
+from ..core.utils import format_timestamp_ago
 
 
 class RedditPostsWidget(BaseWidget):
@@ -174,3 +175,58 @@ class RedditPostsWidget(BaseWidget):
             posts=posts,
             timestamp_iso=timestamp_iso
         )
+
+    def to_markdown(self, processed_data: Dict[str, Any]) -> str:
+        """Convert Reddit posts data to markdown format."""
+        subreddit = processed_data.get("subreddit", "")
+        posts = processed_data.get("posts", [])
+        timestamp_iso = processed_data.get("fetched_at", "")
+
+        # Parse timestamp for display
+        try:
+            dt = datetime.fromisoformat(timestamp_iso.replace('Z', '+00:00'))
+            timestamp_display = dt.strftime("%B %d, %Y at %H:%M UTC")
+        except:
+            timestamp_display = timestamp_iso
+
+        md_parts = []
+
+        # Widget header (match HTML: title with subreddit)
+        md_parts.append(f"## Reddit: r/{subreddit}")
+        md_parts.append("")
+
+        for idx, post in enumerate(posts, 1):
+            # Title with link (matches HTML)
+            title = post['title']
+            url = post.get('url', '')
+            if url:
+                md_parts.append(f"**[{title}]({url})**")
+            else:
+                md_parts.append(f"**{title}**")
+            md_parts.append("")
+
+            # Description (full, not truncated - key difference for AI)
+            if post.get('description'):
+                md_parts.append(post['description'])
+                md_parts.append("")
+
+            # Footer with source and time (matches HTML)
+            footer_parts = []
+            if post.get('external_url') and post.get('site_name'):
+                external_url = post['external_url']
+                site_name = post['site_name']
+                footer_parts.append(f"🔗 [{site_name}]({external_url})")
+
+            # Add publication time if available
+            if post.get('published'):
+                time_str = format_timestamp_ago(post['published'])
+                if time_str:
+                    footer_parts.append(time_str)
+
+            if footer_parts:
+                md_parts.append(" • ".join(footer_parts))
+                md_parts.append("")
+            md_parts.append("---")
+            md_parts.append("")
+
+        return '\n'.join(md_parts)

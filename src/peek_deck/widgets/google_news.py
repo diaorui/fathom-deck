@@ -8,7 +8,7 @@ from typing import Any, Dict, List
 from ..core.base_widget import BaseWidget
 from ..core.url_fetch_manager import get_url_fetch_manager
 from ..core.url_metadata import get_url_metadata_extractor
-from ..core.utils import resolve_google_news_url
+from ..core.utils import resolve_google_news_url, format_timestamp_ago
 
 
 class GoogleNewsWidget(BaseWidget):
@@ -191,3 +191,60 @@ class GoogleNewsWidget(BaseWidget):
             has_metadata=has_metadata,
             timestamp_iso=timestamp_iso
         )
+
+    def to_markdown(self, processed_data: Dict[str, Any]) -> str:
+        """Convert Google News data to markdown format."""
+        title = processed_data.get("title", "Google News")
+        query = processed_data.get("query", "")
+        site = processed_data.get("site")
+        search_query = processed_data.get("search_query", query)
+        articles = processed_data.get("articles", [])
+        timestamp_iso = processed_data.get("fetched_at", "")
+
+        # Parse timestamp for display
+        try:
+            dt = datetime.fromisoformat(timestamp_iso.replace('Z', '+00:00'))
+            timestamp_display = dt.strftime("%B %d, %Y at %H:%M UTC")
+        except:
+            timestamp_display = timestamp_iso
+
+        md_parts = []
+
+        # Widget header (match HTML: title and query on same line)
+        md_parts.append(f"## {title}: \"{search_query}\"")
+        md_parts.append("")
+
+        for idx, article in enumerate(articles, 1):
+            # Title with link (matches HTML)
+            headline = article['headline']
+            # Use resolved article_url if available, otherwise Google News URL
+            url = article.get('article_url') or article.get('url', '')
+            if url:
+                md_parts.append(f"**[{headline}]({url})**")
+            else:
+                md_parts.append(f"**{headline}**")
+            md_parts.append("")
+
+            # Description (full, not truncated - key difference for AI)
+            if article.get('description'):
+                md_parts.append(article['description'])
+                md_parts.append("")
+
+            # Source and time (matches HTML footer)
+            footer_parts = []
+            if article.get('source'):
+                footer_parts.append(article['source'])
+
+            # Add publication time if available
+            if article.get('pub_date'):
+                time_str = format_timestamp_ago(article['pub_date'])
+                if time_str:
+                    footer_parts.append(time_str)
+
+            if footer_parts:
+                md_parts.append(" • ".join(footer_parts))
+                md_parts.append("")
+            md_parts.append("---")
+            md_parts.append("")
+
+        return '\n'.join(md_parts)

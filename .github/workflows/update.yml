@@ -93,6 +93,11 @@ jobs:
           export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}/src"
           python -m peek_deck render
 
+      - name: Stage 3b - Render AI Markdown
+        run: |
+          export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}/src"
+          python -m peek_deck render-ai
+
       - name: Upload artifacts for debugging
         if: always()
         uses: actions/upload-artifact@v4

@@ -117,3 +117,19 @@ class BaseWidget(ABC):
         """
         template = self._jinja_env.get_template(template_name)
         return template.render(**context)
+
+    def to_markdown(self, processed_data: Dict[str, Any]) -> str:
+        """Convert processed data to markdown format for AI consumption.
+
+        Default implementation provides a JSON code block.
+        Override in widget subclasses for rich markdown formatting.
+
+        Args:
+            processed_data: Processed data from process_data()
+
+        Returns:
+            Markdown string with widget data
+        """
+        import json
+
+        return f"### {self.widget_type}\n\n```json\n{json.dumps(processed_data, indent=2)}\n```\n"

@@ -275,11 +275,19 @@ def generate_sitemap(pages: list, base_url: str, docs_dir: Path):
     sitemap.append('    <changefreq>hourly</changefreq>')
     sitemap.append('  </url>')
 
-    # Add all pages
+    # Add all pages (HTML)
     for page in pages:
         sitemap.append('  <url>')
         sitemap.append(f'    <loc>{base_url}/{page.id}.html</loc>')
         sitemap.append('    <priority>0.8</priority>')
+        sitemap.append('    <changefreq>hourly</changefreq>')
+        sitemap.append('  </url>')
+
+    # Add all pages (Markdown - AI-friendly versions)
+    for page in pages:
+        sitemap.append('  <url>')
+        sitemap.append(f'    <loc>{base_url}/{page.id}.md</loc>')
+        sitemap.append('    <priority>0.7</priority>')
         sitemap.append('    <changefreq>hourly</changefreq>')
         sitemap.append('  </url>')
 

@@ -296,3 +296,42 @@ class CryptoPriceChartWidget(BaseWidget):
             tab_contents=tab_contents,
             chart_scripts=chart_scripts
         )
+
+    def to_markdown(self, processed_data: Dict[str, Any]) -> str:
+        """Convert crypto price chart data to markdown format."""
+        symbol = processed_data.get("symbol", "")
+        tabs = processed_data.get("tabs", [])
+
+        # Format the symbol for better readability (same as HTML)
+        base_currency = symbol[:3]
+        if base_currency == "BTC":
+            display_name = "Bitcoin"
+        elif base_currency == "ETH":
+            display_name = "Ethereum"
+        elif base_currency == "SOL":
+            display_name = "Solana"
+        else:
+            display_name = base_currency
+
+        md_parts = []
+
+        # Title (matches HTML)
+        md_parts.append(f"## {display_name} Chart")
+        md_parts.append("")
+
+        # Show price change percentage for each timeframe
+        for tab in tabs:
+            label = tab.get("label", tab.get("interval", ""))
+            candles = tab.get("candles", [])
+
+            if candles and len(candles) >= 2:
+                # Calculate price change for this period
+                first_close = candles[0]["close"]
+                latest_close = candles[-1]["close"]
+                price_change_percent = ((latest_close - first_close) / first_close * 100)
+                change_sign = "+" if price_change_percent >= 0 else ""
+                md_parts.append(f"**{label}:** {change_sign}{price_change_percent:.1f}%  ")
+
+        md_parts.append("")
+
+        return '\n'.join(md_parts)

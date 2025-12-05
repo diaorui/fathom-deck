@@ -26,6 +26,10 @@ def format_time_ago(timestamp_str: str) -> str:
         else:
             timestamp = datetime.fromisoformat(timestamp_str)
 
+        # Make timezone-aware if naive (assume UTC)
+        if timestamp.tzinfo is None:
+            timestamp = timestamp.replace(tzinfo=timezone.utc)
+
         now = datetime.now(timezone.utc)
         delta = now - timestamp
 
@@ -54,6 +58,41 @@ def format_time_ago(timestamp_str: str) -> str:
     except Exception as e:
         # Fallback to original timestamp if parsing fails
         return timestamp_str[:19]
+
+
+def format_timestamp_ago(timestamp: float) -> str:
+    """Convert Unix timestamp to relative time string.
+
+    Args:
+        timestamp: Unix timestamp (seconds since epoch)
+
+    Returns:
+        Human-readable relative time (e.g., "5m ago", "2h ago", "3d ago")
+    """
+    try:
+        from datetime import datetime
+
+        # Convert Unix timestamp to datetime
+        pub_date = datetime.fromtimestamp(timestamp)
+        now = datetime.now()
+        diff = now - pub_date
+
+        if diff.days > 0:
+            if diff.days >= 30:
+                months = diff.days // 30
+                return f"{months}mo ago"
+            else:
+                return f"{diff.days}d ago"
+        elif diff.seconds >= 3600:
+            hours = diff.seconds // 3600
+            return f"{hours}h ago"
+        elif diff.seconds >= 60:
+            minutes = diff.seconds // 60
+            return f"{minutes}m ago"
+        else:
+            return "just now"
+    except:
+        return ""
 
 
 def format_currency(value: float, decimals: int = 2) -> str:

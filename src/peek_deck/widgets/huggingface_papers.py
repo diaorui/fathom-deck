@@ -6,6 +6,7 @@ from typing import Any, Dict, List
 
 from ..core.base_widget import BaseWidget
 from ..core.url_fetch_manager import get_url_fetch_manager
+from ..core.utils import format_time_ago
 
 
 class HuggingfacePapersWidget(BaseWidget):
@@ -114,3 +115,81 @@ class HuggingfacePapersWidget(BaseWidget):
             sort=sort,
             timestamp_iso=timestamp_iso
         )
+
+    def to_markdown(self, processed_data: Dict[str, Any]) -> str:
+        """Convert HuggingFace papers data to markdown format."""
+        papers = processed_data["papers"]
+        limit = processed_data.get("limit", 10)
+        sort = processed_data.get("sort", "trending")
+        timestamp_iso = processed_data.get("fetched_at", "")
+
+        # Parse timestamp for display
+        try:
+            from datetime import datetime
+            dt = datetime.fromisoformat(timestamp_iso.replace('Z', '+00:00'))
+            timestamp_display = dt.strftime("%B %d, %Y at %H:%M UTC")
+        except:
+            timestamp_display = timestamp_iso
+
+        md_parts = []
+
+        # Widget header (match HTML: title and sort indicator on same line)
+        sort_indicator = "🔥 Trending" if sort == "trending" else "📅 Latest"
+        md_parts.append(f"## HuggingFace Papers: {sort_indicator}")
+        md_parts.append("")
+
+        for idx, paper in enumerate(papers, 1):
+            # Title with link to HuggingFace paper page (matches HTML)
+            title = paper['title']
+            hf_url = paper.get('hf_url', '')
+            if hf_url:
+                md_parts.append(f"**[{title}]({hf_url})**")
+            else:
+                md_parts.append(f"**{title}**")
+            md_parts.append("")
+
+            # Authors (matches HTML)
+            md_parts.append(f"*{paper['authors']}*")
+            md_parts.append("")
+
+            # Organization (matches HTML)
+            if paper.get('organization_fullname'):
+                md_parts.append(f"🏢 {paper['organization_fullname']}")
+                md_parts.append("")
+
+            # Summary - show ai_summary OR full summary, not both (matches HTML)
+            # Don't truncate - this is the key difference for AI consumption
+            if paper.get('ai_summary'):
+                md_parts.append(paper['ai_summary'])
+            elif paper.get('summary'):
+                md_parts.append(paper['summary'])
+            md_parts.append("")
+
+            # Stats and links (matches HTML footer)
+            stats_parts = []
+            stats_parts.append(f"▲ {paper.get('upvotes', 0)}")
+            stats_parts.append(f"💬 {paper.get('num_comments', 0)}")
+            if paper.get('github_stars'):
+                stats_parts.append(f"⭐ {paper['github_stars']:,}")
+
+            # Add publication time if available
+            if paper.get('published_at'):
+                time_str = format_time_ago(paper['published_at'])
+                if time_str:
+                    stats_parts.append(time_str)
+
+            md_parts.append(" • ".join(stats_parts))
+            md_parts.append("")
+
+            # Links row (matches HTML)
+            links_parts = [f"[🎓 arXiv]({paper['arxiv_url']})"]
+            if paper.get('github_repo'):
+                links_parts.append(f"[💻 code]({paper['github_repo']})")
+            if paper.get('project_page'):
+                links_parts.append(f"[🔗 project]({paper['project_page']})")
+            md_parts.append(" • ".join(links_parts))
+            md_parts.append("")
+            md_parts.append("---")
+            md_parts.append("")
+
+        return '\n'.join(md_parts)

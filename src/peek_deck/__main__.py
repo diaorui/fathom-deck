@@ -14,10 +14,11 @@ def main():
     if len(sys.argv) < 2:
         print(f"Usage: python -m {PACKAGE_NAME} <command>")
         print("\nCommands:")
-        print("  fetch    - Stage 1: Fetch data from external APIs")
-        print("  process  - Stage 2: Process raw data")
-        print("  render   - Stage 3: Render HTML pages")
-        print("  all      - Run all stages in sequence")
+        print("  fetch      - Stage 1: Fetch data from external APIs")
+        print("  process    - Stage 2: Process raw data")
+        print("  render     - Stage 3: Render HTML pages")
+        print("  render-ai  - Stage 3b: Render AI-friendly Markdown pages")
+        print("  all        - Run all stages in sequence (includes AI rendering)")
         sys.exit(1)
 
     command = sys.argv[1]
@@ -31,14 +32,19 @@ def main():
     elif command == "render":
         from .render import render_all
         render_all()
+    elif command == "render-ai":
+        from .render_ai import render_ai_all
+        render_ai_all()
     elif command == "all":
         from .fetch import fetch_all
         from .process import process_all
         from .render import render_all
+        from .render_ai import render_ai_all
         print("🚀 Running all stages...\n")
         fetch_all()
         process_all()
         render_all()
+        render_ai_all()
         print("✅ All stages completed!")
     else:
         print(f"Unknown command: {command}")

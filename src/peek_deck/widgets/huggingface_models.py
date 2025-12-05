@@ -238,3 +238,62 @@ README Content:
             timestamp_iso=timestamp_iso,
             has_descriptions=has_descriptions
         )
+
+    def to_markdown(self, processed_data: Dict[str, Any]) -> str:
+        """Convert HuggingFace models data to markdown format."""
+        models = processed_data.get("models", [])
+        has_descriptions = processed_data.get("has_descriptions", False)
+
+        md_parts = []
+
+        # Title with subtitle on same line (matches HTML)
+        md_parts.append("## HuggingFace Models: 🔥 Trending")
+        md_parts.append("")
+
+        for idx, model in enumerate(models, 1):
+            # Model name with link (matches HTML)
+            name = model['name']
+            url = model.get('url', '')
+            if url:
+                md_parts.append(f"**[{name}]({url})**")
+            else:
+                md_parts.append(f"**{name}**")
+            md_parts.append("")
+
+            # Author (matches HTML)
+            author_name = model.get('author_fullname') or model.get('author', '')
+            if author_name:
+                md_parts.append(f"*{author_name}*")
+                md_parts.append("")
+
+            # AI-generated description (if available - matches HTML)
+            if has_descriptions and model.get('description'):
+                md_parts.append(model['description'])
+                md_parts.append("")
+
+            # Tags (pipeline_tag and num_parameters)
+            tags = []
+            if model.get('pipeline_tag'):
+                tags.append(f"`{model['pipeline_tag']}`")
+            if model.get('num_parameters'):
+                tags.append(f"`{model['num_parameters']}`")
+            if tags:
+                md_parts.append(" ".join(tags))
+                md_parts.append("")
+
+            # Stats (downloads, likes, and update time)
+            from ..core.utils import format_time_ago
+            stats_parts = []
+            stats_parts.append(f"⬇️ {model['downloads']:,}")
+            stats_parts.append(f"❤️ {model['likes']:,}")
+            if model.get('last_modified'):
+                time_str = format_time_ago(model['last_modified'])
+                if time_str:
+                    stats_parts.append(time_str)
+            md_parts.append(" • ".join(stats_parts))
+            md_parts.append("")
+
+            md_parts.append("---")
+            md_parts.append("")
+
+        return '\n'.join(md_parts)

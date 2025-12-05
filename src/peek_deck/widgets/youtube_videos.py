@@ -18,6 +18,7 @@ from typing import Any, Dict, List
 from ..core.base_widget import BaseWidget
 from ..core.output_manager import OutputManager
 from ..core.url_fetch_manager import get_url_fetch_manager
+from ..core.utils import format_timestamp_ago
 
 
 def parse_iso8601_duration(duration: str) -> str:
@@ -365,3 +366,65 @@ class YoutubeVideosWidget(BaseWidget):
             videos=videos,
             timestamp_iso=timestamp_iso,
         )
+
+    def to_markdown(self, processed_data: Dict[str, Any]) -> str:
+        """Convert YouTube videos data to markdown format."""
+        title = processed_data.get("title", "YouTube Videos")
+        query = processed_data.get("query", "")
+        order = processed_data.get("order", "relevance")
+        videos = processed_data.get("videos", [])
+
+        md_parts = []
+
+        # Title and query on same line (matches HTML)
+        if order != "relevance":
+            md_parts.append(f"## {title}: \"{query}\" • sorted by {order}")
+        else:
+            md_parts.append(f"## {title}: \"{query}\"")
+        md_parts.append("")
+
+        for idx, video in enumerate(videos, 1):
+            # Video title with link (matches HTML)
+            title = video['title']
+            url = video.get('url', '')
+            if url:
+                md_parts.append(f"**[{title}]({url})**")
+            else:
+                md_parts.append(f"**{title}**")
+            md_parts.append("")
+
+            # Description (full - not truncated, key difference for AI)
+            if video.get('description'):
+                md_parts.append(video['description'])
+                md_parts.append("")
+
+            # Channel name
+            if video.get('channel_name'):
+                md_parts.append(f"📺 {video['channel_name']}")
+                md_parts.append("")
+
+            # Stats (views, likes, comments, duration, time)
+            stats_parts = []
+            if video.get('view_count', 0) > 0:
+                stats_parts.append(f"👁️ {video['view_count_display']}")
+            if video.get('like_count', 0) > 0:
+                stats_parts.append(f"👍 {video['like_count_display']}")
+            if video.get('comment_count', 0) > 0:
+                stats_parts.append(f"💬 {video['comment_count_display']}")
+            if video.get('duration'):
+                stats_parts.append(f"⏱️ {video['duration']}")
+
+            # Add publication time if available
+            if video.get('published_at'):
+                time_str = format_timestamp_ago(video['published_at'])
+                if time_str:
+                    stats_parts.append(time_str)
+
+            if stats_parts:
+                md_parts.append(" • ".join(stats_parts))
+                md_parts.append("")
+
+            md_parts.append("---")
+            md_parts.append("")
+
+        return '\n'.join(md_parts)

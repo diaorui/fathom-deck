@@ -106,3 +106,21 @@ class CryptoFearGreedWidget(BaseWidget):
             historical_1y=historical_1y,
             timestamp_iso=timestamp_iso
         )
+
+    def to_markdown(self, processed_data: Dict[str, Any]) -> str:
+        """Convert Fear & Greed Index data to markdown format."""
+        current_value = processed_data.get("current_value", 0)
+        current_classification = processed_data.get("current_classification", "")
+
+        md_parts = []
+
+        # Title (matches HTML)
+        md_parts.append("## Fear & Greed Index")
+        md_parts.append("")
+
+        # Current value and classification (matches HTML display)
+        md_parts.append(f"### {current_value}")
+        md_parts.append(f"**{current_classification.upper()}**")
+        md_parts.append("")
+
+        return '\n'.join(md_parts)

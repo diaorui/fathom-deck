@@ -120,3 +120,57 @@ class CryptoMarketStatsWidget(BaseWidget):
             atl_change_sign=atl_change_sign,
             timestamp_iso=timestamp_iso
         )
+
+    def to_markdown(self, processed_data: Dict[str, Any]) -> str:
+        """Convert crypto market stats data to markdown format."""
+        name = processed_data.get("name", "")
+        symbol = processed_data.get("symbol", "")
+        market_cap = processed_data.get("market_cap", 0)
+        market_cap_rank = processed_data.get("market_cap_rank")
+        circulating_supply = processed_data.get("circulating_supply")
+        max_supply = processed_data.get("max_supply")
+        ath = processed_data.get("ath", {})
+        atl = processed_data.get("atl", {})
+
+        # Format values like HTML does
+        market_cap_display = format_large_number(market_cap)
+        circulating_display = f"{circulating_supply:,.0f}" if circulating_supply else "N/A"
+        supply_percent = f"{(circulating_supply / max_supply * 100):.1f}%" if (circulating_supply and max_supply) else "N/A"
+
+        md_parts = []
+
+        # Title (matches HTML)
+        md_parts.append(f"## {name} Market Stats")
+        md_parts.append("")
+
+        # Market Cap with Rank
+        md_parts.append(f"**Market Cap:** {market_cap_display}")
+        if market_cap_rank:
+            md_parts.append(f"Rank #{market_cap_rank}")
+        md_parts.append("")
+
+        # Circulating Supply
+        md_parts.append(f"**Circulating Supply:** {circulating_display} {symbol}")
+        if supply_percent != "N/A":
+            md_parts.append(f"{supply_percent} of max")
+        else:
+            md_parts.append("No max supply")
+        md_parts.append("")
+
+        # All-Time High
+        ath_price = ath.get('price', 0)
+        ath_change = ath.get('change_percent', 0)
+        ath_sign = "" if ath_change < 0 else "+"
+        md_parts.append(f"**All-Time High:** ${ath_price:,.2f}")
+        md_parts.append(f"{ath_sign}{ath_change:.1f}%")
+        md_parts.append("")
+
+        # All-Time Low
+        atl_price = atl.get('price', 0)
+        atl_change = atl.get('change_percent', 0)
+        atl_sign = "+" if atl_change >= 0 else ""
+        md_parts.append(f"**All-Time Low:** ${atl_price:,.2f}")
+        md_parts.append(f"{atl_sign}{atl_change:.1f}%")
+        md_parts.append("")
+
+        return '\n'.join(md_parts)

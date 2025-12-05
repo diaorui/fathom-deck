@@ -161,3 +161,68 @@ class GithubReposWidget(BaseWidget):
             total_count=total_count,
             timestamp_iso=timestamp_iso
         )
+
+    def to_markdown(self, processed_data: Dict[str, Any]) -> str:
+        """Convert GitHub repos data to markdown format."""
+        repos = processed_data["repos"]
+        query = processed_data.get("query", "")
+        search_query = processed_data.get("search_query", "")
+        days = processed_data.get("days", 30)
+        limit = processed_data.get("limit", 10)
+        total_count = processed_data.get("total_count", 0)
+        timestamp_iso = processed_data.get("fetched_at", "")
+
+        # Parse timestamp for display
+        try:
+            dt = datetime.fromisoformat(timestamp_iso.replace('Z', '+00:00'))
+            timestamp_display = dt.strftime("%B %d, %Y at %H:%M UTC")
+        except:
+            timestamp_display = timestamp_iso
+
+        md_parts = []
+
+        # Widget header (match HTML: title and query on same line)
+        md_parts.append(f"## GitHub Repositories: \"{query}\"")
+        md_parts.append("")
+
+        for idx, repo in enumerate(repos, 1):
+            # Title with link (matches HTML)
+            full_name = repo['full_name']
+            url = repo.get('url', '')
+            if url:
+                md_parts.append(f"**[{full_name}]({url})**")
+            else:
+                md_parts.append(f"**{full_name}**")
+            md_parts.append("")
+
+            # Description (full, not truncated - key difference for AI)
+            if repo.get('description'):
+                md_parts.append(repo['description'])
+                md_parts.append("")
+
+            # Tags: Language + Topics (matches HTML)
+            tags = []
+            if repo.get('language'):
+                tags.append(f"`{repo['language']}`")
+            if repo.get('topics'):
+                tags.extend([f"`{topic}`" for topic in repo['topics']])
+            if tags:
+                md_parts.append(" ".join(tags))
+                md_parts.append("")
+
+            # Stats: Stars + Forks + Update time (matches HTML)
+            from ..core.utils import format_time_ago
+            stats_parts = []
+            stats_parts.append(f"⭐ {repo['stars_display']}")
+            stats_parts.append(f"🔱 {repo['forks_display']}")
+            if repo.get('updated_at'):
+                time_str = format_time_ago(repo['updated_at'])
+                if time_str:
+                    stats_parts.append(time_str)
+            md_parts.append(" • ".join(stats_parts))
+            md_parts.append("")
+
+            md_parts.append("---")
+            md_parts.append("")
+
+        return '\n'.join(md_parts)

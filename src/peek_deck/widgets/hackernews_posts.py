@@ -9,7 +9,7 @@ import time
 from ..core.base_widget import BaseWidget
 from ..core.url_fetch_manager import get_url_fetch_manager
 from ..core.url_metadata import get_url_metadata_extractor
-from ..core.utils import get_favicon_url
+from ..core.utils import get_favicon_url, format_time_ago
 
 
 class HackernewsPostsWidget(BaseWidget):
@@ -184,3 +184,67 @@ class HackernewsPostsWidget(BaseWidget):
             has_metadata=has_metadata,
             timestamp_iso=timestamp_iso
         )
+
+    def to_markdown(self, processed_data: Dict[str, Any]) -> str:
+        """Convert HackerNews posts data to markdown format."""
+        query = processed_data.get("query", "")
+        sort_by = processed_data.get("sort_by", "date")
+        min_points = processed_data.get("min_points", 10)
+        days = processed_data.get("days")
+        posts = processed_data.get("posts", [])
+        total_hits = processed_data.get("total_hits", 0)
+        timestamp_iso = processed_data.get("fetched_at", "")
+
+        # Parse timestamp for display
+        try:
+            dt = datetime.fromisoformat(timestamp_iso.replace('Z', '+00:00'))
+            timestamp_display = dt.strftime("%B %d, %Y at %H:%M UTC")
+        except:
+            timestamp_display = timestamp_iso
+
+        md_parts = []
+
+        # Widget header (match HTML: title and query on same line)
+        md_parts.append(f"## HackerNews: \"{query}\"")
+        md_parts.append("")
+
+        for idx, post in enumerate(posts, 1):
+            # Title links to HackerNews discussion (matches HTML)
+            title = post['title']
+            hn_url = post.get('hn_url', '')
+            if hn_url:
+                md_parts.append(f"**[{title}]({hn_url})**")
+            else:
+                md_parts.append(f"**{title}**")
+            md_parts.append("")
+
+            # Description (full if available - key difference for AI)
+            if post.get('description'):
+                md_parts.append(post['description'])
+                md_parts.append("")
+
+            # Stats (matches HTML footer)
+            stats_parts = []
+            stats_parts.append(f"⬆️ {post['points']}")
+            stats_parts.append(f"💬 {post['num_comments']}")
+
+            # Add publication time if available
+            if post.get('created_at'):
+                time_str = format_time_ago(post['created_at'])
+                if time_str:
+                    stats_parts.append(time_str)
+
+            # Add external article link if different from HN discussion
+            url = post.get('url', '')
+            if url and url != hn_url:
+                if post.get('site_name'):
+                    stats_parts.append(f"[{post['site_name']}]({url})")
+                else:
+                    stats_parts.append(f"[article]({url})")
+
+            md_parts.append(" • ".join(stats_parts))
+            md_parts.append("")
+            md_parts.append("---")
+            md_parts.append("")
+
+        return '\n'.join(md_parts)

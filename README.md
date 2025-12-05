@@ -20,6 +20,7 @@ PeekDeck is a flexible dashboard generator that transforms YAML configurations i
 
 - **Widget-Based Architecture** - Compose dashboards from reusable widgets (price charts, news feeds, Reddit posts, etc.)
 - **Static Generation** - Pure HTML/CSS/JS output, deployable anywhere (GitHub Pages, Netlify, S3)
+- **AI-Friendly Markdown** - Parallel .md versions optimized for LLM/AI agent consumption
 - **Smart Caching** - Respects API rate limits with intelligent update scheduling
 - **Multi-Page Support** - Create unlimited dashboards organized by category
 - **Customizable Themes** - Per-page color schemes and styling
@@ -29,10 +30,10 @@ PeekDeck is a flexible dashboard generator that transforms YAML configurations i
 
 **[View Live Demo →](https://peekdeck.ruidiao.dev/)**
 
-- [Bitcoin Dashboard](https://peekdeck.ruidiao.dev/bitcoin.html) - Real-time crypto prices, charts, market stats, news, and community discussions
-- [Ethereum Dashboard](https://peekdeck.ruidiao.dev/ethereum.html) - Live Ethereum monitoring with price charts and news
-- [AI News](https://peekdeck.ruidiao.dev/ai.html) - Latest developments in artificial intelligence
-- [Robotics](https://peekdeck.ruidiao.dev/robotics.html) - Robotics research and industry news
+- [Bitcoin Dashboard](https://peekdeck.ruidiao.dev/bitcoin.html) ([.md](https://peekdeck.ruidiao.dev/bitcoin.md)) - Real-time crypto prices, charts, market stats, news, and community discussions
+- [Ethereum Dashboard](https://peekdeck.ruidiao.dev/ethereum.html) ([.md](https://peekdeck.ruidiao.dev/ethereum.md)) - Live Ethereum monitoring with price charts and news
+- [AI News](https://peekdeck.ruidiao.dev/ai.html) ([.md](https://peekdeck.ruidiao.dev/ai.md)) - Latest developments in artificial intelligence
+- [Robotics](https://peekdeck.ruidiao.dev/robotics.html) ([.md](https://peekdeck.ruidiao.dev/robotics.md)) - Robotics research and industry news
 
 ## Quick Start
 
@@ -132,9 +133,9 @@ PeekDeck uses a 3-stage pipeline:
 
 1. **Fetch** - Gets data from APIs
 2. **Process** - Transforms data (e.g., LLM summarization, calculations)
-3. **Render** - Generates static HTML
+3. **Render** - Generates static HTML and AI-friendly Markdown
 
-Each widget has an `update_minutes` setting to control refresh frequency and respect API rate limits.
+Each widget has an `update_minutes` setting to control refresh frequency and respect API rate limits. Markdown versions include full content without truncation, perfect for LLM consumption.
 
 ## Deployment
 

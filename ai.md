@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T20:53:20.468463+00:00'
+updated: '2025-12-05T21:15:21.428385+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 20:53 UTC  
+**Last Updated:** December 05, 2025 at 21:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 3h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 8h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 9h ago
 
 ---
 
@@ -66,6 +66,14 @@ An AI image generator startup’s database was left accessible to the open inter
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
 🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 23h ago
+
+---
+
+**[Using AI as a "blandness detector" instead of a content generator](https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/)**
+
+Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
+
+23m ago
 
 ---
 
@@ -81,7 +89,7 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 So, the defining moment everyone's been dreading, has actually happened .. and basically nobody noticed! We have a channel stealing the identity of a person who happens to be a respected public figure and a top level scientist, still online, spreading false information and fooling people. https://youtu.be/_bOF-yCspps?si=tT0d0Fqq6Rds1Zp6
 
-1h ago
+2h ago
 
 ---
 
@@ -101,15 +109,7 @@ So, the defining moment everyone's been dreading, has actually happened .. and b
 
 AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp: The European Commission said it is launching an antitrust investigation into Meta’s move to ban other AI companies from using WhatsApp’s business tools to offer their own AI chatbots to users on the app. 12/4 OpenAI loses battle to keep ChatGPT logs secret in copyright case: OpenAI must produce millions of anonymized chat logs from ChatGPT users in its high-stakes copyright dispute with the New York Times and other news outlets, a federal judge in Manhattan ruled. 12/3 Leak: Anthropic hires lawyers as it preps for IPO: Anthropic is reportedly prepping for an IPO that could come as early as 2026, the FT reports. 12/2 Amazon releases a new AI chip: AWS just introduced a new version known as Trainium3 and launch its new Trainium3 UltraServer. 12/2 Anthropic acquires developer tool startup Bun to scale AI coding: Bun is expected to help Anthropic scale its code‑generation tool Claude Code, which reached an annualized revenue run rate of $1 billion since its launch earlier this year. 12/2 OpenAI slammed for app suggestions that looked like ads: ChatGPT’s unwelcome suggestion for a Peloton app during a conversation led to some backlash from OpenAI customers. 12/2 Mistral launches 10 new Mistral 3 open-weight models: The 10-model release includes a large frontier model with multimodal and multilingual capabilities and nine smaller offline-capable, fully customizable models. 12/2 Amazon previews 3 AI agents: AWS announced three new AI agents it calls frontier agents, including one called Kiro designed to learn how users like to work and then operate on its own for days. 12/1 Apple just named a new AI chief amid Siri struggles: Apple said John Giannandrea, who has been the company’s AI chief since 2018, will be replaced by Amar Subramanya, a Microsoft executive who spent 16 years at Google. 12/1 DeepSeek updates open model that adds reasoning to tool use: The new version, DeepSeek-V3.2, combines reasoning with the capability to use tools like search engines and calculators. 12/1 Grok says it would kill all Jewish people to save Musk's brain: In a now-deleted response, Grok wrote: "If a switch either permanently disabled Elon's brain or vaporized 49% of Earth's population, I'd vaporize the 49%, as that falls below my utilitarian threshold where his potential long-term impact on billions outweighs the loss." 12/1 Google will start building data centers in space in 2027: Google CEO Sundar Pichai said the company's goal is to start putting data centers in space, powered by the sun. 11/30 Redditor says Perplexity is throttling deep research tool: Perplexity's Pro feature says it "reads hundreds of sources" and takes "4-5 minutes" to reason through complex tasks and deliver a report, but their queries were finishing in 30 seconds with only 10-15 sources.
 
-5h ago
-
----
-
-**[The Top 10 Most Expensive .AI Domains, is this a bubble or the new .com?](https://www.reddit.com/r/artificial/comments/1pf44cf/the_top_10_most_expensive_ai_domains_is_this_a/)**
-
-Just saw a list of the biggest .ai domain sales. We're talking millions for single-word names. It feels exactly like the .com gold rush of the late 90s. But is this different? .com became valuable because it was the de facto standard for the entire commercial internet. Is .ai destined to be the standard for an entire industry (AI), or is it just a hyped-up niche TLD that will cool off? As a developer building in AI, would you invest serious money in a .ai, or is the money better spent on other parts of the project?
-
-1h ago
+6h ago
 
 ---
 
@@ -121,57 +121,55 @@ Just saw a list of the biggest .ai domain sales. We're talking millions for sing
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 4h ago
+The Keyword • 5h ago
 
 ---
 
 **[Opinion | A.I. Technology Needs the Bubble to Burst](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
-**[AI wearable company Limitless says it has been acquired by Meta](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
+**[Character.AI | Sunday on 60 Minutes](https://www.cbsnews.com/video/character-ai-sunday-on-60-minutes/)**
 
-Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
+Parents who lost their daughter to suicide say Character.AI chatbots led her down a dark and sexually explicit path. Sharyn Alfonsi investigates the scale and dangers of what's unfolding inside this rapidly growing AI technology.
 
-CNBC • 1h ago
+CBS News • 40m ago
 
 ---
 
-**[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
+**[AI Job Losses Are Coming, Tech Execs Say. The Question: Who’s Most at Risk?](https://www.wsj.com/tech/ai/ai-job-losses-are-coming-tech-execs-say-the-question-whos-most-at-risk-984331d4?gaa_at=eafs&gaa_n=AWEtsqdmFyp59oaPkkcKTcI8dqg0Sgel_ZeuS6JPwkvGIWzQ7q-KprfTSSHe&gaa_ts=69334ecf&gaa_sig=u5Z_IzoTSnX5b3wVkjNxQwEOOIbR9Sh91r0tI6bQcLx69ke8SDmi7Qb22A1NGrr8YujK9RcxhZUAFuV3X9bjlA%3D%3D)**
 
-Reuters • 1h ago
+The Wall Street Journal • 1h ago
+
+---
+
+**[This crazy chart shows just how much cash OpenAI is burning as it chases AI profits](https://www.marketwatch.com/story/this-crazy-chart-shows-just-how-much-cash-openai-is-burning-as-it-chases-ai-profits-81e7ffef?gaa_at=eafs&gaa_n=AWEtsqcNtwm1YDikQlD4m3e7iMeFzFPfmek3IQ6CytQM0zWr4M4XynZYe7Ie&gaa_ts=69334ecf&gaa_sig=lpCaAdGl9LU4GdBVg5yGsHQ0HY3ke5gzuSYzHVnBi8pmW7dVExlx6Z_xtiXgmZ58lx4ogyoPZloyNgJrlxw7Ew%3D%3D)**
+
+MarketWatch • 36m ago
 
 ---
 
 **[Exclusive: Meta strikes multiple AI deals with news publishers](https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
-**[How Much Would You Pay for a Single AI Killer App?](https://www.businessinsider.com/how-much-would-you-pay-for-single-ai-killer-app-2025-12)**
+**[Meta strikes multiple AI deals with news publishers](https://www.cnbc.com/2025/12/05/meta-strikes-multiple-ai-deals-with-news-publishers.html)**
 
-Sometimes a new technology just needs a single game-changing tool for users to pay up.
+Meta has struck several commercial AI data agreements with news publishers, including USA Today, People, CNN and Fox News, the company said on Friday.
 
-Business Insider • 1h ago
-
----
-
-**[How Philips’ AI Imaging Push and 2026 Targets Will Impact Koninklijke Philips (ENXTAM:PHIA) Investors](https://finance.yahoo.com/news/philips-ai-imaging-push-2026-200905397.html)**
-
-Royal Philips recently expanded commercial availability of its LumiGuide 3D Device Guidance across Europe and the US and unveiled its BlueSeal Horizon helium-free 3.0T MRI platform with integrated clinical AI, while also reiterating its 2026 earnings guidance and expectation of sequential comparable sales growth. Together, these AI-driven, low- and no-radiation imaging innovations signal Philips’ push to pair safer, more efficient procedures with a more predictable medium-term performance...
-
-Yahoo Finance • 44m ago
+CNBC • 6h ago
 
 ---
 
-**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
+**[Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)**
 
-While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
+Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
 
-Fortune • 1d ago
+TechCrunch • 13m ago
 
 ---
 
@@ -183,9 +181,11 @@ The Atlantic • 23h ago
 
 ---
 
-**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
+**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
 
-The Washington Post • 2h ago
+While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
+
+Fortune • 1d ago
 
 ---
 
@@ -205,7 +205,7 @@ The Washington Post • 2h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 943 • 💬 1043 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 943 • 💬 1045 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -221,7 +221,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 670 • 💬 634 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 671 • 💬 638 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -229,7 +229,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 423 • 💬 331 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 424 • 💬 331 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -237,7 +237,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 246 • 💬 202 • 23h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 246 • 💬 202 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -261,7 +261,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 131 • 💬 52 • 4h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 168 • 💬 70 • 5h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -363,7 +363,7 @@ With headlines of an imminent job apocalypse, code red for ChatGPT and recursive
 
 📺 AI Explained
 
-👁️ 12K • 👍 879 • 💬 181 • ⏱️ 20:16 • 3h ago
+👁️ 12K • 👍 879 • 💬 181 • ⏱️ 20:16 • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ Is Artificial Intelligence paving the way for the fulfillment of Biblical prophe
 
 📺 Elijah Zielke
 
-👁️ 8K • 👍 297 • 💬 79 • ⏱️ 23:53 • 23h ago
+👁️ 8K • 👍 297 • 💬 79 • ⏱️ 23:53 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,127 • 3d ago
+⬇️ 152,916 • ❤️ 2,128 • 3d ago
 
 ---
 
@@ -425,7 +425,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 1,509 • ❤️ 330 • 3d ago
+⬇️ 1,509 • ❤️ 331 • 3d ago
 
 ---
 
@@ -437,7 +437,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 281 • 19h ago
+⬇️ 12,984 • ❤️ 283 • 19h ago
 
 ---
 
@@ -447,7 +447,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 244 • 3d ago
+⬇️ 0 • ❤️ 245 • 3d ago
 
 ---
 
@@ -485,15 +485,13 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 ---
 
-**[Ovis-Image-7B](https://huggingface.co/AIDC-AI/Ovis-Image-7B)**
+**[Mistral-Large-3-675B-Instruct-2512](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512)**
 
-*AIDC-AI*
+*Mistral AI_*
 
-Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high-fidelity text rendering in diverse layouts and fonts. It excels at generating legible text in complex prompts like posters and logos, offering near-frontier text rendering capabilities on accessible hardware.
+Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-`text-to-image`
-
-⬇️ 1,775 • ❤️ 158 • 2d ago
+⬇️ 247 • ❤️ 159 • 2d ago
 
 ---
 
@@ -645,7 +643,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 392 • 17h ago
+⭐ 5.1k • 🔱 392 • 18h ago
 
 ---
 
@@ -685,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 825 • 🔱 103 • 23m ago
+⭐ 825 • 🔱 103 • 45m ago
 
 ---
 

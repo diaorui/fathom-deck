@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T20:53:20.482888+00:00'
+updated: '2025-12-05T21:15:21.442954+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 20:53 UTC  
+**Last Updated:** December 05, 2025 at 21:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -3.5%  
-**7d:** +0.9%  
-**30d:** -9.0%  
-**90d:** -30.1%  
-**1y:** -24.4%  
+**7d:** +1.5%  
+**30d:** -8.5%  
+**90d:** -29.7%  
+**1y:** -24.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.18B
+**Market Cap:** $365.54B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.8%
+-38.7%
 
 **All-Time Low:** $0.43
-+699220.3%
++699929.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -152,13 +152,13 @@ a wonderful fusaka day to you all - original post if you want to help boost on t
 
 Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Nasdaq • 1d ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 17h ago
 
 ---
 
@@ -204,7 +204,7 @@ Seeking Alpha • 16h ago
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-cheddar.com • 23h ago
+cheddar.com • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 153 • 💬 2 • ⏱️ 5:20 • 5h ago
+👁️ 2K • 👍 153 • 💬 2 • ⏱️ 5:20 • 6h ago
 
 ---
 
@@ -304,7 +304,7 @@ Ethereum ($ETH) is forming a Head and Shoulders Pattern on the larger time frame
 
 📺 Coin Bureau Trading
 
-👁️ 1K • 👍 109 • 💬 14 • ⏱️ 7:43 • 7h ago
+👁️ 1K • 👍 109 • 💬 14 • ⏱️ 7:43 • 8h ago
 
 ---
 

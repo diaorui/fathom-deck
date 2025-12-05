@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T20:53:20.486115+00:00'
+updated: '2025-12-05T21:15:21.446219+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 20:53 UTC  
+**Last Updated:** December 05, 2025 at 21:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ For a long time, many robotics teams believed that real robot interaction data w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 18h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 19h ago
 
 ---
 
@@ -74,7 +74,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now available! If you want a quick summary of the event I put together ROSCon 2025 Recap for the OpenCV Weekly Webinar.       For Giving Tuesday we put together a new campaign for ROS users to become a become a Build Farm Backer. If you’ve every saved a few minutes by running sudo apt install ros-kilted-* instead of compiling from source we would love it if you helped cover our compute costs. Also, for the first time ever, we...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 41m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 1h ago
 
 ---
 
@@ -126,41 +126,9 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
-
-Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
-
-Seeking Alpha • 10h ago
-
----
-
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
-Investor's Business Daily • 23h ago
-
----
-
-**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.cbsnews.com/video/trump-administration-looks-supercharge-robotics-industry-politico/)**
-
-Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
-
-CBS News • 23h ago
-
----
-
-**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://finance.yahoo.com/news/3-robotics-stocks-buy-now-185157525.html)**
-
-The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Robotics Stocks Surged on Wednesday. Here's Why.](https://www.nasdaq.com/articles/robotics-stocks-surged-wednesday-heres-why)**
-
-Key PointsPresident Trump is reportedly considering signing an executive order in the new year to accelerate the development of robots in the U.S.
-
-Nasdaq • 1d ago
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -168,7 +136,7 @@ Nasdaq • 1d ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 5h ago
+MIT News • 6h ago
 
 ---
 
@@ -180,11 +148,41 @@ MLive.com • 1d ago
 
 ---
 
-**[Robotics stocks jolted higher by report the Trump administration is going “all in” to boost the industry](https://sherwood.news/markets/robotics-stocks-jolted-higher-by-report-the-trump-administration-is-going-all-in-on-industry/)**
+**[Vision-native AI opportunities: a precursor to intelligent robotics](https://www.bvp.com/atlas/vision-native-ai-opportunities-a-precursor-to-intelligent-robotics)**
 
-Supporting robotics is the natural evolution of supporting AI....
+As AI advances into the real world of robotics and automation, we’re seeing a turning point for physical AI — 1X’s NEO Home Robot can now adapt to new environments in real-time, Physical Intelligence’s Pi0 became the first robot to fold laundry with human-level dexterity straight from a hamper, and Tesla’s Optimus is performing complex […]
 
-Sherwood News • 2d ago
+Bessemer Venture Partners • 3d ago
+
+---
+
+**[Massimo Group (NASDAQ: MAMO) forms AI robotics division to enter global automation and smart-systems markets](https://www.stocktitan.net/news/MAMO/massimo-group-announces-formation-of-ai-robotics-division-expanding-p08w84pho0qe.html)**
+
+Massimo Group forms Massimo AI Technology to develop industrial automation and logistics robotics, aiming to diversify revenue and expand beyond powersports and EVs.
+
+Stock Titan • 1d ago
+
+---
+
+**[Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO](https://www.fiercebiotech.com/medtech/olympus-backed-swan-endosurgical-names-stryker-vet-erik-todd-ceo)**
+
+Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
+
+Fierce Biotech • 2d ago
+
+---
+
+**[Robotics Challenges Bedevil AI Evolution Of Housecleaning Robots](https://www.forbes.com/sites/johnwerner/2025/12/05/robotics-challenges-bedevil-ai-evolution-of-housecleaning-robots/)**
+
+Robots struggle with dishes because real-world manipulation, safety, cost, and data lag behind human-evolved dexterity.
+
+Forbes • 5h ago
+
+---
+
+**[AI advances robot navigation on the International Space Station](https://news.stanford.edu/stories/2025/12/ai-robot-international-space-station-autonomous-missions)**
+
+Stanford Report • 2d ago
 
 ---
 
@@ -208,7 +206,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 32K • 👍 166 • 💬 4 • ⏱️ 0:19 • 7h ago
+👁️ 32K • 👍 166 • 💬 4 • ⏱️ 0:19 • 8h ago
 
 ---
 

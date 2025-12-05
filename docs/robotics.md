@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T08:53:19.490301+00:00'
+updated: '2025-12-05T09:18:55.670925+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 08:53 UTC  
+**Last Updated:** December 05, 2025 at 09:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Art installation draws attention for its robot dogs with famous faces](https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -42,13 +42,27 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 7h ago
 
 ---
 
 **[PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.](https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/)**
 
 3h ago
+
+---
+
+**[Marc Raibert on Why Robotics Needs More Transparency](https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/)**
+
+Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
+
+13h ago
+
+---
+
+**[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
+
+2h ago
 
 ---
 
@@ -60,11 +74,19 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 ---
 
-**[Marc Raibert on Why Robotics Needs More Transparency](https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/)**
+**[UBTECH Walker S2 - World’s First Mass Delivery of Humanoid Robots](https://www.reddit.com/r/robotics/comments/1peqau3/ubtech_walker_s2_worlds_first_mass_delivery_of/)**
 
-Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-12h ago
+🔗 [youtu.be](https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO) • 20m ago
+
+---
+
+**[Any genuinely promising robotics applications in construction?](https://www.reddit.com/r/robotics/comments/1peq7b7/any_genuinely_promising_robotics_applications_in/)**
+
+Humanoid robotics is getting cheaper, smarter, and a lot more capable at moving through the world. But construction sites are a different beast with uneven terrain, unpredictable workflows, and tasks that vary wildly from day to day. I’m curious whether robotics aimed specifically at construction has kept up. Not the glossy demo videos, but actual sector-focused systems that show real progress on tasks like material handling, layout, inspections, drilling, or repetitive onsite work. It actually feels like construction is one of the few fields where purpose-built robots should make far more sense than humanoids. Most site tasks don’t need a human-shaped form factor at all. Are there ad hoc or specialized robots that feel like a real breakthrough, or is the field still stuck in research prototypes?
+
+26m ago
 
 ---
 
@@ -76,31 +98,9 @@ Hi everyone, My husband is a mechanical engineer and has found his niche in robo
 
 ---
 
-**[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
-
-1h ago
-
----
-
 **[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
 
 21h ago
-
----
-
-**[LYNX M20 / M20 PRO comes to the US - certified by FCC](https://www.reddit.com/r/robotics/comments/1pen7s8/lynx_m20_m20_pro_comes_to_the_us_certified_by_fcc/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=NAcanWv_2Z8) • 3h ago
-
----
-
-**[Robotics engineer visiting China](https://www.reddit.com/r/robotics/comments/1pemu4y/robotics_engineer_visiting_china/)**
-
-Hello redditors, I am robotics engineer visiting China for the first time trying to meet vendors for parts procurement and also I want to use this time to meet and explore other vendors. I would be visiting Beijing, Guangdong, Shanghai and Shenzhen. Also let me know if I should meet any other company in any other area. I have worked on quadrupeds, drones, manipulators, mobile robots, underwater robots, iot, AI/ML for robotics and Reinforcement Learning Thanks in advance
-
-3h ago
 
 ---
 
@@ -140,7 +140,7 @@ CBS News • 11h ago
 
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -149,6 +149,14 @@ Investor's Business Daily • 11h ago
 Key PointsPresident Trump is reportedly considering signing an executive order in the new year to accelerate the development of robots in the U.S.
 
 Nasdaq • 1d ago
+
+---
+
+**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+
+Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+
+MLive.com • 13h ago
 
 ---
 
@@ -168,19 +176,11 @@ Bessemer Venture Partners • 2d ago
 
 ---
 
-**[Massimo Group (NASDAQ: MAMO) forms AI robotics division to enter global automation and smart-systems markets](https://www.stocktitan.net/news/MAMO/massimo-group-announces-formation-of-ai-robotics-division-expanding-p08w84pho0qe.html)**
+**[As Trump Looks to Boost Robotics, This 1 Lesser-Known Stock Is a Strong Buy](https://www.barchart.com/story/news/36463172/as-trump-looks-to-boost-robotics-this-1-lesser-known-stock-is-a-strong-buy)**
 
-Massimo Group forms Massimo AI Technology to develop industrial automation and logistics robotics, aiming to diversify revenue and expand beyond powersports and EVs.
+Serve Robotics is a lesser-known play on Trump’s emerging pro‑robotics agenda, pairing triple‑digit revenue growth, expanding partnerships, and strong cash reserves.
 
-Stock Titan • 19h ago
-
----
-
-**[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
-
-The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
-
-NVIDIA Blog • 16h ago
+Barchart.com • 12h ago
 
 ---
 
@@ -242,7 +242,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 3K • 👍 45 • ⏱️ 0:19 • 3h ago
+👁️ 3K • 👍 45 • ⏱️ 0:19 • 4h ago
 
 ---
 
@@ -262,7 +262,7 @@ Pure-play robotics stock Symbotic (SYM) has had a wild ride in 2025, soaring to 
 
 📺 Chip Stock Investor
 
-👁️ 3K • 👍 133 • 💬 4 • ⏱️ 14:23 • 17h ago
+👁️ 3K • 👍 133 • 💬 4 • ⏱️ 14:23 • 18h ago
 
 ---
 

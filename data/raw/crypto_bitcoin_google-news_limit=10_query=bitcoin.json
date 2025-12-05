@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin (BTC) Price News: Bulls Face Key Test at $93K",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUFtUUZPZXBvR0FxYTh4aTRaR1YxcWxvRHJGLU1YcWdoZ1dqaDhZVTE1OWhxMnZaWkNYR21aMXNOYzRZeFlhai1Zc1FXYUswTjkweWpsdWxVRmpIQmlqNjVVUkZfdEQwZ2wzb3M5V1ViSmg5MWkwbzdvU0ZXY29wTGhXMUVmMG9WQ3NUbExJbmVUYmU5Q2E5Unhxc0h5MTNWd3hxMWd6NnRfTXV0WU1qWk1wM2ljRmhZSGhPVm5yRktBMFc2RkI0Ug?oc=5",
-      "pub_date": 1764800467.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/03/crypto-rally-stumbles-bitcoin-slips-back-to-usd92k-as-microsoft-lowers-ai-sales-goals",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/600ea7deef0c237a3e3a263759c0ab9719f15643-2246x1188.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Bitcoin shot up 10% in two days, but it's stalling at around the 2025 yearly open."
+      "headline": "Bitcoin is down nearly 30% from its record high \u2014 history shows that's normal",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEJ2RTlPdVN0dFI0OHdRNnNXVHNoM0lOYnhEcEhwZzhBaFVJVUZoemNMQTlGd0FRQUthRUg3R1A2Qk9hUjF2YjQ3QkhnTnZlWmQzUkI3VzlwZUtuaVRwODNVRHdtZGJ4MHI0RjFuU3h4eU1CakdWRXZKZWZhQTk4cEs5WnhhZ0VpcHNEMDRuY2tkc2RNZmtYeW5CU1hSNjd5UWx6WFpnZmJxNDRYYlJ30gG0AUFVX3lxTE96c3dMRGlhdDBZUlZsaUxjbExCeFpJcDFLVmxzQVRKWjltRU41YWNZenA2cGVwaHEyMXJha3AySjVod1BpMG1QN1V5Tzd4cWlnejZSNVpJOGN3Y1M2bVQ3dnVDQjh2OGQ2TUprR21PR0x3X2MxS0FGZkVoVXY1RDdhTXd2N3M2T1VQMTVMZ0RrT0tJQUhKRGtzWjFkYnQ4TWxJc3hNUmxMN1pTUVc0WmhsVXdGaA?oc=5",
+      "pub_date": 1764847662.0,
+      "article_url": "https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108235234-1764690993224-gettyimages-2247341381-AFP_84UC93G.jpeg?v=1764691074&w=1920&h=1080",
+      "description": "In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger."
     },
     {
       "headline": "Bitcoin has plunged. Strategy Inc is an early victim",
@@ -25,16 +25,6 @@
       "description": null
     },
     {
-      "headline": "Michael Saylor\u2019s Strategy may have BlackRock to thank for the 11% rise in Bitcoin",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclRPQVBtSmI1RG5mTndDZHFTYXVSNFRkbno4OTVsQ1pEWUJZRFJmdzgzX1JYNS0xTV9MUjR2LWdCNDhwMnZaT0RCWnE5LWNWbkQ0YXNvUVhRaGUyOU92TkEtX0Z4UkloTFlPRE9zVWphVUZ2b0d0b3E4eFJVNUlHbnBmbWtKZw?oc=5",
-      "pub_date": 1764850620.0,
-      "article_url": "https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-1491618289-e1739538790764.jpg?resize=1200,600",
-      "description": "BlackRock\u2019s ETF now owns 3.9% of all existing Bitcoin, more than Strategy."
-    },
-    {
       "headline": "Video: BlackRock C.E.O. Calls Bitcoin an \u2018Asset of Fear\u2019",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -43,6 +33,16 @@
       "article_url": "https://www.nytimes.com/video/business/dealbook/100000010562120/blackrock-ceo-calls-bitcoin-an-asset-of-fear.html",
       "image": "https://static01.nyt.com/images/2025/12/03/multimedia/03dealbook-summit-armstrong-fink-wckh/03dealbook-summit-armstrong-fink-wckh-facebookJumbo.jpg?video-overlay",
       "description": "Larry Fink, the chief executive of BlackRock, dismissed concerns about the long-term value of cryptocurrency."
+    },
+    {
+      "headline": "Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved'",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUnM4NWxpRmUwNzVLcS1SNjN1WHVvamNrSHBmd0U3RGtuaGZZV3JyUzFVaW5EamxtM3pqbC02cUFpczVaekw1WEdfeDJacDMyWVppQTJxS29aSnNSUjJ5Tms5R041eTI5UnlscTQ0elRQQnJFMkt1UDZYYjY3S3NoN0NvY3Q1TWFmcmJ1YWhRUk9TWWVEdEhnTVBxdEZDOE91QVRpam8wbllzREl4YTFFWnRYNE84LTNGTHBqb2k2TTZteFhBUlBlYTM0YnM2TlNwSWhMd0c1MVRlU2JBRjYtN1N0TktHRXc?oc=5",
+      "pub_date": 1764787749.0,
+      "article_url": "https://finance.yahoo.com/news/larry-fink-softens-crypto-stance-as-blackrock-boasts-biggest-us-bitcoin-etf-my-thought-process-has-evolved-184909682.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/LCqYj_OUyWeEiQelje7S9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3d8e6010-d074-11f0-b5df-33145c765fcd",
+      "description": "Larry Fink, once a proud crypto skeptic, has evolved his views as his firm, BlackRock, has become a leader in the industry."
     },
     {
       "headline": "BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run",
@@ -65,7 +65,17 @@
       "description": "Bitcoin exchange reserves hit a 5-year low after $2 billion in buying, but price still struggles under key resistance."
     },
     {
-      "headline": "Bitcoin\u2019s Predicted Sky-High Prices Have Not Panned Out",
+      "headline": "Woori Bank Becomes First in Korea to Display Bitcoin Prices in Trading Room",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeE51Z3dWNS1RRzVadUdBdWpTNjJHdnhkcDBvV3lCQV9qZlAxM1g3LWNuOXljNl9aVWNEYk5XUk5QdkdfZnlHbDZqcW92NDZneDQ5VG9SU2dOQ0ozZ2JQWGo0X3B3Y2htTm1DUHJITzczSTRyeTlCem1JcUUwT2pKa1V3?oc=5",
+      "pub_date": 1764920700.0,
+      "article_url": "https://finance.yahoo.com/news/woori-bank-becomes-first-korea-074526421.html",
+      "image": "https://media.zenfs.com/en/cryptonews_us_711/4309fa420fc0062dfbd0701c71eec0e0",
+      "description": "Woori Bank has begun displaying Bitcoin prices inside its main trading room in Seoul, placing the cryptocurrency alongside core financial indicators such as the won\u2013dollar exchange rate and stock market data. Key Takeaways: Woori Bank is the first Korean commercial bank to display Bitcoin prices in its main trading room. ..."
+    },
+    {
+      "headline": "Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLV80ZjAtYy1HdlV4aVRkWXk0Rk0tOWtSM3JGNHpOVThqZEZpMGR3ZUMzR2xXVExaVXlZQnpoRE9LU0ZkT1F2WXlVbDBTbzdka1p0cW91RlRSWjBGRkpPWkY2dmVrV3NRTUdCZG9XR1dFZldZWVFlVmt3d3MyS01VTzFWUnJIb2RJWlpKclFOaw?oc=5",
@@ -78,9 +88,9 @@
       "headline": "With bitcoin down to around $92,000, should you rethink how much crypto to own? Here\u2019s what experts say.",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPS09yS0xSTEtXbmpuSXhvRGdKcnhqMVdQRjdLdGtyZWotNF9OYzBKc0ZUVzdOV1lBZ05aWnBOVi1PbUtybTlPdGcwRjNPNF9BcnZkU3Y4Mk01N0dMbEF1S3RNQjdKWk9VVVVKaXpUblNYWHhXa2FtZjRjdTFSbGhJT0EtaGVqVVUtVFFWaWI0R2NlU0tlcUhWX3ZXNmVnaXQ4UVBqalp4T1VaSGdIRGtRUl96NzVuZzBuSmtxcnBRdDctaXg2b2hsWkNQQlZRZzZPaUh1OFNhSmtCR29SYjE3NW5VeTExTFBraXRPczBXc3A4WEZNZTVGQll0c0FBRjYtRkpWZEthd3hQX3JTQTgwV2RzdENfN1VRZ2UzSGhVLU9xRjJGekwtbllzUC13NHU5amVxZHNZMm5hdGNnMXlnc2h3M3E2eGU5TUhncXNpRWpjdDVxVDNrS1JSUEtGU0MwYlNkQjFuZzBzU2ZRajZKWUx0TENuTXFJY2Q1OC03SnBaNTRDYXQ2Tjg3NzB6UkxGd2lQNVRKUHlpUEZ6QVZ2bUJQcnNhaFhJdGdybGhVaXVQdWprbVZ2eG9RLWxDa01GTnVkUVNxaDhaZTUwVlVya0pRSDNjZmRfbWJnZzVaYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPaG1EQU1JdXRaOHZiS1RaM2h6M0tjMjFSNkdZVGEybzJnLWpqMGpOdkpwVHJkZHpRYWhWMFpWTUotWGpKMk1kUWJNbl96T2hZTk4yTmJOUGFaTVVIX1FQZF9VU25seFl0NGhrb1lOcDBQeFdxN192YXd5azJiMTczMVFiM250bHJKZjZETTlMcGNsYnI1VnYwRVU5QnFKOVVqQV9QZHkyR1Eyam9DUWxsSEpfZDd4cWhUSXJKbFQzdzZ2TnVjemNHRnRVdTI0REU4TENOTU9UQ3hBYjZEaklMTFlDVG1PMy1tenBCRHUyT1l6bGVWemVfZzMyTTFrczF2TXliQWFyZ21haS1ISFBwRnNNUVpwN2VSRHAxZ29GVFdhRF9iem1uQ21Od19YQTlvR0VEdEtrd0dCVWJXckJ3YmdoMDZxZnMzcERZMDBDYkVPcTRZR1pvTTJnQ1VXZDR6U240aXN1MVEtTDNqN294NktzelFjQjlsM0RnSV8wWnVKa1FSQl9oeFV5MERVRXBwRXBnQm5tZEp1cnpGU3duVXNBMlFqYndocEFOTmNwZ0NweVFfSUpTRHBnSU5jbVJtUFp1bnpETGdZeVJfSWczVkkxenpBOXpkd3JQMmxYTQ?oc=5",
       "pub_date": 1764880980.0,
-      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeqVwclCo4dSt2WXVm0ZgrFYNfN_R2-tmW28P8OsLjMAeXbnIevD6Jw&gaa_ts=69329b7b&gaa_sig=1reKRVFQw4ViwwPvoYVlMOr0t7VO645Mg-l92Ig7NLY6185kpsQFf5yTddn5cnm949UFN7s2C8jdI5bGMSv6BQ%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeaNnfy9dvooTkEVcc2kQHCkOZh9Boa9LG84HuG-0mkCA-IAQb0NdxV&gaa_ts=6932a6ea&gaa_sig=IAaFzD53yhwOqsBEz-v1DHvKEfSDy5FfmtAseXmT45r9ekvYdq29N15NN2YBM36dJw9xawa33G121HV97x14gA%3D%3D",
       "image": null,
       "description": null
     },
@@ -93,18 +103,8 @@
       "article_url": "https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12",
       "image": "https://i.insider.com/69319bec7ecd1d1da662e9ed?width=1200&format=jpeg",
       "description": "JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term."
-    },
-    {
-      "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQNHVQMm9RRnJ0QmhFNFlrRFJXTG9QRkF3NFE4R2VQYTdJTDZja011VUtsY0hfdUx0RXNocnc5cnFmNl8tUkdLeERueC0yTGh3OWFTV3haWHE5aWs4UTA2R252RnZSaHFWU3hzZWlYLVhDcEhiS3VfTzRjd2RfbFJTbFlhdEpMd2xWX2ZtUU1GNkZZTTlMRy0yaUxLYlhxMm5FUVVuOFJ4OUx5V0R6OFFEcU13MFJyV2R0TGJMMDZwSjlRRWQ5V3VzazNDWkM4ZjNMVEliNkdrUU9qSWViUHc4ck1lOFB1UlMwZGZRb2NfUklOdXVJR2QtTjI5LUgyMnJsaW5na0kxcFVVQm9aTGZQaXN2dDNLVTZRVXd3cm9ybWE5aFBBem51cFQxU3E4YURmMmZ3cUh1LXp6R2FabXFTTjBIQ2kxcXplZ0dmcFBMejFCNDZ6MVQ0R2Z4Sl9UMFFrWl83RG50RDFCS3gwQzJWVEMxUXF4RG1RTnhwOFhHM3A5N2lQUTZqZWl0ZzdDaVRsMm5td1RNZThjSEpHc1FZeldBdEUyQmJoQVpF?oc=5",
-      "pub_date": 1764716700.0,
-      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdT-wbpPCP7EUHLdYsA9bhpT88OETYPQ8vPpV4z0O4ouO-5Z621rwFt&gaa_ts=69329b7b&gaa_sig=1evIwsUzg7rAf1yC_QpwL77qjweeblomddCt34A7zCjm5yJ1bCrkVjKmtcbA09xStmOkhbAKHQxpT5zdZsTyGQ%3D%3D",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T08:30:12.787542+00:00"
+  "fetched_at": "2025-12-05T09:18:50.256145+00:00"
 }

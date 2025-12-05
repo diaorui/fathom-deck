@@ -79,17 +79,6 @@
       "description": "Sometimes we forget the obvious: without Satoshi, BTC wouldn\u2019t exist and our entire crypto journey wouldn\u2019t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. \ud83d\ude80"
     },
     {
-      "title": "Broke .1 finally!",
-      "author": "AntZealousideal3728",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pedy60/broke_1_finally/",
-      "published": 1764887412.0,
-      "thumbnail": "https://preview.redd.it/hoze79aek95g1.jpeg?width=640&crop=smart&auto=webp&s=46f382477319ba7e2d971b639536e0c71b46ac9d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": ".2 next, just wanted to share with someone"
-    },
-    {
       "title": "Senators buying the dip on BTC",
       "author": "anonbull8",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pem50a/senators_buying_the_dip_on_btc/",
@@ -99,6 +88,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT\u2026 and so is Marjorie Greene \ud83e\udee3"
+    },
+    {
+      "title": "Broke .1 finally!",
+      "author": "AntZealousideal3728",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pedy60/broke_1_finally/",
+      "published": 1764887412.0,
+      "thumbnail": "https://preview.redd.it/hoze79aek95g1.jpeg?width=640&crop=smart&auto=webp&s=46f382477319ba7e2d971b639536e0c71b46ac9d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": ".2 next, just wanted to share with someone"
     },
     {
       "title": "Cant stop, won't stop Bitcoin",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-05T08:29:42.999022+00:00"
+  "fetched_at": "2025-12-05T09:18:30.892475+00:00"
 }

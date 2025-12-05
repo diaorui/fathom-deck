@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T13:27:56.699986+00:00'
+updated: '2025-12-05T13:50:46.903814+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 13:27 UTC  
+**Last Updated:** December 05, 2025 at 13:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,961.95
+### $90,612.16
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -0.1%  
-**30d:** -10.5%  
-**90d:** -18.5%  
-**1y:** -9.0%  
+**24h:** -1.3%  
+**7d:** -0.3%  
+**30d:** -10.7%  
+**90d:** -18.7%  
+**1y:** -9.2%  
 
 ---
 
@@ -87,7 +87,7 @@ Im only up 3000% now
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ I finally sold all my bitcoin, it would be a shame if it pumps now, right? I rea
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-36m ago
+59m ago
 
 ---
 
@@ -123,13 +123,13 @@ I finally sold all my bitcoin, it would be a shame if it pumps now, right? I rea
 
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
-8h ago
+9h ago
 
 ---
 
 **[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -143,7 +143,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 .2 next, just wanted to share with someone
 
-14h ago
+15h ago
 
 ---
 
@@ -185,13 +185,13 @@ CNBC • 1d ago
 
 JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
-Business Insider • 19h ago
+Business Insider • 20h ago
 
 ---
 
 **[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -221,7 +221,7 @@ Bloomberg.com • 1d ago
 
 **[Bitcoin Falls as Crypto Rebound Stalls. Why It May Quickly Restart.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-fed-pce-6e68daba?gaa_at=eafs&gaa_n=AWEtsqfYNHxT9xoSKKeZHvudqYmudo0yRjcDYWstSYXEOtLisjmeHGHFgCIH&gaa_ts=6932e146&gaa_sig=VraNfG7CTRj1gAN2-Olo_vav35gRAAFaN3bxo-uUjuWM6Dssr06kxmLIjipsV9h0cCNV2l1Bq1Nh-YgK3NWqAw%3D%3D)**
 
-Barron's • 43m ago
+Barron's • 1h ago
 
 ---
 
@@ -241,7 +241,7 @@ Barron's • 43m ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 23h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 1d ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -297,7 +297,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol](https://news.ycombinator.com/item?id=46149605)**
 
-⬆️ 1 • 💬 0 • 20h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
+⬆️ 1 • 💬 0 • 21h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
 
 ---
 
@@ -305,33 +305,23 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
 
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
 
-📺 Library Of Wealth
+📺 Swan Bitcoin
 
-👁️ 4K • 👍 187 • 💬 278 • ⏱️ 15:38 • 8h ago
-
----
-
-**[BITCOIN &amp; ALTCOINS: Time is Running Out (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=il0rvpKiKHQ)**
-
-BITCOIN & ALTCOINS: Time is Running Out (important)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 106 • 💬 112 • ⏱️ 19:02 • 2h ago
+👁️ 54K • 👍 2K • 💬 254 • ⏱️ 18:48 • 16h ago
 
 ---
 
-**[Tom Lee: &quot;The Ethereum Price Is About To Get Out Of Control&quot;](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
+**[What Happens to Bitcoin When the Fed Finally Cuts?](https://www.youtube.com/watch?v=nrSuqkGl1t4)**
 
-LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
+Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break down the growing divisions inside the Federal ...
 
-📺 Altcoin Daily
+📺 Anthony Pompliano
 
-👁️ 45K • 👍 3K • 💬 355 • ⏱️ 11:16 • 11h ago
+👁️ 19K • 👍 771 • 💬 1 • ⏱️ 28:20 • 15h ago
 
 ---
 
@@ -341,17 +331,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 255 • ⏱️ 23:27 • 12h ago
-
----
-
-**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
-
-As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
-
-📺 Swan Bitcoin
-
-👁️ 51K • 👍 2K • 💬 241 • ⏱️ 18:48 • 15h ago
+👁️ 34K • 👍 3K • 💬 272 • ⏱️ 23:27 • 12h ago
 
 ---
 
@@ -361,27 +341,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 493 • 💬 27 • ⏱️ 9:41 • 8h ago
-
----
-
-**[BITCOIN - YOU NEED TO SEE THIS!!!!](https://www.youtube.com/watch?v=I4SIVE1j1wo)**
-
-Platform I Trade on http://ckenny.com/joinBC Free Strategy Course https://ckenny.com/whopCK ⚠️ DISCLAIMER – READ ...
-
-📺 Conor Kenny
-
-👁️ 8K • 👍 600 • 💬 65 • ⏱️ 22:03 • 7h ago
-
----
-
-**[🚨 BTC &amp; ETH: I AM WARNING YOU AGAIN!!!! LISTEN THIS TIME!!!!!](https://www.youtube.com/watch?v=na9LpJZqDyY)**
-
-What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get ready now!!! AI Trading Club: ...
-
-📺 Thomas Kralow
-
-👁️ 23K • 👍 3K • 💬 92 • ⏱️ 10:24 • 1d ago
+👁️ 9K • 👍 552 • 💬 33 • ⏱️ 9:41 • 9h ago
 
 ---
 
@@ -391,17 +351,57 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 336 • ⏱️ 47:51 • 22h ago
+👁️ 31K • 👍 2K • 💬 337 • ⏱️ 47:51 • 22h ago
 
 ---
 
-**[Bitcoin (BTC): Don’t Be FOOLED! The Worst Is Still Coming! (WATCH ASAP)](https://www.youtube.com/watch?v=xpaxj2mwejQ)**
+**[Bitcoin Hesitates As The Fed Prepares To Flood Markets! What&#39;s Next?](https://www.youtube.com/watch?v=4aAnKyuf_Vw)**
 
-Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Non-KYC) 15% off trading fees + ...
+Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative tightening, preparing to inject trillions in new ...
 
-📺 MegaWhale Crypto
+📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 346 • 💬 204 • ⏱️ 20:47 • 12h ago
+👁️ 25K • 👍 915 • 💬 366 • ⏱️ 35:57 • 22h ago
+
+---
+
+**[Tom Lee: &quot;The Ethereum Price Is About To Get Out Of Control&quot;](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
+
+LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
+
+📺 Altcoin Daily
+
+👁️ 51K • 👍 3K • 💬 380 • ⏱️ 11:16 • 12h ago
+
+---
+
+**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
+
+Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
+
+📺 Benjamin Cowen
+
+👁️ 16K • 👍 2K • 💬 127 • ⏱️ 15:38 • 2h ago
+
+---
+
+**[&quot;The Bitcoin Collapse Has Started!&quot; Do NOT Be Fooled!!](https://www.youtube.com/watch?v=MqdAC_se7vY)**
+
+I'm Selling EVERYTHING!” Why Tom Crown Is Cashing Out of Bitcoin 50% deposit bonus on first $100 on WEEX: ...
+
+📺 Altcoin Daily
+
+👁️ 65K • 👍 3K • 💬 408 • ⏱️ 17:04 • 1d ago
+
+---
+
+**[The End of Bitcoin?](https://www.youtube.com/watch?v=YybhrWm93-4)**
+
+Get my free newsletter Letters From a Heretic: https://go.heresy.financial/letters-from-a-heretic TIMECODES 00:00 Bitcoin's Brutal ...
+
+📺 Heresy Financial
+
+👁️ 82K • 👍 4K • 💬 959 • ⏱️ 16:08 • 1d ago
 
 ---
 

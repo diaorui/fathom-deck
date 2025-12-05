@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T13:27:56.706029+00:00'
+updated: '2025-12-05T13:50:46.909814+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 13:27 UTC  
+**Last Updated:** December 05, 2025 at 13:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +4.4%  
-**30d:** -5.8%  
-**90d:** -27.7%  
-**1y:** -21.8%  
+**24h:** -1.6%  
+**7d:** +3.4%  
+**30d:** -6.8%  
+**90d:** -28.4%  
+**1y:** -22.6%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Trump crypto empire falls faster than bitcoin
 
-🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 23h ago
+🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 1d ago
 
 ---
 
@@ -96,7 +96,7 @@ I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was par
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
-43m ago
+1h ago
 
 ---
 
@@ -112,7 +112,7 @@ A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glams
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 1h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 2h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[🚀 Ethereum Fusaka is Live: The “Unsung Hero” Upgrade You Need to Know About](https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/)**
 
-🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 20h ago
+🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 21h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 1h ago
 
 Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -206,7 +206,7 @@ Nasdaq • 1d ago
 
 Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH’s utility loop, Bitcoin’s scarcity, and why money is entering a multi-form future.
 
-Forbes • 2d ago
+Forbes • 3d ago
 
 ---
 
@@ -236,17 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 3K • 💬 355 • ⏱️ 11:16 • 11h ago
-
----
-
-**[Ethereum Fusaka Upgrade Is HERE!! Is ETH About To EXPLODE!?](https://www.youtube.com/watch?v=rYEgr3YN-qI)**
-
-While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka — a live upgrade that radically improves ...
-
-📺 Coin Bureau
-
-👁️ 28K • 👍 2K • 💬 101 • ⏱️ 17:37 • 20h ago
+👁️ 51K • 👍 3K • 💬 380 • ⏱️ 11:16 • 12h ago
 
 ---
 
@@ -256,7 +246,17 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 7K • 👍 773 • 💬 70 • ⏱️ 31:23 • 4h ago
+👁️ 12K • 👍 1K • 💬 98 • ⏱️ 31:23 • 4h ago
+
+---
+
+**[Ethereum Fusaka Upgrade Is HERE!! Is ETH About To EXPLODE!?](https://www.youtube.com/watch?v=rYEgr3YN-qI)**
+
+While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka — a live upgrade that radically improves ...
+
+📺 Coin Bureau
+
+👁️ 30K • 👍 2K • 💬 107 • ⏱️ 17:37 • 20h ago
 
 ---
 
@@ -266,7 +266,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 57K • 👍 2K • 💬 384 • ⏱️ 27:33 • 19h ago
+👁️ 60K • 👍 2K • 💬 416 • ⏱️ 27:33 • 19h ago
 
 ---
 
@@ -276,17 +276,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 187 • 💬 278 • ⏱️ 15:38 • 8h ago
-
----
-
-**[🚨 ETH Is About To BREAK OUT — The Level Everyone Is Watching](https://www.youtube.com/watch?v=jJ_5Lv0dESU)**
-
-Real-time crypto analysis — join my VIP Telegram.
-
-📺 Marzell Crypto
-
-👁️ 1K • 👍 58 • 💬 145 • ⏱️ 5:52 • 22h ago
+👁️ 6K • 👍 255 • 💬 302 • ⏱️ 15:38 • 8h ago
 
 ---
 
@@ -296,17 +286,17 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 3K • 💬 92 • ⏱️ 10:24 • 1d ago
+👁️ 24K • 👍 3K • 💬 93 • ⏱️ 10:24 • 1d ago
 
 ---
 
-**[Ethereum Leads Rally📈Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=rO3ZorrJ-ps)**
+**[🚨 ETH in December To SURGE | Charts &amp; History AGREE](https://www.youtube.com/watch?v=jJ_5Lv0dESU)**
 
-Bitcoin steadied near weekly highs as concerns ease, but most altcoins remain weak. Market shows early signs of recovery ...
+Real-time crypto analysis — join my VIP Telegram.
 
-📺 Paul Barron Network
+📺 Marzell Crypto
 
-👁️ 27K • 👍 1K • 💬 131 • ⏱️ 32:14 • 17h ago
+👁️ 1K • 👍 55 • 💬 138 • ⏱️ 5:52 • 22h ago
 
 ---
 
@@ -316,17 +306,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 405 • 💬 46 • ⏱️ 21:08 • 2d ago
+👁️ 16K • 👍 405 • 💬 49 • ⏱️ 21:08 • 2d ago
 
 ---
 
-**[Fusaka Is Live: Why The Ethereum Burn Rate Just Doubled.](https://www.youtube.com/watch?v=iifblt4mU7o)**
+**[The Ethereum Opportunity 🤩 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=OfoSVCGH7jY)**
 
-The Ethereum network has fundamentally changed as of December 3rd. In this deep dive, we break down the immediate impact of ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 Wall Street Stockcast
+📺 Bearhard - Bitcoin Strategy
 
-👁️ 4K • 👍 123 • 💬 17 • ⏱️ 10:55 • 21h ago
+👁️ 3K • 👍 156 • 💬 27 • ⏱️ 6:15 • 1d ago
+
+---
+
+**[ALERT: BIG ETHEREUM PUMP INCOMING](https://www.youtube.com/watch?v=8HnCsQ6ERmM)**
+
+WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
+
+📺 Crypto Kid
+
+👁️ 5K • 👍 344 • 💬 71 • ⏱️ 7:06 • 1d ago
 
 ---
 

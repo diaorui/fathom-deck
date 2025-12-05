@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T13:27:56.691521+00:00'
+updated: '2025-12-05T13:50:46.895409+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 13:27 UTC  
+**Last Updated:** December 05, 2025 at 13:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,7 +53,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 17h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 18h ago
 
 ---
 
@@ -67,7 +67,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 **["Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have." -Bernie Sanders](https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -91,7 +91,7 @@ Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRE
 
 Hey everyone, here is the 10th issue of Hacker News x AI newsletter, a newsletter I started 10 weeks ago as an experiment to see if there is an audience for such content. This is a weekly AI related links from Hacker News and the discussions around them. AI CEO demo that lets an LLM act as your boss, triggering debate about automating management, labor, and whether agents will replace workers or executives first. Link to HN Tooling to spin up always-on AI agents that coordinate as a simulated organization, with questions about emergent behavior, reliability, and where human oversight still matters. Link to HN Thread on AI-driven automation of work, from “agents doing 90% of your job” to macro fears about AGI, unemployment, population collapse, and calls for global governance of GPU farms and AGI research. Link to HN Debate over AI replacing CEOs and other “soft” roles, how capital might adopt AI-CEO-as-a-service, and the ethical/economic implications of AI owners, governance, and capitalism with machine leadership. Link to HN If you want to subscribe to this newsletter, you can do it here: https://hackernewsai.com/
 
-5m ago
+27m ago
 
 ---
 
@@ -99,7 +99,7 @@ Hey everyone, here is the 10th issue of Hacker News x AI newsletter, a newslette
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 6m ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 29m ago
 
 ---
 
@@ -125,13 +125,13 @@ Fortune • 21h ago
 
 **[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
-The Washington Post • 25m ago
+The Washington Post • 48m ago
 
 ---
 
 **[Exclusive: Meta strikes multiple AI deals with news publishers](https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers)**
 
-Axios • 28m ago
+Axios • 51m ago
 
 ---
 
@@ -147,13 +147,13 @@ WIRED • 1h ago
 
 Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to blackmail, on 'The Story.'
 
-Fox News • 57m ago
+Fox News • 1h ago
 
 ---
 
 **[How AI is rewiring childhood | Dec 6th 2025](https://www.economist.com/weeklyedition/2025-12-06)**
 
-The Economist • 26m ago
+The Economist • 49m ago
 
 ---
 
@@ -169,7 +169,7 @@ Anthropic • 20h ago
 
 Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -243,7 +243,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 410 • 💬 312 • 21h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 410 • 💬 312 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -275,23 +275,13 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 ## YouTube Videos: "ai"
 
-**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
-
-Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
-
-📺 Future of Life Institute
-
-👁️ 15K • 👍 912 • 💬 273 • ⏱️ 15:40 • 22h ago
-
----
-
 **[The threats from AI are real | Sen. Bernie Sanders](https://www.youtube.com/watch?v=K3qS345gAWI)**
 
 The threats from unchecked AI are real — worker displacement, corporate surveillance, invasion of privacy, environmental ...
 
 📺 Senator Bernie Sanders
 
-👁️ 403K • 👍 29K • 💬 6K • ⏱️ 15:03 • 2d ago
+👁️ 410K • 👍 30K • 💬 6K • ⏱️ 15:03 • 2d ago
 
 ---
 
@@ -301,7 +291,17 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 567K • 👍 14K • 💬 3K • ⏱️ 2:04:06 • 1d ago
+👁️ 585K • 👍 15K • 💬 3K • ⏱️ 2:04:06 • 1d ago
+
+---
+
+**[This New AI Literally Does EVERYTHING and It Feels Like Magic](https://www.youtube.com/watch?v=1yhAcAbYOd4)**
+
+This New AI literally does everything — slides, sites, brand kits, emails, calls, docs, real tasks — and it just hit a billion-dollar ...
+
+📺 AI Revolution
+
+👁️ 12K • 👍 456 • 💬 32 • ⏱️ 8:37 • 16h ago
 
 ---
 
@@ -311,7 +311,7 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 491K • 👍 12K • 💬 736 • ⏱️ 4:58 • 1d ago
+👁️ 513K • 👍 13K • 💬 761 • ⏱️ 4:58 • 1d ago
 
 ---
 
@@ -321,7 +321,7 @@ OpenAI has declared a "code red" as Google threatens to unseat the AI industry's
 
 📺 CBS News
 
-👁️ 503K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
+👁️ 505K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
 
 ---
 
@@ -331,7 +331,27 @@ Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous vide
 
 📺 VisualEconomik EN
 
-👁️ 79K • 👍 2K • 💬 274 • ⏱️ 15:46 • 1d ago
+👁️ 81K • 👍 3K • 💬 282 • ⏱️ 15:46 • 1d ago
+
+---
+
+**[AI Exploded This Week: GPT 5.2, DeepSeek 3.2, Kling 2.6, Mistral 3, Trainium 3...](https://www.youtube.com/watch?v=KeqO2KM6CTk)**
+
+The past few days pushed AI in every direction at once. OpenAI quietly tested a new Memory Search system inside ChatGPT, ...
+
+📺 AI Revolution
+
+👁️ 44K • 👍 1K • 💬 71 • ⏱️ 17:26 • 1d ago
+
+---
+
+**[This AI Just Crossed a New Intelligence Line: It Took Over Finance](https://www.youtube.com/watch?v=hzAAzUyILNU)**
+
+DeepAgent just rolled out a finance upgrade that feels like a real shift. This version runs seven connected workflows that behave ...
+
+📺 AI Revolution
+
+👁️ 14K • 👍 597 • 💬 50 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -341,37 +361,17 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 229K • 👍 796 • 💬 49 • ⏱️ 8:09 • 1d ago
+👁️ 264K • 👍 899 • 💬 50 • ⏱️ 8:09 • 1d ago
 
 ---
 
-**[Meet Dubai’s Futuristic AI Barber Pod 🤖💥 Haircut Machine 3.0 Will Shock You! 😲✂️](https://www.youtube.com/watch?v=nyk2ilEAT-w)**
+**[Constraining AI Agents - Computerphile](https://www.youtube.com/watch?v=JAcwtV_bFp4)**
 
-AI #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle #Salon #Trending #Viral #Shorts ...
+As AI systems become more capable, rule-based safeguards, hard-coded restrictions, and simple alignment strategies start to ...
 
-📺 Θαύμα Προφητείας Θεών
+📺 Computerphile
 
-👁️ 25K • 👍 118 • 💬 1 • ⏱️ 0:11 • 8h ago
-
----
-
-**[Meta falls for the AI trick](https://www.youtube.com/watch?v=yqrp2uK9LY4)**
-
-https://twitch.tv/ThePrimeagen - I Stream on Twitch https://twitter.com/terminaldotshop - Want to order coffee over SSH? ssh ...
-
-📺 ThePrimeTime
-
-👁️ 185K • 👍 7K • 💬 946 • ⏱️ 5:29 • 3d ago
-
----
-
-**[An Eggplant Tree Born in the Desert | #ai #eggplant #hippo](https://www.youtube.com/watch?v=s71X2h1ve_4)**
-
-An Eggplant Tree Born in the Desert | #ai #eggplant #hippo In this emotional desert story, an old grandmother is driving a tractor ...
-
-📺 FeeliMals
-
-👁️ 65K • 💬 1 • ⏱️ 0:25 • 9h ago
+👁️ 19K • 👍 774 • 💬 171 • ⏱️ 21:21 • 19h ago
 
 ---
 
@@ -447,7 +447,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 241 • 11h ago
+⬇️ 12,984 • ❤️ 241 • 12h ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 802 • 🔱 102 • 36m ago
+⭐ 802 • 🔱 102 • 59m ago
 
 ---
 

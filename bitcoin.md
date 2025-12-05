@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T05:11:19.273670+00:00'
+updated: '2025-12-05T05:35:43.384586+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 05:11 UTC  
+**Last Updated:** December 05, 2025 at 05:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +1.1%  
+**24h:** -0.9%  
+**7d:** +1.4%  
 **30d:** -9.1%  
 **90d:** -17.3%  
 **1y:** -7.6%  
@@ -85,7 +85,7 @@ Rank #1
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -129,7 +129,7 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 .2 next, just wanted to share with someone
 
-6h ago
+7h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 1d ago
 
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
-The Economist • 18h ago
+The Economist • 19h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1h ago
 
 Markets are hedging a Fed misstep, driving gold and silver higher while Bitcoin lags as traders reassess risk.
 
-Yahoo Finance • 28m ago
+Yahoo Finance • 52m ago
 
 ---
 
@@ -211,7 +211,7 @@ MarketWatch • 8h ago
 
 BlackRock’s ETF now owns 3.9% of all existing Bitcoin, more than Strategy.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -239,7 +239,7 @@ The New York Times • 1d ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 15h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 16h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -339,7 +339,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 251 • ⏱️ 47:51 • 13h ago
+👁️ 28K • 👍 1K • 💬 251 • ⏱️ 47:51 • 14h ago
 
 ---
 
@@ -349,7 +349,7 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 45 • ⏱️ 10:24 • 18h ago
+👁️ 22K • 👍 3K • 💬 45 • ⏱️ 10:24 • 19h ago
 
 ---
 
@@ -399,7 +399,7 @@ Tom Lee just made one of his strongest Ethereum claims yet. He argues that ETH i
 
 📺 Mikhail
 
-👁️ 268 • 👍 7 • ⏱️ 1:13 • 2h ago
+👁️ 268 • 👍 7 • ⏱️ 1:13 • 3h ago
 
 ---
 

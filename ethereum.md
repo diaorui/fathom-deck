@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T14:37:50.186987+00:00'
+updated: '2025-12-05T14:51:45.641425+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - cryptocurrency
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 14:37 UTC  
+**Last Updated:** December 05, 2025 at 14:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** +3.9%  
-**30d:** -6.4%  
-**90d:** -28.1%  
-**1y:** -22.2%  
+**24h:** -3.4%  
+**7d:** +3.5%  
+**30d:** -6.7%  
+**90d:** -28.2%  
+**1y:** -22.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.67B
+**Market Cap:** $373.23B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.2%
+-37.5%
 
 **All-Time Low:** $0.43
-+717683.1%
++714140.2%
 
 ---
 
@@ -84,19 +84,11 @@ Trump crypto empire falls faster than bitcoin
 
 ---
 
-**[Nexo Liquidated My Entire $123K Portfolio and they don’t want to refund!](https://www.reddit.com/r/ethereum/comments/1peorza/nexo_liquidated_my_entire_123k_portfolio_and_they/)**
-
-I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was part of their Private Clients program with the portfolio boost. On October 10th, 2025, around 23:00 CET, the Nexo app completely stopped working for me. I couldn’t add USDT, swap, manage my loan, nothing. I was literally inside the app trying to fix it, and I have screen-time proof showing it was frozen. At 23:12 I suddenly got an email saying my LTV changed to 76.92%. At 23:20 I got another email telling me my collateral had been fully liquidated. When I finally managed to get back into the app at 00:26 CET, everything was gone. My entire $123K portfolio was wiped out while I was stuck watching the app glitch out. This isn’t even the first time something like this has happened. Coinfomania reported in April 2025 that Nexo had already been accused of unfair liquidations worth $10 million. People were saying the same thing back then: the app wasn’t working and they only got two emails before losing everything. Nexo is registered in the Cayman Islands and acts like it’s untouchable. They ignore EU and US courts and even ignore letters from lawyers who represent affected users. And Antoni Trenchev is nowhere to be found. When Binance had system issues, they actually compensated their users. Nexo stayed silent. They didn’t just liquidate me, they took everything while their own platform was offline. Since my situation happened, a lot of people have reached out with almost identical stories. Same timeline, same type of outage, same zero response from Nexo. At this point it’s obvious we won’t get anywhere alone. If you had a similar experience, we need to organize together and take collective action. Nexo isn’t giving anyone answers on their own. #Nexo #CryptoScam #DeFi #NexoDown #CryptoJustice
-
-7h ago
-
----
-
 **[Here's the full tech stack including ethereum rollups deployment platform we use to run our blockchain game with 10k players](https://www.reddit.com/r/ethereum/comments/1peu4wz/heres_the_full_tech_stack_including_ethereum/)**
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
-1h ago
+2h ago
 
 ---
 
@@ -144,6 +136,14 @@ a wonderful fusaka day to you all - original post if you want to help boost on t
 
 ---
 
+**[How is Ethereum solving the blockchain trilemma? Post Fusaka upgrade analysis.](https://www.reddit.com/r/ethereum/comments/1pdra4c/how_is_ethereum_solving_the_blockchain_trilemma/)**
+
+Ethereum is actively working to address the blockchain trilemma, a core challenge in the design of decentralized systems that suggests a blockchain can only achieve two of three key properties—Decentralization, Security, and Scalability—at the same time. Ethereum's strategy involves a multi-phased roadmap and the heavy utilization of Layer 2 (L2) scaling solutions to tackle scalability while maintaining its core commitments to decentralization and security. 🛡️ Security and Decentralization Ethereum's foundational layer, or Layer 1 (L1), prioritizes security and decentralization, which are fundamental to its value proposition as a "world computer." Security: The network transitioned from a Proof-of-Work (PoW) consensus mechanism to Proof-of-Stake (PoS), known as The Merge (September 2022). PoS maintains a high level of security by making it prohibitively expensive for a malicious actor to gain enough staked ETH to compromise the network. The economic cost of an attack on Ethereum's PoS network is arguably higher than on its former PoW network. Decentralization: PoS is intended to boost decentralization in the long run by making it easier for more people to become validators, as it requires less specialized, expensive hardware compared to PoW mining. The development roadmap also includes phases like The Scourge and The Purge, which aim to further improve censorship resistance and reduce the hardware requirements for running a node, promoting wider network participation. 🚀 Scaling (Solving the Trilemma's Third Side) Ethereum's main challenge was scalability—the network became congested, leading to slow transactions and high gas fees. The strategy to address this is primarily through Layer 2 solutions and fundamental L1 upgrades. Layer 2 (L2) Scaling Solutions Ethereum leans heavily on L2 networks, which process transactions off the main chain but settle on L1, inheriting Ethereum's robust security. Rollups: These are the most prominent L2 solution. They execute thousands of transactions off-chain and then bundle ("roll up") the resulting data into a single, compressed transaction that gets submitted back to the Ethereum Mainnet. Optimistic Rollups (e.g., Arbitrum, Optimism): Assume transactions are valid but allow a "challenge period" where anyone can submit a fraud proof if they detect an invalid transaction. Zero-Knowledge (ZK) Rollups (e.g., zkSync, Starknet): Use cryptographic proofs (validity proofs) to instantly verify the correctness of off-chain transactions, providing stronger security guarantees. By offloading the execution layer to L2s, Ethereum L1 can focus on its role as the secure and decentralized data availability layer. Layer 1 Upgrades Ethereum's roadmap includes major L1 upgrades to support the L2 scaling strategy: Proto-Danksharding (EIP-4844): Implemented in the Dencun upgrade (March 2024), this introduced a new, cheaper way for rollups to post transaction data to the L1 using "blobs". This significantly lowered L2 transaction costs, boosting scalability without compromising security or decentralization. The Surge (Full Sharding): The long-term vision involves a form of data sharding where the network is split to handle data more efficiently. This will dramatically increase the data capacity of the L1, further scaling the L2 ecosystem to potentially handle hundreds of thousands of transactions per second (TPS). In essence, Ethereum is solving the trilemma by adopting a layered approach: L1 provides decentralized security, and L2s provide scalability.
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -154,19 +154,11 @@ The Block • 17h ago
 
 ---
 
-**[Ethereum Fusaka upgrade goes live, bringing eightfold increase in ‘blob’ capacity](https://www.dlnews.com/articles/defi/ethereum-fusaka-brings-eightfold-increase-in-blob-capacity/)**
+**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://finance.yahoo.com/news/ethereum-price-swells-fusaka-upgrade-051052394.html)**
 
-Ethereum underwent its second major upgrade of the year on Wednesday. The upgrade, Fusaka, further reduces the cost of transactions on layer 2 blockchains. A minor upgrade will follow on December 9.
+Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
 
-dlnews.com • 1d ago
-
----
-
-**[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html)**
-
-Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -174,7 +166,15 @@ Yahoo Finance • 2h ago
 
 Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
+
+Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
+
+Seeking Alpha • 10h ago
 
 ---
 
@@ -186,6 +186,14 @@ dlnews.com • 1d ago
 
 ---
 
+**[Better Buy in 2026: Ethereum or Solana?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-solana)**
+
+Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
+
+Nasdaq • 1d ago
+
+---
+
 **[Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward](https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/)**
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
@@ -194,11 +202,9 @@ cheddar.com • 17h ago
 
 ---
 
-**[Ethereum Is Jumping Today-Here's Why](https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why)**
+**[Ethereum Price Could Herald a 170% Surge if History Repeats. Trader Declares ‘You Know What’s Coming’](https://www.tipranks.com/news/ethereum-price-could-herald-a-170-surge-if-history-repeats-trader-declares-you-know-whats-coming)**
 
-Key PointsEthereum receives a major update today that should improve its ability to scale.
-
-Nasdaq • 1d ago
+TipRanks • 2h ago
 
 ---
 
@@ -215,14 +221,6 @@ Forbes • 3d ago
 We quantify how much old supply just moved and why now.
 
 CryptoSlate • 1d ago
-
----
-
-**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
-
-Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
-
-Seeking Alpha • 10h ago
 
 ---
 
@@ -296,7 +294,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 55 • 💬 138 • ⏱️ 5:52 • 23h ago
+👁️ 1K • 👍 55 • 💬 138 • ⏱️ 5:52 • 1d ago
 
 ---
 

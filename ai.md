@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T14:37:50.172382+00:00'
+updated: '2025-12-05T14:51:45.626767+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 14:37 UTC  
+**Last Updated:** December 05, 2025 at 14:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,9 +45,11 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 ---
 
-**[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
+**[AI Slop Is Ruining Reddit for Everyone](https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/)**
 
-17h ago
+Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
+
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 1h ago
 
 ---
 
@@ -59,15 +61,21 @@ An AI image generator startup’s database was left accessible to the open inter
 
 ---
 
+**[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
+
+17h ago
+
+---
+
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 18h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 19h ago
 
 ---
 
 **["Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have." -Bernie Sanders](https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -103,14 +111,6 @@ Hey everyone, here is the 10th issue of Hacker News x AI newsletter, a newslette
 
 ---
 
-**[AI Slop Is Ruining Reddit for Everyone](https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/)**
-
-Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
-
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 1h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -121,33 +121,17 @@ The New York Times • 1h ago
 
 ---
 
-**[Exclusive: Meta strikes multiple AI deals with news publishers](https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers)**
+**[New York Times sues Perplexity AI for infringing copyright works](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
 
-Axios • 1h ago
-
----
-
-**[The far right is mobilizing against Trump AI czar David Sacks](https://www.theverge.com/ai-artificial-intelligence/838776/maga-ai-executive-order-david-sacks)**
-
-A controversial executive order dictating America’s AI policy has MAGA scrambling against the White House and its Special Adviser on AI and Crypto.
-
-The Verge • 1h ago
+Reuters • 1h ago
 
 ---
 
-**[Dambisa Moyo on Gold, Bitcoin, AI and the UK](https://www.bloomberg.com/news/newsletters/2025-12-05/economist-dambisa-moyo-on-ai-bubble-bitcoin-gold-uk-economy)**
+**[New York Times Sues Perplexity AI, Alleges Copyright Violations](https://www.thewrap.com/new-york-times-perplexity-ai-lawsuit/)**
 
-The economist shares her views on what’s holding back the UK and where we are in the AI bubble.
+The New York Times sued the AI startup Perplexity on Friday, alleging it repeatedly violated the Times’ copyright protections by distributing its work to Perplexity users without permission or a deal with the paper.
 
-Bloomberg.com • 1h ago
-
----
-
-**[Microsoft's Copilot+ AI PC plan fizzled, but it still served a purpose](https://www.engadget.com/computing/laptops/microsofts-copilot-ai-pc-plan-fizzled-but-it-still-served-a-purpose-130000239.html)**
-
-Microsoft's Copilot+ AI PC plan launched with a ton of hype, but the company has little to show for it today.
-
-Engadget • 1h ago
+TheWrap • 45m ago
 
 ---
 
@@ -159,31 +143,47 @@ Fortune • 22h ago
 
 ---
 
+**[Exclusive: Meta strikes multiple AI deals with news publishers](https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers)**
+
+Axios • 1h ago
+
+---
+
+**[Meta enters AI licensing fray, striking deals with People Inc., USA Today Co. and more](https://digiday.com/media/meta-enters-ai-licensing-fray-striking-deals-with-people-inc-usa-today-co-and-more/)**
+
+The platform has secured seven multi-year AI content licensing deals with publishers including CNN, Fox News, People Inc., USA Today Co for Llama.
+
+Digiday • 13m ago
+
+---
+
+**[Meta signs pact to show real-time news content on its AI service (META:NASDAQ)](https://seekingalpha.com/news/4528864-meta-signs-pact-to-show-real-time-news-content-on-its-ai-service)**
+
+Discover how Meta AI's new partnerships with top news outlets bring you more real-time, diverse news coverage.
+
+Seeking Alpha • 58m ago
+
+---
+
+**[Deck The Aisles With AI: Supporting Staff, Delighting Customers](https://www.forbes.com/sites/jillstandish/2025/12/05/deck-the-aisles-with-ai-supporting-staff-delighting-customers/)**
+
+How GenAI can ease holiday shopping stress, support frontline staff, and why kindness still matters this season.
+
+Forbes • 20m ago
+
+---
+
+**[Why healthcare is the 'ultimate hedge' against an AI correction, according to Kepler Cheuvreux](https://www.cnbc.com/2025/12/05/healthcare-ultimate-hedge-against-ai-correction-kepler-cheuvreux-says.html)**
+
+With cracks appearing in the AI trade, European healthcare and pharma emerge as solid defensive plays.
+
+CNBC • 1h ago
+
+---
+
 **[How AI is rewiring childhood | Dec 6th 2025](https://www.economist.com/weeklyedition/2025-12-06)**
 
-The Economist • 1h ago
-
----
-
-**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
-
-What 1,250 professionals told us about working with AI
-
-Anthropic • 21h ago
-
----
-
-**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
-
-The Washington Post • 32m ago
-
----
-
-**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
-
-Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
-
-Forbes • 20h ago
+The Economist • 9m ago
 
 ---
 
@@ -195,7 +195,7 @@ Forbes • 20h ago
 
 : Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
 
-⬆️ 1047 • 💬 604 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+⬆️ 1047 • 💬 605 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 
 ---
 
@@ -203,7 +203,7 @@ Forbes • 20h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 934 • 💬 1035 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 937 • 💬 1035 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -235,7 +235,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 612 • 💬 567 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 617 • 💬 576 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -243,7 +243,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 413 • 💬 319 • 23h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 414 • 💬 320 • 23h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -251,7 +251,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 238 • 💬 198 • 17h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 239 • 💬 198 • 17h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -387,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,109 • 3d ago
+⬇️ 152,916 • ❤️ 2,110 • 3d ago
 
 ---
 
@@ -447,7 +447,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 248 • 12h ago
+⬇️ 12,984 • ❤️ 256 • 13h ago
 
 ---
 
@@ -457,7 +457,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 238 • 3d ago
+⬇️ 0 • ❤️ 239 • 3d ago
 
 ---
 
@@ -489,7 +489,7 @@ STARFlow is a state-of-the-art transformer autoregressive flow model for high-qu
 
 z_image_turbo is a diffusion model designed for single-file image generation, likely integrated with ComfyUI workflows for advanced image synthesis tasks.
 
-⬇️ 1,857,463 • ❤️ 364 • 8d ago
+⬇️ 1,857,463 • ❤️ 366 • 8d ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 802 • 🔱 102 • 32m ago
+⭐ 802 • 🔱 102 • 46m ago
 
 ---
 

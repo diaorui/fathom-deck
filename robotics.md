@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T14:37:50.190275+00:00'
+updated: '2025-12-05T14:51:45.644698+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 14:37 UTC  
+**Last Updated:** December 05, 2025 at 14:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,17 +40,17 @@ This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mecha
 
 ---
 
-**[Art installation draws attention for its robot dogs with famous faces](https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/)**
-
-21h ago
-
----
-
 **[AGIBOT D1 Pro](https://www.reddit.com/r/robotics/comments/1peuynn/agibot_d1_pro/)**
 
 AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
 
 1h ago
+
+---
+
+**[Art installation draws attention for its robot dogs with famous faces](https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/)**
+
+21h ago
 
 ---
 
@@ -76,17 +76,17 @@ For a long time, many robotics teams believed that real robot interaction data w
 
 ---
 
-**[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
-
-7h ago
-
----
-
 **[Marc Raibert on Why Robotics Needs More Transparency](https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/)**
 
 Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
 
 18h ago
+
+---
+
+**[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
+
+7h ago
 
 ---
 
@@ -98,11 +98,9 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 ---
 
-**[UBTECH Walker S2 - World’s First Mass Delivery of Humanoid Robots](https://www.reddit.com/r/robotics/comments/1peqau3/ubtech_walker_s2_worlds_first_mass_delivery_of/)**
+**[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO) • 5h ago
+1d ago
 
 ---
 
@@ -124,11 +122,51 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[Could Prospective U.S. Robotics Support Reframe iRobot’s (IRBT) Consumer-Focused Model Amid Financial Strains?](https://finance.yahoo.com/news/could-prospective-u-robotics-support-131214942.html)**
+
+Earlier this week, reports that the White House is considering an executive order to accelerate growth in the U.S. robotics industry prompted intense investor focus on iRobot and other robotics-linked companies, even as iRobot continues to grapple with liquidity pressures, declining revenue, and a high risk of bankruptcy. The news also highlighted how potential federal support may primarily target industrial robotics and advanced manufacturing, raising questions about how directly...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Robotic Vehicle Sensor Market - Forecasts from 2025 to 2030: Opportunities Driven by Government Initiatives Like NIST's AV Programme, Significant Robotics Investments, China's Manufacturing Leadership](https://finance.yahoo.com/news/robotic-vehicle-sensor-market-forecasts-114500165.html)**
 
 The robotic vehicle sensor market is expanding rapidly due to increased autonomous vehicle adoption and EV sector growth. Key opportunities are driven by government initiatives like NIST's AV Programme, significant robotics investments, and China's manufacturing leadership in Asia-Pacific. Robotic Vehicle Sensor Market Robotic Vehicle Sensor Market Dublin, Dec. 05, 2025 (GLOBE NEWSWIRE) -- The "Robotic Vehicle Sensor Market - Forecasts from 2025 to 2030" report has been added to ResearchAndMarke
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Physical AI Market to Hit USD 49.73 Billion by 2033, Owing to Advances in Robotics and Real-World Intelligent Systems | Research by SNS Insider](https://sg.finance.yahoo.com/news/physical-ai-market-hit-usd-143000230.html)**
+
+The Physical AI Market is accelerating as breakthroughs in robotics, computer vision, and edge AI enable smarter autonomous systems, with the U.S. segment rising from USD 1.52 billion in 2025E to USD 14.13 billion by 2033 amid strong innovation and growing automation adoption.Austin, Dec. 05, 2025 (GLOBE NEWSWIRE) -- The Physical AI Market Size is valued at USD 5.23 Billion in 2025E and is expected to reach USD 49.73 Billion by 2033 and grow at a CAGR of 32.53% during the forecast period. Rapid
+
+Yahoo Finance Singapore • 21m ago
+
+---
+
+**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
+
+Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
+
+Seeking Alpha • 4h ago
+
+---
+
+**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.cbsnews.com/video/trump-administration-looks-supercharge-robotics-industry-politico/)**
+
+Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
+
+CBS News • 17h ago
+
+---
+
+**[Robotics Stocks Surged on Wednesday. Here's Why.](https://www.nasdaq.com/articles/robotics-stocks-surged-wednesday-heres-why)**
+
+Key PointsPresident Trump is reportedly considering signing an executive order in the new year to accelerate the development of robots in the U.S.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -138,51 +176,11 @@ Investor's Business Daily • 17h ago
 
 ---
 
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
-
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
-
-MLive.com • 18h ago
-
----
-
 **[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
 
 The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
 Barchart.com • 19h ago
-
----
-
-**[Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO](https://www.fiercebiotech.com/medtech/olympus-backed-swan-endosurgical-names-stryker-vet-erik-todd-ceo)**
-
-Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
-
-Fierce Biotech • 2d ago
-
----
-
-**[Vision-native AI opportunities: a precursor to intelligent robotics](https://www.bvp.com/atlas/vision-native-ai-opportunities-a-precursor-to-intelligent-robotics)**
-
-As AI advances into the real world of robotics and automation, we’re seeing a turning point for physical AI — 1X’s NEO Home Robot can now adapt to new environments in real-time, Physical Intelligence’s Pi0 became the first robot to fold laundry with human-level dexterity straight from a hamper, and Tesla’s Optimus is performing complex […]
-
-Bessemer Venture Partners • 2d ago
-
----
-
-**[Massimo Group (NASDAQ: MAMO) forms AI robotics division to enter global automation and smart-systems markets](https://www.stocktitan.net/news/MAMO/massimo-group-announces-formation-of-ai-robotics-division-expanding-p08w84pho0qe.html)**
-
-Massimo Group forms Massimo AI Technology to develop industrial automation and logistics robotics, aiming to diversify revenue and expand beyond powersports and EVs.
-
-Stock Titan • 1d ago
-
----
-
-**[Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago](https://www.cnn.com/2025/12/03/asia/malaysia-mh370-robotics-search-latam-intl)**
-
-Malaysia’s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
-
-CNN • 1d ago
 
 ---
 
@@ -272,7 +270,7 @@ AI #stablediffusion #AIart #humanoid #scifi #robot #futuretech.
 
 📺 ROBOT HUMANOID AI
 
-👁️ 9K • 👍 117 • ⏱️ 0:25 • 21h ago
+👁️ 9K • 👍 117 • ⏱️ 0:25 • 22h ago
 
 ---
 

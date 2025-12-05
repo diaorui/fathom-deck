@@ -5,54 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTdZWU9ZcTloV3RIeW44R3E2aUNYUmFUX3NnUEZ3Uzk0c3ZRdldRakIxbHRrX2JmYk5TX1ZQYW1rYkg1YXlNeVMyRTdWcWllblJsRllkNi1GT0Q4V0FtSkd0bkM1T21rVk1ka2p5Rmx5QkZUd2tBWHBZYkE2bHJvOGc1U3c2UUZhNk96X1hEb3VLVUpfckJiOVBqZHVyT3BGb2liM2hvd2tZNl9tMjktQk1Xd2FHSDd3M2sxbnd1czk?oc=5",
-      "pub_date": 1764922300.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imggtXTZHkQE/v0/1200x800.jpg",
-      "description": "BlackRock Inc.\u2019s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world\u2019s largest cryptocurrency remains subdued even as prices stabilize."
+      "headline": "Solana, XRP, ETH Extend Losses as Bitcoin\u2019s $91K Support Back in Focus",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGNEWTVoNVk4ZDl6NTIwOTJJTWhPRXdHZWZVYkkxX0ZOOF9sSEtZRUUwc0wwTk5iRnpEOWZWUmk1ejFhem5xRWVoRTV3UUlreGVlaHhDUXAwdFphQ1BJaU5ZZnlxS185RmZfNng2VjUycFVJZ3VhRGZRSDFuYnpDNzN6N0ExT1RfLWRDQlFjUnBYcmw2Ml9vSThBdXpEazh0RjR5c2h2cElYY09ENFl5MEJTQ3c?oc=5",
+      "pub_date": 1764914321.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/181148f5c39f60293705e8d02619029fe9b70222-1280x914.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The one-month chart shows BTC still locked inside a descending structure from early November\u2019s highs, with the latest rebound producing another lower high."
     },
     {
-      "headline": "Bitcoin ETFs Just Shed $194 Million\u2014Highest in Two Weeks",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUZYcHpadjJfR2dmYjdIMEk3b2hZYnNrLWVDU093aVJodEpQX05NOHJUbFlqLThwblJ2enRiaWZYMmVqNFQ2RDlLTm5QRkYwZHR4akJVZ1Z0UkJoS3VGLTdWbnF0eGlhcFdHTS1vVzVGVlkyVWpNdzlRZGhxUXFuT1lsVjFzRWNu0gGQAUFVX3lxTE5RdlAzNzJJbWJaQndWX1pTVUpyNEV0VjJiS3A2VEpGV1VjUFd0dE9zT3Jub3BXT2NzNk5wZWxZeFBKYUcxblhkOXZaUHQ4MXZ1cTI0RTFpNGZSYllJSkdPdzJaUXpYNk1WWWxocmRGWXpEbGF5US1aWnVERzZ6Y1hZOXZtNHdISVNBSUEzVnB0Vw?oc=5",
-      "pub_date": 1764937146.0,
-      "article_url": "https://decrypt.co/351065/bitcoin-etfs-just-shed-194-million-highest-in-two-weeks",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/etf-decrypt-style-01-gID_7.png",
-      "description": "Analysts argue this could mean institutional investors are continuing to unwind leveraged positions and basis trades."
-    },
-    {
-      "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQcVRod212eDF1NU1rUGdHcUF3WkRIa3dLRTVDcGxFOThJMkV0VTYwZGJVUTdDY0hjbExDb3h5RDIzWERaMjM3Ym9QdS1KekNDbk1qc3VFNGdhRXZHNFJIT2UxUkw3c2RKUWRXdVUycUIyeVQtaU1DQm9aV3dZeEpRNUctWnpxZTJkWFQ2ZlNOVFpqa25zcFpPazhpSU00ck1lTENXaktCX1NUc1BIZFNQTnlRbk92TGhjYXhURzh3M0tYSWpsN2hSSmU4VkJaWExNcDNSS1pXSEs1LUM5ZC1mdGtPMDZQeWtNT2k2Uk1zX3YwazVKbk1jQ3YxQ3B6V0FRSzczUHZpa3FIblJwNkw0UUJMUGpRWGhnTGlsSjdvS0dGR0xnLVZmTGRSQVNwRkpUeGZGM3VYWjI2YWxxYklFRU5Kdk5xZEZoMWJhQVhnRzFzSVBWdVFPMWlEeC1Ia1hLQXdpbnM1bl9CTndmRW9IUEZZeTlnNFc1WVFZWWk0RHhHUUFEdGg0TXhHZklCbjNuTkROd2lkRjZMU3RjUTZWdUF4X3BaOXZVblBj?oc=5",
-      "pub_date": 1764716700.0,
-      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqckqC1H9f2LiW-obIoaFCirFeQKx4ivD7g1TcjvPw5vYIOMMbjNNIjQ&gaa_ts=6932eb77&gaa_sig=Y8ABuRSos6EPYw3AfpUfEBAl5EuRfbjCYU-SdgneNdp89LquRoWnopMIIIBTEX2caIcBxgXc4pwnyHEZ06B6TQ%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin is down nearly 30% from its record high \u2014 history shows that's normal",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEJ2RTlPdVN0dFI0OHdRNnNXVHNoM0lOYnhEcEhwZzhBaFVJVUZoemNMQTlGd0FRQUthRUg3R1A2Qk9hUjF2YjQ3QkhnTnZlWmQzUkI3VzlwZUtuaVRwODNVRHdtZGJ4MHI0RjFuU3h4eU1CakdWRXZKZWZhQTk4cEs5WnhhZ0VpcHNEMDRuY2tkc2RNZmtYeW5CU1hSNjd5UWx6WFpnZmJxNDRYYlJ30gG0AUFVX3lxTE96c3dMRGlhdDBZUlZsaUxjbExCeFpJcDFLVmxzQVRKWjltRU41YWNZenA2cGVwaHEyMXJha3AySjVod1BpMG1QN1V5Tzd4cWlnejZSNVpJOGN3Y1M2bVQ3dnVDQjh2OGQ2TUprR21PR0x3X2MxS0FGZkVoVXY1RDdhTXd2N3M2T1VQMTVMZ0RrT0tJQUhKRGtzWjFkYnQ4TWxJc3hNUmxMN1pTUVc0WmhsVXdGaA?oc=5",
-      "pub_date": 1764847662.0,
-      "article_url": "https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108235234-1764690993224-gettyimages-2247341381-AFP_84UC93G.jpeg?v=1764691074&w=1920&h=1080",
-      "description": "In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger."
-    },
-    {
-      "headline": "Bitcoin falls as crypto rebound stalls. Why it may quickly restart.",
-      "source": "MSN",
-      "source_url": "https://www.msn.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNW41bkdkcWtFal95Z2dtaEpUcFNtUGlQUXAtZGF1YXBZUkVBTTZ3NzVVaG90SkswVmxxWnZhLWIzcmRLbHpDLWkyV3JDRlFYa3JmZlU5TXN1SG5PWm9Ccmd4Q1FQUnRkdkhybkRQSHVBYzJmRm51bHZkWGFIdi11bDJaWXBwNVJsTHNwcW52YkhWNmwyWHA5T0dkOFJ3M3VtTEJONjJDOHBZaWQ3XzFaZnJ4enJCaTVybGtaRWFFSk1SRXprM25Ibm1BaXNkbnVEZEVkRl9YcDh0ajQ?oc=5",
-      "pub_date": 1764940152.0,
-      "article_url": "https://www.msn.com/en-us/money/markets/bitcoin-falls-as-crypto-rebound-stalls-why-it-may-quickly-restart/ar-AA1RMwyf?ocid=finance-verthp-feeds",
-      "image": null,
-      "description": null
+      "headline": "ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEdGaG85bWltRGVvQXZGQlZta3BhcW14QWxydHdHNlE2X25uWFV4UmxuUWxJUmh6bW04VG15SUJsb01DTjVJSDl5SWhwa3UtS3JUUEtMbThDQVZsNHBITC1vX2U5VWNFY0Q3VENGT3ozNmoteG9jZlBzTnRoajJhS0pwa2NHRjg?oc=5",
+      "pub_date": 1764944935.0,
+      "article_url": "https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html",
+      "image": "https://media.zenfs.com/en/benzinga_79/c18de243a5f70768c5fc6d19a5c47542",
+      "description": "Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ..."
     },
     {
       "headline": "Is bitcoin really digital gold? In 2025, the leading crypto has failed to answer that question",
@@ -95,7 +65,17 @@
       "description": "A rule change could force Saylor's company to sell some of its $650 billion holdings\u2014but crypto veterans say Strategy will be just fine."
     },
     {
-      "headline": "Why JPMorgan says bitcoin could rocket to $170,000 in the coming months",
+      "headline": "Bitcoin Price Could Hit $170K \u2014 But Strategy \u2018Resilience\u2019 Is Vital: JPMorgan",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0waGZKaDJoZ2tsUlVjVzJNR1RqRUQzNk41Tjg0MEJiWjdrbDBOMFRHMDNId0Zrc2JkaFdqRmQzSGZnR1ZTOWFIcVJscXJhTmswd2RNMUtpWGltT3Z4RndYZzBJTmxzX19JLVk1YVVTTk52LUstaXNBb1JMVklZenM?oc=5",
+      "pub_date": 1764932768.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html",
+      "image": "https://media.zenfs.com/en/cryptonews_us_711/47574c9b83aed417ba4b14b68ce68276",
+      "description": "JPMorgan analysts say the near-term direction of Bitcoin\u2019s price now depends less on miner behavior and more on the financial resilience of Strategy, the world\u2019s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ..."
+    },
+    {
+      "headline": "Why bitcoin could shoot to $170,000 in the next year, according to JPMorgan",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2c4WWkwZ1hoR0YtNGVDOEdjSnEwQU1GR0I4S21TSXZEekVHYUdpdmRiMVMzQ05NQU42TExCSUhfX3otTEdPMXRYS3pscy02Sk5HSjA0VVlKYVAxQ1R2QkVRanZyLUdIcV8waDVVM25oUTlwSzVhYzZsVUs0QVdpMjVnYjVVYWl0UFVPbnFWcXd1ckRmM3BTRms0QjI?oc=5",
@@ -103,8 +83,28 @@
       "article_url": "https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12",
       "image": "https://i.insider.com/69319bec7ecd1d1da662e9ed?width=1200&format=jpeg",
       "description": "JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term."
+    },
+    {
+      "headline": "JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEJSRlhXeVdoYkRhVWhZdDgteEotcnZSOEtrV0JXQm1yS1pncm5wcXhRUFl5OE5teU9rOThFbl9kcnpBWUROWUkybWhZNi1MTGNrZjVBb0RwS2d5bnprczRHZWNneUxyeXZTcm5kbjJDczI2amktaWJQd0NyYVFrNdIBhgFBVV95cUxQQUttN09oLTFsOW55aTgtbEEtNHhsOE41d2Jxb2Y3T3RCdjZzUnRHTllkanJmRnEyZ0ZFM2JTVEFQeWVxYk5BcWdocnM0VnU3akNyaU9Jd0xqVjFZTXE1bzJBTlpWZGhDVlY2Vi1nMWhKRklWaGNVRkpYblNqa1ZfX3JXdzFuUQ?oc=5",
+      "pub_date": 1764887976.0,
+      "article_url": "https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin\u2019s Predicted Sky-High Prices Have Not Panned Out",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLV80ZjAtYy1HdlV4aVRkWXk0Rk0tOWtSM3JGNHpOVThqZEZpMGR3ZUMzR2xXVExaVXlZQnpoRE9LU0ZkT1F2WXlVbDBTbzdka1p0cW91RlRSWjBGRkpPWkY2dmVrV3NRTUdCZG9XR1dFZldZWVFlVmt3d3MyS01VTzFWUnJIb2RJWlpKclFOaw?oc=5",
+      "pub_date": 1764756144.0,
+      "article_url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T14:11:22.087136+00:00"
+  "fetched_at": "2025-12-05T14:51:36.313146+00:00"
 }

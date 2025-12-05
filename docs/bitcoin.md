@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T14:37:50.180911+00:00'
+updated: '2025-12-05T14:51:45.635362+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 14:37 UTC  
+**Last Updated:** December 05, 2025 at 14:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,588.71
+### $90,352.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** -0.6%  
-**30d:** -11.0%  
-**90d:** -19.0%  
-**1y:** -9.5%  
+**24h:** -3.3%  
+**7d:** -1.0%  
+**30d:** -11.3%  
+**90d:** -19.3%  
+**1y:** -9.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1807.57B
+**Market Cap:** $1798.23B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.1%
+-28.5%
 
 **All-Time Low:** $67.81
-+133538.1%
++132753.6%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-10h ago
+11h ago
 
 ---
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -105,9 +105,9 @@ Im only up 3000% now
 
 ---
 
-**[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
+**[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-21h ago
+32m ago
 
 ---
 
@@ -115,7 +115,13 @@ Im only up 3000% now
 
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
-9h ago
+10h ago
+
+---
+
+**[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
+
+21h ago
 
 ---
 
@@ -129,7 +135,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 **[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -139,51 +145,23 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ---
 
-**[Broke .1 finally!](https://www.reddit.com/r/Bitcoin/comments/1pedy60/broke_1_finally/)**
-
-.2 next, just wanted to share with someone
-
-16h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
+**[Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus](https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus)**
 
-BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
+The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high.
 
-Bloomberg.com • 6h ago
-
----
-
-**[Bitcoin ETFs Just Shed $194 Million—Highest in Two Weeks](https://decrypt.co/351065/bitcoin-etfs-just-shed-194-million-highest-in-two-weeks)**
-
-Analysts argue this could mean institutional investors are continuing to unwind leveraged positions and basis trades.
-
-Decrypt • 2h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqckqC1H9f2LiW-obIoaFCirFeQKx4ivD7g1TcjvPw5vYIOMMbjNNIjQ&gaa_ts=6932eb77&gaa_sig=Y8ABuRSos6EPYw3AfpUfEBAl5EuRfbjCYU-SdgneNdp89LquRoWnopMIIIBTEX2caIcBxgXc4pwnyHEZ06B6TQ%3D%3D)**
+**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
 
-The Wall Street Journal • 2d ago
+Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
----
-
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
-
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
-
-CNBC • 1d ago
-
----
-
-**[Bitcoin falls as crypto rebound stalls. Why it may quickly restart.](https://www.msn.com/en-us/money/markets/bitcoin-falls-as-crypto-rebound-stalls-why-it-may-quickly-restart/ar-AA1RMwyf?ocid=finance-verthp-feeds)**
-
-MSN • 1h ago
+Yahoo Finance • 22m ago
 
 ---
 
@@ -217,11 +195,31 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
+
+JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Why bitcoin could shoot to $170,000 in the next year, according to JPMorgan](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
 
 JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
-Business Insider • 20h ago
+Business Insider • 21h ago
+
+---
+
+**[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
+
+The Block • 16h ago
+
+---
+
+**[Bitcoin’s Predicted Sky-High Prices Have Not Panned Out](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -297,7 +295,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol](https://news.ycombinator.com/item?id=46149605)**
 
-⬆️ 1 • 💬 0 • 21h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
+⬆️ 1 • 💬 0 • 22h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
 
 ---
 
@@ -311,7 +309,7 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 54K • 👍 2K • 💬 254 • ⏱️ 18:48 • 16h ago
+👁️ 54K • 👍 2K • 💬 254 • ⏱️ 18:48 • 17h ago
 
 ---
 
@@ -341,7 +339,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 552 • 💬 33 • ⏱️ 9:41 • 9h ago
+👁️ 9K • 👍 552 • 💬 33 • ⏱️ 9:41 • 10h ago
 
 ---
 

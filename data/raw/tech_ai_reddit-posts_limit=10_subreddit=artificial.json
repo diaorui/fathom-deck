@@ -13,15 +13,15 @@
       "description": "Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology."
     },
     {
-      "title": "This guy built an AI for your ear that you talk to and it literally changes what you hear",
-      "author": "Ridwann",
-      "url": "https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/",
-      "published": 1764883111.0,
-      "thumbnail": "https://external-preview.redd.it/c2ZkZXVzaGM3OTVnMXYWqHRPQJQy5HYl_GIhe4VMsJqw1Xgh7K0Xsyj_aZwx.png?width=640&crop=smart&auto=webp&s=af6d2b28199fb58b00d7b478e470ca758cc985f2",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
+      "title": "AI Slop Is Ruining Reddit for Everyone",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/",
+      "published": 1764940874.0,
+      "thumbnail": "https://external-preview.redd.it/LNaKJp8rllZicGcGW35EJt0t1ua-MUEB2YC7x6Q3Guc.jpeg?width=640&crop=smart&auto=webp&s=4616f386de6c4aaf86df76bc642c6ecc42dff549",
+      "external_url": "https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits."
     },
     {
       "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup\u2019s Exposed Database",
@@ -33,6 +33,17 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "An AI image generator startup\u2019s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been \u201cnudified.\u201d"
+    },
+    {
+      "title": "This guy built an AI for your ear that you talk to and it literally changes what you hear",
+      "author": "Ridwann",
+      "url": "https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/",
+      "published": 1764883111.0,
+      "thumbnail": "https://external-preview.redd.it/c2ZkZXVzaGM3OTVnMXYWqHRPQJQy5HYl_GIhe4VMsJqw1Xgh7K0Xsyj_aZwx.png?width=640&crop=smart&auto=webp&s=af6d2b28199fb58b00d7b478e470ca758cc985f2",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Florida teacher who used AI to make child pornography of students gets 135-year sentence",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey everyone, here is the 10th issue of Hacker News x AI newsletter, a newsletter I started 10 weeks ago as an experiment to see if there is an audience for such content. This is a weekly AI related links from Hacker News and the discussions around them. AI CEO demo that lets an LLM act as your boss, triggering debate about automating management, labor, and whether agents will replace workers or executives first. Link to HN Tooling to spin up always-on AI agents that coordinate as a simulated organization, with questions about emergent behavior, reliability, and where human oversight still matters. Link to HN Thread on AI-driven automation of work, from \u201cagents doing 90% of your job\u201d to macro fears about AGI, unemployment, population collapse, and calls for global governance of GPU farms and AGI research. Link to HN Debate over AI replacing CEOs and other \u201csoft\u201d roles, how capital might adopt AI-CEO-as-a-service, and the ethical/economic implications of AI owners, governance, and capitalism with machine leadership. Link to HN If you want to subscribe to this newsletter, you can do it here: https://hackernewsai.com/"
-    },
-    {
-      "title": "AI Slop Is Ruining Reddit for Everyone",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/",
-      "published": 1764940874.0,
-      "thumbnail": "https://external-preview.redd.it/LNaKJp8rllZicGcGW35EJt0t1ua-MUEB2YC7x6Q3Guc.jpeg?width=640&crop=smart&auto=webp&s=4616f386de6c4aaf86df76bc642c6ecc42dff549",
-      "external_url": "https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits."
     }
   ],
-  "fetched_at": "2025-12-05T14:11:01.188020+00:00"
+  "fetched_at": "2025-12-05T14:51:19.836876+00:00"
 }

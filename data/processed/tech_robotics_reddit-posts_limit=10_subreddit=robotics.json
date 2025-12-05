@@ -13,17 +13,6 @@
       "description": "This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mechanism: Jet-powered vertical take-off and landing (VTOL). Control: Uses an advanced stabilization system to assist the rider's balance during precision maneuvers. Specs: Carbon fiber frame (30kg), top speed ~100km/h (capped) and flight time ~10 mins. Source: Volonaut \ud83d\udd17 : https://youtu.be/4b0Laxsj_z0?si=8loRPWJWr4v622ii"
     },
     {
-      "title": "Art installation draws attention for its robot dogs with famous faces",
-      "author": "nbcnews",
-      "url": "https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/",
-      "published": 1764867378.0,
-      "thumbnail": "https://external-preview.redd.it/cTJ2N2RidXF3NzVnMa2NkyWLusU3EEB1G1quIu5uMib9yhFcaTJpvX4KlXi-.png?width=640&crop=smart&auto=webp&s=5c4b356e7b7139ee64c4e5a27f5c0e40298e7324",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "AGIBOT D1 Pro",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1peuynn/agibot_d1_pro/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "AGIBOT on \ud835\udd4f: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations\uff5e 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537"
+    },
+    {
+      "title": "Art installation draws attention for its robot dogs with famous faces",
+      "author": "nbcnews",
+      "url": "https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/",
+      "published": 1764867378.0,
+      "thumbnail": "https://external-preview.redd.it/cTJ2N2RidXF3NzVnMa2NkyWLusU3EEB1G1quIu5uMib9yhFcaTJpvX4KlXi-.png?width=640&crop=smart&auto=webp&s=5c4b356e7b7139ee64c4e5a27f5c0e40298e7324",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Behind-the-scenes footage from the EngineAI T800 shoot \u2014 a direct response to the CG accusations.",
@@ -68,17 +68,6 @@
       "description": "For a long time, many robotics teams believed that real robot interaction data was the only reliable foundation for training generalist manipulation models. But real-world data collection is extremely expensive, slow, and fundamentally limited by human labor. Recent results suggest the landscape is changing. Three industry signals stand out: 1. InternData-A1: Synthetic data beats the strongest real-world dataset Shanghai AI Lab\u2019s new paper InternData-A1 (Nov 2025, arXiv) is the first to show that pure simulation data can match or outperform the best real-robot dataset used to train Pi0. The dataset is massive: 630k+ trajectories 7,434 hours 401M frames 4 robot embodiments, 18 skill types, 70 tasks $0.003 per trajectory generation cost One 8\u00d7RTX4090 workstation \u2192 200+ hours of robot data per day Results: On RoboTwin2.0 (49 bimanual tasks): +5\u20136% success over Pi0 On 9 real-world tasks: +6.2% success Sim-to-Real: 1,600 synthetic samples \u2248 200 real samples (\u22488:1 efficiency) The long-held \u201csimulation quality discount\u201d is shrinking fast. 2. GEN-0 exposes the economic impossibility of scaling real-world teleoperation Cross-validated numbers show: Human teleoperation cost per trajectory: $2\u2013$10 Hardware systems: $30k\u2013$40k 1 billion trajectories \u2192 $2\u201310 billion GEN-0\u2019s own scaling law predicts that laundry alone would require 1B interactions for strong performance. https://preview.redd.it/qd8pkcdpfd5g1.png?width=556&format=png&auto=webp&s=1df2607476d3e63f5ca32edae1bf7319d97f1176 Even with Tesla-level resources, this is not feasible. That\u2019s why GEN-0 relies on distributed UMI collection across thousands of sites instead of traditional teleoperation. 3. Tesla\u2019s Optimus shifts dramatically: from mocap \u2192 human video imitation Timeline: 2022\u20132024: Tesla used full-body mocap suits + VR teleop; operators wore ~30 lb rigs, walked 7 hours/day, paid up to $48/hr. May 21, 2025: Tesla confirms:\u201cOptimus is now learning new tasks directly from human videos.\u201d June 2025: Tesla transitions to a vision-only approach, dropping mocap entirely. Their demo showed Optimus performing tasks like trash disposal, vacuuming, cabinet/microwave use, stirring, tearing paper towels, sorting industrial parts \u2014 all claimed to be controlled by a single end-to-end network. 4. So is real robot data obsolete? Not exactly. These developments indicate a shift, not a disappearance: Synthetic data (InternData-A1) is now strong enough to pre-train generalist policies Distributed real data (GEN-0) remains critical for grounding and calibration Pure video imitation (Tesla) offers unmatched scalability but still needs validation for fine manipulation All major approaches still rely on a small amount of real data for fine-tuning or evaluation Open Questions: Where do you think the field is heading? A synthetic-first paradigm? Video-only learning at scale? Hybrid pipelines mixing sim, video, and small real datasets? Or something entirely new? Curious to hear perspectives from researchers, roboticists, and anyone training embodied agents."
     },
     {
-      "title": "Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.",
-      "author": "jabestimmt",
-      "url": "https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/",
-      "published": 1764917767.0,
-      "thumbnail": "https://external-preview.redd.it/dHVtNTAxMzh3YjVnMY8hunvne-G1istBpMnnp_zGAnVmB3Gp1Lacn2gJ41YC.png?width=640&crop=smart&auto=webp&s=bc12e5929a11a7fc356697681205c441ddb0ca61",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Marc Raibert on Why Robotics Needs More Transparency",
       "author": "Responsible-Grass452",
       "url": "https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/",
@@ -88,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin."
+    },
+    {
+      "title": "Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.",
+      "author": "jabestimmt",
+      "url": "https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/",
+      "published": 1764917767.0,
+      "thumbnail": "https://external-preview.redd.it/dHVtNTAxMzh3YjVnMY8hunvne-G1istBpMnnp_zGAnVmB3Gp1Lacn2gJ41YC.png?width=640&crop=smart&auto=webp&s=bc12e5929a11a7fc356697681205c441ddb0ca61",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "A potentially highly efficient image and video tokenizer for LLMs/VLAs.",
@@ -101,16 +101,16 @@
       "description": "Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I\u2019m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I\u2019m posting it here in case anyone finds it interesting or useful."
     },
     {
-      "title": "UBTECH Walker S2 - World\u2019s First Mass Delivery of Humanoid Robots",
-      "author": "chari_md",
-      "url": "https://www.reddit.com/r/robotics/comments/1peqau3/ubtech_walker_s2_worlds_first_mass_delivery_of/",
-      "published": 1764925105.0,
-      "thumbnail": "https://external-preview.redd.it/G6dhTr4IDhOeiFrB_2Q10Q1b160_aw_o6y-tAXdrHqw.jpeg?width=320&crop=smart&auto=webp&s=d27106dcf0da92b2bdef0d11ec1e35e3857a5ad2",
-      "external_url": "https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO",
-      "site_name": "youtu.be",
-      "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+      "title": "Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:",
+      "author": "shadrack_CK",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/",
+      "published": 1764847786.0,
+      "thumbnail": "https://external-preview.redd.it/ZXFyNnBrYWthNjVnMZic-YAL2FrbG_LahCho4nLawiVY0IxB1oL25EA8EEnf.png?width=640&crop=smart&auto=webp&s=a3f734b42d1aaff8fe44a188560a007b1b91ae2b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     }
   ],
-  "fetched_at": "2025-12-05T14:11:02.605022+00:00"
+  "fetched_at": "2025-12-05T14:51:23.644767+00:00"
 }

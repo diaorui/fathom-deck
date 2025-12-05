@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T23:44:30.635451+00:00'
+updated: '2025-12-05T23:55:39.314001+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 23:44 UTC  
+**Last Updated:** December 05, 2025 at 23:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 11h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 12h ago
 
 ---
 
@@ -71,7 +71,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 Obviously algorithms and bots already massively twist people's perceptions of each other on social media. They boost controversial posts and ones that shift your focus quickly, as well as propaganda that the company owning the platform wants you to see. And of course they tend to boost trolling and infighting in groups they don't like, especially leftist and anti-capitalist ones. Old news. But as AI gets better at both processing social media content and generating fake content, I wonder if it will be used for more direct mental manipulation. Like if you interact positively with a post the algorithm "likes", it won't only show you more like it, it will show you something you like to give you a little dopamine or make you feel more at home with the accounts you're following, and if you engage with something it doesn't like it will do the opposite. Eventually it could do the same in response to things you do in real life, using location data, security cameras etc. Basically the same way someone emotionally abusive tries to manipulate you, or the way nazis and other fascist groups target lonely people and accept them only if they go along with their beliefs, I'm thinking tech companies could possibly do that on a larger scale. Is this possible / coming soon / already happening? I'm interested to hear your opinions. And is there any information out there on this? I could have sworn I saw an article headline predicting something about it a few years ago but I never read it and now I can't find it
 
-21m ago
+33m ago
 
 ---
 
@@ -109,7 +109,7 @@ Obviously algorithms and bots already massively twist people's perceptions of ea
 
 AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 33m ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 44m ago
 
 ---
 
@@ -143,7 +143,7 @@ The Motley Fool • 4h ago
 
 Palantir stock has gained more than 2,000% since the AI revolution kicked off three years ago.
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ AOL.com • 1h ago
 
 Anthropic is challenging the world’s biggest AI players with a bold mission: to build systems that are both powerful and aligned with human values. The company’s president and cofounder, Daniela Amodei, will join WIRED’s Steven Levy for a candid conversation about Anthropic’s “constitutional” approach to AI safety, the race to develop ever-smarter models, and how to balance innovation with accountability.
 
-WIRED • 44m ago
+WIRED • 55m ago
 
 ---
 
@@ -367,7 +367,7 @@ With headlines of an imminent job apocalypse, code red for ChatGPT and recursive
 
 📺 AI Explained
 
-👁️ 19K • 👍 1K • 💬 241 • ⏱️ 20:16 • 6h ago
+👁️ 19K • 👍 1K • 💬 241 • ⏱️ 20:16 • 7h ago
 
 ---
 
@@ -441,7 +441,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 287 • 21h ago
+⬇️ 12,984 • ❤️ 287 • 22h ago
 
 ---
 
@@ -699,7 +699,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 41m ago
+⭐ 822 • 🔱 42 • 52m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T23:44:30.652878+00:00'
+updated: '2025-12-05T23:55:39.331517+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 23:44 UTC  
+**Last Updated:** December 05, 2025 at 23:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper 
 
 https://youtu.be/UAlm8Z4mfpU
 
-24m ago
+35m ago
 
 ---
 
@@ -56,7 +56,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 **[Chat Interface for Isaac Sim](https://www.reddit.com/r/robotics/comments/1pfa7jb/chat_interface_for_isaac_sim/)**
 
-11m ago
+22m ago
 
 ---
 
@@ -102,7 +102,7 @@ Arthur C. Clarke said "Any sufficiently advanced technology is indistinguishable
 
 https://youtu.be/rHFFycQPYzE
 
-30m ago
+41m ago
 
 ---
 
@@ -166,7 +166,7 @@ Fierce Biotech • 2d ago
 
 Figure AI CEO Brett Adcock dropped a short, electrifying video on social media, teasing the extraordinary speed and agility of Figure 03 humanoid robot.
 
-Interesting Engineering • 14h ago
+Interesting Engineering • 15h ago
 
 ---
 
@@ -204,7 +204,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 41K • 👍 207 • 💬 6 • ⏱️ 0:19 • 10h ago
+👁️ 41K • 👍 207 • 💬 6 • ⏱️ 0:19 • 11h ago
 
 ---
 

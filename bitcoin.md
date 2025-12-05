@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T23:44:30.643705+00:00'
+updated: '2025-12-05T23:55:39.322269+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 23:44 UTC  
+**Last Updated:** December 05, 2025 at 23:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.5%  
-**7d:** -2.0%  
-**30d:** -12.2%  
-**90d:** -20.1%  
-**1y:** -10.7%  
+**24h:** -3.1%  
+**7d:** -1.6%  
+**30d:** -11.9%  
+**90d:** -19.8%  
+**1y:** -10.4%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ Charts like this always remind me why time in the market beats timing the market
 
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
-1h ago
+2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 9h ago
 
 Get caught up.
 
-Bloomberg.com • 16m ago
+Bloomberg.com • 27m ago
 
 ---
 
@@ -357,7 +357,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 4K • 💬 331 • ⏱️ 23:27 • 22h ago
+👁️ 44K • 👍 4K • 💬 331 • ⏱️ 23:27 • 23h ago
 
 ---
 

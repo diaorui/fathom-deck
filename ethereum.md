@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T23:44:30.649666+00:00'
+updated: '2025-12-05T23:55:39.328231+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 23:44 UTC  
+**Last Updated:** December 05, 2025 at 23:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.0%  
-**7d:** +1.0%  
-**30d:** -9.0%  
-**90d:** -30.1%  
-**1y:** -24.4%  
+**24h:** -3.9%  
+**7d:** +1.2%  
+**30d:** -8.8%  
+**90d:** -29.9%  
+**1y:** -24.3%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is Part Six of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires. Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Trustless, My Ass <-- You are here Trading with the Blue Man At the hotel, the man working reception is exactly who I was hoping for: tall, broad, the build of someone who could win a bar fight just by standing up. When I sit down in the lobby, he asks if I'm meeting someone, like I need permission to sit in the hotel that I'm paying for. I say yes I am. Meeting someone. He waits, in case I'll give further details, and then shrugs and leaves me alone. One more message to Blue Man. I'm here. Look for the blonde sitting by the window. I wait. Half an hour passes. I look up nervously every time someone walks in. I set up my new keyboard to have something to do with my hands. Reception man keeps one eye on me but most of his attention is taken up by the endless stream of tourists dragging too many bags. A pick-up truck pulls up outside. My stomach flips. Is this him? Is this how it's going to happen? Am I supposed to go out there? Is he just going to hand me an envelope after all. Am I supposed to get in the truck? I stay exactly where I am, mentally drafting excuses for not going outside. Anything that doesn't make me sound like a person whose first reaction to a pick-up truck is potential kidnapping. The truck pulls away. Nothing to do with me. A large French family arrives and explodes across the lobby, checking in to their rooms to drop luggage and then meeting again to go out on the town. Couples, children, cousins, an elderly woman with cataracts calling out "Who are we missing," every few minutes. How the hell am I going to enact a dodgy transaction with Grandmère sitting next to me? Eventually, the lobby clears and it is just me and the muscled man at reception. Blue Man messages, apologizes, he's finally on his way. A businessman walks in wearing a sharp suit and a tired face, checks into a room and heads for the elevator. Skinny guy wearing headphones drops a package on the desk, disappears without a word. A man with a nose that's been broken many times walks in and looks around. I tense. Muscle man behind the counter greets him like an old friend. A kid walks in, looks about thirteen. I slump back into my seat. He turns, scans the room, sees me. His face lights up. He says my name. This is Blue. He is not thirteen, of course. Just young and slender. He looks like a gentle soul. Maybe writes poetry. If it came to it, I could body slam him and run. I stand. We kiss cheeks. I invite him to join me on the corner of the sofa that has been my home for the past hour. He tells me, a little nervously, that his English is not very good. I'm charmed. He holds out an envelope. I peek inside. Yes, it looks like money. "Count it," he says. I pull out the bills and count them quickly. Reception man watches us, flexing, trying to work out if I'm selling my services in his hotel. Possibly I haven't thought this through. I count faster. The amount is correct. I place the envelope next to him and set up the transaction on my phone. He pulls out his phone and shows me his list of chains, asks me again what I've chosen. I get his wallet address and send the USDT. I show him the confirmation. Blue stares at his screen. "It takes a moment," he says. It shouldn't. But I wait. A minute passes, then two. A cold feeling is just starting to creep up my spine when he makes a happy sound, shows me a Bybit notification that someone has sent him 400 USDT. Blue's using a centralized exchange. It's none of my business. The transaction is complete. I pick up the envelope. He tells me that I can message him anytime, if I need anything. That he would be happy to do this again. I hope reception man isn't listening. Then he notices my keyboard on the table. "Is this what you bought?" I nod and he laughs, like who goes all the way to Buenos Aires to buy a keyboard? "Mine was stolen," I say. He gives me another dubious look and picks it up. His face brightens into a smile. "Oh! It's so light!" I'm absurdly pleased that he likes my keyboard. We say our goodbyes under the steely gaze of reception man. And then Blue is gone. Still to come: Custodial Services (Self-custody is easy, luggage custody is hard) Apparently I Did It Wrong ("You should have just used X, bro.")
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Trump crypto empire falls faster than bitcoin
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
-10h ago
+11h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Block • 1d ago
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 

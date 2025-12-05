@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T07:31:01.293756+00:00'
+updated: '2025-12-05T07:44:17.550701+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 07:31 UTC  
+**Last Updated:** December 05, 2025 at 07:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +1.5%  
-**30d:** -9.1%  
-**90d:** -17.3%  
-**1y:** -7.5%  
+**24h:** -0.8%  
+**7d:** +1.7%  
+**30d:** -8.9%  
+**90d:** -17.1%  
+**1y:** -7.3%  
 
 ---
 
@@ -101,13 +101,13 @@ Im only up 3000% now
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-3h ago
+4h ago
 
 ---
 
 **[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Economist • 21h ago
 
 Markets are hedging a Fed misstep, driving gold and silver higher while Bitcoin lags as traders reassess risk.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 1d ago
 
 **[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqd1GLvs4B-lOXY8PXqHTXvW_Q-QablTLv7MpaIP_5vaErs6tDAIJeCC&gaa_ts=69328da0&gaa_sig=Zne2o4wNlDdb1WXplSIh_7j36vVpFWproi_GldzIWlgF6NJNhoFVwGWoUQvaqenFmTAadmxC-gpkYJh8av3Bxw%3D%3D)**
 
-MarketWatch • 10h ago
+MarketWatch • 11h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Wall Street Journal • 2d ago
 
 **[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -237,7 +237,7 @@ The Block • 8h ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 17h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 18h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -293,7 +293,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol](https://news.ycombinator.com/item?id=46149605)**
 
-⬆️ 1 • 💬 0 • 14h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
+⬆️ 1 • 💬 0 • 15h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
 
 ---
 

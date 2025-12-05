@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T16:20:42.600164+00:00'
+updated: '2025-12-05T16:47:06.718829+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - news
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 16:20 UTC  
+**Last Updated:** December 05, 2025 at 16:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 2h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 3h ago
 
 ---
 
@@ -91,7 +91,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Meta is paying a slate of major publishers for real‑time access so Meta AI can answer news questions with citations and links—reversing years of retreat from news on Facebook while pushing for grounded, more trustworthy AI responses.
 
-🔗 [thinkautomated.io](https://thinkautomated.io/news/meta-signs-real-time-news-licensing-deals-to-feed-meta-ai) • 19m ago
+🔗 [thinkautomated.io](https://thinkautomated.io/news/meta-signs-real-time-news-licensing-deals-to-feed-meta-ai) • 46m ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times Company • 2h ago
 
 **[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
-The Washington Post • 18m ago
+The Washington Post • 45m ago
 
 ---
 
@@ -145,7 +145,7 @@ The Washington Post • 18m ago
 
 Meta is partnering with CNN, Fox News, Fox Sports, Le Monde Group, the People Inc. portfolio of media brands, The Daily Caller, The Washington Examiner, and USA Today.
 
-TechCrunch • 53m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -259,7 +259,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 194 • 💬 91 • 17h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 194 • 💬 91 • 18h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -341,7 +341,7 @@ Pocket Option Full Trading Session with AI TRADING BOT for Binary Options Link -
 
 📺 AITRADINGGG v2
 
-👁️ 5K • 👍 605 • 1h ago
+👁️ 5K • 👍 605 • 2h ago
 
 ---
 
@@ -435,7 +435,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 267 • 14h ago
+⬇️ 12,984 • ❤️ 267 • 15h ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 811 • 🔱 103 • 34m ago
+⭐ 811 • 🔱 103 • 1h ago
 
 ---
 

@@ -79,6 +79,17 @@
       "description": null
     },
     {
+      "title": "Meta Signs Real-Time News Licensing Deals to Feed Meta AI",
+      "author": "JTHGraphics",
+      "url": "https://www.reddit.com/r/artificial/comments/1peyssr/meta_signs_realtime_news_licensing_deals_to_feed/",
+      "published": 1764950456.0,
+      "thumbnail": null,
+      "external_url": "https://thinkautomated.io/news/meta-signs-real-time-news-licensing-deals-to-feed-meta-ai",
+      "site_name": "thinkautomated.io",
+      "favicon": "https://thinkautomated.io/logo.svg",
+      "description": "Meta is paying a slate of major publishers for real\u2011time access so Meta AI can answer news questions with citations and links\u2014reversing years of retreat from news on Facebook while pushing for grounded, more trustworthy AI responses."
+    },
+    {
       "title": "AI Updates for Week of 12/5/25",
       "author": "anniecushing",
       "url": "https://www.reddit.com/r/artificial/comments/1pex9pa/ai_updates_for_week_of_12525/",
@@ -99,18 +110,7 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "AMD CEO Lisa Su Says Concerns About an AI Bubble Are Overblown",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1pe8g15/amd_ceo_lisa_su_says_concerns_about_an_ai_bubble/",
-      "published": 1764874518.0,
-      "thumbnail": "https://external-preview.redd.it/BPOIx-ZOz9ssHu4OECRub9inJfHprj42iuv9KiLfiBw.jpeg?width=640&crop=smart&auto=webp&s=9473d945c8bc571b75f7b7e03acd75c55c15e0c6",
-      "external_url": "https://www.wired.com/story/big-interview-event-lisa-su-amd/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "Lisa Su leads Nvidia\u2019s biggest rival in the AI chip market. When asked at WIRED\u2019s Big Interview event if AI is a bubble, company said \u201cEmphatically, from my perspective, no.\u201d"
     }
   ],
-  "fetched_at": "2025-12-05T15:37:55.450158+00:00"
+  "fetched_at": "2025-12-05T16:20:18.957924+00:00"
 }

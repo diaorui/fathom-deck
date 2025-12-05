@@ -9,18 +9,8 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWU5zX3ptYUtzT0xMVjkwRTVpaTdQRm14aUJ3QnBMQmRkOHJxcW9tdU44NE5MZDhSR2trNXFHSEw2S3N3ODFrYVJRa1FpZUlrbUZ4RElibU5ZOGhpQmJBRWQzdW91ZVpfQkc0LUlfRnpSeDlUaGIycnR2T1dVZVF6eXVEUk9VODhkR0JXZXFkc2M?oc=5",
-      "pub_date": 1764940498.0,
+      "pub_date": 1764947494.0,
       "article_url": "https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "NYT, Chicago Tribune Sue Perplexity AI as Copyright War Rages On",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb24wUEFZNWpEYldGSGhUZEZILVczWEc0eElrbG9NakhwUklkTG9Va0l6a00wTWtxYmVCQTREeWhiU0NRMWstU3RWWWhRdDdOMnFkX3doWnJkc0s0aEwwaDJWTVNwQmZjZ240dGxoeEN1a2pJLVJ2RDJieWxxaGNXd0ZHSEFrakxISkctN2pqMHUyMWM0UkZBZjNJRG1nRFNWM1ZnN1JVOWpjdlVhbXhFUEpEcC0?oc=5",
-      "pub_date": 1764946898.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-05/nyt-chicago-tribune-sue-perplexity-ai-as-copyright-war-rages-on",
       "image": null,
       "description": null
     },
@@ -35,76 +25,86 @@
       "description": null
     },
     {
+      "headline": "The Times Sues Perplexity AI",
+      "source": "The New York Times Company",
+      "source_url": "https://www.nytco.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EaWVGLU85NHJ5dzJfd3J0Q2lBaGdpSWwydXdFaWtGLXBnNnpqN0ViYzA5VVdCV1picEVLbXM1VHN4djd6aERuTGVreUxsYU5QVmVnQmxXRFRTTnM5SzlXRzBJbWRHaWk3?oc=5",
+      "pub_date": 1764943722.0,
+      "article_url": "https://www.nytco.com/press/the-times-sues-perplexity-ai/",
+      "image": "https://nytco-assets.nytimes.com/2025/12/cc-t-white.png",
+      "description": "Today, The New York Times filed a lawsuit against Perplexity AI for copying Times journalism to deliver it to Perplexity\u2019s customers without permission or compensation."
+    },
+    {
       "headline": "ChatGPT started the AI race. Now its lead is looking shaky.",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem8wQjlxQVN2RUZIbW1udnlkZmhzSmFGVkx2bHU3clE1dFN6T096NXN6bmNZLWpWMGM0Y1VEUEVKMy1JWkFjN3pEUWc4bmZvTng4RWQ1Y0xQWmszVFpDbWNYRlpIcmRiR2VYZnNmUzhESHpaQ2lPUlp1cF9fcHNWeFNpeldpRU5MU05n?oc=5",
-      "pub_date": 1764945124.0,
+      "pub_date": 1764950524.0,
       "article_url": "https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Warner Bros.\u2019 Hidden Appeal to Netflix: AI Supercharger",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSk1tVkEwdm9lel9iUXdVOEtSWE1pZDE2bmhWQkVncVRJaGhqbmpTSUxCNjNTeTZyT25DNnJFNGNRZ0tXcEhnZWVGajV5R0dDRWdlYUxkeEZ1WHpYaV9YbUlUbzI1N01TY1hycjdmbXlidnI2c2ljMW9wdXVMS0lOaGpOc2ozRmR4M3dJT1E5NHBvbFRaSkd5QXNpSzZ0MUFpMlhBLS1R?oc=5",
-      "pub_date": 1764945867.0,
-      "article_url": "https://www.hollywoodreporter.com/business/business-news/netflix-warner-bros-acquisition-ai-1236443199/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/GettyImages-2250046912.jpg?w=1440&h=810&crop=1",
-      "description": "Training data and meme materials are elements the WB library offers that Netflix badly needs as it prepares to buy the studio."
+      "headline": "Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTVRc3EybmFlODhIRjBzSy1UMmFaU2ZZTUZWSmlBbXJPRXpuLU4tSnlaTm9ITGJJUzJUTjZzYnhHRjg4MHcxc2luMmRuU3JRdkNBTDZ4VTVHMGJaWlgtYTR2UkxZNUtNRnl4Y25rTnlaRG9MRFB3VzlqWmRCNFFwdzdud3dOZVdYS0pMcExxSGYyT3JIN0I5MDFsYVVmY2YxMkdTZEV2MEM1bG5IX2lIdnVEWVZIYTIwWk0zMkJLVDUyTEdp?oc=5",
+      "pub_date": 1764948457.0,
+      "article_url": "https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
+      "description": "Meta is partnering with CNN, Fox News, Fox Sports, Le Monde Group, the People Inc. portfolio of media brands, The Daily Caller, The Washington Examiner, and USA Today."
     },
     {
-      "headline": "Meta enters AI licensing fray, striking deals with People Inc., USA Today Co. and more",
-      "source": "Digiday",
-      "source_url": "https://digiday.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFlDa0VwRDJqT29NWnRJZ0xjRUluNEJ1amFaX0tpMVhIR2RTRVEzQUwwdjM3UnRJOElqNUtRcjR6WW1FUmN6UzJzRnJXQ1ZrbHNnWWlkY3hqaTEwV2hBMFJYdk0yVlYtTE1UbWFUVWE1ZmtYZk82NnNoblJXYjJJZTBJRTVMOHM2aGxCX1ZRSURUZGdOZFNEcmk0ZU9fa2dja2dMcmRKaFQxUk5PeFE?oc=5",
-      "pub_date": 1764945472.0,
-      "article_url": "https://digiday.com/media/meta-enters-ai-licensing-fray-striking-deals-with-people-inc-usa-today-co-and-more/",
-      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/03/meta-ring-digiday.jpg",
-      "description": "The platform has secured seven multi-year AI content licensing deals with publishers including CNN, Fox News, People Inc., USA Today Co for Llama."
-    },
-    {
-      "headline": "Elon Musk and Bill Gates warn that AI will kill all jobs within 20 years. \u2018That\u2019s not what we\u2019re seeing,\u2019 LinkedIn exec says",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOanNzcW44NlNicGw5LW1KQ1ItUmVRbTRtZEhSRXdmMFNobTJ3RzV5VUZKZ2VQWG9ibW9keU5zRTY1RGdvQkxQMEVuSXhaTlh6OVJzc09XQU42UG0xZzdxTWltZWhYTWRWczNkd0ZJUndaX1pYaE14NktQbnlkVlhmQlpNLUhScHVnZmctbXVWdm9ZU3hjWEM0cGplQ0ZfUkdibFFFZjcyc3RTcTUzMVlqU0tzaF9Pc3VBR1REcnhSUTZSRFY5Ml9VcktOWmhwcnNuR2VtYXhQb09BRHgtVmpmVlFOUUFfOENhdlVsRXZTdkNNTjlGN3k0QWlLTUpiVkpWZjBTMk9CdDAtQTlkeG51MzVBX3JVVk51aXVfcUQzVFAxaE04dTBGc3A2YjlueFVTZnc?oc=5",
-      "pub_date": 1764945660.0,
-      "article_url": "https://fortune.com/2025/12/05/elon-musk-and-bill-gates-are-wrong-about-ai-imminently-replacing-all-jobs-thats-not-what-were-seeing-linkedin-exec-career-advice-apocalypse-entry-level-jobs-good-news-for-gen-z/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1499013145-1-e1764947276562.jpg?resize=1200,600",
-      "description": "Elon Musk may predict a jobless future, but LinkedIn\u2019s latest hiring data shows demand rising, not collapsing. That will be music to Gen Z's ears."
-    },
-    {
-      "headline": "How AI is rewiring childhood | Dec 6th 2025",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3aXJCZWUwV0tMQ1E2Y2EtNG5LVmNITnlfT2JWLW9UV0M5ekNNUlVuUDBoakNMeVVtcG90bWYzY2pZVFowblRaN1Q3WTZyelJjN3UtQjd6d1doLXZNeWpv?oc=5",
-      "pub_date": 1764945730.0,
-      "article_url": "https://www.economist.com/weeklyedition/2025-12-06",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Transformative AI is coming, and so are the risks",
+      "headline": "Exclusive: Meta strikes multiple AI deals with news publishers",
       "source": "Axios",
       "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40YlNrc2RVSmlLU2wya2lac0NsU3ltRXVzTThCNkRwUjltZDlSTkdoM3RYMTlvdlE3RmlaUHlJMU5SSWk3M2ZZa2Q0RmoybWVuNlJTWGF1eHduSEwzVVJxUXNtLWVEYVBSZ2JFOA?oc=5",
-      "pub_date": 1764934942.0,
-      "article_url": "https://www.axios.com/2025/12/05/ai-deepmind-hassabis-gemini",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VQklkdEVMNlo5dDVvVzBYaTZkS3A5MkJROF9ReGtrazk3NC1IaTBlV2NQU0hlOWExR082TE9XQnVsempSSU5aYTN5RGY3cU5IOXJmdkw3M1R5LW1kZ09RQVZGVFdNZnlMOFVELTlIdw?oc=5",
+      "pub_date": 1764939581.0,
+      "article_url": "https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers",
       "image": null,
       "description": null
     },
     {
-      "headline": "This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVhRT3BCTnJuajdOa1BQeHJTZmNWMzZVbmM0UWZNeU1CSGJsbk51TUY5X19hTkhoMU0wcVBYaWZuUk52ejJvbkNzQzh6UVNOdWpnRXV5QmVhV2NpMjBxSUJqSmNsWjNFeGkycF9sZUZmcjdrMkZ5RFVXaFdMRG9ZRUt5YWJ3WXlkTlVJWENRNzRMbDI2SXVkNkJsTDJaZjl0azRSRTkyVUw0OENqM3NuVW9jbEo0bTM3SFhtVmpfeF83cG1FVm9IdQ?oc=5",
-      "pub_date": 1764870154.0,
-      "article_url": "https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/693133eaa5dc0082dddd0368/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "Ali Ansari\u2019s decision to turn micro1\u2019s AI recruitment assistant into a data labeling business spiked the company\u2019s valuation from $80 million to $2.5 billion."
+      "headline": "It's AI or the highway in tech these days",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDVCeXRJWWtQcGgwWHVQUXFzTG1KWXhkOXJwYUpTSjZNbV9LZkRpS3N2dkczMUNCRTN3dG9xSm83ZkZramg5bUtTRWI1aDh3a2dINkJkdEFmb1FFYlIyLUk1QlpwSE5MXy1wRHJQSXBHLXlYUjMydHIxMDNVWG5ZdDdBREN0ZkUwdXNwcEVLY2l2Vkg1QjRIcE9wMzg2V0p3Y1Rn?oc=5",
+      "pub_date": 1764947400.0,
+      "article_url": "https://www.businessinsider.com/meta-metaverse-reversal-tech-companies-reallocation-resources-2025-12",
+      "image": "https://i.insider.com/69320e2604d0f0a114f17465?width=1200&format=jpeg",
+      "description": "Meta's plan to cut back on metaverse spending is a sign that projects not helping tech companies' AI goals are falling out of favor."
+    },
+    {
+      "headline": "AMD's Lisa Su doesn't believe there's an AI bubble: 'Emphatically, from my perspective, no'",
+      "source": "PC Gamer",
+      "source_url": "https://www.pcgamer.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0xKYW9qbUxNcFhHbGRsek1Ra3MzcGZmQTVnT1ZuRFJHb1dicFdNZUE1THFsQ2NQdHNOZ2ZTeEk1bUZxWWRhVFo5bHhfb1NNMVlJNHR0Y0QyU1ZwVGdqNkJVVkhUQUdUWlhvS1htVFl1UHFfR2I3cTFXcUU2S19IYWJKX0ZCbEhUcTlEakcyQV80c3JOWjg0SzRzWW5zZFFYWF9lOEtmblduTU45REZ0YmNYQWZNeWFpQmZrcg?oc=5",
+      "pub_date": 1764946890.0,
+      "article_url": "https://www.pcgamer.com/software/ai/amds-lisa-su-doesnt-believe-theres-an-ai-bubble-emphatically-from-my-perspective-no/",
+      "image": "https://cdn.mos.cms.futurecdn.net/2VWfhnryDJ5hgBhNzewrNC-1920-80.jpg",
+      "description": "Is there an AI bubble and is it bound to burst?"
+    },
+    {
+      "headline": "How Intuit's Chief AI Officer supercharged the company's emerging technologies teams\u2014and why not every company should follow his lead",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcmRzVFB0ZXdmMTFYWEhYLWUxbFBUeU1HYmdab3JPTEpxTDZZRWVQUk5Bc09TcExxTlhneml5X2NQXzhFWS1JeU9zNjJhZ2hBUmFMS2NDZDVmNkRCdUhIczI0Q1NiLUJSdUhxTnEwZU8taURrWGdrTXlCMUJvci1URmlKS012Z3FKLXZCNUt3U2FNMWx2Ykd5TFhrMERjMlZiMDRfM0tScVlMZ2xSN05BYTlMeWlFUzUxVHRCcUo2Zm1jdWFkeGl6TzZ4X2RMZVNMV0VfMlg3VUpadTJuLUx1NWZJUFIyMl91alUzalJSNUUtZ2ltb2c?oc=5",
+      "pub_date": 1764946800.0,
+      "article_url": "https://fortune.com/2025/12/05/how-intuits-chief-ai-officer-supercharged-the-companys-emerging-technologies-teams-and-why-not-every-company-should-follow-his-lead/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/intuit-office-reception-jpeg-e1764894348709.jpg?resize=1200,600",
+      "description": "Intuit's Ashok Srivastava is making big bets on AI. But he says not all large organizations need to carve out a dedicated \u201clab\u201d to focus on AI development."
+    },
+    {
+      "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWZoMWhuTENDci03eVlMVXJSODdqOGVLUUFiM0xrdzVSVmtEMldZU3dEa1lUTkdVYXhTcnY0WnFYdzZoOEduaFRRTF9vNU9LNTg2YklsSHkxLXFiWHVvRHY1RWQzeFphdVo3LWdjZzVILVNockZORm4yQXpSQUROb3NTR3BVZw?oc=5",
+      "pub_date": 1764864698.0,
+      "article_url": "https://www.yahoo.com/news/articles/godfather-ai-says-bill-gates-161138384.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/BGhfcDgeXMGfX8DKJ9.0Lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/fortune_175/6cde5853e7904ab9139efaa8e6d3e839",
+      "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T15:38:17.444672+00:00"
+  "fetched_at": "2025-12-05T16:20:40.402437+00:00"
 }

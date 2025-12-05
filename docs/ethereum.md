@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T15:52:57.609693+00:00'
+updated: '2025-12-05T16:20:42.613273+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 15:52 UTC  
+**Last Updated:** December 05, 2025 at 16:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** +4.4%  
-**30d:** -5.9%  
-**90d:** -27.8%  
-**1y:** -22.0%  
+**24h:** -3.0%  
+**7d:** +2.4%  
+**30d:** -7.7%  
+**90d:** -29.1%  
+**1y:** -23.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $379.28B
+**Market Cap:** $369.36B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.5%
+-38.1%
 
 **All-Time Low:** $0.43
-+725244.6%
++706661.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -158,7 +158,7 @@ Decrypt • 3h ago
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -170,19 +170,25 @@ Yahoo Finance • 4h ago
 
 ---
 
+**[Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum](https://www.dlnews.com/articles/markets/bitmine-stock-jumps-15-percent-as-tom-lee-snaps-up-150-in-ethereum/)**
+
+Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December.
+
+dlnews.com • 1d ago
+
+---
+
+**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
+
+The Block • 1d ago
+
+---
+
 **[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 11h ago
-
----
-
-**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
-
-Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
-
-Decrypt • 1d ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -198,27 +204,21 @@ Nasdaq • 1d ago
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-cheddar.com • 18h ago
+cheddar.com • 19h ago
+
+---
+
+**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
+
+Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
+
+Decrypt • 1d ago
 
 ---
 
 **[Ethereum Price Could Herald a 170% Surge if History Repeats. Trader Declares ‘You Know What’s Coming’](https://www.tipranks.com/news/ethereum-price-could-herald-a-170-surge-if-history-repeats-trader-declares-you-know-whats-coming)**
 
-TipRanks • 3h ago
-
----
-
-**[Bitcoin Vs. Ethereum And The Flippening Lubin Predicts](https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/)**
-
-Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH’s utility loop, Bitcoin’s scarcity, and why money is entering a multi-form future.
-
-Forbes • 3d ago
-
----
-
-**[Bitcoin and Ethereum Price Fall Offers ‘Attractive' Entry, Says Tom Lee, Predicts BTC ATH Next Month](https://www.ccn.com/news/crypto/bitcoin-and-ethereum-price-fall-offers-attractive-entry-says-tom-lee-predicts-btc-ath-next-month/)**
-
-CCN.com • 3d ago
+TipRanks • 4h ago
 
 ---
 
@@ -282,7 +282,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 63K • 👍 2K • 💬 425 • ⏱️ 27:33 • 21h ago
+👁️ 63K • 👍 2K • 💬 425 • ⏱️ 27:33 • 22h ago
 
 ---
 

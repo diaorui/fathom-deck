@@ -8,7 +8,7 @@
       "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
       "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
       "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
-      "stars": 5116,
+      "stars": 5121,
       "stars_display": "5.1k",
       "forks": 391,
       "forks_display": "391",
@@ -30,7 +30,7 @@
       "description": "\ud83c\udf4cAwesome Prompts; Nano Banana\uff1bBanana Pro; Gemini\uff1bAI Studio\uff1bPrompt Quickly [\u5546\u5e97\u7248\u672c 1.3.0\uff0c\u6700\u65b0\u7248\u672c 1.4.0+\uff0c\u53ef\u9009\u62e9\u672c\u5730\u5b89\u88c5\u62a2\u5148\u4f53\u9a8c\u65b0\u529f\u80fd\uff0c\u5177\u4f53\u7248\u672c\u5dee\u5f02\u89c1\u4e0b\u65b9 release note]",
       "url": "https://github.com/glidea/banana-prompt-quicker",
       "preview_image": "https://opengraph.githubassets.com/375bae68ecaebf0a1a49c1a03fbc952041dce80eafd55379af04e509b5155928/glidea/banana-prompt-quicker",
-      "stars": 1478,
+      "stars": 1482,
       "stars_display": "1.5k",
       "forks": 124,
       "forks_display": "124",
@@ -106,13 +106,13 @@
       "description": "rep+ \u2014 Burp-style HTTP Repeater for Chrome DevTools with built\u2011in AI to explain requests and suggest attacks",
       "url": "https://github.com/bscript/rep",
       "preview_image": "https://opengraph.githubassets.com/cdb128562aa6346c68cf7c3f4f9ceb64b56d8305e8ee6aac519826b1d327e0f9/bscript/rep",
-      "stars": 808,
-      "stars_display": "808",
+      "stars": 811,
+      "stars_display": "811",
       "forks": 103,
       "forks_display": "103",
       "language": "JavaScript",
       "topics": [],
-      "updated_at": "2025-12-05T14:32:36Z"
+      "updated_at": "2025-12-05T15:46:35Z"
     },
     {
       "full_name": "AnandChowdhary/continuous-claude",
@@ -187,8 +187,8 @@
       "description": "GigaWorld-0: World Models as Data Engine to Empower Embodied AI",
       "url": "https://github.com/open-gigaai/giga-world-0",
       "preview_image": "https://opengraph.githubassets.com/cfad30b3ab15c218104356fc96d1fd7c8047d1b2a11e7384890c964aa96942fa/open-gigaai/giga-world-0",
-      "stars": 490,
-      "stars_display": "490",
+      "stars": 492,
+      "stars_display": "492",
       "forks": 40,
       "forks_display": "40",
       "language": "Python",
@@ -200,6 +200,6 @@
   "search_query": "ai created:>2025-11-05",
   "days": 30,
   "limit": 10,
-  "total_count": 219093,
-  "fetched_at": "2025-12-05T15:13:12.135956+00:00"
+  "total_count": 219571,
+  "fetched_at": "2025-12-05T16:20:17.726459+00:00"
 }

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T15:52:57.603760+00:00'
+updated: '2025-12-05T16:20:42.607879+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 15:52 UTC  
+**Last Updated:** December 05, 2025 at 16:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,889.00
+### $89,140.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -0.1%  
-**30d:** -10.5%  
-**90d:** -18.5%  
-**1y:** -9.0%  
+**24h:** -3.3%  
+**7d:** -1.6%  
+**30d:** -11.9%  
+**90d:** -19.8%  
+**1y:** -10.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1821.69B
+**Market Cap:** $1783.04B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.6%
+-29.3%
 
 **All-Time Low:** $67.81
-+134473.1%
++131380.6%
 
 ---
 
@@ -83,15 +83,9 @@ Rank #1
 
 ---
 
-**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
-
-12h ago
-
----
-
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -99,7 +93,13 @@ Rank #1
 
 Im only up 3000% now
 
-13h ago
+14h ago
+
+---
+
+**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
+
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -137,11 +137,9 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ---
 
-**[Broke .1 finally!](https://www.reddit.com/r/Bitcoin/comments/1pedy60/broke_1_finally/)**
+**[Cant stop, won't stop Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pelu4f/cant_stop_wont_stop_bitcoin/)**
 
-.2 next, just wanted to share with someone
-
-17h ago
+11h ago
 
 ---
 
@@ -149,11 +147,43 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ## Google News: "bitcoin"
 
+**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
+
+Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
 
 In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
 
 CNBC • 1d ago
+
+---
+
+**[The Man Who Got Eric Trump Into American Bitcoin Before 70% Rout](https://www.bloomberg.com/news/articles/2025-12-05/the-man-who-got-eric-trump-into-american-bitcoin-before-70-rout)**
+
+Eric Trump rang the Nasdaq bell in September to celebrate a more than $500 million windfall from American Bitcoin Corp.’s trading debut. Three months later, the shares have cratered 70%.
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Trump sons’ bitcoin venture sheds almost 40% of its value in crypto turmoil](https://www.ft.com/content/18e3bfc1-c2aa-49a0-8c6d-a37255a23017)**
+
+Company’s shares plummet as investors cash out at end of lock-up period
+
+Financial Times • 2d ago
+
+---
+
+**[Bitcoin sell-off halts Trump family's crypto windfall](https://abcnews.go.com/US/bitcoin-sell-off-halts-trump-familys-crypto-windfall/story?id=128035773)**
+
+Due to a recent downturn in bitcoin, the Trump family has had roughly a billion dollars of their net worth erased in just a matter of weeks, according to estimates.
+
+ABC News • 2d ago
 
 ---
 
@@ -179,49 +209,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Trump sons’ bitcoin venture sheds almost 40% of its value in crypto turmoil](https://www.ft.com/content/18e3bfc1-c2aa-49a0-8c6d-a37255a23017)**
-
-Company’s shares plummet as investors cash out at end of lock-up period
-
-Financial Times • 2d ago
-
----
-
-**[Trump's Crypto Universe Just Crashed--and American Bitcoin Took the First Hit](https://finance.yahoo.com/news/trumps-crypto-universe-just-crashed-143528119.html)**
-
-A lightning-fast plunge in American Bitcoin ignites fresh worries about the unraveling of Trump-linked digital assets.
-
-Yahoo Finance • 2d ago
-
----
-
-**[The Man Who Got Eric Trump Into American Bitcoin Before 70% Rout](https://www.bloomberg.com/news/articles/2025-12-05/the-man-who-got-eric-trump-into-american-bitcoin-before-70-rout)**
-
-Eric Trump rang the Nasdaq bell in September to celebrate a more than $500 million windfall from American Bitcoin Corp.’s trading debut. Three months later, the shares have cratered 70%.
-
-Bloomberg.com • 48m ago
-
----
-
-**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
-
-Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqe3TJntUgeI9CwMOn3oRk2Yl65eqgXEENtBc2uSDpGzJsV-AeNR0MOi&gaa_ts=6932ffd8&gaa_sig=wc4O_SP2Bghb2YoltbWtseCKRoCnii4yU6DRoL6sSnsBi0svlbT1nz8ULCY4rxX17hE1kr-8Tn6Xxm9V_75hvA%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqfemkXYQHtC-Ib2q17IDHI-RzJTrPzuqiXfcTp4E0lM1-I45othLSyV&gaa_ts=693309c6&gaa_sig=i0GlxL4ObgPZnEV9aHmqJng76gm6GLleT3Q0iiHgf14jN8D7XzKLlOU8EVUd4YDh2I9ixGcNG04ZhABx6b2b0A%3D%3D)**
 
 MarketWatch • 19h ago
 
 ---
 
-**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
+**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://finance.yahoo.com/news/blackrock-bitcoin-etf-sheds-2-081140067.html)**
 
-BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
+Investors yanked more than $2.7 billion from the exchange-traded fund over the five weeks to Nov. 28, according to data compiled by Bloomberg.  The IBIT fund oversees more than $71 billion in assets and has served as the flagship vehicle for traditional investors seeking exposure to Bitcoin.  The sustained period of outflows aligns with Bitcoin’s slide into a bear market following a severe liquidation event in early October, which kicked off a more than $1 trillion wipeout in crypto market value.
 
-Bloomberg.com • 7h ago
+Yahoo Finance • 32m ago
 
 ---
 
@@ -285,7 +283,7 @@ Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux
 
 Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller.
 
-⬆️ 2 • 💬 1 • 1d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
+⬆️ 2 • 💬 1 • 2d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
 
 ---
 
@@ -331,7 +329,7 @@ Trump, Bitcoin, stocks, and crypto updates ! BITUNIX TRADE THE TOP COINS (availa
 
 📺 Lark Davis
 
-👁️ 10K • 👍 684 • 💬 119 • ⏱️ 52:39 • 3h ago
+👁️ 10K • 👍 684 • 💬 119 • ⏱️ 52:39 • 4h ago
 
 ---
 
@@ -371,7 +369,7 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 826 • 💬 2 • ⏱️ 28:20 • 17h ago
+👁️ 21K • 👍 826 • 💬 2 • ⏱️ 28:20 • 18h ago
 
 ---
 
@@ -381,7 +379,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 301 • ⏱️ 23:27 • 14h ago
+👁️ 37K • 👍 3K • 💬 301 • ⏱️ 23:27 • 15h ago
 
 ---
 
@@ -391,7 +389,7 @@ Claim 50% deposit bonus + $100 BONUS!
 
 📺 Crypto Goos
 
-👁️ 699 • 👍 41 • 💬 117 • ⏱️ 12:23 • 6h ago
+👁️ 699 • 👍 41 • 💬 117 • ⏱️ 12:23 • 7h ago
 
 ---
 

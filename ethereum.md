@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T22:23:47.247328+00:00'
+updated: '2025-12-05T22:41:25.265416+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 22:23 UTC  
+**Last Updated:** December 05, 2025 at 22:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** +1.0%  
-**30d:** -9.0%  
-**90d:** -30.1%  
-**1y:** -24.4%  
+**24h:** -3.2%  
+**7d:** +1.4%  
+**30d:** -8.6%  
+**90d:** -29.8%  
+**1y:** -24.1%  
 
 ---
 
@@ -104,7 +104,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 10h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 11h ago
 
 ---
 
@@ -112,7 +112,7 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 21h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 10h ago
 
 **[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
 
-TipRanks • 8h ago
+TipRanks • 9h ago
 
 ---
 
@@ -216,11 +216,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin Vs. Ethereum And The Flippening Lubin Predicts](https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/)**
+**[Jane Street Leads $105M Funding for Antithesis, a Testing Tool Used by Ethereum Network](https://www.coindesk.com/business/2025/12/03/jane-street-leads-usd105m-funding-for-antithesis-a-testing-tool-used-by-ethereum-network)**
 
-Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH’s utility loop, Bitcoin’s scarcity, and why money is entering a multi-form future.
+Antithesis said its Series A will scale deterministic simulation testing, replaying complex failures exactly for crypto and other always-on systems.
 
-Forbes • 3d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 69K • 👍 4K • 💬 541 • ⏱️ 11:16 • 20h ago
+👁️ 69K • 👍 4K • 💬 541 • ⏱️ 11:16 • 21h ago
 
 ---
 
@@ -244,7 +244,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 900 • 👍 33 • 💬 264 • ⏱️ 5:24 • 8h ago
+👁️ 900 • 👍 33 • 💬 264 • ⏱️ 5:24 • 9h ago
 
 ---
 
@@ -294,7 +294,7 @@ Ethereum is finally showing signs of a major reversal, and the charts suggest th
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 414 • 💬 98 • ⏱️ 59:34 • 5h ago
+👁️ 6K • 👍 414 • 💬 98 • ⏱️ 59:34 • 6h ago
 
 ---
 

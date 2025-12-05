@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T22:23:47.250577+00:00'
+updated: '2025-12-05T22:41:25.268664+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 22:23 UTC  
+**Last Updated:** December 05, 2025 at 22:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper 
 
 For a long time, many robotics teams believed that real robot interaction data was the only reliable foundation for training generalist manipulation models. But real-world data collection is extremely expensive, slow, and fundamentally limited by human labor. Recent results suggest the landscape is changing. Three industry signals stand out: 1. InternData-A1: Synthetic data beats the strongest real-world dataset Shanghai AI Lab’s new paper InternData-A1 (Nov 2025, arXiv) is the first to show that pure simulation data can match or outperform the best real-robot dataset used to train Pi0. The dataset is massive: 630k+ trajectories 7,434 hours 401M frames 4 robot embodiments, 18 skill types, 70 tasks $0.003 per trajectory generation cost One 8×RTX4090 workstation → 200+ hours of robot data per day Results: On RoboTwin2.0 (49 bimanual tasks): +5–6% success over Pi0 On 9 real-world tasks: +6.2% success Sim-to-Real: 1,600 synthetic samples ≈ 200 real samples (≈8:1 efficiency) The long-held “simulation quality discount” is shrinking fast. 2. GEN-0 exposes the economic impossibility of scaling real-world teleoperation Cross-validated numbers show: Human teleoperation cost per trajectory: $2–$10 Hardware systems: $30k–$40k 1 billion trajectories → $2–10 billion GEN-0’s own scaling law predicts that laundry alone would require 1B interactions for strong performance. https://preview.redd.it/qd8pkcdpfd5g1.png?width=556&format=png&auto=webp&s=1df2607476d3e63f5ca32edae1bf7319d97f1176 Even with Tesla-level resources, this is not feasible. That’s why GEN-0 relies on distributed UMI collection across thousands of sites instead of traditional teleoperation. 3. Tesla’s Optimus shifts dramatically: from mocap → human video imitation Timeline: 2022–2024: Tesla used full-body mocap suits + VR teleop; operators wore ~30 lb rigs, walked 7 hours/day, paid up to $48/hr. May 21, 2025: Tesla confirms:“Optimus is now learning new tasks directly from human videos.” June 2025: Tesla transitions to a vision-only approach, dropping mocap entirely. Their demo showed Optimus performing tasks like trash disposal, vacuuming, cabinet/microwave use, stirring, tearing paper towels, sorting industrial parts — all claimed to be controlled by a single end-to-end network. 4. So is real robot data obsolete? Not exactly. These developments indicate a shift, not a disappearance: Synthetic data (InternData-A1) is now strong enough to pre-train generalist policies Distributed real data (GEN-0) remains critical for grounding and calibration Pure video imitation (Tesla) offers unmatched scalability but still needs validation for fine manipulation All major approaches still rely on a small amount of real data for fine-tuning or evaluation Open Questions: Where do you think the field is heading? A synthetic-first paradigm? Video-only learning at scale? Hybrid pipelines mixing sim, video, and small real datasets? Or something entirely new? Curious to hear perspectives from researchers, roboticists, and anyone training embodied agents.
 
-10h ago
+11h ago
 
 ---
 
@@ -74,13 +74,13 @@ ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now avail
 
 Arthur C. Clarke said "Any sufficiently advanced technology is indistinguishable from magic". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 5h ago
 
 ---
 
 **[PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.](https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Arthur C. Clarke said "Any sufficiently advanced technology is indistinguishable
 
 Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I’m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I’m posting it here in case anyone finds it interesting or useful.
 
-15h ago
+16h ago
 
 ---
 
@@ -124,17 +124,17 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
-
-Investor's Business Daily • 1d ago
-
----
-
 **[MIT researchers “speak objects into existence” using AI and robotics](https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205)**
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
 MIT News • 7h ago
+
+---
+
+**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -154,14 +154,6 @@ Bessemer Venture Partners • 3d ago
 
 ---
 
-**[Massimo Group (NASDAQ: MAMO) forms AI robotics division to enter global automation and smart-systems markets](https://www.stocktitan.net/news/MAMO/massimo-group-announces-formation-of-ai-robotics-division-expanding-p08w84pho0qe.html)**
-
-Massimo Group forms Massimo AI Technology to develop industrial automation and logistics robotics, aiming to diversify revenue and expand beyond powersports and EVs.
-
-Stock Titan • 1d ago
-
----
-
 **[Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO](https://www.fiercebiotech.com/medtech/olympus-backed-swan-endosurgical-names-stryker-vet-erik-todd-ceo)**
 
 Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
@@ -170,17 +162,23 @@ Fierce Biotech • 2d ago
 
 ---
 
-**[Robotics Challenges Bedevil AI Evolution Of Housecleaning Robots](https://www.forbes.com/sites/johnwerner/2025/12/05/robotics-challenges-bedevil-ai-evolution-of-housecleaning-robots/)**
-
-Robots struggle with dishes because real-world manipulation, safety, cost, and data lag behind human-evolved dexterity.
-
-Forbes • 6h ago
-
----
-
 **[AI advances robot navigation on the International Space Station](https://news.stanford.edu/stories/2025/12/ai-robot-international-space-station-autonomous-missions)**
 
 Stanford Report • 2d ago
+
+---
+
+**[Bradford researchers to use robotic dogs and AI in wildfire trial](https://www.bbc.com/news/articles/c3w7xqdp04qo)**
+
+Bradford researchers will take part in a pilot scheme in Greece next year to help spot wildfires.
+
+BBC • 1d ago
+
+---
+
+**[Classical Indian dance inspires new ways to teach robots how to use their hands](https://techxplore.com/news/2025-12-classical-indian-ways-robots.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -264,7 +262,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 9K • 👍 173 • 💬 107 • ⏱️ 4:05 • 23h ago
+👁️ 9K • 👍 173 • 💬 107 • ⏱️ 4:05 • 1d ago
 
 ---
 

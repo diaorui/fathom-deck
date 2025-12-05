@@ -25,14 +25,24 @@
       "description": null
     },
     {
-      "headline": "AI deepfakes of real doctors spreading health misinformation on social media",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYnh4VG1GYVNqb0NxNHpDX2ZNSEVjMDR0Q21Ga1NCNmRTSW5PTldNOFh6SUhIWDFKRHpsem9sQnZiUFNIVy1NV29QdVVmWmwxN3dObUw0dEtfVnpUTUlHb09RWEVfaFl2MEIzNzJzT2VMZU5EdUNsT3hwMnQtUC1tLTMtUU1RdHpWZzltZFFIRi03RGJHanpSV0RjM19KYmJ1MV83VUgxZTFtYWw5VHpkNHFCMGQyQUg0VGFHVS1vbWxrQQ?oc=5",
-      "pub_date": 1764960420.0,
-      "article_url": "https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media",
-      "image": "https://i.guim.co.uk/img/media/53cc24d57b561a7e7ce23d333cb5e045b3fa3970/3391_0_4059_3247/master/4059.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=88f69c6c03c9f7cbb051b81d2cae5e42",
-      "description": "Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects"
+      "headline": "AI wearable company Limitless says it has been acquired by Meta",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtMWNFZGFabzVEYV9jNlhqOUpGX19JM2pjejZ3ODM2NjhaM0VTblRSNnZoZHdaR2ktVVF5VTY1S3pyQ3JiSFVFbmlrMUNlUXA2QkdhYUhlSWVOVXZVTmtQZWNhdlZ5bTd2OWV4LTljM1jSAXZBVV95cUxPa2pQb21PbjVEc1FvVHRzZzUxcFpScXlBVlZ6Zm1IZWQ4dkFHaWZaZXFJNWFtQ0hMQTdWZW85R1pMLWw4SU55ZThnaXhKZXRadklVNFVjdlRUanZCeGQ5b21iZm1UbURvUkxIblFQa3pRcTJ6SkZn?oc=5",
+      "pub_date": 1764963805.0,
+      "article_url": "https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108219443-17618392362025-09-18t012656z_736652099_rc20uga8mamw_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1761839305&w=1920&h=1080",
+      "description": "Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant."
+    },
+    {
+      "headline": "Meta acquires AI-wearables startup Limitless",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFJPbFdCU3Bmck9fY2daNnBQRVA2UlZhLTdxdU95X3RTeGVFN3NXMmpXSXRBU2MtS2g0WDdGQjJCUm1HRDJGc05YdG1yd0ozYmNKRVFjOTV5czdtQUo2dkp4WFZmTEFsRHFrYWhRdVFuV0t6Wkw5NzlsYnhNbGhlMFRUZy1aZzhkQXctT2xfdXZIVFE?oc=5",
+      "pub_date": 1764961699.0,
+      "article_url": "https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Exclusive: Meta strikes multiple AI deals with news publishers",
@@ -45,34 +55,24 @@
       "description": null
     },
     {
-      "headline": "Meta strikes multiple AI deals with news publishers",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN193Y1BGUnRSS0dzX3ZDX3NqTzBPTEVoRGJmeUdWRXE3bFlQRkVDcFB1ZVFYQlN5TXR4SUQ5X3hlWTAtUGtNY0hXVWc4aXVGTnlwRU9pNE5lOWo0cTdRRE5WMXVhWmgzMFFKNm1qZl9BTlYyNjJqM1JwVERXMWM3UmtqcktVZjF6QWxuX3NuamZpU2kzdFIyOHB3R1lxNGVsanA1eGFtRGlac3EwUFRz?oc=5",
-      "pub_date": 1764943761.0,
-      "article_url": "https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/",
-      "image": null,
-      "description": null
+      "headline": "How Much Would You Pay for a Single AI Killer App?",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWNVQjY0QlRhcEstOVdOTkw0WF8zU09uaWhabTBVSkpQN0FyMzZXa0VsdVdhR2dzY2M1eVk0Ri1GRkdkdVpvbWRrLUtjUEJyYld3a0tQU2hyVW1lUVlqaV9ZUG9zeS10YnZTWGlBMGxELU1nQ09TV2xZSnJkSk84c0RDZlNwVTBVQ2tyc0lydmQ?oc=5",
+      "pub_date": 1764963540.0,
+      "article_url": "https://www.businessinsider.com/how-much-would-you-pay-for-single-ai-killer-app-2025-12",
+      "image": "https://i.insider.com/69332f3071107c9f345771fd?width=1200&format=jpeg",
+      "description": "Sometimes a new technology just needs a single game-changing tool for users to pay up."
     },
     {
-      "headline": "Meta reaches AI deals with CNN, Fox News, other media outlets",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSVlHOGdMX2hFaWJlNlJ0ZlRueGtzVHhrQl9KY0VFQUlPREFHT1pHUTk0TThTN0FRYmY1NHVoNnAzSW9abFZqQVN3aHZFN05pVEw3a2VTczlhaWxBSm1DUkpVdXdSaHRPLUVBWnc4NC1adDdWaVVYV2NFTFh4T1o0b1M5eGVPN0p4eG5LbEFBRVVYaFo5M1VkYnI4VlNtYmFE?oc=5",
-      "pub_date": 1764958380.0,
-      "article_url": "https://nypost.com/2025/12/05/business/meta-reaches-ai-deals-with-cnn-fox-news-other-media-outlets/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116794318.jpg?quality=75&strip=all&w=1200",
-      "description": "Meta has reached deals to pay Fox News, CNN and several other news publishers in exchange for using their articles in its AI chatbot, the company said Friday."
-    },
-    {
-      "headline": "Health AI hits point-solution burnout as demand for real value grows",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VXzhSOV84MDdKc3kzSUpyZHg1UGJ5ZEs2YWM0anpJTU9MWDdkU3J5NnhFd0tpX1JLdjBVMkZaSU9wOXQ3NlF4UTgzME52bWhUSVRMQ1hXbWF3Mms3dnZHMkE2MnFYMThvNzNnYlFSb2xnQVE?oc=5",
-      "pub_date": 1764963520.0,
-      "article_url": "https://www.axios.com/2025/12/05/health-ai-point-solution-fatigue",
-      "image": null,
-      "description": null
+      "headline": "How Philips\u2019 AI Imaging Push and 2026 Targets Will Impact Koninklijke Philips (ENXTAM:PHIA) Investors",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oRDdKQ3ptcThkQlZ5SUtxNU93S3BvZTZUTl9TM3FCOWtpcUxTOXZVQkpwd2ZvbkI4ejJsTmlSRFRIZkVVbjVuWFBIa1ZBSjRpb1VOWFVJRVBhWVV2bC1vVVlodHIzMlZPZVVHcWJpZkR6MHRNakNzeGpzQTVxdjA?oc=5",
+      "pub_date": 1764965345.0,
+      "article_url": "https://finance.yahoo.com/news/philips-ai-imaging-push-2026-200905397.html",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/983f2bdfe32b19227b1d118c45bf4f09",
+      "description": "Royal Philips recently expanded commercial availability of its LumiGuide 3D Device Guidance across Europe and the US and unveiled its BlueSeal Horizon helium-free 3.0T MRI platform with integrated clinical AI, while also reiterating its 2026 earnings guidance and expectation of sequential comparable sales growth. Together, these AI-driven, low- and no-radiation imaging innovations signal Philips\u2019 push to pair safer, more efficient procedures with a more predictable medium-term performance..."
     },
     {
       "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T19:53:38.846570+00:00"
+  "fetched_at": "2025-12-05T20:40:52.343077+00:00"
 }

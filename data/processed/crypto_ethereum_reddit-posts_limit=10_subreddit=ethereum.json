@@ -13,17 +13,6 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "Trump Family\u2019s Crypto Empire Collapses: Nearly $1 Billion Wiped Out as World Liberty and Memecoins Crash",
-      "author": "shadrack_CK",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pe06ir/trump_familys_crypto_empire_collapses_nearly_1/",
-      "published": 1764855388.0,
-      "thumbnail": "https://external-preview.redd.it/_d8gHOZZJgORyIb0nJddwObrhDilPHbkHJO1sj3AD28.jpeg?width=640&crop=smart&auto=webp&s=3b0f309c71d656a6e8832924d0a64d458dc101f1",
-      "external_url": "https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/",
-      "site_name": "\ud835\udc13\ud835\udc07\ud835\udc04 \ud835\udc03\ud835\udc00\ud835\udc08\ud835\udc0b\ud835\udc18 \ud835\udc06\ud835\udc0b\ud835\udc08\ud835\udc13\ud835\udc02\ud835\udc07",
-      "favicon": "https://dailyglitch.com/wp-content/uploads/2025/08/site-icon.png",
-      "description": "Trump crypto empire falls faster than bitcoin"
-    },
-    {
       "title": "Here's the full tech stack including ethereum rollups deployment platform we use to run our blockchain game with 10k players",
       "author": "eren_yeager04",
       "url": "https://www.reddit.com/r/ethereum/comments/1peu4wz/heres_the_full_tech_stack_including_ethereum/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made."
+    },
+    {
+      "title": "Trump Family\u2019s Crypto Empire Collapses: Nearly $1 Billion Wiped Out as World Liberty and Memecoins Crash",
+      "author": "shadrack_CK",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pe06ir/trump_familys_crypto_empire_collapses_nearly_1/",
+      "published": 1764855388.0,
+      "thumbnail": "https://external-preview.redd.it/_d8gHOZZJgORyIb0nJddwObrhDilPHbkHJO1sj3AD28.jpeg?width=640&crop=smart&auto=webp&s=3b0f309c71d656a6e8832924d0a64d458dc101f1",
+      "external_url": "https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/",
+      "site_name": "\ud835\udc13\ud835\udc07\ud835\udc04 \ud835\udc03\ud835\udc00\ud835\udc08\ud835\udc0b\ud835\udc18 \ud835\udc06\ud835\udc0b\ud835\udc08\ud835\udc13\ud835\udc02\ud835\udc07",
+      "favicon": "https://dailyglitch.com/wp-content/uploads/2025/08/site-icon.png",
+      "description": "Trump crypto empire falls faster than bitcoin"
     },
     {
       "title": "Part Six of \"Can I Pay With This?\": Trustless, My Ass",
@@ -112,5 +112,5 @@
       "description": "a wonderful fusaka day to you all - original post if you want to help boost on twitter!"
     }
   ],
-  "fetched_at": "2025-12-05T19:53:14.307738+00:00"
+  "fetched_at": "2025-12-05T20:40:33.161111+00:00"
 }

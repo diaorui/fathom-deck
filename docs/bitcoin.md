@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T20:19:00.292981+00:00'
+updated: '2025-12-05T20:40:56.401082+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 20:19 UTC  
+**Last Updated:** December 05, 2025 at 20:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,639.46
+### $89,428.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** -1.6%  
+**24h:** -2.8%  
+**7d:** -1.5%  
 **30d:** -11.8%  
-**90d:** -19.8%  
+**90d:** -19.7%  
 **1y:** -10.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1786.59B
+**Market Cap:** $1785.38B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-29.1%
 
 **All-Time Low:** $67.81
-+131929.2%
++131781.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -91,19 +91,27 @@ Rank #1
 
 **[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
 
+2h ago
+
+---
+
+**[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
+
 1h ago
 
 ---
 
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-5h ago
+6h ago
 
 ---
 
-**[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
+**[Weak hands and overleveraged tourists panic-sell every dip. Try HODLing](https://www.reddit.com/r/Bitcoin/comments/1pf5aef/weak_hands_and_overleveraged_tourists_panicsell/)**
 
-42m ago
+Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
+
+31m ago
 
 ---
 
@@ -123,12 +131,6 @@ Im only up 3000% now
 
 ---
 
-**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
-
-16h ago
-
----
-
 **[Did you know you can generate a Bitcoin private key using a coin?](https://www.reddit.com/r/Bitcoin/comments/1pf234m/did_you_know_you_can_generate_a_bitcoin_private/)**
 
 Most people let their wallet software generate their private key, which is totally fine but Bitcoin doesn’t require a computer to create one. A Bitcoin private key is just a 256-bit number… And a fair coin flip produces 1 bit of entropy. So in theory (and in practice), you can generate a completely valid, secure Bitcoin private key by doing: Heads = 1 Tails = 0 The math is simple. 256 coin flips is 2^256 potential outcomes. Once you have your 256-bit binary sequence, you can convert it offline into: hex format WIF private key or even a BIP39 seed phrase All without touching the internet. You could also do this with dice, a dice roll is roughly 2.585 bits of entropy. Therefore 99-100 dice rolls will give you enough entropy for a 256 bit private key. This works because Bitcoin’s security comes from math. I mean how could you not love Bitcoin!
@@ -137,11 +139,9 @@ Most people let their wallet software generate their private key, which is total
 
 ---
 
-**[from "the big print" by Lawrence Lepard. I think we are not bullish enough](https://www.reddit.com/r/Bitcoin/comments/1pf1m8e/from_the_big_print_by_lawrence_lepard_i_think_we/)**
+**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-... not in the slightest
-
-2h ago
+16h ago
 
 ---
 
@@ -157,39 +157,19 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now](https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now)**
+**[Why The Bitcoin Bear Market Is Almost Finished](https://bitcoinmagazine.com/markets/bitcoin-bear-market-almost-finished)**
 
-Fast Company • 1h ago
+Bitcoin bear market ending sooner than USD charts suggest – Gold ratio already hit 350DMA breakdown and key Fib support; accumulation zone here.
 
----
-
-**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
-
-Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
-
-Yahoo Finance • 5h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
-**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://finance.yahoo.com/news/blackrock-bitcoin-etf-sheds-2-081140067.html)**
+**[Crypto’s rocky year](https://www.ft.com/content/728a469e-34f7-433d-90a5-631b8c10aa51)**
 
-Investors yanked more than $2.7 billion from the exchange-traded fund over the five weeks to Nov. 28, according to data compiled by Bloomberg.  The IBIT fund oversees more than $71 billion in assets and has served as the flagship vehicle for traditional investors seeking exposure to Bitcoin.  The sustained period of outflows aligns with Bitcoin’s slide into a bear market following a severe liquidation event in early October, which kicked off a more than $1 trillion wipeout in crypto market value.
+The industry was hugely optimistic when Donald Trump returned to the White House. But bitcoin has fallen by a quarter in two months
 
-Yahoo Finance • 4h ago
-
----
-
-**[Why Did Bitcoin Drop Below $90,000 Again? A Breakdown of the Latest Sell-Off](https://finance.yahoo.com/news/why-did-bitcoin-drop-below-191752606.html)**
-
-Bitcoin falls below $90,000 again as liquidations, weak ETF flows, macro pressure and PCE inflation data shape market sentiment.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdiFIFVTJ4TbQqZ806ykuCdUFHU48wiLTJ3YTC2ocboS7A8AokWeQvr&gaa_ts=69333bac&gaa_sig=9t8SdkWQbq-hDAyrDhmOyOLOuePghso15G3jSZSqN5N_vvQ9wwcWlna9D0Op433Y3ZwWA_LkKcbPBuYzYlOImw%3D%3D)**
-
-The Wall Street Journal • 2d ago
+Financial Times • 1h ago
 
 ---
 
@@ -218,6 +198,28 @@ Yahoo Finance • 2d ago
 **[Bitcoin’s Predicted Sky-High Prices Have Not Panned Out](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
 
 The New York Times • 2d ago
+
+---
+
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeSND8S64a8nNO3Gc6CgXbobDAN2RRA8lllc2M7mGoZ0rl7pb6bBBTS&gaa_ts=693346c3&gaa_sig=ZBMvt4SGNpNR9RYIBcU8EtXwo4Ptnw6lRKjn6ptPaeR-H7DdqwwFZDs3WixMqQpazeOzMDiG-pBaVqP6Q5Ip7A%3D%3D)**
+
+MarketWatch • 23h ago
+
+---
+
+**[Why bitcoin could shoot to $170,000 in the next year, according to JPMorgan](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+
+JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
+
+Business Insider • 1d ago
+
+---
+
+**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
+
+JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
+
+Yahoo Finance • 9h ago
 
 ---
 
@@ -307,7 +309,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 317 • ⏱️ 10:13 • 5h ago
+👁️ 22K • 👍 1K • 💬 317 • ⏱️ 10:13 • 6h ago
 
 ---
 
@@ -317,7 +319,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 354 • 💬 378 • ⏱️ 15:38 • 14h ago
+👁️ 12K • 👍 354 • 💬 378 • ⏱️ 15:38 • 15h ago
 
 ---
 
@@ -327,7 +329,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 315 • ⏱️ 15:38 • 8h ago
+👁️ 59K • 👍 4K • 💬 315 • ⏱️ 15:38 • 9h ago
 
 ---
 

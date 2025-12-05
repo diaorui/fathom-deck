@@ -35,6 +35,17 @@
       "description": null
     },
     {
+      "title": "They are not ready.",
+      "author": "MrMBTC",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/",
+      "published": 1764963392.0,
+      "thumbnail": "https://preview.redd.it/iy0i9lobuf5g1.jpeg?width=320&crop=smart&auto=webp&s=6d4727d16ff3990ec7610161c37fed6015e47207",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "POV: You\u2019re the only one who actually got a deal on Black Friday.",
       "author": "North_Appointment410",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/",
@@ -46,15 +57,15 @@
       "description": null
     },
     {
-      "title": "They are not ready.",
-      "author": "MrMBTC",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/",
-      "published": 1764963392.0,
-      "thumbnail": "https://preview.redd.it/iy0i9lobuf5g1.jpeg?width=320&crop=smart&auto=webp&s=6d4727d16ff3990ec7610161c37fed6015e47207",
+      "title": "Weak hands and overleveraged tourists panic-sell every dip. Try HODLing",
+      "author": "Green_Candler",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pf5aef/weak_hands_and_overleveraged_tourists_panicsell/",
+      "published": 1764965368.0,
+      "thumbnail": "https://preview.redd.it/jllbldk5yf5g1.jpeg?width=640&crop=smart&auto=webp&s=af825c3f3704bbfc59c4db82ba5600652068b85b",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic."
     },
     {
       "title": "I just get 100$ of btc",
@@ -79,17 +90,6 @@
       "description": "Im only up 3000% now"
     },
     {
-      "title": "Bitcoin can fix this?",
-      "author": "Leading_Confection32",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/",
-      "published": 1764906095.0,
-      "thumbnail": "https://preview.redd.it/1xkyvjby3b5g1.jpeg?width=640&crop=smart&auto=webp&s=f969cef7a6910f3f7ecd5986568cfdd495a7e304",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Did you know you can generate a Bitcoin private key using a coin?",
       "author": "MegaSackk",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pf234m/did_you_know_you_can_generate_a_bitcoin_private/",
@@ -101,16 +101,16 @@
       "description": "Most people let their wallet software generate their private key, which is totally fine but Bitcoin doesn\u2019t require a computer to create one. A Bitcoin private key is just a 256-bit number\u2026 And a fair coin flip produces 1 bit of entropy. So in theory (and in practice), you can generate a completely valid, secure Bitcoin private key by doing: Heads = 1 Tails = 0 The math is simple. 256 coin flips is 2^256 potential outcomes. Once you have your 256-bit binary sequence, you can convert it offline into: hex format WIF private key or even a BIP39 seed phrase All without touching the internet. You could also do this with dice, a dice roll is roughly 2.585 bits of entropy. Therefore 99-100 dice rolls will give you enough entropy for a 256 bit private key. This works because Bitcoin\u2019s security comes from math. I mean how could you not love Bitcoin!"
     },
     {
-      "title": "from \"the big print\" by Lawrence Lepard. I think we are not bullish enough",
-      "author": "DryMyBottom",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pf1m8e/from_the_big_print_by_lawrence_lepard_i_think_we/",
-      "published": 1764956841.0,
-      "thumbnail": "https://preview.redd.it/rhkrdubuaf5g1.jpeg?width=640&crop=smart&auto=webp&s=fe5d7855b0d3399613f0a2e745e33bb68177fa5d",
+      "title": "Bitcoin can fix this?",
+      "author": "Leading_Confection32",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/",
+      "published": 1764906095.0,
+      "thumbnail": "https://preview.redd.it/1xkyvjby3b5g1.jpeg?width=640&crop=smart&auto=webp&s=f969cef7a6910f3f7ecd5986568cfdd495a7e304",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "... not in the slightest"
+      "description": null
     }
   ],
-  "fetched_at": "2025-12-05T19:53:12.900876+00:00"
+  "fetched_at": "2025-12-05T20:40:31.893972+00:00"
 }

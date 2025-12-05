@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-12-05T20:40:55.287279+00:00",
+  "data": "Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high-fidelity text rendering in diverse layouts and fonts. It excels at generating legible text in complex prompts like posters and logos, offering near-frontier text rendering capabilities on accessible hardware.",
+  "model_id": "AIDC-AI/Ovis-Image-7B"
+}

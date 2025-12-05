@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T08:53:19.472425+00:00'
+updated: '2025-12-05T09:18:55.653023+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- social
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 08:53 UTC  
+**Last Updated:** December 05, 2025 at 09:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -67,7 +67,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRED’s Big Interview event if AI is a bubble, company said “Emphatically, from my perspective, no.”
 
-🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 13h ago
+🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 14h ago
 
 ---
 
@@ -75,7 +75,7 @@ Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRE
 
 Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls “faster-growing segments."
 
-🔗 [PC Guide](https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/) • 20h ago
+🔗 [PC Guide](https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/) • 21h ago
 
 ---
 
@@ -95,19 +95,19 @@ The U.S. Department of Health and Human Services has outlined a new strategy to 
 
 ---
 
+**[Embedding Drift silently broke our RAG](https://www.reddit.com/r/artificial/comments/1pefrm6/embedding_drift_silently_broke_our_rag/)**
+
+Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn’t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer “mysterious RAG failures” Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?
+
+9h ago
+
+---
+
 **[🤖 L'ex-directeur scientifique de Meta s'apprête à lancer sa start-up d'intelligence artificielle](https://www.reddit.com/r/artificial/comments/1pepc16/lexdirecteur_scientifique_de_meta_sapprête_à/)**
 
 👋 Après douze années passées chez Meta, Yann LeCun a fait le grand saut. Le mois dernier, il a annoncé qu'il quittait le géant des réseaux sociaux pour lancer sa propre start-up en vue de créer une nouvelle génération de systèmes d'intelligence artificielle. Dans cette aventure, encore relativement nébuleuse, « Meta est un partenaire, ce n'est pas un investisseur », a déclaré Yann LeCun, ce jeudi, lors de l'événement AI Pulse organisé par Scaleway à Paris. 🧠 Le chercheur français fait figure de parrain de l'IA moderne et a été récompensé du prix Turing en 2018. Il mobilise actuellement des fonds pour lancer sa start-up autour du concept d'« intelligence avancée » basée sur le monde physique et les « world models », en opposition aux grands modèles génératifs sur lesquels parient actuellement les géants américains de la tech. 💡 Les explications de Joséphine Boone
 
-🔗 [linkedin.com](https://www.linkedin.com/posts/les-echos_lex-directeur-scientifique-de-meta-sappr%25C3%25AAte-activity-7402587567272910848-h34L?utm_source%3Dshare%26utm_medium%3Dmember_ios%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4) • 58m ago
-
----
-
-**[The Experiment That Made AIs Admit Awareness | Am I? | EP 15](https://www.reddit.com/r/artificial/comments/1pep81u/the_experiment_that_made_ais_admit_awareness_am_i/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/z_gHuD_IxZs?si=JB_V38KslkGIR8OB) • 1h ago
+🔗 [linkedin.com](https://www.linkedin.com/posts/les-echos_lex-directeur-scientifique-de-meta-sappr%25C3%25AAte-activity-7402587567272910848-h34L?utm_source%3Dshare%26utm_medium%3Dmember_ios%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4) • 1h ago
 
 ---
 
@@ -119,33 +119,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
-Fortune • 16h ago
-
----
-
-**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
-
-What 1,250 professionals told us about working with AI
-
-Anthropic • 15h ago
-
----
-
-**[China’s Baidu Is Said to Weigh Hong Kong IPO for AI Chip Unit Kunlunxin](https://www.bloomberg.com/news/articles/2025-12-05/baidu-is-said-to-weigh-hong-kong-ipo-for-2-8-billion-ai-chip-unit-kunlunxin)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Asia's strong equity deals pipeline to be tested by AI bubble concerns in 2026](https://www.reuters.com/business/autos-transportation/asias-strong-equity-deals-pipeline-be-tested-by-ai-bubble-concerns-2026-2025-12-05/)**
-
-Reuters • 43m ago
-
----
-
-**[Apple May Win the AI Race. How It Could Beat Meta, Microsoft, and OpenAI](https://www.barrons.com/articles/apple-stock-iphone-17-ai-chatgpt-gemini-22561075?gaa_at=eafs&gaa_n=AWEtsqeNhDZ0TsWzLUwgOmYh3raRqlKBy_vxeuZso2sw__QDa9gpNk8TRunW&gaa_ts=69329b7a&gaa_sig=SNVWFUS8-0ort544xRbt1KYaUlYqTpmVYE-3ahWIp7xNhnFGGvIStIhOEFRG2wllmWANb6PBBx_6xbtrZlU2uQ%3D%3D)**
-
-Barron's • 53m ago
+Fortune • 17h ago
 
 ---
 
@@ -155,11 +129,31 @@ The Economist • 21h ago
 
 ---
 
-**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
+**[AI Isn’t Killing Travel Agents. It’s Making Them Better](https://www.bloomberg.com/news/articles/2025-12-05/will-ai-tools-replace-travel-agents-or-make-them-even-better)**
 
-Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
+Bloomberg.com • 1h ago
 
-Forbes • 15h ago
+---
+
+**[Naomie Harris Thinks “AI Is Absolutely The Future” – Red Sea Studio](https://deadline.com/video/naomie-harris-ai-red-sea-film-festival/)**
+
+The 'Moonlight' actress lifted the lid on her new AI-centered tech company and insists that guardrails need to be put in place with the new technology.
+
+Deadline • 5m ago
+
+---
+
+**[Apple May Win the AI Race. How It Could Beat Meta, Microsoft, and OpenAI](https://www.barrons.com/articles/apple-stock-iphone-17-ai-chatgpt-gemini-22561075?gaa_at=eafs&gaa_n=AWEtsqdYVcOT_SjlGw5RXEQdv3ZDPbGmx_5rfV0u-Hih3kLaMDNmBhvKranC&gaa_ts=6932a6e8&gaa_sig=rNPw770-ItWYpQ3Z5cEsx84If55PXh6wmGgURBbuLYscIiE1bUi2kzTX3GZNxRhwyvijQ9jUAG3ShE3wCkXpwA%3D%3D)**
+
+Barron's • 1h ago
+
+---
+
+**[Waterstones would sell books written by AI, says chain's boss](https://www.bbc.com/news/articles/cpvdkw4xgewo)**
+
+James Daunt says booksellers instinctively have "disdain" for AI but it could be sold if clearly labelled.
+
+BBC • 9h ago
 
 ---
 
@@ -173,7 +167,15 @@ Axios • 7h ago
 
 The hobbyists who helped build this site created technology that has been used to humiliate countless women. Why didn’t governments step in and stop them?
 
-The Guardian • 3h ago
+The Guardian • 4h ago
+
+---
+
+**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
+
+Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
+
+Forbes • 15h ago
 
 ---
 
@@ -191,7 +193,7 @@ The New York Times • 1d ago
 
 : Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
 
-⬆️ 1042 • 💬 602 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+⬆️ 1044 • 💬 602 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 
 ---
 
@@ -199,7 +201,7 @@ The New York Times • 1d ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 927 • 💬 1027 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 929 • 💬 1029 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -207,7 +209,7 @@ A post about everyone in Seattle hating AI.
 
 IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data center spending — and raised some doubts on if it'll prove profitable.
 
-⬆️ 836 • 💬 937 • 2d ago • [Business Insider](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
+⬆️ 838 • 💬 939 • 2d ago • [Business Insider](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 
 ---
 
@@ -215,7 +217,7 @@ IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data cen
 
 Google’s own ‘code red’ response to ChatGPT has started paying off.
 
-⬆️ 808 • 💬 915 • 2d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
+⬆️ 809 • 💬 915 • 2d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
 
 ---
 
@@ -223,7 +225,7 @@ Google’s own ‘code red’ response to ChatGPT has started paying off.
 
 Update: This post received a large amount of attention on Hacker News — see the discussion thread.
 
-⬆️ 800 • 💬 280 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+⬆️ 802 • 💬 280 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 
 ---
 
@@ -231,7 +233,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 554 • 💬 528 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 565 • 💬 530 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -239,7 +241,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 398 • 💬 303 • 17h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 401 • 💬 303 • 17h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -247,7 +249,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 233 • 💬 191 • 11h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 235 • 💬 194 • 12h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -255,7 +257,7 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 
 Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume
 
-⬆️ 230 • 💬 189 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
+⬆️ 232 • 💬 189 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 
 ---
 
@@ -263,7 +265,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 173 • 💬 75 • 10h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 178 • 💬 76 • 10h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -277,7 +279,7 @@ If you like my work, I post new AI art and cinematic videos daily — subscribe 
 
 📺 Kelly Boesch AI Art
 
-👁️ 11K • 👍 935 • 💬 73 • ⏱️ 4:25 • 17h ago
+👁️ 11K • 👍 935 • 💬 73 • ⏱️ 4:25 • 18h ago
 
 ---
 
@@ -357,7 +359,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 171K • 👍 635 • 💬 37 • ⏱️ 8:09 • 21h ago
+👁️ 171K • 👍 635 • 💬 37 • ⏱️ 8:09 • 22h ago
 
 ---
 
@@ -383,7 +385,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 135,731 • ❤️ 2,091 • 2d ago
+⬇️ 135,731 • ❤️ 2,093 • 2d ago
 
 ---
 
@@ -411,6 +413,18 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 ---
 
+**[Nemotron-Orchestrator-8B](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B)**
+
+*NVIDIA*
+
+Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrates diverse expert models and tools to solve complex agentic tasks, achieving state-of-the-art performance on benchmarks like HLE with superior efficiency compared to monolithic models.
+
+`text-generation` `8.2B`
+
+⬇️ 2,092 • ❤️ 324 • 3d ago
+
+---
+
 **[DeepSeek-Math-V2](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)**
 
 *DeepSeek*
@@ -423,15 +437,13 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 ---
 
-**[Nemotron-Orchestrator-8B](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B)**
+**[Z-Image-Turbo-Fun-Controlnet-Union](https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union)**
 
-*NVIDIA*
+*Alibaba-PAI*
 
-Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrates diverse expert models and tools to solve complex agentic tasks, achieving state-of-the-art performance on benchmarks like HLE with superior efficiency compared to monolithic models.
+Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-`text-generation` `8.2B`
-
-⬇️ 2,092 • ❤️ 322 • 3d ago
+⬇️ 0 • ❤️ 235 • 3d ago
 
 ---
 
@@ -447,13 +459,15 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 ---
 
-**[Z-Image-Turbo-Fun-Controlnet-Union](https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union)**
+**[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
 
-*Alibaba-PAI*
+*Microsoft*
 
-Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
+VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimized for streaming input and long-form generation, achieving first audible speech in ~300ms. It's ideal for building real-time TTS services, narrating live data, and enabling LLMs to speak concurrently with text generation.
 
-⬇️ 0 • ❤️ 235 • 3d ago
+`text-to-speech` `1.0B`
+
+⬇️ 0 • ❤️ 215 • 7h ago
 
 ---
 
@@ -463,19 +477,7 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 203 • 3d ago
-
----
-
-**[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
-
-*Microsoft*
-
-VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimized for streaming input and long-form generation, achieving first audible speech in ~300ms. It's ideal for building real-time TTS services, narrating live data, and enabling LLMs to speak concurrently with text generation.
-
-`text-to-speech` `1.0B`
-
-⬇️ 0 • ❤️ 203 • 7h ago
+⬇️ 0 • ❤️ 204 • 3d ago
 
 ---
 
@@ -485,27 +487,13 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 z_image_turbo is a diffusion model designed for single-file image generation, likely integrated with ComfyUI workflows for advanced image synthesis tasks.
 
-⬇️ 1,674,013 • ❤️ 358 • 8d ago
+⬇️ 1,674,013 • ❤️ 359 • 8d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 133 • 💬 2 • ⭐ 4,545 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
 
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
@@ -521,17 +509,17 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
-**[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://huggingface.co/papers/2306.08568)**
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
-*Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)*
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
 
-🏢 Microsoft
+🏢 Tongyi-MAI
 
-WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct, outperforms other open-source and closed LLMs on several code generation benchmarks.
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 30 • 💬 2 • ⭐ 9,469 • 30mo ago
+▲ 135 • 💬 2 • ⭐ 4,635 • 7d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2306.08568) • [💻 code](https://github.com/nlpxucan/WizardLM)
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -549,15 +537,17 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+**[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://huggingface.co/papers/2306.08568)**
 
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+*Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)*
 
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+🏢 Microsoft
 
-▲ 14 • 💬 0 • ⭐ 26,152 • 11mo ago
+WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct, outperforms other open-source and closed LLMs on several code generation benchmarks.
 
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+▲ 31 • 💬 2 • ⭐ 9,469 • 30mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2306.08568) • [💻 code](https://github.com/nlpxucan/WizardLM)
 
 ---
 
@@ -570,6 +560,18 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 ▲ 22 • 💬 0 • ⭐ 25,390 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 14 • 💬 0 • ⭐ 26,181 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -599,6 +601,18 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 ---
 
+**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
+
+*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
+
+MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
+
+▲ 32 • 💬 4 • ⭐ 49,897 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
+
+---
+
 **[FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable
   Reasoning](https://huggingface.co/papers/2510.22543)**
 
@@ -612,20 +626,6 @@ Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with ver
 
 ---
 
-**[SAM 3D: 3Dfy Anything in Images](https://huggingface.co/papers/2511.16624)**
-
-*SAM 3D Team, Xingyu Chen, Fu-Jen Chu et al. (23 authors)*
-
-🏢 AI at Meta
-
-SAM 3D is a generative model that reconstructs 3D objects from single images using a multi-stage training framework that includes synthetic pretraining and real-world alignment, achieving high performance in human preference tests.
-
-▲ 106 • 💬 3 • ⭐ 4,432 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.16624) • [💻 code](https://github.com/facebookresearch/sam-3d-objects) • [🔗 project](https://ai.meta.com/sam3d/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -636,7 +636,7 @@ SAM 3D is a generative model that reconstructs 3D objects from single images usi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.0k • 🔱 386 • 5h ago
+⭐ 5.1k • 🔱 389 • 6h ago
 
 ---
 
@@ -646,7 +646,7 @@ SAM 3D is a generative model that reconstructs 3D objects from single images usi
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.4k • 🔱 119 • 22h ago
+⭐ 1.4k • 🔱 121 • 23h ago
 
 ---
 
@@ -676,7 +676,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 819 • 🔱 42 • 3h ago
+⭐ 820 • 🔱 42 • 3h ago
 
 ---
 
@@ -686,7 +686,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 796 • 🔱 102 • 9h ago
+⭐ 798 • 🔱 102 • 10h ago
 
 ---
 
@@ -706,7 +706,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 743 • 🔱 19 • 9d ago
+⭐ 744 • 🔱 19 • 9d ago
 
 ---
 
@@ -716,7 +716,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 695 • 🔱 14 • 16d ago
+⭐ 697 • 🔱 14 • 16d ago
 
 ---
 

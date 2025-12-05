@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T08:53:19.487059+00:00'
+updated: '2025-12-05T09:18:55.667687+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 08:53 UTC  
+**Last Updated:** December 05, 2025 at 09:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** +5.4%  
-**30d:** -4.9%  
-**90d:** -27.0%  
-**1y:** -21.1%  
+**24h:** -1.9%  
+**7d:** +4.7%  
+**30d:** -5.7%  
+**90d:** -27.4%  
+**1y:** -21.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $381.80B
+**Market Cap:** $380.08B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.1%
+-36.4%
 
 **All-Time Low:** $0.43
-+730110.9%
++725956.0%
 
 ---
 
@@ -80,7 +80,7 @@ Trump crypto empire falls faster than bitcoin
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was part of their Private Clients program with the portfolio boost. On October 10th, 2025, around 23:00 CET, the Nexo app completely stopped working for me. I couldn’t add USDT, swap, manage my loan, nothing. I was literally inside the app trying to fix it, and I have screen-time proof showing it was frozen. At 23:12 I suddenly got an email saying my LTV changed to 76.92%. At 23:20 I got another email telling me my collateral had been fully liquidated. When I finally managed to get back into the app at 00:26 CET, everything was gone. My entire $123K portfolio was wiped out while I was stuck watching the app glitch out. This isn’t even the first time something like this has happened. Coinfomania reported in April 2025 that Nexo had already been accused of unfair liquidations worth $10 million. People were saying the same thing back then: the app wasn’t working and they only got two emails before losing everything. Nexo is registered in the Cayman Islands and acts like it’s untouchable. They ignore EU and US courts and even ignore letters from lawyers who represent affected users. And Antoni Trenchev is nowhere to be found. When Binance had system issues, they actually compensated their users. Nexo stayed silent. They didn’t just liquidate me, they took everything while their own platform was offline. Since my situation happened, a lot of people have reached out with almost identical stories. Same timeline, same type of outage, same zero response from Nexo. At this point it’s obvious we won’t get anywhere alone. If you had a similar experience, we need to organize together and take collective action. Nexo isn’t giving anyone answers on their own. #Nexo #CryptoScam #DeFi #NexoDown #CryptoJustice
 
-1h ago
+2h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -162,11 +162,19 @@ dlnews.com • 1d ago
 
 ---
 
+**[Tom Lee's Bitmine Doubles Down on Ethereum Purchases as ETH Price Recovers Over $3,200](https://finance.yahoo.com/news/tom-lees-bitmine-doubles-down-084315649.html)**
+
+Bitmine added another $130 million in ETH on Dec. 5. The firm now holds over 3.7 million ETH, valued at roughly $18 billion. Chairman Tom ...
+
+Yahoo Finance • 35m ago
+
+---
+
 **[Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum](https://www.dlnews.com/articles/markets/bitmine-stock-jumps-15-percent-as-tom-lee-snaps-up-150-in-ethereum/)**
 
 Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December.
 
-dlnews.com • 22h ago
+dlnews.com • 23h ago
 
 ---
 
@@ -174,7 +182,7 @@ dlnews.com • 22h ago
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-cheddar.com • 11h ago
+cheddar.com • 12h ago
 
 ---
 
@@ -183,6 +191,14 @@ cheddar.com • 11h ago
 Key PointsEthereum receives a major update today that should improve its ability to scale.
 
 Nasdaq • 1d ago
+
+---
+
+**[Is Ethereum the Best Cryptocurrency to Buy Under $4,000?](https://www.fool.com/investing/2025/12/05/is-ethereum-the-best-cryptocurrency-to-buy-under-4/)**
+
+It's making important improvements and expanding its ecosystem.
+
+The Motley Fool • 18m ago
 
 ---
 
@@ -206,23 +222,7 @@ Yahoo Finance • 2d ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 4h ago
-
----
-
-**[Ethereum Crashes 45% From $4,950 Peak: Why Layer 2s Are Killing ETH’s Value](https://247wallst.com/investing/2025/12/03/ethereum-crashes-45-from-4950-peak-why-layer-2s-are-killing-eths-value/)**
-
-Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?
-
-24/7 Wall St. • 1d ago
-
----
-
-**[While Ethereum whales rotate, XRP data shows a fatal concentration flaw that leaves one group holding the bag.](https://cryptoslate.com/ethereum-xrp-whales-concentration-risk/)**
-
-We quantify how much old supply just moved and why now.
-
-CryptoSlate • 1d ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -256,7 +256,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 48K • 👍 2K • 💬 341 • ⏱️ 27:33 • 14h ago
+👁️ 48K • 👍 2K • 💬 341 • ⏱️ 27:33 • 15h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bitcoin steadied near weekly highs as concerns ease, but most altcoins remain we
 
 📺 Paul Barron Network
 
-👁️ 25K • 👍 1K • 💬 85 • ⏱️ 32:14 • 12h ago
+👁️ 25K • 👍 1K • 💬 85 • ⏱️ 32:14 • 13h ago
 
 ---
 

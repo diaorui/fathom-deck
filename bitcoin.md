@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T08:53:19.480967+00:00'
+updated: '2025-12-05T09:18:55.661515+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 08:53 UTC  
+**Last Updated:** December 05, 2025 at 09:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,067.58
+### $91,696.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +1.4%  
-**30d:** -9.1%  
-**90d:** -17.3%  
-**1y:** -7.6%  
+**24h:** -1.7%  
+**7d:** +0.8%  
+**30d:** -9.7%  
+**90d:** -17.9%  
+**1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1839.45B
+**Market Cap:** $1835.50B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.9%
+-27.2%
 
 **All-Time Low:** $67.81
-+135769.3%
++135332.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Im only up 3000% now
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ Im only up 3000% now
 
 💀
 
-18h ago
+19h ago
 
 ---
 
@@ -107,7 +107,7 @@ Im only up 3000% now
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -121,15 +121,7 @@ Im only up 3000% now
 
 Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our entire crypto journey wouldn’t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. 🚀
 
-16h ago
-
----
-
-**[Broke .1 finally!](https://www.reddit.com/r/Bitcoin/comments/1pedy60/broke_1_finally/)**
-
-.2 next, just wanted to share with someone
-
-10h ago
+17h ago
 
 ---
 
@@ -138,6 +130,14 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
 4h ago
+
+---
+
+**[Broke .1 finally!](https://www.reddit.com/r/Bitcoin/comments/1pedy60/broke_1_finally/)**
+
+.2 next, just wanted to share with someone
+
+10h ago
 
 ---
 
@@ -151,25 +151,17 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin (BTC) Price News: Bulls Face Key Test at $93K](https://www.coindesk.com/markets/2025/12/03/crypto-rally-stumbles-bitcoin-slips-back-to-usd92k-as-microsoft-lowers-ai-sales-goals)**
+**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
 
-Bitcoin shot up 10% in two days, but it's stalling at around the 2025 yearly open.
+In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
 
-CoinDesk • 1d ago
+CNBC • 21h ago
 
 ---
 
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
 The Economist • 22h ago
-
----
-
-**[Michael Saylor’s Strategy may have BlackRock to thank for the 11% rise in Bitcoin](https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/)**
-
-BlackRock’s ETF now owns 3.9% of all existing Bitcoin, more than Strategy.
-
-Fortune • 20h ago
 
 ---
 
@@ -181,11 +173,19 @@ The New York Times • 1d ago
 
 ---
 
+**[Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved'](https://finance.yahoo.com/news/larry-fink-softens-crypto-stance-as-blackrock-boasts-biggest-us-bitcoin-etf-my-thought-process-has-evolved-184909682.html)**
+
+Larry Fink, once a proud crypto skeptic, has evolved his views as his firm, BlackRock, has become a leader in the industry.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
 
 BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
 
-Bloomberg.com • 41m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -197,13 +197,21 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin’s Predicted Sky-High Prices Have Not Panned Out](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
+**[Woori Bank Becomes First in Korea to Display Bitcoin Prices in Trading Room](https://finance.yahoo.com/news/woori-bank-becomes-first-korea-074526421.html)**
+
+Woori Bank has begun displaying Bitcoin prices inside its main trading room in Seoul, placing the cryptocurrency alongside core financial indicators such as the won–dollar exchange rate and stock market data. Key Takeaways: Woori Bank is the first Korean commercial bank to display Bitcoin prices in its main trading room. ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
 
 The New York Times • 1d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeqVwclCo4dSt2WXVm0ZgrFYNfN_R2-tmW28P8OsLjMAeXbnIevD6Jw&gaa_ts=69329b7b&gaa_sig=1reKRVFQw4ViwwPvoYVlMOr0t7VO645Mg-l92Ig7NLY6185kpsQFf5yTddn5cnm949UFN7s2C8jdI5bGMSv6BQ%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeaNnfy9dvooTkEVcc2kQHCkOZh9Boa9LG84HuG-0mkCA-IAQb0NdxV&gaa_ts=6932a6ea&gaa_sig=IAaFzD53yhwOqsBEz-v1DHvKEfSDy5FfmtAseXmT45r9ekvYdq29N15NN2YBM36dJw9xawa33G121HV97x14gA%3D%3D)**
 
 MarketWatch • 12h ago
 
@@ -214,12 +222,6 @@ MarketWatch • 12h ago
 JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
 Business Insider • 15h ago
-
----
-
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdT-wbpPCP7EUHLdYsA9bhpT88OETYPQ8vPpV4z0O4ouO-5Z621rwFt&gaa_ts=69329b7b&gaa_sig=1evIwsUzg7rAf1yC_QpwL77qjweeblomddCt34A7zCjm5yJ1bCrkVjKmtcbA09xStmOkhbAKHQxpT5zdZsTyGQ%3D%3D)**
-
-The Wall Street Journal • 2d ago
 
 ---
 
@@ -339,7 +341,7 @@ Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative t
 
 📺 The Wolf Of All Streets
 
-👁️ 24K • 👍 884 • 💬 327 • ⏱️ 35:57 • 17h ago
+👁️ 24K • 👍 884 • 💬 327 • ⏱️ 35:57 • 18h ago
 
 ---
 

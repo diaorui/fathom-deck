@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T23:13:49.394349+00:00'
+updated: '2025-12-05T23:31:37.815695+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 23:13 UTC  
+**Last Updated:** December 05, 2025 at 23:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,138.35
+### $90,189.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.3%  
-**7d:** -1.9%  
-**30d:** -12.1%  
-**90d:** -20.0%  
-**1y:** -10.6%  
+**24h:** -3.5%  
+**7d:** -2.1%  
+**30d:** -12.3%  
+**90d:** -20.2%  
+**1y:** -10.8%  
 
 ---
 
@@ -105,7 +105,7 @@ Charts like this always remind me why time in the market beats timing the market
 
 **[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -119,7 +119,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hi I’m new to this. I don’t have a lot of money to put into it but wanted to
 
 **[Do not fear the volatility of the journey; fear the slow decay of staying behind.](https://www.reddit.com/r/Bitcoin/comments/1pf6zmn/do_not_fear_the_volatility_of_the_journey_fear/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -303,7 +303,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 415 • ⏱️ 10:13 • 8h ago
+👁️ 25K • 👍 1K • 💬 415 • ⏱️ 10:13 • 9h ago
 
 ---
 
@@ -313,7 +313,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 14K • 👍 373 • 💬 436 • ⏱️ 15:38 • 17h ago
+👁️ 14K • 👍 373 • 💬 436 • ⏱️ 15:38 • 18h ago
 
 ---
 
@@ -333,7 +333,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 68K • 👍 5K • 💬 344 • ⏱️ 15:38 • 11h ago
+👁️ 68K • 👍 5K • 💬 344 • ⏱️ 15:38 • 12h ago
 
 ---
 
@@ -363,7 +363,7 @@ After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 343 • 💬 185 • ⏱️ 1:34:16 • 3h ago
+👁️ 6K • 👍 343 • 💬 185 • ⏱️ 1:34:16 • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ In today's video, Miles Deutscher breaks down why Bitcoin's reaction to fear is 
 
 📺 Miles Deutscher Finance
 
-👁️ 2K • 👍 168 • 💬 239 • ⏱️ 49:07 • 6h ago
+👁️ 2K • 👍 168 • 💬 239 • ⏱️ 49:07 • 7h ago
 
 ---
 

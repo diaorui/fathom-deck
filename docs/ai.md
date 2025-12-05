@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T23:13:49.386007+00:00'
+updated: '2025-12-05T23:31:37.808288+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 23:13 UTC  
+**Last Updated:** December 05, 2025 at 23:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 9h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 10h ago
 
 ---
 
@@ -81,7 +81,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 2m ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 20m ago
 
 ---
 
@@ -125,7 +125,7 @@ The Keyword • 7h ago
 
 **[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -147,13 +147,13 @@ Reuters • 6h ago
 
 Nvidia is the dominant player in the AI hardware market, and Palantir could occupy a similar position on the software side.
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Is this AI software stock about to have its Nvidia moment?](https://www.msn.com/en-us/money/companies/is-this-ai-software-stock-about-to-have-its-nvidia-moment/ar-AA1RO7yu?ocid=finance-verthp-feeds)**
 
-MSN • 4m ago
+MSN • 22m ago
 
 ---
 
@@ -167,13 +167,13 @@ Barron's • 12h ago
 
 Anthropic is challenging the world’s biggest AI players with a bold mission: to build systems that are both powerful and aligned with human values. The company’s president and cofounder, Daniela Amodei, will join WIRED’s Steven Levy for a candid conversation about Anthropic’s “constitutional” approach to AI safety, the race to develop ever-smarter models, and how to balance innovation with accountability.
 
-WIRED • 13m ago
+WIRED • 31m ago
 
 ---
 
 **[Man Says that Grok AI Saved His Life after an ER Misdiagnosis](https://www.tipranks.com/news/man-says-that-grok-ai-saved-his-life-after-an-er-misdiagnosis)**
 
-TipRanks • 49m ago
+TipRanks • 1h ago
 
 ---
 
@@ -233,7 +233,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 267 • 💬 130 • 6h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 267 • 💬 130 • 7h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -319,7 +319,7 @@ Pocket Option Full Trading Session with AI TRADING BOT for Binary Options Link -
 
 📺 AITRADINGGG v2
 
-👁️ 6K • 👍 627 • 3h ago
+👁️ 6K • 👍 627 • 4h ago
 
 ---
 
@@ -349,7 +349,7 @@ ALL Systems: https://www.skool.com/aiautomationsbyjack 🎙️ Glaido: https://g
 
 📺 Jack Roberts
 
-👁️ 4K • 👍 253 • 💬 10 • ⏱️ 35:33 • 7h ago
+👁️ 4K • 👍 253 • 💬 10 • ⏱️ 35:33 • 8h ago
 
 ---
 
@@ -691,7 +691,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 10m ago
+⭐ 822 • 🔱 42 • 28m ago
 
 ---
 

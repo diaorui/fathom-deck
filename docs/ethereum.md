@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T23:13:49.400341+00:00'
+updated: '2025-12-05T23:31:37.820937+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 23:13 UTC  
+**Last Updated:** December 05, 2025 at 23:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** +0.9%  
-**30d:** -9.1%  
-**90d:** -30.1%  
-**1y:** -24.5%  
+**24h:** -4.0%  
+**7d:** +1.0%  
+**30d:** -9.0%  
+**90d:** -30.0%  
+**1y:** -24.4%  
 
 ---
 
@@ -112,7 +112,7 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 22h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 23h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 11h ago
 
 **[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
 
-TipRanks • 9h ago
+TipRanks • 10h ago
 
 ---
 
@@ -264,7 +264,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 23K • 👍 2K • 💬 159 • ⏱️ 31:23 • 13h ago
+👁️ 23K • 👍 2K • 💬 159 • ⏱️ 31:23 • 14h ago
 
 ---
 
@@ -314,7 +314,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 14K • 👍 373 • 💬 436 • ⏱️ 15:38 • 17h ago
+👁️ 14K • 👍 373 • 💬 436 • ⏱️ 15:38 • 18h ago
 
 ---
 

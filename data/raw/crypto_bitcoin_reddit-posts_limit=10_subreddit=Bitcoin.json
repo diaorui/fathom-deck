@@ -13,17 +13,6 @@
       "description": null
     },
     {
-      "title": "\ud83e\udde1 Thank You Satoshi, for Bitcoin",
-      "author": "DardMiner1982",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/",
-      "published": 1764864084.0,
-      "thumbnail": "https://preview.redd.it/4bp35l21n75g1.jpeg?width=640&crop=smart&auto=webp&s=62ef9d97ad2d4351f44ecc938d7fdd0f99e5af20",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Sometimes we forget the obvious: without Satoshi, BTC wouldn\u2019t exist and our entire crypto journey wouldn\u2019t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. \ud83d\ude80"
-    },
-    {
       "title": "full speed",
       "author": "Repulsive-Box-6516",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "\ud83e\udde1 Thank You Satoshi, for Bitcoin",
+      "author": "DardMiner1982",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/",
+      "published": 1764864084.0,
+      "thumbnail": "https://preview.redd.it/4bp35l21n75g1.jpeg?width=640&crop=smart&auto=webp&s=62ef9d97ad2d4351f44ecc938d7fdd0f99e5af20",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Sometimes we forget the obvious: without Satoshi, BTC wouldn\u2019t exist and our entire crypto journey wouldn\u2019t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. \ud83d\ude80"
     },
     {
       "title": "Found this invoice in my old email",
@@ -46,17 +46,6 @@
       "description": "\ud83d\udc80"
     },
     {
-      "title": "Bitcoin in 2025",
-      "author": "Whereas-Informal",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/",
-      "published": 1764859954.0,
-      "thumbnail": "https://external-preview.redd.it/ZW95ZzNnbnFhNzVnMXn86SVe9xPFgk2zCB4fv9K_JCVkW-Xi2WR8Vw9ZkrZX.png?width=640&crop=smart&auto=webp&s=5a79af29bcf1dcfee51653a0c24b899261d6f7fe",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "The Struggle\u2026.",
       "author": "Frostdotco",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1peipkt/the_struggle/",
@@ -66,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Im only up 3000% now"
+    },
+    {
+      "title": "Bitcoin in 2025",
+      "author": "Whereas-Informal",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/",
+      "published": 1764859954.0,
+      "thumbnail": "https://external-preview.redd.it/ZW95ZzNnbnFhNzVnMXn86SVe9xPFgk2zCB4fv9K_JCVkW-Xi2WR8Vw9ZkrZX.png?width=640&crop=smart&auto=webp&s=5a79af29bcf1dcfee51653a0c24b899261d6f7fe",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "My first order - Proud owner of 0.01099277 BTCs.",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-05T02:56:25.771394+00:00"
+  "fetched_at": "2025-12-05T03:52:57.452119+00:00"
 }

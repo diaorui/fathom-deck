@@ -5,24 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin is down nearly 30% from its record high \u2014 history shows that's normal",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEJ2RTlPdVN0dFI0OHdRNnNXVHNoM0lOYnhEcEhwZzhBaFVJVUZoemNMQTlGd0FRQUthRUg3R1A2Qk9hUjF2YjQ3QkhnTnZlWmQzUkI3VzlwZUtuaVRwODNVRHdtZGJ4MHI0RjFuU3h4eU1CakdWRXZKZWZhQTk4cEs5WnhhZ0VpcHNEMDRuY2tkc2RNZmtYeW5CU1hSNjd5UWx6WFpnZmJxNDRYYlJ30gG0AUFVX3lxTE96c3dMRGlhdDBZUlZsaUxjbExCeFpJcDFLVmxzQVRKWjltRU41YWNZenA2cGVwaHEyMXJha3AySjVod1BpMG1QN1V5Tzd4cWlnejZSNVpJOGN3Y1M2bVQ3dnVDQjh2OGQ2TUprR21PR0x3X2MxS0FGZkVoVXY1RDdhTXd2N3M2T1VQMTVMZ0RrT0tJQUhKRGtzWjFkYnQ4TWxJc3hNUmxMN1pTUVc0WmhsVXdGaA?oc=5",
-      "pub_date": 1764847662.0,
-      "article_url": "https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108235234-1764690993224-gettyimages-2247341381-AFP_84UC93G.jpeg?v=1764691074&w=1920&h=1080",
-      "description": "In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger."
-    },
-    {
-      "headline": "Bitcoin sell-off halts Trump family's crypto windfall",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmlWMDNZVUtjS1dsWHFyaTdfMnhSMTEta1J0WGZDTlJ0czUxcFlJeV95Y0pUSGRVZG0tSmE3MlVxMDNGb1pBZjlWOF9uZXlZVlJncTRldWtaMDRRMm5NelRQN216N0I1YldHSVNja0Nsb3FpUDliZk12aTVaZEd6TVkzaW1FeUZRcWtBcWl2WkhTS1JGbExzUDFIRFlnUdIBowFBVV95cUxQVGxtTWthQ3gxRS1QUUpYZFd0RTB0OXVPYm5STk1sLWJPUzZLeGRhVUM0NzBfcm1IaGdqdVNESG9leWZpTHpkUDFsaEpDbG94d0FjOTlpRGNZOFZDWF9ZeGhNMkRzRHNzOHpDVGNZQWNDamdQR0R2Ni1PVkhtVmpsQUpyZHdLVzgxelQwNzU3RmFkMXNOOXB3UmFRV1IzUGItc2Q4?oc=5",
-      "pub_date": 1764696059.0,
-      "article_url": "https://abcnews.go.com/US/bitcoin-sell-off-halts-trump-familys-crypto-windfall/story?id=128035773",
-      "image": "https://i.abcnewsfe.com/a/cb51083f-cd27-4bf8-8f01-4b848cd3d681/donald-trump-5-ap-gmh-251201_1764611758255_hpMain_16x9.jpg?w=1600",
-      "description": "Due to a recent downturn in bitcoin, the Trump family has had roughly a billion dollars of their net worth erased in just a matter of weeks, according to estimates."
+      "headline": "Bitcoin (BTC) Price News: Bulls Face Key Test at $93K",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUFtUUZPZXBvR0FxYTh4aTRaR1YxcWxvRHJGLU1YcWdoZ1dqaDhZVTE1OWhxMnZaWkNYR21aMXNOYzRZeFlhai1Zc1FXYUswTjkweWpsdWxVRmpIQmlqNjVVUkZfdEQwZ2wzb3M5V1ViSmg5MWkwbzdvU0ZXY29wTGhXMUVmMG9WQ3NUbExJbmVUYmU5Q2E5Unhxc0h5MTNWd3hxMWd6NnRfTXV0WU1qWk1wM2ljRmhZSGhPVm5yRktBMFc2RkI0Ug?oc=5",
+      "pub_date": 1764800467.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/03/crypto-rally-stumbles-bitcoin-slips-back-to-usd92k-as-microsoft-lowers-ai-sales-goals",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/600ea7deef0c237a3e3a263759c0ab9719f15643-2246x1188.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Bitcoin shot up 10% in two days, but it's stalling at around the 2025 yearly open."
     },
     {
       "headline": "Bitcoin has plunged. Strategy Inc is an early victim",
@@ -68,9 +58,9 @@
       "headline": "With bitcoin down to around $92,000, should you rethink how much crypto to own? Here\u2019s what experts say.",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxObGRHOUNUZjBJYWxlZkw2UlduRndhSGRBVUFZYmZuT3Z1b0x4b0VyMFNYRU80NnkyRENqakc1SUlLTWRBMUlCSDlidFlDNjJlT0ZmVEIwempoNzF3UW1zaEIwRUdhTVdqNi1OOFhXRU54X1pGSmpZLVltei1ZUFozLXV6MVdocnF5Ty1IRFdIRnI3QUlKYWcwb3N1VkZKTElvZUJXLTZyaGNESzlxbUwyYUhBZ3J3TW0yU0RzQy1lbnpTQXRTUDVhYlczNXJldDlOTUxaQzdvVGpUc1NBQmY3RHR1azJaWnVQaHMyWDl4Ui0yVTBncnA4RmVoc2d3blMxT3Nqb2V2SUg1ZjRzdzZjLUZDNU1kZC0zT1phQnMyeklnTTBSMVBmbmlVNnV2SmVseEJBM1I1aHh1VkxDWDA0TWlNU0RvZmRpSEFPMGQzcnljTHBnVXhBR2pMaGpnR3dEVjhERGRJVUNGb3F1VDRXRDhTZE9RUjFjRDE5Y1FvLTNnMUd6d1Z5bktWNWpyT3p2LXlUaG8zT2FxNVVhZml3RVhYZFVHM1BMaC1VWEJIZnlLRFpaWGQ5Vlk1WE8xMzkyakI4M2NvSjR6bUJJRFQxeUZpVThxSlNtOWZxY3hsdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNUXp2VUx4YXcyLXJmTWVKYW1vU3hodERsR0JHQjZQa1k0SUlqRHM0ZnRvT19KM3QxenpCcWJubkhDOHB1azZpbUE2d3h2cHk0YTNWUHZWTVlxcHFBbFBYdUhBR3JzaWwybFNQT0p1UFlLTXZBM2gzMUc5Vk5aak5CNmxqSFkzeVo5SDNYOFBJLWFzd3JxLXV0UnNyMV9QcHlaWDkwcEJvUXhjMHE5N3FJdEFIV2tNNmdRNHdBY09LM0pCZFU2VlBuMHJzaUJEUzlvazNiTDd1Si1aNW5UakJlakZFalI0VDI0MmtzaS1BZXdOZWc3cDZDb3lvc3M2dFVXb2x4aUNKLU0xSUJsR0tJQnpZcjZnc3cwb0JwelRWaTBoR2JOMFRMWGczMnVsSVY1VWltdmJmQnhPMk5xZW5yeHlkQlVPeTNlRGdGeGtyU3dqWnVTTGhNUl8yQVJZM0lUVjBzRkRUZ1JxejdkQU5FQ3BCSzhVcGFWX2hHTXR2Tkgyckx3blRoV0I3azNSNmZ6M0V5TUZpWUhuSE1pQkp4Uzg3XzFwTzF4dTJDZFEySWJpYnJrM1RzZERkZGVqakVUTmotbVpWM2hNMDA5eEplRVl1N1l0S3FhVUhkeEhZVQ?oc=5",
       "pub_date": 1764880980.0,
-      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdt2MIpeR75E6_6zFRdxTybVBmQe70T_Z4L5nEVOoPwGxm4KZZgEbrA&gaa_ts=69324d5d&gaa_sig=99xNe75k_AEDe2DceLxobfoFbCH6j3pbWkHGbr9UPH3TtN07f2aifaHKTJBbtGo0x70M8vrKh63HfgT-ZMiZfQ%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeIIpdyXNCEIs21RiS9XbI8tDuS8WFNM2v5G-6upmuvySEPw7SptTop&gaa_ts=69325a6b&gaa_sig=Sivlu6dxvtBiGjwmlilS-RF3GYpA-dv8m8KqoHd8OJ5WouO5fL616dJYO0wC9YEEG_jmuL7A0jyY-pMg2wXVYw%3D%3D",
       "image": null,
       "description": null
     },
@@ -85,26 +75,36 @@
       "description": "JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term."
     },
     {
-      "headline": "HyperVerse promoter \u2018Bitcoin Rodney\u2019 accuses Australian Sam Lee in US court of duping him with \u2018elaborate deception\u2019",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaE1aOTFvVjkyVjdqVlhRRVFvWXpoZi1NTFpSMm0wN1c4eEc0QzhCeUZXUHozMTlZWl9HNGlMb2FwTHZUWjJDaWdyZGRrQVF5cF9ESHJFNmtHLWM5MkN4N090VUlNeVJ6V2picERDMWhHV1k2VjhhUHBrdDNLZ21tNVJGS01DZUtfbXFQQkpqWWN3WW9TWFF4VG5mUVZ1SUpxNHpKWjk1aEJtTkZmZVU5Ug?oc=5",
-      "pub_date": 1764881460.0,
-      "article_url": "https://www.theguardian.com/technology/2025/dec/04/hyperverse-bitcoin-rodney-us-court-australian-sam-lee-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/1ad28bc15aaf745e45f2741443d3b3f429bd2c2e/133_92_2016_1613/master/2016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d1b6d10746fc2ffd677ce1fe431cf48",
-      "description": "Rodney Burton says in Maryland district court memorandum he acted in good faith when promoting scheme that allegedly defrauded investors of US$1.89bn, but Lee calls claims \u2018baseless\u2019"
+      "headline": "A Huge Bitcoin Bar and Steakhouse Is Opening in DC",
+      "source": "Washingtonian",
+      "source_url": "https://washingtonian.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWE3RC1qZjVNLUdIcUhLNDZROUVxc01pUGVJSUZQMzBMY241Szk0bE5LdEFEc2VkeEJnSEFoU2tNZXVDc2ozcVp2aVBERWJMOXpXUTFjbmV4b0hhN1Z2NkU1MUhkamJMNlVqdDBTZG5EZVBjbzdtVHZieWxMdWNkdFRtSTVYei1QVDlWSk10LWktUQ?oc=5",
+      "pub_date": 1764790452.0,
+      "article_url": "https://washingtonian.com/2025/12/03/a-huge-bitcoin-bar-and-steakhouse-is-opening-in-dc/",
+      "image": "https://washingtonian.com/wp-content/uploads/2025/12/PubKey-DC-shrine-horizontal-Credit-Chris-Bryan.jpeg",
+      "description": "PubKey expands from New York with a podcast studio, event space, and more."
     },
     {
-      "headline": "The Bitcoin Canary in the Coalmine? - American Enterprise Institute",
-      "source": "American Enterprise Institute - AEI",
-      "source_url": "https://www.aei.org",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lVzBVakdqTDEwdGNDczBsMnduOFQxakMyT2M0eTMtSUNKR3ByWEVPNUZfYlZ5SS0yaVNFVjI4ZmVicHpxUjFIRmlNcGJ0eGZWS1pkSHZxOEg1NkZ0M2tIbGUzbi1YdVdSWGNPdHQtMTlvYlk?oc=5",
-      "pub_date": 1764625009.0,
-      "article_url": "https://www.aei.org/economics/the-bitcoin-canary-in-the-coalmine/",
+      "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPYW5paHBkN1FtTV9uemhZVk0xODR3bXUwbHhqd2RnSnkxbkFrUUpkZmZBOVlKRjZ1UzRGcjBqdHd1R1Z6dDh5U0pFVkJSNDF6YXBFZWNvRjNnRFJzWGZSQU5Bd0xJY2pqc2RhVG5mVWZmX2c3emRMdEpwMFJxMWxEOE8tWFJKUEpqenhuR1lKZjBPdFFmNkgzUFRtYmJzVWtxSGgycU1QN2xVa1oxMU1zY2ZDQmFaTEljazNTbjJJeW10dlRhb1VlMVNoY2VkV3RqWXNVTGlvMmVjcXhxUklXamd6eHNLdXA4NE1ZUmJhYVgzdTdmVnEyRWZObV8zYkRmUkNZTG9GNWRsZHdJV1JHVVpaTnpvRDRGb0NERElJWDlfMzlkUWg0SGZtWm5kSXpheTV4MW9YOEgxRXQyb2NDazhFNG5KOFFPZTA2bklMcU9UYnZMeHYzN1FuN25RcElqdDg2TXloR0JjRUNSRkF0aV9KNDI5TDNyLTlQdlprdDVFZjFSUGZZV2xMbUUyZlViU1ByWXZxcU1CSlNtMG45Z1lDVkVWdEFLbExB?oc=5",
+      "pub_date": 1764716700.0,
+      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdF9w8EcbN2MROiHBaxdfDG543N5SgDqnI5MqMOsFM1jDhlbEaj88Lb&gaa_ts=69325a6b&gaa_sig=FzxxJR8wpfMtu-j21tfOXI-QXV3G-dwQAROa-nWB-QLewWyBVjt9xELI6Ik7gDq7T5zloKKLxgLcFVgmpQ1Drw%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin (BTC) News: 'Basis Trade' Unwind, Not Capitulation, Led to Recent $4B ETF Outflows",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORy1ZVUctUFdHTkl1N3MzUWNCZndtTUh6YjQwM2xyWVE2eHBjN0JhZUYwczBaSzUzR3pEOHlIOUNIekluRDdoQUVuS2l6TUxKVE5ZX2M4eVNxUEtyQk51bEtJeWRKbVNTU3AzT3VPOW5fbGNXdXZXV3VTRGlOcVBsV2drZDFpdThBUjdPVDc1NEFQWnRVYjV2Q0dWMWlNYl9tZ0JSNXRRWndaMm1CN285REUxOS00elBadUV4cFZtT1RNOUxzc2tRWHRGZjJhTl94Szg1UmVQVDZRZw?oc=5",
+      "pub_date": 1764865782.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/04/usd4b-bitcoin-etf-outflows-in-oct-nov-reflect-basis-trade-unwind-not-capitulation-research-analyst",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7990c1aee6dc662da6a92e4675c895b7b28cf2b-1920x1080.jpg?auto=format",
+      "description": "Recent outflows from U.S.-listed spot bitcoin ETFs were driven by specific arbitrage trade closures, not widespread institutional panic."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T02:56:43.128062+00:00"
+  "fetched_at": "2025-12-05T03:53:22.738660+00:00"
 }

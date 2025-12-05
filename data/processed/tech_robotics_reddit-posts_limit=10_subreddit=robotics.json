@@ -68,15 +68,15 @@
       "description": null
     },
     {
-      "title": "Pi0 worked for a entire day",
-      "author": "drgoldenpants",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdjp2c/pi0_worked_for_a_entire_day/",
-      "published": 1764803539.0,
-      "thumbnail": "https://external-preview.redd.it/OXE2azkweDdtMjVnMUDnGq3QNGwXnAWzx6NNgwjNH9GfBK1kx4uRQGpYEO_C.png?width=640&crop=smart&auto=webp&s=a287bc81dfb34bbc53da2244a9ebf2ead24bcce0",
+      "title": "Christmas Help",
+      "author": "Wonderful_Froyo_9690",
+      "url": "https://www.reddit.com/r/robotics/comments/1pekos3/christmas_help/",
+      "published": 1764905627.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
+      "description": "Hi everyone, My husband is a mechanical engineer and has found his niche in robotics. He is mostly a simulation guy, but also enjoys machining. I\u2019m trying to surprise him with a gift that he is not expecting. He never asks for anything and I think he deserves something that falls into his interests. If you guys have any ideas, please share! (Budget is $100-200)"
     },
     {
       "title": "Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:",
@@ -90,6 +90,17 @@
       "description": null
     },
     {
+      "title": "Pi0 worked for a entire day",
+      "author": "drgoldenpants",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdjp2c/pi0_worked_for_a_entire_day/",
+      "published": 1764803539.0,
+      "thumbnail": "https://external-preview.redd.it/OXE2azkweDdtMjVnMUDnGq3QNGwXnAWzx6NNgwjNH9GfBK1kx4uRQGpYEO_C.png?width=640&crop=smart&auto=webp&s=a287bc81dfb34bbc53da2244a9ebf2ead24bcce0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
+    },
+    {
       "title": "Optimus: Next-Generation Highly Flexible Hand",
       "author": "AlbatrossHummingbird",
       "url": "https://www.reddit.com/r/robotics/comments/1pde8o5/optimus_nextgeneration_highly_flexible_hand/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Robot Arm Item-Picking Demo in a Simulated Supermarket Scene",
-      "author": "Individual-Major-309",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdwivk/robot_arm_itempicking_demo_in_a_simulated/",
-      "published": 1764843661.0,
-      "thumbnail": "https://external-preview.redd.it/eXRmNXd5YXl3NTVnMYCv8PAXkGgCffkZ3mU3mCIn1fQ3PLGJd4AHR1j6dS6i.png?width=640&crop=smart&auto=webp&s=d95e093b93b6cf63e90427ce47e7edbaa7e3d828",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A short demo of an item-picking sequence inside a supermarket-style simulation environment. The robot\u2019s navigation in this clip is teleoperated (not autonomous), and the goal is mainly to show how the pick action and scene interactions behave under the current physics setup. For anyone working with manipulation or sim-based workflows, feedback is welcome on aspects such as: motion quality or controller behavior, grasp sequence setup, physics consistency, scene design considerations for similar tasks. Interested in hearing how others approach supermarket-style manipulation tasks in simulation. BGM: Zatplast"
     }
   ],
-  "fetched_at": "2025-12-05T02:56:30.162906+00:00"
+  "fetched_at": "2025-12-05T03:53:00.163542+00:00"
 }

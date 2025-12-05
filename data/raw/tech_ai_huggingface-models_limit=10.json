@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 135731,
-      "likes": 2073,
+      "likes": 2077,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-12-02T11:54:58.000Z",
@@ -24,7 +24,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V3.2.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png",
       "downloads": 8690,
-      "likes": 712,
+      "likes": 714,
       "pipeline_tag": "text-generation",
       "num_parameters": "685.4B",
       "last_modified": "2025-12-01T11:04:59.000Z",
@@ -69,7 +69,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/Nemotron-Orchestrator-8B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1613114437487-60262a8e0703121c822a80b6.png",
       "downloads": 2092,
-      "likes": 317,
+      "likes": 319,
       "pipeline_tag": "text-generation",
       "num_parameters": "8.2B",
       "last_modified": "2025-12-02T06:56:58.000Z",
@@ -84,7 +84,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/black-forest-labs/FLUX.2-dev.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/633f7a8f4be90e06da248e0f/m5YoF33abJ09vcwFxt1Mj.png",
       "downloads": 188613,
-      "likes": 885,
+      "likes": 886,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-27T11:17:09.000Z",
@@ -129,7 +129,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Comfy-Org/z_image_turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63462c815efccdc07f175568/3ZxGxVKftaTTjduryN7g7.png",
       "downloads": 1674013,
-      "likes": 355,
+      "likes": 356,
       "pipeline_tag": null,
       "num_parameters": null,
       "last_modified": "2025-11-27T04:15:24.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-12-05T02:56:36.086413+00:00"
+  "fetched_at": "2025-12-05T03:53:06.802664+00:00"
 }

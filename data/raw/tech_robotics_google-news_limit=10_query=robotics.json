@@ -35,16 +35,6 @@
       "description": "Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic."
     },
     {
-      "headline": "Richtech Robotics (RR) Is Up 22.0% After U.S. Robotics Push And New AI Partnership News",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QVjBsa2xqSHNETlhLMkdzZVMycXVtek5IVGRROTUtLW9TNi01UUZZanBsZTl3d2ZnTi1fUDJ0VjFaVG1DN0RsWVg1S2F4RFdyQjRHandfbTlrMUtTT25WSDFVajZqUFl5NEdSbWI2bFNXa3BZRllJdFBIbw?oc=5",
-      "pub_date": 1764850431.0,
-      "article_url": "https://finance.yahoo.com/news/richtech-robotics-rr-22-0-121351359.html",
-      "image": "https://media.zenfs.com/en/simply_wall_st__316/4afa9747177650711578ccd57242a6b7",
-      "description": "In recent days, reports that the Trump administration is preparing an executive order and broader initiatives to accelerate U.S. robotics development have put Richtech Robotics in the spotlight, alongside news of Commerce Secretary Howard Lutnick meeting with industry CEOs. Richtech Robotics also announced a collaboration with NomadGo to integrate AI into inventory management, highlighting how policy momentum and product innovation are converging around the company\u2019s automation..."
-    },
-    {
       "headline": "Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run",
       "source": "Investor's Business Daily",
       "source_url": "https://www.investors.com",
@@ -53,6 +43,16 @@
       "article_url": "https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Richtech Robotics (RR) Is Up 22.0% After U.S. Robotics Push And New AI Partnership News",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QVjBsa2xqSHNETlhLMkdzZVMycXVtek5IVGRROTUtLW9TNi01UUZZanBsZTl3d2ZnTi1fUDJ0VjFaVG1DN0RsWVg1S2F4RFdyQjRHandfbTlrMUtTT25WSDFVajZqUFl5NEdSbWI2bFNXa3BZRllJdFBIbw?oc=5",
+      "pub_date": 1764850431.0,
+      "article_url": "https://finance.yahoo.com/news/richtech-robotics-rr-22-0-121351359.html",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/4afa9747177650711578ccd57242a6b7",
+      "description": "In recent days, reports that the Trump administration is preparing an executive order and broader initiatives to accelerate U.S. robotics development have put Richtech Robotics in the spotlight, alongside news of Commerce Secretary Howard Lutnick meeting with industry CEOs. Richtech Robotics also announced a collaboration with NomadGo to integrate AI into inventory management, highlighting how policy momentum and product innovation are converging around the company\u2019s automation..."
     },
     {
       "headline": "Robotics Stocks Surged on Wednesday. Here's Why.",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T05:49:29.612660+00:00"
+  "fetched_at": "2025-12-05T06:45:19.073371+00:00"
 }

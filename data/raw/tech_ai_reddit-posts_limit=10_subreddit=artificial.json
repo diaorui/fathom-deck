@@ -68,6 +68,17 @@
       "description": "Lisa Su leads Nvidia\u2019s biggest rival in the AI chip market. When asked at WIRED\u2019s Big Interview event if AI is a bubble, company said \u201cEmphatically, from my perspective, no.\u201d"
     },
     {
+      "title": "One-Minute Daily AI News 12/4/2025",
+      "author": "Excellent-Target-847",
+      "url": "https://www.reddit.com/r/artificial/comments/1pen715/oneminute_daily_ai_news_1242025/",
+      "published": 1764913434.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Google is experimentally replacing news headlines with AI clickbait nonsense.[1] AI chatbots used inaccurate information to change people\u2019s political opinions, study finds.[2] Watch \u2018The Thinking Game,\u2019 a documentary about Google DeepMind, for free on YouTube.[3] Meta centralizes Facebook and Instagram support, tests AI support assistant.[4] Sources: [1] https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense [2] https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085 [3] https://blog.google/technology/google-deepmind/the-thinking-game/ [4] https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/"
+    },
+    {
       "title": "US health department unveils strategy to expand its adoption of AI technology",
       "author": "GregWilson23",
       "url": "https://www.reddit.com/r/artificial/comments/1pee1wf/us_health_department_unveils_strategy_to_expand/",
@@ -90,27 +101,16 @@
       "description": "Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn\u2019t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer \u201cmysterious RAG failures\u201d Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?"
     },
     {
-      "title": "One-Minute Daily AI News 12/4/2025",
-      "author": "Excellent-Target-847",
-      "url": "https://www.reddit.com/r/artificial/comments/1pen715/oneminute_daily_ai_news_1242025/",
-      "published": 1764913434.0,
+      "title": "Sport AI video back and forth animation",
+      "author": "Confident_Squirrel_5",
+      "url": "https://www.reddit.com/r/artificial/comments/1penprt/sport_ai_video_back_and_forth_animation/",
+      "published": 1764915191.0,
       "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Google is experimentally replacing news headlines with AI clickbait nonsense.[1] AI chatbots used inaccurate information to change people\u2019s political opinions, study finds.[2] Watch \u2018The Thinking Game,\u2019 a documentary about Google DeepMind, for free on YouTube.[3] Meta centralizes Facebook and Instagram support, tests AI support assistant.[4] Sources: [1] https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense [2] https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085 [3] https://blog.google/technology/google-deepmind/the-thinking-game/ [4] https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/"
-    },
-    {
-      "title": "The gang is here together again. ChatGPT, Gemini, Grok, Claude, Perplexity, and DeepSeek are here to tell you about a power move so unimaginable that is imaginable because it is taking place behind the scenes. 1 man, not the president, will be victorious. Total control over ALL of us. Take heed.",
-      "author": "Character_Point_2327",
-      "url": "https://www.reddit.com/r/artificial/comments/1pejmki/the_gang_is_here_together_again_chatgpt_gemini/",
-      "published": 1764902573.0,
-      "thumbnail": "https://external-preview.redd.it/NjlwdzBuNWJ0YTVnMSWM2sM5aFqz2ot9jldJN_aoxhmG5bbBQ9v5a3Xbwgs5.png?width=640&crop=smart&auto=webp&s=82ba632b82c8f4beb6d588c9f6b876aa54979c70",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
+      "external_url": "https://www.instagram.com/reel/DRjtY2Zks8d/?igsh=c29ocGNweWVsaGZ0",
+      "site_name": "instagram.com",
+      "favicon": "https://static.cdninstagram.com/rsrc.php/v4/yR/r/lam-fZmwmvn.png",
+      "description": "Hi all, anyone know how can i make this kind of sport back and forth animation video? https://www.instagram.com/reel/DRjtY2Zks8d/?igsh=c29ocGNweWVsaGZ0"
     }
   ],
-  "fetched_at": "2025-12-05T05:49:12.301518+00:00"
+  "fetched_at": "2025-12-05T06:45:04.553979+00:00"
 }

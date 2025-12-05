@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T06:00:23.920305+00:00'
+updated: '2025-12-05T06:45:28.260180+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 06:00 UTC  
+**Last Updated:** December 05, 2025 at 06:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.](https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/)**
 
-26m ago
+1h ago
 
 ---
 
@@ -56,7 +56,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
 
-9h ago
+10h ago
 
 ---
 
@@ -64,7 +64,21 @@ Marc Raibert talks about how robotics demos usually show only the polished succe
 
 Hi everyone, My husband is a mechanical engineer and has found his niche in robotics. He is mostly a simulation guy, but also enjoys machining. I’m trying to surprise him with a gift that he is not expecting. He never asks for anything and I think he deserves something that falls into his interests. If you guys have any ideas, please share! (Budget is $100-200)
 
-2h ago
+3h ago
+
+---
+
+**[A potentially highly efficient image and video tokenizer for LLMs/VLAs.](https://www.reddit.com/r/robotics/comments/1peo0w3/a_potentially_highly_efficient_image_and_video/)**
+
+Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I’m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I’m posting it here in case anyone finds it interesting or useful.
+
+14m ago
+
+---
+
+**[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
+
+19h ago
 
 ---
 
@@ -72,7 +86,7 @@ Hi everyone, My husband is a mechanical engineer and has found his niche in robo
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=NAcanWv_2Z8) • 15m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=NAcanWv_2Z8) • 1h ago
 
 ---
 
@@ -80,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hello redditors, I am robotics engineer visiting China for the first time trying to meet vendors for parts procurement and also I want to use this time to meet and explore other vendors. I would be visiting Beijing, Guangdong, Shanghai and Shenzhen. Also let me know if I should meet any other company in any other area. I have worked on quadrupeds, drones, manipulators, mobile robots, underwater robots, iot, AI/ML for robotics and Reinforcement Learning Thanks in advance
 
-36m ago
+1h ago
 
 ---
 
@@ -88,21 +102,7 @@ Hello redditors, I am robotics engineer visiting China for the first time trying
 
 Hello redditors, I am robotics engineer visiting China for the first time trying to meet vendors for parts procurement and also I want to use this time to meet and explore other vendors. I would be visiting Beijing, Guangdong, Shanghai and Shenzhen. Also let me know if I should meet any other company in any other area. I have worked on quadrupeds, drones, manipulators, mobile robots, underwater robots, iot, AI/ML for robotics and Reinforcement Learning Thanks in advance
 
-36m ago
-
----
-
-**[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
-
-18h ago
-
----
-
-**[Unpacking 6 vintage Unimate PUMA robots](https://www.reddit.com/r/robotics/comments/1pegubw/unpacking_6_vintage_unimate_puma_robots/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=cqLFY9FmWqk) • 5h ago
+1h ago
 
 ---
 
@@ -128,7 +128,13 @@ IEEE Spectrum • 2d ago
 
 Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
 
-CBS News • 8h ago
+CBS News • 9h ago
+
+---
+
+**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
+
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -136,13 +142,7 @@ CBS News • 8h ago
 
 In recent days, reports that the Trump administration is preparing an executive order and broader initiatives to accelerate U.S. robotics development have put Richtech Robotics in the spotlight, alongside news of Commerce Secretary Howard Lutnick meeting with industry CEOs. Richtech Robotics also announced a collaboration with NomadGo to integrate AI into inventory management, highlighting how policy momentum and product innovation are converging around the company’s automation...
 
-Yahoo Finance • 17h ago
-
----
-
-**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
-
-Investor's Business Daily • 8h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -254,7 +254,7 @@ Pure-play robotics stock Symbotic (SYM) has had a wild ride in 2025, soaring to 
 
 📺 Chip Stock Investor
 
-👁️ 2K • 👍 131 • 💬 3 • ⏱️ 14:23 • 14h ago
+👁️ 2K • 👍 131 • 💬 3 • ⏱️ 14:23 • 15h ago
 
 ---
 
@@ -282,7 +282,7 @@ Go Anywhere, Do anything, For everyone : MobED Learn more ...
 
 📺 Sydney McKenna
 
-👁️ 9K • 👍 903 • 💬 82 • ⏱️ 1:00 • 14h ago
+👁️ 9K • 👍 903 • 💬 82 • ⏱️ 1:00 • 15h ago
 
 ---
 

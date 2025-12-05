@@ -25,16 +25,6 @@
       "description": "Ethereum underwent its second major upgrade of the year on Wednesday. The upgrade, Fusaka, further reduces the cost of transactions on layer 2 blockchains. A minor upgrade will follow on December 9."
     },
     {
-      "headline": "ChatGPT Thinks Ethereum Will Close At This Level By The End of 2025",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHNLZ2VNWDVGOG5NcFI3QWJ4bTJ4dzl4MXpyQTk0UHBRdmpidjF0Ql9DU2t0YWdDOVhBNFBVcTdGRDB2X2hvbmdCM1VESUlSWklNcnFSbzkxT0pFTnVlSEVXSElvTlc5OG1YWU42a2tWbVJKVVJTR3dsRFc0dEZUMkpETDZlVFlx?oc=5",
-      "pub_date": 1764875908.0,
-      "article_url": "https://finance.yahoo.com/news/chatgpt-thinks-ethereum-close-level-191828479.html",
-      "image": "https://media.zenfs.com/en/benzinga_79/cd8f7f3516e5885b4127b690baf2b5d1",
-      "description": "Ethereum is starting December in Bitcoin's shadow. The token is selling off with the rest of crypto but holding key support zones as traders wait for signs of stabilization in risk assets. It has lagged Bitcoin on the way up this cycle, giving the ..."
-    },
-    {
       "headline": "Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum",
       "source": "dlnews.com",
       "source_url": "https://www.dlnews.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
       "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
+    },
+    {
+      "headline": "While Ethereum whales rotate, XRP data shows a fatal concentration flaw that leaves one group holding the bag.",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQU1yWmF4R3ZRVEREbUpmMlNuSEl1YVFUa09RNmRQTnhOLUVUaE5oT2ZmNWo0TWN4VUJlTHdGWGdtZm1sLUtPVFc0MTZuZHJxeE50aTIwWVZFZFZ1UFBCRWJXUlhDUlFmMS1YZGdjdEM?oc=5",
+      "pub_date": 1764779700.0,
+      "article_url": "https://cryptoslate.com/ethereum-xrp-whales-concentration-risk/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2025/12/ethereum-xrp-whale.jpg",
+      "description": "We quantify how much old supply just moved and why now."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T05:49:28.303996+00:00"
+  "fetched_at": "2025-12-05T06:45:17.545158+00:00"
 }

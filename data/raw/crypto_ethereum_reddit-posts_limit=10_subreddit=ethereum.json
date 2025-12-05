@@ -13,6 +13,17 @@
       "description": "Trump crypto empire falls faster than bitcoin"
     },
     {
+      "title": "Daily General Discussion December 05, 2025",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1penica/daily_general_discussion_december_05_2025/",
+      "published": 1764914472.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
+    },
+    {
       "title": "Highlights from the All Core Developers Execution (ACDE) Call #225",
       "author": "Y_K_C_",
       "url": "https://www.reddit.com/r/ethereum/comments/1pego5o/highlights_from_the_all_core_developers_execution/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Our membership has concluded its latest quarterly audit of funded members as of Nov 19 2025. This 14th consecutive update reaffirms our institution\u2019s consistency and ability to self-regulate. The member registry now includes a number of new contributor accounts as well as new alumni, and weight changes; creating a representative body of the developers and maintainers who work on client implementations, research, and upgrade delivery. Protocol Guild\u2019s membership is now 184, with a net increase of 8 (+4.5%) members from 176 of last quarter. This quarter, the membership update was processed onchain via Protocol Guild\u2019s new Agora-based DAO contracts. Readers will find a comprehensive list of the changeset below. Working Groups Added: zkEVM Working Group #400 Read more at blog post here Removed: Portal Working Group #423 New Members (23 total) Working Group New Members Lighthouse Josh King #420 Prysm Bastin #416, Chris Karabats #429 zkEVM Thomas Coratger #444, Cody #440, Sophia #439, TingHan Jian #438 P2P Ra\u00fal Kripalani #428, Marco Munizaga #425 Reth Roman Hodul\u00e1k #426 Nethermind Marcos Maceo (part-time) #422, Maksim Menshikov #410 Testing Carson #390, Felix Hoffmann #406 Specs & Coordination Marc Garreau #408, Nixo #407 Statelessness Wei Han Ng #404, Carlos Perez #401 Mechanism Design Maria Silva #399 Security Antoine James #395, Yassine Ferhane #397 Prototyping Jihoon Song #392 New Alumni Members (14 Total) Protocol Guild members who move on to other work are considered \u2018Alumni\u2019 at the conclusion of their membership. We are grateful for their stewarding contributions to the world computer over the years and wish them well. Working Group New Alumni Architecture Dankrad #446 Lighthouse Paul Hauner #419, Mehdi #418, Adrian #417 Prysm Taran #445, Raul Jordan #412 Portal Piper #423 Reth Roman Krasiuk #402 Cryptography Mark Simkin #441 Prototyping shemnon #393 Mechanism Design Davide Crapis #398 EthereumJS am1r021 #437 DAS Dmitriy Ryajov #414, Leonardo Bautista-Gomez #405 Weight & Status Changes (9 Total) Change Type Updates Weight Increases Shoham Chakraborty (Erigon): 0.5 \u2192 1 #433, Marc Holt (Erigon): 0.5 \u2192 1 #432, Marc Harvey-Hill (Nethermind): 0.5 \u2192 1 #421, Artiom: 0.5 \u2192 1 #403 Weight Decreases Federico Gimenez: 1 \u2192 0.5 #430, Alexey Shekhirin: 1 \u2192 0.5 #427, Ayman Bouchareb: 1 \u2192 0.5 #394, Damian Orzechowski: 1 \u2192 0.5 #409, Scottypoi: 1 \u2192 0.5 #431 Affiliation Updates Moved Pawe\u0142 Bylica to Erigon #389 The next audit will begin in January 2026 and should be fully reflected in our active membership by mid-February."
-    },
-    {
-      "title": "EIP-7918 in Fusaka: 3 reasons and 1 trick",
-      "author": "AElowsson",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pd22ch/eip7918_in_fusaka_3_reasons_and_1_trick/",
-      "published": 1764762452.0,
-      "thumbnail": "https://external-preview.redd.it/IowdQowt3HjVc2_v7hjaoxOtWACbeO7t7eNBcXnNun0.jpeg?width=640&crop=smart&auto=webp&s=52a3a1ec89b6aac1fc5fa96fbc775c1141dc660d",
-      "external_url": "https://notes.ethereum.org/@anderselowsson/EIP-7918-3-reasons-1-trick",
-      "site_name": "HackMD",
-      "favicon": "https://notes.ethereum.org/apple-touch-icon.png",
-      "description": "# EIP-7918 in Fusaka: 3 reasons and 1 trick  Tonight, Fusaka goes live and Ethereum updates its blob"
     }
   ],
-  "fetched_at": "2025-12-05T05:49:14.761411+00:00"
+  "fetched_at": "2025-12-05T06:45:04.227749+00:00"
 }

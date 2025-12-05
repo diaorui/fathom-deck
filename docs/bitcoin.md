@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T06:00:23.911998+00:00'
+updated: '2025-12-05T06:45:28.250888+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 06:00 UTC  
+**Last Updated:** December 05, 2025 at 06:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +1.3%  
-**30d:** -9.2%  
-**90d:** -17.4%  
-**1y:** -7.7%  
+**24h:** -1.6%  
+**7d:** +1.1%  
+**30d:** -9.4%  
+**90d:** -17.6%  
+**1y:** -7.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1836.65B
+**Market Cap:** $1837.46B
 Rank #1
 
 **Circulating Supply:** 19,957,765 BTC
@@ -64,7 +64,7 @@ Rank #1
 -27.0%
 
 **All-Time Low:** $67.81
-+135589.4%
++135720.7%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[We have no idea how bad things have really gotten.](https://www.reddit.com/r/Bitcoin/comments/1pebeih/we_have_no_idea_how_bad_things_have_really_gotten/)**
-
-9h ago
-
----
-
 **[The Struggle….](https://www.reddit.com/r/Bitcoin/comments/1peipkt/the_struggle/)**
 
 Im only up 3000% now
 
 4h ago
+
+---
+
+**[We have no idea how bad things have really gotten.](https://www.reddit.com/r/Bitcoin/comments/1pebeih/we_have_no_idea_how_bad_things_have_really_gotten/)**
+
+9h ago
 
 ---
 
@@ -101,13 +101,19 @@ Im only up 3000% now
 
 **[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
 
-5h ago
+6h ago
 
 ---
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-12h ago
+13h ago
+
+---
+
+**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
+
+3h ago
 
 ---
 
@@ -121,13 +127,7 @@ Im only up 3000% now
 
 Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our entire crypto journey wouldn’t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. 🚀
 
-13h ago
-
----
-
-**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
-
-2h ago
+14h ago
 
 ---
 
@@ -135,19 +135,35 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 .2 next, just wanted to share with someone
 
-7h ago
+8h ago
 
 ---
 
-**[hahahah](https://www.reddit.com/r/Bitcoin/comments/1pee88f/hahahah/)**
+**[Senators buying the dip on BTC](https://www.reddit.com/r/Bitcoin/comments/1pem50a/senators_buying_the_dip_on_btc/)**
 
-7h ago
+Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
+
+1h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+
+In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+
+CNBC • 19h ago
+
+---
+
+**[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
+
+The Economist • 20h ago
+
+---
 
 **[Bitcoin (BTC) Price News: Bulls Face Key Test at $93K](https://www.coindesk.com/markets/2025/12/03/crypto-rally-stumbles-bitcoin-slips-back-to-usd92k-as-microsoft-lowers-ai-sales-goals)**
 
@@ -157,39 +173,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Crypto Price News: XRP, HBAR, ZEC Lead Thursday Decline, but Alts Could be Poised for Rally](https://www.coindesk.com/daybook-us/2025/12/04/bitcoin-could-continue-chopping-below-usd95k-into-year-end-as-altcoins-may-outperform-analyst-says)**
+**[Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward](https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/)**
 
-Low-liquidity in December may cap bitcoin's recovery rally, but rangebound trading for the largest crypto could benefit smaller digital assets, Wincent's Paul Howard said.
+Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-CoinDesk • 9h ago
+cheddar.com • 9h ago
 
 ---
 
-**[BTC, XRP, ETH, SOL News: Here's How Friday's Inflation Report Could Move Prices](https://www.coindesk.com/markets/2025/12/05/here-s-how-much-btc-eth-sol-xrp-may-move-on-friday-s-inflation-report)**
+**[Here's How Much Bitcoin, XRP, Ether, Solana May Move on Friday's Inflation Report](https://finance.yahoo.com/news/heres-much-bitcoin-xrp-ether-040015107.html)**
 
 A softer inflation report could lower the 10-year Treasury yield and support cryptocurrencies.
 
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
-
-The Economist • 19h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Precious Metals Soar, Bitcoin Stalls as Investors Hedge Fed 'Policy Error'](https://finance.yahoo.com/news/precious-metals-soar-bitcoin-stalls-044342663.html)**
 
 Markets are hedging a Fed misstep, driving gold and silver higher while Bitcoin lags as traders reassess risk.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Asia Market Open: Bitcoin Holds Near $92k, Equities Slip On Fresh Economic Signals](https://finance.yahoo.com/news/asia-market-open-bitcoin-holds-034238305.html)**
-
-Bitcoin held just under $92,000 on Friday as traders weighed a heavy mix of labour data, central bank bets and choppy equity markets in Asia, Europe and the US.Akshat Siddhant, lead quant analyst at Mudrex, said the crypto market continues to display strong resilience. “Renewed whale accumulation is supporting the ...
 
 Yahoo Finance • 2h ago
 
@@ -201,9 +203,15 @@ The New York Times • 1d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeMY34zpD03d2tNvxv9AKAbNNMYGM9IT-IgoR74oWAPKCQRqkwXOCuh&gaa_ts=693275db&gaa_sig=qi9fzIqQhWcSpyNbtUxi1ysWq4EQgELjcHaN4MMdomM8rZdbo4wk0mHbtc7ckF2ux05pwPwYCUEtTTVcbiy9cw%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqemApEMCsK2_KyZsVZoG0ZkABwckkT7mf_87PmTpLpswSa7gQWBSThQ&gaa_ts=693282f2&gaa_sig=xcWuxtBuOQovxK4HObBnbS0Ctm-7T9XV4sIaPlbGB4elwnJc02mVePPhcNDsH0k9RBwQiuREu9CkaQ95mrJD5A%3D%3D)**
 
-MarketWatch • 9h ago
+MarketWatch • 10h ago
+
+---
+
+**[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
+
+The Block • 8h ago
 
 ---
 
@@ -211,13 +219,7 @@ MarketWatch • 9h ago
 
 BlackRock’s ETF now owns 3.9% of all existing Bitcoin, more than Strategy.
 
-Fortune • 17h ago
-
----
-
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqe9NuVTvzxXYmNlBXGn9j_QepOkyQL44UVMi9ZDAfjkROrQiq4B6zo5&gaa_ts=693275db&gaa_sig=F3gCqkqT5qEI5ncqcS0BoD3TSTOk_JUU1yW5RG3u5lmVVo-07ivbMwRVFkDBLzvWN1E_rbaynD_A0jj3LomB9g%3D%3D)**
-
-The Wall Street Journal • 2d ago
+Fortune • 18h ago
 
 ---
 
@@ -237,7 +239,7 @@ The Wall Street Journal • 2d ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 16h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 17h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -293,7 +295,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol](https://news.ycombinator.com/item?id=46149605)**
 
-⬆️ 1 • 💬 0 • 13h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
+⬆️ 1 • 💬 0 • 14h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
 
 ---
 
@@ -307,7 +309,7 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 13K • 👍 580 • 💬 1 • ⏱️ 28:20 • 7h ago
+👁️ 13K • 👍 580 • 💬 1 • ⏱️ 28:20 • 8h ago
 
 ---
 
@@ -337,7 +339,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 251 • ⏱️ 47:51 • 14h ago
+👁️ 28K • 👍 1K • 💬 251 • ⏱️ 47:51 • 15h ago
 
 ---
 
@@ -347,7 +349,7 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 45 • ⏱️ 10:24 • 19h ago
+👁️ 22K • 👍 3K • 💬 45 • ⏱️ 10:24 • 20h ago
 
 ---
 
@@ -397,7 +399,7 @@ Tom Lee just made one of his strongest Ethereum claims yet. He argues that ETH i
 
 📺 Mikhail
 
-👁️ 268 • 👍 7 • ⏱️ 1:13 • 3h ago
+👁️ 268 • 👍 7 • ⏱️ 1:13 • 4h ago
 
 ---
 

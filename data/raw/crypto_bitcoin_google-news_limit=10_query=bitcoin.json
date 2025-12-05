@@ -5,34 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin (BTC) Price News: Bulls Face Key Test at $93K",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUFtUUZPZXBvR0FxYTh4aTRaR1YxcWxvRHJGLU1YcWdoZ1dqaDhZVTE1OWhxMnZaWkNYR21aMXNOYzRZeFlhai1Zc1FXYUswTjkweWpsdWxVRmpIQmlqNjVVUkZfdEQwZ2wzb3M5V1ViSmg5MWkwbzdvU0ZXY29wTGhXMUVmMG9WQ3NUbExJbmVUYmU5Q2E5Unhxc0h5MTNWd3hxMWd6NnRfTXV0WU1qWk1wM2ljRmhZSGhPVm5yRktBMFc2RkI0Ug?oc=5",
-      "pub_date": 1764800467.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/03/crypto-rally-stumbles-bitcoin-slips-back-to-usd92k-as-microsoft-lowers-ai-sales-goals",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/600ea7deef0c237a3e3a263759c0ab9719f15643-2246x1188.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Bitcoin shot up 10% in two days, but it's stalling at around the 2025 yearly open."
-    },
-    {
-      "headline": "Crypto Price News: XRP, HBAR, ZEC Lead Thursday Decline, but Alts Could be Poised for Rally",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMDQyQmZqbmViLUN4MjlvTEY1VTBQYkE0QkxYb3hGS0NEMWs3SWY5YXJIRWNma1UyWkhTUnlwZ2JkS0gxSmRvWTVHYTR5NDNEbUM5cE1FeWhjZnc5SWlkeEhia3BoUlo0QlRaSHZmZmhrZGZBeUxpeUttdUQzX3J0NTdsVXUwX0lHbE85cW9MRVV1UTFCZTNmZi1IMG5XTTdkdlVUU19CS20yNzV6aFBldVZpVHVRUDdxcXdVNWRZemdiNWhqZFZXNmR5b2pqOHMzd0doMVRVZ1VWUlg3NHc?oc=5",
-      "pub_date": 1764879710.0,
-      "article_url": "https://www.coindesk.com/daybook-us/2025/12/04/bitcoin-could-continue-chopping-below-usd95k-into-year-end-as-altcoins-may-outperform-analyst-says",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bdc7f7ab7995629743b070ea2b58270464a9b0f-700x430.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Low-liquidity in December may cap bitcoin's recovery rally, but rangebound trading for the largest crypto could benefit smaller digital assets, Wincent's Paul Howard said."
-    },
-    {
-      "headline": "BTC, XRP, ETH, SOL News: Here's How Friday's Inflation Report Could Move Prices",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODhEd0h6b2pza3diYnRwNkZzLTF3RWJlRHVNWXlwa3NNNDRQNUlHVTZVZWd5eEx2Zkw0VkdQN2dHN1JVcW9oMDFLTUQzbU5TVTZ3YmlvSzdLeGpjUFF1VXdRTFVuT1Uta0RTRGpjb1JwVURVTWtQR3lieHVmT3dyWEZOU3FKcFJiS3E1X0hkdTJPRWtuNkdhTnVyRFBWZlVuYllLQzVpbUVmU2tiR092YVpGQQ?oc=5",
-      "pub_date": 1764907480.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/05/here-s-how-much-btc-eth-sol-xrp-may-move-on-friday-s-inflation-report",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d3b45a6718d1df12fd221c20554ddf6517960d5e-1280x958.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "A softer inflation report could lower the 10-year Treasury yield and support cryptocurrencies."
+      "headline": "Bitcoin is down nearly 30% from its record high \u2014 history shows that's normal",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEJ2RTlPdVN0dFI0OHdRNnNXVHNoM0lOYnhEcEhwZzhBaFVJVUZoemNMQTlGd0FRQUthRUg3R1A2Qk9hUjF2YjQ3QkhnTnZlWmQzUkI3VzlwZUtuaVRwODNVRHdtZGJ4MHI0RjFuU3h4eU1CakdWRXZKZWZhQTk4cEs5WnhhZ0VpcHNEMDRuY2tkc2RNZmtYeW5CU1hSNjd5UWx6WFpnZmJxNDRYYlJ30gG0AUFVX3lxTE96c3dMRGlhdDBZUlZsaUxjbExCeFpJcDFLVmxzQVRKWjltRU41YWNZenA2cGVwaHEyMXJha3AySjVod1BpMG1QN1V5Tzd4cWlnejZSNVpJOGN3Y1M2bVQ3dnVDQjh2OGQ2TUprR21PR0x3X2MxS0FGZkVoVXY1RDdhTXd2N3M2T1VQMTVMZ0RrT0tJQUhKRGtzWjFkYnQ4TWxJc3hNUmxMN1pTUVc0WmhsVXdGaA?oc=5",
+      "pub_date": 1764847662.0,
+      "article_url": "https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108235234-1764690993224-gettyimages-2247341381-AFP_84UC93G.jpeg?v=1764691074&w=1920&h=1080",
+      "description": "In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger."
     },
     {
       "headline": "Bitcoin has plunged. Strategy Inc is an early victim",
@@ -45,6 +25,36 @@
       "description": null
     },
     {
+      "headline": "Bitcoin (BTC) Price News: Bulls Face Key Test at $93K",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUFtUUZPZXBvR0FxYTh4aTRaR1YxcWxvRHJGLU1YcWdoZ1dqaDhZVTE1OWhxMnZaWkNYR21aMXNOYzRZeFlhai1Zc1FXYUswTjkweWpsdWxVRmpIQmlqNjVVUkZfdEQwZ2wzb3M5V1ViSmg5MWkwbzdvU0ZXY29wTGhXMUVmMG9WQ3NUbExJbmVUYmU5Q2E5Unhxc0h5MTNWd3hxMWd6NnRfTXV0WU1qWk1wM2ljRmhZSGhPVm5yRktBMFc2RkI0Ug?oc=5",
+      "pub_date": 1764800467.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/03/crypto-rally-stumbles-bitcoin-slips-back-to-usd92k-as-microsoft-lowers-ai-sales-goals",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/600ea7deef0c237a3e3a263759c0ab9719f15643-2246x1188.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Bitcoin shot up 10% in two days, but it's stalling at around the 2025 yearly open."
+    },
+    {
+      "headline": "Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward",
+      "source": "cheddar.com",
+      "source_url": "https://www.cheddar.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTVmU0xYbUpQR2ZuTkJmUW5laWVVTzNRWmROaV90N1pKWDM2NzVGU3QwM2pCMHkzbU1kQnNuei1xSHVtVzBicTd4YlZxR3FhaDhBcmRZZzBQeWdUbnd4M0pwcml5UVI5ZFRTVDAyT2Via2xNYm1wTDJCSk13LUkwdkxmeWpmaVdfS0lkUndVWDYxZndVbmFSbHZtZ291N0dMVmJPMDVSdnVWM3RZR1RF?oc=5",
+      "pub_date": 1764882090.0,
+      "article_url": "https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/",
+      "image": "https://www.armytimes.com/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F12-04-2025%2Ft_45411740f6d845718216e5084da325ac_name_GettyImages_1949242392.jpg?width=1200&auth=739acda4878c2a3de6385a8d35c657cd02961264fe44edcf5adbab972b158712",
+      "description": "Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market."
+    },
+    {
+      "headline": "Here's How Much Bitcoin, XRP, Ether, Solana May Move on Friday's Inflation Report",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40bW9Obmk4cDd3a2FuUmx2VFR4U2p1OTQyM1dPSWpKd1FxSHg4YXZfLTB1TThoc2FXczY2RHROYklzY09OVEN3aVhIQVhiUXVwNU85aGJlUXFrUmdZdWZEMEFiVlhKRHh4OUNGWDBrNE5QSHRqc3cza044X2hhcFk?oc=5",
+      "pub_date": 1764907200.0,
+      "article_url": "https://finance.yahoo.com/news/heres-much-bitcoin-xrp-ether-040015107.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/w.29KNJAPYAkfo6iEkK9sg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTg-/https://media.zenfs.com/en/coindesk_75/7a694d3d9a94d9bffd41cfc207fe9bed",
+      "description": "A softer inflation report could lower the 10-year Treasury yield and support cryptocurrencies."
+    },
+    {
       "headline": "Precious Metals Soar, Bitcoin Stalls as Investors Hedge Fed 'Policy Error'",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -53,16 +63,6 @@
       "article_url": "https://finance.yahoo.com/news/precious-metals-soar-bitcoin-stalls-044342663.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/710gqGOP3W_u08eL8nSSpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/8edaf2009242d47dae70b110dcfcd648",
       "description": "Markets are hedging a Fed misstep, driving gold and silver higher while Bitcoin lags as traders reassess risk."
-    },
-    {
-      "headline": "Asia Market Open: Bitcoin Holds Near $92k, Equities Slip On Fresh Economic Signals",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdl9DajdtVllXZXZrbkU5cktiTG1oZ2tkaW1iZTg0U0VNejBxR3lMalRwWFN0MFk4OFBSdmZhM0hVd1J5UnZQTWJ0QlkxeUxYSEdaY0d6OWExeE9UbGh6d1g0SnJVSFVfaGE5TEd6VU1Ta19pWGNVRDFhaWRPRDBuTUVB?oc=5",
-      "pub_date": 1764906120.0,
-      "article_url": "https://finance.yahoo.com/news/asia-market-open-bitcoin-holds-034238305.html",
-      "image": "https://media.zenfs.com/en/cryptonews_us_711/9e5972d99445de9a2a66d24e7d6fc3ae",
-      "description": "Bitcoin held just under $92,000 on Friday as traders weighed a heavy mix of labour data, central bank bets and choppy equity markets in Asia, Europe and the US.Akshat Siddhant, lead quant analyst at Mudrex, said the crypto market continues to display strong resilience. \u201cRenewed whale accumulation is supporting the ..."
     },
     {
       "headline": "Bitcoin\u2019s Predicted Sky-High Prices Have Not Panned Out",
@@ -78,9 +78,19 @@
       "headline": "With bitcoin down to around $92,000, should you rethink how much crypto to own? Here\u2019s what experts say.",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNTVpld3pGakJMMzUzaVVXZ3N2N0dpdHpuUFNXMzNaOFhWbWpWbTh2VlE4eXVETHIzeGRYNWVGZmFaZ2hFWXk3Wk1STGZBVEo2VU5DajROWlV3WllvYXcxNXBDZUpIbWZGWkxyWHlNR0gyd3AyYnpYaXl5MFMtSGFtY2tPSllyZUl6VXhycUVVcENkVTJkcjRXWnRuMEFiYjEybnFNZldhVW1EZ0pYa1IwU1VZekZhaDhpTzh0cTdfZTZiMmZjd0MwellnR2lLbTFSbUZoM2pSa3U0SUdfcDBXMk9lRGtSUXQzSGZDX0c5ZEYxUXE5SVJvbGo1djBuQVlGbVZ1Rzh5cVlIN2NEVktUVGlvZ2k0eXBBMFVlNHhyMUhwa1VMcEptWFZaMGszV0hiYVdCVjMyU1dYOF9oZkZvbUZvdWZYNi1UM25fejAtZFdteFM5YUstSkNBT0FoRERyblczOUVJZGZTbkR0TTFNWFBmWTVibEp0UjZWY3Y5REh4NWtzQ2RNaGgxdkRrQ29sVktBRGtjQW1EaVI5VTVsNjM0Y3FSSVFCQmVJZ3I1QnpTTEdXM2VvLTI0a0E3Z1FydEJUYVNZMTEweEZ3cko1S2RQUjc0Zl9EQVdMUWVhQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPdzhxUVNBQmd6RFNWY2VCeEpHelNNMS02Mk9RSXZJd2xwVm5HN2RIVG5iaktKY3lxM000ZHM2bWFUNTYyQ1FTLVlFUTBKMTBScnBJc05wMzF0YmlBaXgyS3pIN0pPenlyLXAzWUZnMlZaVjdDNDRQUkZQdG9OS25hNm40cDFlanB4TDVfdUxtaDZsYnpnSVkwYjNNa3F2Q1lIZ2dkWndhcFdnTUZfWGhNZHE5d0JSWExIRjgyT0N0R21XZnJ6dTFreU00Nnd1ZXpIQlZzWmptamE5UXc5RmJYTzMzbm94d2lUQ2huaEd4YmJGZWNPa29jRUhjRnBJQ3BXOE9CdjB4bXdnckpuRE9wLWdOdlZNdTAxTmpDWk1paWFyUU5mRzdHcF9uSHVuTXZqV3lINHNXc0wxQzNZZHpTQkxKRThsY3BOWDVrTXFFWmJMLTk1Nks0NnRQOUh1NDltNkRWLTh1dE1hbGtpM0hCR3lHWTBhNVVmYkZxdFZnMEtlZ3ZiR012NXNyRWtCV2kxanA3aFpHMV9VSWpsc1ZDQXRrMk1ZdUJZR09XWlJyeGYyNWZiRk9FVDhkdi15dVV2VmtZY1ZqaTR4eC1jTVVEVTV5SXFSMHlLNmtaeTl3NA?oc=5",
       "pub_date": 1764880980.0,
-      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeMY34zpD03d2tNvxv9AKAbNNMYGM9IT-IgoR74oWAPKCQRqkwXOCuh&gaa_ts=693275db&gaa_sig=qi9fzIqQhWcSpyNbtUxi1ysWq4EQgELjcHaN4MMdomM8rZdbo4wk0mHbtc7ckF2ux05pwPwYCUEtTTVcbiy9cw%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqemApEMCsK2_KyZsVZoG0ZkABwckkT7mf_87PmTpLpswSa7gQWBSThQ&gaa_ts=693282f2&gaa_sig=xcWuxtBuOQovxK4HObBnbS0Ctm-7T9XV4sIaPlbGB4elwnJc02mVePPhcNDsH0k9RBwQiuREu9CkaQ95mrJD5A%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEJSRlhXeVdoYkRhVWhZdDgteEotcnZSOEtrV0JXQm1yS1pncm5wcXhRUFl5OE5teU9rOThFbl9kcnpBWUROWUkybWhZNi1MTGNrZjVBb0RwS2d5bnprczRHZWNneUxyeXZTcm5kbjJDczI2amktaWJQd0NyYVFrNdIBhgFBVV95cUxQQUttN09oLTFsOW55aTgtbEEtNHhsOE41d2Jxb2Y3T3RCdjZzUnRHTllkanJmRnEyZ0ZFM2JTVEFQeWVxYk5BcWdocnM0VnU3akNyaU9Jd0xqVjFZTXE1bzJBTlpWZGhDVlY2Vi1nMWhKRklWaGNVRkpYblNqa1ZfX3JXdzFuUQ?oc=5",
+      "pub_date": 1764887976.0,
+      "article_url": "https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook",
       "image": null,
       "description": null
     },
@@ -93,18 +103,8 @@
       "article_url": "https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-1491618289-e1739538790764.jpg?resize=1200,600",
       "description": "BlackRock\u2019s ETF now owns 3.9% of all existing Bitcoin, more than Strategy."
-    },
-    {
-      "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOakZvYzg0b3BRZGFsNjFicWo0QjNfaTZ4Nk95WUQtMkxKUFdzVlNrdFdUSmQ3SUVjMDEwVHJSdXZwYWZ3LWNFUFN3OXY0d29Cc2JGdmstcWxGODhlTzNfZFBIQmhVcmtxcHBSQ2JzYUhpbkhZODNsNkV6dVVzcXBLQ1NXeDAzLTdxYlY0YURNbndIMEt6SV9wWjJkclkzaW1jcl80VFhwYXZaOEFtMXJZRGdYZXRUR1VSZl91UjFRYkVqQVFjQ3E1b01oNzZtREhCQnVVTmwzN1N6Q01XaDNGN1ROamp4MzJLaFM2b21SNERQdTlTZGJXYURJeVdGUkp3cUsyeHREa3NnelgwY2RmRENMeGdZWmw5RUp3UDF2M2FqeDZVbjV2alFfSnFYUWpwcXNibVZxM1NHVWlPVVhUdVgwSzliX1dHU3hfdjNCaVA0ZXM3Umt3Rm8zUHY5LTlGeHFQMWJRX05PandhTGpiVkJ2OEpzNXE4Uk43cGNoN0IySG1ZQ3JhU2J1WnhTRDhySzhpY3c4bkp4dUZuSTZoMThGUTFNQk5CMDRN?oc=5",
-      "pub_date": 1764716700.0,
-      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqe9NuVTvzxXYmNlBXGn9j_QepOkyQL44UVMi9ZDAfjkROrQiq4B6zo5&gaa_ts=693275db&gaa_sig=F3gCqkqT5qEI5ncqcS0BoD3TSTOk_JUU1yW5RG3u5lmVVo-07ivbMwRVFkDBLzvWN1E_rbaynD_A0jj3LomB9g%3D%3D",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T05:49:40.743151+00:00"
+  "fetched_at": "2025-12-05T06:45:26.262244+00:00"
 }

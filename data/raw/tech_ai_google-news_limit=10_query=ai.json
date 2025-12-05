@@ -15,14 +15,24 @@
       "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
     },
     {
-      "headline": "How AI is rewiring childhood",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEODhlSTI5VGZ6amg1clNjeDRwTWQ3RDFXWGFtWW9DYXlNRGN3b25UdE0xSko2aktmRWJqSTY2SzlQM1ZBY2RpMWpObkhzZTdHMkVwVjRuazVmQjJ0ZjNyOXdBLVJIRGlxeG1jWUhyS3AwX3B4ekJkdFpER0YxQQ?oc=5",
-      "pub_date": 1764847921.0,
-      "article_url": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
-      "image": null,
-      "description": null
+      "headline": "The AI boom is heralding a new gold rush in the American west",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBneVRydDFuam1rcEpvX2YxN25wM181dENRS1dwdE96Xzdja1g5aC1saUh5S3lwSGhOc0JLdy13SG91UVhseWhPSEJSSjY3b0trZ3lxd19UelBwclNOVmNfZ1NQM25vRGtRS2gxUVlUak9taTRhOU9JTkJKRkpfUQ?oc=5",
+      "pub_date": 1764879780.0,
+      "article_url": "https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers",
+      "image": "https://i.guim.co.uk/img/media/98b1dc3ef8182910c8dc25f71f49cdb364619a90/426_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3038117c30becf03294ba8e66858bb5",
+      "description": "Once home to gold and prospectors, the Nevada desert is now the site of a new kind of expansion: tech datacenters"
+    },
+    {
+      "headline": "England World Cup draw: Could AI help Thomas Tuchel win 2026 tournament?",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaanBmN1E1RmpXcHl6amQzR0o3SmFPa0lRM1BBUmM0MExrazF2WGh5aGdKYjBTUUN3LUJRT3BxZVByQzViSUdHc3NacXpZdVJPM3R3WWZKU2VWaFo5dEdNUGdnekVsdW8?oc=5",
+      "pub_date": 1764915468.0,
+      "article_url": "https://www.bbc.com/sport/football/articles/cj0e7y754zpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7acb/live/712184c0-ca4d-11f0-8c06-f5d460985095.jpg",
+      "description": "BBC Sport hears from inside the England setup about how artificial intelligence is powering plans for next summer's World Cup."
     },
     {
       "headline": "On Pope Leo\u2019s Visit to Lebanon and Turkey, A.I. Was a Frequent Concern",
@@ -35,54 +45,34 @@
       "description": null
     },
     {
-      "headline": "Senators Seek to Block Nvidia From Selling Top AI Chips to China",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0hpLWtUblhBeHZxSkFZd21ObUhBZXUxWkVXSGV0am95VjRPTzZsLUtrRkctZ1FZdXk0VTZkN21EYTk3eUYyb3lqUzNPaE9TbE85UHJuTW1aeTh5MERzTlZrU3Nia2V5a1pCeUR1VXE5Mi1fejRZSWNWem04Mmo0Nnk1YVU4WFhUUlpmNzhlOTk3a0VJYmlLZGJmR3BMWEkxM2tmWkNDbkVlY0V6VVowUEw2ZjRCQQ?oc=5",
-      "pub_date": 1764885922.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-04/senators-seek-to-block-nvidia-from-selling-top-ai-chips-to-china",
+      "headline": "The Godmother of AI says she is disappointed by AI's messaging: It's either 'doomsday' or 'total utopian'",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1Y2UnU2akVHR1JFeHlna1NzTnhvWTVrZlNGX2d2X2ZBMVZabWNPU2YwUnFKODRmbGdmaHcyTVhyN3dXUmJTTEM4bDdxZ2NLWVJYRzNVUk9lUURhdjRnZ1ZIbUFQNTZLMlpzMU9fTkNqOEN2NFhnM0JOWU5tN2FEVzNkMlJxVy05bHB6Y1Y5am1XWWRIYzV4Z015d0pRbU05MmFxMlBn?oc=5",
+      "pub_date": 1764915840.0,
+      "article_url": "https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12",
+      "image": "https://i.insider.com/693265e971107c9f3457646e?width=1200&format=jpeg",
+      "description": "Fei-Fei Li said that this \"extreme rhetoric\" is filling tech discourse and misinforming  people outside Silicon Valley."
+    },
+    {
+      "headline": "How AI is rewiring childhood",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEODhlSTI5VGZ6amg1clNjeDRwTWQ3RDFXWGFtWW9DYXlNRGN3b25UdE0xSko2aktmRWJqSTY2SzlQM1ZBY2RpMWpObkhzZTdHMkVwVjRuazVmQjJ0ZjNyOXdBLVJIRGlxeG1jWUhyS3AwX3B4ekJkdFpER0YxQQ?oc=5",
+      "pub_date": 1764847921.0,
+      "article_url": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
       "image": null,
       "description": null
     },
     {
-      "headline": "Nvidia CEO Jensen Huang Just Won the AI Chip Restriction Battle",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUXVKX295bXJxQ2N0RTZTVmk2R1lmYnktVUFwVXoxZFFoZ0pJTG5zM3NrTFpUazJ4d2xQNkdxRzROekZ5M3NOUEw5UVRfWEZKUUJnZFUzQTBCU1VJNmFONi1oRkhBQnJEdHZuWFBScGNfRVJWU2JYM1RfYU83WVI3LVZJUzJ4cXNaQjFYaVlTSWRsRXA1cWhqa1p0X2VWOVptNEhqc3h6SkstVVFNMmIydUo4UE1xRmhaMW9tSjBjWllPV000YXhqVmNRNF8yMjFCTHc0VEtPQ0pSTHk0UmFtVGI1aWk0YXFVc3l0SlRoNFp5VFNCSXp3VlYyLVBmYlRtOVhndkQ5UUNpRDJtempNbThPTER4U1J0enVkTnRPZm1PWEVESWEyNUlTdDZCT3NXWGtjZ19GUmlBM19mLVMyd3ZudnV4UFQ3T0xISldzbi1DbWZmbXAwWHFMZ1JyaXF2QmUtX3h3NFlfNkJaT1Zha3V0bTVWXzVCcmtrazRsdUlZTmlPcEduTTlBSWR6ckZZbDJVX2poWjNQZVR4NHBRTU92QVp5d0U?oc=5",
-      "pub_date": 1764884940.0,
-      "article_url": "https://www.barrons.com/articles/nvidia-stock-price-jensen-huang-china-ai-chip-restrictions-85b95052?gaa_at=eafs&gaa_n=AWEtsqdbR2kdeyC1Ui9oE-z5--qne68ysUwQqmP7_po0-yRj4ksJLLNbpn13&gaa_ts=693275dd&gaa_sig=8ahKO0qZaiqDVmlw9oIBIaCoKs2DhD7WGcjz5po23wzehtR5ctwQ_UbPRylOOd8tKvFAyFFMZZc7Up1tQPHf7w%3D%3D",
+      "headline": "Exclusive: Some AI dangers are already real, DeepMind's Hassabis says",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oZnByUVZiNWpMdjI3MnRiZmdLYktfTjdKcjFIV25HaU5vMkt3aHhSZk1kUjhKSkhKcDhDak41Z2dEdTgxeWRWbUx1NlgwQnRMcmpsSkdLTzFBOXl2dTJPcVQxR3FJamdaWG9FUA?oc=5",
+      "pub_date": 1764897803.0,
+      "article_url": "https://www.axios.com/2025/12/05/ai-hassabis-agi-risks-pdoom",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "An AI Bust May Not Be All Bad News",
-      "source": "Foreign Policy",
-      "source_url": "https://foreignpolicy.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04Z0pxUEN6NTFRczI5eG41enRseUZoWWJUb3ppZ0dQYVZDa2JIbW9WNTNPOXJMT2lXWjNjb1B4WngtWXpRclFtSTNaVTBKcHdFV2EwaGJNRC1ZeC1nRFBkQmFqY0Y3YU9POFdqMVFIMA?oc=5",
-      "pub_date": 1764910998.0,
-      "article_url": "https://foreignpolicy.com/2025/12/05/ai-bust-not-all-bad-news/",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2025/12/nvidia-robot-GettyImages-2205231503.jpg?w=1000",
-      "description": "The boom makes it hard for competitors to step away from a treadmill of continuous acceleration."
-    },
-    {
-      "headline": "Chinese AI Chip Maker Moore Threads Makes Strong Debut After $1 Billion IPO",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRFlDdW50VzA5cGZjalFRSzhKRTJoZGpwN1ZVRXNOZnU3Y1ROREhaRGRLVVgzMFlIU3F6S0ZkXzB5Nlg0aXRmWHBMeGozRlNwUVo2UDBXRE1EOTd3RFhkRjZNcUY3OUJqYUxCWGpFY3ZjclFla3VKLWowa041bm1lb3J2SHl0bFg4R1c4VGp5dU1ZczhoZVA3SFpibWNiSDVWenl6bndMeGl2VGlmRDJHTkNDUG54RWJvSlhPSmdmSV91SFV4SUIyMlZYbmlGa1RFWXBxS3ZidDcyVFZaeHQwbFFYN0g5czFOOTVRbXM3dVhvUGlfMUdSUGw1YldiSTNfcDZkNDU4cHJYUC1qVHJuTVNFamZGUm9MdG9lMElZTENKbTBSM1ZzSlZKVFFnU2dVTzBqTWFvUDdmd2VzR1pmQ21pWENnR1NyQm1lVkJZTERuV2tzWmRORWRES01ZbGNialpqc1ZFUkZzNWxvOHhpWTdCM25QbTJ5a3c4SGJsdmxzbXhqV1ZVZzFkYXA2SDdKdTV2eFFBSTEtYnFUR1dmUl90OTc5UU9reWZ1REpKbHppUQ?oc=5",
-      "pub_date": 1764910380.0,
-      "article_url": "https://www.wsj.com/tech/chinese-ai-chip-maker-moore-threads-makes-strong-debut-after-1-billion-ipo-e9a43a13?gaa_at=eafs&gaa_n=AWEtsqfRtFHSyaVqlSoveRvdBjHyEWWRBFsJKO-HEHlG-qnk0-zf-XDv1_Gk&gaa_ts=693275dd&gaa_sig=qT6N4hL9msm3OO13XiLZKPZAsrdiAdqfuaaNnxw78wvLURKl94rZ4AwKIuwO3rEPZytC4ViJxibht7FLcFSv_Q%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PSmZZSTRVTU92b1JfN2l3UjB3cG53bGY5dk9oRUhwaDMtS0lvanpTY05meDJCWUVBQU1iaWJ0Q09OMHJyTWp2UUZZYW84SXlpTjNVNjdYUGtSdVJ1RHBsM2dR?oc=5",
-      "pub_date": 1764867544.0,
-      "article_url": "https://www.anthropic.com/news/anthropic-interviewer",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Reflection&backgroundColor=sky",
-      "description": "What 1,250 professionals told us about working with AI"
     },
     {
       "headline": "This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months",
@@ -95,16 +85,26 @@
       "description": "Ali Ansari\u2019s decision to turn micro1\u2019s AI recruitment assistant into a data labeling business spiked the company\u2019s valuation from $80 million to $2.5 billion."
     },
     {
-      "headline": "Exclusive: Some AI dangers are already real, DeepMind's Hassabis says",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oZnByUVZiNWpMdjI3MnRiZmdLYktfTjdKcjFIV25HaU5vMkt3aHhSZk1kUjhKSkhKcDhDak41Z2dEdTgxeWRWbUx1NlgwQnRMcmpsSkdLTzFBOXl2dTJPcVQxR3FJamdaWG9FUA?oc=5",
-      "pub_date": 1764899216.0,
-      "article_url": "https://www.axios.com/2025/12/05/ai-hassabis-agi-risks-pdoom",
+      "headline": "Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PSmZZSTRVTU92b1JfN2l3UjB3cG53bGY5dk9oRUhwaDMtS0lvanpTY05meDJCWUVBQU1iaWJ0Q09OMHJyTWp2UUZZYW84SXlpTjNVNjdYUGtSdVJ1RHBsM2dR?oc=5",
+      "pub_date": 1764867544.0,
+      "article_url": "https://www.anthropic.com/news/anthropic-interviewer",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Reflection&backgroundColor=sky",
+      "description": "What 1,250 professionals told us about working with AI"
+    },
+    {
+      "headline": "The Rise of AI Reasoning Models Comes With A Big Energy Tradeoff",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWhfeHdGVGs3a0FfYm9uT0dqamlnRThwOXZ3cDR6aHphRHdNcnktWUZINjBFak9FTEJmVHF5VTRtNmt4ZjNvM2QtT0NDdnBzWncxWXVOVGhmWTJmY0laSGl6TVlIU1ZjNGgzTlFITmd3TVdYa1QxRkt1M0NaTWt0VW5jOHVabHJOWEJDUFEyWXI0VklxNloyMkZNUVEwQUZCMENLVU5hMHZKclZ2ZVphMDFidlNwdw?oc=5",
+      "pub_date": 1764871302.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-04/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T05:49:36.580773+00:00"
+  "fetched_at": "2025-12-05T06:45:17.171435+00:00"
 }

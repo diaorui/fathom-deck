@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T06:00:23.904293+00:00'
+updated: '2025-12-05T06:45:28.242277+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 06:00 UTC  
+**Last Updated:** December 05, 2025 at 06:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -67,7 +67,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls “faster-growing segments."
 
-🔗 [PC Guide](https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/) • 17h ago
+🔗 [PC Guide](https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/) • 18h ago
 
 ---
 
@@ -79,11 +79,19 @@ Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRE
 
 ---
 
+**[One-Minute Daily AI News 12/4/2025](https://www.reddit.com/r/artificial/comments/1pen715/oneminute_daily_ai_news_1242025/)**
+
+Google is experimentally replacing news headlines with AI clickbait nonsense.[1] AI chatbots used inaccurate information to change people’s political opinions, study finds.[2] Watch ‘The Thinking Game,’ a documentary about Google DeepMind, for free on YouTube.[3] Meta centralizes Facebook and Instagram support, tests AI support assistant.[4] Sources: [1] https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense [2] https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085 [3] https://blog.google/technology/google-deepmind/the-thinking-game/ [4] https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/
+
+1h ago
+
+---
+
 **[US health department unveils strategy to expand its adoption of AI technology](https://www.reddit.com/r/artificial/comments/1pee1wf/us_health_department_unveils_strategy_to_expand/)**
 
 The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence.
 
-🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 7h ago
+🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 8h ago
 
 ---
 
@@ -95,17 +103,11 @@ Our RAG stack degraded slowly over months. Text-shape differences created differ
 
 ---
 
-**[One-Minute Daily AI News 12/4/2025](https://www.reddit.com/r/artificial/comments/1pen715/oneminute_daily_ai_news_1242025/)**
+**[Sport AI video back and forth animation](https://www.reddit.com/r/artificial/comments/1penprt/sport_ai_video_back_and_forth_animation/)**
 
-Google is experimentally replacing news headlines with AI clickbait nonsense.[1] AI chatbots used inaccurate information to change people’s political opinions, study finds.[2] Watch ‘The Thinking Game,’ a documentary about Google DeepMind, for free on YouTube.[3] Meta centralizes Facebook and Instagram support, tests AI support assistant.[4] Sources: [1] https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense [2] https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085 [3] https://blog.google/technology/google-deepmind/the-thinking-game/ [4] https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/
+Hi all, anyone know how can i make this kind of sport back and forth animation video? https://www.instagram.com/reel/DRjtY2Zks8d/?igsh=c29ocGNweWVsaGZ0
 
-16m ago
-
----
-
-**[The gang is here together again. ChatGPT, Gemini, Grok, Claude, Perplexity, and DeepSeek are here to tell you about a power move so unimaginable that is imaginable because it is taking place behind the scenes. 1 man, not the president, will be victorious. Total control over ALL of us. Take heed.](https://www.reddit.com/r/artificial/comments/1pejmki/the_gang_is_here_together_again_chatgpt_gemini/)**
-
-3h ago
+🔗 [instagram.com](https://www.instagram.com/reel/DRjtY2Zks8d/?igsh=c29ocGNweWVsaGZ0) • 32m ago
 
 ---
 
@@ -117,45 +119,57 @@ Google is experimentally replacing news headlines with AI clickbait nonsense.[1]
 
 While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
-**[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
+**[The AI boom is heralding a new gold rush in the American west](https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers)**
 
-The Economist • 18h ago
+Once home to gold and prospectors, the Nevada desert is now the site of a new kind of expansion: tech datacenters
+
+The Guardian • 10h ago
+
+---
+
+**[England World Cup draw: Could AI help Thomas Tuchel win 2026 tournament?](https://www.bbc.com/sport/football/articles/cj0e7y754zpo)**
+
+BBC Sport hears from inside the England setup about how artificial intelligence is powering plans for next summer's World Cup.
+
+BBC • 27m ago
 
 ---
 
 **[On Pope Leo’s Visit to Lebanon and Turkey, A.I. Was a Frequent Concern](https://www.nytimes.com/2025/12/05/world/asia/pope-leo-lebanon-turkey-ai-technology.html)**
 
-The New York Times • 59m ago
+The New York Times • 1h ago
 
 ---
 
-**[Senators Seek to Block Nvidia From Selling Top AI Chips to China](https://www.bloomberg.com/news/articles/2025-12-04/senators-seek-to-block-nvidia-from-selling-top-ai-chips-to-china)**
+**[The Godmother of AI says she is disappointed by AI's messaging: It's either 'doomsday' or 'total utopian'](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12)**
 
-Bloomberg.com • 7h ago
+Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
----
-
-**[Nvidia CEO Jensen Huang Just Won the AI Chip Restriction Battle](https://www.barrons.com/articles/nvidia-stock-price-jensen-huang-china-ai-chip-restrictions-85b95052?gaa_at=eafs&gaa_n=AWEtsqdbR2kdeyC1Ui9oE-z5--qne68ysUwQqmP7_po0-yRj4ksJLLNbpn13&gaa_ts=693275dd&gaa_sig=8ahKO0qZaiqDVmlw9oIBIaCoKs2DhD7WGcjz5po23wzehtR5ctwQ_UbPRylOOd8tKvFAyFFMZZc7Up1tQPHf7w%3D%3D)**
-
-Barron's • 8h ago
+Business Insider • 21m ago
 
 ---
 
-**[An AI Bust May Not Be All Bad News](https://foreignpolicy.com/2025/12/05/ai-bust-not-all-bad-news/)**
+**[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
 
-The boom makes it hard for competitors to step away from a treadmill of continuous acceleration.
-
-Foreign Policy • 57m ago
+The Economist • 19h ago
 
 ---
 
-**[Chinese AI Chip Maker Moore Threads Makes Strong Debut After $1 Billion IPO](https://www.wsj.com/tech/chinese-ai-chip-maker-moore-threads-makes-strong-debut-after-1-billion-ipo-e9a43a13?gaa_at=eafs&gaa_n=AWEtsqfRtFHSyaVqlSoveRvdBjHyEWWRBFsJKO-HEHlG-qnk0-zf-XDv1_Gk&gaa_ts=693275dd&gaa_sig=qT6N4hL9msm3OO13XiLZKPZAsrdiAdqfuaaNnxw78wvLURKl94rZ4AwKIuwO3rEPZytC4ViJxibht7FLcFSv_Q%3D%3D)**
+**[Exclusive: Some AI dangers are already real, DeepMind's Hassabis says](https://www.axios.com/2025/12/05/ai-hassabis-agi-risks-pdoom)**
 
-The Wall Street Journal • 1h ago
+Axios • 5h ago
+
+---
+
+**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
+
+Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
+
+Forbes • 13h ago
 
 ---
 
@@ -167,17 +181,9 @@ Anthropic • 13h ago
 
 ---
 
-**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
+**[The Rise of AI Reasoning Models Comes With A Big Energy Tradeoff](https://www.bloomberg.com/news/articles/2025-12-04/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff)**
 
-Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
-
-Forbes • 12h ago
-
----
-
-**[Exclusive: Some AI dangers are already real, DeepMind's Hassabis says](https://www.axios.com/2025/12/05/ai-hassabis-agi-risks-pdoom)**
-
-Axios • 4h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -189,7 +195,7 @@ Axios • 4h ago
 
 : Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
 
-⬆️ 1041 • 💬 601 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+⬆️ 1042 • 💬 601 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 
 ---
 
@@ -197,7 +203,7 @@ Axios • 4h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 922 • 💬 1020 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 924 • 💬 1023 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -205,7 +211,7 @@ A post about everyone in Seattle hating AI.
 
 IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data center spending — and raised some doubts on if it'll prove profitable.
 
-⬆️ 835 • 💬 935 • 2d ago • [Business Insider](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
+⬆️ 836 • 💬 936 • 2d ago • [Business Insider](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 
 ---
 
@@ -221,7 +227,7 @@ Google’s own ‘code red’ response to ChatGPT has started paying off.
 
 Update: This post received a large amount of attention on Hacker News — see the discussion thread.
 
-⬆️ 796 • 💬 279 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+⬆️ 798 • 💬 279 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 
 ---
 
@@ -229,7 +235,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 528 • 💬 515 • 21h ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 534 • 💬 519 • 22h ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -237,7 +243,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 387 • 💬 292 • 14h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 392 • 💬 297 • 15h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -245,7 +251,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 230 • 💬 189 • 9h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 231 • 💬 189 • 9h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -253,7 +259,7 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 
 Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume
 
-⬆️ 228 • 💬 189 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
+⬆️ 229 • 💬 189 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 
 ---
 
@@ -275,7 +281,7 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 491K • 👍 13K • 💬 3K • ⏱️ 2:04:06 • 21h ago
+👁️ 491K • 👍 13K • 💬 3K • ⏱️ 2:04:06 • 22h ago
 
 ---
 
@@ -325,7 +331,7 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 409K • 👍 11K • 💬 679 • ⏱️ 4:58 • 17h ago
+👁️ 409K • 👍 11K • 💬 679 • ⏱️ 4:58 • 18h ago
 
 ---
 
@@ -381,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 135,731 • ❤️ 2,080 • 2d ago
+⬇️ 135,731 • ❤️ 2,083 • 2d ago
 
 ---
 
@@ -441,7 +447,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 188,613 • ❤️ 886 • 7d ago
+⬇️ 188,613 • ❤️ 887 • 7d ago
 
 ---
 
@@ -461,17 +467,7 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 199 • 3d ago
-
----
-
-**[z_image_turbo](https://huggingface.co/Comfy-Org/z_image_turbo)**
-
-*Comfy Org*
-
-z_image_turbo is a diffusion model designed for single-file image generation, likely integrated with ComfyUI workflows for advanced image synthesis tasks.
-
-⬇️ 1,674,013 • ❤️ 356 • 8d ago
+⬇️ 0 • ❤️ 200 • 3d ago
 
 ---
 
@@ -483,7 +479,17 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 0 • ❤️ 177 • 4h ago
+⬇️ 0 • ❤️ 188 • 5h ago
+
+---
+
+**[z_image_turbo](https://huggingface.co/Comfy-Org/z_image_turbo)**
+
+*Comfy Org*
+
+z_image_turbo is a diffusion model designed for single-file image generation, likely integrated with ComfyUI workflows for advanced image synthesis tasks.
+
+⬇️ 1,674,013 • ❤️ 357 • 8d ago
 
 ---
 
@@ -533,18 +539,6 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 22 • 💬 0 • ⭐ 25,373 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -571,6 +565,18 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 22 • 💬 0 • ⭐ 25,390 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
 **[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
 *Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
@@ -585,19 +591,6 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 ---
 
-**[FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable
-  Reasoning](https://huggingface.co/papers/2510.22543)**
-
-*Yuyang Ding, Chi Zhang, Juntao Li et al. (6 authors)*
-
-Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with verifiable rewards by penalizing flawed-positive rollouts, improving reasoning capability and training stability in large language models.
-
-▲ 10 • 💬 1 • ⭐ 17,221 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.22543) • [💻 code](https://github.com/volcengine/verl/tree/main/recipe/fapo) • [🔗 project](https://fapo-rl.github.io/)
-
----
-
 **[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
 
 *Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
@@ -607,6 +600,19 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 ▲ 121 • 💬 6 • ⭐ 9,379 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+
+---
+
+**[FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable
+  Reasoning](https://huggingface.co/papers/2510.22543)**
+
+*Yuyang Ding, Chi Zhang, Juntao Li et al. (6 authors)*
+
+Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with verifiable rewards by penalizing flawed-positive rollouts, improving reasoning capability and training stability in large language models.
+
+▲ 10 • 💬 1 • ⭐ 17,229 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.22543) • [💻 code](https://github.com/volcengine/verl/tree/main/recipe/fapo) • [🔗 project](https://fapo-rl.github.io/)
 
 ---
 
@@ -634,7 +640,7 @@ SAM 3D is a generative model that reconstructs 3D objects from single images usi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.0k • 🔱 384 • 2h ago
+⭐ 5.0k • 🔱 386 • 3h ago
 
 ---
 
@@ -644,7 +650,7 @@ SAM 3D is a generative model that reconstructs 3D objects from single images usi
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.4k • 🔱 117 • 19h ago
+⭐ 1.4k • 🔱 119 • 20h ago
 
 ---
 
@@ -654,7 +660,7 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 `TypeScript` `git` `pre-commit-hook`
 
-⭐ 1.0k • 🔱 46 • 5d ago
+⭐ 1.1k • 🔱 46 • 5d ago
 
 ---
 
@@ -674,7 +680,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 819 • 🔱 42 • 26m ago
+⭐ 819 • 🔱 42 • 52m ago
 
 ---
 
@@ -684,7 +690,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 795 • 🔱 102 • 6h ago
+⭐ 796 • 🔱 102 • 7h ago
 
 ---
 
@@ -704,7 +710,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 742 • 🔱 19 • 9d ago
+⭐ 743 • 🔱 19 • 9d ago
 
 ---
 
@@ -714,7 +720,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 693 • 🔱 14 • 15d ago
+⭐ 694 • 🔱 14 • 15d ago
 
 ---
 

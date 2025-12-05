@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T18:33:42.893478+00:00'
+updated: '2025-12-05T18:53:23.841062+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 18:33 UTC  
+**Last Updated:** December 05, 2025 at 18:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,323.52
+### $89,000.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** -1.8%  
-**30d:** -12.0%  
-**90d:** -19.9%  
-**1y:** -10.5%  
+**24h:** -3.0%  
+**7d:** -2.1%  
+**30d:** -12.3%  
+**90d:** -20.2%  
+**1y:** -10.8%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-57m ago
+1h ago
 
 ---
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Im only up 3000% now
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -121,7 +121,7 @@ Hi I’m new to this. I don’t have a lot of money to put into it but wanted to
 
 ... not in the slightest
 
-46m ago
+1h ago
 
 ---
 
@@ -129,7 +129,7 @@ Hi I’m new to this. I don’t have a lot of money to put into it but wanted to
 
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
-13h ago
+14h ago
 
 ---
 
@@ -137,7 +137,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 It can't just be as simple as that, can it? Maybe it is but I just know I would fuck it up. Obviously that can't be sustainable as a financial system but that's how it all seems to work outside of the Bitcoin system.
 
-59m ago
+1h ago
 
 ---
 
@@ -197,7 +197,7 @@ The New York Times • 2d ago
 
 **[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqebABqutJl1PdqKF7qv4oInCrubmafYiQQJmHLirkKrkCzNLxM_7gue&gaa_ts=693328f3&gaa_sig=dOGBSlEflFHe18GRcKbYPHBgHW8e8H4QCrbyvrRP9QZzUx8gx3yJppnynyYu7P89VMb6GiOuNQrZldX2nOBhbg%3D%3D)**
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -341,7 +341,7 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 61K • 👍 3K • 💬 322 • ⏱️ 18:48 • 20h ago
+👁️ 61K • 👍 3K • 💬 322 • ⏱️ 18:48 • 21h ago
 
 ---
 
@@ -361,7 +361,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 4K • 💬 481 • ⏱️ 11:16 • 16h ago
+👁️ 61K • 👍 4K • 💬 481 • ⏱️ 11:16 • 17h ago
 
 ---
 
@@ -381,7 +381,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 3K • 💬 304 • ⏱️ 23:27 • 17h ago
+👁️ 40K • 👍 3K • 💬 304 • ⏱️ 23:27 • 18h ago
 
 ---
 
@@ -401,7 +401,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 10K • 👍 613 • 💬 67 • ⏱️ 9:41 • 13h ago
+👁️ 10K • 👍 613 • 💬 67 • ⏱️ 9:41 • 14h ago
 
 ---
 

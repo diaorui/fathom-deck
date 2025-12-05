@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T18:33:42.884926+00:00'
+updated: '2025-12-05T18:53:23.832624+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 18:33 UTC  
+**Last Updated:** December 05, 2025 at 18:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 20h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 21h ago
 
 ---
 
@@ -85,7 +85,7 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 22h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 23h ago
 
 ---
 
@@ -93,7 +93,7 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 Soooo... over the last few weeks, I've been working on a near-term sci-fi anthology about what I project AI's impact to be over the next five years. I'm done with all my research, and I've ironed out a handful of characters that I'm interviewing from 2030. It's a very meta type of project. Regardless, I've been working with Claude on it, and today, as part of Anthropic's AI interviewer project ( https://www.anthropic.com/research/anthropic-interviewer ), I got flagged for an interview about my thoughts on AI. It was a surreal experience. I was being interviewed by an AI, to discuss my use of AI, where I'm writing about AI and an AI character we're writing about. That's about as meta as it gets. Has anyone else had an experience like this?
 
-39m ago
+59m ago
 
 ---
 
@@ -109,7 +109,7 @@ AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy ch
 
 Image AI can compress long texts into scannable infographics, but only if steered well. Use this universal prompt to turn any content into visual knowledge.
 
-🔗 [Upward Dynamism | Learn AI for Work & Life](https://upwarddynamism.wpcomstaging.com/ai-use-cases-prompts/image-genai-infographic-blueprint/) • 12m ago
+🔗 [Upward Dynamism | Learn AI for Work & Life](https://upwarddynamism.wpcomstaging.com/ai-use-cases-prompts/image-genai-infographic-blueprint/) • 32m ago
 
 ---
 
@@ -125,7 +125,7 @@ The New York Times • 5h ago
 
 **[New York Times sues Perplexity AI for 'illegal' copying of content](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Washington Post • 1h ago
 
 **[Senators propose bill locking in current AI chip export controls](https://thehill.com/policy/technology/5635658-safe-chips-act-ai-export-control/)**
 
-The Hill • 58m ago
+The Hill • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 1h ago
 
 **[AI is helping criminals create virtual kidnapping scams](https://www.axios.com/2025/12/05/ai-videos-photos-scam-virtual-fbi-victim-ransom-kidnapping)**
 
-Axios • 24m ago
+Axios • 44m ago
 
 ---
 
@@ -173,7 +173,7 @@ Fortune • 1d ago
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-The Atlantic • 20h ago
+The Atlantic • 21h ago
 
 ---
 
@@ -433,7 +433,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 279 • 16h ago
+⬇️ 12,984 • ❤️ 279 • 17h ago
 
 ---
 
@@ -679,7 +679,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 12h ago
+⭐ 822 • 🔱 42 • 13h ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 821 • 🔱 103 • 2h ago
+⭐ 821 • 🔱 103 • 3h ago
 
 ---
 

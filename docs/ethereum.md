@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T18:33:42.899570+00:00'
+updated: '2025-12-05T18:53:23.847197+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 18:33 UTC  
+**Last Updated:** December 05, 2025 at 18:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** +1.5%  
-**30d:** -8.5%  
-**90d:** -29.7%  
-**1y:** -24.0%  
+**24h:** -3.8%  
+**7d:** +0.5%  
+**30d:** -9.4%  
+**90d:** -30.4%  
+**1y:** -24.8%  
 
 ---
 
@@ -88,7 +88,7 @@ Trump crypto empire falls faster than bitcoin
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 6h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 7h ago
 
 ---
 
@@ -152,7 +152,7 @@ Ethereum is actively working to address the blockchain trilemma, a core challeng
 
 Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Block • 21h ago
 
 Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Yahoo Finance • 37m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -196,7 +196,7 @@ TipRanks • 5h ago
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -234,7 +234,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 450 • 👍 28 • 💬 176 • ⏱️ 5:24 • 4h ago
+👁️ 450 • 👍 28 • 💬 176 • ⏱️ 5:24 • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 4K • 💬 481 • ⏱️ 11:16 • 16h ago
+👁️ 61K • 👍 4K • 💬 481 • ⏱️ 11:16 • 17h ago
 
 ---
 
@@ -284,7 +284,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 1K • 👍 191 • 1h ago
+👁️ 1K • 👍 191 • 2h ago
 
 ---
 

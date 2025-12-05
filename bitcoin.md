@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T19:14:29.791833+00:00'
+updated: '2025-12-05T19:30:15.623020+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 19:14 UTC  
+**Last Updated:** December 05, 2025 at 19:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.7%  
-**7d:** -2.0%  
-**30d:** -12.2%  
-**90d:** -20.1%  
-**1y:** -10.7%  
+**24h:** -3.2%  
+**7d:** -1.5%  
+**30d:** -11.8%  
+**90d:** -19.7%  
+**1y:** -10.3%  
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Decrypt • 1h ago
 
 **[BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now](https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now)**
 
-Fast Company • 52m ago
+Fast Company • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fast Company • 52m ago
 
 Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
 
-Bloomberg.com • 27m ago
+Bloomberg.com • 43m ago
 
 ---
 
@@ -327,7 +327,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 326 • 💬 363 • ⏱️ 15:38 • 13h ago
+👁️ 10K • 👍 326 • 💬 363 • ⏱️ 15:38 • 14h ago
 
 ---
 
@@ -347,7 +347,7 @@ I'm Selling EVERYTHING!” Why Tom Crown Is Cashing Out of Bitcoin 50% deposit b
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 412 • ⏱️ 17:04 • 1d ago
+👁️ 65K • 👍 3K • 💬 412 • ⏱️ 17:04 • 2d ago
 
 ---
 

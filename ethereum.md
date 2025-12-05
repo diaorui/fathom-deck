@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T19:14:29.799822+00:00'
+updated: '2025-12-05T19:30:15.629093+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 19:14 UTC  
+**Last Updated:** December 05, 2025 at 19:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,986.93
+### $3,012.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.3%  
-**7d:** +0.7%  
-**30d:** -9.3%  
-**90d:** -30.3%  
-**1y:** -24.6%  
+**24h:** -3.8%  
+**7d:** +1.1%  
+**30d:** -8.9%  
+**90d:** -30.0%  
+**1y:** -24.3%  
 
 ---
 
@@ -104,7 +104,7 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 18h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 19h ago
 
 ---
 
@@ -254,7 +254,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 20K • 👍 2K • 💬 126 • ⏱️ 31:23 • 9h ago
+👁️ 20K • 👍 2K • 💬 126 • ⏱️ 31:23 • 10h ago
 
 ---
 
@@ -314,7 +314,7 @@ Wall Street legend Tom Lee has just made his most "insane" prediction yet: Ether
 
 📺 Wall Street Stockcast
 
-👁️ 226 • 👍 17 • 💬 13 • ⏱️ 8:42 • 6h ago
+👁️ 226 • 👍 17 • 💬 13 • ⏱️ 8:42 • 7h ago
 
 ---
 

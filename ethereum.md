@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T08:30:14.710543+00:00'
+updated: '2025-12-05T08:53:19.487059+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 08:30 UTC  
+**Last Updated:** December 05, 2025 at 08:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +5.9%  
-**30d:** -4.6%  
-**90d:** -26.7%  
-**1y:** -20.7%  
+**24h:** -1.8%  
+**7d:** +5.4%  
+**30d:** -4.9%  
+**90d:** -27.0%  
+**1y:** -21.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Trump crypto empire falls faster than bitcoin
 
-🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 18h ago
+🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 19h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[🚀 Ethereum Fusaka is Live: The “Unsung Hero” Upgrade You Need to Know About](https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/)**
 
-🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 15h ago
+🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 16h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 3K • 💬 300 • ⏱️ 11:16 • 6h ago
+👁️ 30K • 👍 3K • 💬 300 • ⏱️ 11:16 • 7h ago
 
 ---
 
@@ -266,7 +266,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 50 • 💬 109 • ⏱️ 5:52 • 17h ago
+👁️ 1K • 👍 50 • 💬 109 • ⏱️ 5:52 • 18h ago
 
 ---
 
@@ -286,7 +286,7 @@ Ethereum (ETH) is approaching a critical point, and the next major move could de
 
 📺 HKCM GLOBAL
 
-👁️ 1K • 👍 132 • 💬 5 • ⏱️ 10:00 • 15h ago
+👁️ 1K • 👍 132 • 💬 5 • ⏱️ 10:00 • 16h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 203 • 💬 9 • ⏱️ 4:44 • 17h ago
+👁️ 3K • 👍 203 • 💬 9 • ⏱️ 4:44 • 18h ago
 
 ---
 
@@ -316,7 +316,7 @@ The Ethereum network has fundamentally changed as of December 3rd. In this deep 
 
 📺 Wall Street Stockcast
 
-👁️ 4K • 👍 119 • 💬 17 • ⏱️ 10:55 • 16h ago
+👁️ 4K • 👍 119 • 💬 17 • ⏱️ 10:55 • 17h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 157 • 💬 10 • ⏱️ 5:41 • 7h ago
+👁️ 2K • 👍 157 • 💬 10 • ⏱️ 5:41 • 8h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T08:30:14.704366+00:00'
+updated: '2025-12-05T08:53:19.480967+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 08:30 UTC  
+**Last Updated:** December 05, 2025 at 08:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,055.90
+### $92,067.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** +1.5%  
-**30d:** -9.0%  
-**90d:** -17.2%  
-**1y:** -7.5%  
+**24h:** -1.6%  
+**7d:** +1.4%  
+**30d:** -9.1%  
+**90d:** -17.3%  
+**1y:** -7.6%  
 
 ---
 
@@ -87,7 +87,7 @@ Im only up 3000% now
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -101,7 +101,7 @@ Im only up 3000% now
 
 **[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ Im only up 3000% now
 
 **[Bitcoin in 2025](https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -137,13 +137,13 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
-3h ago
+4h ago
 
 ---
 
 **[Cant stop, won't stop Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pelu4f/cant_stop_wont_stop_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 1d ago
 
 BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
 
-Bloomberg.com • 18m ago
+Bloomberg.com • 41m ago
 
 ---
 
@@ -193,7 +193,7 @@ Bloomberg.com • 18m ago
 
 Bitcoin exchange reserves hit a 5-year low after $2 billion in buying, but price still struggles under key resistance.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ The New York Times • 1d ago
 
 **[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeqVwclCo4dSt2WXVm0ZgrFYNfN_R2-tmW28P8OsLjMAeXbnIevD6Jw&gaa_ts=69329b7b&gaa_sig=1reKRVFQw4ViwwPvoYVlMOr0t7VO645Mg-l92Ig7NLY6185kpsQFf5yTddn5cnm949UFN7s2C8jdI5bGMSv6BQ%3D%3D)**
 
-MarketWatch • 11h ago
+MarketWatch • 12h ago
 
 ---
 
@@ -213,7 +213,7 @@ MarketWatch • 11h ago
 
 JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
-Business Insider • 14h ago
+Business Insider • 15h ago
 
 ---
 
@@ -231,7 +231,7 @@ The Wall Street Journal • 2d ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 6 • 💬 1 • 20h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 6 • 💬 1 • 21h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
@@ -239,7 +239,7 @@ The Wall Street Journal • 2d ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 18h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 19h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -295,7 +295,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol](https://news.ycombinator.com/item?id=46149605)**
 
-⬆️ 1 • 💬 0 • 15h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
+⬆️ 1 • 💬 0 • 16h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
 
 ---
 
@@ -309,7 +309,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 239 • ⏱️ 23:27 • 7h ago
+👁️ 23K • 👍 2K • 💬 239 • ⏱️ 23:27 • 8h ago
 
 ---
 
@@ -319,7 +319,7 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 42K • 👍 2K • 💬 158 • ⏱️ 18:48 • 10h ago
+👁️ 42K • 👍 2K • 💬 158 • ⏱️ 18:48 • 11h ago
 
 ---
 
@@ -329,7 +329,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 298 • 💬 95 • ⏱️ 9:41 • 3h ago
+👁️ 3K • 👍 298 • 💬 95 • ⏱️ 9:41 • 4h ago
 
 ---
 

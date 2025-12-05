@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T08:30:14.696012+00:00'
+updated: '2025-12-05T08:53:19.472425+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 08:30 UTC  
+**Last Updated:** December 05, 2025 at 08:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 10h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 11h ago
 
 ---
 
@@ -53,13 +53,13 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 12h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 13h ago
 
 ---
 
 **["Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have." -Bernie Sanders](https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -83,7 +83,7 @@ Micron has confirmed that it is exiting the Crucial consumer business so it can 
 
 Google is experimentally replacing news headlines with AI clickbait nonsense.[1] AI chatbots used inaccurate information to change people’s political opinions, study finds.[2] Watch ‘The Thinking Game,’ a documentary about Google DeepMind, for free on YouTube.[3] Meta centralizes Facebook and Instagram support, tests AI support assistant.[4] Sources: [1] https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense [2] https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085 [3] https://blog.google/technology/google-deepmind/the-thinking-game/ [4] https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/
 
-2h ago
+3h ago
 
 ---
 
@@ -91,7 +91,7 @@ Google is experimentally replacing news headlines with AI clickbait nonsense.[1]
 
 The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence.
 
-🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 9h ago
+🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 10h ago
 
 ---
 
@@ -99,7 +99,7 @@ The U.S. Department of Health and Human Services has outlined a new strategy to 
 
 👋 Après douze années passées chez Meta, Yann LeCun a fait le grand saut. Le mois dernier, il a annoncé qu'il quittait le géant des réseaux sociaux pour lancer sa propre start-up en vue de créer une nouvelle génération de systèmes d'intelligence artificielle. Dans cette aventure, encore relativement nébuleuse, « Meta est un partenaire, ce n'est pas un investisseur », a déclaré Yann LeCun, ce jeudi, lors de l'événement AI Pulse organisé par Scaleway à Paris. 🧠 Le chercheur français fait figure de parrain de l'IA moderne et a été récompensé du prix Turing en 2018. Il mobilise actuellement des fonds pour lancer sa start-up autour du concept d'« intelligence avancée » basée sur le monde physique et les « world models », en opposition aux grands modèles génératifs sur lesquels parient actuellement les géants américains de la tech. 💡 Les explications de Joséphine Boone
 
-🔗 [linkedin.com](https://www.linkedin.com/posts/les-echos_lex-directeur-scientifique-de-meta-sappr%25C3%25AAte-activity-7402587567272910848-h34L?utm_source%3Dshare%26utm_medium%3Dmember_ios%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4) • 35m ago
+🔗 [linkedin.com](https://www.linkedin.com/posts/les-echos_lex-directeur-scientifique-de-meta-sappr%25C3%25AAte-activity-7402587567272910848-h34L?utm_source%3Dshare%26utm_medium%3Dmember_ios%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4) • 58m ago
 
 ---
 
@@ -107,7 +107,7 @@ The U.S. Department of Health and Human Services has outlined a new strategy to 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/z_gHuD_IxZs?si=JB_V38KslkGIR8OB) • 42m ago
+🔗 [youtu.be](https://youtu.be/z_gHuD_IxZs?si=JB_V38KslkGIR8OB) • 1h ago
 
 ---
 
@@ -139,19 +139,19 @@ Bloomberg.com • 1h ago
 
 **[Asia's strong equity deals pipeline to be tested by AI bubble concerns in 2026](https://www.reuters.com/business/autos-transportation/asias-strong-equity-deals-pipeline-be-tested-by-ai-bubble-concerns-2026-2025-12-05/)**
 
-Reuters • 20m ago
+Reuters • 43m ago
 
 ---
 
 **[Apple May Win the AI Race. How It Could Beat Meta, Microsoft, and OpenAI](https://www.barrons.com/articles/apple-stock-iphone-17-ai-chatgpt-gemini-22561075?gaa_at=eafs&gaa_n=AWEtsqeNhDZ0TsWzLUwgOmYh3raRqlKBy_vxeuZso2sw__QDa9gpNk8TRunW&gaa_ts=69329b7a&gaa_sig=SNVWFUS8-0ort544xRbt1KYaUlYqTpmVYE-3ahWIp7xNhnFGGvIStIhOEFRG2wllmWANb6PBBx_6xbtrZlU2uQ%3D%3D)**
 
-Barron's • 30m ago
+Barron's • 53m ago
 
 ---
 
 **[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
 
-The Economist • 20h ago
+The Economist • 21h ago
 
 ---
 
@@ -159,13 +159,13 @@ The Economist • 20h ago
 
 Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
 
-Forbes • 14h ago
+Forbes • 15h ago
 
 ---
 
 **[Exclusive: Some AI dangers are already real, DeepMind's Hassabis says](https://www.axios.com/2025/12/05/ai-hassabis-agi-risks-pdoom)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -231,7 +231,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 554 • 💬 528 • 23h ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 554 • 💬 528 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -239,7 +239,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 398 • 💬 303 • 16h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 398 • 💬 303 • 17h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -347,7 +347,7 @@ Can Kling O1 beat Google's Nano Banana in cinematic storytelling? Two major upda
 
 📺 AI Video School
 
-👁️ 8K • 👍 517 • 💬 36 • ⏱️ 12:26 • 16h ago
+👁️ 8K • 👍 517 • 💬 36 • ⏱️ 12:26 • 17h ago
 
 ---
 
@@ -475,7 +475,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 0 • ❤️ 203 • 6h ago
+⬇️ 0 • ❤️ 203 • 7h ago
 
 ---
 
@@ -676,7 +676,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 819 • 🔱 42 • 2h ago
+⭐ 819 • 🔱 42 • 3h ago
 
 ---
 

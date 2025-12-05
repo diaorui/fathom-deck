@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T05:35:43.390608+00:00'
+updated: '2025-12-05T05:49:42.664317+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 05:35 UTC  
+**Last Updated:** December 05, 2025 at 05:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +5.7%  
-**30d:** -4.7%  
-**90d:** -26.8%  
-**1y:** -20.9%  
+**24h:** -1.5%  
+**7d:** +5.5%  
+**30d:** -4.9%  
+**90d:** -26.9%  
+**1y:** -21.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $382.61B
+**Market Cap:** $381.05B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.9%
+-36.2%
 
 **All-Time Low:** $0.43
-+731690.7%
++728993.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Trump crypto empire falls faster than bitcoin
 
-🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 15h ago
+🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 16h ago
 
 ---
 
@@ -170,12 +170,6 @@ Yahoo Finance • 10h ago
 
 ---
 
-**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
-
-The Block • 21h ago
-
----
-
 **[Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum](https://www.dlnews.com/articles/markets/bitmine-stock-jumps-15-percent-as-tom-lee-snaps-up-150-in-ethereum/)**
 
 Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December.
@@ -184,19 +178,19 @@ dlnews.com • 19h ago
 
 ---
 
-**[Tom Lee’s Relentless ETH Buying Puts BMNR Stock on a Possible 55% Breakout Path](https://finance.yahoo.com/news/tom-lee-relentless-eth-buying-120000505.html)**
-
-A major ETH purchase by Tom Lee has put the BMNR price back in focus as traders watch for a breakout from a key reversal setup.
-
-Yahoo Finance • 17h ago
-
----
-
 **[Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward](https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/)**
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
 cheddar.com • 8h ago
+
+---
+
+**[Ethereum Is Jumping Today-Here's Why](https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why)**
+
+Key PointsEthereum receives a major update today that should improve its ability to scale.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -221,6 +215,14 @@ Seeking Alpha • 1h ago
 Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?
 
 24/7 Wall St. • 1d ago
+
+---
+
+**[Bitcoin Vs. Ethereum And The Flippening Lubin Predicts](https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/)**
+
+Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH’s utility loop, Bitcoin’s scarcity, and why money is entering a multi-form future.
+
+Forbes • 2d ago
 
 ---
 
@@ -294,7 +296,7 @@ Ethereum (ETH) is approaching a critical point, and the next major move could de
 
 📺 HKCM GLOBAL
 
-👁️ 1K • 👍 125 • 💬 5 • ⏱️ 10:00 • 12h ago
+👁️ 1K • 👍 125 • 💬 5 • ⏱️ 10:00 • 13h ago
 
 ---
 
@@ -304,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 203 • 💬 9 • ⏱️ 4:44 • 14h ago
+👁️ 3K • 👍 203 • 💬 9 • ⏱️ 4:44 • 15h ago
 
 ---
 
@@ -324,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 116 • 💬 10 • ⏱️ 5:41 • 4h ago
+👁️ 1K • 👍 116 • 💬 10 • ⏱️ 5:41 • 5h ago
 
 ---
 

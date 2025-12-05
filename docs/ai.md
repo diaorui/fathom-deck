@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T05:35:43.376173+00:00'
+updated: '2025-12-05T05:49:42.649921+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- news
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 05:35 UTC  
+**Last Updated:** December 05, 2025 at 05:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -59,7 +59,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **["Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have." -Bernie Sanders](https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -79,14 +79,6 @@ Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRE
 
 ---
 
-**[Embedding Drift silently broke our RAG](https://www.reddit.com/r/artificial/comments/1pefrm6/embedding_drift_silently_broke_our_rag/)**
-
-Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn’t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer “mysterious RAG failures” Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?
-
-5h ago
-
----
-
 **[US health department unveils strategy to expand its adoption of AI technology](https://www.reddit.com/r/artificial/comments/1pee1wf/us_health_department_unveils_strategy_to_expand/)**
 
 The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence.
@@ -95,17 +87,25 @@ The U.S. Department of Health and Human Services has outlined a new strategy to 
 
 ---
 
-**[The gang is here together again. ChatGPT, Gemini, Grok, Claude, Perplexity, and DeepSeek are here to tell you about a power move so unimaginable that is imaginable because it is taking place behind the scenes. 1 man, not the president, will be victorious. Total control over ALL of us. Take heed.](https://www.reddit.com/r/artificial/comments/1pejmki/the_gang_is_here_together_again_chatgpt_gemini/)**
+**[Embedding Drift silently broke our RAG](https://www.reddit.com/r/artificial/comments/1pefrm6/embedding_drift_silently_broke_our_rag/)**
 
-2h ago
+Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn’t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer “mysterious RAG failures” Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?
+
+6h ago
 
 ---
 
-**[trisociation on steriods](https://www.reddit.com/r/artificial/comments/1pedxjz/trisociation_on_steriods/)**
+**[One-Minute Daily AI News 12/4/2025](https://www.reddit.com/r/artificial/comments/1pen715/oneminute_daily_ai_news_1242025/)**
 
-https://claude.ai/share/5439bbcf-e1b2-4ec0-be5c-63fdebfb7348 we may as well change things as quickly as possible. These big companies are too bloated. Easily out maneuvered - fuck these monopoly man. get out there and make something , solve a problem fix your corner of the world and don't try to become a billionaire try to become part of a fabric, part of a community, something tethered by love.
+Google is experimentally replacing news headlines with AI clickbait nonsense.[1] AI chatbots used inaccurate information to change people’s political opinions, study finds.[2] Watch ‘The Thinking Game,’ a documentary about Google DeepMind, for free on YouTube.[3] Meta centralizes Facebook and Instagram support, tests AI support assistant.[4] Sources: [1] https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense [2] https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085 [3] https://blog.google/technology/google-deepmind/the-thinking-game/ [4] https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/
 
-7h ago
+5m ago
+
+---
+
+**[The gang is here together again. ChatGPT, Gemini, Grok, Claude, Perplexity, and DeepSeek are here to tell you about a power move so unimaginable that is imaginable because it is taking place behind the scenes. 1 man, not the president, will be victorious. Total control over ALL of us. Take heed.](https://www.reddit.com/r/artificial/comments/1pejmki/the_gang_is_here_together_again_chatgpt_gemini/)**
+
+3h ago
 
 ---
 
@@ -129,15 +129,33 @@ The Economist • 18h ago
 
 **[On Pope Leo’s Visit to Lebanon and Turkey, A.I. Was a Frequent Concern](https://www.nytimes.com/2025/12/05/world/asia/pope-leo-lebanon-turkey-ai-technology.html)**
 
-The New York Times • 34m ago
+The New York Times • 48m ago
 
 ---
 
-**[An AI Bust May Not Be All Bad News](https://foreignpolicy.com/2025/12/05/ai-bust-not-all-bad-news/?tpcc=recirc_latest062921)**
+**[Senators Seek to Block Nvidia From Selling Top AI Chips to China](https://www.bloomberg.com/news/articles/2025-12-04/senators-seek-to-block-nvidia-from-selling-top-ai-chips-to-china)**
+
+Bloomberg.com • 7h ago
+
+---
+
+**[Nvidia CEO Jensen Huang Just Won the AI Chip Restriction Battle](https://www.barrons.com/articles/nvidia-stock-price-jensen-huang-china-ai-chip-restrictions-85b95052?gaa_at=eafs&gaa_n=AWEtsqdbR2kdeyC1Ui9oE-z5--qne68ysUwQqmP7_po0-yRj4ksJLLNbpn13&gaa_ts=693275dd&gaa_sig=8ahKO0qZaiqDVmlw9oIBIaCoKs2DhD7WGcjz5po23wzehtR5ctwQ_UbPRylOOd8tKvFAyFFMZZc7Up1tQPHf7w%3D%3D)**
+
+Barron's • 8h ago
+
+---
+
+**[An AI Bust May Not Be All Bad News](https://foreignpolicy.com/2025/12/05/ai-bust-not-all-bad-news/)**
 
 The boom makes it hard for competitors to step away from a treadmill of continuous acceleration.
 
-Foreign Policy • 32m ago
+Foreign Policy • 46m ago
+
+---
+
+**[Chinese AI Chip Maker Moore Threads Makes Strong Debut After $1 Billion IPO](https://www.wsj.com/tech/chinese-ai-chip-maker-moore-threads-makes-strong-debut-after-1-billion-ipo-e9a43a13?gaa_at=eafs&gaa_n=AWEtsqfRtFHSyaVqlSoveRvdBjHyEWWRBFsJKO-HEHlG-qnk0-zf-XDv1_Gk&gaa_ts=693275dd&gaa_sig=qT6N4hL9msm3OO13XiLZKPZAsrdiAdqfuaaNnxw78wvLURKl94rZ4AwKIuwO3rEPZytC4ViJxibht7FLcFSv_Q%3D%3D)**
+
+The Wall Street Journal • 56m ago
 
 ---
 
@@ -149,39 +167,17 @@ Anthropic • 12h ago
 
 ---
 
-**[The Strange Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/)**
+**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
 
-Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
+Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
 
-The Atlantic • 7h ago
+Forbes • 12h ago
 
 ---
 
 **[Exclusive: Some AI dangers are already real, DeepMind's Hassabis says](https://www.axios.com/2025/12/05/ai-hassabis-agi-risks-pdoom)**
 
-Axios • 3h ago
-
----
-
-**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
-
-Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
-
-Forbes • 11h ago
-
----
-
-**[Salesforce CEO calls AI a 'commodity feature', says the technology bolsters enterprise software](https://www.cnbc.com/2025/12/04/salesforce-ai-commodity-enterprise-software-technology.html)**
-
-Salesforce CEO Marc Benioff told CNBC's Jim Cramer how his company uses AI.
-
-CNBC • 6h ago
-
----
-
-**[Senators Seek to Block Nvidia From Selling Top AI Chips to China](https://www.bloomberg.com/news/articles/2025-12-04/senators-seek-to-block-nvidia-from-selling-top-ai-chips-to-china)**
-
-Bloomberg.com • 7h ago
+Axios • 4h ago
 
 ---
 
@@ -193,7 +189,7 @@ Bloomberg.com • 7h ago
 
 : Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
 
-⬆️ 1041 • 💬 600 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+⬆️ 1041 • 💬 601 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 
 ---
 
@@ -201,7 +197,7 @@ Bloomberg.com • 7h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 920 • 💬 1020 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 922 • 💬 1020 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -233,7 +229,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 524 • 💬 510 • 20h ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 528 • 💬 515 • 21h ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -241,7 +237,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 382 • 💬 292 • 14h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 387 • 💬 292 • 14h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -249,7 +245,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 229 • 💬 189 • 8h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 230 • 💬 189 • 8h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -329,7 +325,7 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 409K • 👍 11K • 💬 679 • ⏱️ 4:58 • 16h ago
+👁️ 409K • 👍 11K • 💬 679 • ⏱️ 4:58 • 17h ago
 
 ---
 
@@ -397,7 +393,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 8,690 • ❤️ 714 • 3d ago
+⬇️ 8,690 • ❤️ 716 • 3d ago
 
 ---
 
@@ -487,7 +483,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 0 • ❤️ 174 • 3h ago
+⬇️ 0 • ❤️ 177 • 4h ago
 
 ---
 
@@ -678,7 +674,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 819 • 🔱 42 • 2m ago
+⭐ 819 • 🔱 42 • 16m ago
 
 ---
 

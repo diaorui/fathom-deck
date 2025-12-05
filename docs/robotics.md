@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T05:35:43.393844+00:00'
+updated: '2025-12-05T05:49:42.667538+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 05:35 UTC  
+**Last Updated:** December 05, 2025 at 05:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,6 +46,12 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.](https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/)**
+
+15m ago
+
+---
+
 **[Marc Raibert on Why Robotics Needs More Transparency](https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/)**
 
 Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
@@ -62,6 +68,30 @@ Hi everyone, My husband is a mechanical engineer and has found his niche in robo
 
 ---
 
+**[LYNX M20 / M20 PRO comes to the US - certified by FCC](https://www.reddit.com/r/robotics/comments/1pen7s8/lynx_m20_m20_pro_comes_to_the_us_certified_by_fcc/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=NAcanWv_2Z8) • 4m ago
+
+---
+
+**[Robotics engineer visiting China](https://www.reddit.com/r/robotics/comments/1pemu4y/robotics_engineer_visiting_china/)**
+
+Hello redditors, I am robotics engineer visiting China for the first time trying to meet vendors for parts procurement and also I want to use this time to meet and explore other vendors. I would be visiting Beijing, Guangdong, Shanghai and Shenzhen. Also let me know if I should meet any other company in any other area. I have worked on quadrupeds, drones, manipulators, mobile robots, underwater robots, iot, AI/ML for robotics and Reinforcement Learning Thanks in advance
+
+25m ago
+
+---
+
+**[Robotics engineer visiting China](https://www.reddit.com/r/robotics/comments/1pemu1c/robotics_engineer_visiting_china/)**
+
+Hello redditors, I am robotics engineer visiting China for the first time trying to meet vendors for parts procurement and also I want to use this time to meet and explore other vendors. I would be visiting Beijing, Guangdong, Shanghai and Shenzhen. Also let me know if I should meet any other company in any other area. I have worked on quadrupeds, drones, manipulators, mobile robots, underwater robots, iot, AI/ML for robotics and Reinforcement Learning Thanks in advance
+
+25m ago
+
+---
+
 **[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
 
 18h ago
@@ -73,34 +103,6 @@ Hi everyone, My husband is a mechanical engineer and has found his niche in robo
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 🔗 [youtube.com](https://www.youtube.com/watch?v=cqLFY9FmWqk) • 5h ago
-
----
-
-**[A comparison of Figure 03, EngineAI T800, and Tesla Optimus running](https://www.reddit.com/r/robotics/comments/1pdy9mn/a_comparison_of_figure_03_engineai_t800_and_tesla/)**
-
-17h ago
-
----
-
-**[I created a coding agent specialised for ROS](https://www.reddit.com/r/robotics/comments/1pe70xu/i_created_a_coding_agent_specialised_for_ros/)**
-
-11h ago
-
----
-
-**[Pi0 worked for a entire day](https://www.reddit.com/r/robotics/comments/1pdjp2c/pi0_worked_for_a_entire_day/)**
-
-https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, π*0.6 can make various espresso drinks from 5:30am to 11:30pm
-
-1d ago
-
----
-
-**[Robot Arm Item-Picking Demo in a Simulated Supermarket Scene](https://www.reddit.com/r/robotics/comments/1pdwivk/robot_arm_itempicking_demo_in_a_simulated/)**
-
-A short demo of an item-picking sequence inside a supermarket-style simulation environment. The robot’s navigation in this clip is teleoperated (not autonomous), and the goal is mainly to show how the pick action and scene interactions behave under the current physics setup. For anyone working with manipulation or sim-based workflows, feedback is welcome on aspects such as: motion quality or controller behavior, grasp sequence setup, physics consistency, scene design considerations for similar tasks. Interested in hearing how others approach supermarket-style manipulation tasks in simulation. BGM: Zatplast
-
-19h ago
 
 ---
 
@@ -176,11 +178,11 @@ Bessemer Venture Partners • 2d ago
 
 ---
 
-**[Massimo Group (NASDAQ: MAMO) forms AI robotics division to enter global automation and smart-systems markets](https://www.stocktitan.net/news/MAMO/massimo-group-announces-formation-of-ai-robotics-division-expanding-p08w84pho0qe.html)**
+**[Robotics stocks jolted higher by report the Trump administration is going “all in” to boost the industry](https://sherwood.news/markets/robotics-stocks-jolted-higher-by-report-the-trump-administration-is-going-all-in-on-industry/)**
 
-Massimo Group forms Massimo AI Technology to develop industrial automation and logistics robotics, aiming to diversify revenue and expand beyond powersports and EVs.
+Supporting robotics is the natural evolution of supporting AI....
 
-Stock Titan • 16h ago
+Sherwood News • 1d ago
 
 ---
 

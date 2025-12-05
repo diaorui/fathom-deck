@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T05:35:43.384586+00:00'
+updated: '2025-12-05T05:49:42.658347+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 05:35 UTC  
+**Last Updated:** December 05, 2025 at 05:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,25 +46,25 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.9%  
 **7d:** +1.4%  
-**30d:** -9.1%  
-**90d:** -17.3%  
-**1y:** -7.6%  
+**30d:** -9.2%  
+**90d:** -17.4%  
+**1y:** -7.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1839.07B
+**Market Cap:** $1836.65B
 Rank #1
 
 **Circulating Supply:** 19,957,765 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.9%
+-27.0%
 
 **All-Time Low:** $67.81
-+135810.6%
++135589.4%
 
 ---
 
@@ -80,12 +80,6 @@ Rank #1
 **[We have no idea how bad things have really gotten.](https://www.reddit.com/r/Bitcoin/comments/1pebeih/we_have_no_idea_how_bad_things_have_really_gotten/)**
 
 8h ago
-
----
-
-**[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
-
-12h ago
 
 ---
 
@@ -107,7 +101,13 @@ Im only up 3000% now
 
 **[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
 
-4h ago
+5h ago
+
+---
+
+**[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
+
+12h ago
 
 ---
 
@@ -125,6 +125,12 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 ---
 
+**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
+
+2h ago
+
+---
+
 **[Broke .1 finally!](https://www.reddit.com/r/Bitcoin/comments/1pedy60/broke_1_finally/)**
 
 .2 next, just wanted to share with someone
@@ -135,13 +141,7 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 **[hahahah](https://www.reddit.com/r/Bitcoin/comments/1pee88f/hahahah/)**
 
-6h ago
-
----
-
-**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
-
-1h ago
+7h ago
 
 ---
 
@@ -157,33 +157,25 @@ CoinDesk • 1d ago
 
 ---
 
+**[Crypto Price News: XRP, HBAR, ZEC Lead Thursday Decline, but Alts Could be Poised for Rally](https://www.coindesk.com/daybook-us/2025/12/04/bitcoin-could-continue-chopping-below-usd95k-into-year-end-as-altcoins-may-outperform-analyst-says)**
+
+Low-liquidity in December may cap bitcoin's recovery rally, but rangebound trading for the largest crypto could benefit smaller digital assets, Wincent's Paul Howard said.
+
+CoinDesk • 9h ago
+
+---
+
+**[BTC, XRP, ETH, SOL News: Here's How Friday's Inflation Report Could Move Prices](https://www.coindesk.com/markets/2025/12/05/here-s-how-much-btc-eth-sol-xrp-may-move-on-friday-s-inflation-report)**
+
+A softer inflation report could lower the 10-year Treasury yield and support cryptocurrencies.
+
+CoinDesk • 1h ago
+
+---
+
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
 The Economist • 19h ago
-
----
-
-**[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
-
-Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
-
-CNBC • 14h ago
-
----
-
-**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html)**
-
-A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Asia Market Open: Bitcoin Holds Near $92k, Equities Slip On Fresh Economic Signals](https://finance.yahoo.com/news/asia-market-open-bitcoin-holds-034238305.html)**
-
-Bitcoin held just under $92,000 on Friday as traders weighed a heavy mix of labour data, central bank bets and choppy equity markets in Asia, Europe and the US.Akshat Siddhant, lead quant analyst at Mudrex, said the crypto market continues to display strong resilience. “Renewed whale accumulation is supporting the ...
-
-Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +183,15 @@ Yahoo Finance • 1h ago
 
 Markets are hedging a Fed misstep, driving gold and silver higher while Bitcoin lags as traders reassess risk.
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Asia Market Open: Bitcoin Holds Near $92k, Equities Slip On Fresh Economic Signals](https://finance.yahoo.com/news/asia-market-open-bitcoin-holds-034238305.html)**
+
+Bitcoin held just under $92,000 on Friday as traders weighed a heavy mix of labour data, central bank bets and choppy equity markets in Asia, Europe and the US.Akshat Siddhant, lead quant analyst at Mudrex, said the crypto market continues to display strong resilience. “Renewed whale accumulation is supporting the ...
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,9 +201,9 @@ The New York Times • 1d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdBVdAsuIYzyZJI1yr4A7UgIMPNnZrbo4BxZdSYT16Gf5aYCdLBGNMa&gaa_ts=69326cde&gaa_sig=V627NE3oJuP_QJ4zGXjbA2YzlHHi37aN3-SqWfqPVXmoNdlQ6MVbAeEA9x0CX6Jgjpkj0VB7-QYzUokb96Uhag%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeMY34zpD03d2tNvxv9AKAbNNMYGM9IT-IgoR74oWAPKCQRqkwXOCuh&gaa_ts=693275db&gaa_sig=qi9fzIqQhWcSpyNbtUxi1ysWq4EQgELjcHaN4MMdomM8rZdbo4wk0mHbtc7ckF2ux05pwPwYCUEtTTVcbiy9cw%3D%3D)**
 
-MarketWatch • 8h ago
+MarketWatch • 9h ago
 
 ---
 
@@ -215,11 +215,9 @@ Fortune • 17h ago
 
 ---
 
-**[Video: BlackRock C.E.O. Calls Bitcoin an ‘Asset of Fear’](https://www.nytimes.com/video/business/dealbook/100000010562120/blackrock-ceo-calls-bitcoin-an-asset-of-fear.html)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqe9NuVTvzxXYmNlBXGn9j_QepOkyQL44UVMi9ZDAfjkROrQiq4B6zo5&gaa_ts=693275db&gaa_sig=F3gCqkqT5qEI5ncqcS0BoD3TSTOk_JUU1yW5RG3u5lmVVo-07ivbMwRVFkDBLzvWN1E_rbaynD_A0jj3LomB9g%3D%3D)**
 
-Larry Fink, the chief executive of BlackRock, dismissed concerns about the long-term value of cryptocurrency.
-
-The New York Times • 1d ago
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -295,7 +293,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol](https://news.ycombinator.com/item?id=46149605)**
 
-⬆️ 1 • 💬 0 • 12h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
+⬆️ 1 • 💬 0 • 13h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
 
 ---
 

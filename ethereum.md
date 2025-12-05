@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T19:41:54.617322+00:00'
+updated: '2025-12-05T19:53:40.685924+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 19:41 UTC  
+**Last Updated:** December 05, 2025 at 19:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,012.34
+### $3,033.54
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -3.6%  
-**7d:** +1.4%  
-**30d:** -8.6%  
+**7d:** +1.3%  
+**30d:** -8.7%  
 **90d:** -29.8%  
-**1y:** -24.1%  
+**1y:** -24.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.44B
+**Market Cap:** $365.76B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.2%
+-38.7%
 
 **All-Time Low:** $0.43
-+694233.9%
++700693.8%
 
 ---
 
@@ -88,7 +88,15 @@ Trump crypto empire falls faster than bitcoin
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
-6h ago
+7h ago
+
+---
+
+**[Part Six of "Can I Pay With This?": Trustless, My Ass](https://www.reddit.com/r/ethereum/comments/1pf4r51/part_six_of_can_i_pay_with_this_trustless_my_ass/)**
+
+This is Part Six of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires. Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Trustless, My Ass <-- You are here Trading with the Blue Man At the hotel, the man working reception is exactly who I was hoping for: tall, broad, the build of someone who could win a bar fight just by standing up. When I sit down in the lobby, he asks if I'm meeting someone, like I need permission to sit in the hotel that I'm paying for. I say yes I am. Meeting someone. He waits, in case I'll give further details, and then shrugs and leaves me alone. One more message to Blue Man. I'm here. Look for the blonde sitting by the window. I wait. Half an hour passes. I look up nervously every time someone walks in. I set up my new keyboard to have something to do with my hands. Reception man keeps one eye on me but most of his attention is taken up by the endless stream of tourists dragging too many bags. A pick-up truck pulls up outside. My stomach flips. Is this him? Is this how it's going to happen? Am I supposed to go out there? Is he just going to hand me an envelope after all. Am I supposed to get in the truck? I stay exactly where I am, mentally drafting excuses for not going outside. Anything that doesn't make me sound like a person whose first reaction to a pick-up truck is potential kidnapping. The truck pulls away. Nothing to do with me. A large French family arrives and explodes across the lobby, checking in to their rooms to drop luggage and then meeting again to go out on the town. Couples, children, cousins, an elderly woman with cataracts calling out "Who are we missing," every few minutes. How the hell am I going to enact a dodgy transaction with Grandmère sitting next to me? Eventually, the lobby clears and it is just me and the muscled man at reception. Blue Man messages, apologizes, he's finally on his way. A businessman walks in wearing a sharp suit and a tired face, checks into a room and heads for the elevator. Skinny guy wearing headphones drops a package on the desk, disappears without a word. A man with a nose that's been broken many times walks in and looks around. I tense. Muscle man behind the counter greets him like an old friend. A kid walks in, looks about thirteen. I slump back into my seat. He turns, scans the room, sees me. His face lights up. He says my name. This is Blue. He is not thirteen, of course. Just young and slender. He looks like a gentle soul. Maybe writes poetry. If it came to it, I could body slam him and run. I stand. We kiss cheeks. I invite him to join me on the corner of the sofa that has been my home for the past hour. He tells me, a little nervously, that his English is not very good. I'm charmed. He holds out an envelope. I peek inside. Yes, it looks like money. "Count it," he says. I pull out the bills and count them quickly. Reception man watches us, flexing, trying to work out if I'm selling my services in his hotel. Possibly I haven't thought this through. I count faster. The amount is correct. I place the envelope next to him and set up the transaction on my phone. He pulls out his phone and shows me his list of chains, asks me again what I've chosen. I get his wallet address and send the USDT. I show him the confirmation. Blue stares at his screen. "It takes a moment," he says. It shouldn't. But I wait. A minute passes, then two. A cold feeling is just starting to creep up my spine when he makes a happy sound, shows me a Bybit notification that someone has sent him 400 USDT. Blue's using a centralized exchange. It's none of my business. The transaction is complete. I pick up the envelope. He tells me that I can message him anytime, if I need anything. That he would be happy to do this again. I hope reception man isn't listening. Then he notices my keyboard on the table. "Is this what you bought?" I nod and he laughs, like who goes all the way to Buenos Aires to buy a keyboard? "Mine was stolen," I say. He gives me another dubious look and picks it up. His face brightens into a smile. "Oh! It's so light!" I'm absurdly pleased that he likes my keyboard. We say our goodbyes under the steely gaze of reception man. And then Blue is gone. Still to come: Custodial Services (Self-custody is easy, luggage custody is hard) Apparently I Did It Wrong ("You should have just used X, bro.")
+
+5m ago
 
 ---
 
@@ -136,45 +144,21 @@ a wonderful fusaka day to you all - original post if you want to help boost on t
 
 ---
 
-**[How is Ethereum solving the blockchain trilemma? Post Fusaka upgrade analysis.](https://www.reddit.com/r/ethereum/comments/1pdra4c/how_is_ethereum_solving_the_blockchain_trilemma/)**
-
-Ethereum is actively working to address the blockchain trilemma, a core challenge in the design of decentralized systems that suggests a blockchain can only achieve two of three key properties—Decentralization, Security, and Scalability—at the same time. Ethereum's strategy involves a multi-phased roadmap and the heavy utilization of Layer 2 (L2) scaling solutions to tackle scalability while maintaining its core commitments to decentralization and security. 🛡️ Security and Decentralization Ethereum's foundational layer, or Layer 1 (L1), prioritizes security and decentralization, which are fundamental to its value proposition as a "world computer." Security: The network transitioned from a Proof-of-Work (PoW) consensus mechanism to Proof-of-Stake (PoS), known as The Merge (September 2022). PoS maintains a high level of security by making it prohibitively expensive for a malicious actor to gain enough staked ETH to compromise the network. The economic cost of an attack on Ethereum's PoS network is arguably higher than on its former PoW network. Decentralization: PoS is intended to boost decentralization in the long run by making it easier for more people to become validators, as it requires less specialized, expensive hardware compared to PoW mining. The development roadmap also includes phases like The Scourge and The Purge, which aim to further improve censorship resistance and reduce the hardware requirements for running a node, promoting wider network participation. 🚀 Scaling (Solving the Trilemma's Third Side) Ethereum's main challenge was scalability—the network became congested, leading to slow transactions and high gas fees. The strategy to address this is primarily through Layer 2 solutions and fundamental L1 upgrades. Layer 2 (L2) Scaling Solutions Ethereum leans heavily on L2 networks, which process transactions off the main chain but settle on L1, inheriting Ethereum's robust security. Rollups: These are the most prominent L2 solution. They execute thousands of transactions off-chain and then bundle ("roll up") the resulting data into a single, compressed transaction that gets submitted back to the Ethereum Mainnet. Optimistic Rollups (e.g., Arbitrum, Optimism): Assume transactions are valid but allow a "challenge period" where anyone can submit a fraud proof if they detect an invalid transaction. Zero-Knowledge (ZK) Rollups (e.g., zkSync, Starknet): Use cryptographic proofs (validity proofs) to instantly verify the correctness of off-chain transactions, providing stronger security guarantees. By offloading the execution layer to L2s, Ethereum L1 can focus on its role as the secure and decentralized data availability layer. Layer 1 Upgrades Ethereum's roadmap includes major L1 upgrades to support the L2 scaling strategy: Proto-Danksharding (EIP-4844): Implemented in the Dencun upgrade (March 2024), this introduced a new, cheaper way for rollups to post transaction data to the L1 using "blobs". This significantly lowered L2 transaction costs, boosting scalability without compromising security or decentralization. The Surge (Full Sharding): The long-term vision involves a form of data sharding where the network is split to handle data more efficiently. This will dramatically increase the data capacity of the L1, further scaling the L2 ecosystem to potentially handle hundreds of thousands of transactions per second (TPS). In essence, Ethereum is solving the trilemma by adopting a layered approach: L1 provides decentralized security, and L2s provide scalability.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Ethereum Options Traders More Bullish Than Bitcoin Counterparts: Analysts](https://decrypt.co/351073/ethereum-options-traders-more-bullish-than-bitcoin-counterparts-analysts)**
+**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
 
-Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
+Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Decrypt • 6h ago
+Decrypt • 1h ago
 
 ---
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
 The Block • 22h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dive-liquidations-175610855.html)**
-
-Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Better Buy in 2026: Ethereum or Solana?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-solana)**
-
-Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
-
-Nasdaq • 1d ago
 
 ---
 
@@ -196,7 +180,15 @@ TipRanks • 6h ago
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Better Buy in 2026: Ethereum or Solana?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-solana)**
+
+Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -216,11 +208,17 @@ cheddar.com • 22h ago
 
 ---
 
-**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
+**[Ethereum Launches Fusaka Upgrade to Make Network More Scalable](https://thedefiant.io/news/blockchains/ethereum-launches-fusaka-upgrade-to-make-network-more-scalable)**
 
-Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
+The Defiant • 1d ago
 
-Decrypt • 1d ago
+---
+
+**[Bitcoin Vs. Ethereum And The Flippening Lubin Predicts](https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/)**
+
+Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH’s utility loop, Bitcoin’s scarcity, and why money is entering a multi-form future.
+
+Forbes • 3d ago
 
 ---
 

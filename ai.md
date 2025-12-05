@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T19:41:54.602936+00:00'
+updated: '2025-12-05T19:53:40.673023+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - videos
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 19:41 UTC  
+**Last Updated:** December 05, 2025 at 19:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,15 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 21h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 22h ago
+
+---
+
+**[The scariest scenario unfolding before our eyes - a case of fake "Dr. Avi Loeb" YouTube channel](https://www.reddit.com/r/artificial/comments/1pf3igs/the_scariest_scenario_unfolding_before_our_eyes_a/)**
+
+So, the defining moment everyone's been dreading, has actually happened .. and basically nobody noticed! We have a channel stealing the identity of a person who happens to be a respected public figure and a top level scientist, still online, spreading false information and fooling people. https://youtu.be/_bOF-yCspps?si=tT0d0Fqq6Rds1Zp6
+
+53m ago
 
 ---
 
@@ -83,17 +91,9 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 ---
 
-**[The scariest scenario unfolding before our eyes - a case of fake "Dr. Avi Loeb" YouTube channel](https://www.reddit.com/r/artificial/comments/1pf3igs/the_scariest_scenario_unfolding_before_our_eyes_a/)**
-
-So, the defining moment everyone's been dreading, has actually happened .. and basically nobody noticed! We have a channel stealing the identity of a person who happens to be a respected public figure and a top level scientist, still online, spreading false information and fooling people. https://youtu.be/_bOF-yCspps?si=tT0d0Fqq6Rds1Zp6
-
-41m ago
-
----
-
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 23h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 1d ago
 
 ---
 
@@ -117,9 +117,11 @@ AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy ch
 
 ## Google News: "ai"
 
-**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
+**[Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)**
 
-The Washington Post • 1h ago
+Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
+
+The Keyword • 3h ago
 
 ---
 
@@ -133,19 +135,33 @@ The New York Times • 9h ago
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-The Guardian • 54m ago
+The Guardian • 1h ago
 
 ---
 
-**[AI is helping criminals create virtual kidnapping scams](https://www.axios.com/2025/12/05/ai-videos-photos-scam-virtual-fbi-victim-ransom-kidnapping)**
+**[Exclusive: Meta strikes multiple AI deals with news publishers](https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers)**
 
-Axios • 1h ago
+Axios • 6h ago
 
 ---
 
-**[Patchy Oversight Leaves GPs Adrift in AI ‘Wild West’](https://www.medscape.com/viewarticle/patchy-oversight-leaves-gps-adrift-ai-wild-west-2025a1000y65?src=rss)**
+**[Meta strikes multiple AI deals with news publishers](https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/)**
 
-Medscape • 50m ago
+Reuters • 5h ago
+
+---
+
+**[Meta reaches AI deals with CNN, Fox News, other media outlets](https://nypost.com/2025/12/05/business/meta-reaches-ai-deals-with-cnn-fox-news-other-media-outlets/)**
+
+Meta has reached deals to pay Fox News, CNN and several other news publishers in exchange for using their articles in its AI chatbot, the company said Friday.
+
+New York Post • 1h ago
+
+---
+
+**[Health AI hits point-solution burnout as demand for real value grows](https://www.axios.com/2025/12/05/health-ai-point-solution-fatigue)**
+
+Axios • 15m ago
 
 ---
 
@@ -165,23 +181,9 @@ The Atlantic • 22h ago
 
 ---
 
-**[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
+**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
-The New York Times • 6h ago
-
----
-
-**[New York Times sues Perplexity AI for 'illegal' copying of content](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
-
-Reuters • 3h ago
-
----
-
-**[The Times Sues Perplexity AI](https://www.nytco.com/press/the-times-sues-perplexity-ai/)**
-
-Today, The New York Times filed a lawsuit against Perplexity AI for copying Times journalism to deliver it to Perplexity’s customers without permission or compensation.
-
-The New York Times Company • 5h ago
+The Washington Post • 1h ago
 
 ---
 
@@ -209,7 +211,7 @@ A post about everyone in Seattle hating AI.
 
 Update: This post received a large amount of attention on Hacker News — see the discussion thread.
 
-⬆️ 804 • 💬 281 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+⬆️ 805 • 💬 281 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 
 ---
 
@@ -217,7 +219,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 664 • 💬 627 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 668 • 💬 633 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -225,7 +227,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 423 • 💬 330 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 423 • 💬 329 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -233,7 +235,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 244 • 💬 201 • 22h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 245 • 💬 202 • 22h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -249,7 +251,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 198 • 💬 91 • 21h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 199 • 💬 91 • 21h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -385,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,126 • 3d ago
+⬇️ 152,916 • ❤️ 2,127 • 3d ago
 
 ---
 
@@ -409,7 +411,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 3,773 • ❤️ 508 • 4d ago
+⬇️ 3,773 • ❤️ 509 • 4d ago
 
 ---
 
@@ -433,7 +435,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 279 • 17h ago
+⬇️ 12,984 • ❤️ 281 • 18h ago
 
 ---
 
@@ -679,7 +681,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 824 • 🔱 103 • 3h ago
+⭐ 824 • 🔱 103 • 4h ago
 
 ---
 
@@ -689,7 +691,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 13h ago
+⭐ 822 • 🔱 42 • 14h ago
 
 ---
 

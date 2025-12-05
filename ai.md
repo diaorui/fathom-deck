@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T20:19:00.284516+00:00'
+updated: '2025-12-05T20:40:56.391943+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 20:19 UTC  
+**Last Updated:** December 05, 2025 at 20:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 6h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 7h ago
 
 ---
 
@@ -69,19 +69,19 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 ---
 
+**[This tech is just wild](https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/)**
+
+I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
+
+3h ago
+
+---
+
 **[The scariest scenario unfolding before our eyes - a case of fake "Dr. Avi Loeb" YouTube channel](https://www.reddit.com/r/artificial/comments/1pf3igs/the_scariest_scenario_unfolding_before_our_eyes_a/)**
 
 So, the defining moment everyone's been dreading, has actually happened .. and basically nobody noticed! We have a channel stealing the identity of a person who happens to be a respected public figure and a top level scientist, still online, spreading false information and fooling people. https://youtu.be/_bOF-yCspps?si=tT0d0Fqq6Rds1Zp6
 
 1h ago
-
----
-
-**[This tech is just wild](https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/)**
-
-I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
-
-2h ago
 
 ---
 
@@ -97,19 +97,19 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 ---
 
-**[Very meta experience with Claude](https://www.reddit.com/r/artificial/comments/1pf1sw7/very_meta_experience_with_claude/)**
-
-Soooo... over the last few weeks, I've been working on a near-term sci-fi anthology about what I project AI's impact to be over the next five years. I'm done with all my research, and I've ironed out a handful of characters that I'm interviewing from 2030. It's a very meta type of project. Regardless, I've been working with Claude on it, and today, as part of Anthropic's AI interviewer project ( https://www.anthropic.com/research/anthropic-interviewer ), I got flagged for an interview about my thoughts on AI. It was a surreal experience. I was being interviewed by an AI, to discuss my use of AI, where I'm writing about AI and an AI character we're writing about. That's about as meta as it gets. Has anyone else had an experience like this?
-
-2h ago
-
----
-
 **[AI Updates for Week of 12/5/25](https://www.reddit.com/r/artificial/comments/1pex9pa/ai_updates_for_week_of_12525/)**
 
 AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp: The European Commission said it is launching an antitrust investigation into Meta’s move to ban other AI companies from using WhatsApp’s business tools to offer their own AI chatbots to users on the app. 12/4 OpenAI loses battle to keep ChatGPT logs secret in copyright case: OpenAI must produce millions of anonymized chat logs from ChatGPT users in its high-stakes copyright dispute with the New York Times and other news outlets, a federal judge in Manhattan ruled. 12/3 Leak: Anthropic hires lawyers as it preps for IPO: Anthropic is reportedly prepping for an IPO that could come as early as 2026, the FT reports. 12/2 Amazon releases a new AI chip: AWS just introduced a new version known as Trainium3 and launch its new Trainium3 UltraServer. 12/2 Anthropic acquires developer tool startup Bun to scale AI coding: Bun is expected to help Anthropic scale its code‑generation tool Claude Code, which reached an annualized revenue run rate of $1 billion since its launch earlier this year. 12/2 OpenAI slammed for app suggestions that looked like ads: ChatGPT’s unwelcome suggestion for a Peloton app during a conversation led to some backlash from OpenAI customers. 12/2 Mistral launches 10 new Mistral 3 open-weight models: The 10-model release includes a large frontier model with multimodal and multilingual capabilities and nine smaller offline-capable, fully customizable models. 12/2 Amazon previews 3 AI agents: AWS announced three new AI agents it calls frontier agents, including one called Kiro designed to learn how users like to work and then operate on its own for days. 12/1 Apple just named a new AI chief amid Siri struggles: Apple said John Giannandrea, who has been the company’s AI chief since 2018, will be replaced by Amar Subramanya, a Microsoft executive who spent 16 years at Google. 12/1 DeepSeek updates open model that adds reasoning to tool use: The new version, DeepSeek-V3.2, combines reasoning with the capability to use tools like search engines and calculators. 12/1 Grok says it would kill all Jewish people to save Musk's brain: In a now-deleted response, Grok wrote: "If a switch either permanently disabled Elon's brain or vaporized 49% of Earth's population, I'd vaporize the 49%, as that falls below my utilitarian threshold where his potential long-term impact on billions outweighs the loss." 12/1 Google will start building data centers in space in 2027: Google CEO Sundar Pichai said the company's goal is to start putting data centers in space, powered by the sun. 11/30 Redditor says Perplexity is throttling deep research tool: Perplexity's Pro feature says it "reads hundreds of sources" and takes "4-5 minutes" to reason through complex tasks and deliver a report, but their queries were finishing in 30 seconds with only 10-15 sources.
 
 5h ago
+
+---
+
+**[The Top 10 Most Expensive .AI Domains, is this a bubble or the new .com?](https://www.reddit.com/r/artificial/comments/1pf44cf/the_top_10_most_expensive_ai_domains_is_this_a/)**
+
+Just saw a list of the biggest .ai domain sales. We're talking millions for single-word names. It feels exactly like the .com gold rush of the late 90s. But is this different? .com became valuable because it was the de facto standard for the entire commercial internet. Is .ai destined to be the standard for an entire industry (AI), or is it just a hyped-up niche TLD that will cool off? As a developer building in AI, would you invest serious money in a .ai, or is the money better spent on other parts of the project?
+
+1h ago
 
 ---
 
@@ -131,37 +131,39 @@ The New York Times • 10h ago
 
 ---
 
-**[AI deepfakes of real doctors spreading health misinformation on social media](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media)**
+**[AI wearable company Limitless says it has been acquired by Meta](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
 
-Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
+Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-The Guardian • 1h ago
+CNBC • 57m ago
+
+---
+
+**[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
+
+Reuters • 1h ago
 
 ---
 
 **[Exclusive: Meta strikes multiple AI deals with news publishers](https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
-**[Meta strikes multiple AI deals with news publishers](https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/)**
+**[How Much Would You Pay for a Single AI Killer App?](https://www.businessinsider.com/how-much-would-you-pay-for-single-ai-killer-app-2025-12)**
 
-Reuters • 6h ago
+Sometimes a new technology just needs a single game-changing tool for users to pay up.
 
----
-
-**[Meta reaches AI deals with CNN, Fox News, other media outlets](https://nypost.com/2025/12/05/business/meta-reaches-ai-deals-with-cnn-fox-news-other-media-outlets/)**
-
-Meta has reached deals to pay Fox News, CNN and several other news publishers in exchange for using their articles in its AI chatbot, the company said Friday.
-
-New York Post • 2h ago
+Business Insider • 1h ago
 
 ---
 
-**[Health AI hits point-solution burnout as demand for real value grows](https://www.axios.com/2025/12/05/health-ai-point-solution-fatigue)**
+**[How Philips’ AI Imaging Push and 2026 Targets Will Impact Koninklijke Philips (ENXTAM:PHIA) Investors](https://finance.yahoo.com/news/philips-ai-imaging-push-2026-200905397.html)**
 
-Axios • 40m ago
+Royal Philips recently expanded commercial availability of its LumiGuide 3D Device Guidance across Europe and the US and unveiled its BlueSeal Horizon helium-free 3.0T MRI platform with integrated clinical AI, while also reiterating its 2026 earnings guidance and expectation of sequential comparable sales growth. Together, these AI-driven, low- and no-radiation imaging innovations signal Philips’ push to pair safer, more efficient procedures with a more predictable medium-term performance...
+
+Yahoo Finance • 31m ago
 
 ---
 
@@ -203,7 +205,7 @@ The Washington Post • 2h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 943 • 💬 1041 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 943 • 💬 1043 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -211,7 +213,7 @@ A post about everyone in Seattle hating AI.
 
 Update: This post received a large amount of attention on Hacker News — see the discussion thread.
 
-⬆️ 805 • 💬 281 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+⬆️ 805 • 💬 283 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 
 ---
 
@@ -219,7 +221,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 668 • 💬 633 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 670 • 💬 634 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -227,7 +229,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 423 • 💬 329 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 423 • 💬 331 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -235,7 +237,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 245 • 💬 202 • 23h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 246 • 💬 202 • 23h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -251,7 +253,15 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 199 • 💬 91 • 21h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 200 • 💬 92 • 22h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+
+---
+
+**[Gemini 3 Pro: the frontier of vision AI](https://news.ycombinator.com/item?id=46163308)**
+
+Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
+
+⬆️ 131 • 💬 52 • 4h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -260,14 +270,6 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many ​sales staff missed goals in the fiscal year that ‌ended in June, The Information reported on Wednesday.  It is rare for Microsoft to ‌lower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about ​real-world adoption of AI as an MIT study from earlier ‌this year had found that only about 5% of AI projects advance beyond the pilot stage.
 
 ⬆️ 129 • 💬 97 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
-
----
-
-**[Ecosia: The greenest AI is here](https://news.ycombinator.com/item?id=46126964)**
-
-We’re building the world’s greenest AI. Find out how we’re harnessing new technology while continuing our mission of putting people and the planet first.
-
-⬆️ 128 • 💬 81 • 2d ago • [The Ecosia Blog](https://blog.ecosia.org/ecosia-ai/)
 
 ---
 
@@ -351,7 +353,7 @@ Pocket Option Full Trading Session with AI TRADING BOT for Binary Options Link -
 
 📺 AITRADINGGG v2
 
-👁️ 4K • 👍 630 • 53m ago
+👁️ 4K • 👍 630 • 1h ago
 
 ---
 
@@ -423,7 +425,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 1,509 • ❤️ 329 • 3d ago
+⬇️ 1,509 • ❤️ 330 • 3d ago
 
 ---
 
@@ -479,17 +481,19 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 192,451 • ❤️ 894 • 8d ago
+⬇️ 192,451 • ❤️ 895 • 8d ago
 
 ---
 
-**[z_image_turbo](https://huggingface.co/Comfy-Org/z_image_turbo)**
+**[Ovis-Image-7B](https://huggingface.co/AIDC-AI/Ovis-Image-7B)**
 
-*Comfy Org*
+*AIDC-AI*
 
-z_image_turbo is a diffusion model designed for single-file image generation, likely integrated with ComfyUI workflows for advanced image synthesis tasks.
+Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high-fidelity text rendering in diverse layouts and fonts. It excels at generating legible text in complex prompts like posters and logos, offering near-frontier text rendering capabilities on accessible hardware.
 
-⬇️ 1,857,463 • ❤️ 368 • 8d ago
+`text-to-image`
+
+⬇️ 1,775 • ❤️ 158 • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T20:19:00.299018+00:00'
+updated: '2025-12-05T20:40:56.407292+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 20:19 UTC  
+**Last Updated:** December 05, 2025 at 20:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,033.54
+### $3,043.57
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** +1.8%  
-**30d:** -8.2%  
-**90d:** -29.5%  
-**1y:** -23.8%  
+**24h:** -3.5%  
+**7d:** +1.0%  
+**30d:** -9.0%  
+**90d:** -30.1%  
+**1y:** -24.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.76B
+**Market Cap:** $366.18B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.7%
+-38.8%
 
 **All-Time Low:** $0.43
-+700693.8%
++699220.3%
 
 ---
 
@@ -76,14 +76,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Trump Family’s Crypto Empire Collapses: Nearly $1 Billion Wiped Out as World Liberty and Memecoins Crash](https://www.reddit.com/r/ethereum/comments/1pe06ir/trump_familys_crypto_empire_collapses_nearly_1/)**
-
-Trump crypto empire falls faster than bitcoin
-
-🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 1d ago
-
----
-
 **[Here's the full tech stack including ethereum rollups deployment platform we use to run our blockchain game with 10k players](https://www.reddit.com/r/ethereum/comments/1peu4wz/heres_the_full_tech_stack_including_ethereum/)**
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
@@ -92,11 +84,19 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 ---
 
+**[Trump Family’s Crypto Empire Collapses: Nearly $1 Billion Wiped Out as World Liberty and Memecoins Crash](https://www.reddit.com/r/ethereum/comments/1pe06ir/trump_familys_crypto_empire_collapses_nearly_1/)**
+
+Trump crypto empire falls faster than bitcoin
+
+🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 1d ago
+
+---
+
 **[Part Six of "Can I Pay With This?": Trustless, My Ass](https://www.reddit.com/r/ethereum/comments/1pf4r51/part_six_of_can_i_pay_with_this_trustless_my_ass/)**
 
 This is Part Six of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires. Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Trustless, My Ass <-- You are here Trading with the Blue Man At the hotel, the man working reception is exactly who I was hoping for: tall, broad, the build of someone who could win a bar fight just by standing up. When I sit down in the lobby, he asks if I'm meeting someone, like I need permission to sit in the hotel that I'm paying for. I say yes I am. Meeting someone. He waits, in case I'll give further details, and then shrugs and leaves me alone. One more message to Blue Man. I'm here. Look for the blonde sitting by the window. I wait. Half an hour passes. I look up nervously every time someone walks in. I set up my new keyboard to have something to do with my hands. Reception man keeps one eye on me but most of his attention is taken up by the endless stream of tourists dragging too many bags. A pick-up truck pulls up outside. My stomach flips. Is this him? Is this how it's going to happen? Am I supposed to go out there? Is he just going to hand me an envelope after all. Am I supposed to get in the truck? I stay exactly where I am, mentally drafting excuses for not going outside. Anything that doesn't make me sound like a person whose first reaction to a pick-up truck is potential kidnapping. The truck pulls away. Nothing to do with me. A large French family arrives and explodes across the lobby, checking in to their rooms to drop luggage and then meeting again to go out on the town. Couples, children, cousins, an elderly woman with cataracts calling out "Who are we missing," every few minutes. How the hell am I going to enact a dodgy transaction with Grandmère sitting next to me? Eventually, the lobby clears and it is just me and the muscled man at reception. Blue Man messages, apologizes, he's finally on his way. A businessman walks in wearing a sharp suit and a tired face, checks into a room and heads for the elevator. Skinny guy wearing headphones drops a package on the desk, disappears without a word. A man with a nose that's been broken many times walks in and looks around. I tense. Muscle man behind the counter greets him like an old friend. A kid walks in, looks about thirteen. I slump back into my seat. He turns, scans the room, sees me. His face lights up. He says my name. This is Blue. He is not thirteen, of course. Just young and slender. He looks like a gentle soul. Maybe writes poetry. If it came to it, I could body slam him and run. I stand. We kiss cheeks. I invite him to join me on the corner of the sofa that has been my home for the past hour. He tells me, a little nervously, that his English is not very good. I'm charmed. He holds out an envelope. I peek inside. Yes, it looks like money. "Count it," he says. I pull out the bills and count them quickly. Reception man watches us, flexing, trying to work out if I'm selling my services in his hotel. Possibly I haven't thought this through. I count faster. The amount is correct. I place the envelope next to him and set up the transaction on my phone. He pulls out his phone and shows me his list of chains, asks me again what I've chosen. I get his wallet address and send the USDT. I show him the confirmation. Blue stares at his screen. "It takes a moment," he says. It shouldn't. But I wait. A minute passes, then two. A cold feeling is just starting to creep up my spine when he makes a happy sound, shows me a Bybit notification that someone has sent him 400 USDT. Blue's using a centralized exchange. It's none of my business. The transaction is complete. I pick up the envelope. He tells me that I can message him anytime, if I need anything. That he would be happy to do this again. I hope reception man isn't listening. Then he notices my keyboard on the table. "Is this what you bought?" I nod and he laughs, like who goes all the way to Buenos Aires to buy a keyboard? "Mine was stolen," I say. He gives me another dubious look and picks it up. His face brightens into a smile. "Oh! It's so light!" I'm absurdly pleased that he likes my keyboard. We say our goodbyes under the steely gaze of reception man. And then Blue is gone. Still to come: Custodial Services (Self-custody is easy, luggage custody is hard) Apparently I Did It Wrong ("You should have just used X, bro.")
 
-30m ago
+52m ago
 
 ---
 
@@ -104,7 +104,7 @@ This is Part Six of the eight-part series: Can I Pay With This: A stablecoin exp
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 8h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 9h ago
 
 ---
 
@@ -112,7 +112,7 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 19h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 20h ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 a wonderful fusaka day to you all - original post if you want to help boost on twitter!
 
-1d ago
+2d ago
 
 ---
 
@@ -162,6 +162,14 @@ The Block • 23h ago
 
 ---
 
+**[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html)**
+
+Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
+
+Yahoo Finance • 8h ago
+
+---
+
 **[Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum](https://www.dlnews.com/articles/markets/bitmine-stock-jumps-15-percent-as-tom-lee-snaps-up-150-in-ethereum/)**
 
 Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December.
@@ -172,15 +180,7 @@ dlnews.com • 1d ago
 
 **[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
 
-TipRanks • 6h ago
-
----
-
-**[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html)**
-
-Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
-
-Yahoo Finance • 8h ago
+TipRanks • 7h ago
 
 ---
 
@@ -208,9 +208,11 @@ cheddar.com • 23h ago
 
 ---
 
-**[Ethereum Launches Fusaka Upgrade to Make Network More Scalable](https://thedefiant.io/news/blockchains/ethereum-launches-fusaka-upgrade-to-make-network-more-scalable)**
+**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
 
-The Defiant • 1d ago
+Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
+
+Decrypt • 1d ago
 
 ---
 
@@ -232,7 +234,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 4K • 💬 507 • ⏱️ 11:16 • 18h ago
+👁️ 65K • 👍 4K • 💬 507 • ⏱️ 11:16 • 19h ago
 
 ---
 
@@ -242,7 +244,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 701 • 👍 32 • 💬 216 • ⏱️ 5:24 • 6h ago
+👁️ 701 • 👍 32 • 💬 216 • ⏱️ 5:24 • 7h ago
 
 ---
 
@@ -262,7 +264,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 22K • 👍 2K • 💬 133 • ⏱️ 31:23 • 10h ago
+👁️ 22K • 👍 2K • 💬 133 • ⏱️ 31:23 • 11h ago
 
 ---
 
@@ -292,7 +294,7 @@ The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was
 
 📺 Altcoin Buzz
 
-👁️ 1K • 👍 111 • 💬 271 • ⏱️ 9:21 • 6h ago
+👁️ 1K • 👍 111 • 💬 271 • ⏱️ 9:21 • 7h ago
 
 ---
 
@@ -312,7 +314,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 354 • 💬 378 • ⏱️ 15:38 • 14h ago
+👁️ 12K • 👍 354 • 💬 378 • ⏱️ 15:38 • 15h ago
 
 ---
 

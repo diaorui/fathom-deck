@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T21:15:21.436831+00:00'
+updated: '2025-12-05T21:32:44.547362+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 21:15 UTC  
+**Last Updated:** December 05, 2025 at 21:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,587.03
+### $89,478.75
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ Charts like this always remind me why time in the market beats timing the market
 
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -177,7 +177,7 @@ Decrypt • 8h ago
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -309,7 +309,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 317 • ⏱️ 10:13 • 6h ago
+👁️ 22K • 👍 1K • 💬 317 • ⏱️ 10:13 • 7h ago
 
 ---
 
@@ -319,7 +319,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 354 • 💬 378 • ⏱️ 15:38 • 15h ago
+👁️ 12K • 👍 354 • 💬 378 • ⏱️ 15:38 • 16h ago
 
 ---
 
@@ -329,7 +329,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 315 • ⏱️ 15:38 • 9h ago
+👁️ 59K • 👍 4K • 💬 315 • ⏱️ 15:38 • 10h ago
 
 ---
 
@@ -379,7 +379,7 @@ In today's video, Miles Deutscher breaks down why Bitcoin's reaction to fear is 
 
 📺 Miles Deutscher Finance
 
-👁️ 2K • 👍 144 • 💬 151 • ⏱️ 49:07 • 4h ago
+👁️ 2K • 👍 144 • 💬 151 • ⏱️ 49:07 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T21:15:21.428385+00:00'
+updated: '2025-12-05T21:32:44.538777+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 21:15 UTC  
+**Last Updated:** December 05, 2025 at 21:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 7h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
 
-23m ago
+40m ago
 
 ---
 
@@ -81,7 +81,7 @@ Most discourse around AI writing is about using it to generate content faster. I
 
 I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ So, the defining moment everyone's been dreading, has actually happened .. and b
 
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 11h ago
 
 Parents who lost their daughter to suicide say Character.AI chatbots led her down a dark and sexually explicit path. Sharyn Alfonsi investigates the scale and dangers of what's unfolding inside this rapidly growing AI technology.
 
-CBS News • 40m ago
+CBS News • 57m ago
 
 ---
 
@@ -147,7 +147,7 @@ The Wall Street Journal • 1h ago
 
 **[This crazy chart shows just how much cash OpenAI is burning as it chases AI profits](https://www.marketwatch.com/story/this-crazy-chart-shows-just-how-much-cash-openai-is-burning-as-it-chases-ai-profits-81e7ffef?gaa_at=eafs&gaa_n=AWEtsqcNtwm1YDikQlD4m3e7iMeFzFPfmek3IQ6CytQM0zWr4M4XynZYe7Ie&gaa_ts=69334ecf&gaa_sig=lpCaAdGl9LU4GdBVg5yGsHQ0HY3ke5gzuSYzHVnBi8pmW7dVExlx6Z_xtiXgmZ58lx4ogyoPZloyNgJrlxw7Ew%3D%3D)**
 
-MarketWatch • 36m ago
+MarketWatch • 53m ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 6h ago
 
 Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
 
-TechCrunch • 13m ago
+TechCrunch • 30m ago
 
 ---
 
@@ -253,7 +253,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 200 • 💬 92 • 22h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 200 • 💬 92 • 23h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -353,7 +353,7 @@ Pocket Option Full Trading Session with AI TRADING BOT for Binary Options Link -
 
 📺 AITRADINGGG v2
 
-👁️ 4K • 👍 630 • 1h ago
+👁️ 4K • 👍 630 • 2h ago
 
 ---
 
@@ -683,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 825 • 🔱 103 • 45m ago
+⭐ 825 • 🔱 103 • 1h ago
 
 ---
 

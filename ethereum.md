@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T13:50:46.909814+00:00'
+updated: '2025-12-05T14:11:24.063367+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 13:50 UTC  
+**Last Updated:** December 05, 2025 at 14:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** +3.4%  
-**30d:** -6.8%  
-**90d:** -28.4%  
-**1y:** -22.6%  
+**24h:** -2.6%  
+**7d:** +4.3%  
+**30d:** -6.0%  
+**90d:** -27.8%  
+**1y:** -21.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.76B
+**Market Cap:** $374.67B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.7%
+-37.2%
 
 **All-Time Low:** $0.43
-+722429.3%
++717683.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -100,19 +100,19 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 ---
 
-**[Highlights from the All Core Developers Execution (ACDE) Call #225](https://www.reddit.com/r/ethereum/comments/1pego5o/highlights_from_the_all_core_developers_execution/)**
-
-A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
-
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 13h ago
-
----
-
 **[Ethereal news weekly #1 | 🦓 Fusaka upgrade live on mainnet ⚠️ Client diversity: Lighthouse 55% 🎂 Beacon chain 5th anniversary](https://www.reddit.com/r/ethereum/comments/1pesttx/ethereal_news_weekly_1_fusaka_upgrade_live_on/)**
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
 🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 2h ago
+
+---
+
+**[Highlights from the All Core Developers Execution (ACDE) Call #225](https://www.reddit.com/r/ethereum/comments/1pego5o/highlights_from_the_all_core_developers_execution/)**
+
+A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
+
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 13h ago
 
 ---
 
@@ -150,7 +150,7 @@ a wonderful fusaka day to you all - original post if you want to help boost on t
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -166,7 +166,7 @@ dlnews.com • 1d ago
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -190,7 +190,7 @@ dlnews.com • 1d ago
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-cheddar.com • 16h ago
+cheddar.com • 17h ago
 
 ---
 
@@ -222,7 +222,7 @@ CryptoSlate • 1d ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -266,7 +266,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 60K • 👍 2K • 💬 416 • ⏱️ 27:33 • 19h ago
+👁️ 60K • 👍 2K • 💬 416 • ⏱️ 27:33 • 20h ago
 
 ---
 
@@ -296,7 +296,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 55 • 💬 138 • ⏱️ 5:52 • 22h ago
+👁️ 1K • 👍 55 • 💬 138 • ⏱️ 5:52 • 23h ago
 
 ---
 

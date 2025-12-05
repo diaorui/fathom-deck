@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T13:50:46.913091+00:00'
+updated: '2025-12-05T14:11:24.066605+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 13:50 UTC  
+**Last Updated:** December 05, 2025 at 14:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,15 +42,7 @@ This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mecha
 
 **[Art installation draws attention for its robot dogs with famous faces](https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/)**
 
-20h ago
-
----
-
-**[Behind-the-scenes footage from the EngineAI T800 shoot — a direct response to the CG accusations.](https://www.reddit.com/r/robotics/comments/1peipg7/behindthescenes_footage_from_the_engineai_t800/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 11h ago
+21h ago
 
 ---
 
@@ -58,7 +50,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
 
-26m ago
+47m ago
+
+---
+
+**[Behind-the-scenes footage from the EngineAI T800 shoot — a direct response to the CG accusations.](https://www.reddit.com/r/robotics/comments/1peipg7/behindthescenes_footage_from_the_engineai_t800/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 12h ago
 
 ---
 
@@ -68,25 +68,25 @@ AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper 
 
 ---
 
-**[Marc Raibert on Why Robotics Needs More Transparency](https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/)**
-
-Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
-
-17h ago
-
----
-
-**[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
-
-6h ago
-
----
-
 **[Are we witnessing the end of “real robot data” as the foundation of Embodied AI? Recent results from InternData-A1, GEN-0, and Tesla suggest a shift. (Original post by Felicia)](https://www.reddit.com/r/robotics/comments/1pessi4/are_we_witnessing_the_end_of_real_robot_data_as/)**
 
 For a long time, many robotics teams believed that real robot interaction data was the only reliable foundation for training generalist manipulation models. But real-world data collection is extremely expensive, slow, and fundamentally limited by human labor. Recent results suggest the landscape is changing. Three industry signals stand out: 1. InternData-A1: Synthetic data beats the strongest real-world dataset Shanghai AI Lab’s new paper InternData-A1 (Nov 2025, arXiv) is the first to show that pure simulation data can match or outperform the best real-robot dataset used to train Pi0. The dataset is massive: 630k+ trajectories 7,434 hours 401M frames 4 robot embodiments, 18 skill types, 70 tasks $0.003 per trajectory generation cost One 8×RTX4090 workstation → 200+ hours of robot data per day Results: On RoboTwin2.0 (49 bimanual tasks): +5–6% success over Pi0 On 9 real-world tasks: +6.2% success Sim-to-Real: 1,600 synthetic samples ≈ 200 real samples (≈8:1 efficiency) The long-held “simulation quality discount” is shrinking fast. 2. GEN-0 exposes the economic impossibility of scaling real-world teleoperation Cross-validated numbers show: Human teleoperation cost per trajectory: $2–$10 Hardware systems: $30k–$40k 1 billion trajectories → $2–10 billion GEN-0’s own scaling law predicts that laundry alone would require 1B interactions for strong performance. https://preview.redd.it/qd8pkcdpfd5g1.png?width=556&format=png&auto=webp&s=1df2607476d3e63f5ca32edae1bf7319d97f1176 Even with Tesla-level resources, this is not feasible. That’s why GEN-0 relies on distributed UMI collection across thousands of sites instead of traditional teleoperation. 3. Tesla’s Optimus shifts dramatically: from mocap → human video imitation Timeline: 2022–2024: Tesla used full-body mocap suits + VR teleop; operators wore ~30 lb rigs, walked 7 hours/day, paid up to $48/hr. May 21, 2025: Tesla confirms:“Optimus is now learning new tasks directly from human videos.” June 2025: Tesla transitions to a vision-only approach, dropping mocap entirely. Their demo showed Optimus performing tasks like trash disposal, vacuuming, cabinet/microwave use, stirring, tearing paper towels, sorting industrial parts — all claimed to be controlled by a single end-to-end network. 4. So is real robot data obsolete? Not exactly. These developments indicate a shift, not a disappearance: Synthetic data (InternData-A1) is now strong enough to pre-train generalist policies Distributed real data (GEN-0) remains critical for grounding and calibration Pure video imitation (Tesla) offers unmatched scalability but still needs validation for fine manipulation All major approaches still rely on a small amount of real data for fine-tuning or evaluation Open Questions: Where do you think the field is heading? A synthetic-first paradigm? Video-only learning at scale? Hybrid pipelines mixing sim, video, and small real datasets? Or something entirely new? Curious to hear perspectives from researchers, roboticists, and anyone training embodied agents.
 
 2h ago
+
+---
+
+**[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
+
+7h ago
+
+---
+
+**[Marc Raibert on Why Robotics Needs More Transparency](https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/)**
+
+Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
+
+18h ago
 
 ---
 
@@ -102,7 +102,7 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO) • 4h ago
+🔗 [youtu.be](https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO) • 5h ago
 
 ---
 
@@ -134,7 +134,15 @@ Yahoo Finance • 2h ago
 
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 17h ago
+
+---
+
+**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+
+Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+
+MLive.com • 18h ago
 
 ---
 
@@ -142,7 +150,7 @@ Investor's Business Daily • 16h ago
 
 The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-Barchart.com • 18h ago
+Barchart.com • 19h ago
 
 ---
 
@@ -170,19 +178,11 @@ Stock Titan • 1d ago
 
 ---
 
-**[Video: Elon Musk’s Optimus humanoid robot masters human-like smooth running](https://interestingengineering.com/ai-robotics/optimus-humanoid-robot-masters-running)**
+**[Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago](https://www.cnn.com/2025/12/03/asia/malaysia-mh370-robotics-search-latam-intl)**
 
-Tesla's Optimus robot achieved a major milestone, demonstrating smooth operation in a new lab video shared by Elon Musk.
+Malaysia’s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
 
-Interesting Engineering • 1d ago
-
----
-
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
-
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
-
-MLive.com • 17h ago
+CNN • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ Which one is the most humanlike? First, Tesla shared a 5-second clip of its Opti
 
 📺 Kalil 4.0
 
-👁️ 19K • 👍 132 • 💬 30 • ⏱️ 0:14 • 16h ago
+👁️ 19K • 👍 132 • 💬 30 • ⏱️ 0:14 • 17h ago
 
 ---
 

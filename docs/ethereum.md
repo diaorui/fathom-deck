@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T09:39:47.000053+00:00'
+updated: '2025-12-05T09:52:17.590424+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 09:39 UTC  
+**Last Updated:** December 05, 2025 at 09:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** +4.3%  
-**30d:** -6.0%  
-**90d:** -27.8%  
-**1y:** -21.9%  
+**24h:** -2.4%  
+**7d:** +4.1%  
+**30d:** -6.2%  
+**90d:** -27.9%  
+**1y:** -22.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $380.08B
+**Market Cap:** $375.77B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.4%
+-37.0%
 
 **All-Time Low:** $0.43
-+725956.0%
++719034.2%
 
 ---
 
@@ -166,7 +166,7 @@ dlnews.com • 1d ago
 
 Bitmine added another $130 million in ETH on Dec. 5. The firm now holds over 3.7 million ETH, valued at roughly $18 billion. Chairman Tom ...
 
-Yahoo Finance • 56m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -194,14 +194,6 @@ Nasdaq • 1d ago
 
 ---
 
-**[Is Ethereum the Best Cryptocurrency to Buy Under $4,000?](https://www.fool.com/investing/2025/12/05/is-ethereum-the-best-cryptocurrency-to-buy-under-4/)**
-
-It's making important improvements and expanding its ecosystem.
-
-The Motley Fool • 39m ago
-
----
-
 **[Bitcoin Vs. Ethereum And The Flippening Lubin Predicts](https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/)**
 
 Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH’s utility loop, Bitcoin’s scarcity, and why money is entering a multi-form future.
@@ -210,19 +202,27 @@ Forbes • 2d ago
 
 ---
 
-**[Why Ethereum Is Gaining Today](https://finance.yahoo.com/news/why-ethereum-gaining-today-204636059.html)**
-
-Stablecoin regulation is moving forward.
-
-Yahoo Finance • 2d ago
-
----
-
 **[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
 Seeking Alpha • 5h ago
+
+---
+
+**[While Ethereum whales rotate, XRP data shows a fatal concentration flaw that leaves one group holding the bag.](https://cryptoslate.com/ethereum-xrp-whales-concentration-risk/)**
+
+We quantify how much old supply just moved and why now.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Ethereum Crashes 45% From $4,950 Peak: Why Layer 2s Are Killing ETH’s Value](https://247wallst.com/investing/2025/12/03/ethereum-crashes-45-from-4950-peak-why-layer-2s-are-killing-eths-value/)**
+
+Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?
+
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 3K • 👍 308 • 💬 96 • ⏱️ 31:23 • 16m ago
+👁️ 3K • 👍 308 • 💬 96 • ⏱️ 31:23 • 28m ago
 
 ---
 
@@ -276,7 +276,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 53 • 💬 114 • ⏱️ 5:52 • 18h ago
+👁️ 1K • 👍 53 • 💬 114 • ⏱️ 5:52 • 19h ago
 
 ---
 
@@ -296,7 +296,7 @@ Ethereum (ETH) is approaching a critical point, and the next major move could de
 
 📺 HKCM GLOBAL
 
-👁️ 1K • 👍 136 • 💬 6 • ⏱️ 10:00 • 16h ago
+👁️ 1K • 👍 136 • 💬 6 • ⏱️ 10:00 • 17h ago
 
 ---
 

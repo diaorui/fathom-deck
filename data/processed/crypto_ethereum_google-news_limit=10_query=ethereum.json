@@ -65,16 +65,6 @@
       "description": "Key PointsEthereum receives a major update today that should improve its ability to scale."
     },
     {
-      "headline": "Is Ethereum the Best Cryptocurrency to Buy Under $4,000?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWpkaHVMV055R0piSzdxSDA5SWVwb1dCMkU5XzVueFZObkJWMTVlWU5MMnJocHpJcTYzcWZwTUN2MDFINzd5WnRJeEFPUm11bTRBamVfcXZiazBkaGRidmZIRUFGUGhDLUxtZ0N3aldJa0I5V3hTVngyQ3liNDlmZG01UURoYzhoMi10TEJZYnlQeXNyb1V3MA?oc=5",
-      "pub_date": 1764925200.0,
-      "article_url": "https://www.fool.com/investing/2025/12/05/is-ethereum-the-best-cryptocurrency-to-buy-under-4/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843411%2Fethereum-virtual-money.jpg&w=1200&op=resize",
-      "description": "It's making important improvements and expanding its ecosystem."
-    },
-    {
       "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -85,16 +75,6 @@
       "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
     },
     {
-      "headline": "Why Ethereum Is Gaining Today",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SdzVJN2dQOFFHZkpIRkhuOWNQU0Q1WTBlaXoxVG9TTl85VVZ6b2NPY3l0SXhHVG1BMFlYbTYtUHlTclZjYm5Fb1lQeGF5VWxlbmtuVmRMdXRJM3hPY3hJSnNPNENqM3NLWlVMUVVFN0pLOVQyWGJKMzkyNWI?oc=5",
-      "pub_date": 1764708396.0,
-      "article_url": "https://finance.yahoo.com/news/why-ethereum-gaining-today-204636059.html",
-      "image": "https://media.zenfs.com/en/motleyfool.com/310cc4ae9f8db60010a48b0e54aeb4ae",
-      "description": "Stablecoin regulation is moving forward."
-    },
-    {
       "headline": "ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)",
       "source": "Seeking Alpha",
       "source_url": "https://seekingalpha.com",
@@ -103,8 +83,28 @@
       "article_url": "https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving",
       "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1176138147/image_1176138147.jpg?io=getty-c-w1536",
       "description": "Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here."
+    },
+    {
+      "headline": "While Ethereum whales rotate, XRP data shows a fatal concentration flaw that leaves one group holding the bag.",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQU1yWmF4R3ZRVEREbUpmMlNuSEl1YVFUa09RNmRQTnhOLUVUaE5oT2ZmNWo0TWN4VUJlTHdGWGdtZm1sLUtPVFc0MTZuZHJxeE50aTIwWVZFZFZ1UFBCRWJXUlhDUlFmMS1YZGdjdEM?oc=5",
+      "pub_date": 1764779700.0,
+      "article_url": "https://cryptoslate.com/ethereum-xrp-whales-concentration-risk/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2025/12/ethereum-xrp-whale.jpg",
+      "description": "We quantify how much old supply just moved and why now."
+    },
+    {
+      "headline": "Ethereum Crashes 45% From $4,950 Peak: Why Layer 2s Are Killing ETH\u2019s Value",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORndpWjVXNHJDQzJfMlA2aFZ0OTRvTVZ0U1lVWXROU3E2Smsza09IOE5Bc2xWSTZGUFVaTXhGbko0ekN3ZjlsUkplOFA2dGRLNXIyekRmNXFUQjRrcXBfWG9qOE4tRzV3UVZuZWtKMDRMWUxsNk10WlNWcndaTGc0cEJfczNEUm96ZmxRQkg5TGNMdmEtTzYwUGE3bWdJcWxUSTR6N2hVcXpwNUJNZ2hHaDN1YXA?oc=5",
+      "pub_date": 1764780355.0,
+      "article_url": "https://247wallst.com/investing/2025/12/03/ethereum-crashes-45-from-4950-peak-why-layer-2s-are-killing-eths-value/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-1680257149-huge-licensed-scaled.jpg",
+      "description": "Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T09:18:48.568116+00:00"
+  "fetched_at": "2025-12-05T09:52:06.707762+00:00"
 }

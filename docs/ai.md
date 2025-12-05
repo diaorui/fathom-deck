@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T09:39:46.985559+00:00'
+updated: '2025-12-05T09:52:17.575828+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 09:39 UTC  
+**Last Updated:** December 05, 2025 at 09:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 11h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 12h ago
 
 ---
 
@@ -53,13 +53,13 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 13h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 14h ago
 
 ---
 
 **["Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have." -Bernie Sanders](https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -83,7 +83,7 @@ Micron has confirmed that it is exiting the Crucial consumer business so it can 
 
 Google is experimentally replacing news headlines with AI clickbait nonsense.[1] AI chatbots used inaccurate information to change people’s political opinions, study finds.[2] Watch ‘The Thinking Game,’ a documentary about Google DeepMind, for free on YouTube.[3] Meta centralizes Facebook and Instagram support, tests AI support assistant.[4] Sources: [1] https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense [2] https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085 [3] https://blog.google/technology/google-deepmind/the-thinking-game/ [4] https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ The U.S. Department of Health and Human Services has outlined a new strategy to 
 
 Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn’t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer “mysterious RAG failures” Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?
 
-9h ago
+10h ago
 
 ---
 
@@ -129,23 +129,41 @@ The Economist • 22h ago
 
 ---
 
-**[AI Isn’t Killing Travel Agents. It’s Making Them Better](https://www.bloomberg.com/news/articles/2025-12-05/will-ai-tools-replace-travel-agents-or-make-them-even-better)**
+**[Cristiano Ronaldo Invests in Perplexity AI, Enters Partnership](https://www.bloomberg.com/news/articles/2025-12-05/cristiano-ronaldo-invests-in-perplexity-ai-enters-partnership-misnf0af)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Naomie Harris Thinks “AI Is Absolutely The Future” – Red Sea Studio](https://deadline.com/video/naomie-harris-ai-red-sea-film-festival/)**
-
-The 'Moonlight' actress lifted the lid on her new AI-centered tech company and insists that guardrails need to be put in place with the new technology.
-
-Deadline • 26m ago
+Bloomberg.com • 37m ago
 
 ---
 
-**[Apple May Win the AI Race. How It Could Beat Meta, Microsoft, and OpenAI](https://www.barrons.com/articles/apple-stock-iphone-17-ai-chatgpt-gemini-22561075?gaa_at=eafs&gaa_n=AWEtsqdYVcOT_SjlGw5RXEQdv3ZDPbGmx_5rfV0u-Hih3kLaMDNmBhvKranC&gaa_ts=6932a6e8&gaa_sig=rNPw770-ItWYpQ3Z5cEsx84If55PXh6wmGgURBbuLYscIiE1bUi2kzTX3GZNxRhwyvijQ9jUAG3ShE3wCkXpwA%3D%3D)**
+**[Investors fear an AI bubble. What about computer scientists?](https://www.cbc.ca/news/business/ai-bubble-tech-industry-side-9.7001887)**
 
-Barron's • 1h ago
+AI companies are spending eye-watering amounts of money on infrastructure and training to improve AI. Many investors are getting nervous. Beyond the short term financial markets, tech experts say the AI revolution is real, but the economic impacts may be longer term.
+
+CBC • 52m ago
+
+---
+
+**['Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12)**
+
+Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
+
+Business Insider • 22m ago
+
+---
+
+**[‘It was about degrading someone completely’: the story of Mr DeepFakes – the world’s most notorious AI porn site](https://www.theguardian.com/society/ng-interactive/2025/dec/05/it-was-about-degrading-someone-completely-the-story-of-mr-deepfakes-the-worlds-most-notorious-ai-porn-site)**
+
+The hobbyists who helped build this site created technology that has been used to humiliate countless women. Why didn’t governments step in and stop them?
+
+The Guardian • 1h ago
+
+---
+
+**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
+
+Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
+
+Forbes • 16h ago
 
 ---
 
@@ -157,31 +175,15 @@ BBC • 9h ago
 
 ---
 
+**[Exclusive | The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old](https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417?gaa_at=eafs&gaa_n=AWEtsqczre7gI-n44gTpMZxYs3sXW3l1GYtPV-f7NhpaRkUwoWmymoFs0T5M&gaa_ts=6932aeb8&gaa_sig=0ksLLvSzGHEuQeLiENKqHfQojGkIrF-ZQjC6SCk8rSMRFPZYgVyH8wFxqahggmmic4gTg8yhFzmXuOVuMydkfw%3D%3D)**
+
+The Wall Street Journal • 19h ago
+
+---
+
 **[Exclusive: Some AI dangers are already real, DeepMind's Hassabis says](https://www.axios.com/2025/12/05/ai-hassabis-agi-risks-pdoom)**
 
 Axios • 8h ago
-
----
-
-**[‘It was about degrading someone completely’: the story of Mr DeepFakes – the world’s most notorious AI porn site](https://www.theguardian.com/society/ng-interactive/2025/dec/05/it-was-about-degrading-someone-completely-the-story-of-mr-deepfakes-the-worlds-most-notorious-ai-porn-site)**
-
-The hobbyists who helped build this site created technology that has been used to humiliate countless women. Why didn’t governments step in and stop them?
-
-The Guardian • 4h ago
-
----
-
-**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
-
-Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
-
-Forbes • 15h ago
-
----
-
-**[Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html)**
-
-The New York Times • 1d ago
 
 ---
 
@@ -201,7 +203,7 @@ The New York Times • 1d ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 929 • 💬 1029 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 931 • 💬 1031 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -217,7 +219,7 @@ IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data cen
 
 Google’s own ‘code red’ response to ChatGPT has started paying off.
 
-⬆️ 809 • 💬 915 • 2d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
+⬆️ 810 • 💬 916 • 2d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
 
 ---
 
@@ -225,7 +227,7 @@ Google’s own ‘code red’ response to ChatGPT has started paying off.
 
 Update: This post received a large amount of attention on Hacker News — see the discussion thread.
 
-⬆️ 802 • 💬 280 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+⬆️ 803 • 💬 280 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 
 ---
 
@@ -233,7 +235,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 565 • 💬 530 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 568 • 💬 531 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -241,7 +243,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 401 • 💬 303 • 18h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 404 • 💬 304 • 18h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -249,7 +251,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 235 • 💬 194 • 12h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 236 • 💬 195 • 12h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -257,7 +259,7 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 
 Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume
 
-⬆️ 232 • 💬 189 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
+⬆️ 233 • 💬 189 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 
 ---
 
@@ -265,7 +267,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 178 • 💬 76 • 11h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 182 • 💬 82 • 11h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -309,7 +311,7 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 473K • 👍 12K • 💬 720 • ⏱️ 4:58 • 20h ago
+👁️ 473K • 👍 12K • 💬 720 • ⏱️ 4:58 • 21h ago
 
 ---
 
@@ -385,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 135,731 • ❤️ 2,093 • 2d ago
+⬇️ 135,731 • ❤️ 2,098 • 2d ago
 
 ---
 
@@ -443,7 +445,7 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 235 • 3d ago
+⬇️ 0 • ❤️ 236 • 3d ago
 
 ---
 
@@ -467,7 +469,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 0 • ❤️ 215 • 7h ago
+⬇️ 0 • ❤️ 219 • 8h ago
 
 ---
 
@@ -477,7 +479,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 204 • 3d ago
+⬇️ 0 • ❤️ 206 • 3d ago
 
 ---
 
@@ -487,7 +489,7 @@ STARFlow is a state-of-the-art transformer autoregressive flow model for high-qu
 
 z_image_turbo is a diffusion model designed for single-file image generation, likely integrated with ComfyUI workflows for advanced image synthesis tasks.
 
-⬇️ 1,674,013 • ❤️ 359 • 8d ago
+⬇️ 1,674,013 • ❤️ 361 • 8d ago
 
 ---
 

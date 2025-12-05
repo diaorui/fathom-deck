@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T09:39:47.003369+00:00'
+updated: '2025-12-05T09:52:17.593728+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 09:39 UTC  
+**Last Updated:** December 05, 2025 at 09:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,9 +46,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**["Volonaut" Airbike: Jet-powered hoverbike landing with advanced stabilization (Prototype Demo)](https://www.reddit.com/r/robotics/comments/1pequkz/volonaut_airbike_jetpowered_hoverbike_landing/)**
+
+This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mechanism: Jet-powered vertical take-off and landing (VTOL). Control: Uses an advanced stabilization system to assist the rider's balance during precision maneuvers. Specs: Carbon fiber frame (30kg), top speed ~100km/h (capped) and flight time ~10 mins. Source: Volonaut 🔗 : https://youtu.be/4b0Laxsj_z0?si=8loRPWJWr4v622ii
+
+18m ago
+
+---
+
 **[PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.](https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/)**
 
 4h ago
+
+---
+
+**[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
+
+2h ago
 
 ---
 
@@ -60,12 +74,6 @@ Marc Raibert talks about how robotics demos usually show only the polished succe
 
 ---
 
-**[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
-
-2h ago
-
----
-
 **[A potentially highly efficient image and video tokenizer for LLMs/VLAs.](https://www.reddit.com/r/robotics/comments/1peo0w3/a_potentially_highly_efficient_image_and_video/)**
 
 Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I’m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I’m posting it here in case anyone finds it interesting or useful.
@@ -74,11 +82,19 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 ---
 
+**[How humanoid robots are evolving around the world](https://www.reddit.com/r/robotics/comments/1peqxe2/how_humanoid_robots_are_evolving_around_the_world/)**
+
+A world tour of today’s most advanced humanoid robots and their capabilities.
+
+13m ago
+
+---
+
 **[UBTECH Walker S2 - World’s First Mass Delivery of Humanoid Robots](https://www.reddit.com/r/robotics/comments/1peqau3/ubtech_walker_s2_worlds_first_mass_delivery_of/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO) • 41m ago
+🔗 [youtu.be](https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO) • 53m ago
 
 ---
 
@@ -86,21 +102,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Humanoid robotics is getting cheaper, smarter, and a lot more capable at moving through the world. But construction sites are a different beast with uneven terrain, unpredictable workflows, and tasks that vary wildly from day to day. I’m curious whether robotics aimed specifically at construction has kept up. Not the glossy demo videos, but actual sector-focused systems that show real progress on tasks like material handling, layout, inspections, drilling, or repetitive onsite work. It actually feels like construction is one of the few fields where purpose-built robots should make far more sense than humanoids. Most site tasks don’t need a human-shaped form factor at all. Are there ad hoc or specialized robots that feel like a real breakthrough, or is the field still stuck in research prototypes?
 
-47m ago
-
----
-
-**[Christmas Help](https://www.reddit.com/r/robotics/comments/1pekos3/christmas_help/)**
-
-Hi everyone, My husband is a mechanical engineer and has found his niche in robotics. He is mostly a simulation guy, but also enjoys machining. I’m trying to surprise him with a gift that he is not expecting. He never asks for anything and I think he deserves something that falls into his interests. If you guys have any ideas, please share! (Budget is $100-200)
-
-6h ago
-
----
-
-**[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
-
-22h ago
+1h ago
 
 ---
 
@@ -126,7 +128,7 @@ IEEE Spectrum • 3d ago
 
 The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -152,14 +154,6 @@ Nasdaq • 1d ago
 
 ---
 
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
-
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
-
-MLive.com • 13h ago
-
----
-
 **[Former Stryker robotics leader named CEO at Olympus’ Swan EndoSurgical robotics play](https://www.massdevice.com/former-stryker-leader-ceo-swan-endosurgical-olympus/)**
 
 Swan EndoSurgical announced today that it has appointed longtime Stryker robotics leader Erik Todd as its CEO.
@@ -181,6 +175,14 @@ Bessemer Venture Partners • 2d ago
 Serve Robotics is a lesser-known play on Trump’s emerging pro‑robotics agenda, pairing triple‑digit revenue growth, expanding partnerships, and strong cash reserves.
 
 Barchart.com • 12h ago
+
+---
+
+**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+
+Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+
+MLive.com • 13h ago
 
 ---
 

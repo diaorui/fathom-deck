@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T09:39:46.994032+00:00'
+updated: '2025-12-05T09:52:17.584323+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 09:39 UTC  
+**Last Updated:** December 05, 2025 at 09:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,401.04
+### $91,006.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +0.3%  
-**30d:** -10.1%  
-**90d:** -18.2%  
-**1y:** -8.6%  
+**24h:** -2.0%  
+**7d:** +0.4%  
+**30d:** -10.0%  
+**90d:** -18.1%  
+**1y:** -8.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1835.50B
+**Market Cap:** $1817.99B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.2%
+-27.7%
 
 **All-Time Low:** $67.81
-+135332.8%
++134275.5%
 
 ---
 
@@ -87,7 +87,7 @@ Im only up 3000% now
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -99,15 +99,15 @@ Im only up 3000% now
 
 ---
 
-**[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
-
-8h ago
-
----
-
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
 16h ago
+
+---
+
+**[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
+
+9h ago
 
 ---
 
@@ -129,7 +129,7 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
-4h ago
+5h ago
 
 ---
 
@@ -165,19 +165,17 @@ The Economist • 23h ago
 
 ---
 
-**[Video: BlackRock C.E.O. Calls Bitcoin an ‘Asset of Fear’](https://www.nytimes.com/video/business/dealbook/100000010562120/blackrock-ceo-calls-bitcoin-an-asset-of-fear.html)**
+**[Strategy CEO Says Reserve Reduces Pressure to Sell Bitcoin](https://www.bloomberg.com/news/articles/2025-12-02/strategy-ceo-sees-reserve-used-to-make-payments-in-perpetuity)**
 
-Larry Fink, the chief executive of BlackRock, dismissed concerns about the long-term value of cryptocurrency.
-
-The New York Times • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved'](https://finance.yahoo.com/news/larry-fink-softens-crypto-stance-as-blackrock-boasts-biggest-us-bitcoin-etf-my-thought-process-has-evolved-184909682.html)**
+**[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
 
-Larry Fink, once a proud crypto skeptic, has evolved his views as his firm, BlackRock, has become a leader in the industry.
+Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
 
-Yahoo Finance • 1d ago
+CNBC • 18h ago
 
 ---
 
@@ -189,39 +187,41 @@ Bloomberg.com • 1h ago
 
 ---
 
+**[Video: BlackRock C.E.O. Calls Bitcoin an ‘Asset of Fear’](https://www.nytimes.com/video/business/dealbook/100000010562120/blackrock-ceo-calls-bitcoin-an-asset-of-fear.html)**
+
+Larry Fink, the chief executive of BlackRock, dismissed concerns about the long-term value of cryptocurrency.
+
+The New York Times • 1d ago
+
+---
+
+**[Michael Saylor’s Strategy may have BlackRock to thank for the 11% rise in Bitcoin](https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/)**
+
+BlackRock’s ETF now owns 3.9% of all existing Bitcoin, more than Strategy.
+
+Fortune • 21h ago
+
+---
+
 **[Bitcoin Exchange Supply Nears 5-year Low After $2 Billion Buy This Week](https://finance.yahoo.com/news/bitcoin-exchange-supply-nears-5-074002583.html)**
 
 Bitcoin exchange reserves hit a 5-year low after $2 billion in buying, but price still struggles under key resistance.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Woori Bank Becomes First in Korea to Display Bitcoin Prices in Trading Room](https://finance.yahoo.com/news/woori-bank-becomes-first-korea-074526421.html)**
+**[A New Era Begins: CFTC Approves Spot Bitcoin On Regulated US Markets](https://www.tradingview.com/news/newsbtc:0bd3c1dca094b:0-a-new-era-begins-cftc-approves-spot-bitcoin-on-regulated-us-markets/)**
 
-Woori Bank has begun displaying Bitcoin prices inside its main trading room in Seoul, placing the cryptocurrency alongside core financial indicators such as the won–dollar exchange rate and stock market data. Key Takeaways: Woori Bank is the first Korean commercial bank to display Bitcoin prices in its main trading room. ...
+Regulators in Washington on Thursday cleared a major step that lets Americans trade spot Bitcoin and other cryptocurrencies on federally registered exchanges for the first time.According to the Commodity Futures Trading Commission, listed spot crypto products may now be offered on exchanges registe…
 
-Yahoo Finance • 1h ago
+TradingView • 51m ago
 
 ---
 
 **[Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
 
 The New York Times • 1d ago
-
----
-
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeaNnfy9dvooTkEVcc2kQHCkOZh9Boa9LG84HuG-0mkCA-IAQb0NdxV&gaa_ts=6932a6ea&gaa_sig=IAaFzD53yhwOqsBEz-v1DHvKEfSDy5FfmtAseXmT45r9ekvYdq29N15NN2YBM36dJw9xawa33G121HV97x14gA%3D%3D)**
-
-MarketWatch • 12h ago
-
----
-
-**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
-
-JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
-
-Business Insider • 15h ago
 
 ---
 
@@ -233,7 +233,7 @@ Business Insider • 15h ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 6 • 💬 1 • 21h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 6 • 💬 1 • 22h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
@@ -297,7 +297,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol](https://news.ycombinator.com/item?id=46149605)**
 
-⬆️ 1 • 💬 0 • 16h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
+⬆️ 1 • 💬 0 • 17h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
 
 ---
 
@@ -321,7 +321,7 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 47K • 👍 2K • 💬 202 • ⏱️ 18:48 • 11h ago
+👁️ 47K • 👍 2K • 💬 202 • ⏱️ 18:48 • 12h ago
 
 ---
 
@@ -371,7 +371,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 411 • 💬 78 • ⏱️ 9:41 • 4h ago
+👁️ 5K • 👍 411 • 💬 78 • ⏱️ 9:41 • 5h ago
 
 ---
 

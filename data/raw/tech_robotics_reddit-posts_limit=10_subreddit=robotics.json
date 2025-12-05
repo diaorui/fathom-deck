@@ -24,11 +24,33 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
+      "title": "\"Volonaut\" Airbike: Jet-powered hoverbike landing with advanced stabilization (Prototype Demo)",
+      "author": "BuildwithVignesh",
+      "url": "https://www.reddit.com/r/robotics/comments/1pequkz/volonaut_airbike_jetpowered_hoverbike_landing/",
+      "published": 1764927240.0,
+      "thumbnail": "https://external-preview.redd.it/bXpjZXM4Z3R1YzVnMYmws2aqjNo7FWNnYlGMXzjowgQGo8kGrcVFwJs_fSXA.png?width=640&crop=smart&auto=webp&s=9be9686837a689089ebc2baa9128c643f8ed13bc",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mechanism: Jet-powered vertical take-off and landing (VTOL). Control: Uses an advanced stabilization system to assist the rider's balance during precision maneuvers. Specs: Carbon fiber frame (30kg), top speed ~100km/h (capped) and flight time ~10 mins. Source: Volonaut \ud83d\udd17 : https://youtu.be/4b0Laxsj_z0?si=8loRPWJWr4v622ii"
+    },
+    {
       "title": "PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.",
       "author": "Important-Battle-374",
       "url": "https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/",
       "published": 1764912844.0,
       "thumbnail": "https://preview.redd.it/dsg58fxs665g1.png?width=640&crop=smart&auto=webp&s=df74ae3986191e470f38017b6aff1d3490a14bfa",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.",
+      "author": "jabestimmt",
+      "url": "https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/",
+      "published": 1764917767.0,
+      "thumbnail": "https://external-preview.redd.it/dHVtNTAxMzh3YjVnMY8hunvne-G1istBpMnnp_zGAnVmB3Gp1Lacn2gJ41YC.png?width=640&crop=smart&auto=webp&s=bc12e5929a11a7fc356697681205c441ddb0ca61",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -46,17 +68,6 @@
       "description": "Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin."
     },
     {
-      "title": "Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.",
-      "author": "jabestimmt",
-      "url": "https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/",
-      "published": 1764917767.0,
-      "thumbnail": "https://external-preview.redd.it/dHVtNTAxMzh3YjVnMY8hunvne-G1istBpMnnp_zGAnVmB3Gp1Lacn2gJ41YC.png?width=640&crop=smart&auto=webp&s=bc12e5929a11a7fc356697681205c441ddb0ca61",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "A potentially highly efficient image and video tokenizer for LLMs/VLAs.",
       "author": "9cheng",
       "url": "https://www.reddit.com/r/robotics/comments/1peo0w3/a_potentially_highly_efficient_image_and_video/",
@@ -66,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I\u2019m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I\u2019m posting it here in case anyone finds it interesting or useful."
+    },
+    {
+      "title": "How humanoid robots are evolving around the world",
+      "author": "EchoOfOppenheimer",
+      "url": "https://www.reddit.com/r/robotics/comments/1peqxe2/how_humanoid_robots_are_evolving_around_the_world/",
+      "published": 1764927552.0,
+      "thumbnail": "https://external-preview.redd.it/NzczZGVkMHB2YzVnMUXEkPp_7_OPeSKRDF26OfYeoLzCi7qSR6wt9coHIPwi.png?width=640&crop=smart&auto=webp&s=bf2ac2c1d3d81efceac32b65d11ad7c68764ec23",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A world tour of today\u2019s most advanced humanoid robots and their capabilities."
     },
     {
       "title": "UBTECH Walker S2 - World\u2019s First Mass Delivery of Humanoid Robots",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Humanoid robotics is getting cheaper, smarter, and a lot more capable at moving through the world. But construction sites are a different beast with uneven terrain, unpredictable workflows, and tasks that vary wildly from day to day. I\u2019m curious whether robotics aimed specifically at construction has kept up. Not the glossy demo videos, but actual sector-focused systems that show real progress on tasks like material handling, layout, inspections, drilling, or repetitive onsite work. It actually feels like construction is one of the few fields where purpose-built robots should make far more sense than humanoids. Most site tasks don\u2019t need a human-shaped form factor at all. Are there ad hoc or specialized robots that feel like a real breakthrough, or is the field still stuck in research prototypes?"
-    },
-    {
-      "title": "Christmas Help",
-      "author": "Wonderful_Froyo_9690",
-      "url": "https://www.reddit.com/r/robotics/comments/1pekos3/christmas_help/",
-      "published": 1764905627.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi everyone, My husband is a mechanical engineer and has found his niche in robotics. He is mostly a simulation guy, but also enjoys machining. I\u2019m trying to surprise him with a gift that he is not expecting. He never asks for anything and I think he deserves something that falls into his interests. If you guys have any ideas, please share! (Budget is $100-200)"
-    },
-    {
-      "title": "Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:",
-      "author": "shadrack_CK",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/",
-      "published": 1764847786.0,
-      "thumbnail": "https://external-preview.redd.it/ZXFyNnBrYWthNjVnMZic-YAL2FrbG_LahCho4nLawiVY0IxB1oL25EA8EEnf.png?width=640&crop=smart&auto=webp&s=a3f734b42d1aaff8fe44a188560a007b1b91ae2b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-12-05T09:18:35.443046+00:00"
+  "fetched_at": "2025-12-05T09:51:53.445729+00:00"
 }

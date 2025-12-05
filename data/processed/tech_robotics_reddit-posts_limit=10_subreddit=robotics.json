@@ -35,17 +35,6 @@
       "description": null
     },
     {
-      "title": "Marc Raibert on Why Robotics Needs More Transparency",
-      "author": "Responsible-Grass452",
-      "url": "https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/",
-      "published": 1764878463.0,
-      "thumbnail": "https://external-preview.redd.it/czZ0M2RhcXZrODVnMXDFs25VAGMQ7jD7P7IJtotqHhQXTfEBoVTtdkOU5sNG.png?width=640&crop=smart&auto=webp&s=1ce77a3ba16429df69e330a6878c87a7c4a26597",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin."
-    },
-    {
       "title": "A potentially highly efficient image and video tokenizer for LLMs/VLAs.",
       "author": "9cheng",
       "url": "https://www.reddit.com/r/robotics/comments/1peo0w3/a_potentially_highly_efficient_image_and_video/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I\u2019m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I\u2019m posting it here in case anyone finds it interesting or useful."
+    },
+    {
+      "title": "Marc Raibert on Why Robotics Needs More Transparency",
+      "author": "Responsible-Grass452",
+      "url": "https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/",
+      "published": 1764878463.0,
+      "thumbnail": "https://external-preview.redd.it/czZ0M2RhcXZrODVnMXDFs25VAGMQ7jD7P7IJtotqHhQXTfEBoVTtdkOU5sNG.png?width=640&crop=smart&auto=webp&s=1ce77a3ba16429df69e330a6878c87a7c4a26597",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin."
     },
     {
       "title": "Christmas Help",
@@ -112,5 +112,5 @@
       "description": "Hello redditors, I am robotics engineer visiting China for the first time trying to meet vendors for parts procurement and also I want to use this time to meet and explore other vendors. I would be visiting Beijing, Guangdong, Shanghai and Shenzhen. Also let me know if I should meet any other company in any other area. I have worked on quadrupeds, drones, manipulators, mobile robots, underwater robots, iot, AI/ML for robotics and Reinforcement Learning Thanks in advance"
     }
   ],
-  "fetched_at": "2025-12-05T07:30:40.074011+00:00"
+  "fetched_at": "2025-12-05T08:29:47.118052+00:00"
 }

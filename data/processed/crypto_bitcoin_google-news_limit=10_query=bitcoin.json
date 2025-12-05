@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Tom Lee Says Bitcoin Adoption Could Rise \u2018200 Times,\u2019 Predicts End of the Four-Year Cycle",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdHlkUVlOVHdsRVFYd3pwREh4WXFWMVl1WXNBUTRxZlpDejk5RnF6bzlTMXNaajcwdXBZcW9kSmNVbVU5NEViRG56UjNsUU9OVlI0dUpjTEpzampkckRTa0lCckZ5VEZhVVFpUmg3MTEyVVBwVEQ5Y0lOZ0Utcloyag?oc=5",
-      "pub_date": 1764848930.0,
-      "article_url": "https://finance.yahoo.com/news/tom-lee-says-bitcoin-adoption-114850760.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/wsmNby4YAmDPqCT9diyyhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/dcddf4aed30ca2e97ff1581582667dd2",
-      "description": "Bitcoin adoption could rise \u201c200 times\u201d if global retirement savers allocate even modestly, Tom Lee said. Lee predicts the traditional four-year Bitcoin cycle is ending. ..."
+      "headline": "Bitcoin (BTC) Price News: Bulls Face Key Test at $93K",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUFtUUZPZXBvR0FxYTh4aTRaR1YxcWxvRHJGLU1YcWdoZ1dqaDhZVTE1OWhxMnZaWkNYR21aMXNOYzRZeFlhai1Zc1FXYUswTjkweWpsdWxVRmpIQmlqNjVVUkZfdEQwZ2wzb3M5V1ViSmg5MWkwbzdvU0ZXY29wTGhXMUVmMG9WQ3NUbExJbmVUYmU5Q2E5Unhxc0h5MTNWd3hxMWd6NnRfTXV0WU1qWk1wM2ljRmhZSGhPVm5yRktBMFc2RkI0Ug?oc=5",
+      "pub_date": 1764800467.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/03/crypto-rally-stumbles-bitcoin-slips-back-to-usd92k-as-microsoft-lowers-ai-sales-goals",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/600ea7deef0c237a3e3a263759c0ab9719f15643-2246x1188.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Bitcoin shot up 10% in two days, but it's stalling at around the 2025 yearly open."
     },
     {
       "headline": "Bitcoin has plunged. Strategy Inc is an early victim",
@@ -25,14 +25,44 @@
       "description": null
     },
     {
-      "headline": "Precious Metals Soar, Bitcoin Stalls as Investors Hedge Fed 'Policy Error'",
+      "headline": "Michael Saylor\u2019s Strategy may have BlackRock to thank for the 11% rise in Bitcoin",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclRPQVBtSmI1RG5mTndDZHFTYXVSNFRkbno4OTVsQ1pEWUJZRFJmdzgzX1JYNS0xTV9MUjR2LWdCNDhwMnZaT0RCWnE5LWNWbkQ0YXNvUVhRaGUyOU92TkEtX0Z4UkloTFlPRE9zVWphVUZ2b0d0b3E4eFJVNUlHbnBmbWtKZw?oc=5",
+      "pub_date": 1764850620.0,
+      "article_url": "https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-1491618289-e1739538790764.jpg?resize=1200,600",
+      "description": "BlackRock\u2019s ETF now owns 3.9% of all existing Bitcoin, more than Strategy."
+    },
+    {
+      "headline": "Video: BlackRock C.E.O. Calls Bitcoin an \u2018Asset of Fear\u2019",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemkwbnVmYy1RczRGQ3A4cmlUdy1UbEkzR09RVkNHZnBMN2phVmE4MVBQclNJeFVtRFNDMko2MjdZeGIwZ214VHJaSXh4WldhT011c2dsNWMxRThvSFh1WjJiYTROMVdjOWJXUlAzSW5qODJWMW44Mmp3aC1nWUtFMlNOMVN0S0xBZDVCYUwxaWhNMEl1djM1NW9jQjNsRy1ub043Z0U1WU1FcFpCT2JlNzgwYw?oc=5",
+      "pub_date": 1764781993.0,
+      "article_url": "https://www.nytimes.com/video/business/dealbook/100000010562120/blackrock-ceo-calls-bitcoin-an-asset-of-fear.html",
+      "image": "https://static01.nyt.com/images/2025/12/03/multimedia/03dealbook-summit-armstrong-fink-wckh/03dealbook-summit-armstrong-fink-wckh-facebookJumbo.jpg?video-overlay",
+      "description": "Larry Fink, the chief executive of BlackRock, dismissed concerns about the long-term value of cryptocurrency."
+    },
+    {
+      "headline": "BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTdZWU9ZcTloV3RIeW44R3E2aUNYUmFUX3NnUEZ3Uzk0c3ZRdldRakIxbHRrX2JmYk5TX1ZQYW1rYkg1YXlNeVMyRTdWcWllblJsRllkNi1GT0Q4V0FtSkd0bkM1T21rVk1ka2p5Rmx5QkZUd2tBWHBZYkE2bHJvOGc1U3c2UUZhNk96X1hEb3VLVUpfckJiOVBqZHVyT3BGb2liM2hvd2tZNl9tMjktQk1Xd2FHSDd3M2sxbnd1czk?oc=5",
+      "pub_date": 1764922300.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imggtXTZHkQE/v0/1200x800.jpg",
+      "description": "BlackRock Inc.\u2019s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world\u2019s largest cryptocurrency remains subdued even as prices stabilize."
+    },
+    {
+      "headline": "Bitcoin Exchange Supply Nears 5-year Low After $2 Billion Buy This Week",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVDUzekIwS05KOURrRWN6VWFCSDFXUGducEcySkxkSUFCZFVmQ3MxOHJFTmtPamI3NmpvbkJVRWY3dUo5OUlXR1RrblJBNFV0VHp3OWNqTjBmU3hLNFItaGV1Nm9tQkZiZTBHM3RrOGtQUmFPaUhfc3NlRkFoNnl0LU9IWEJUMWx6?oc=5",
-      "pub_date": 1764909780.0,
-      "article_url": "https://finance.yahoo.com/news/precious-metals-soar-bitcoin-stalls-044342663.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/710gqGOP3W_u08eL8nSSpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/8edaf2009242d47dae70b110dcfcd648",
-      "description": "Markets are hedging a Fed misstep, driving gold and silver higher while Bitcoin lags as traders reassess risk."
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcm9CQ3RQWV91eldmVC1ZelV5d3M0Q2JPQXg1US02MkV1OE4ydHlCdUxXUndFWjFwYXFiWnd4LThzRXNrWVNBUzQ3dzJySGNMalhpMi1CSlN4cEFRSGNXQXNhXzBoeXRveHdiREdtb2wtcGxrZlg4U0xYWGtqRUNsV29LRQ?oc=5",
+      "pub_date": 1764920400.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-exchange-supply-nears-5-074002583.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/jWaZJj1Fq0JqIPxTk4yaiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/fac7a43c3df82c31410379340c023ae5",
+      "description": "Bitcoin exchange reserves hit a 5-year low after $2 billion in buying, but price still struggles under key resistance."
     },
     {
       "headline": "Bitcoin\u2019s Predicted Sky-High Prices Have Not Panned Out",
@@ -48,9 +78,9 @@
       "headline": "With bitcoin down to around $92,000, should you rethink how much crypto to own? Here\u2019s what experts say.",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPTUd1TUVzNUEzLXp4Zk14XzZZbzgyek9ianlvUVNudUFXVlc2dzRCX2JHSGZ3WTZTc2ZTMGdnMU1fUTZuM2JrcjVuUndRcWcyLTZSR2JtYk16S0dYQ0FTSW0tajNPbUFjUUotdlRRMk96NUhpcVNMVHpJaDVBTU12R2VSaHR1Sk9XUzVENGl1dVdCcm53azJWQzNzeGJmWEMzckUzRGNWVXVTWEVPNEFaQ2MxZjdpNG9rUzhmbUhXbmQtVEJZWmRtSWNObGJQVjRMbXpDa3gycGhhbHJHa0JaSjNLQXBkY0pzcFZ2bEZ4bmtXdVY5eUtwZ2l4SE9nZEdNX0pINFJTeV83RW9ZRVduZ0JQclNUcWI4eEVJTGhidDJiejF1a09yQmZmUkhWenp2QWVwcGhxUDJaUUZPTjduakFGVEc0UEZVN1VSVmpxd014SjZ4bTBYTUFHT2oyVV9Ta3NWNDllX3l0QjhzbWJhLThocDM0YjZTdWp1eUZRd1lpcFB5XzAtRDFBdHUwS0lSX0xNclhNZW9LaDFvdjhReEx4eFljQmNFdHFwVEh1Qnp1bkpvdjVlNV9ZbWhtVUtzdjBDNGRSNUhIX0dMMDh0dm84emZxMDdlUTZvV3VDVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPS09yS0xSTEtXbmpuSXhvRGdKcnhqMVdQRjdLdGtyZWotNF9OYzBKc0ZUVzdOV1lBZ05aWnBOVi1PbUtybTlPdGcwRjNPNF9BcnZkU3Y4Mk01N0dMbEF1S3RNQjdKWk9VVVVKaXpUblNYWHhXa2FtZjRjdTFSbGhJT0EtaGVqVVUtVFFWaWI0R2NlU0tlcUhWX3ZXNmVnaXQ4UVBqalp4T1VaSGdIRGtRUl96NzVuZzBuSmtxcnBRdDctaXg2b2hsWkNQQlZRZzZPaUh1OFNhSmtCR29SYjE3NW5VeTExTFBraXRPczBXc3A4WEZNZTVGQll0c0FBRjYtRkpWZEthd3hQX3JTQTgwV2RzdENfN1VRZ2UzSGhVLU9xRjJGekwtbllzUC13NHU5amVxZHNZMm5hdGNnMXlnc2h3M3E2eGU5TUhncXNpRWpjdDVxVDNrS1JSUEtGU0MwYlNkQjFuZzBzU2ZRajZKWUx0TENuTXFJY2Q1OC03SnBaNTRDYXQ2Tjg3NzB6UkxGd2lQNVRKUHlpUEZ6QVZ2bUJQcnNhaFhJdGdybGhVaXVQdWprbVZ2eG9RLWxDa01GTnVkUVNxaDhaZTUwVlVya0pRSDNjZmRfbWJnZzVaYw?oc=5",
       "pub_date": 1764880980.0,
-      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqd1GLvs4B-lOXY8PXqHTXvW_Q-QablTLv7MpaIP_5vaErs6tDAIJeCC&gaa_ts=69328da0&gaa_sig=Zne2o4wNlDdb1WXplSIh_7j36vVpFWproi_GldzIWlgF6NJNhoFVwGWoUQvaqenFmTAadmxC-gpkYJh8av3Bxw%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeqVwclCo4dSt2WXVm0ZgrFYNfN_R2-tmW28P8OsLjMAeXbnIevD6Jw&gaa_ts=69329b7b&gaa_sig=1reKRVFQw4ViwwPvoYVlMOr0t7VO645Mg-l92Ig7NLY6185kpsQFf5yTddn5cnm949UFN7s2C8jdI5bGMSv6BQ%3D%3D",
       "image": null,
       "description": null
     },
@@ -65,46 +95,16 @@
       "description": "JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term."
     },
     {
-      "headline": "Michael Saylor\u2019s Strategy may have BlackRock to thank for the 11% rise in Bitcoin",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclRPQVBtSmI1RG5mTndDZHFTYXVSNFRkbno4OTVsQ1pEWUJZRFJmdzgzX1JYNS0xTV9MUjR2LWdCNDhwMnZaT0RCWnE5LWNWbkQ0YXNvUVhRaGUyOU92TkEtX0Z4UkloTFlPRE9zVWphVUZ2b0d0b3E4eFJVNUlHbnBmbWtKZw?oc=5",
-      "pub_date": 1764850620.0,
-      "article_url": "https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-1491618289-e1739538790764.jpg?resize=1200,600",
-      "description": "BlackRock\u2019s ETF now owns 3.9% of all existing Bitcoin, more than Strategy."
-    },
-    {
-      "headline": "A Huge Bitcoin Bar and Steakhouse Is Opening in DC",
-      "source": "Washingtonian",
-      "source_url": "https://washingtonian.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWE3RC1qZjVNLUdIcUhLNDZROUVxc01pUGVJSUZQMzBMY241Szk0bE5LdEFEc2VkeEJnSEFoU2tNZXVDc2ozcVp2aVBERWJMOXpXUTFjbmV4b0hhN1Z2NkU1MUhkamJMNlVqdDBTZG5EZVBjbzdtVHZieWxMdWNkdFRtSTVYei1QVDlWSk10LWktUQ?oc=5",
-      "pub_date": 1764790452.0,
-      "article_url": "https://washingtonian.com/2025/12/03/a-huge-bitcoin-bar-and-steakhouse-is-opening-in-dc/",
-      "image": "https://washingtonian.com/wp-content/uploads/2025/12/PubKey-DC-shrine-horizontal-Credit-Chris-Bryan.jpeg",
-      "description": "PubKey expands from New York with a podcast studio, event space, and more."
-    },
-    {
       "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPV1BkWThMSDVlbElaWEpaVS1tMmpqN0FUcjV3eGNrdUFGZXJVMjV0bDh2M20zRktPRGpjQkxiZDBkOTJFZ1R3bVN2SGN5Njh0V3ktREx5NVBTUWlJNUVrNXg5bDZkUWFDOXlXVUVMcEhra1FZU1Z6NUhrSnliN0YxdzRaUVJib1dreW1BTndEVzBmVnZyMUN6azR3akk5c0lKQnQ5OEN3TkxqeUM0TV9KaXJ2WG1IZnB4ZlA4VkxkbmJrbi1Sa1NvQkZpUUJGTk9ldExJenJnNFRhQ2RsQU5FVGxSYWxNVmhjUWhHSGFrS1RVaXV6WGc3OWpjODR1eGxuWXhBeHdSZmhzakFSNFFZS1BZQUU0cVVLelEzLWg2clR6Q2F4YTJ4cFNUaXVIWmNCdFM3Z1QyZ1pCUG91b2d4VHJJSXdZOEoyVXFXSFdTVm5Rc2lQWTQwa0xUR242YnM5a050RXFIRmE2dWEwNGQ5Y29MY0xnTnY5c2dxUXRNREtTLUF4Z05OcVFfbDNPMW1MN3dpb0FiZ0lOOGNRUmtIcUZLWmtOM3JoWFc4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQNHVQMm9RRnJ0QmhFNFlrRFJXTG9QRkF3NFE4R2VQYTdJTDZja011VUtsY0hfdUx0RXNocnc5cnFmNl8tUkdLeERueC0yTGh3OWFTV3haWHE5aWs4UTA2R252RnZSaHFWU3hzZWlYLVhDcEhiS3VfTzRjd2RfbFJTbFlhdEpMd2xWX2ZtUU1GNkZZTTlMRy0yaUxLYlhxMm5FUVVuOFJ4OUx5V0R6OFFEcU13MFJyV2R0TGJMMDZwSjlRRWQ5V3VzazNDWkM4ZjNMVEliNkdrUU9qSWViUHc4ck1lOFB1UlMwZGZRb2NfUklOdXVJR2QtTjI5LUgyMnJsaW5na0kxcFVVQm9aTGZQaXN2dDNLVTZRVXd3cm9ybWE5aFBBem51cFQxU3E4YURmMmZ3cUh1LXp6R2FabXFTTjBIQ2kxcXplZ0dmcFBMejFCNDZ6MVQ0R2Z4Sl9UMFFrWl83RG50RDFCS3gwQzJWVEMxUXF4RG1RTnhwOFhHM3A5N2lQUTZqZWl0ZzdDaVRsMm5td1RNZThjSEpHc1FZeldBdEUyQmJoQVpF?oc=5",
       "pub_date": 1764716700.0,
-      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcMWjQOCt6fjjrKTJCQr4McEbh-ng7uGi7qStBecjZ8tz5enD_6bm7R&gaa_ts=69328da0&gaa_sig=sd_4kkBRJmGh9_VyshcVFEP6jI9VXNS44eZWCnvVDtMgJgWF8pvvqpDfg5DO-upxnyYIpEpnXmcmdBROoTjv8g%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEJSRlhXeVdoYkRhVWhZdDgteEotcnZSOEtrV0JXQm1yS1pncm5wcXhRUFl5OE5teU9rOThFbl9kcnpBWUROWUkybWhZNi1MTGNrZjVBb0RwS2d5bnprczRHZWNneUxyeXZTcm5kbjJDczI2amktaWJQd0NyYVFrNdIBhgFBVV95cUxQQUttN09oLTFsOW55aTgtbEEtNHhsOE41d2Jxb2Y3T3RCdjZzUnRHTllkanJmRnEyZ0ZFM2JTVEFQeWVxYk5BcWdocnM0VnU3akNyaU9Jd0xqVjFZTXE1bzJBTlpWZGhDVlY2Vi1nMWhKRklWaGNVRkpYblNqa1ZfX3JXdzFuUQ?oc=5",
-      "pub_date": 1764887976.0,
-      "article_url": "https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook",
+      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdT-wbpPCP7EUHLdYsA9bhpT88OETYPQ8vPpV4z0O4ouO-5Z621rwFt&gaa_ts=69329b7b&gaa_sig=1evIwsUzg7rAf1yC_QpwL77qjweeblomddCt34A7zCjm5yJ1bCrkVjKmtcbA09xStmOkhbAKHQxpT5zdZsTyGQ%3D%3D",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T07:30:59.353222+00:00"
+  "fetched_at": "2025-12-05T08:30:12.787542+00:00"
 }

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T07:55:23.139529+00:00'
+updated: '2025-12-05T08:30:14.704366+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 07:55 UTC  
+**Last Updated:** December 05, 2025 at 08:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,062.45
+### $92,055.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +1.7%  
-**30d:** -8.9%  
-**90d:** -17.1%  
-**1y:** -7.3%  
+**24h:** -1.5%  
+**7d:** +1.5%  
+**30d:** -9.0%  
+**90d:** -17.2%  
+**1y:** -7.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1844.66B
+**Market Cap:** $1839.45B
 Rank #1
 
-**Circulating Supply:** 19,957,765 BTC
+**Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.6%
+-26.9%
 
 **All-Time Low:** $67.81
-+136291.4%
++135769.3%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Im only up 3000% now
 
-5h ago
+6h ago
 
 ---
 
-**[We have no idea how bad things have really gotten.](https://www.reddit.com/r/Bitcoin/comments/1pebeih/we_have_no_idea_how_bad_things_have_really_gotten/)**
+**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-11h ago
+4h ago
 
 ---
 
@@ -95,13 +95,7 @@ Im only up 3000% now
 
 💀
 
-17h ago
-
----
-
-**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
-
-4h ago
+18h ago
 
 ---
 
@@ -113,7 +107,7 @@ Im only up 3000% now
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -127,7 +121,7 @@ Im only up 3000% now
 
 Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our entire crypto journey wouldn’t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. 🚀
 
-15h ago
+16h ago
 
 ---
 
@@ -135,7 +129,7 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 .2 next, just wanted to share with someone
 
-9h ago
+10h ago
 
 ---
 
@@ -147,29 +141,59 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ---
 
+**[Cant stop, won't stop Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pelu4f/cant_stop_wont_stop_bitcoin/)**
+
+3h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Tom Lee Says Bitcoin Adoption Could Rise ‘200 Times,’ Predicts End of the Four-Year Cycle](https://finance.yahoo.com/news/tom-lee-says-bitcoin-adoption-114850760.html)**
+**[Bitcoin (BTC) Price News: Bulls Face Key Test at $93K](https://www.coindesk.com/markets/2025/12/03/crypto-rally-stumbles-bitcoin-slips-back-to-usd92k-as-microsoft-lowers-ai-sales-goals)**
 
-Bitcoin adoption could rise “200 times” if global retirement savers allocate even modestly, Tom Lee said. Lee predicts the traditional four-year Bitcoin cycle is ending. ...
+Bitcoin shot up 10% in two days, but it's stalling at around the 2025 yearly open.
 
-Yahoo Finance • 20h ago
+CoinDesk • 1d ago
 
 ---
 
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
-The Economist • 21h ago
+The Economist • 22h ago
 
 ---
 
-**[Precious Metals Soar, Bitcoin Stalls as Investors Hedge Fed 'Policy Error'](https://finance.yahoo.com/news/precious-metals-soar-bitcoin-stalls-044342663.html)**
+**[Michael Saylor’s Strategy may have BlackRock to thank for the 11% rise in Bitcoin](https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/)**
 
-Markets are hedging a Fed misstep, driving gold and silver higher while Bitcoin lags as traders reassess risk.
+BlackRock’s ETF now owns 3.9% of all existing Bitcoin, more than Strategy.
 
-Yahoo Finance • 3h ago
+Fortune • 20h ago
+
+---
+
+**[Video: BlackRock C.E.O. Calls Bitcoin an ‘Asset of Fear’](https://www.nytimes.com/video/business/dealbook/100000010562120/blackrock-ceo-calls-bitcoin-an-asset-of-fear.html)**
+
+Larry Fink, the chief executive of BlackRock, dismissed concerns about the long-term value of cryptocurrency.
+
+The New York Times • 1d ago
+
+---
+
+**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
+
+BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
+
+Bloomberg.com • 18m ago
+
+---
+
+**[Bitcoin Exchange Supply Nears 5-year Low After $2 Billion Buy This Week](https://finance.yahoo.com/news/bitcoin-exchange-supply-nears-5-074002583.html)**
+
+Bitcoin exchange reserves hit a 5-year low after $2 billion in buying, but price still struggles under key resistance.
+
+Yahoo Finance • 50m ago
 
 ---
 
@@ -179,7 +203,7 @@ The New York Times • 1d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqd1GLvs4B-lOXY8PXqHTXvW_Q-QablTLv7MpaIP_5vaErs6tDAIJeCC&gaa_ts=69328da0&gaa_sig=Zne2o4wNlDdb1WXplSIh_7j36vVpFWproi_GldzIWlgF6NJNhoFVwGWoUQvaqenFmTAadmxC-gpkYJh8av3Bxw%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeqVwclCo4dSt2WXVm0ZgrFYNfN_R2-tmW28P8OsLjMAeXbnIevD6Jw&gaa_ts=69329b7b&gaa_sig=1reKRVFQw4ViwwPvoYVlMOr0t7VO645Mg-l92Ig7NLY6185kpsQFf5yTddn5cnm949UFN7s2C8jdI5bGMSv6BQ%3D%3D)**
 
 MarketWatch • 11h ago
 
@@ -193,31 +217,9 @@ Business Insider • 14h ago
 
 ---
 
-**[Michael Saylor’s Strategy may have BlackRock to thank for the 11% rise in Bitcoin](https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/)**
-
-BlackRock’s ETF now owns 3.9% of all existing Bitcoin, more than Strategy.
-
-Fortune • 19h ago
-
----
-
-**[A Huge Bitcoin Bar and Steakhouse Is Opening in DC](https://washingtonian.com/2025/12/03/a-huge-bitcoin-bar-and-steakhouse-is-opening-in-dc/)**
-
-PubKey expands from New York with a podcast studio, event space, and more.
-
-Washingtonian • 1d ago
-
----
-
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcMWjQOCt6fjjrKTJCQr4McEbh-ng7uGi7qStBecjZ8tz5enD_6bm7R&gaa_ts=69328da0&gaa_sig=sd_4kkBRJmGh9_VyshcVFEP6jI9VXNS44eZWCnvVDtMgJgWF8pvvqpDfg5DO-upxnyYIpEpnXmcmdBROoTjv8g%3D%3D)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdT-wbpPCP7EUHLdYsA9bhpT88OETYPQ8vPpV4z0O4ouO-5Z621rwFt&gaa_ts=69329b7b&gaa_sig=1evIwsUzg7rAf1yC_QpwL77qjweeblomddCt34A7zCjm5yJ1bCrkVjKmtcbA09xStmOkhbAKHQxpT5zdZsTyGQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
-
----
-
-**[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
-
-The Block • 9h ago
 
 ---
 
@@ -337,7 +339,7 @@ Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative t
 
 📺 The Wolf Of All Streets
 
-👁️ 24K • 👍 884 • 💬 327 • ⏱️ 35:57 • 16h ago
+👁️ 24K • 👍 884 • 💬 327 • ⏱️ 35:57 • 17h ago
 
 ---
 
@@ -347,7 +349,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 1K • 💬 346 • ⏱️ 47:51 • 16h ago
+👁️ 29K • 👍 1K • 💬 346 • ⏱️ 47:51 • 17h ago
 
 ---
 
@@ -377,7 +379,7 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 45 • ⏱️ 10:24 • 21h ago
+👁️ 22K • 👍 3K • 💬 45 • ⏱️ 10:24 • 22h ago
 
 ---
 
@@ -397,7 +399,7 @@ A company uses its financial resources to purchase Bitcoin, leveraging price inc
 
 📺 Stockology Insider
 
-👁️ 703 • ⏱️ 0:44 • 5h ago
+👁️ 703 • ⏱️ 0:44 • 6h ago
 
 ---
 

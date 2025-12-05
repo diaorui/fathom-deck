@@ -15,16 +15,6 @@
       "description": null
     },
     {
-      "headline": "Myriad Moves: Bitcoin and Ethereum Recovery Odds Rise as Traders Flip Bullish",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjdvSjBjT1RSUEhlSy1LRmVIMGYwZDRGbUxVZmxacU1KSVFhU2lTUkZMNWlVZGdncjBMeHBmZVdscnBMLVN1T090SDFCX2FDd00tVnh0cWpia2Jyam4yY1lXcF9zRFhNeG5jNC1tRTdEZUFJX2hsRXBZNkpldlZRamVCWk5STnFzQTJDWVRaSy1pVktrZW9TMGlMSdIBowFBVV95cUxPaWZILV9tV0lVNU5veEQwdFhvRkhLcmZxcHdBVmdvcGljblFyT1ZnemVVUTFyOE5CcmpEY3U5WExXZkNPUUNGdDdSMHZ3NmdhN3E4bktDdHRYYXNlc0d1M3Jha0ZKWEFUWGhRLVJjNmlpLWgxaXN1blNPUjlrdEIyQVpjVFNmU2d5NDMyYUE2bUV6QWtfT3E3LVE0TV85TEc5SnAw?oc=5",
-      "pub_date": 1764884161.0,
-      "article_url": "https://decrypt.co/350986/myriad-moves-bitcoin-ethereum-recovery-odds-rise-traders-flip-bullish",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg",
-      "description": "Top markets on Myriad this week include predictions on where Bitcoin and Ethereum are headed next, plus odds of another major liquidation event."
-    },
-    {
       "headline": "Ethereum Fusaka upgrade goes live, bringing eightfold increase in \u2018blob\u2019 capacity",
       "source": "dlnews.com",
       "source_url": "https://www.dlnews.com",
@@ -65,6 +55,16 @@
       "description": "Key PointsEthereum receives a major update today that should improve its ability to scale."
     },
     {
+      "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbjZNMU41QkJ4RnFsMWw3NU16WjFnelIzd3ZYTXg1VUZEVEFTaVRGVTZUOGFxLU02ZWx2TTZ0ajl4NTlRUHh6YlBqd1NJWFBtVE5mU09aNWxuWk1YMlVsTWJWUkhuMmRYalJJdVB2MEE5eDNkWXMzaWtHTl9hRGkyQ3VaT1Yyd1FxTjFZeDVNMVRYM3dqMWNCdEUtMVpKUk9wVjdTUFg4UnQ1dw?oc=5",
+      "pub_date": 1764682252.0,
+      "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
+    },
+    {
       "headline": "Why Ethereum Is Gaining Today",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -95,16 +95,16 @@
       "description": "Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?"
     },
     {
-      "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbjZNMU41QkJ4RnFsMWw3NU16WjFnelIzd3ZYTXg1VUZEVEFTaVRGVTZUOGFxLU02ZWx2TTZ0ajl4NTlRUHh6YlBqd1NJWFBtVE5mU09aNWxuWk1YMlVsTWJWUkhuMmRYalJJdVB2MEE5eDNkWXMzaWtHTl9hRGkyQ3VaT1Yyd1FxTjFZeDVNMVRYM3dqMWNCdEUtMVpKUk9wVjdTUFg4UnQ1dw?oc=5",
-      "pub_date": 1764682252.0,
-      "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
+      "headline": "While Ethereum whales rotate, XRP data shows a fatal concentration flaw that leaves one group holding the bag.",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQU1yWmF4R3ZRVEREbUpmMlNuSEl1YVFUa09RNmRQTnhOLUVUaE5oT2ZmNWo0TWN4VUJlTHdGWGdtZm1sLUtPVFc0MTZuZHJxeE50aTIwWVZFZFZ1UFBCRWJXUlhDUlFmMS1YZGdjdEM?oc=5",
+      "pub_date": 1764779700.0,
+      "article_url": "https://cryptoslate.com/ethereum-xrp-whales-concentration-risk/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2025/12/ethereum-xrp-whale.jpg",
+      "description": "We quantify how much old supply just moved and why now."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T07:30:52.159421+00:00"
+  "fetched_at": "2025-12-05T08:29:59.036723+00:00"
 }

@@ -46,17 +46,6 @@
       "description": null
     },
     {
-      "title": "Popular RAM brand Crucial axed, so its owners can focus on \"faster-growing segments\" like AI",
-      "author": "Tiny-Independent273",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdyaiz/popular_ram_brand_crucial_axed_so_its_owners_can/",
-      "published": 1764849844.0,
-      "thumbnail": "https://external-preview.redd.it/ouQdCwCVbHckpQ7eAiWKkfakSImuJ2bh4Cls5200cLM.jpeg?width=640&crop=smart&auto=webp&s=e00ad65819ba523a3d41beacf9017c3e6d25bb41",
-      "external_url": "https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/",
-      "site_name": "PC Guide",
-      "favicon": "https://www.pcguide.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
-      "description": "Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls \u201cfaster-growing segments.\""
-    },
-    {
       "title": "AMD CEO Lisa Su Says Concerns About an AI Bubble Are Overblown",
       "author": "wiredmagazine",
       "url": "https://www.reddit.com/r/artificial/comments/1pe8g15/amd_ceo_lisa_su_says_concerns_about_an_ai_bubble/",
@@ -66,6 +55,17 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "Lisa Su leads Nvidia\u2019s biggest rival in the AI chip market. When asked at WIRED\u2019s Big Interview event if AI is a bubble, company said \u201cEmphatically, from my perspective, no.\u201d"
+    },
+    {
+      "title": "Popular RAM brand Crucial axed, so its owners can focus on \"faster-growing segments\" like AI",
+      "author": "Tiny-Independent273",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdyaiz/popular_ram_brand_crucial_axed_so_its_owners_can/",
+      "published": 1764849844.0,
+      "thumbnail": "https://external-preview.redd.it/ouQdCwCVbHckpQ7eAiWKkfakSImuJ2bh4Cls5200cLM.jpeg?width=640&crop=smart&auto=webp&s=e00ad65819ba523a3d41beacf9017c3e6d25bb41",
+      "external_url": "https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/",
+      "site_name": "PC Guide",
+      "favicon": "https://www.pcguide.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "description": "Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls \u201cfaster-growing segments.\""
     },
     {
       "title": "One-Minute Daily AI News 12/4/2025",
@@ -90,27 +90,27 @@
       "description": "The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence."
     },
     {
-      "title": "Embedding Drift silently broke our RAG",
-      "author": "coolandy00",
-      "url": "https://www.reddit.com/r/artificial/comments/1pefrm6/embedding_drift_silently_broke_our_rag/",
-      "published": 1764892052.0,
+      "title": "\ud83e\udd16 L'ex-directeur scientifique de Meta s'appr\u00eate \u00e0 lancer sa start-up d'intelligence artificielle",
+      "author": "GabFromMars",
+      "url": "https://www.reddit.com/r/artificial/comments/1pepc16/lexdirecteur_scientifique_de_meta_sappr\u00eate_\u00e0/",
+      "published": 1764921285.0,
       "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "external_url": "https://www.linkedin.com/posts/les-echos_lex-directeur-scientifique-de-meta-sappr%25C3%25AAte-activity-7402587567272910848-h34L?utm_source%3Dshare%26utm_medium%3Dmember_ios%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4",
+      "site_name": "linkedin.com",
       "favicon": null,
-      "description": "Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn\u2019t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer \u201cmysterious RAG failures\u201d Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?"
+      "description": "\ud83d\udc4b Apr\u00e8s douze ann\u00e9es pass\u00e9es chez Meta, Yann LeCun a fait le grand saut. Le mois dernier, il a annonc\u00e9 qu'il quittait le g\u00e9ant des r\u00e9seaux sociaux pour lancer sa propre start-up en vue de cr\u00e9er une nouvelle g\u00e9n\u00e9ration de syst\u00e8mes d'intelligence artificielle. Dans cette aventure, encore relativement n\u00e9buleuse, \u00ab Meta est un partenaire, ce n'est pas un investisseur \u00bb, a d\u00e9clar\u00e9 Yann LeCun, ce jeudi, lors de l'\u00e9v\u00e9nement AI Pulse organis\u00e9 par Scaleway \u00e0 Paris. \ud83e\udde0 Le chercheur fran\u00e7ais fait figure de parrain de l'IA moderne et a \u00e9t\u00e9 r\u00e9compens\u00e9 du prix Turing en 2018. Il mobilise actuellement des fonds pour lancer sa start-up autour du concept d'\u00ab intelligence avanc\u00e9e \u00bb bas\u00e9e sur le monde physique et les \u00ab world models \u00bb, en opposition aux grands mod\u00e8les g\u00e9n\u00e9ratifs sur lesquels parient actuellement les g\u00e9ants am\u00e9ricains de la tech. \ud83d\udca1 Les explications de Jos\u00e9phine Boone"
     },
     {
-      "title": "Sport AI video back and forth animation",
-      "author": "Confident_Squirrel_5",
-      "url": "https://www.reddit.com/r/artificial/comments/1penprt/sport_ai_video_back_and_forth_animation/",
-      "published": 1764915191.0,
-      "thumbnail": null,
-      "external_url": "https://www.instagram.com/reel/DRjtY2Zks8d/?igsh=c29ocGNweWVsaGZ0",
-      "site_name": "instagram.com",
-      "favicon": "https://static.cdninstagram.com/rsrc.php/v4/yR/r/lam-fZmwmvn.png",
-      "description": "Hi all, anyone know how can i make this kind of sport back and forth animation video? https://www.instagram.com/reel/DRjtY2Zks8d/?igsh=c29ocGNweWVsaGZ0"
+      "title": "The Experiment That Made AIs Admit Awareness | Am I? | EP 15",
+      "author": "Sonic_Improv",
+      "url": "https://www.reddit.com/r/artificial/comments/1pep81u/the_experiment_that_made_ais_admit_awareness_am_i/",
+      "published": 1764920851.0,
+      "thumbnail": "https://external-preview.redd.it/-dI_P1WFXtPjiWFF96PuaSqzsTPDhifbDBZgHfOgpHg.jpeg?width=320&crop=smart&auto=webp&s=247241a1ceaffc23a253c944adc4a13b25c4fd72",
+      "external_url": "https://youtu.be/z_gHuD_IxZs?si=JB_V38KslkGIR8OB",
+      "site_name": "youtu.be",
+      "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     }
   ],
-  "fetched_at": "2025-12-05T07:30:36.145518+00:00"
+  "fetched_at": "2025-12-05T08:29:50.913701+00:00"
 }

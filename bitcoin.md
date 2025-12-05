@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T06:45:28.250888+00:00'
+updated: '2025-12-05T07:01:09.652208+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 06:45 UTC  
+**Last Updated:** December 05, 2025 at 07:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +1.1%  
-**30d:** -9.4%  
-**90d:** -17.6%  
-**1y:** -7.9%  
+**24h:** -1.0%  
+**7d:** +1.5%  
+**30d:** -9.1%  
+**90d:** -17.3%  
+**1y:** -7.5%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Im only up 3000% now
 
-4h ago
+5h ago
 
 ---
 
 **[We have no idea how bad things have really gotten.](https://www.reddit.com/r/Bitcoin/comments/1pebeih/we_have_no_idea_how_bad_things_have_really_gotten/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ Im only up 3000% now
 
 💀
 
-16h ago
+17h ago
 
 ---
 
@@ -119,7 +119,7 @@ Im only up 3000% now
 
 **[Bitcoin in 2025](https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -143,7 +143,7 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
-1h ago
+2h ago
 
 ---
 
@@ -185,7 +185,7 @@ cheddar.com • 9h ago
 
 A softer inflation report could lower the 10-year Treasury yield and support cryptocurrencies.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -231,7 +231,7 @@ Fortune • 18h ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 6 • 💬 1 • 18h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 6 • 💬 1 • 19h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
@@ -275,7 +275,7 @@ Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux
 
 **[Market Volatility Underscores Epic Buildup of Global Risk](https://news.ycombinator.com/item?id=46104355)**
 
-⬆️ 2 • 💬 3 • 3d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
+⬆️ 2 • 💬 3 • 4d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
 
 ---
 
@@ -309,7 +309,7 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 13K • 👍 580 • 💬 1 • ⏱️ 28:20 • 8h ago
+👁️ 13K • 👍 580 • 💬 1 • ⏱️ 28:20 • 9h ago
 
 ---
 
@@ -319,7 +319,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 2K • 💬 142 • ⏱️ 23:27 • 5h ago
+👁️ 14K • 👍 2K • 💬 142 • ⏱️ 23:27 • 6h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative t
 
 📺 The Wolf Of All Streets
 
-👁️ 23K • 👍 877 • 💬 270 • ⏱️ 35:57 • 15h ago
+👁️ 23K • 👍 877 • 💬 270 • ⏱️ 35:57 • 16h ago
 
 ---
 

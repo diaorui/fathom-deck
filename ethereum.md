@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T06:45:28.256918+00:00'
+updated: '2025-12-05T07:01:09.658202+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 06:45 UTC  
+**Last Updated:** December 05, 2025 at 07:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +6.0%  
-**30d:** -4.5%  
-**90d:** -26.6%  
-**1y:** -20.7%  
+**24h:** -0.4%  
+**7d:** +6.1%  
+**30d:** -4.4%  
+**90d:** -26.5%  
+**1y:** -20.6%  
 
 ---
 
@@ -80,7 +80,7 @@ Trump crypto empire falls faster than bitcoin
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-44m ago
+59m ago
 
 ---
 
@@ -150,7 +150,7 @@ Our membership has concluded its latest quarterly audit of funded members as of 
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 2d ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 39K • 👍 2K • 💬 323 • ⏱️ 27:33 • 12h ago
+👁️ 39K • 👍 2K • 💬 323 • ⏱️ 27:33 • 13h ago
 
 ---
 
@@ -266,7 +266,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 47 • 💬 109 • ⏱️ 5:52 • 15h ago
+👁️ 1K • 👍 47 • 💬 109 • ⏱️ 5:52 • 16h ago
 
 ---
 
@@ -296,7 +296,7 @@ Ethereum (ETH) is approaching a critical point, and the next major move could de
 
 📺 HKCM GLOBAL
 
-👁️ 1K • 👍 125 • 💬 5 • ⏱️ 10:00 • 13h ago
+👁️ 1K • 👍 125 • 💬 5 • ⏱️ 10:00 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 203 • 💬 9 • ⏱️ 4:44 • 15h ago
+👁️ 3K • 👍 203 • 💬 9 • ⏱️ 4:44 • 16h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T06:45:28.242277+00:00'
+updated: '2025-12-05T07:01:09.643786+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 06:45 UTC  
+**Last Updated:** December 05, 2025 at 07:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 8h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 9h ago
 
 ---
 
@@ -53,13 +53,13 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 10h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 11h ago
 
 ---
 
 **["Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have." -Bernie Sanders](https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -75,7 +75,7 @@ Micron has confirmed that it is exiting the Crucial consumer business so it can 
 
 Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRED’s Big Interview event if AI is a bubble, company said “Emphatically, from my perspective, no.”
 
-🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 11h ago
+🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 12h ago
 
 ---
 
@@ -99,7 +99,7 @@ The U.S. Department of Health and Human Services has outlined a new strategy to 
 
 Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn’t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer “mysterious RAG failures” Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?
 
-6h ago
+7h ago
 
 ---
 
@@ -107,7 +107,7 @@ Our RAG stack degraded slowly over months. Text-shape differences created differ
 
 Hi all, anyone know how can i make this kind of sport back and forth animation video? https://www.instagram.com/reel/DRjtY2Zks8d/?igsh=c29ocGNweWVsaGZ0
 
-🔗 [instagram.com](https://www.instagram.com/reel/DRjtY2Zks8d/?igsh=c29ocGNweWVsaGZ0) • 32m ago
+🔗 [instagram.com](https://www.instagram.com/reel/DRjtY2Zks8d/?igsh=c29ocGNweWVsaGZ0) • 47m ago
 
 ---
 
@@ -135,13 +135,13 @@ The Guardian • 10h ago
 
 BBC Sport hears from inside the England setup about how artificial intelligence is powering plans for next summer's World Cup.
 
-BBC • 27m ago
+BBC • 43m ago
 
 ---
 
 **[On Pope Leo’s Visit to Lebanon and Turkey, A.I. Was a Frequent Concern](https://www.nytimes.com/2025/12/05/world/asia/pope-leo-lebanon-turkey-ai-technology.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -149,7 +149,7 @@ The New York Times • 1h ago
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-Business Insider • 21m ago
+Business Insider • 37m ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 13h ago
 
 What 1,250 professionals told us about working with AI
 
-Anthropic • 13h ago
+Anthropic • 14h ago
 
 ---
 
@@ -251,7 +251,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 231 • 💬 189 • 9h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 231 • 💬 189 • 10h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -281,7 +281,7 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 491K • 👍 13K • 💬 3K • ⏱️ 2:04:06 • 22h ago
+👁️ 491K • 👍 13K • 💬 3K • ⏱️ 2:04:06 • 23h ago
 
 ---
 
@@ -361,7 +361,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 144K • 👍 551 • 💬 29 • ⏱️ 8:09 • 19h ago
+👁️ 144K • 👍 551 • 💬 29 • ⏱️ 8:09 • 20h ago
 
 ---
 
@@ -435,7 +435,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,092 • ❤️ 320 • 2d ago
+⬇️ 2,092 • ❤️ 320 • 3d ago
 
 ---
 
@@ -457,7 +457,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 234 • 2d ago
+⬇️ 0 • ❤️ 234 • 3d ago
 
 ---
 
@@ -680,7 +680,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 819 • 🔱 42 • 52m ago
+⭐ 819 • 🔱 42 • 1h ago
 
 ---
 

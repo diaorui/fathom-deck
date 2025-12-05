@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T19:41:54.611391+00:00'
+updated: '2025-12-05T19:53:40.680611+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 19:41 UTC  
+**Last Updated:** December 05, 2025 at 19:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -3.2%  
-**7d:** -1.4%  
+**7d:** -1.5%  
 **30d:** -11.7%  
 **90d:** -19.7%  
 **1y:** -10.2%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1775.90B
+**Market Cap:** $1786.59B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.3%
+-29.0%
 
 **All-Time Low:** $67.81
-+131318.7%
++131929.2%
 
 ---
 
@@ -85,7 +85,13 @@ Rank #1
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-6h ago
+7h ago
+
+---
+
+**[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
+
+1h ago
 
 ---
 
@@ -95,9 +101,9 @@ Rank #1
 
 ---
 
-**[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
+**[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-1h ago
+17m ago
 
 ---
 
@@ -123,11 +129,11 @@ Im only up 3000% now
 
 ---
 
-**[What stops someone from taking on as much credit card debt as they can, using all the money to buy Bitcoin, then declaring bankruptcy to absolve the debt and keep the profits?](https://www.reddit.com/r/Bitcoin/comments/1pf19nt/what_stops_someone_from_taking_on_as_much_credit/)**
+**[Did you know you can generate a Bitcoin private key using a coin?](https://www.reddit.com/r/Bitcoin/comments/1pf234m/did_you_know_you_can_generate_a_bitcoin_private/)**
 
-It can't just be as simple as that, can it? Maybe it is but I just know I would fuck it up. Obviously that can't be sustainable as a financial system but that's how it all seems to work outside of the Bitcoin system.
+Most people let their wallet software generate their private key, which is totally fine but Bitcoin doesn’t require a computer to create one. A Bitcoin private key is just a 256-bit number… And a fair coin flip produces 1 bit of entropy. So in theory (and in practice), you can generate a completely valid, secure Bitcoin private key by doing: Heads = 1 Tails = 0 The math is simple. 256 coin flips is 2^256 potential outcomes. Once you have your 256-bit binary sequence, you can convert it offline into: hex format WIF private key or even a BIP39 seed phrase All without touching the internet. You could also do this with dice, a dice roll is roughly 2.585 bits of entropy. Therefore 99-100 dice rolls will give you enough entropy for a 256 bit private key. This works because Bitcoin’s security comes from math. I mean how could you not love Bitcoin!
 
-2h ago
+1h ago
 
 ---
 
@@ -135,15 +141,7 @@ It can't just be as simple as that, can it? Maybe it is but I just know I would 
 
 ... not in the slightest
 
-1h ago
-
----
-
-**[Senators buying the dip on BTC](https://www.reddit.com/r/Bitcoin/comments/1pem50a/senators_buying_the_dip_on_btc/)**
-
-Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
-
-14h ago
+2h ago
 
 ---
 
@@ -151,11 +149,11 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
+**[Bitcoin Options Show Traders Hunkering Down for Crypto Winter](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-options-show-traders-hunkering-down-for-crypto-winter)**
 
-Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
+Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
 
-Decrypt • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -165,11 +163,33 @@ Fast Company • 1h ago
 
 ---
 
-**[Bitcoin Options Show Traders Hunkering Down for Crypto Winter](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-options-show-traders-hunkering-down-for-crypto-winter)**
+**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
 
-Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
+Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Bloomberg.com • 55m ago
+Yahoo Finance • 5h ago
+
+---
+
+**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://finance.yahoo.com/news/blackrock-bitcoin-etf-sheds-2-081140067.html)**
+
+Investors yanked more than $2.7 billion from the exchange-traded fund over the five weeks to Nov. 28, according to data compiled by Bloomberg.  The IBIT fund oversees more than $71 billion in assets and has served as the flagship vehicle for traditional investors seeking exposure to Bitcoin.  The sustained period of outflows aligns with Bitcoin’s slide into a bear market following a severe liquidation event in early October, which kicked off a more than $1 trillion wipeout in crypto market value.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Why Did Bitcoin Drop Below $90,000 Again? A Breakdown of the Latest Sell-Off](https://finance.yahoo.com/news/why-did-bitcoin-drop-below-191752606.html)**
+
+Bitcoin falls below $90,000 again as liquidations, weak ETF flows, macro pressure and PCE inflation data shape market sentiment.
+
+Yahoo Finance • 35m ago
+
+---
+
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdiFIFVTJ4TbQqZ806ykuCdUFHU48wiLTJ3YTC2ocboS7A8AokWeQvr&gaa_ts=69333bac&gaa_sig=9t8SdkWQbq-hDAyrDhmOyOLOuePghso15G3jSZSqN5N_vvQ9wwcWlna9D0Op433Y3ZwWA_LkKcbPBuYzYlOImw%3D%3D)**
+
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -198,26 +218,6 @@ Yahoo Finance • 2d ago
 **[Bitcoin’s Predicted Sky-High Prices Have Not Panned Out](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
 
 The New York Times • 2d ago
-
----
-
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeaBevxMGbiPker88TX1-MlfxfHXAZGEVwa6SY1UhsNDBiAyrrP9-7g&gaa_ts=6933327e&gaa_sig=A6NrUWxvOKliKqBhkVk-oWRxFAu5DLEVlA9x95NUTrXpDp_FU2DWRgo2uwyBh8EHPDoiTOKIyf9MjPpbo3SmyQ%3D%3D)**
-
-MarketWatch • 22h ago
-
----
-
-**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
-
-BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
-
-Bloomberg.com • 3h ago
-
----
-
-**[Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks](https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit)**
-
-The Block • 12h ago
 
 ---
 
@@ -337,7 +337,7 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 61K • 👍 3K • 💬 322 • ⏱️ 18:48 • 21h ago
+👁️ 61K • 👍 3K • 💬 322 • ⏱️ 18:48 • 22h ago
 
 ---
 
@@ -377,7 +377,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 3K • 💬 304 • ⏱️ 23:27 • 18h ago
+👁️ 40K • 👍 3K • 💬 304 • ⏱️ 23:27 • 19h ago
 
 ---
 
@@ -397,7 +397,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 10K • 👍 613 • 💬 67 • ⏱️ 9:41 • 14h ago
+👁️ 10K • 👍 613 • 💬 67 • ⏱️ 9:41 • 15h ago
 
 ---
 

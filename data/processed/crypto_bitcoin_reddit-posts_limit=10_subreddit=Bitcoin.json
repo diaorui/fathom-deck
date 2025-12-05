@@ -24,6 +24,17 @@
       "description": null
     },
     {
+      "title": "Got to 0.1 !!",
+      "author": "retiamus",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/",
+      "published": 1764958848.0,
+      "thumbnail": "https://preview.redd.it/oicfcaysgf5g1.jpeg?width=640&crop=smart&auto=webp&s=434bad93d490e911ba728f571aa174cfa4f88305",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "POV: You\u2019re the only one who actually got a deal on Black Friday.",
       "author": "North_Appointment410",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/",
@@ -35,11 +46,11 @@
       "description": null
     },
     {
-      "title": "Got to 0.1 !!",
-      "author": "retiamus",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/",
-      "published": 1764958848.0,
-      "thumbnail": "https://preview.redd.it/oicfcaysgf5g1.jpeg?width=640&crop=smart&auto=webp&s=434bad93d490e911ba728f571aa174cfa4f88305",
+      "title": "They are not ready.",
+      "author": "MrMBTC",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/",
+      "published": 1764963392.0,
+      "thumbnail": "https://preview.redd.it/iy0i9lobuf5g1.jpeg?width=320&crop=smart&auto=webp&s=6d4727d16ff3990ec7610161c37fed6015e47207",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -79,15 +90,15 @@
       "description": null
     },
     {
-      "title": "What stops someone from taking on as much credit card debt as they can, using all the money to buy Bitcoin, then declaring bankruptcy to absolve the debt and keep the profits?",
-      "author": "TerminatedPotato",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pf19nt/what_stops_someone_from_taking_on_as_much_credit/",
-      "published": 1764956046.0,
+      "title": "Did you know you can generate a Bitcoin private key using a coin?",
+      "author": "MegaSackk",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pf234m/did_you_know_you_can_generate_a_bitcoin_private/",
+      "published": 1764957893.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "It can't just be as simple as that, can it? Maybe it is but I just know I would fuck it up. Obviously that can't be sustainable as a financial system but that's how it all seems to work outside of the Bitcoin system."
+      "description": "Most people let their wallet software generate their private key, which is totally fine but Bitcoin doesn\u2019t require a computer to create one. A Bitcoin private key is just a 256-bit number\u2026 And a fair coin flip produces 1 bit of entropy. So in theory (and in practice), you can generate a completely valid, secure Bitcoin private key by doing: Heads = 1 Tails = 0 The math is simple. 256 coin flips is 2^256 potential outcomes. Once you have your 256-bit binary sequence, you can convert it offline into: hex format WIF private key or even a BIP39 seed phrase All without touching the internet. You could also do this with dice, a dice roll is roughly 2.585 bits of entropy. Therefore 99-100 dice rolls will give you enough entropy for a 256 bit private key. This works because Bitcoin\u2019s security comes from math. I mean how could you not love Bitcoin!"
     },
     {
       "title": "from \"the big print\" by Lawrence Lepard. I think we are not bullish enough",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "... not in the slightest"
-    },
-    {
-      "title": "Senators buying the dip on BTC",
-      "author": "anonbull8",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pem50a/senators_buying_the_dip_on_btc/",
-      "published": 1764910044.0,
-      "thumbnail": "https://preview.redd.it/01p34j1pfb5g1.jpeg?width=640&crop=smart&auto=webp&s=9cc877d213b2a5312675f66bc52c9e878eb27a6a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT\u2026 and so is Marjorie Greene \ud83e\udee3"
     }
   ],
-  "fetched_at": "2025-12-05T19:14:03.882332+00:00"
+  "fetched_at": "2025-12-05T19:53:12.900876+00:00"
 }

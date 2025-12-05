@@ -35,17 +35,6 @@
       "description": null
     },
     {
-      "title": "Are we witnessing the end of \u201creal robot data\u201d as the foundation of Embodied AI? Recent results from InternData-A1, GEN-0, and Tesla suggest a shift. (Original post by Felicia)",
-      "author": "Individual-Major-309",
-      "url": "https://www.reddit.com/r/robotics/comments/1pessi4/are_we_witnessing_the_end_of_real_robot_data_as/",
-      "published": 1764934446.0,
-      "thumbnail": "https://a.thumbs.redditmedia.com/xYGdExuacIcgGtMT_4UoS63x2i1kRFGFAmyDCxoBwi4.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "For a long time, many robotics teams believed that real robot interaction data was the only reliable foundation for training generalist manipulation models. But real-world data collection is extremely expensive, slow, and fundamentally limited by human labor. Recent results suggest the landscape is changing. Three industry signals stand out: 1. InternData-A1: Synthetic data beats the strongest real-world dataset Shanghai AI Lab\u2019s new paper InternData-A1 (Nov 2025, arXiv) is the first to show that pure simulation data can match or outperform the best real-robot dataset used to train Pi0. The dataset is massive: 630k+ trajectories 7,434 hours 401M frames 4 robot embodiments, 18 skill types, 70 tasks $0.003 per trajectory generation cost One 8\u00d7RTX4090 workstation \u2192 200+ hours of robot data per day Results: On RoboTwin2.0 (49 bimanual tasks): +5\u20136% success over Pi0 On 9 real-world tasks: +6.2% success Sim-to-Real: 1,600 synthetic samples \u2248 200 real samples (\u22488:1 efficiency) The long-held \u201csimulation quality discount\u201d is shrinking fast. 2. GEN-0 exposes the economic impossibility of scaling real-world teleoperation Cross-validated numbers show: Human teleoperation cost per trajectory: $2\u2013$10 Hardware systems: $30k\u2013$40k 1 billion trajectories \u2192 $2\u201310 billion GEN-0\u2019s own scaling law predicts that laundry alone would require 1B interactions for strong performance. https://preview.redd.it/qd8pkcdpfd5g1.png?width=556&format=png&auto=webp&s=1df2607476d3e63f5ca32edae1bf7319d97f1176 Even with Tesla-level resources, this is not feasible. That\u2019s why GEN-0 relies on distributed UMI collection across thousands of sites instead of traditional teleoperation. 3. Tesla\u2019s Optimus shifts dramatically: from mocap \u2192 human video imitation Timeline: 2022\u20132024: Tesla used full-body mocap suits + VR teleop; operators wore ~30 lb rigs, walked 7 hours/day, paid up to $48/hr. May 21, 2025: Tesla confirms:\u201cOptimus is now learning new tasks directly from human videos.\u201d June 2025: Tesla transitions to a vision-only approach, dropping mocap entirely. Their demo showed Optimus performing tasks like trash disposal, vacuuming, cabinet/microwave use, stirring, tearing paper towels, sorting industrial parts \u2014 all claimed to be controlled by a single end-to-end network. 4. So is real robot data obsolete? Not exactly. These developments indicate a shift, not a disappearance: Synthetic data (InternData-A1) is now strong enough to pre-train generalist policies Distributed real data (GEN-0) remains critical for grounding and calibration Pure video imitation (Tesla) offers unmatched scalability but still needs validation for fine manipulation All major approaches still rely on a small amount of real data for fine-tuning or evaluation Open Questions: Where do you think the field is heading? A synthetic-first paradigm? Video-only learning at scale? Hybrid pipelines mixing sim, video, and small real datasets? Or something entirely new? Curious to hear perspectives from researchers, roboticists, and anyone training embodied agents."
-    },
-    {
       "title": "Behind-the-scenes footage from the EngineAI T800 shoot \u2014 a direct response to the CG accusations.",
       "author": "Ready_Device8994",
       "url": "https://www.reddit.com/r/robotics/comments/1peipg7/behindthescenes_footage_from_the_engineai_t800/",
@@ -55,6 +44,17 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
+      "title": "Are we witnessing the end of \u201creal robot data\u201d as the foundation of Embodied AI? Recent results from InternData-A1, GEN-0, and Tesla suggest a shift. (Original post by Felicia)",
+      "author": "Individual-Major-309",
+      "url": "https://www.reddit.com/r/robotics/comments/1pessi4/are_we_witnessing_the_end_of_real_robot_data_as/",
+      "published": 1764934446.0,
+      "thumbnail": "https://a.thumbs.redditmedia.com/xYGdExuacIcgGtMT_4UoS63x2i1kRFGFAmyDCxoBwi4.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "For a long time, many robotics teams believed that real robot interaction data was the only reliable foundation for training generalist manipulation models. But real-world data collection is extremely expensive, slow, and fundamentally limited by human labor. Recent results suggest the landscape is changing. Three industry signals stand out: 1. InternData-A1: Synthetic data beats the strongest real-world dataset Shanghai AI Lab\u2019s new paper InternData-A1 (Nov 2025, arXiv) is the first to show that pure simulation data can match or outperform the best real-robot dataset used to train Pi0. The dataset is massive: 630k+ trajectories 7,434 hours 401M frames 4 robot embodiments, 18 skill types, 70 tasks $0.003 per trajectory generation cost One 8\u00d7RTX4090 workstation \u2192 200+ hours of robot data per day Results: On RoboTwin2.0 (49 bimanual tasks): +5\u20136% success over Pi0 On 9 real-world tasks: +6.2% success Sim-to-Real: 1,600 synthetic samples \u2248 200 real samples (\u22488:1 efficiency) The long-held \u201csimulation quality discount\u201d is shrinking fast. 2. GEN-0 exposes the economic impossibility of scaling real-world teleoperation Cross-validated numbers show: Human teleoperation cost per trajectory: $2\u2013$10 Hardware systems: $30k\u2013$40k 1 billion trajectories \u2192 $2\u201310 billion GEN-0\u2019s own scaling law predicts that laundry alone would require 1B interactions for strong performance. https://preview.redd.it/qd8pkcdpfd5g1.png?width=556&format=png&auto=webp&s=1df2607476d3e63f5ca32edae1bf7319d97f1176 Even with Tesla-level resources, this is not feasible. That\u2019s why GEN-0 relies on distributed UMI collection across thousands of sites instead of traditional teleoperation. 3. Tesla\u2019s Optimus shifts dramatically: from mocap \u2192 human video imitation Timeline: 2022\u20132024: Tesla used full-body mocap suits + VR teleop; operators wore ~30 lb rigs, walked 7 hours/day, paid up to $48/hr. May 21, 2025: Tesla confirms:\u201cOptimus is now learning new tasks directly from human videos.\u201d June 2025: Tesla transitions to a vision-only approach, dropping mocap entirely. Their demo showed Optimus performing tasks like trash disposal, vacuuming, cabinet/microwave use, stirring, tearing paper towels, sorting industrial parts \u2014 all claimed to be controlled by a single end-to-end network. 4. So is real robot data obsolete? Not exactly. These developments indicate a shift, not a disappearance: Synthetic data (InternData-A1) is now strong enough to pre-train generalist policies Distributed real data (GEN-0) remains critical for grounding and calibration Pure video imitation (Tesla) offers unmatched scalability but still needs validation for fine manipulation All major approaches still rely on a small amount of real data for fine-tuning or evaluation Open Questions: Where do you think the field is heading? A synthetic-first paradigm? Video-only learning at scale? Hybrid pipelines mixing sim, video, and small real datasets? Or something entirely new? Curious to hear perspectives from researchers, roboticists, and anyone training embodied agents."
     },
     {
       "title": "PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-05T19:14:06.505563+00:00"
+  "fetched_at": "2025-12-05T19:53:15.770590+00:00"
 }

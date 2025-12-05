@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T19:41:54.620516+00:00'
+updated: '2025-12-05T19:53:40.688777+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 19:41 UTC  
+**Last Updated:** December 05, 2025 at 19:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,19 +54,19 @@ AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper 
 
 ---
 
-**[Are we witnessing the end of “real robot data” as the foundation of Embodied AI? Recent results from InternData-A1, GEN-0, and Tesla suggest a shift. (Original post by Felicia)](https://www.reddit.com/r/robotics/comments/1pessi4/are_we_witnessing_the_end_of_real_robot_data_as/)**
-
-For a long time, many robotics teams believed that real robot interaction data was the only reliable foundation for training generalist manipulation models. But real-world data collection is extremely expensive, slow, and fundamentally limited by human labor. Recent results suggest the landscape is changing. Three industry signals stand out: 1. InternData-A1: Synthetic data beats the strongest real-world dataset Shanghai AI Lab’s new paper InternData-A1 (Nov 2025, arXiv) is the first to show that pure simulation data can match or outperform the best real-robot dataset used to train Pi0. The dataset is massive: 630k+ trajectories 7,434 hours 401M frames 4 robot embodiments, 18 skill types, 70 tasks $0.003 per trajectory generation cost One 8×RTX4090 workstation → 200+ hours of robot data per day Results: On RoboTwin2.0 (49 bimanual tasks): +5–6% success over Pi0 On 9 real-world tasks: +6.2% success Sim-to-Real: 1,600 synthetic samples ≈ 200 real samples (≈8:1 efficiency) The long-held “simulation quality discount” is shrinking fast. 2. GEN-0 exposes the economic impossibility of scaling real-world teleoperation Cross-validated numbers show: Human teleoperation cost per trajectory: $2–$10 Hardware systems: $30k–$40k 1 billion trajectories → $2–10 billion GEN-0’s own scaling law predicts that laundry alone would require 1B interactions for strong performance. https://preview.redd.it/qd8pkcdpfd5g1.png?width=556&format=png&auto=webp&s=1df2607476d3e63f5ca32edae1bf7319d97f1176 Even with Tesla-level resources, this is not feasible. That’s why GEN-0 relies on distributed UMI collection across thousands of sites instead of traditional teleoperation. 3. Tesla’s Optimus shifts dramatically: from mocap → human video imitation Timeline: 2022–2024: Tesla used full-body mocap suits + VR teleop; operators wore ~30 lb rigs, walked 7 hours/day, paid up to $48/hr. May 21, 2025: Tesla confirms:“Optimus is now learning new tasks directly from human videos.” June 2025: Tesla transitions to a vision-only approach, dropping mocap entirely. Their demo showed Optimus performing tasks like trash disposal, vacuuming, cabinet/microwave use, stirring, tearing paper towels, sorting industrial parts — all claimed to be controlled by a single end-to-end network. 4. So is real robot data obsolete? Not exactly. These developments indicate a shift, not a disappearance: Synthetic data (InternData-A1) is now strong enough to pre-train generalist policies Distributed real data (GEN-0) remains critical for grounding and calibration Pure video imitation (Tesla) offers unmatched scalability but still needs validation for fine manipulation All major approaches still rely on a small amount of real data for fine-tuning or evaluation Open Questions: Where do you think the field is heading? A synthetic-first paradigm? Video-only learning at scale? Hybrid pipelines mixing sim, video, and small real datasets? Or something entirely new? Curious to hear perspectives from researchers, roboticists, and anyone training embodied agents.
-
-8h ago
-
----
-
 **[Behind-the-scenes footage from the EngineAI T800 shoot — a direct response to the CG accusations.](https://www.reddit.com/r/robotics/comments/1peipg7/behindthescenes_footage_from_the_engineai_t800/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 17h ago
+
+---
+
+**[Are we witnessing the end of “real robot data” as the foundation of Embodied AI? Recent results from InternData-A1, GEN-0, and Tesla suggest a shift. (Original post by Felicia)](https://www.reddit.com/r/robotics/comments/1pessi4/are_we_witnessing_the_end_of_real_robot_data_as/)**
+
+For a long time, many robotics teams believed that real robot interaction data was the only reliable foundation for training generalist manipulation models. But real-world data collection is extremely expensive, slow, and fundamentally limited by human labor. Recent results suggest the landscape is changing. Three industry signals stand out: 1. InternData-A1: Synthetic data beats the strongest real-world dataset Shanghai AI Lab’s new paper InternData-A1 (Nov 2025, arXiv) is the first to show that pure simulation data can match or outperform the best real-robot dataset used to train Pi0. The dataset is massive: 630k+ trajectories 7,434 hours 401M frames 4 robot embodiments, 18 skill types, 70 tasks $0.003 per trajectory generation cost One 8×RTX4090 workstation → 200+ hours of robot data per day Results: On RoboTwin2.0 (49 bimanual tasks): +5–6% success over Pi0 On 9 real-world tasks: +6.2% success Sim-to-Real: 1,600 synthetic samples ≈ 200 real samples (≈8:1 efficiency) The long-held “simulation quality discount” is shrinking fast. 2. GEN-0 exposes the economic impossibility of scaling real-world teleoperation Cross-validated numbers show: Human teleoperation cost per trajectory: $2–$10 Hardware systems: $30k–$40k 1 billion trajectories → $2–10 billion GEN-0’s own scaling law predicts that laundry alone would require 1B interactions for strong performance. https://preview.redd.it/qd8pkcdpfd5g1.png?width=556&format=png&auto=webp&s=1df2607476d3e63f5ca32edae1bf7319d97f1176 Even with Tesla-level resources, this is not feasible. That’s why GEN-0 relies on distributed UMI collection across thousands of sites instead of traditional teleoperation. 3. Tesla’s Optimus shifts dramatically: from mocap → human video imitation Timeline: 2022–2024: Tesla used full-body mocap suits + VR teleop; operators wore ~30 lb rigs, walked 7 hours/day, paid up to $48/hr. May 21, 2025: Tesla confirms:“Optimus is now learning new tasks directly from human videos.” June 2025: Tesla transitions to a vision-only approach, dropping mocap entirely. Their demo showed Optimus performing tasks like trash disposal, vacuuming, cabinet/microwave use, stirring, tearing paper towels, sorting industrial parts — all claimed to be controlled by a single end-to-end network. 4. So is real robot data obsolete? Not exactly. These developments indicate a shift, not a disappearance: Synthetic data (InternData-A1) is now strong enough to pre-train generalist policies Distributed real data (GEN-0) remains critical for grounding and calibration Pure video imitation (Tesla) offers unmatched scalability but still needs validation for fine manipulation All major approaches still rely on a small amount of real data for fine-tuning or evaluation Open Questions: Where do you think the field is heading? A synthetic-first paradigm? Video-only learning at scale? Hybrid pipelines mixing sim, video, and small real datasets? Or something entirely new? Curious to hear perspectives from researchers, roboticists, and anyone training embodied agents.
+
+8h ago
 
 ---
 
@@ -132,11 +132,41 @@ The Robot Report • 2h ago
 
 ---
 
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
 
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-MLive.com • 23h ago
+Seeking Alpha • 9h ago
+
+---
+
+**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
+
+Investor's Business Daily • 22h ago
+
+---
+
+**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.cbsnews.com/video/trump-administration-looks-supercharge-robotics-industry-politico/)**
+
+Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
+
+CBS News • 22h ago
+
+---
+
+**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://finance.yahoo.com/news/3-robotics-stocks-buy-now-185157525.html)**
+
+The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Robotics Stocks Surged on Wednesday. Here's Why.](https://www.nasdaq.com/articles/robotics-stocks-surged-wednesday-heres-why)**
+
+Key PointsPresident Trump is reportedly considering signing an executive order in the new year to accelerate the development of robots in the U.S.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -148,39 +178,11 @@ MIT News • 4h ago
 
 ---
 
-**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
+**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
 
-Investor's Business Daily • 22h ago
+Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
 
----
-
-**[Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO](https://www.fiercebiotech.com/medtech/olympus-backed-swan-endosurgical-names-stryker-vet-erik-todd-ceo)**
-
-Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
-
-Fierce Biotech • 2d ago
-
----
-
-**[Robotics Challenges Bedevil AI Evolution Of Housecleaning Robots](https://www.forbes.com/sites/johnwerner/2025/12/05/robotics-challenges-bedevil-ai-evolution-of-housecleaning-robots/)**
-
-Robots struggle with dishes because real-world manipulation, safety, cost, and data lag behind human-evolved dexterity.
-
-Forbes • 3h ago
-
----
-
-**[AI advances robot navigation on the International Space Station](https://news.stanford.edu/stories/2025/12/ai-robot-international-space-station-autonomous-missions)**
-
-Stanford Report • 2d ago
-
----
-
-**[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
-
-The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
-
-NVIDIA Blog • 1d ago
+MLive.com • 23h ago
 
 ---
 

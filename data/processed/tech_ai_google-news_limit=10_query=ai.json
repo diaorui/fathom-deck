@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "ChatGPT started the AI race. Now its lead is looking shaky.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem8wQjlxQVN2RUZIbW1udnlkZmhzSmFGVkx2bHU3clE1dFN6T096NXN6bmNZLWpWMGM0Y1VEUEVKMy1JWkFjN3pEUWc4bmZvTng4RWQ1Y0xQWmszVFpDbWNYRlpIcmRiR2VYZnNmUzhESHpaQ2lPUlp1cF9fcHNWeFNpeldpRU5MU05n?oc=5",
-      "pub_date": 1764957600.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/",
-      "image": null,
-      "description": null
+      "headline": "Gemini 3 Pro: the frontier of vision AI",
+      "source": "The Keyword",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zRmhLZjVycDlpSE5KS3Z2eGVjaF9xUmM3V1F3T0w5Sm9JTURxTXBIOFJxdk5NdC15UHFFTlV0elAtdEZ6eHc1Y2VsZHBFVWxhNnpxdVZrQ1d3OVFSX0hKZlVCdlR3RmVwY0hwS08tTQ?oc=5",
+      "pub_date": 1764951046.0,
+      "article_url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.width-1300.png",
+      "description": "Build with Gemini 3 Pro, the best model in the world for multimodal capabilities."
     },
     {
       "headline": "Opinion | A.I. Technology Needs the Bubble to Burst",
@@ -35,22 +35,42 @@
       "description": "Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects"
     },
     {
-      "headline": "AI is helping criminals create virtual kidnapping scams",
+      "headline": "Exclusive: Meta strikes multiple AI deals with news publishers",
       "source": "Axios",
       "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWDE0NEhfdWZ6V3p1ZXZ6bndzaUsxT256Y2w3U2xFaHlqYnBZWlh3ZU1INW1MN2RzUHZ3bDFPbEwzV3BZeFo4LWZYVTgyMElXTTZBR2FsTlYxQVNmYW9UX2RyQVJHejB1S25ybGhsanQ5MHFiQ3oxck1HR3JrQy1OWS0xR1dEdUJEeXZHMXRzbDMxXzJtSEE?oc=5",
-      "pub_date": 1764958157.0,
-      "article_url": "https://www.axios.com/2025/12/05/ai-videos-photos-scam-virtual-fbi-victim-ransom-kidnapping",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VQklkdEVMNlo5dDVvVzBYaTZkS3A5MkJROF9ReGtrazk3NC1IaTBlV2NQU0hlOWExR082TE9XQnVsempSSU5aYTN5RGY3cU5IOXJmdkw3M1R5LW1kZ09RQVZGVFdNZnlMOFVELTlIdw?oc=5",
+      "pub_date": 1764941572.0,
+      "article_url": "https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers",
       "image": null,
       "description": null
     },
     {
-      "headline": "Patchy Oversight Leaves GPs Adrift in AI \u2018Wild West\u2019",
-      "source": "Medscape",
-      "source_url": "https://www.medscape.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUctLU5EVkxNc0MwVm13dXVfeVpvUHhEaGJROTJLNUd3eGV6Y1AxR0NEX0t4SGNxM0g5NXRSLVZqUEs1d0o0T3k3Ynk2bDZHcnZ1SUhDUzM1SDIwQzh6aklNSUdRQXJfNjVHRURkVTJYMXA5djZZRGgtMnMtMkJnT2NzdmVWQS00RVdKS0JCV0ZhaWdFSjFTOEZRRXVtYnFMTjR6eVlNamo?oc=5",
-      "pub_date": 1764960670.0,
-      "article_url": "https://www.medscape.com/viewarticle/patchy-oversight-leaves-gps-adrift-ai-wild-west-2025a1000y65?src=rss",
+      "headline": "Meta strikes multiple AI deals with news publishers",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN193Y1BGUnRSS0dzX3ZDX3NqTzBPTEVoRGJmeUdWRXE3bFlQRkVDcFB1ZVFYQlN5TXR4SUQ5X3hlWTAtUGtNY0hXVWc4aXVGTnlwRU9pNE5lOWo0cTdRRE5WMXVhWmgzMFFKNm1qZl9BTlYyNjJqM1JwVERXMWM3UmtqcktVZjF6QWxuX3NuamZpU2kzdFIyOHB3R1lxNGVsanA1eGFtRGlac3EwUFRz?oc=5",
+      "pub_date": 1764943761.0,
+      "article_url": "https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meta reaches AI deals with CNN, Fox News, other media outlets",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSVlHOGdMX2hFaWJlNlJ0ZlRueGtzVHhrQl9KY0VFQUlPREFHT1pHUTk0TThTN0FRYmY1NHVoNnAzSW9abFZqQVN3aHZFN05pVEw3a2VTczlhaWxBSm1DUkpVdXdSaHRPLUVBWnc4NC1adDdWaVVYV2NFTFh4T1o0b1M5eGVPN0p4eG5LbEFBRVVYaFo5M1VkYnI4VlNtYmFE?oc=5",
+      "pub_date": 1764958380.0,
+      "article_url": "https://nypost.com/2025/12/05/business/meta-reaches-ai-deals-with-cnn-fox-news-other-media-outlets/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116794318.jpg?quality=75&strip=all&w=1200",
+      "description": "Meta has reached deals to pay Fox News, CNN and several other news publishers in exchange for using their articles in its AI chatbot, the company said Friday."
+    },
+    {
+      "headline": "Health AI hits point-solution burnout as demand for real value grows",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VXzhSOV84MDdKc3kzSUpyZHg1UGJ5ZEs2YWM0anpJTU9MWDdkU3J5NnhFd0tpX1JLdjBVMkZaSU9wOXQ3NlF4UTgzME52bWhUSVRMQ1hXbWF3Mms3dnZHMkE2MnFYMThvNzNnYlFSb2xnQVE?oc=5",
+      "pub_date": 1764963520.0,
+      "article_url": "https://www.axios.com/2025/12/05/health-ai-point-solution-fatigue",
       "image": null,
       "description": null
     },
@@ -75,36 +95,16 @@
       "description": "Sam Kirchner wants to save the world from artificial superintelligence. He\u2019s been missing for two weeks."
     },
     {
-      "headline": "New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWU5zX3ptYUtzT0xMVjkwRTVpaTdQRm14aUJ3QnBMQmRkOHJxcW9tdU44NE5MZDhSR2trNXFHSEw2S3N3ODFrYVJRa1FpZUlrbUZ4RElibU5ZOGhpQmJBRWQzdW91ZVpfQkc0LUlfRnpSeDlUaGIycnR2T1dVZVF6eXVEUk9VODhkR0JXZXFkc2M?oc=5",
-      "pub_date": 1764940499.0,
-      "article_url": "https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html",
+      "headline": "ChatGPT started the AI race. Now its lead is looking shaky.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem8wQjlxQVN2RUZIbW1udnlkZmhzSmFGVkx2bHU3clE1dFN6T096NXN6bmNZLWpWMGM0Y1VEUEVKMy1JWkFjN3pEUWc4bmZvTng4RWQ1Y0xQWmszVFpDbWNYRlpIcmRiR2VYZnNmUzhESHpaQ2lPUlp1cF9fcHNWeFNpeldpRU5MU05n?oc=5",
+      "pub_date": 1764957600.0,
+      "article_url": "https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "New York Times sues Perplexity AI for 'illegal' copying of content",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmNXZ1dKdENGS0wxeklrNWZJSS1BXzRWckJUTUNoRXhrWF82MEFYN2NZMGd5WEQxWktYNXJLczY0Qnd6Q0owT01nakhYVnBORVBZMXRLMXBDSW1MTGdFNGxlQ2NuQjhmWm40NVF4NUtvQl9QNVhZLVFIRkltWWhUSURPdmVIWGVlVTlXZF9LcEMtWDB6ZlM2b1JRUnNMT0ZlalBLdzVETlc2R0FiYjloUVMyTQ?oc=5",
-      "pub_date": 1764952709.0,
-      "article_url": "https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The Times Sues Perplexity AI",
-      "source": "The New York Times Company",
-      "source_url": "https://www.nytco.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EaWVGLU85NHJ5dzJfd3J0Q2lBaGdpSWwydXdFaWtGLXBnNnpqN0ViYzA5VVdCV1picEVLbXM1VHN4djd6aERuTGVreUxsYU5QVmVnQmxXRFRTTnM5SzlXRzBJbWRHaWk3?oc=5",
-      "pub_date": 1764943722.0,
-      "article_url": "https://www.nytco.com/press/the-times-sues-perplexity-ai/",
-      "image": "https://nytco-assets.nytimes.com/2025/12/cc-t-white.png",
-      "description": "Today, The New York Times filed a lawsuit against Perplexity AI for copying Times journalism to deliver it to Perplexity\u2019s customers without permission or compensation."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T19:14:20.535344+00:00"
+  "fetched_at": "2025-12-05T19:53:38.846570+00:00"
 }

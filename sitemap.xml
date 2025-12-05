@@ -25,4 +25,24 @@
     <priority>0.8</priority>
     <changefreq>hourly</changefreq>
   </url>
+  <url>
+    <loc>https://peekdeck.ruidiao.dev/ai.md</loc>
+    <priority>0.7</priority>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://peekdeck.ruidiao.dev/bitcoin.md</loc>
+    <priority>0.7</priority>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://peekdeck.ruidiao.dev/ethereum.md</loc>
+    <priority>0.7</priority>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://peekdeck.ruidiao.dev/robotics.md</loc>
+    <priority>0.7</priority>
+    <changefreq>hourly</changefreq>
+  </url>
 </urlset>

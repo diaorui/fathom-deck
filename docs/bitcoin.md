@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T09:18:55.661515+00:00'
+updated: '2025-12-05T09:39:46.994032+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 09:18 UTC  
+**Last Updated:** December 05, 2025 at 09:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,696.03
+### $91,401.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +0.8%  
-**30d:** -9.7%  
-**90d:** -17.9%  
-**1y:** -8.2%  
+**24h:** -2.1%  
+**7d:** +0.3%  
+**30d:** -10.1%  
+**90d:** -18.2%  
+**1y:** -8.6%  
 
 ---
 
@@ -137,13 +137,13 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 .2 next, just wanted to share with someone
 
-10h ago
+11h ago
 
 ---
 
 **[Cant stop, won't stop Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pelu4f/cant_stop_wont_stop_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -155,13 +155,13 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
-The Economist • 22h ago
+The Economist • 23h ago
 
 ---
 
@@ -241,7 +241,7 @@ Business Insider • 15h ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 19h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 20h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -311,7 +311,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 239 • ⏱️ 23:27 • 8h ago
+👁️ 28K • 👍 2K • 💬 232 • ⏱️ 23:27 • 8h ago
 
 ---
 
@@ -321,47 +321,27 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 42K • 👍 2K • 💬 158 • ⏱️ 18:48 • 11h ago
+👁️ 47K • 👍 2K • 💬 202 • ⏱️ 18:48 • 11h ago
 
 ---
 
-**[BITCOIN: THIS IS THE NEXT MOVE...](https://www.youtube.com/watch?v=80ZA2jW9K70)**
+**[What Happens to Bitcoin When the Fed Finally Cuts?](https://www.youtube.com/watch?v=nrSuqkGl1t4)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
+Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break down the growing divisions inside the Federal ...
 
-📺 Crypto Rover
+📺 Anthony Pompliano
 
-👁️ 3K • 👍 298 • 💬 95 • ⏱️ 9:41 • 4h ago
-
----
-
-**[Bitcoin Hesitates As The Fed Prepares To Flood Markets! What&#39;s Next?](https://www.youtube.com/watch?v=4aAnKyuf_Vw)**
-
-Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative tightening, preparing to inject trillions in new ...
-
-📺 The Wolf Of All Streets
-
-👁️ 24K • 👍 884 • 💬 327 • ⏱️ 35:57 • 18h ago
+👁️ 17K • 👍 669 • 💬 1 • ⏱️ 28:20 • 11h ago
 
 ---
 
-**[The Bounce for Bitcoin Will Be HUGE](https://www.youtube.com/watch?v=M98xfCnYei0)**
+**[BITCOIN - YOU NEED TO SEE THIS!!!!](https://www.youtube.com/watch?v=I4SIVE1j1wo)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+Platform I Trade on http://ckenny.com/joinBC Free Strategy Course https://ckenny.com/whopCK ⚠️ DISCLAIMER – READ ...
 
-📺 CryptosRUs
+📺 Conor Kenny
 
-👁️ 29K • 👍 1K • 💬 346 • ⏱️ 47:51 • 17h ago
-
----
-
-**[The End of Bitcoin?](https://www.youtube.com/watch?v=YybhrWm93-4)**
-
-Get my free newsletter Letters From a Heretic: https://go.heresy.financial/letters-from-a-heretic TIMECODES 00:00 Bitcoin's Brutal ...
-
-📺 Heresy Financial
-
-👁️ 80K • 👍 4K • 💬 938 • ⏱️ 16:08 • 1d ago
+👁️ 5K • 👍 475 • 💬 196 • ⏱️ 22:03 • 3h ago
 
 ---
 
@@ -375,33 +355,53 @@ I'm Selling EVERYTHING!” Why Tom Crown Is Cashing Out of Bitcoin 50% deposit b
 
 ---
 
-**[🚨 BTC &amp; ETH: I AM WARNING YOU AGAIN!!!! LISTEN THIS TIME!!!!!](https://www.youtube.com/watch?v=na9LpJZqDyY)**
+**[Trump&#39;s Fed Pick FINALLY REVEALS What&#39;s Coming for Bitcoin &amp; CRYPTO](https://www.youtube.com/watch?v=Lc0L5TA-Zrw)**
 
-What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get ready now!!! AI Trading Club: ...
+Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapitalventure.ai Trump basically just confirmed who ...
 
-📺 Thomas Kralow
+📺 Dan Gambardello
 
-👁️ 22K • 👍 3K • 💬 45 • ⏱️ 10:24 • 22h ago
-
----
-
-**[Did Saylor Just Bulletproof His Bitcoin Strategy?](https://www.youtube.com/watch?v=g5ncKRO0gPE)**
-
-Michael Saylor just sold MSTR stock to fund a $1.44 billion cash reserve for Strategy — and it completely changes the risk profile ...
-
-📺 Swan Bitcoin
-
-👁️ 15K • 👍 601 • 💬 39 • ⏱️ 2:10 • 1d ago
+👁️ 24K • 👍 1K • 💬 435 • ⏱️ 10:02 • 1d ago
 
 ---
 
-**[Company Buys $4 Billion Bitcoin: Is This Smart or Risky? #shorts](https://www.youtube.com/watch?v=BArg3Q5Mx1s)**
+**[BITCOIN: THIS IS THE NEXT MOVE...](https://www.youtube.com/watch?v=80ZA2jW9K70)**
 
-A company uses its financial resources to purchase Bitcoin, leveraging price increases for growth. Smart strategy or financial risk?
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
 
-📺 Stockology Insider
+📺 Crypto Rover
 
-👁️ 703 • ⏱️ 0:44 • 6h ago
+👁️ 5K • 👍 411 • 💬 78 • ⏱️ 9:41 • 4h ago
+
+---
+
+**[Bitcoin (BTC): Don’t Be FOOLED! The Worst Is Still Coming! (WATCH ASAP)](https://www.youtube.com/watch?v=xpaxj2mwejQ)**
+
+Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Non-KYC) 15% off trading fees + ...
+
+📺 MegaWhale Crypto
+
+👁️ 4K • 👍 325 • 💬 174 • ⏱️ 20:47 • 8h ago
+
+---
+
+**[The Bounce for Bitcoin Will Be HUGE](https://www.youtube.com/watch?v=M98xfCnYei0)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 30K • 👍 1K • 💬 328 • ⏱️ 47:51 • 18h ago
+
+---
+
+**[Bitcoin Hesitates As The Fed Prepares To Flood Markets! What&#39;s Next?](https://www.youtube.com/watch?v=4aAnKyuf_Vw)**
+
+Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative tightening, preparing to inject trillions in new ...
+
+📺 The Wolf Of All Streets
+
+👁️ 24K • 👍 898 • 💬 318 • ⏱️ 35:57 • 18h ago
 
 ---
 

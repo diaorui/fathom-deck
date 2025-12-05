@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T09:18:55.653023+00:00'
+updated: '2025-12-05T09:39:46.985559+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - repositories
 - videos
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 09:18 UTC  
+**Last Updated:** December 05, 2025 at 09:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -91,7 +91,7 @@ Google is experimentally replacing news headlines with AI clickbait nonsense.[1]
 
 The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence.
 
-🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 10h ago
+🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 11h ago
 
 ---
 
@@ -125,7 +125,7 @@ Fortune • 17h ago
 
 **[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
 
-The Economist • 21h ago
+The Economist • 22h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bloomberg.com • 1h ago
 
 The 'Moonlight' actress lifted the lid on her new AI-centered tech company and insists that guardrails need to be put in place with the new technology.
 
-Deadline • 5m ago
+Deadline • 26m ago
 
 ---
 
@@ -159,7 +159,7 @@ BBC • 9h ago
 
 **[Exclusive: Some AI dangers are already real, DeepMind's Hassabis says](https://www.axios.com/2025/12/05/ai-hassabis-agi-risks-pdoom)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
@@ -241,7 +241,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 401 • 💬 303 • 17h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 401 • 💬 303 • 18h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -265,7 +265,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 178 • 💬 76 • 10h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 178 • 💬 76 • 11h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -273,23 +273,13 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 ## YouTube Videos: "ai"
 
-**[AI Surreal Flying Machines-I&#39;m Floating High | 4K](https://www.youtube.com/watch?v=uv9Dwo8x64U)**
-
-If you like my work, I post new AI art and cinematic videos daily — subscribe to follow the journey. I really love to make flying or ...
-
-📺 Kelly Boesch AI Art
-
-👁️ 11K • 👍 935 • 💬 73 • ⏱️ 4:25 • 18h ago
-
----
-
 **[AI Expert: (Warning) 2030 Might Be The Point Of No Return! We&#39;ve Been Lied To About AI!](https://www.youtube.com/watch?v=P7Y-fynYsgE)**
 
 AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments won't regulate, how AGI could replace humans ...
 
 📺 The Diary Of A CEO
 
-👁️ 521K • 👍 14K • 💬 3K • ⏱️ 2:04:06 • 1d ago
+👁️ 545K • 👍 14K • 💬 3K • ⏱️ 2:04:06 • 1d ago
 
 ---
 
@@ -299,7 +289,27 @@ OpenAI has declared a "code red" as Google threatens to unseat the AI industry's
 
 📺 CBS News
 
-👁️ 495K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
+👁️ 500K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
+
+---
+
+**[The threats from AI are real | Sen. Bernie Sanders](https://www.youtube.com/watch?v=K3qS345gAWI)**
+
+The threats from unchecked AI are real — worker displacement, corporate surveillance, invasion of privacy, environmental ...
+
+📺 Senator Bernie Sanders
+
+👁️ 397K • 👍 29K • 💬 6K • ⏱️ 15:03 • 2d ago
+
+---
+
+**[Ronny Chieng Investigates the Promises of AI, the Most Expensive Circle Jerk Ever | The Daily Show](https://www.youtube.com/watch?v=RcPthlvzMY8)**
+
+Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford of the Institute for AI Policy and Strategy to ...
+
+📺 The Daily Show
+
+👁️ 473K • 👍 12K • 💬 720 • ⏱️ 4:58 • 20h ago
 
 ---
 
@@ -309,17 +319,7 @@ Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous vide
 
 📺 VisualEconomik EN
 
-👁️ 75K • 👍 2K • 💬 263 • ⏱️ 15:46 • 1d ago
-
----
-
-**[AI Exploded This Week: GPT 5.2, DeepSeek 3.2, Kling 2.6, Mistral 3, Trainium 3...](https://www.youtube.com/watch?v=KeqO2KM6CTk)**
-
-The past few days pushed AI in every direction at once. OpenAI quietly tested a new Memory Search system inside ChatGPT, ...
-
-📺 AI Revolution
-
-👁️ 41K • 👍 1K • 💬 67 • ⏱️ 17:26 • 1d ago
+👁️ 77K • 👍 2K • 💬 267 • ⏱️ 15:46 • 1d ago
 
 ---
 
@@ -329,27 +329,7 @@ https://twitch.tv/ThePrimeagen - I Stream on Twitch https://twitter.com/terminal
 
 📺 ThePrimeTime
 
-👁️ 183K • 👍 7K • 💬 942 • ⏱️ 5:29 • 2d ago
-
----
-
-**[This AI Just Crossed a New Intelligence Line: It Took Over Finance](https://www.youtube.com/watch?v=hzAAzUyILNU)**
-
-DeepAgent just rolled out a finance upgrade that feels like a real shift. This version runs seven connected workflows that behave ...
-
-📺 AI Revolution
-
-👁️ 14K • 👍 591 • 💬 49 • ⏱️ 8:59 • 2d ago
-
----
-
-**[Cinematic AI Tutorial Showdown: Kling O1 vs. Nano Banana (Google Flow)](https://www.youtube.com/watch?v=kRlbbKZIMFU)**
-
-Can Kling O1 beat Google's Nano Banana in cinematic storytelling? Two major updates are changing the landscape of AI video ...
-
-📺 AI Video School
-
-👁️ 8K • 👍 517 • 💬 36 • ⏱️ 12:26 • 17h ago
+👁️ 184K • 👍 7K • 💬 945 • ⏱️ 5:29 • 2d ago
 
 ---
 
@@ -359,17 +339,37 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 171K • 👍 635 • 💬 37 • ⏱️ 8:09 • 22h ago
+👁️ 198K • 👍 693 • 💬 46 • ⏱️ 8:09 • 22h ago
 
 ---
 
-**[this experiment could END the AI hype](https://www.youtube.com/watch?v=EWAUutf9xKQ)**
+**[This AI Just Crossed a New Intelligence Line: It Took Over Finance](https://www.youtube.com/watch?v=hzAAzUyILNU)**
 
-The latest AI News (and absolutely no financial advice). Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth ...
+DeepAgent just rolled out a finance upgrade that feels like a real shift. This version runs seven connected workflows that behave ...
 
-📺 Wes Roth
+📺 AI Revolution
 
-👁️ 16K • 👍 659 • 💬 202 • ⏱️ 27:54 • 1d ago
+👁️ 14K • 👍 593 • 💬 49 • ⏱️ 8:59 • 2d ago
+
+---
+
+**[Cinematic AI Tutorial Showdown: Kling O1 vs. Nano Banana (Google Flow)](https://www.youtube.com/watch?v=kRlbbKZIMFU)**
+
+Can Kling O1 beat Google's Nano Banana in cinematic storytelling? Two major updates are changing the landscape of AI video ...
+
+📺 AI Video School
+
+👁️ 9K • 👍 542 • 💬 38 • ⏱️ 12:26 • 18h ago
+
+---
+
+**[Meet Dubai’s Futuristic AI Barber Pod 🤖💥 Haircut Machine 3.0 Will Shock You! 😲✂️](https://www.youtube.com/watch?v=nyk2ilEAT-w)**
+
+AI #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle #Salon #Trending #Viral #Shorts ...
+
+📺 Θαύμα Προφητείας Θεών
+
+👁️ 6K • 👍 101 • 💬 1 • ⏱️ 0:11 • 4h ago
 
 ---
 

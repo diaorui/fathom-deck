@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T09:18:55.670925+00:00'
+updated: '2025-12-05T09:39:47.003369+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 09:18 UTC  
+**Last Updated:** December 05, 2025 at 09:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.](https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -70,7 +70,7 @@ Marc Raibert talks about how robotics demos usually show only the polished succe
 
 Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I’m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I’m posting it here in case anyone finds it interesting or useful.
 
-2h ago
+3h ago
 
 ---
 
@@ -78,7 +78,7 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO) • 20m ago
+🔗 [youtu.be](https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO) • 41m ago
 
 ---
 
@@ -86,7 +86,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Humanoid robotics is getting cheaper, smarter, and a lot more capable at moving through the world. But construction sites are a different beast with uneven terrain, unpredictable workflows, and tasks that vary wildly from day to day. I’m curious whether robotics aimed specifically at construction has kept up. Not the glossy demo videos, but actual sector-focused systems that show real progress on tasks like material handling, layout, inspections, drilling, or repetitive onsite work. It actually feels like construction is one of the few fields where purpose-built robots should make far more sense than humanoids. Most site tasks don’t need a human-shaped form factor at all. Are there ad hoc or specialized robots that feel like a real breakthrough, or is the field still stuck in research prototypes?
 
-26m ago
+47m ago
 
 ---
 
@@ -94,13 +94,13 @@ Humanoid robotics is getting cheaper, smarter, and a lot more capable at moving 
 
 Hi everyone, My husband is a mechanical engineer and has found his niche in robotics. He is mostly a simulation guy, but also enjoys machining. I’m trying to surprise him with a gift that he is not expecting. He never asks for anything and I think he deserves something that falls into his interests. If you guys have any ideas, please share! (Budget is $100-200)
 
-5h ago
+6h ago
 
 ---
 
 **[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -134,7 +134,7 @@ Yahoo Finance • 14h ago
 
 Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
 
-CBS News • 11h ago
+CBS News • 12h ago
 
 ---
 
@@ -194,7 +194,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 34K • 👍 306 • 💬 151 • ⏱️ 2:30 • 1d ago
+👁️ 37K • 👍 328 • 💬 156 • ⏱️ 2:30 • 1d ago
 
 ---
 
@@ -204,25 +204,7 @@ Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.c
 
 📺 InsideAI
 
-👁️ 496K • 👍 20K • 💬 3K • ⏱️ 14:58 • 4d ago
-
----
-
-**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
-
-Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
-
-📺 Unitree Robotics
-
-👁️ 108K • 👍 1K • 💬 253 • ⏱️ 1:06 • 1d ago
-
----
-
-**[Live Unboxing of the AI Humanoid Robot. #robotics #humanoidrobot #robot #ai](https://www.youtube.com/watch?v=k0cHshXI6dc)**
-
-📺 AI . Robot
-
-👁️ 478K • 👍 6K • 💬 227 • ⏱️ 0:27 • 5d ago
+👁️ 502K • 👍 20K • 💬 3K • ⏱️ 14:58 • 4d ago
 
 ---
 
@@ -232,17 +214,15 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 79K • 💬 517 • ⏱️ 1:21 • 1d ago
+👁️ 81K • 💬 519 • ⏱️ 1:21 • 2d ago
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=_MgTHoFYPDs)**
+**[Live Unboxing of the AI Humanoid Robot. #robotics #humanoidrobot #robot #ai](https://www.youtube.com/watch?v=k0cHshXI6dc)**
 
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+📺 AI . Robot
 
-📺 Humanoid Robot 🤖
-
-👁️ 3K • 👍 45 • ⏱️ 0:19 • 4h ago
+👁️ 482K • 👍 6K • 💬 228 • ⏱️ 0:27 • 5d ago
 
 ---
 
@@ -252,7 +232,7 @@ In a high-end robotics lab in Silicon Valley, engineers activate and calibrate a
 
 📺 AI Robot Lab
 
-👁️ 43K • 👍 545 • 💬 6 • ⏱️ 0:29 • 1d ago
+👁️ 45K • 👍 560 • 💬 6 • ⏱️ 0:29 • 1d ago
 
 ---
 
@@ -262,7 +242,7 @@ Pure-play robotics stock Symbotic (SYM) has had a wild ride in 2025, soaring to 
 
 📺 Chip Stock Investor
 
-👁️ 3K • 👍 133 • 💬 4 • ⏱️ 14:23 • 18h ago
+👁️ 3K • 👍 139 • 💬 7 • ⏱️ 14:23 • 18h ago
 
 ---
 
@@ -270,17 +250,37 @@ Pure-play robotics stock Symbotic (SYM) has had a wild ride in 2025, soaring to 
 
 📺 Sydney McKenna
 
-👁️ 10K • 👍 976 • 💬 87 • ⏱️ 1:00 • 17h ago
+👁️ 11K • 👍 1K • 💬 91 • ⏱️ 1:00 • 18h ago
 
 ---
 
-**[Humanoid robot Vol.149: Robotics Lab](https://www.youtube.com/watch?v=mVAHi_eB8Mc)**
+**[Humanoid Overloads With Emotions – Robot Girl Sensor Test Goes Wrong 🤖⚠️](https://www.youtube.com/watch?v=FMYhwvafLig)**
 
-AI #stablediffusion #AIart #humanoid #scifi #robot #futuretech.
+The emotion sensor test didn't go as planned. The robot girl gets overwhelmed and reacts in a way no one expected. Like for ...
 
-📺 ROBOT HUMANOID AI
+📺 AI Robot Reality
 
-👁️ 3K • 👍 77 • ⏱️ 0:25 • 16h ago
+👁️ 31K • 👍 185 • 💬 7 • ⏱️ 0:15 • 1d ago
+
+---
+
+**[MobED | Robotics LAB | Hyundai Motor Group](https://www.youtube.com/watch?v=WfaYrxCwad0)**
+
+Go Anywhere, Do anything, For everyone : MobED Learn more ...
+
+📺 Hyundai Motor Group
+
+👁️ 52K • 👍 371 • 💬 31 • ⏱️ 3:01 • 2d ago
+
+---
+
+**[Inside the Viral IRON Robot Everyone Thought Was Human | What The Future](https://www.youtube.com/watch?v=bEKH2eblWBk)**
+
+XPeng's new humanoid robot, IRON, went viral after the company cut it open on stage to prove it wasn't a human in disguise.
+
+📺 CNET
+
+👁️ 537K • 👍 3K • 💬 534 • ⏱️ 5:04 • 4d ago
 
 ---
 

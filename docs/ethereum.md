@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T09:18:55.667687+00:00'
+updated: '2025-12-05T09:39:47.000053+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 09:18 UTC  
+**Last Updated:** December 05, 2025 at 09:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** +4.7%  
-**30d:** -5.7%  
-**90d:** -27.4%  
-**1y:** -21.5%  
+**24h:** -2.2%  
+**7d:** +4.3%  
+**30d:** -6.0%  
+**90d:** -27.8%  
+**1y:** -21.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Trump crypto empire falls faster than bitcoin
 
-🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 19h ago
+🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 20h ago
 
 ---
 
@@ -96,7 +96,7 @@ I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was par
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 8h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 9h ago
 
 ---
 
@@ -110,13 +110,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[🚀 Ethereum Fusaka is Live: The “Unsung Hero” Upgrade You Need to Know About](https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/)**
 
-🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 16h ago
+🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 17h ago
 
 ---
 
 **[Sony launches Stablecoin! 🎮 USDSC lists on Ethereum L2!](https://www.reddit.com/r/ethereum/comments/1pdxj1w/sony_launches_stablecoin_usdsc_lists_on_ethereum/)**
 
-🔗 [ecency.com](https://ecency.com/@pichat/sony-launches-stablecoin-usdsc-lists-on-ethereum-l2-9sh) • 21h ago
+🔗 [ecency.com](https://ecency.com/@pichat/sony-launches-stablecoin-usdsc-lists-on-ethereum-l2-9sh) • 22h ago
 
 ---
 
@@ -166,7 +166,7 @@ dlnews.com • 1d ago
 
 Bitmine added another $130 million in ETH on Dec. 5. The firm now holds over 3.7 million ETH, valued at roughly $18 billion. Chairman Tom ...
 
-Yahoo Finance • 35m ago
+Yahoo Finance • 56m ago
 
 ---
 
@@ -198,7 +198,7 @@ Nasdaq • 1d ago
 
 It's making important improvements and expanding its ecosystem.
 
-The Motley Fool • 18m ago
+The Motley Fool • 39m ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 3K • 💬 300 • ⏱️ 11:16 • 7h ago
+👁️ 39K • 👍 3K • 💬 326 • ⏱️ 11:16 • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 2K • 💬 125 • ⏱️ 17:37 • 15h ago
+👁️ 25K • 👍 2K • 💬 109 • ⏱️ 17:37 • 16h ago
 
 ---
 
@@ -256,7 +256,17 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 48K • 👍 2K • 💬 341 • ⏱️ 27:33 • 15h ago
+👁️ 52K • 👍 2K • 💬 366 • ⏱️ 27:33 • 15h ago
+
+---
+
+**[BREAKING: ETHEREUM AT $62,000 IN THE COMING MONTHS‼️‼️‼️](https://www.youtube.com/watch?v=4goziUGIYHY)**
+
+GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners ...
+
+📺 Ivan on Tech
+
+👁️ 3K • 👍 308 • 💬 96 • ⏱️ 31:23 • 16m ago
 
 ---
 
@@ -266,7 +276,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 50 • 💬 109 • ⏱️ 5:52 • 18h ago
+👁️ 1K • 👍 53 • 💬 114 • ⏱️ 5:52 • 18h ago
 
 ---
 
@@ -276,7 +286,7 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 45 • ⏱️ 10:24 • 22h ago
+👁️ 23K • 👍 3K • 💬 93 • ⏱️ 10:24 • 23h ago
 
 ---
 
@@ -286,37 +296,7 @@ Ethereum (ETH) is approaching a critical point, and the next major move could de
 
 📺 HKCM GLOBAL
 
-👁️ 1K • 👍 132 • 💬 5 • ⏱️ 10:00 • 16h ago
-
----
-
-**[Ethereum Leads Rally📈Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=rO3ZorrJ-ps)**
-
-Bitcoin steadied near weekly highs as concerns ease, but most altcoins remain weak. Market shows early signs of recovery ...
-
-📺 Paul Barron Network
-
-👁️ 25K • 👍 1K • 💬 85 • ⏱️ 32:14 • 13h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=1Rj5LQ0dG_A)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 203 • 💬 9 • ⏱️ 4:44 • 18h ago
-
----
-
-**[Fusaka Is Live: Why The Ethereum Burn Rate Just Doubled.](https://www.youtube.com/watch?v=iifblt4mU7o)**
-
-The Ethereum network has fundamentally changed as of December 3rd. In this deep dive, we break down the immediate impact of ...
-
-📺 Wall Street Stockcast
-
-👁️ 4K • 👍 119 • 💬 17 • ⏱️ 10:55 • 17h ago
+👁️ 1K • 👍 136 • 💬 6 • ⏱️ 10:00 • 16h ago
 
 ---
 
@@ -326,7 +306,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 157 • 💬 10 • ⏱️ 5:41 • 8h ago
+👁️ 2K • 👍 181 • 💬 11 • ⏱️ 5:41 • 9h ago
+
+---
+
+**[Fusaka Is Live: Why The Ethereum Burn Rate Just Doubled.](https://www.youtube.com/watch?v=iifblt4mU7o)**
+
+The Ethereum network has fundamentally changed as of December 3rd. In this deep dive, we break down the immediate impact of ...
+
+📺 Wall Street Stockcast
+
+👁️ 4K • 👍 122 • 💬 17 • ⏱️ 10:55 • 18h ago
+
+---
+
+**[Tom Lee: “Everyone Is Wrong About What’s Coming Next for Ethereum” [New 2026 Prediction]](https://www.youtube.com/watch?v=_N-xXeC_YGk)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 16K • 👍 405 • 💬 46 • ⏱️ 21:08 • 2d ago
 
 ---
 

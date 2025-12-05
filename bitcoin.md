@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T16:47:06.726794+00:00'
+updated: '2025-12-05T17:01:20.567893+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 16:47 UTC  
+**Last Updated:** December 05, 2025 at 17:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,171.84
+### $88,908.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.1%  
-**7d:** -2.4%  
-**30d:** -12.6%  
-**90d:** -20.5%  
-**1y:** -11.1%  
+**24h:** -3.5%  
+**7d:** -2.0%  
+**30d:** -12.2%  
+**90d:** -20.1%  
+**1y:** -10.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1783.04B
+**Market Cap:** $1773.88B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.3%
+-29.5%
 
 **All-Time Low:** $67.81
-+131380.6%
++131032.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -89,11 +89,17 @@ Rank #1
 
 ---
 
+**[Did my part , thanks](https://www.reddit.com/r/Bitcoin/comments/1pez7nm/did_my_part_thanks/)**
+
+44m ago
+
+---
+
 **[The Struggle….](https://www.reddit.com/r/Bitcoin/comments/1peipkt/the_struggle/)**
 
 Im only up 3000% now
 
-14h ago
+15h ago
 
 ---
 
@@ -107,7 +113,7 @@ Im only up 3000% now
 
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
-11h ago
+12h ago
 
 ---
 
@@ -137,12 +143,6 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ---
 
-**[Cant stop, won't stop Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pelu4f/cant_stop_wont_stop_bitcoin/)**
-
-12h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -155,35 +155,11 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
 
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
 
-CNBC • 1d ago
-
----
-
-**[The Man Who Got Eric Trump Into American Bitcoin Before 70% Rout](https://www.bloomberg.com/news/articles/2025-12-05/the-man-who-got-eric-trump-into-american-bitcoin-before-70-rout)**
-
-Eric Trump rang the Nasdaq bell in September to celebrate a more than $500 million windfall from American Bitcoin Corp.’s trading debut. Three months later, the shares have cratered 70%.
-
-Bloomberg.com • 1h ago
-
----
-
-**[Trump sons’ bitcoin venture sheds almost 40% of its value in crypto turmoil](https://www.ft.com/content/18e3bfc1-c2aa-49a0-8c6d-a37255a23017)**
-
-Company’s shares plummet as investors cash out at end of lock-up period
-
-Financial Times • 2d ago
-
----
-
-**[Bitcoin sell-off halts Trump family's crypto windfall](https://abcnews.go.com/US/bitcoin-sell-off-halts-trump-familys-crypto-windfall/story?id=128035773)**
-
-Due to a recent downturn in bitcoin, the Trump family has had roughly a billion dollars of their net worth erased in just a matter of weeks, according to estimates.
-
-ABC News • 2d ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -201,15 +177,13 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html)**
+**[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
 
-A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
-
-Yahoo Finance • 1d ago
+TheStreet • 4h ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqfemkXYQHtC-Ib2q17IDHI-RzJTrPzuqiXfcTp4E0lM1-I45othLSyV&gaa_ts=693309c6&gaa_sig=i0GlxL4ObgPZnEV9aHmqJng76gm6GLleT3Q0iiHgf14jN8D7XzKLlOU8EVUd4YDh2I9ixGcNG04ZhABx6b2b0A%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqfT9UavNbTh3WAMm9dcUSHrIxASJSI9aEkxAajHQxQpLa_T985R1hDd&gaa_ts=69331346&gaa_sig=sdJf9tEPqp_ZObOl8ldNvhiiWS9oqpEGCoaBcPoyEsMEj9lvXId2fnxi4KeSuM3SNyaMkbyEOEEFm7OGovQFGA%3D%3D)**
 
 MarketWatch • 20h ago
 
@@ -219,7 +193,27 @@ MarketWatch • 20h ago
 
 Investors yanked more than $2.7 billion from the exchange-traded fund over the five weeks to Nov. 28, according to data compiled by Bloomberg.  The IBIT fund oversees more than $71 billion in assets and has served as the flagship vehicle for traditional investors seeking exposure to Bitcoin.  The sustained period of outflows aligns with Bitcoin’s slide into a bear market following a severe liquidation event in early October, which kicked off a more than $1 trillion wipeout in crypto market value.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks](https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit)**
+
+The Block • 10h ago
+
+---
+
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcTfLgxx0fEnbozm8fZEqYkTSkv1El0NEpPa0gSU2fY5M2kv2tAmLAW&gaa_ts=69331346&gaa_sig=v8XYUZIgJXwd7Li3G0sH3Tpisiwcv4z3Skqn2YY-mZIQMUvFZPq8mWVItMbcDIhNqRPZ0XWNnoEZwD_nuDXJLw%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[Why bitcoin could shoot to $170,000 in the next year, according to JPMorgan](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+
+JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
+
+Business Insider • 23h ago
 
 ---
 
@@ -359,7 +353,7 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 58K • 👍 3K • 💬 277 • ⏱️ 18:48 • 18h ago
+👁️ 58K • 👍 3K • 💬 277 • ⏱️ 18:48 • 19h ago
 
 ---
 
@@ -369,7 +363,7 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 826 • 💬 2 • ⏱️ 28:20 • 18h ago
+👁️ 21K • 👍 826 • 💬 2 • ⏱️ 28:20 • 19h ago
 
 ---
 
@@ -379,7 +373,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 301 • ⏱️ 23:27 • 15h ago
+👁️ 37K • 👍 3K • 💬 301 • ⏱️ 23:27 • 16h ago
 
 ---
 
@@ -399,7 +393,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 10K • 👍 589 • 💬 69 • ⏱️ 9:41 • 11h ago
+👁️ 10K • 👍 589 • 💬 69 • ⏱️ 9:41 • 12h ago
 
 ---
 

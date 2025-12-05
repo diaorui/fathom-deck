@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T10:14:58.129505+00:00'
+updated: '2025-12-05T10:42:10.246687+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 10:14 UTC  
+**Last Updated:** December 05, 2025 at 10:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,39 +42,31 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** +4.8%  
-**30d:** -5.5%  
-**90d:** -27.4%  
-**1y:** -21.5%  
+**24h:** -1.3%  
+**7d:** +5.1%  
+**30d:** -5.3%  
+**90d:** -27.2%  
+**1y:** -21.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.77B
+**Market Cap:** $379.72B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.0%
+-36.5%
 
 **All-Time Low:** $0.43
-+719034.2%
++725628.0%
 
 ---
 
 ## Reddit: r/ethereum
-
-**[Trump Family’s Crypto Empire Collapses: Nearly $1 Billion Wiped Out as World Liberty and Memecoins Crash](https://www.reddit.com/r/ethereum/comments/1pe06ir/trump_familys_crypto_empire_collapses_nearly_1/)**
-
-Trump crypto empire falls faster than bitcoin
-
-🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 20h ago
-
----
 
 **[Daily General Discussion December 05, 2025](https://www.reddit.com/r/ethereum/comments/1penica/daily_general_discussion_december_05_2025/)**
 
@@ -84,11 +76,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Trump Family’s Crypto Empire Collapses: Nearly $1 Billion Wiped Out as World Liberty and Memecoins Crash](https://www.reddit.com/r/ethereum/comments/1pe06ir/trump_familys_crypto_empire_collapses_nearly_1/)**
+
+Trump crypto empire falls faster than bitcoin
+
+🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 21h ago
+
+---
+
 **[Nexo Liquidated My Entire $123K Portfolio and they don’t want to refund!](https://www.reddit.com/r/ethereum/comments/1peorza/nexo_liquidated_my_entire_123k_portfolio_and_they/)**
 
 I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was part of their Private Clients program with the portfolio boost. On October 10th, 2025, around 23:00 CET, the Nexo app completely stopped working for me. I couldn’t add USDT, swap, manage my loan, nothing. I was literally inside the app trying to fix it, and I have screen-time proof showing it was frozen. At 23:12 I suddenly got an email saying my LTV changed to 76.92%. At 23:20 I got another email telling me my collateral had been fully liquidated. When I finally managed to get back into the app at 00:26 CET, everything was gone. My entire $123K portfolio was wiped out while I was stuck watching the app glitch out. This isn’t even the first time something like this has happened. Coinfomania reported in April 2025 that Nexo had already been accused of unfair liquidations worth $10 million. People were saying the same thing back then: the app wasn’t working and they only got two emails before losing everything. Nexo is registered in the Cayman Islands and acts like it’s untouchable. They ignore EU and US courts and even ignore letters from lawyers who represent affected users. And Antoni Trenchev is nowhere to be found. When Binance had system issues, they actually compensated their users. Nexo stayed silent. They didn’t just liquidate me, they took everything while their own platform was offline. Since my situation happened, a lot of people have reached out with almost identical stories. Same timeline, same type of outage, same zero response from Nexo. At this point it’s obvious we won’t get anywhere alone. If you had a similar experience, we need to organize together and take collective action. Nexo isn’t giving anyone answers on their own. #Nexo #CryptoScam #DeFi #NexoDown #CryptoJustice
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was par
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 9h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 10h ago
 
 ---
 
@@ -110,13 +110,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[🚀 Ethereum Fusaka is Live: The “Unsung Hero” Upgrade You Need to Know About](https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/)**
 
-🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 17h ago
+🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 18h ago
 
 ---
 
 **[Sony launches Stablecoin! 🎮 USDSC lists on Ethereum L2!](https://www.reddit.com/r/ethereum/comments/1pdxj1w/sony_launches_stablecoin_usdsc_lists_on_ethereum/)**
 
-🔗 [ecency.com](https://ecency.com/@pichat/sony-launches-stablecoin-usdsc-lists-on-ethereum-l2-9sh) • 22h ago
+🔗 [ecency.com](https://ecency.com/@pichat/sony-launches-stablecoin-usdsc-lists-on-ethereum-l2-9sh) • 23h ago
 
 ---
 
@@ -170,6 +170,14 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Is Ethereum the Best Cryptocurrency to Buy Under $4,000?](https://www.nasdaq.com/articles/ethereum-best-cryptocurrency-buy-under-4000)**
+
+Key PointsEthereum's newest upgrade, Fusaka, is here.
+
+Nasdaq • 42m ago
+
+---
+
 **[Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum](https://www.dlnews.com/articles/markets/bitmine-stock-jumps-15-percent-as-tom-lee-snaps-up-150-in-ethereum/)**
 
 Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December.
@@ -186,27 +194,11 @@ cheddar.com • 13h ago
 
 ---
 
-**[Ethereum Is Jumping Today-Here's Why](https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why)**
-
-Key PointsEthereum receives a major update today that should improve its ability to scale.
-
-Nasdaq • 1d ago
-
----
-
 **[Bitcoin Vs. Ethereum And The Flippening Lubin Predicts](https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/)**
 
 Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH’s utility loop, Bitcoin’s scarcity, and why money is entering a multi-form future.
 
 Forbes • 2d ago
-
----
-
-**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
-
-Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
-
-Seeking Alpha • 6h ago
 
 ---
 
@@ -218,11 +210,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum Crashes 45% From $4,950 Peak: Why Layer 2s Are Killing ETH’s Value](https://247wallst.com/investing/2025/12/03/ethereum-crashes-45-from-4950-peak-why-layer-2s-are-killing-eths-value/)**
+**[Why Ethereum Is Gaining Today](https://finance.yahoo.com/news/why-ethereum-gaining-today-204636059.html)**
 
-Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?
+Stablecoin regulation is moving forward.
 
-24/7 Wall St. • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
+
+Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
+
+Seeking Alpha • 6h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 3K • 💬 326 • ⏱️ 11:16 • 8h ago
+👁️ 39K • 👍 3K • 💬 326 • ⏱️ 11:16 • 9h ago
 
 ---
 
@@ -246,7 +246,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 25K • 👍 2K • 💬 109 • ⏱️ 17:37 • 16h ago
+👁️ 25K • 👍 2K • 💬 109 • ⏱️ 17:37 • 17h ago
 
 ---
 
@@ -266,7 +266,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 3K • 👍 308 • 💬 96 • ⏱️ 31:23 • 51m ago
+👁️ 3K • 👍 308 • 💬 96 • ⏱️ 31:23 • 1h ago
 
 ---
 
@@ -286,7 +286,7 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 3K • 💬 93 • ⏱️ 10:24 • 23h ago
+👁️ 23K • 👍 3K • 💬 93 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 181 • 💬 11 • ⏱️ 5:41 • 9h ago
+👁️ 2K • 👍 181 • 💬 11 • ⏱️ 5:41 • 10h ago
 
 ---
 
@@ -316,7 +316,7 @@ The Ethereum network has fundamentally changed as of December 3rd. In this deep 
 
 📺 Wall Street Stockcast
 
-👁️ 4K • 👍 122 • 💬 17 • ⏱️ 10:55 • 18h ago
+👁️ 4K • 👍 122 • 💬 17 • ⏱️ 10:55 • 19h ago
 
 ---
 

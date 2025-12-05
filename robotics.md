@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T10:14:58.132784+00:00'
+updated: '2025-12-05T10:42:10.249967+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 10:14 UTC  
+**Last Updated:** December 05, 2025 at 10:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,6 +38,14 @@ Robotics research and industry news
 
 ---
 
+**["Volonaut" Airbike: Jet-powered hoverbike landing with advanced stabilization (Prototype Demo)](https://www.reddit.com/r/robotics/comments/1pequkz/volonaut_airbike_jetpowered_hoverbike_landing/)**
+
+This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mechanism: Jet-powered vertical take-off and landing (VTOL). Control: Uses an advanced stabilization system to assist the rider's balance during precision maneuvers. Specs: Carbon fiber frame (30kg), top speed ~100km/h (capped) and flight time ~10 mins. Source: Volonaut 🔗 : https://youtu.be/4b0Laxsj_z0?si=8loRPWJWr4v622ii
+
+1h ago
+
+---
+
 **[Behind-the-scenes footage from the EngineAI T800 shoot — a direct response to the CG accusations.](https://www.reddit.com/r/robotics/comments/1peipg7/behindthescenes_footage_from_the_engineai_t800/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
@@ -46,17 +54,9 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**["Volonaut" Airbike: Jet-powered hoverbike landing with advanced stabilization (Prototype Demo)](https://www.reddit.com/r/robotics/comments/1pequkz/volonaut_airbike_jetpowered_hoverbike_landing/)**
-
-This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mechanism: Jet-powered vertical take-off and landing (VTOL). Control: Uses an advanced stabilization system to assist the rider's balance during precision maneuvers. Specs: Carbon fiber frame (30kg), top speed ~100km/h (capped) and flight time ~10 mins. Source: Volonaut 🔗 : https://youtu.be/4b0Laxsj_z0?si=8loRPWJWr4v622ii
-
-40m ago
-
----
-
 **[PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.](https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -78,15 +78,7 @@ Marc Raibert talks about how robotics demos usually show only the polished succe
 
 Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I’m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I’m posting it here in case anyone finds it interesting or useful.
 
-3h ago
-
----
-
-**[How humanoid robots are evolving around the world](https://www.reddit.com/r/robotics/comments/1peqxe2/how_humanoid_robots_are_evolving_around_the_world/)**
-
-A world tour of today’s most advanced humanoid robots and their capabilities.
-
-35m ago
+4h ago
 
 ---
 
@@ -103,6 +95,12 @@ Enjoy the videos and music you love, upload original content, and share it all w
 Humanoid robotics is getting cheaper, smarter, and a lot more capable at moving through the world. But construction sites are a different beast with uneven terrain, unpredictable workflows, and tasks that vary wildly from day to day. I’m curious whether robotics aimed specifically at construction has kept up. Not the glossy demo videos, but actual sector-focused systems that show real progress on tasks like material handling, layout, inspections, drilling, or repetitive onsite work. It actually feels like construction is one of the few fields where purpose-built robots should make far more sense than humanoids. Most site tasks don’t need a human-shaped form factor at all. Are there ad hoc or specialized robots that feel like a real breakthrough, or is the field still stuck in research prototypes?
 
 1h ago
+
+---
+
+**[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
+
+23h ago
 
 ---
 
@@ -136,7 +134,7 @@ Yahoo Finance • 15h ago
 
 Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
 
-CBS News • 12h ago
+CBS News • 13h ago
 
 ---
 
@@ -170,19 +168,19 @@ Bessemer Venture Partners • 2d ago
 
 ---
 
-**[As Trump Looks to Boost Robotics, This 1 Lesser-Known Stock Is a Strong Buy](https://www.barchart.com/story/news/36463172/as-trump-looks-to-boost-robotics-this-1-lesser-known-stock-is-a-strong-buy)**
-
-Serve Robotics is a lesser-known play on Trump’s emerging pro‑robotics agenda, pairing triple‑digit revenue growth, expanding partnerships, and strong cash reserves.
-
-Barchart.com • 13h ago
-
----
-
 **[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
 
 Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
 
 MLive.com • 14h ago
+
+---
+
+**[As Trump Looks to Boost Robotics, This 1 Lesser-Known Stock Is a Strong Buy](https://www.barchart.com/story/news/36463172/as-trump-looks-to-boost-robotics-this-1-lesser-known-stock-is-a-strong-buy)**
+
+Serve Robotics is a lesser-known play on Trump’s emerging pro‑robotics agenda, pairing triple‑digit revenue growth, expanding partnerships, and strong cash reserves.
+
+Barchart.com • 13h ago
 
 ---
 
@@ -252,7 +250,7 @@ Pure-play robotics stock Symbotic (SYM) has had a wild ride in 2025, soaring to 
 
 📺 Sydney McKenna
 
-👁️ 11K • 👍 1K • 💬 91 • ⏱️ 1:00 • 18h ago
+👁️ 11K • 👍 1K • 💬 91 • ⏱️ 1:00 • 19h ago
 
 ---
 

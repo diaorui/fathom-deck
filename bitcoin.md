@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T10:14:58.123420+00:00'
+updated: '2025-12-05T10:42:10.240645+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 10:14 UTC  
+**Last Updated:** December 05, 2025 at 10:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** +0.6%  
-**30d:** -9.9%  
-**90d:** -18.0%  
-**1y:** -8.4%  
+**24h:** -1.4%  
+**7d:** +0.7%  
+**30d:** -9.8%  
+**90d:** -17.9%  
+**1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1817.99B
+**Market Cap:** $1823.63B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.7%
+-27.5%
 
 **All-Time Low:** $67.81
-+134275.5%
++134657.4%
 
 ---
 
@@ -87,7 +87,7 @@ Im only up 3000% now
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -117,14 +117,6 @@ Im only up 3000% now
 
 ---
 
-**[🧡 Thank You Satoshi, for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/)**
-
-Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our entire crypto journey wouldn’t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. 🚀
-
-18h ago
-
----
-
 **[Senators buying the dip on BTC](https://www.reddit.com/r/Bitcoin/comments/1pem50a/senators_buying_the_dip_on_btc/)**
 
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
@@ -133,17 +125,25 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ---
 
+**[🧡 Thank You Satoshi, for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/)**
+
+Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our entire crypto journey wouldn’t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. 🚀
+
+18h ago
+
+---
+
 **[Broke .1 finally!](https://www.reddit.com/r/Bitcoin/comments/1pedy60/broke_1_finally/)**
 
 .2 next, just wanted to share with someone
 
-11h ago
+12h ago
 
 ---
 
 **[Cant stop, won't stop Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pelu4f/cant_stop_wont_stop_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -151,23 +151,31 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+**[Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus](https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus)**
 
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high.
 
-CNBC • 22h ago
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin Rises Above $90,000. Why Traders Are Bracing For Another Big Drop.](https://www.barrons.com/articles/bitcoin-price-today-selloff-ether-xrp-9118e5ec?gaa_at=eafs&gaa_n=AWEtsqfa3lJVJmh7LkLLCJF99F3gYBu45YjDq_I6FMUHBowMgwCygMIbOWdn&gaa_ts=6932ba6c&gaa_sig=B4fgfsCssKDzdJRgz_70rylep01XuK0Ub_q5kbcwe8f6GdKxYoxtCs1PgY99NgwMZUqY-UzhI3gDSdgaKVoT3A%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Bitcoin Exchange Supply Nears 5-year Low After $2 Billion Buy This Week](https://finance.yahoo.com/news/bitcoin-exchange-supply-nears-5-074002583.html)**
+
+Bitcoin exchange reserves hit a 5-year low after $2 billion in buying, but price still struggles under key resistance.
+
+Yahoo Finance • 3h ago
 
 ---
 
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
-The Economist • 23h ago
-
----
-
-**[Strategy CEO Says Reserve Reduces Pressure to Sell Bitcoin](https://www.bloomberg.com/news/articles/2025-12-02/strategy-ceo-sees-reserve-used-to-make-payments-in-perpetuity)**
-
-Bloomberg.com • 2d ago
+The Economist • 1d ago
 
 ---
 
@@ -179,11 +187,11 @@ CNBC • 19h ago
 
 ---
 
-**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
+**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html)**
 
-BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
+A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
 
-Bloomberg.com • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -199,29 +207,23 @@ The New York Times • 1d ago
 
 BlackRock’s ETF now owns 3.9% of all existing Bitcoin, more than Strategy.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
-**[Bitcoin Exchange Supply Nears 5-year Low After $2 Billion Buy This Week](https://finance.yahoo.com/news/bitcoin-exchange-supply-nears-5-074002583.html)**
+**[They ‘Bought More’—BlackRock CEO Reveals Sovereign Fund Bitcoin Price Bombshell Alongside A Stark Trump Warning](https://www.forbes.com/sites/digital-assets/2025/12/04/faster-than-most-expect-blackrock-ceo-issues-enormous-price-prediction-as-bitcoin-suddenly-soars-toward-2-trillion/)**
 
-Bitcoin exchange reserves hit a 5-year low after $2 billion in buying, but price still struggles under key resistance.
+The chief executive of the world’s largest asset manager BlackRock has predicted the “enormous growth” of crypto-based tokenization in coming years...
+
+Forbes • 22h ago
+
+---
+
+**[Woori Bank Becomes First in Korea to Display Bitcoin Prices in Trading Room](https://finance.yahoo.com/news/woori-bank-becomes-first-korea-074526421.html)**
+
+Woori Bank has begun displaying Bitcoin prices inside its main trading room in Seoul, placing the cryptocurrency alongside core financial indicators such as the won–dollar exchange rate and stock market data. Key Takeaways: Woori Bank is the first Korean commercial bank to display Bitcoin prices in its main trading room. ...
 
 Yahoo Finance • 2h ago
-
----
-
-**[A New Era Begins: CFTC Approves Spot Bitcoin On Regulated US Markets](https://www.tradingview.com/news/newsbtc:0bd3c1dca094b:0-a-new-era-begins-cftc-approves-spot-bitcoin-on-regulated-us-markets/)**
-
-Regulators in Washington on Thursday cleared a major step that lets Americans trade spot Bitcoin and other cryptocurrencies on federally registered exchanges for the first time.According to the Commodity Futures Trading Commission, listed spot crypto products may now be offered on exchanges registe…
-
-TradingView • 1h ago
-
----
-
-**[Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
-
-The New York Times • 2d ago
 
 ---
 
@@ -241,7 +243,7 @@ The New York Times • 2d ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 20h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 21h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -297,7 +299,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol](https://news.ycombinator.com/item?id=46149605)**
 
-⬆️ 1 • 💬 0 • 17h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
+⬆️ 1 • 💬 0 • 18h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
 
 ---
 
@@ -391,7 +393,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 328 • ⏱️ 47:51 • 18h ago
+👁️ 30K • 👍 1K • 💬 328 • ⏱️ 47:51 • 19h ago
 
 ---
 

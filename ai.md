@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T10:14:58.114990+00:00'
+updated: '2025-12-05T10:42:10.231923+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 10:14 UTC  
+**Last Updated:** December 05, 2025 at 10:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -79,22 +79,6 @@ Micron has confirmed that it is exiting the Crucial consumer business so it can 
 
 ---
 
-**[One-Minute Daily AI News 12/4/2025](https://www.reddit.com/r/artificial/comments/1pen715/oneminute_daily_ai_news_1242025/)**
-
-Google is experimentally replacing news headlines with AI clickbait nonsense.[1] AI chatbots used inaccurate information to change people’s political opinions, study finds.[2] Watch ‘The Thinking Game,’ a documentary about Google DeepMind, for free on YouTube.[3] Meta centralizes Facebook and Instagram support, tests AI support assistant.[4] Sources: [1] https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense [2] https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085 [3] https://blog.google/technology/google-deepmind/the-thinking-game/ [4] https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/
-
-4h ago
-
----
-
-**[US health department unveils strategy to expand its adoption of AI technology](https://www.reddit.com/r/artificial/comments/1pee1wf/us_health_department_unveils_strategy_to_expand/)**
-
-The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence.
-
-🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 11h ago
-
----
-
 **[Embedding Drift silently broke our RAG](https://www.reddit.com/r/artificial/comments/1pefrm6/embedding_drift_silently_broke_our_rag/)**
 
 Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn’t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer “mysterious RAG failures” Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?
@@ -103,11 +87,27 @@ Our RAG stack degraded slowly over months. Text-shape differences created differ
 
 ---
 
+**[US health department unveils strategy to expand its adoption of AI technology](https://www.reddit.com/r/artificial/comments/1pee1wf/us_health_department_unveils_strategy_to_expand/)**
+
+The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence.
+
+🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 12h ago
+
+---
+
 **[🤖 L'ex-directeur scientifique de Meta s'apprête à lancer sa start-up d'intelligence artificielle](https://www.reddit.com/r/artificial/comments/1pepc16/lexdirecteur_scientifique_de_meta_sapprête_à/)**
 
 👋 Après douze années passées chez Meta, Yann LeCun a fait le grand saut. Le mois dernier, il a annoncé qu'il quittait le géant des réseaux sociaux pour lancer sa propre start-up en vue de créer une nouvelle génération de systèmes d'intelligence artificielle. Dans cette aventure, encore relativement nébuleuse, « Meta est un partenaire, ce n'est pas un investisseur », a déclaré Yann LeCun, ce jeudi, lors de l'événement AI Pulse organisé par Scaleway à Paris. 🧠 Le chercheur français fait figure de parrain de l'IA moderne et a été récompensé du prix Turing en 2018. Il mobilise actuellement des fonds pour lancer sa start-up autour du concept d'« intelligence avancée » basée sur le monde physique et les « world models », en opposition aux grands modèles génératifs sur lesquels parient actuellement les géants américains de la tech. 💡 Les explications de Joséphine Boone
 
 🔗 [linkedin.com](https://www.linkedin.com/posts/les-echos_lex-directeur-scientifique-de-meta-sappr%25C3%25AAte-activity-7402587567272910848-h34L?utm_source%3Dshare%26utm_medium%3Dmember_ios%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4) • 2h ago
+
+---
+
+**[The Experiment That Made AIs Admit Awareness | Am I? | EP 15](https://www.reddit.com/r/artificial/comments/1pep81u/the_experiment_that_made_ais_admit_awareness_am_i/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/z_gHuD_IxZs?si=JB_V38KslkGIR8OB) • 2h ago
 
 ---
 
@@ -125,45 +125,27 @@ Fortune • 18h ago
 
 **[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
 
-The Economist • 22h ago
+The Economist • 23h ago
+
+---
+
+**[What Trump could do next on state AI laws](https://www.axios.com/2025/12/05/trump-next-ai-state-laws)**
+
+Axios • 41m ago
+
+---
+
+**[Execs and AI researchers who have left Apple — and the one company that's snapped many of them up](https://www.businessinsider.com/ai-execs-and-researchers-left-apple-mostly-for-meta-2025-12)**
+
+Apple lost executives and researcher in 2025, some to retirement or startups, but mostly to Mark Zuckerberg's Meta that spent big on recruitment.
+
+Business Insider • 17m ago
 
 ---
 
 **[Cristiano Ronaldo Invests in Perplexity AI, Enters Partnership](https://www.bloomberg.com/news/articles/2025-12-05/cristiano-ronaldo-invests-in-perplexity-ai-enters-partnership-misnf0af)**
 
 Bloomberg.com • 1h ago
-
----
-
-**[Investors fear an AI bubble. What about computer scientists?](https://www.cbc.ca/news/business/ai-bubble-tech-industry-side-9.7001887)**
-
-AI companies are spending eye-watering amounts of money on infrastructure and training to improve AI. Many investors are getting nervous. Beyond the short term financial markets, tech experts say the AI revolution is real, but the economic impacts may be longer term.
-
-CBC • 1h ago
-
----
-
-**['Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12)**
-
-Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
-
-Business Insider • 44m ago
-
----
-
-**[‘It was about degrading someone completely’: the story of Mr DeepFakes – the world’s most notorious AI porn site](https://www.theguardian.com/society/ng-interactive/2025/dec/05/it-was-about-degrading-someone-completely-the-story-of-mr-deepfakes-the-worlds-most-notorious-ai-porn-site)**
-
-The hobbyists who helped build this site created technology that has been used to humiliate countless women. Why didn’t governments step in and stop them?
-
-The Guardian • 1h ago
-
----
-
-**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
-
-Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
-
-Forbes • 16h ago
 
 ---
 
@@ -175,15 +157,31 @@ BBC • 10h ago
 
 ---
 
-**[Exclusive | The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old](https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417?gaa_at=eafs&gaa_n=AWEtsqczre7gI-n44gTpMZxYs3sXW3l1GYtPV-f7NhpaRkUwoWmymoFs0T5M&gaa_ts=6932aeb8&gaa_sig=0ksLLvSzGHEuQeLiENKqHfQojGkIrF-ZQjC6SCk8rSMRFPZYgVyH8wFxqahggmmic4gTg8yhFzmXuOVuMydkfw%3D%3D)**
+**[Exclusive | The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old - WSJ](https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417?gaa_at=eafs&gaa_n=AWEtsqfXcVJsqlZjHayst1fyAlMw0fV0iOfuksN3kXuAqh_wIBV1MHQvmABr&gaa_ts=6932ba6b&gaa_sig=n7ZE2v1qPTLa3d-hs0seR-D-L0eeYNkq7iAyFRJ3lE2VuX_wbOy8FyLVIDFyX7TOd1kaUFkRqf5Q0hhvVrgoXA%3D%3D)**
 
-The Wall Street Journal • 20h ago
+The Wall Street Journal • 19h ago
 
 ---
 
-**[Exclusive: Some AI dangers are already real, DeepMind's Hassabis says](https://www.axios.com/2025/12/05/ai-hassabis-agi-risks-pdoom)**
+**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
 
-Axios • 8h ago
+Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
+
+Forbes • 16h ago
+
+---
+
+**[‘It was about degrading someone completely’: the story of Mr DeepFakes – the world’s most notorious AI porn site](https://www.theguardian.com/society/ng-interactive/2025/dec/05/it-was-about-degrading-someone-completely-the-story-of-mr-deepfakes-the-worlds-most-notorious-ai-porn-site)**
+
+The hobbyists who helped build this site created technology that has been used to humiliate countless women. Why didn’t governments step in and stop them?
+
+The Guardian • 2h ago
+
+---
+
+**[Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -203,7 +201,7 @@ Axios • 8h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 931 • 💬 1031 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 932 • 💬 1032 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -211,7 +209,7 @@ A post about everyone in Seattle hating AI.
 
 IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data center spending — and raised some doubts on if it'll prove profitable.
 
-⬆️ 838 • 💬 939 • 2d ago • [Business Insider](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
+⬆️ 838 • 💬 940 • 2d ago • [Business Insider](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 
 ---
 
@@ -219,7 +217,7 @@ IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data cen
 
 Google’s own ‘code red’ response to ChatGPT has started paying off.
 
-⬆️ 810 • 💬 916 • 2d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
+⬆️ 811 • 💬 918 • 2d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
 
 ---
 
@@ -227,7 +225,7 @@ Google’s own ‘code red’ response to ChatGPT has started paying off.
 
 Update: This post received a large amount of attention on Hacker News — see the discussion thread.
 
-⬆️ 803 • 💬 280 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+⬆️ 803 • 💬 281 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 
 ---
 
@@ -235,7 +233,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 568 • 💬 531 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 577 • 💬 534 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -243,7 +241,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 404 • 💬 304 • 18h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 407 • 💬 305 • 19h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -251,7 +249,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 236 • 💬 195 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 237 • 💬 195 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -267,7 +265,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 182 • 💬 82 • 11h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 186 • 💬 83 • 12h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -311,7 +309,7 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 473K • 👍 12K • 💬 720 • ⏱️ 4:58 • 21h ago
+👁️ 473K • 👍 12K • 💬 720 • ⏱️ 4:58 • 22h ago
 
 ---
 
@@ -361,7 +359,7 @@ Can Kling O1 beat Google's Nano Banana in cinematic storytelling? Two major upda
 
 📺 AI Video School
 
-👁️ 9K • 👍 542 • 💬 38 • ⏱️ 12:26 • 18h ago
+👁️ 9K • 👍 542 • 💬 38 • ⏱️ 12:26 • 19h ago
 
 ---
 
@@ -387,7 +385,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 135,731 • ❤️ 2,098 • 2d ago
+⬇️ 152,916 • ❤️ 2,099 • 2d ago
 
 ---
 
@@ -399,7 +397,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 8,690 • ❤️ 719 • 3d ago
+⬇️ 13,541 • ❤️ 719 • 3d ago
 
 ---
 
@@ -411,7 +409,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 3,087 • ❤️ 502 • 3d ago
+⬇️ 3,773 • ❤️ 502 • 3d ago
 
 ---
 
@@ -423,7 +421,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,092 • ❤️ 324 • 3d ago
+⬇️ 1,509 • ❤️ 325 • 3d ago
 
 ---
 
@@ -435,7 +433,7 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 `text-generation` `685.4B`
 
-⬇️ 7,891 • ❤️ 636 • 7d ago
+⬇️ 8,505 • ❤️ 636 • 8d ago
 
 ---
 
@@ -457,7 +455,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 188,613 • ❤️ 887 • 7d ago
+⬇️ 192,451 • ❤️ 887 • 7d ago
 
 ---
 
@@ -469,7 +467,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 0 • ❤️ 219 • 8h ago
+⬇️ 12,984 • ❤️ 224 • 8h ago
 
 ---
 
@@ -489,7 +487,7 @@ STARFlow is a state-of-the-art transformer autoregressive flow model for high-qu
 
 z_image_turbo is a diffusion model designed for single-file image generation, likely integrated with ComfyUI workflows for advanced image synthesis tasks.
 
-⬇️ 1,674,013 • ❤️ 361 • 8d ago
+⬇️ 1,857,463 • ❤️ 361 • 8d ago
 
 ---
 
@@ -505,7 +503,7 @@ z_image_turbo is a diffusion model designed for single-file image generation, li
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 17 • 💬 2 • ⭐ 4,561 • 7d ago
+▲ 18 • 💬 2 • ⭐ 4,561 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -519,7 +517,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 135 • 💬 2 • ⭐ 4,635 • 7d ago
+▲ 137 • 💬 2 • ⭐ 4,635 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -533,7 +531,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 103 • 💬 4 • ⭐ 5,229 • 14d ago
+▲ 105 • 💬 4 • ⭐ 5,229 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
@@ -638,7 +636,7 @@ Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with ver
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 389 • 7h ago
+⭐ 5.1k • 🔱 390 • 7h ago
 
 ---
 
@@ -648,7 +646,7 @@ Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with ver
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.4k • 🔱 121 • 1d ago
+⭐ 1.5k • 🔱 123 • 1d ago
 
 ---
 
@@ -688,7 +686,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 798 • 🔱 102 • 11h ago
+⭐ 801 • 🔱 102 • 11h ago
 
 ---
 
@@ -698,7 +696,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 771 • 🔱 54 • 4d ago
+⭐ 772 • 🔱 54 • 4d ago
 
 ---
 
@@ -718,7 +716,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 697 • 🔱 14 • 16d ago
+⭐ 699 • 🔱 14 • 16d ago
 
 ---
 

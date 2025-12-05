@@ -95,16 +95,16 @@
       "description": "Fusaka represents what some describe as Ethereum\u2019s first real step into key data sampling and capacity mechanisms it has sought for a decade."
     },
     {
-      "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbjZNMU41QkJ4RnFsMWw3NU16WjFnelIzd3ZYTXg1VUZEVEFTaVRGVTZUOGFxLU02ZWx2TTZ0ajl4NTlRUHh6YlBqd1NJWFBtVE5mU09aNWxuWk1YMlVsTWJWUkhuMmRYalJJdVB2MEE5eDNkWXMzaWtHTl9hRGkyQ3VaT1Yyd1FxTjFZeDVNMVRYM3dqMWNCdEUtMVpKUk9wVjdTUFg4UnQ1dw?oc=5",
-      "pub_date": 1764682252.0,
-      "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
+      "headline": "Jane Street Leads $105M Funding for Antithesis, a Testing Tool Used by Ethereum Network",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUEstcUdZRjhLUWlQemxwcEt3VHV2X2NYbE4xSDZLSl83alVnWV9xVnNqOWZZdDdNRV9UNXcwdGU1SExWS2ZENlRTUG56c01xbVc2WWRPLTRoRWFOblp2ckRFYTdBNEZsMUVmZUJGRGY2YUl4RmlSWXdiQXMycEFxRm9fbnZwTjIzX2VGQk5qT0lHdE5zaFp2MDdjRk42SHBoVER3WmJ1bjg2ZlZIdVFKM3BDZlJlM1J2MEpfLUxnakZPOWJSWFJ5dW1BclNfdw?oc=5",
+      "pub_date": 1764768807.0,
+      "article_url": "https://www.coindesk.com/business/2025/12/03/jane-street-leads-usd105m-funding-for-antithesis-a-testing-tool-used-by-ethereum-network",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2bb99ef791db1603a7268017479b6182f3952bc2-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Antithesis said its Series A will scale deterministic simulation testing, replaying complex failures exactly for crypto and other always-on systems."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T21:56:36.130135+00:00"
+  "fetched_at": "2025-12-05T22:41:18.827731+00:00"
 }

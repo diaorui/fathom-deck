@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T22:23:47.241189+00:00'
+updated: '2025-12-05T22:41:25.259145+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 22:23 UTC  
+**Last Updated:** December 05, 2025 at 22:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.5%  
-**7d:** -2.2%  
-**30d:** -12.4%  
-**90d:** -20.3%  
-**1y:** -10.9%  
+**24h:** -3.1%  
+**7d:** -1.8%  
+**30d:** -12.0%  
+**90d:** -20.0%  
+**1y:** -10.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -149,27 +149,25 @@ Im only up 3000% now
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Options Show Traders Hunkering Down for Crypto Winter](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-options-show-traders-hunkering-down-for-crypto-winter)**
+**[BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now](https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now)**
 
-Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
-
-Bloomberg.com • 3h ago
+Fast Company • 4h ago
 
 ---
 
-**[Why The Bitcoin Bear Market Is Almost Finished](https://bitcoinmagazine.com/markets/bitcoin-bear-market-almost-finished)**
+**[Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus](https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus)**
 
-Bitcoin bear market ending sooner than USD charts suggest – Gold ratio already hit 350DMA breakdown and key Fib support; accumulation zone here.
+The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high.
 
-Bitcoin Magazine • 8h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+**[Bitcoin down for 2025 while S&P 500 is up — a first since 2014](https://finance.yahoo.com/video/bitcoin-down-2025-while-p-215541104.html)**
 
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+Bitcoin (BTC-USD) is on track to record a yearly decline for 2025, while the S&P 500 (^GSPC) sees gains for the same period. This would mark the first split in crypto and equity performance since 2014, according to Bloomberg. Yahoo Finance Senior Reporter Ines Ferré examines the phenomenon and how precious metal prices (GC=F, SI=F) play a part. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-CNBC • 1d ago
+Yahoo Finance • 45m ago
 
 ---
 
@@ -201,12 +199,6 @@ The New York Times • 2d ago
 
 ---
 
-**[Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks](https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit)**
-
-The Block • 15h ago
-
----
-
 **[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
 
 BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
@@ -215,9 +207,15 @@ Bloomberg.com • 6h ago
 
 ---
 
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqeJ2BZb7xe2_BkAZZTRlo1T9_NqkeYRj1uqNByQJrCrcR275rLxcwyh&gaa_ts=6933588b&gaa_sig=bTkTrIV7cSGu364yoDdxgY2h3Qgufwppg-BVvvThh-A8W0y1UwRKADdWbJjqvqj5GsafztJUsMDt1WQR8nG1EQ%3D%3D)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcRcw2q-x341elCFusAuP2rM-QbatBb7-jKUYYSYhELWgAwGHpTFTfX&gaa_ts=69336301&gaa_sig=lmhncs3NPH7a6pH9SQvJklfIKrIBmCUbcgBawr5uhvycwtruDEV3yKCw0tU88AlCpE7cMjtuqGh8B8vUHBcKXg%3D%3D)**
 
 The Wall Street Journal • 2d ago
+
+---
+
+**[Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks](https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit)**
+
+The Block • 15h ago
 
 ---
 
@@ -307,7 +305,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 415 • ⏱️ 10:13 • 7h ago
+👁️ 25K • 👍 1K • 💬 415 • ⏱️ 10:13 • 8h ago
 
 ---
 
@@ -337,7 +335,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 68K • 👍 5K • 💬 344 • ⏱️ 15:38 • 10h ago
+👁️ 68K • 👍 5K • 💬 344 • ⏱️ 15:38 • 11h ago
 
 ---
 
@@ -367,7 +365,7 @@ After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 343 • 💬 185 • ⏱️ 1:34:16 • 2h ago
+👁️ 6K • 👍 343 • 💬 185 • ⏱️ 1:34:16 • 3h ago
 
 ---
 

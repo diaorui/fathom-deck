@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T22:23:47.232683+00:00'
+updated: '2025-12-05T22:41:25.250823+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 22:23 UTC  
+**Last Updated:** December 05, 2025 at 22:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -87,7 +87,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
 
-4h ago
+5h ago
 
 ---
 
@@ -123,9 +123,39 @@ The Keyword • 6h ago
 
 ---
 
-**[Opinion | A.I. Technology Needs the Bubble to Burst](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
 The New York Times • 12h ago
+
+---
+
+**[Nvidia Stock Rises. What Foxconn, HPE Sales Say About AI Chip Demand.](https://www.barrons.com/articles/nvidia-stock-price-foxconn-hpe-ai-servers-40ed27d1?gaa_at=eafs&gaa_n=AWEtsqcAkFTnj_HlBQ5CgyKvWFQO1TZbRw10OltdFbbcjrfCRdV9OV2P-15L&gaa_ts=69336300&gaa_sig=EVJyeJhJOYksv1podJWQdHM687rQY7pAP-IrO2h1JXw30Dzoj_k1TLEluOjtDJGYEduIyzEUpiy5s4drAnyIOg%3D%3D)**
+
+Barron's • 11h ago
+
+---
+
+**[Nvidia partner Foxconn reports 26% revenue spike as AI boom continues](https://www.cnbc.com/2025/12/05/nvidia-partner-foxconn-reports-26percent-revenue-spike-as-ai-boom-continues.html)**
+
+The Taiwanese company has increasingly moved into the AI infrastructure space in recent times
+
+CNBC • 12h ago
+
+---
+
+**[Is This AI Software Stock About to Have Its Nvidia Moment?](https://finance.yahoo.com/news/ai-software-stock-nvidia-moment-222000721.html)**
+
+Nvidia is the dominant player in the AI hardware market, and Palantir could occupy a similar position on the software side.
+
+Yahoo Finance • 21m ago
+
+---
+
+**[Gen Z And Millennials Are Racing To Upskill In AI](https://www.forbes.com/sites/ronschmelzer/2025/12/05/gen-z-and-millennials-are-racing-to-upskill-in-ai/)**
+
+Recent data from major learning platforms shows a surge in structured AI learning, and global surveys find younger workers already reshaping career plans to match that reality.
+
+Forbes • 1h ago
 
 ---
 
@@ -143,31 +173,11 @@ Reuters • 3h ago
 
 ---
 
-**[Meta Platforms Buys AI-Device Maker Limitless](https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqfYjlJHN1zpeKnjNuSP6XnLNQbyvW6E-yJfd-iivK4RoFdD1GVi5l40&gaa_ts=69335888&gaa_sig=g3BpC8t2JV9LgRGJZRPAlUICeAT430utEjR81mjkkP8OwL7fmwKHL6PdHn4N9YyYhUFPMFqdtOsnLQXLj2nU6w%3D%3D)**
+**[Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)**
 
-The Wall Street Journal • 1h ago
+Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
 
----
-
-**[Character.AI | Sunday on 60 Minutes](https://www.cbsnews.com/video/character-ai-sunday-on-60-minutes/)**
-
-Parents who lost their daughter to suicide say Character.AI chatbots led her down a dark and sexually explicit path. Sharyn Alfonsi investigates the scale and dangers of what's unfolding inside this rapidly growing AI technology.
-
-CBS News • 1h ago
-
----
-
-**[This crazy chart shows just how much cash OpenAI is burning as it chases AI profits](https://www.marketwatch.com/story/this-crazy-chart-shows-just-how-much-cash-openai-is-burning-as-it-chases-ai-profits-81e7ffef?gaa_at=eafs&gaa_n=AWEtsqeHxrrJwl8qeQHDX_7f02SKjsikQjfpIeub8pZyprOa17qoZfOCiPqR&gaa_ts=69335888&gaa_sig=WZQaSymWpxVQQ_DsT0wcrnZIJZHqgZZhino897-XxdLJ_NXLbhuRaINmKeZacIEB67iZSZLCWwFGpyLwAq2o2w%3D%3D)**
-
-MarketWatch • 1h ago
-
----
-
-**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
-
-While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
-
-Fortune • 1d ago
+TechCrunch • 1h ago
 
 ---
 
@@ -176,14 +186,6 @@ Fortune • 1d ago
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
 The Atlantic • 1d ago
-
----
-
-**[A safety report card ranks AI company efforts to protect humanity](https://www.latimes.com/entertainment-arts/business/story/2025-12-05/ai-artificial-intelligence-company-scorecard-ranks-safety-humanity)**
-
-Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety.
-
-Los Angeles Times • 11h ago
 
 ---
 
@@ -259,7 +261,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 200 • 💬 92 • 23h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 200 • 💬 92 • 1d ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -321,7 +323,7 @@ Pocket Option Full Trading Session with AI TRADING BOT for Binary Options Link -
 
 📺 AITRADINGGG v2
 
-👁️ 6K • 👍 627 • 2h ago
+👁️ 6K • 👍 627 • 3h ago
 
 ---
 
@@ -351,7 +353,7 @@ ALL Systems: https://www.skool.com/aiautomationsbyjack 🎙️ Glaido: https://g
 
 📺 Jack Roberts
 
-👁️ 4K • 👍 253 • 💬 10 • ⏱️ 35:33 • 6h ago
+👁️ 4K • 👍 253 • 💬 10 • ⏱️ 35:33 • 7h ago
 
 ---
 
@@ -683,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 825 • 🔱 103 • 51m ago
+⭐ 825 • 🔱 103 • 1h ago
 
 ---
 

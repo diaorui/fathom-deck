@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T17:56:32.386946+00:00'
+updated: '2025-12-05T18:33:42.899570+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 17:56 UTC  
+**Last Updated:** December 05, 2025 at 18:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,029.00
+### $3,033.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
+**24h:** -2.9%  
 **7d:** +1.5%  
-**30d:** -8.4%  
-**90d:** -29.6%  
-**1y:** -23.9%  
+**30d:** -8.5%  
+**90d:** -29.7%  
+**1y:** -24.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $364.16B
+**Market Cap:** $367.92B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.0%
+-38.7%
 
 **All-Time Low:** $0.43
-+697049.3%
++699612.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 17h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 18h ago
 
 ---
 
@@ -158,7 +158,15 @@ Decrypt • 5h ago
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
-The Block • 20h ago
+The Block • 21h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dive-liquidations-175610855.html)**
+
+Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
+
+Yahoo Finance • 37m ago
 
 ---
 
@@ -166,7 +174,7 @@ The Block • 20h ago
 
 Analyzing Ethereum’s RSI Trends to Predict Potential Price Moves and Market Sentiment
 
-vocal.media • 1h ago
+vocal.media • 2h ago
 
 ---
 
@@ -178,9 +186,9 @@ dlnews.com • 1d ago
 
 ---
 
-**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
+**[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
 
-The Block • 1d ago
+TipRanks • 5h ago
 
 ---
 
@@ -196,7 +204,7 @@ Yahoo Finance • 6h ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 14h ago
 
 ---
 
@@ -212,15 +220,7 @@ Nasdaq • 1d ago
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-cheddar.com • 20h ago
-
----
-
-**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
-
-Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
-
-Decrypt • 1d ago
+cheddar.com • 21h ago
 
 ---
 
@@ -254,7 +254,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 20K • 👍 2K • 💬 126 • ⏱️ 31:23 • 8h ago
+👁️ 20K • 👍 2K • 💬 126 • ⏱️ 31:23 • 9h ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 135 • 💬 6 • ⏱️ 5:20 • 2h ago
+👁️ 1K • 👍 135 • 💬 6 • ⏱️ 5:20 • 3h ago
 
 ---
 
@@ -294,7 +294,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 66K • 👍 2K • 💬 430 • ⏱️ 27:33 • 23h ago
+👁️ 66K • 👍 2K • 💬 430 • ⏱️ 27:33 • 1d ago
 
 ---
 
@@ -314,7 +314,7 @@ Wall Street legend Tom Lee has just made his most "insane" prediction yet: Ether
 
 📺 Wall Street Stockcast
 
-👁️ 226 • 👍 17 • 💬 13 • ⏱️ 8:42 • 5h ago
+👁️ 226 • 👍 17 • 💬 13 • ⏱️ 8:42 • 6h ago
 
 ---
 
@@ -324,7 +324,7 @@ Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydf
 
 📺 BitBoy X
 
-👁️ 711 • 👍 118 • ⏱️ 25:41 • 56m ago
+👁️ 711 • 👍 118 • ⏱️ 25:41 • 1h ago
 
 ---
 

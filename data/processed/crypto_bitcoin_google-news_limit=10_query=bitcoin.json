@@ -5,34 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Is Set for First Yearly Split From Stocks in Decade",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdExsQVJ3RGNaa1lHNFdVX2JiZG55LWMxWU1NVEVFMGRVaWZhbWtHQlk2cl9RV05TeHJJSFFPTlZvTzdueTVfeGdGMDRNemItQVBXUVRYTERpaE84TDlTUnZHWHNxTFQ3TlFNaEEzUWxuQlh1Nkc2ajFhejlsRk1KQWdR?oc=5",
+      "headline": "Bitcoin Is Set for First Yearly Split From Stocks in a Decade",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0FxY2xJOEhqZlpPcXhpMGNLeVNETW82SzZrb3pnUzV1aWhtd3BSZUhjS0lnQXRMMkw4OVNXcDJKcWExdm1wZmhsS1luSF84TnlRUHpVYXEtVDJTWGZValBIY2xkRzFmUDZjcW1FZDM5OW04T2RmamF6V09nRmstZGVFejNXTVd1WWhKdUZDNFVhZHp4Y1pLT0lhdUc1bXR2Y2h2S1FZbUl5THhWY1pqNDNtRlk?oc=5",
       "pub_date": 1764953942.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-set-first-yearly-split-141041017.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/9DyjG09Zb6Xc.AWJoL7fgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/73de3b80a12513a4be396a0c6d9fa4be",
-      "description": "The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday."
-    },
-    {
-      "headline": "Bitcoin is set for first yearly split from stocks in a decade",
-      "source": "MSN",
-      "source_url": "https://www.msn.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGRYbXBYc1Z0MWFQbVpBWkwwZzVCcjBhVmRxczVPVkFEeHpXODYyajMtRThKdC1IX1FYZWZmMnlfa3l6cTlueWtjcGdHUkItWHFENHBKYXF4UzBtWFpQRTlRVXkweVowcm9TSDE2UmVSSDJZNXlEbXVfYnpDanB6VHFHY01aaS1PR1lCVDhIMTUwVExrUkVlVkg2aUhtN0dHZkdGX2s0b3RxVks0UVBfdw?oc=5",
-      "pub_date": 1764955492.0,
-      "article_url": "https://www.msn.com/en-us/money/markets/bitcoin-is-set-for-first-yearly-split-from-stocks-in-decade/ar-AA1RMKxN",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Rebounds Off Lows, Rising Above $91,000",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQWkpfajlZUUlkb2Y3T2pZS0lmMHpFMDlQTmYzeUxqX25qWFRmU1dPQkxPbzNTQzY3bUg3QVNXSTdpMkQzV1VpSURSVTZCWXlod0lRa3ZWQXNvYkM4NkR0bDRiXzUxYmxIRTViUkxzbGFQMGRwQVVydUZKLV9SdmdfZ2wxOWpYV1I3WUVuSkxUbUtJSlJaMEtvcHhKN3BmaF9YOFRraDRtZzhxSndsYnRrR2tLMkJha0R2UVhBc251OThzYThIR0VVTHNuVTg5emRmZjctZU04QnVTeXI2TkVrYjZTT2lrNVJadW5qQzhxUlRxa2xrMlVRT2tLSzhkdzVuVGpZYXFuMVFScG9lMmVzelV4dXpWRmJvc3ZrVUJYNDVqQW5GZ0VMbWhmSHk2Uy1fY1g3MmhaV3RUSnAtU2tnTkZzQlR1cUxMUEt4d1MtUEV2Z1JKYTNNTERRQjFTVFdFVXhJNl93RzE2UVdYd2dYSkN2OWtfZy1zeUZPTjQxa2VpZzlXUmFYMVl6c0dLSy03LXdvRU5VWUh6SEx0ekdkWUtNVWN3SkMtZHQxbGxxcEdpSXduYmdKdmxSX2dZV0hXVDhRSGg4Q2RHQXpBZHdrZXY1Rl93aUl2S0hDM2hjV19qWVUwd1E?oc=5",
-      "pub_date": 1764736380.0,
-      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025/card/bitcoin-rebounds-off-lows-hitting-90-000-KdjDmRT8dpAKaWd81I8V?gaa_at=eafs&gaa_n=AWEtsqfiQBjvhhMa4PuF3bqrgHKSe884TUQ7fmLOd3tATZbSegbZVjCKy0fT&gaa_ts=69331db1&gaa_sig=qaeSFTULttQ-oxpSwsoiJ4YgwnYLzPcuCSowHxW3qkuH2JLvCMTnj61mjwLKj1LGunr--PKaXFtyRmUjmMdTqA%3D%3D",
-      "image": null,
-      "description": null
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irr5w8CCs0i8/v0/1200x800.jpg",
+      "description": "The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% \u2014 the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg."
     },
     {
       "headline": "ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025",
@@ -65,12 +45,22 @@
       "description": "Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts."
     },
     {
-      "headline": "Analyst cuts 60% price target for popular Bitcoin stock",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeDBkZ09iRC1qSUxXUFBHZzBLWUxEc1liR1JTdFBkcWtwWjhVbkJveTFrQ0hIdlB6aWlPQ2I1Mk9NaWUxX2RVSUx0OWJ2NG1hZHNTRkVYRnVkQnF1c1FpdnNxaHVISnh0OHNkZGE5OHNWWjNVQm9yRDJBTlBOSGIzMTB3YmxWcGdWbktOSXphSEM5R3lqTjl5NVRNNA?oc=5",
-      "pub_date": 1764938331.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock",
+      "headline": "Bitcoin\u2019s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3ZmSFVXZU80X3k0LU1TZ3UyYlB1MHl5QUNvdVhaUUFvZ3V3bnlfOUxJY2FNODNnR2dKT0JtS0hCNGluVXN6aG0xZTZMN05tdFFhb25FWXgzOEZfM3JoZGw2Vm5iUDczT0J5WHFxcktYWWlmWG5saFVGYVNXMHdPeVNwa1MwdkJienk0VA?oc=5",
+      "pub_date": 1764780516.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/FL24d8aJvPqLv_JDWpEY3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/97b3e1f462be391d2bad2e12ad194263",
+      "description": "A rule change could force Saylor's company to sell some of its $650 billion holdings\u2014but crypto veterans say Strategy will be just fine."
+    },
+    {
+      "headline": "Bitcoin\u2019s Predicted Sky-High Prices Have Not Panned Out",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLV80ZjAtYy1HdlV4aVRkWXk0Rk0tOWtSM3JGNHpOVThqZEZpMGR3ZUMzR2xXVExaVXlZQnpoRE9LU0ZkT1F2WXlVbDBTbzdka1p0cW91RlRSWjBGRkpPWkY2dmVrV3NRTUdCZG9XR1dFZldZWVFlVmt3d3MyS01VTzFWUnJIb2RJWlpKclFOaw?oc=5",
+      "pub_date": 1764756144.0,
+      "article_url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
       "image": null,
       "description": null
     },
@@ -78,33 +68,43 @@
       "headline": "With bitcoin down to around $92,000, should you rethink how much crypto to own? Here\u2019s what experts say.",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxONWpjWjZLOHJ0M19SYmhCQVhOYkFmZ0Q5andyZFNxbkhWNWNfVlhmYVBkYV9tVVdjVG1aYlp6NjhYeGwxQUlmTnRUbXc4RFlkeE9IeDlEY2s5UWdBYURBQkFhX1BRQVBsQi1idXVEUTgzb3p5a2VWdmFkWkViN2kwN1hwVTZhbWZiNXJRZ1hsbUx1ZWd1OFhNQ2ZjbHFsS1hqRjJxbGZsWDd3ZWRXWG5ZOVk3djJCUHV0UmYyT0FBa3JvZEhBVE1zenB5VHlKeGF0dDdsTmhyYjJHZGxkTTFLWDRITGtWUWoxZTVLWEh3Wm1ObmpUQk5VdnVsT3Z6Z1hYeTY3V2NuSXZyem5WcjJvUy1EZzY5WG5sRFVaYVVZeThVQ09FTzQyVWg1OFRrQnVZNDREWE5NVlRwbUs3dTB5cTJXWHZXNFNka2FaQW82aE1UbUJxeDdYd1BBaUhZVDRURFZlNk8xZDV3XzNYaWsteDBqXzJ5M3l3eUkyRXZob29DYmFzMzJ3eFlSVE9HU3lvVUcxVHRxZ0pmTXdYYXpmNzI1bnktbXRKUF9WaGJibnotX0RrRllBR3dRaGxWMk9YYWVkS1phOUJXd2p3SHhnMkN0M29fbnNlUm5aMVRfbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPS0FLTGx4UFd0bkE4Q0dNT0FqanJCT1lRc2lTb3VxYzVBaGtwRVQzRGhZZ202ekJzMk56d0RWeU5KOEdDWDc5bE15Qm5raW4tZHhtZlZrbERjbjc5bXJnLWhjWkhCTnlSSVN6dzZZalNZMzdac1FqOW5ndjQzTWhsbENVdWwxak1aTndWQjRIbm1UbzJ1Q1FSOXhkY2wwSUJCb2JwdVg1RGI0LXFBd0VjNXdQd2ZVM0VsWU5odHVPQk05azBMalFqYXdLeVBrWXliLVNtaHM0ZlJmV05lZkVWeFNTd2NHS3ZaRjZ2bmV1THlpZUVUY2FaWlRKRzBES3Y5MHNJSkVSX04xUkowU0cyem1vSTFWNGotUjlTQmMzbFNsV1I2VmxlaVVEbExlcnVqMHBhVnhLNGhKMjZmekFITnVVcHRDcDh6TXh3TGNPbHFqZmlqbnJDOUN3X0R1VHd0eUotZlNzeG00UWJJaGtYeTh3aFdRX0d5RjN0MWFsT0tIOE0yWVJUelp0YUhNSWFsOHN6WkpfMUFWU0RxSkswTlhpMll3RkRXbTdEbzNiMTJ0cTQ0eTNFQ2prRV9idTdqejdVNUZyaVlDZzFjUWhZTW1XV0RlVUUyRW1qZms5Zw?oc=5",
       "pub_date": 1764880980.0,
-      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdaTJxsEEHCYBnMAa_UKYXJiDb9iCGjfiN3b-EkHvLnavlATxqVqkji&gaa_ts=69331db1&gaa_sig=PQeeWSGA1pixfND1xUNw9XHLNgSBBYXoQfBdphs2rsGypaGjnqax9z9MXqch2lmRXY0zEnUCq9T4z6f0VuVzPg%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqebABqutJl1PdqKF7qv4oInCrubmafYiQQJmHLirkKrkCzNLxM_7gue&gaa_ts=693328f3&gaa_sig=dOGBSlEflFHe18GRcKbYPHBgHW8e8H4QCrbyvrRP9QZzUx8gx3yJppnynyYu7P89VMb6GiOuNQrZldX2nOBhbg%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTdZWU9ZcTloV3RIeW44R3E2aUNYUmFUX3NnUEZ3Uzk0c3ZRdldRakIxbHRrX2JmYk5TX1ZQYW1rYkg1YXlNeVMyRTdWcWllblJsRllkNi1GT0Q4V0FtSkd0bkM1T21rVk1ka2p5Rmx5QkZUd2tBWHBZYkE2bHJvOGc1U3c2UUZhNk96X1hEb3VLVUpfckJiOVBqZHVyT3BGb2liM2hvd2tZNl9tMjktQk1Xd2FHSDd3M2sxbnd1czk?oc=5",
-      "pub_date": 1764949677.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imggtXTZHkQE/v0/1200x800.jpg",
-      "description": "BlackRock Inc.\u2019s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world\u2019s largest cryptocurrency remains subdued even as prices stabilize."
+      "headline": "Bitcoin Price Could Hit $170K \u2014 But Strategy \u2018Resilience\u2019 Is Vital: JPMorgan",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0waGZKaDJoZ2tsUlVjVzJNR1RqRUQzNk41Tjg0MEJiWjdrbDBOMFRHMDNId0Zrc2JkaFdqRmQzSGZnR1ZTOWFIcVJscXJhTmswd2RNMUtpWGltT3Z4RndYZzBJTmxzX19JLVk1YVVTTk52LUstaXNBb1JMVklZenM?oc=5",
+      "pub_date": 1764932768.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html",
+      "image": "https://media.zenfs.com/en/cryptonews_us_711/47574c9b83aed417ba4b14b68ce68276",
+      "description": "JPMorgan analysts say the near-term direction of Bitcoin\u2019s price now depends less on miner behavior and more on the financial resilience of Strategy, the world\u2019s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ..."
     },
     {
-      "headline": "Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5naTlSRjhHRTRtaHZybGpPRjdURWFjaEVyVnYzTm5RX3hZUVpQa1B0WWwxYmU4Tm9sMUdKVkFBdU5XNDUtWmJVbXpISmd1ck9oQmxHajdWbTJsc0lWNFNZb2kwZi0wbExOOVFlaWNpNVBVdzRpZllCQVloWDJZYnPSAYQBQVVfeXFMTk1qdkJBeG1Kajd0OFN6VjhWeVNGeWhTUWFnYmdoS0s5R1o2dG95aUpidkh6eWFINDNSd09Db3BOS0lpbFlOSkV6VkRjYUxIQkd3Nm15SVVwTzNGYjUwbjhBbmt4bVZLZ19Dc0ZCRkg1QTZDYzF3LXBOa3dGNWN6Mmk5RWRQ?oc=5",
-      "pub_date": 1764916938.0,
-      "article_url": "https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit",
-      "image": null,
-      "description": null
+      "headline": "Why JPMorgan says bitcoin could rocket to $170,000 in the coming months",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2c4WWkwZ1hoR0YtNGVDOEdjSnEwQU1GR0I4S21TSXZEekVHYUdpdmRiMVMzQ05NQU42TExCSUhfX3otTEdPMXRYS3pscy02Sk5HSjA0VVlKYVAxQ1R2QkVRanZyLUdIcV8waDVVM25oUTlwSzVhYzZsVUs0QVdpMjVnYjVVYWl0UFVPbnFWcXd1ckRmM3BTRms0QjI?oc=5",
+      "pub_date": 1764870360.0,
+      "article_url": "https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12",
+      "image": "https://i.insider.com/69319bec7ecd1d1da662e9ed?width=1200&format=jpeg",
+      "description": "JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term."
+    },
+    {
+      "headline": "Bitcoin Preis (BTC) Ausblick: JPM bleibt bei $170K Ziel",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTFIM2ZjZTlpRU12cF9hckdoUVlTZmlLbU1IM21NRnYtMWpTcWZsSkVFZTlCRDhNY0FZYkg1RDdaeUROeURQOXp2MlFfNEpCTXQ3TktUUWduZnR5c3dibW1odUpScm9kbTdOZ3FlU253SmY3WHIxM3RrUlhyNjgyVTBWd3RlcFlfdlFPV3NEOFMxc0gtYXV5bEs5VVZtaDd2dE9XRUFQeWY1aS1vRE1Ha1puaHZkeHRk?oc=5",
+      "pub_date": 1764951632.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/04/jpmorgan-retains-gold-linked-usd170k-bitcoin-target-despite-recent-plunge",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cea9f4fef04e3ac91c879f25c3304b72561be4c9-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The bank\u2019s volatility-adjusted bitcoin-to-gold model still points to a theoretical price around $170K over the next six to twelve months."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T17:45:43.374420+00:00"
+  "fetched_at": "2025-12-05T18:33:39.584277+00:00"
 }

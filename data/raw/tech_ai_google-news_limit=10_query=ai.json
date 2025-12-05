@@ -15,22 +15,32 @@
       "description": null
     },
     {
+      "headline": "New York Times sues Perplexity AI for 'illegal' copying of content",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmNXZ1dKdENGS0wxeklrNWZJSS1BXzRWckJUTUNoRXhrWF82MEFYN2NZMGd5WEQxWktYNXJLczY0Qnd6Q0owT01nakhYVnBORVBZMXRLMXBDSW1MTGdFNGxlQ2NuQjhmWm40NVF4NUtvQl9QNVhZLVFIRkltWWhUSURPdmVIWGVlVTlXZF9LcEMtWDB6ZlM2b1JRUnNMT0ZlalBLdzVETlc2R0FiYjloUVMyTQ?oc=5",
+      "pub_date": 1764952709.0,
+      "article_url": "https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The Times Sues Perplexity AI",
+      "source": "The New York Times Company",
+      "source_url": "https://www.nytco.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EaWVGLU85NHJ5dzJfd3J0Q2lBaGdpSWwydXdFaWtGLXBnNnpqN0ViYzA5VVdCV1picEVLbXM1VHN4djd6aERuTGVreUxsYU5QVmVnQmxXRFRTTnM5SzlXRzBJbWRHaWk3?oc=5",
+      "pub_date": 1764943722.0,
+      "article_url": "https://www.nytco.com/press/the-times-sues-perplexity-ai/",
+      "image": "https://nytco-assets.nytimes.com/2025/12/cc-t-white.png",
+      "description": "Today, The New York Times filed a lawsuit against Perplexity AI for copying Times journalism to deliver it to Perplexity\u2019s customers without permission or compensation."
+    },
+    {
       "headline": "ChatGPT started the AI race. Now its lead is looking shaky.",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem8wQjlxQVN2RUZIbW1udnlkZmhzSmFGVkx2bHU3clE1dFN6T096NXN6bmNZLWpWMGM0Y1VEUEVKMy1JWkFjN3pEUWc4bmZvTng4RWQ1Y0xQWmszVFpDbWNYRlpIcmRiR2VYZnNmUzhESHpaQ2lPUlp1cF9fcHNWeFNpeldpRU5MU05n?oc=5",
       "pub_date": 1764955924.0,
       "article_url": "https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI credit concerns playing out differently in investment grade and high yield, Goldman says",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHdxSkRBUjF3LVFiM2lZNGNKOENMeE91RHBBVWJEOVI2eXhtQWF6bG5VaC1tNlMwRUFqY3RiXzRoTnhRX1h3UFU4MHVaV0FucF91SDhmQm9CdV9VTGlXVmtxSXY3OUZHcUFyQmFTMVpDdEpoaDVsbC03MlVZcDQ0dWc1bGVhMWFyWlpMS2RBTklPdG5yN0Y3cy03aUY1SVc1SmNEc29fNnBGcnc5Z2NnU3Z0N2FxaklZLXA3amRNdDY?oc=5",
-      "pub_date": 1764952423.0,
-      "article_url": "https://www.reuters.com/business/ai-credit-concerns-playing-out-differently-investment-grade-high-yield-goldman-2025-12-05/",
       "image": null,
       "description": null
     },
@@ -45,14 +55,24 @@
       "description": null
     },
     {
-      "headline": "AI Startup Parloa Said to Seek $200 Million in New Funding Round",
+      "headline": "Watch The Quiet Giant Behind AI",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGFqYTJVNHJjR2JtNEVXd2JmZDJCNXFPZUdmcFJkNnU3SlVzY05hSTB4TllmTEFEaDZCaERKLVVwR195WndCWGU2aXA2M0tFQlRCSm5qSi1CRkIzWVFmNzdxd3FTSjJMTEZKVTdLaHlYTHpaOVo1UjdfaVJobjBuX2hBNVotdjhIM1RLLTNidnU5c2dWS2tDcFRLdEZFQks1UjF6SmVJRFlDUUJ4dk10RXpfRng?oc=5",
-      "pub_date": 1764953472.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-05/ai-startup-parloa-said-to-seek-200-million-in-new-funding-round",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioAT5Wi2yEyU/v1/1200x800.jpg",
-      "description": "Parloa, a German startup developing artificial intelligence for customer service, is looking to raise new funding that would significantly increase its valuation from May, according to people familiar with the matter."
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVQ2djRzREdwanYyOHczZHpHMlY5a0YtbFA5a3ptTDhhQzJySHRSN2ZCVVBEbmxZS2ZKeW1JNjJpMzdPVjRld3FhM21Sd1BYcFkyTlcwNGJYcTFkZXdXTGo2TngtT09ILWtJM2x6QzNCa1BPVHBUR0Rrd0ZxRnFHRGVYUjBFeGs?oc=5",
+      "pub_date": 1764955274.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2025-12-05/the-quiet-giant-behind-ai-video",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI is helping criminals create virtual kidnapping scams",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWDE0NEhfdWZ6V3p1ZXZ6bndzaUsxT256Y2w3U2xFaHlqYnBZWlh3ZU1INW1MN2RzUHZ3bDFPbEwzV3BZeFo4LWZYVTgyMElXTTZBR2FsTlYxQVNmYW9UX2RyQVJHejB1S25ybGhsanQ5MHFiQ3oxck1HR3JrQy1OWS0xR1dEdUJEeXZHMXRzbDMxXzJtSEE?oc=5",
+      "pub_date": 1764958157.0,
+      "article_url": "https://www.axios.com/2025/12/05/ai-videos-photos-scam-virtual-fbi-victim-ransom-kidnapping",
+      "image": null,
+      "description": null
     },
     {
       "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
@@ -83,28 +103,8 @@
       "article_url": "https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/",
       "image": "https://imageio.forbes.com/specials-images/imageserve/693133eaa5dc0082dddd0368/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "description": "Ali Ansari\u2019s decision to turn micro1\u2019s AI recruitment assistant into a data labeling business spiked the company\u2019s valuation from $80 million to $2.5 billion."
-    },
-    {
-      "headline": "Transformative AI is coming, and so are the risks",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40YlNrc2RVSmlLU2wya2lac0NsU3ltRXVzTThCNkRwUjltZDlSTkdoM3RYMTlvdlE3RmlaUHlJMU5SSWk3M2ZZa2Q0RmoybWVuNlJTWGF1eHduSEwzVVJxUXNtLWVEYVBSZ2JFOA?oc=5",
-      "pub_date": 1764936316.0,
-      "article_url": "https://www.axios.com/2025/12/05/ai-deepmind-hassabis-gemini",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "England World Cup draw: Could AI help Thomas Tuchel win 2026 tournament?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaanBmN1E1RmpXcHl6amQzR0o3SmFPa0lRM1BBUmM0MExrazF2WGh5aGdKYjBTUUN3LUJRT3BxZVByQzViSUdHc3NacXpZdVJPM3R3WWZKU2VWaFo5dEdNUGdnekVsdW8?oc=5",
-      "pub_date": 1764915468.0,
-      "article_url": "https://www.bbc.com/sport/football/articles/cj0e7y754zpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7acb/live/712184c0-ca4d-11f0-8c06-f5d460985095.jpg",
-      "description": "BBC Sport hears from inside the England setup about how artificial intelligence is powering plans for next summer's World Cup."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T17:45:41.348602+00:00"
+  "fetched_at": "2025-12-05T18:33:40.424320+00:00"
 }

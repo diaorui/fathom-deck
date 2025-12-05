@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T17:56:32.380921+00:00'
+updated: '2025-12-05T18:33:42.893478+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 17:56 UTC  
+**Last Updated:** December 05, 2025 at 18:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,411.28
+### $89,323.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.2%  
-**7d:** -1.7%  
-**30d:** -11.9%  
+**24h:** -2.7%  
+**7d:** -1.8%  
+**30d:** -12.0%  
 **90d:** -19.9%  
-**1y:** -10.4%  
+**1y:** -10.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1776.14B
+**Market Cap:** $1784.83B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-29.1%
 
 **All-Time Low:** $67.81
-+131180.0%
++131802.4%
 
 ---
 
@@ -77,21 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
+
+57m ago
+
+---
+
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
 5h ago
 
 ---
 
-**[Did my part , thanks](https://www.reddit.com/r/Bitcoin/comments/1pez7nm/did_my_part_thanks/)**
-
-1h ago
-
----
-
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -99,13 +99,29 @@ Rank #1
 
 Im only up 3000% now
 
-15h ago
+16h ago
 
 ---
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
 14h ago
+
+---
+
+**[I just get 100$ of btc](https://www.reddit.com/r/Bitcoin/comments/1pf0gru/i_just_get_100_of_btc/)**
+
+Hi I’m new to this. I don’t have a lot of money to put into it but wanted to start with 100. It’s ok ?
+
+1h ago
+
+---
+
+**[from "the big print" by Lawrence Lepard. I think we are not bullish enough](https://www.reddit.com/r/Bitcoin/comments/1pf1m8e/from_the_big_print_by_lawrence_lepard_i_think_we/)**
+
+... not in the slightest
+
+46m ago
 
 ---
 
@@ -117,17 +133,11 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ---
 
-**[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
+**[What stops someone from taking on as much credit card debt as they can, using all the money to buy Bitcoin, then declaring bankruptcy to absolve the debt and keep the profits?](https://www.reddit.com/r/Bitcoin/comments/1pf19nt/what_stops_someone_from_taking_on_as_much_credit/)**
 
-20m ago
+It can't just be as simple as that, can it? Maybe it is but I just know I would fuck it up. Obviously that can't be sustainable as a financial system but that's how it all seems to work outside of the Bitcoin system.
 
----
-
-**[I just get 100$ of btc](https://www.reddit.com/r/Bitcoin/comments/1pf0gru/i_just_get_100_of_btc/)**
-
-Hi I’m new to this. I don’t have a lot of money to put into it but wanted to start with 100. It’s ok ?
-
-53m ago
+59m ago
 
 ---
 
@@ -137,35 +147,15 @@ Hi I’m new to this. I don’t have a lot of money to put into it but wanted to
 
 ---
 
-**[Found this invoice in my old email](https://www.reddit.com/r/Bitcoin/comments/1pe0mlp/found_this_invoice_in_my_old_email/)**
-
-💀
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Is Set for First Yearly Split From Stocks in Decade](https://finance.yahoo.com/news/bitcoin-set-first-yearly-split-141041017.html)**
+**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
 
-The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday.
+The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
 
-Yahoo Finance • 57m ago
-
----
-
-**[Bitcoin is set for first yearly split from stocks in a decade](https://www.msn.com/en-us/money/markets/bitcoin-is-set-for-first-yearly-split-from-stocks-in-decade/ar-AA1RMKxN)**
-
-MSN • 31m ago
-
----
-
-**[Bitcoin Rebounds Off Lows, Rising Above $91,000](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025/card/bitcoin-rebounds-off-lows-hitting-90-000-KdjDmRT8dpAKaWd81I8V?gaa_at=eafs&gaa_n=AWEtsqfiQBjvhhMa4PuF3bqrgHKSe884TUQ7fmLOd3tATZbSegbZVjCKy0fT&gaa_ts=69331db1&gaa_sig=qaeSFTULttQ-oxpSwsoiJ4YgwnYLzPcuCSowHxW3qkuH2JLvCMTnj61mjwLKj1LGunr--PKaXFtyRmUjmMdTqA%3D%3D)**
-
-The Wall Street Journal • 2d ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -173,7 +163,7 @@ The Wall Street Journal • 2d ago
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -191,29 +181,47 @@ CNBC • 1d ago
 
 ---
 
-**[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
+**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html)**
 
-TheStreet • 5h ago
+A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
+
+Yahoo Finance • 2d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdaTJxsEEHCYBnMAa_UKYXJiDb9iCGjfiN3b-EkHvLnavlATxqVqkji&gaa_ts=69331db1&gaa_sig=PQeeWSGA1pixfND1xUNw9XHLNgSBBYXoQfBdphs2rsGypaGjnqax9z9MXqch2lmRXY0zEnUCq9T4z6f0VuVzPg%3D%3D)**
+**[Bitcoin’s Predicted Sky-High Prices Have Not Panned Out](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqebABqutJl1PdqKF7qv4oInCrubmafYiQQJmHLirkKrkCzNLxM_7gue&gaa_ts=693328f3&gaa_sig=dOGBSlEflFHe18GRcKbYPHBgHW8e8H4QCrbyvrRP9QZzUx8gx3yJppnynyYu7P89VMb6GiOuNQrZldX2nOBhbg%3D%3D)**
 
 MarketWatch • 21h ago
 
 ---
 
-**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
+**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
 
-BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
+JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
 
-Bloomberg.com • 2h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks](https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit)**
+**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
 
-The Block • 11h ago
+JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
+
+Business Insider • 1d ago
+
+---
+
+**[Bitcoin Preis (BTC) Ausblick: JPM bleibt bei $170K Ziel](https://www.coindesk.com/markets/2025/12/04/jpmorgan-retains-gold-linked-usd170k-bitcoin-target-despite-recent-plunge)**
+
+The bank’s volatility-adjusted bitcoin-to-gold model still points to a theoretical price around $170K over the next six to twelve months.
+
+CoinDesk • 2h ago
 
 ---
 
@@ -303,7 +311,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 1K • 💬 271 • ⏱️ 10:13 • 3h ago
+👁️ 14K • 👍 1K • 💬 271 • ⏱️ 10:13 • 4h ago
 
 ---
 
@@ -313,7 +321,7 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 865 • 💬 27 • ⏱️ 28:20 • 19h ago
+👁️ 22K • 👍 865 • 💬 27 • ⏱️ 28:20 • 20h ago
 
 ---
 
@@ -323,7 +331,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 326 • 💬 363 • ⏱️ 15:38 • 12h ago
+👁️ 10K • 👍 326 • 💬 363 • ⏱️ 15:38 • 13h ago
 
 ---
 
@@ -363,7 +371,7 @@ Crypto update - Bitcoin is unprecedented territory Bybit $30000 Bonus: https://b
 
 📺 MoneyZG
 
-👁️ 6K • 👍 598 • 💬 197 • ⏱️ 11:07 • 3h ago
+👁️ 6K • 👍 598 • 💬 197 • ⏱️ 11:07 • 4h ago
 
 ---
 

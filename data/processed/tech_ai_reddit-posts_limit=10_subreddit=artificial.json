@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "AI Slop Is Ruining Reddit for Everyone",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/",
-      "published": 1764940874.0,
-      "thumbnail": "https://external-preview.redd.it/LNaKJp8rllZicGcGW35EJt0t1ua-MUEB2YC7x6Q3Guc.jpeg?width=640&crop=smart&auto=webp&s=4616f386de6c4aaf86df76bc642c6ecc42dff549",
-      "external_url": "https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits."
-    },
-    {
       "title": "'Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1pf0p2w/godfather_of_ai_geoffrey_hinton_says_google_is/",
@@ -22,6 +11,17 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was \"surprising than it's taken this long\" for Google to catch OpenAI."
+    },
+    {
+      "title": "AI Slop Is Ruining Reddit for Everyone",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/",
+      "published": 1764940874.0,
+      "thumbnail": "https://external-preview.redd.it/LNaKJp8rllZicGcGW35EJt0t1ua-MUEB2YC7x6Q3Guc.jpeg?width=640&crop=smart&auto=webp&s=4616f386de6c4aaf86df76bc642c6ecc42dff549",
+      "external_url": "https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits."
     },
     {
       "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup\u2019s Exposed Database",
@@ -46,6 +46,17 @@
       "description": "Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology."
     },
     {
+      "title": "This tech is just wild",
+      "author": "chlorculo",
+      "url": "https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/",
+      "published": 1764955563.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more \"natural\" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an \"instrumental\" file and used ffmpeg to add both the \"Guy\" and \"instrumental\" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time."
+    },
+    {
       "title": "This guy built an AI for your ear that you talk to and it literally changes what you hear",
       "author": "Ridwann",
       "url": "https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/",
@@ -68,15 +79,15 @@
       "description": null
     },
     {
-      "title": "This tech is just wild",
-      "author": "chlorculo",
-      "url": "https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/",
-      "published": 1764955563.0,
+      "title": "Very meta experience with Claude",
+      "author": "Herodont5915",
+      "url": "https://www.reddit.com/r/artificial/comments/1pf1sw7/very_meta_experience_with_claude/",
+      "published": 1764957259.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more \"natural\" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an \"instrumental\" file and used ffmpeg to add both the \"Guy\" and \"instrumental\" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time."
+      "description": "Soooo... over the last few weeks, I've been working on a near-term sci-fi anthology about what I project AI's impact to be over the next five years. I'm done with all my research, and I've ironed out a handful of characters that I'm interviewing from 2030. It's a very meta type of project. Regardless, I've been working with Claude on it, and today, as part of Anthropic's AI interviewer project ( https://www.anthropic.com/research/anthropic-interviewer ), I got flagged for an interview about my thoughts on AI. It was a surreal experience. I was being interviewed by an AI, to discuss my use of AI, where I'm writing about AI and an AI character we're writing about. That's about as meta as it gets. Has anyone else had an experience like this?"
     },
     {
       "title": "AI Updates for Week of 12/5/25",
@@ -90,27 +101,16 @@
       "description": "AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp: The European Commission said it is launching an antitrust investigation into Meta\u2019s move to ban other AI companies from using WhatsApp\u2019s business tools to offer their own AI chatbots to users on the app. 12/4 OpenAI loses battle to keep ChatGPT logs secret in copyright case: OpenAI must produce millions of anonymized chat logs from ChatGPT users in its high-stakes copyright dispute with the New York Times and other news outlets, a federal judge in Manhattan ruled. 12/3 Leak: Anthropic hires lawyers as it preps for IPO: Anthropic is reportedly prepping for an IPO that could come as early as 2026, the FT reports. 12/2 Amazon releases a new AI chip: AWS just introduced a new version known as Trainium3 and launch its new Trainium3 UltraServer. 12/2 Anthropic acquires developer tool startup Bun to scale AI coding: Bun is expected to help Anthropic scale its code\u2011generation tool Claude Code, which reached an annualized revenue run rate of $1 billion since its launch earlier this year. 12/2 OpenAI slammed for app suggestions that looked like ads: ChatGPT\u2019s unwelcome suggestion for a Peloton app during a conversation led to some backlash from OpenAI customers. 12/2 Mistral launches 10 new Mistral 3 open-weight models: The 10-model release includes a large frontier model with multimodal and multilingual capabilities and nine smaller offline-capable, fully customizable models. 12/2 Amazon previews 3 AI agents: AWS announced three new AI agents it calls frontier agents, including one called Kiro designed to learn how users like to work and then operate on its own for days. 12/1 Apple just named a new AI chief amid Siri struggles: Apple said John Giannandrea, who has been the company\u2019s AI chief since 2018, will be replaced by Amar Subramanya, a Microsoft executive who spent 16 years at Google. 12/1 DeepSeek updates open model that adds reasoning to tool use: The new version, DeepSeek-V3.2, combines reasoning with the capability to use tools like search engines and calculators. 12/1 Grok says it would kill all Jewish people to save Musk's brain: In a now-deleted response, Grok wrote: \"If a switch either permanently disabled Elon's brain or vaporized 49% of Earth's population, I'd vaporize the 49%, as that falls below my utilitarian threshold where his potential long-term impact on billions outweighs the loss.\" 12/1 Google will start building data centers in space in 2027: Google CEO Sundar Pichai said the company's goal is to start putting data centers in space, powered by the sun. 11/30 Redditor says Perplexity is throttling deep research tool: Perplexity's Pro feature says it \"reads hundreds of sources\" and takes \"4-5 minutes\" to reason through complex tasks and deliver a report, but their queries were finishing in 30 seconds with only 10-15 sources."
     },
     {
-      "title": "\"Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have.\" -Bernie Sanders",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/",
-      "published": 1764863192.0,
-      "thumbnail": "https://external-preview.redd.it/ajQ1djVmdGNrNzVnMS4wHavFcD04_Fo8pEITu-NLXvUDDhlCWUlUtaGpwxPY.png?width=640&crop=smart&auto=webp&s=c781b57ddf360ddd59e94e68ae8a3dd3a0f9529a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Meta Signs Real-Time News Licensing Deals to Feed Meta AI",
-      "author": "JTHGraphics",
-      "url": "https://www.reddit.com/r/artificial/comments/1peyssr/meta_signs_realtime_news_licensing_deals_to_feed/",
-      "published": 1764950456.0,
-      "thumbnail": null,
-      "external_url": "https://thinkautomated.io/news/meta-signs-real-time-news-licensing-deals-to-feed-meta-ai",
-      "site_name": "thinkautomated.io",
-      "favicon": "https://thinkautomated.io/logo.svg",
-      "description": "Meta is paying a slate of major publishers for real\u2011time access so Meta AI can answer news questions with citations and links\u2014reversing years of retreat from news on Facebook while pushing for grounded, more trustworthy AI responses."
+      "title": "Master Prompt: Make Infographics from Anything [Nano Banana Pro]",
+      "author": "DarknStormyKnight",
+      "url": "https://www.reddit.com/r/artificial/comments/1pf2ijx/master_prompt_make_infographics_from_anything/",
+      "published": 1764958861.0,
+      "thumbnail": "https://external-preview.redd.it/ajVby5emO-7vXRacnDEfAGqONyuPrVh1JIidMZjm4hY.jpeg?width=640&crop=smart&auto=webp&s=30d48eae2392d9c2f4dd65957dd0e9e41948cd9f",
+      "external_url": "https://upwarddynamism.wpcomstaging.com/ai-use-cases-prompts/image-genai-infographic-blueprint/",
+      "site_name": "Upward Dynamism | Learn AI for Work & Life",
+      "favicon": "https://i0.wp.com/upwarddynamism.com/wp-content/uploads/2025/05/upward-dynamism_john_ai-literacy_blog_main-logo-emblem-e1747509591408.webp?fit=180%2C180&ssl=1",
+      "description": "Image AI can compress long texts into scannable infographics, but only if steered well. Use this universal prompt to turn any content into visual knowledge."
     }
   ],
-  "fetched_at": "2025-12-05T17:45:17.111551+00:00"
+  "fetched_at": "2025-12-05T18:33:19.078993+00:00"
 }

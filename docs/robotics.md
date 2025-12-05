@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T17:56:32.390224+00:00'
+updated: '2025-12-05T18:33:42.902812+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 17:56 UTC  
+**Last Updated:** December 05, 2025 at 18:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mecha
 
 AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
 
-4h ago
+5h ago
 
 ---
 
@@ -66,7 +66,7 @@ For a long time, many robotics teams believed that real robot interaction data w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 16h ago
 
 ---
 
@@ -74,7 +74,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Arthur C. Clarke said "Any sufficiently advanced technology is indistinguishable from magic". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 21m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 58m ago
 
 ---
 
@@ -84,27 +84,25 @@ Arthur C. Clarke said "Any sufficiently advanced technology is indistinguishable
 
 ---
 
-**[Marc Raibert on Why Robotics Needs More Transparency](https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/)**
-
-Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
-
-21h ago
-
----
-
 **[A potentially highly efficient image and video tokenizer for LLMs/VLAs.](https://www.reddit.com/r/robotics/comments/1peo0w3/a_potentially_highly_efficient_image_and_video/)**
 
 Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I’m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I’m posting it here in case anyone finds it interesting or useful.
 
-11h ago
+12h ago
 
 ---
 
-**[LYNX M20 / M20 PRO comes to the US - certified by FCC](https://www.reddit.com/r/robotics/comments/1pen7s8/lynx_m20_m20_pro_comes_to_the_us_certified_by_fcc/)**
+**[Marc Raibert on Why Robotics Needs More Transparency](https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=NAcanWv_2Z8) • 12h ago
+22h ago
+
+---
+
+**[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
+
+1d ago
 
 ---
 
@@ -130,7 +128,7 @@ IEEE Spectrum • 1d ago
 
 The Physical AI Market is accelerating as breakthroughs in robotics, computer vision, and edge AI enable smarter autonomous systems, with the U.S. segment rising from USD 1.52 billion in 2025E to USD 14.13 billion by 2033 amid strong innovation and growing automation adoption.Austin, Dec. 05, 2025 (GLOBE NEWSWIRE) -- The Physical AI Market Size is valued at USD 5.23 Billion in 2025E and is expected to reach USD 49.73 Billion by 2033 and grow at a CAGR of 32.53% during the forecast period. Rapid
 
-Yahoo Finance Singapore • 3h ago
+Yahoo Finance Singapore • 4h ago
 
 ---
 
@@ -138,15 +136,7 @@ Yahoo Finance Singapore • 3h ago
 
 Wise is building a team of experts in Silicon Valley to unify KUKA's software systems and apply AI to more robots.
 
-The Robot Report • 56m ago
-
----
-
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
-
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
-
-MLive.com • 21h ago
+The Robot Report • 1h ago
 
 ---
 
@@ -154,13 +144,13 @@ MLive.com • 21h ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 2h ago
+MIT News • 3h ago
 
 ---
 
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
-Investor's Business Daily • 20h ago
+Investor's Business Daily • 21h ago
 
 ---
 
@@ -180,11 +170,19 @@ Fierce Biotech • 2d ago
 
 ---
 
-**[Massimo Group (NASDAQ: MAMO) forms AI robotics division to enter global automation and smart-systems markets](https://www.stocktitan.net/news/MAMO/massimo-group-announces-formation-of-ai-robotics-division-expanding-p08w84pho0qe.html)**
+**[Video: Elon Musk’s Optimus humanoid robot masters human-like smooth running](https://interestingengineering.com/ai-robotics/optimus-humanoid-robot-masters-running)**
 
-Massimo Group forms Massimo AI Technology to develop industrial automation and logistics robotics, aiming to diversify revenue and expand beyond powersports and EVs.
+Tesla's Optimus robot achieved a major milestone, demonstrating smooth operation in a new lab video shared by Elon Musk.
 
-Stock Titan • 1d ago
+Interesting Engineering • 1d ago
+
+---
+
+**[Robotics Challenges Bedevil AI Evolution Of Housecleaning Robots](https://www.forbes.com/sites/johnwerner/2025/12/05/robotics-challenges-bedevil-ai-evolution-of-housecleaning-robots/)**
+
+Robots struggle with dishes because real-world manipulation, safety, cost, and data lag behind human-evolved dexterity.
+
+Forbes • 2h ago
 
 ---
 
@@ -248,7 +246,7 @@ Which one is the most humanlike? First, Tesla shared a 5-second clip of its Opti
 
 📺 Kalil 4.0
 
-👁️ 25K • 👍 157 • 💬 31 • ⏱️ 0:14 • 20h ago
+👁️ 25K • 👍 157 • 💬 31 • ⏱️ 0:14 • 21h ago
 
 ---
 

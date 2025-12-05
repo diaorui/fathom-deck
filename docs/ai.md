@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T17:56:32.372483+00:00'
+updated: '2025-12-05T18:33:42.884926+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 17:56 UTC  
+**Last Updated:** December 05, 2025 at 18:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[AI Slop Is Ruining Reddit for Everyone](https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/)**
-
-Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
-
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 4h ago
-
----
-
 **['Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'](https://www.reddit.com/r/artificial/comments/1pf0p2w/godfather_of_ai_geoffrey_hinton_says_google_is/)**
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 44m ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 1h ago
+
+---
+
+**[AI Slop Is Ruining Reddit for Everyone](https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/)**
+
+Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
+
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 5h ago
 
 ---
 
@@ -69,9 +69,17 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 ---
 
+**[This tech is just wild](https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/)**
+
+I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
+
+1h ago
+
+---
+
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -81,11 +89,11 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 ---
 
-**[This tech is just wild](https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/)**
+**[Very meta experience with Claude](https://www.reddit.com/r/artificial/comments/1pf1sw7/very_meta_experience_with_claude/)**
 
-I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
+Soooo... over the last few weeks, I've been working on a near-term sci-fi anthology about what I project AI's impact to be over the next five years. I'm done with all my research, and I've ironed out a handful of characters that I'm interviewing from 2030. It's a very meta type of project. Regardless, I've been working with Claude on it, and today, as part of Anthropic's AI interviewer project ( https://www.anthropic.com/research/anthropic-interviewer ), I got flagged for an interview about my thoughts on AI. It was a surreal experience. I was being interviewed by an AI, to discuss my use of AI, where I'm writing about AI and an AI character we're writing about. That's about as meta as it gets. Has anyone else had an experience like this?
 
-30m ago
+39m ago
 
 ---
 
@@ -93,21 +101,15 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp: The European Commission said it is launching an antitrust investigation into Meta’s move to ban other AI companies from using WhatsApp’s business tools to offer their own AI chatbots to users on the app. 12/4 OpenAI loses battle to keep ChatGPT logs secret in copyright case: OpenAI must produce millions of anonymized chat logs from ChatGPT users in its high-stakes copyright dispute with the New York Times and other news outlets, a federal judge in Manhattan ruled. 12/3 Leak: Anthropic hires lawyers as it preps for IPO: Anthropic is reportedly prepping for an IPO that could come as early as 2026, the FT reports. 12/2 Amazon releases a new AI chip: AWS just introduced a new version known as Trainium3 and launch its new Trainium3 UltraServer. 12/2 Anthropic acquires developer tool startup Bun to scale AI coding: Bun is expected to help Anthropic scale its code‑generation tool Claude Code, which reached an annualized revenue run rate of $1 billion since its launch earlier this year. 12/2 OpenAI slammed for app suggestions that looked like ads: ChatGPT’s unwelcome suggestion for a Peloton app during a conversation led to some backlash from OpenAI customers. 12/2 Mistral launches 10 new Mistral 3 open-weight models: The 10-model release includes a large frontier model with multimodal and multilingual capabilities and nine smaller offline-capable, fully customizable models. 12/2 Amazon previews 3 AI agents: AWS announced three new AI agents it calls frontier agents, including one called Kiro designed to learn how users like to work and then operate on its own for days. 12/1 Apple just named a new AI chief amid Siri struggles: Apple said John Giannandrea, who has been the company’s AI chief since 2018, will be replaced by Amar Subramanya, a Microsoft executive who spent 16 years at Google. 12/1 DeepSeek updates open model that adds reasoning to tool use: The new version, DeepSeek-V3.2, combines reasoning with the capability to use tools like search engines and calculators. 12/1 Grok says it would kill all Jewish people to save Musk's brain: In a now-deleted response, Grok wrote: "If a switch either permanently disabled Elon's brain or vaporized 49% of Earth's population, I'd vaporize the 49%, as that falls below my utilitarian threshold where his potential long-term impact on billions outweighs the loss." 12/1 Google will start building data centers in space in 2027: Google CEO Sundar Pichai said the company's goal is to start putting data centers in space, powered by the sun. 11/30 Redditor says Perplexity is throttling deep research tool: Perplexity's Pro feature says it "reads hundreds of sources" and takes "4-5 minutes" to reason through complex tasks and deliver a report, but their queries were finishing in 30 seconds with only 10-15 sources.
 
-2h ago
+3h ago
 
 ---
 
-**["Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have." -Bernie Sanders](https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/)**
+**[Master Prompt: Make Infographics from Anything [Nano Banana Pro]](https://www.reddit.com/r/artificial/comments/1pf2ijx/master_prompt_make_infographics_from_anything/)**
 
-1d ago
+Image AI can compress long texts into scannable infographics, but only if steered well. Use this universal prompt to turn any content into visual knowledge.
 
----
-
-**[Meta Signs Real-Time News Licensing Deals to Feed Meta AI](https://www.reddit.com/r/artificial/comments/1peyssr/meta_signs_realtime_news_licensing_deals_to_feed/)**
-
-Meta is paying a slate of major publishers for real‑time access so Meta AI can answer news questions with citations and links—reversing years of retreat from news on Facebook while pushing for grounded, more trustworthy AI responses.
-
-🔗 [thinkautomated.io](https://thinkautomated.io/news/meta-signs-real-time-news-licensing-deals-to-feed-meta-ai) • 1h ago
+🔗 [Upward Dynamism | Learn AI for Work & Life](https://upwarddynamism.wpcomstaging.com/ai-use-cases-prompts/image-genai-infographic-blueprint/) • 12m ago
 
 ---
 
@@ -117,33 +119,45 @@ Meta is paying a slate of major publishers for real‑time access so Meta AI can
 
 **[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
-**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
-
-The Washington Post • 24m ago
-
----
-
-**[AI credit concerns playing out differently in investment grade and high yield, Goldman says](https://www.reuters.com/business/ai-credit-concerns-playing-out-differently-investment-grade-high-yield-goldman-2025-12-05/)**
+**[New York Times sues Perplexity AI for 'illegal' copying of content](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
 
 Reuters • 1h ago
 
 ---
 
-**[Senators propose bill locking in current AI chip export controls](https://thehill.com/policy/technology/5635658-safe-chips-act-ai-export-control/)**
+**[The Times Sues Perplexity AI](https://www.nytco.com/press/the-times-sues-perplexity-ai/)**
 
-The Hill • 21m ago
+Today, The New York Times filed a lawsuit against Perplexity AI for copying Times journalism to deliver it to Perplexity’s customers without permission or compensation.
+
+The New York Times Company • 4h ago
 
 ---
 
-**[AI Startup Parloa Said to Seek $200 Million in New Funding Round](https://www.bloomberg.com/news/articles/2025-12-05/ai-startup-parloa-said-to-seek-200-million-in-new-funding-round)**
+**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
-Parloa, a German startup developing artificial intelligence for customer service, is looking to raise new funding that would significantly increase its valuation from May, according to people familiar with the matter.
+The Washington Post • 1h ago
+
+---
+
+**[Senators propose bill locking in current AI chip export controls](https://thehill.com/policy/technology/5635658-safe-chips-act-ai-export-control/)**
+
+The Hill • 58m ago
+
+---
+
+**[Watch The Quiet Giant Behind AI](https://www.bloomberg.com/news/videos/2025-12-05/the-quiet-giant-behind-ai-video)**
 
 Bloomberg.com • 1h ago
+
+---
+
+**[AI is helping criminals create virtual kidnapping scams](https://www.axios.com/2025/12/05/ai-videos-photos-scam-virtual-fbi-victim-ransom-kidnapping)**
+
+Axios • 24m ago
 
 ---
 
@@ -171,20 +185,6 @@ Forbes • 1d ago
 
 ---
 
-**[Transformative AI is coming, and so are the risks](https://www.axios.com/2025/12/05/ai-deepmind-hassabis-gemini)**
-
-Axios • 5h ago
-
----
-
-**[England World Cup draw: Could AI help Thomas Tuchel win 2026 tournament?](https://www.bbc.com/sport/football/articles/cj0e7y754zpo)**
-
-BBC Sport hears from inside the England setup about how artificial intelligence is powering plans for next summer's World Cup.
-
-BBC • 11h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -201,15 +201,7 @@ BBC • 11h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 942 • 💬 1040 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
-
----
-
-**[IBM CEO says there is 'no way' spending on AI data centers will pay off](https://news.ycombinator.com/item?id=46124324)**
-
-IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data center spending — and raised some doubts on if it'll prove profitable.
-
-⬆️ 838 • 💬 942 • 2d ago • [Business Insider](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
+⬆️ 943 • 💬 1041 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -225,7 +217,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 656 • 💬 614 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 662 • 💬 620 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -233,7 +225,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 419 • 💬 326 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 422 • 💬 328 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -241,7 +233,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 244 • 💬 200 • 21h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 244 • 💬 201 • 21h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -249,7 +241,7 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 
 Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume
 
-⬆️ 235 • 💬 190 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
+⬆️ 236 • 💬 190 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 
 ---
 
@@ -257,7 +249,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 196 • 💬 91 • 19h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 198 • 💬 91 • 20h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -266,6 +258,14 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many ​sales staff missed goals in the fiscal year that ‌ended in June, The Information reported on Wednesday.  It is rare for Microsoft to ‌lower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about ​real-world adoption of AI as an MIT study from earlier ‌this year had found that only about 5% of AI projects advance beyond the pilot stage.
 
 ⬆️ 129 • 💬 97 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
+
+---
+
+**[Ecosia: The greenest AI is here](https://news.ycombinator.com/item?id=46126964)**
+
+We’re building the world’s greenest AI. Find out how we’re harnessing new technology while continuing our mission of putting people and the planet first.
+
+⬆️ 128 • 💬 81 • 2d ago • [The Ecosia Blog](https://blog.ecosia.org/ecosia-ai/)
 
 ---
 
@@ -349,7 +349,7 @@ Pocket Option Full Trading Session with AI TRADING BOT for Binary Options Link -
 
 📺 AITRADINGGG v2
 
-👁️ 5K • 👍 630 • 1h ago
+👁️ 5K • 👍 630 • 2h ago
 
 ---
 
@@ -385,7 +385,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,122 • 3d ago
+⬇️ 152,916 • ❤️ 2,125 • 3d ago
 
 ---
 
@@ -397,7 +397,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 13,541 • ❤️ 725 • 4d ago
+⬇️ 13,541 • ❤️ 726 • 4d ago
 
 ---
 
@@ -409,7 +409,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 3,773 • ❤️ 507 • 4d ago
+⬇️ 3,773 • ❤️ 508 • 4d ago
 
 ---
 
@@ -433,7 +433,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 274 • 16h ago
+⬇️ 12,984 • ❤️ 279 • 16h ago
 
 ---
 
@@ -465,7 +465,7 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 214 • 3d ago
+⬇️ 0 • ❤️ 216 • 3d ago
 
 ---
 
@@ -477,7 +477,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 192,451 • ❤️ 891 • 8d ago
+⬇️ 192,451 • ❤️ 893 • 8d ago
 
 ---
 
@@ -495,20 +495,6 @@ z_image_turbo is a diffusion model designed for single-file image generation, li
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 141 • 💬 2 • ⭐ 4,635 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -520,6 +506,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 18 • 💬 2 • ⭐ 4,659 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 141 • 💬 2 • ⭐ 4,703 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -639,7 +639,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 392 • 14h ago
+⭐ 5.1k • 🔱 392 • 15h ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 814 • 🔱 103 • 2h ago
+⭐ 821 • 🔱 103 • 2h ago
 
 ---
 
@@ -699,7 +699,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 772 • 🔱 54 • 5d ago
+⭐ 773 • 🔱 54 • 5d ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 748 • 🔱 19 • 9d ago
+⭐ 748 • 🔱 19 • 10d ago
 
 ---
 
@@ -719,7 +719,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 706 • 🔱 14 • 16d ago
+⭐ 709 • 🔱 14 • 16d ago
 
 ---
 
@@ -729,7 +729,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 492 • 🔱 40 • 2d ago
+⭐ 493 • 🔱 40 • 2d ago
 
 ---
 

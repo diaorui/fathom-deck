@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T18:53:23.832624+00:00'
+updated: '2025-12-05T19:14:29.783321+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 18:53 UTC  
+**Last Updated:** December 05, 2025 at 19:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 1h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 6h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 7h ago
 
 ---
 
@@ -83,6 +83,14 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 ---
 
+**[The scariest scenario unfolding before our eyes - a case of fake "Dr. Avi Loeb" YouTube channel](https://www.reddit.com/r/artificial/comments/1pf3igs/the_scariest_scenario_unfolding_before_our_eyes_a/)**
+
+So, the defining moment everyone's been dreading, has actually happened .. and basically nobody noticed! We have a channel stealing the identity of a person who happens to be a respected public figure and a top level scientist, still online, spreading false information and fooling people. https://youtu.be/_bOF-yCspps?si=tT0d0Fqq6Rds1Zp6
+
+14m ago
+
+---
+
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
 🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 23h ago
@@ -93,7 +101,7 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 Soooo... over the last few weeks, I've been working on a near-term sci-fi anthology about what I project AI's impact to be over the next five years. I'm done with all my research, and I've ironed out a handful of characters that I'm interviewing from 2030. It's a very meta type of project. Regardless, I've been working with Claude on it, and today, as part of Anthropic's AI interviewer project ( https://www.anthropic.com/research/anthropic-interviewer ), I got flagged for an interview about my thoughts on AI. It was a surreal experience. I was being interviewed by an AI, to discuss my use of AI, where I'm writing about AI and an AI character we're writing about. That's about as meta as it gets. Has anyone else had an experience like this?
 
-59m ago
+1h ago
 
 ---
 
@@ -101,15 +109,7 @@ Soooo... over the last few weeks, I've been working on a near-term sci-fi anthol
 
 AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp: The European Commission said it is launching an antitrust investigation into Meta’s move to ban other AI companies from using WhatsApp’s business tools to offer their own AI chatbots to users on the app. 12/4 OpenAI loses battle to keep ChatGPT logs secret in copyright case: OpenAI must produce millions of anonymized chat logs from ChatGPT users in its high-stakes copyright dispute with the New York Times and other news outlets, a federal judge in Manhattan ruled. 12/3 Leak: Anthropic hires lawyers as it preps for IPO: Anthropic is reportedly prepping for an IPO that could come as early as 2026, the FT reports. 12/2 Amazon releases a new AI chip: AWS just introduced a new version known as Trainium3 and launch its new Trainium3 UltraServer. 12/2 Anthropic acquires developer tool startup Bun to scale AI coding: Bun is expected to help Anthropic scale its code‑generation tool Claude Code, which reached an annualized revenue run rate of $1 billion since its launch earlier this year. 12/2 OpenAI slammed for app suggestions that looked like ads: ChatGPT’s unwelcome suggestion for a Peloton app during a conversation led to some backlash from OpenAI customers. 12/2 Mistral launches 10 new Mistral 3 open-weight models: The 10-model release includes a large frontier model with multimodal and multilingual capabilities and nine smaller offline-capable, fully customizable models. 12/2 Amazon previews 3 AI agents: AWS announced three new AI agents it calls frontier agents, including one called Kiro designed to learn how users like to work and then operate on its own for days. 12/1 Apple just named a new AI chief amid Siri struggles: Apple said John Giannandrea, who has been the company’s AI chief since 2018, will be replaced by Amar Subramanya, a Microsoft executive who spent 16 years at Google. 12/1 DeepSeek updates open model that adds reasoning to tool use: The new version, DeepSeek-V3.2, combines reasoning with the capability to use tools like search engines and calculators. 12/1 Grok says it would kill all Jewish people to save Musk's brain: In a now-deleted response, Grok wrote: "If a switch either permanently disabled Elon's brain or vaporized 49% of Earth's population, I'd vaporize the 49%, as that falls below my utilitarian threshold where his potential long-term impact on billions outweighs the loss." 12/1 Google will start building data centers in space in 2027: Google CEO Sundar Pichai said the company's goal is to start putting data centers in space, powered by the sun. 11/30 Redditor says Perplexity is throttling deep research tool: Perplexity's Pro feature says it "reads hundreds of sources" and takes "4-5 minutes" to reason through complex tasks and deliver a report, but their queries were finishing in 30 seconds with only 10-15 sources.
 
-3h ago
-
----
-
-**[Master Prompt: Make Infographics from Anything [Nano Banana Pro]](https://www.reddit.com/r/artificial/comments/1pf2ijx/master_prompt_make_infographics_from_anything/)**
-
-Image AI can compress long texts into scannable infographics, but only if steered well. Use this universal prompt to turn any content into visual knowledge.
-
-🔗 [Upward Dynamism | Learn AI for Work & Life](https://upwarddynamism.wpcomstaging.com/ai-use-cases-prompts/image-genai-infographic-blueprint/) • 32m ago
+4h ago
 
 ---
 
@@ -117,47 +117,35 @@ Image AI can compress long texts into scannable infographics, but only if steere
 
 ## Google News: "ai"
 
-**[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
-
-The New York Times • 5h ago
-
----
-
-**[New York Times sues Perplexity AI for 'illegal' copying of content](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
-
-Reuters • 2h ago
-
----
-
-**[The Times Sues Perplexity AI](https://www.nytco.com/press/the-times-sues-perplexity-ai/)**
-
-Today, The New York Times filed a lawsuit against Perplexity AI for copying Times journalism to deliver it to Perplexity’s customers without permission or compensation.
-
-The New York Times Company • 4h ago
-
----
-
 **[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
 The Washington Post • 1h ago
 
 ---
 
-**[Senators propose bill locking in current AI chip export controls](https://thehill.com/policy/technology/5635658-safe-chips-act-ai-export-control/)**
+**[Opinion | A.I. Technology Needs the Bubble to Burst](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-The Hill • 1h ago
+The New York Times • 9h ago
 
 ---
 
-**[Watch The Quiet Giant Behind AI](https://www.bloomberg.com/news/videos/2025-12-05/the-quiet-giant-behind-ai-video)**
+**[AI deepfakes of real doctors spreading health misinformation on social media](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media)**
 
-Bloomberg.com • 1h ago
+Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
+
+The Guardian • 27m ago
 
 ---
 
 **[AI is helping criminals create virtual kidnapping scams](https://www.axios.com/2025/12/05/ai-videos-photos-scam-virtual-fbi-victim-ransom-kidnapping)**
 
-Axios • 44m ago
+Axios • 1h ago
+
+---
+
+**[Patchy Oversight Leaves GPs Adrift in AI ‘Wild West’](https://www.medscape.com/viewarticle/patchy-oversight-leaves-gps-adrift-ai-wild-west-2025a1000y65?src=rss)**
+
+Medscape • 23m ago
 
 ---
 
@@ -177,11 +165,23 @@ The Atlantic • 21h ago
 
 ---
 
-**[This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months](https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/)**
+**[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
 
-Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
+The New York Times • 5h ago
 
-Forbes • 1d ago
+---
+
+**[New York Times sues Perplexity AI for 'illegal' copying of content](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
+
+Reuters • 2h ago
+
+---
+
+**[The Times Sues Perplexity AI](https://www.nytco.com/press/the-times-sues-perplexity-ai/)**
+
+Today, The New York Times filed a lawsuit against Perplexity AI for copying Times journalism to deliver it to Perplexity’s customers without permission or compensation.
+
+The New York Times Company • 5h ago
 
 ---
 
@@ -217,7 +217,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 662 • 💬 620 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 664 • 💬 627 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -225,7 +225,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 422 • 💬 328 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 423 • 💬 330 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -233,7 +233,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 244 • 💬 201 • 21h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 244 • 💬 201 • 22h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -241,7 +241,7 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 
 Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume
 
-⬆️ 236 • 💬 190 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
+⬆️ 237 • 💬 190 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 
 ---
 
@@ -385,7 +385,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,125 • 3d ago
+⬇️ 152,916 • ❤️ 2,126 • 3d ago
 
 ---
 
@@ -397,7 +397,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 13,541 • ❤️ 726 • 4d ago
+⬇️ 13,541 • ❤️ 727 • 4d ago
 
 ---
 
@@ -443,7 +443,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 243 • 3d ago
+⬇️ 0 • ❤️ 244 • 3d ago
 
 ---
 
@@ -465,7 +465,7 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 216 • 3d ago
+⬇️ 0 • ❤️ 217 • 3d ago
 
 ---
 
@@ -477,7 +477,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 192,451 • ❤️ 893 • 8d ago
+⬇️ 192,451 • ❤️ 894 • 8d ago
 
 ---
 
@@ -639,7 +639,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 392 • 15h ago
+⭐ 5.1k • 🔱 392 • 16h ago
 
 ---
 

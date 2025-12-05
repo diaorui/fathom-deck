@@ -51,8 +51,8 @@
       "url": "https://arxiv.org/abs/2512.04047",
       "hn_url": "https://news.ycombinator.com/item?id=46145180",
       "author": "50kIters",
-      "points": 662,
-      "num_comments": 620,
+      "points": 664,
+      "num_comments": 627,
       "created_at": "2025-12-04T08:38:17Z",
       "object_id": "46145180",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -65,8 +65,8 @@
       "url": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
       "hn_url": "https://news.ycombinator.com/item?id=46148748",
       "author": "OptionOfT",
-      "points": 422,
-      "num_comments": 328,
+      "points": 423,
+      "num_comments": 330,
       "created_at": "2025-12-04T15:31:52Z",
       "object_id": "46148748",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/dartboard_missed-1152x648.jpg",
@@ -93,7 +93,7 @@
       "url": "https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/",
       "hn_url": "https://news.ycombinator.com/item?id=46133141",
       "author": "davedx",
-      "points": 236,
+      "points": 237,
       "num_comments": 190,
       "created_at": "2025-12-03T11:14:56Z",
       "object_id": "46133141",
@@ -145,7 +145,7 @@
       "site_name": "The Ecosia Blog"
     }
   ],
-  "total_hits": 567,
+  "total_hits": 566,
   "has_metadata": true,
-  "fetched_at": "2025-12-05T18:33:18.876450+00:00"
+  "fetched_at": "2025-12-05T19:14:02.143155+00:00"
 }

@@ -5,6 +5,76 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "ChatGPT started the AI race. Now its lead is looking shaky.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem8wQjlxQVN2RUZIbW1udnlkZmhzSmFGVkx2bHU3clE1dFN6T096NXN6bmNZLWpWMGM0Y1VEUEVKMy1JWkFjN3pEUWc4bmZvTng4RWQ1Y0xQWmszVFpDbWNYRlpIcmRiR2VYZnNmUzhESHpaQ2lPUlp1cF9fcHNWeFNpeldpRU5MU05n?oc=5",
+      "pub_date": 1764957600.0,
+      "article_url": "https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Opinion | A.I. Technology Needs the Bubble to Burst",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3A1S3Z6OEN6OENwQ0E2YVl2RHRyd051WEVtLWV3enJGcmhVc3c4S25DLVg0SkxqU2RnWlk4XzlCc19ycG9kLWdqTTd5RHRwUnp0T0ZXY185aVhhMTVGOGxaTzFHeGtEMGhubHZPaC1wS2swN0J2VVcta1BVWXEtNUlKdGVVQ3M?oc=5",
+      "pub_date": 1764928902.0,
+      "article_url": "https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI deepfakes of real doctors spreading health misinformation on social media",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYnh4VG1GYVNqb0NxNHpDX2ZNSEVjMDR0Q21Ga1NCNmRTSW5PTldNOFh6SUhIWDFKRHpsem9sQnZiUFNIVy1NV29QdVVmWmwxN3dObUw0dEtfVnpUTUlHb09RWEVfaFl2MEIzNzJzT2VMZU5EdUNsT3hwMnQtUC1tLTMtUU1RdHpWZzltZFFIRi03RGJHanpSV0RjM19KYmJ1MV83VUgxZTFtYWw5VHpkNHFCMGQyQUg0VGFHVS1vbWxrQQ?oc=5",
+      "pub_date": 1764960420.0,
+      "article_url": "https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media",
+      "image": "https://i.guim.co.uk/img/media/53cc24d57b561a7e7ce23d333cb5e045b3fa3970/3391_0_4059_3247/master/4059.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=88f69c6c03c9f7cbb051b81d2cae5e42",
+      "description": "Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects"
+    },
+    {
+      "headline": "AI is helping criminals create virtual kidnapping scams",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWDE0NEhfdWZ6V3p1ZXZ6bndzaUsxT256Y2w3U2xFaHlqYnBZWlh3ZU1INW1MN2RzUHZ3bDFPbEwzV3BZeFo4LWZYVTgyMElXTTZBR2FsTlYxQVNmYW9UX2RyQVJHejB1S25ybGhsanQ5MHFiQ3oxck1HR3JrQy1OWS0xR1dEdUJEeXZHMXRzbDMxXzJtSEE?oc=5",
+      "pub_date": 1764958157.0,
+      "article_url": "https://www.axios.com/2025/12/05/ai-videos-photos-scam-virtual-fbi-victim-ransom-kidnapping",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Patchy Oversight Leaves GPs Adrift in AI \u2018Wild West\u2019",
+      "source": "Medscape",
+      "source_url": "https://www.medscape.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUctLU5EVkxNc0MwVm13dXVfeVpvUHhEaGJROTJLNUd3eGV6Y1AxR0NEX0t4SGNxM0g5NXRSLVZqUEs1d0o0T3k3Ynk2bDZHcnZ1SUhDUzM1SDIwQzh6aklNSUdRQXJfNjVHRURkVTJYMXA5djZZRGgtMnMtMkJnT2NzdmVWQS00RVdKS0JCV0ZhaWdFSjFTOEZRRXVtYnFMTjR6eVlNamo?oc=5",
+      "pub_date": 1764960670.0,
+      "article_url": "https://www.medscape.com/viewarticle/patchy-oversight-leaves-gps-adrift-ai-wild-west-2025a1000y65?src=rss",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNazhnN0pQaWZoUjdfTUI5eW1QVFZNYWtPMEx3bUpaaTczTFM3cGlHNXQyVUJaOHctd3hCWktVWTNNeUVHbU5FdWpvQU5WSWlhUjZFRmtJdkw4Qjc1WU1aT1ZOUXRicUI3ekFHb2x5ak5xZXpNSjdiQXRxQjZKeXJ1dU81TDhzZjR4VzUwU2Y3Rzc3TXJRY1FRbjViVkNSMmlsWklXeTJuUGJHX0xlZDdrNmRPM2Z5YVZDbV9Gb3UzeTd3NnVVbXBnYWVhR2Y4czRZeHY5Y3dZYng4RVlkTmVpNEhfN1BXZFNQc0dxX0IxSFh3UnVTb1ZENXZocm5UeU5nMDAxUzFiRVNBeHRUZEZ1REVjZWlCZ2lvc25QMkZFY3J5dzl3OXlmQ0Z1dF9CY0plLXc?oc=5",
+      "pub_date": 1764864660.0,
+      "article_url": "https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1260047116-e1764863526884.jpg?resize=1200,600",
+      "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
+    },
+    {
+      "headline": "The Strange Disappearance of an Anti-AI Activist",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblRFRGN5LWFnTWxLc1dFYUJPa3ZUX2hESVQ3c3dZRXdWSEdBWWFYQklMOHlDWjdNaHpNN1pzRmVra21KUmZjS3o1VWpzSWtPUkVYUzFSZVliaFpYS1NwX3lGWlN3WDFHMFNpb3UwR3IyMW1INUdkWE12LVB4OFdZcGpmQmpacVVfbUs4?oc=5",
+      "pub_date": 1764884460.0,
+      "article_url": "https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/",
+      "image": "https://cdn.theatlantic.com/thumbor/Vd9VYHpNsmJ9y4u9dkQWQM8JyWE=/0x72:2876x1570/1200x625/media/img/mt/2025/12/pic/original.jpg",
+      "description": "Sam Kirchner wants to save the world from artificial superintelligence. He\u2019s been missing for two weeks."
+    },
+    {
       "headline": "New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -33,78 +103,8 @@
       "article_url": "https://www.nytco.com/press/the-times-sues-perplexity-ai/",
       "image": "https://nytco-assets.nytimes.com/2025/12/cc-t-white.png",
       "description": "Today, The New York Times filed a lawsuit against Perplexity AI for copying Times journalism to deliver it to Perplexity\u2019s customers without permission or compensation."
-    },
-    {
-      "headline": "ChatGPT started the AI race. Now its lead is looking shaky.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem8wQjlxQVN2RUZIbW1udnlkZmhzSmFGVkx2bHU3clE1dFN6T096NXN6bmNZLWpWMGM0Y1VEUEVKMy1JWkFjN3pEUWc4bmZvTng4RWQ1Y0xQWmszVFpDbWNYRlpIcmRiR2VYZnNmUzhESHpaQ2lPUlp1cF9fcHNWeFNpeldpRU5MU05n?oc=5",
-      "pub_date": 1764955924.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Senators propose bill locking in current AI chip export controls",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1dZcmJjYzdCY0V1dnlrd3RaYS1jc3lIR0FLZlRBa0QtU2lCZDNRcERyVTJ5UmJ2eXNkd3UweThvTzVPUzNhRnUwanR5TFowUHM4UVVqMnRuQUhSbnlEcGFHTWJKNDBza0tVWTVFcmhTaUt1NUdCRWpoazMwclI3bkxHZHJuUdIBiwFBVV95cUxOd1c3WURCQ0gzT2JPUnRQbE8zX2Vyd0hLaE1HQlp1cFpaMU1FcnNMaExFQ3FsMU9TNjRYTkM3enh4cW9VeERlb09UM0JDTWNQbDFsTXpndHBoVGp1b3BPTDMwbW5TSWd6RDZUYm1vUF9qd19BcFg0QV9iRFN4Q0NOYS0ybUh3a3dzOFFz?oc=5",
-      "pub_date": 1764956100.0,
-      "article_url": "https://thehill.com/policy/technology/5635658-safe-chips-act-ai-export-control/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Watch The Quiet Giant Behind AI",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVQ2djRzREdwanYyOHczZHpHMlY5a0YtbFA5a3ptTDhhQzJySHRSN2ZCVVBEbmxZS2ZKeW1JNjJpMzdPVjRld3FhM21Sd1BYcFkyTlcwNGJYcTFkZXdXTGo2TngtT09ILWtJM2x6QzNCa1BPVHBUR0Rrd0ZxRnFHRGVYUjBFeGs?oc=5",
-      "pub_date": 1764955274.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2025-12-05/the-quiet-giant-behind-ai-video",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI is helping criminals create virtual kidnapping scams",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWDE0NEhfdWZ6V3p1ZXZ6bndzaUsxT256Y2w3U2xFaHlqYnBZWlh3ZU1INW1MN2RzUHZ3bDFPbEwzV3BZeFo4LWZYVTgyMElXTTZBR2FsTlYxQVNmYW9UX2RyQVJHejB1S25ybGhsanQ5MHFiQ3oxck1HR3JrQy1OWS0xR1dEdUJEeXZHMXRzbDMxXzJtSEE?oc=5",
-      "pub_date": 1764958157.0,
-      "article_url": "https://www.axios.com/2025/12/05/ai-videos-photos-scam-virtual-fbi-victim-ransom-kidnapping",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNazhnN0pQaWZoUjdfTUI5eW1QVFZNYWtPMEx3bUpaaTczTFM3cGlHNXQyVUJaOHctd3hCWktVWTNNeUVHbU5FdWpvQU5WSWlhUjZFRmtJdkw4Qjc1WU1aT1ZOUXRicUI3ekFHb2x5ak5xZXpNSjdiQXRxQjZKeXJ1dU81TDhzZjR4VzUwU2Y3Rzc3TXJRY1FRbjViVkNSMmlsWklXeTJuUGJHX0xlZDdrNmRPM2Z5YVZDbV9Gb3UzeTd3NnVVbXBnYWVhR2Y4czRZeHY5Y3dZYng4RVlkTmVpNEhfN1BXZFNQc0dxX0IxSFh3UnVTb1ZENXZocm5UeU5nMDAxUzFiRVNBeHRUZEZ1REVjZWlCZ2lvc25QMkZFY3J5dzl3OXlmQ0Z1dF9CY0plLXc?oc=5",
-      "pub_date": 1764864660.0,
-      "article_url": "https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1260047116-e1764863526884.jpg?resize=1200,600",
-      "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
-    },
-    {
-      "headline": "The Strange Disappearance of an Anti-AI Activist",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblRFRGN5LWFnTWxLc1dFYUJPa3ZUX2hESVQ3c3dZRXdWSEdBWWFYQklMOHlDWjdNaHpNN1pzRmVra21KUmZjS3o1VWpzSWtPUkVYUzFSZVliaFpYS1NwX3lGWlN3WDFHMFNpb3UwR3IyMW1INUdkWE12LVB4OFdZcGpmQmpacVVfbUs4?oc=5",
-      "pub_date": 1764884460.0,
-      "article_url": "https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/",
-      "image": "https://cdn.theatlantic.com/thumbor/Vd9VYHpNsmJ9y4u9dkQWQM8JyWE=/0x72:2876x1570/1200x625/media/img/mt/2025/12/pic/original.jpg",
-      "description": "Sam Kirchner wants to save the world from artificial superintelligence. He\u2019s been missing for two weeks."
-    },
-    {
-      "headline": "This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVhRT3BCTnJuajdOa1BQeHJTZmNWMzZVbmM0UWZNeU1CSGJsbk51TUY5X19hTkhoMU0wcVBYaWZuUk52ejJvbkNzQzh6UVNOdWpnRXV5QmVhV2NpMjBxSUJqSmNsWjNFeGkycF9sZUZmcjdrMkZ5RFVXaFdMRG9ZRUt5YWJ3WXlkTlVJWENRNzRMbDI2SXVkNkJsTDJaZjl0azRSRTkyVUw0OENqM3NuVW9jbEo0bTM3SFhtVmpfeF83cG1FVm9IdQ?oc=5",
-      "pub_date": 1764870154.0,
-      "article_url": "https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/693133eaa5dc0082dddd0368/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "Ali Ansari\u2019s decision to turn micro1\u2019s AI recruitment assistant into a data labeling business spiked the company\u2019s valuation from $80 million to $2.5 billion."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T18:33:40.424320+00:00"
+  "fetched_at": "2025-12-05T19:14:20.535344+00:00"
 }

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T18:53:23.847197+00:00'
+updated: '2025-12-05T19:14:29.799822+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 18:53 UTC  
+**Last Updated:** December 05, 2025 at 19:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,033.27
+### $2,986.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
-**7d:** +0.5%  
-**30d:** -9.4%  
-**90d:** -30.4%  
-**1y:** -24.8%  
+**24h:** -4.3%  
+**7d:** +0.7%  
+**30d:** -9.3%  
+**90d:** -30.3%  
+**1y:** -24.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $367.92B
+**Market Cap:** $361.44B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.7%
+-39.2%
 
 **All-Time Low:** $0.43
-+699612.9%
++694233.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -158,7 +158,7 @@ Decrypt • 6h ago
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -166,15 +166,15 @@ The Block • 21h ago
 
 Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Ethereum RSI Now Under Spotlight: What Charts Suggest for ETH’s Future](https://vocal.media/trader/ethereum-rsi-now-under-spotlight-what-charts-suggest-for-eth-s-future)**
+**[Better Buy in 2026: Ethereum or Solana?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-solana)**
 
-Analyzing Ethereum’s RSI Trends to Predict Potential Price Moves and Market Sentiment
+Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
 
-vocal.media • 2h ago
+Nasdaq • 1d ago
 
 ---
 
@@ -204,15 +204,7 @@ Yahoo Finance • 7h ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 14h ago
-
----
-
-**[Better Buy in 2026: Ethereum or Solana?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-solana)**
-
-Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
-
-Nasdaq • 1d ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -220,7 +212,15 @@ Nasdaq • 1d ago
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-cheddar.com • 21h ago
+cheddar.com • 22h ago
+
+---
+
+**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
+
+Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
+
+Decrypt • 1d ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 135 • 💬 6 • ⏱️ 5:20 • 3h ago
+👁️ 1K • 👍 135 • 💬 6 • ⏱️ 5:20 • 4h ago
 
 ---
 
@@ -324,7 +324,7 @@ Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydf
 
 📺 BitBoy X
 
-👁️ 711 • 👍 118 • ⏱️ 25:41 • 1h ago
+👁️ 711 • 👍 118 • ⏱️ 25:41 • 2h ago
 
 ---
 

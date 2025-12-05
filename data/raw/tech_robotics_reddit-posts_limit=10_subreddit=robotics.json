@@ -57,17 +57,6 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
-      "title": "Making a Marauder's Map from Harry Potter",
-      "author": "davesarmoury",
-      "url": "https://www.reddit.com/r/robotics/comments/1pf1agl/making_a_marauders_map_from_harry_potter/",
-      "published": 1764956101.0,
-      "thumbnail": "https://external-preview.redd.it/lkbyF5afhW6Htup7fUyNQVABCSEpJ946WVXQNrql7uM.jpeg?width=320&crop=smart&auto=webp&s=7bd8c748c2ede63e1e653ef9114a146b3f7c00ea",
-      "external_url": "https://www.youtube.com/watch?v=dO32ImnsX-4",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
-      "description": "Arthur C. Clarke said \"Any sufficiently advanced technology is indistinguishable from magic\". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!"
-    },
-    {
       "title": "PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.",
       "author": "Important-Battle-374",
       "url": "https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/",
@@ -77,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Making a Marauder's Map from Harry Potter",
+      "author": "davesarmoury",
+      "url": "https://www.reddit.com/r/robotics/comments/1pf1agl/making_a_marauders_map_from_harry_potter/",
+      "published": 1764956101.0,
+      "thumbnail": "https://external-preview.redd.it/lkbyF5afhW6Htup7fUyNQVABCSEpJ946WVXQNrql7uM.jpeg?width=320&crop=smart&auto=webp&s=7bd8c748c2ede63e1e653ef9114a146b3f7c00ea",
+      "external_url": "https://www.youtube.com/watch?v=dO32ImnsX-4",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
+      "description": "Arthur C. Clarke said \"Any sufficiently advanced technology is indistinguishable from magic\". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!"
     },
     {
       "title": "A potentially highly efficient image and video tokenizer for LLMs/VLAs.",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-05T18:33:23.345000+00:00"
+  "fetched_at": "2025-12-05T19:14:06.505563+00:00"
 }

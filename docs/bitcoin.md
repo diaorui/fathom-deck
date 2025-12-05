@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T18:53:23.841062+00:00'
+updated: '2025-12-05T19:14:29.791833+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 18:53 UTC  
+**Last Updated:** December 05, 2025 at 19:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.0%  
-**7d:** -2.1%  
-**30d:** -12.3%  
-**90d:** -20.2%  
-**1y:** -10.8%  
+**24h:** -3.7%  
+**7d:** -2.0%  
+**30d:** -12.2%  
+**90d:** -20.1%  
+**1y:** -10.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1784.83B
+**Market Cap:** $1775.90B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.1%
+-29.3%
 
 **All-Time Low:** $67.81
-+131802.4%
++131318.7%
 
 ---
 
@@ -95,11 +95,25 @@ Rank #1
 
 ---
 
+**[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
+
+53m ago
+
+---
+
+**[I just get 100$ of btc](https://www.reddit.com/r/Bitcoin/comments/1pf0gru/i_just_get_100_of_btc/)**
+
+Hi I’m new to this. I don’t have a lot of money to put into it but wanted to start with 100. It’s ok ?
+
+2h ago
+
+---
+
 **[The Struggle….](https://www.reddit.com/r/Bitcoin/comments/1peipkt/the_struggle/)**
 
 Im only up 3000% now
 
-16h ago
+17h ago
 
 ---
 
@@ -109,9 +123,9 @@ Im only up 3000% now
 
 ---
 
-**[I just get 100$ of btc](https://www.reddit.com/r/Bitcoin/comments/1pf0gru/i_just_get_100_of_btc/)**
+**[What stops someone from taking on as much credit card debt as they can, using all the money to buy Bitcoin, then declaring bankruptcy to absolve the debt and keep the profits?](https://www.reddit.com/r/Bitcoin/comments/1pf19nt/what_stops_someone_from_taking_on_as_much_credit/)**
 
-Hi I’m new to this. I don’t have a lot of money to put into it but wanted to start with 100. It’s ok ?
+It can't just be as simple as that, can it? Maybe it is but I just know I would fuck it up. Obviously that can't be sustainable as a financial system but that's how it all seems to work outside of the Bitcoin system.
 
 1h ago
 
@@ -133,37 +147,29 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ---
 
-**[What stops someone from taking on as much credit card debt as they can, using all the money to buy Bitcoin, then declaring bankruptcy to absolve the debt and keep the profits?](https://www.reddit.com/r/Bitcoin/comments/1pf19nt/what_stops_someone_from_taking_on_as_much_credit/)**
-
-It can't just be as simple as that, can it? Maybe it is but I just know I would fuck it up. Obviously that can't be sustainable as a financial system but that's how it all seems to work outside of the Bitcoin system.
-
-1h ago
-
----
-
-**[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
+**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
 
-The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
+Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Bloomberg.com • 1h ago
+Decrypt • 1h ago
 
 ---
 
-**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
+**[BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now](https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now)**
 
-Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
+Fast Company • 52m ago
 
-Yahoo Finance • 4h ago
+---
+
+**[Bitcoin Options Show Traders Hunkering Down for Crypto Winter](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-options-show-traders-hunkering-down-for-crypto-winter)**
+
+Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
+
+Bloomberg.com • 27m ago
 
 ---
 
@@ -195,33 +201,23 @@ The New York Times • 2d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqebABqutJl1PdqKF7qv4oInCrubmafYiQQJmHLirkKrkCzNLxM_7gue&gaa_ts=693328f3&gaa_sig=dOGBSlEflFHe18GRcKbYPHBgHW8e8H4QCrbyvrRP9QZzUx8gx3yJppnynyYu7P89VMb6GiOuNQrZldX2nOBhbg%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeaBevxMGbiPker88TX1-MlfxfHXAZGEVwa6SY1UhsNDBiAyrrP9-7g&gaa_ts=6933327e&gaa_sig=A6NrUWxvOKliKqBhkVk-oWRxFAu5DLEVlA9x95NUTrXpDp_FU2DWRgo2uwyBh8EHPDoiTOKIyf9MjPpbo3SmyQ%3D%3D)**
 
 MarketWatch • 22h ago
 
 ---
 
-**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
+**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
 
-JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
+BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
 
-Yahoo Finance • 7h ago
-
----
-
-**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
-
-JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
-
-Business Insider • 1d ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin Preis (BTC) Ausblick: JPM bleibt bei $170K Ziel](https://www.coindesk.com/markets/2025/12/04/jpmorgan-retains-gold-linked-usd170k-bitcoin-target-despite-recent-plunge)**
+**[Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks](https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit)**
 
-The bank’s volatility-adjusted bitcoin-to-gold model still points to a theoretical price around $170K over the next six to twelve months.
-
-CoinDesk • 2h ago
+The Block • 12h ago
 
 ---
 
@@ -321,7 +317,7 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 865 • 💬 27 • ⏱️ 28:20 • 20h ago
+👁️ 22K • 👍 865 • 💬 27 • ⏱️ 28:20 • 21h ago
 
 ---
 
@@ -371,7 +367,7 @@ Crypto update - Bitcoin is unprecedented territory Bybit $30000 Bonus: https://b
 
 📺 MoneyZG
 
-👁️ 6K • 👍 598 • 💬 197 • ⏱️ 11:07 • 4h ago
+👁️ 6K • 👍 598 • 💬 197 • ⏱️ 11:07 • 5h ago
 
 ---
 

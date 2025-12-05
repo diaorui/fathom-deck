@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T18:53:23.850427+00:00'
+updated: '2025-12-05T19:14:29.803112+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 18:53 UTC  
+**Last Updated:** December 05, 2025 at 19:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,13 @@ For a long time, many robotics teams believed that real robot interaction data w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 16h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 17h ago
+
+---
+
+**[PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.](https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/)**
+
+13h ago
 
 ---
 
@@ -75,12 +81,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 Arthur C. Clarke said "Any sufficiently advanced technology is indistinguishable from magic". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!
 
 🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 1h ago
-
----
-
-**[PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.](https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/)**
-
-13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
 
-22h ago
+23h ago
 
 ---
 
@@ -120,15 +120,7 @@ Politico • 2d ago
 
 From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?
 
-IEEE Spectrum • 1d ago
-
----
-
-**[Physical AI Market to Hit USD 49.73 Billion by 2033, Owing to Advances in Robotics and Real-World Intelligent Systems | Research by SNS Insider](https://sg.finance.yahoo.com/news/physical-ai-market-hit-usd-143000230.html)**
-
-The Physical AI Market is accelerating as breakthroughs in robotics, computer vision, and edge AI enable smarter autonomous systems, with the U.S. segment rising from USD 1.52 billion in 2025E to USD 14.13 billion by 2033 amid strong innovation and growing automation adoption.Austin, Dec. 05, 2025 (GLOBE NEWSWIRE) -- The Physical AI Market Size is valued at USD 5.23 Billion in 2025E and is expected to reach USD 49.73 Billion by 2033 and grow at a CAGR of 32.53% during the forecast period. Rapid
-
-Yahoo Finance Singapore • 4h ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -136,7 +128,15 @@ Yahoo Finance Singapore • 4h ago
 
 Wise is building a team of experts in Silicon Valley to unify KUKA's software systems and apply AI to more robots.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
+
+---
+
+**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+
+Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+
+MLive.com • 23h ago
 
 ---
 
@@ -144,21 +144,13 @@ The Robot Report • 1h ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 3h ago
+MIT News • 4h ago
 
 ---
 
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
-Investor's Business Daily • 21h ago
-
----
-
-**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
-
-The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
-
-Barchart.com • 1d ago
+Investor's Business Daily • 22h ago
 
 ---
 
@@ -170,19 +162,25 @@ Fierce Biotech • 2d ago
 
 ---
 
-**[Video: Elon Musk’s Optimus humanoid robot masters human-like smooth running](https://interestingengineering.com/ai-robotics/optimus-humanoid-robot-masters-running)**
-
-Tesla's Optimus robot achieved a major milestone, demonstrating smooth operation in a new lab video shared by Elon Musk.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Robotics Challenges Bedevil AI Evolution Of Housecleaning Robots](https://www.forbes.com/sites/johnwerner/2025/12/05/robotics-challenges-bedevil-ai-evolution-of-housecleaning-robots/)**
 
 Robots struggle with dishes because real-world manipulation, safety, cost, and data lag behind human-evolved dexterity.
 
-Forbes • 2h ago
+Forbes • 3h ago
+
+---
+
+**[AI advances robot navigation on the International Space Station](https://news.stanford.edu/stories/2025/12/ai-robot-international-space-station-autonomous-missions)**
+
+Stanford Report • 2d ago
+
+---
+
+**[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
+
+The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
+
+NVIDIA Blog • 1d ago
 
 ---
 
@@ -206,7 +204,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 16K • 👍 120 • 💬 1 • ⏱️ 0:19 • 5h ago
+👁️ 16K • 👍 120 • 💬 1 • ⏱️ 0:19 • 6h ago
 
 ---
 
@@ -246,7 +244,7 @@ Which one is the most humanlike? First, Tesla shared a 5-second clip of its Opti
 
 📺 Kalil 4.0
 
-👁️ 25K • 👍 157 • 💬 31 • ⏱️ 0:14 • 21h ago
+👁️ 25K • 👍 157 • 💬 31 • ⏱️ 0:14 • 22h ago
 
 ---
 

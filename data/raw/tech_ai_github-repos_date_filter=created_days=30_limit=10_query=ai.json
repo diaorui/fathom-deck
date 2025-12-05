@@ -8,10 +8,10 @@
       "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
       "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
       "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
-      "stars": 4982,
+      "stars": 4996,
       "stars_display": "5.0k",
-      "forks": 383,
-      "forks_display": "383",
+      "forks": 384,
+      "forks_display": "384",
       "language": null,
       "topics": [
         "gemini",
@@ -30,7 +30,7 @@
       "description": "\ud83c\udf4cAwesome Prompts; Nano Banana\uff1bBanana Pro; Gemini\uff1bAI Studio\uff1bPrompt Quickly [\u5546\u5e97\u7248\u672c 1.3.0\uff0c\u6700\u65b0\u7248\u672c 1.4.0+\uff0c\u53ef\u9009\u62e9\u672c\u5730\u5b89\u88c5\u62a2\u5148\u4f53\u9a8c\u65b0\u529f\u80fd\uff0c\u5177\u4f53\u7248\u672c\u5dee\u5f02\u89c1\u4e0b\u65b9 release note]",
       "url": "https://github.com/glidea/banana-prompt-quicker",
       "preview_image": "https://opengraph.githubassets.com/375bae68ecaebf0a1a49c1a03fbc952041dce80eafd55379af04e509b5155928/glidea/banana-prompt-quicker",
-      "stars": 1362,
+      "stars": 1373,
       "stars_display": "1.4k",
       "forks": 117,
       "forks_display": "117",
@@ -50,7 +50,7 @@
       "description": "AI-powered git commit message rewriter using Ollama or GPT",
       "url": "https://github.com/f/git-rewrite-commits",
       "preview_image": "https://opengraph.githubassets.com/c6b09847c72773387ee5104f29860f48c86cb236c664f2498a9824bd0f2f1b88/f/git-rewrite-commits",
-      "stars": 1038,
+      "stars": 1043,
       "stars_display": "1.0k",
       "forks": 46,
       "forks_display": "46",
@@ -85,8 +85,8 @@
       "description": "Open Source Semantic Search for your AI Agent",
       "url": "https://github.com/Ryandonofrio3/osgrep",
       "preview_image": "https://opengraph.githubassets.com/d6f904bedb3bcbfddcb55a5ebb459b30a448d7a9be6f868c8f862737aa9dd35f/Ryandonofrio3/osgrep",
-      "stars": 818,
-      "stars_display": "818",
+      "stars": 819,
+      "stars_display": "819",
       "forks": 42,
       "forks_display": "42",
       "language": "TypeScript",
@@ -96,7 +96,7 @@
         "grep",
         "grep-search"
       ],
-      "updated_at": "2025-12-05T04:19:49Z"
+      "updated_at": "2025-12-05T05:33:39Z"
     },
     {
       "full_name": "bscript/rep",
@@ -165,8 +165,8 @@
       "description": "SAG - SQL\u9a71\u52a8\u7684RAG\u5f15\u64ce \u00b7 \u67e5\u8be2\u65f6\u81ea\u52a8\u6784\u5efa\u77e5\u8bc6\u56fe\u8c31 | SQL-Driven RAG Engine \u00b7 Automatically Build Knowledge Graph During Querying",
       "url": "https://github.com/Zleap-AI/SAG",
       "preview_image": "https://opengraph.githubassets.com/d69c3a3459df3344a794364f9b77e0fba1d1aebe7813f23952fcac697bf515c6/Zleap-AI/SAG",
-      "stars": 689,
-      "stars_display": "689",
+      "stars": 693,
+      "stars_display": "693",
       "forks": 14,
       "forks_display": "14",
       "language": "Python",
@@ -200,6 +200,6 @@
   "search_query": "ai created:>2025-11-05",
   "days": 30,
   "limit": 10,
-  "total_count": 215311,
-  "fetched_at": "2025-12-05T04:26:19.747829+00:00"
+  "total_count": 215661,
+  "fetched_at": "2025-12-05T05:35:32.387888+00:00"
 }

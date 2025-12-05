@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22677",
       "arxiv_url": "https://arxiv.org/abs/2511.22677",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22677.png",
-      "upvotes": 16,
+      "upvotes": 17,
       "num_comments": 2,
       "published_at": "2025-11-27T13:24:28.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-05T04:26:20.649794+00:00"
+  "fetched_at": "2025-12-05T05:35:31.994461+00:00"
 }

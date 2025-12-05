@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T05:11:19.283031+00:00'
+updated: '2025-12-05T05:35:43.393844+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 05:11 UTC  
+**Last Updated:** December 05, 2025 at 05:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ Marc Raibert talks about how robotics demos usually show only the polished succe
 
 Hi everyone, My husband is a mechanical engineer and has found his niche in robotics. He is mostly a simulation guy, but also enjoys machining. I’m trying to surprise him with a gift that he is not expecting. He never asks for anything and I think he deserves something that falls into his interests. If you guys have any ideas, please share! (Budget is $100-200)
 
-1h ago
+2h ago
 
 ---
 
 **[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hi everyone, My husband is a mechanical engineer and has found his niche in robo
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=cqLFY9FmWqk) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=cqLFY9FmWqk) • 5h ago
 
 ---
 
@@ -100,7 +100,7 @@ https://www.pi.website/blog/pistar06 New way to add RL to imitation learning Aft
 
 A short demo of an item-picking sequence inside a supermarket-style simulation environment. The robot’s navigation in this clip is teleoperated (not autonomous), and the goal is mainly to show how the pick action and scene interactions behave under the current physics setup. For anyone working with manipulation or sim-based workflows, feedback is welcome on aspects such as: motion quality or controller behavior, grasp sequence setup, physics consistency, scene design considerations for similar tasks. Interested in hearing how others approach supermarket-style manipulation tasks in simulation. BGM: Zatplast
 
-18h ago
+19h ago
 
 ---
 
@@ -126,7 +126,7 @@ IEEE Spectrum • 2d ago
 
 Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
 
-CBS News • 7h ago
+CBS News • 8h ago
 
 ---
 
@@ -134,7 +134,7 @@ CBS News • 7h ago
 
 In recent days, reports that the Trump administration is preparing an executive order and broader initiatives to accelerate U.S. robotics development have put Richtech Robotics in the spotlight, alongside news of Commerce Secretary Howard Lutnick meeting with industry CEOs. Richtech Robotics also announced a collaboration with NomadGo to integrate AI into inventory management, highlighting how policy momentum and product innovation are converging around the company’s automation...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -180,7 +180,7 @@ Bessemer Venture Partners • 2d ago
 
 Massimo Group forms Massimo AI Technology to develop industrial automation and logistics robotics, aiming to diversify revenue and expand beyond powersports and EVs.
 
-Stock Titan • 15h ago
+Stock Titan • 16h ago
 
 ---
 
@@ -280,7 +280,7 @@ Go Anywhere, Do anything, For everyone : MobED Learn more ...
 
 📺 Sydney McKenna
 
-👁️ 9K • 👍 903 • 💬 82 • ⏱️ 1:00 • 13h ago
+👁️ 9K • 👍 903 • 💬 82 • ⏱️ 1:00 • 14h ago
 
 ---
 

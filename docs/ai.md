@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T05:11:19.265010+00:00'
+updated: '2025-12-05T05:35:43.376173+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 05:11 UTC  
+**Last Updated:** December 05, 2025 at 05:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -91,7 +91,7 @@ Our RAG stack degraded slowly over months. Text-shape differences created differ
 
 The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence.
 
-🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 6h ago
+🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 7h ago
 
 ---
 
@@ -105,7 +105,7 @@ The U.S. Department of Health and Human Services has outlined a new strategy to 
 
 https://claude.ai/share/5439bbcf-e1b2-4ec0-be5c-63fdebfb7348 we may as well change things as quickly as possible. These big companies are too bloated. Easily out maneuvered - fuck these monopoly man. get out there and make something , solve a problem fix your corner of the world and don't try to become a billionaire try to become part of a fabric, part of a community, something tethered by love.
 
-6h ago
+7h ago
 
 ---
 
@@ -123,13 +123,13 @@ Fortune • 13h ago
 
 **[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
 
-The Economist • 17h ago
+The Economist • 18h ago
 
 ---
 
 **[On Pope Leo’s Visit to Lebanon and Turkey, A.I. Was a Frequent Concern](https://www.nytimes.com/2025/12/05/world/asia/pope-leo-lebanon-turkey-ai-technology.html)**
 
-The New York Times • 10m ago
+The New York Times • 34m ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 10m ago
 
 The boom makes it hard for competitors to step away from a treadmill of continuous acceleration.
 
-Foreign Policy • 8m ago
+Foreign Policy • 32m ago
 
 ---
 
@@ -175,7 +175,7 @@ Forbes • 11h ago
 
 Salesforce CEO Marc Benioff told CNBC's Jim Cramer how his company uses AI.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -241,7 +241,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 382 • 💬 292 • 13h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 382 • 💬 292 • 14h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -517,7 +517,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 16 • 💬 2 • ⭐ 4,561 • 7d ago
+▲ 17 • 💬 2 • ⭐ 4,561 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -638,7 +638,7 @@ SAM 3D is a generative model that reconstructs 3D objects from single images usi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.0k • 🔱 383 • 1h ago
+⭐ 5.0k • 🔱 384 • 2h ago
 
 ---
 
@@ -678,7 +678,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 818 • 🔱 42 • 51m ago
+⭐ 819 • 🔱 42 • 2m ago
 
 ---
 
@@ -688,7 +688,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 795 • 🔱 102 • 5h ago
+⭐ 795 • 🔱 102 • 6h ago
 
 ---
 
@@ -718,7 +718,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 689 • 🔱 14 • 15d ago
+⭐ 693 • 🔱 14 • 15d ago
 
 ---
 

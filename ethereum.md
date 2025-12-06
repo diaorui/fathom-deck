@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T05:55:34.413511+00:00'
+updated: '2025-12-06T06:31:03.721573+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 05:55 UTC  
+**Last Updated:** December 06, 2025 at 06:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,31 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** +1.6%  
-**30d:** -11.5%  
-**90d:** -29.5%  
-**1y:** -24.1%  
+**24h:** -4.2%  
+**7d:** +1.5%  
+**30d:** -11.6%  
+**90d:** -29.6%  
+**1y:** -24.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.52B
+**Market Cap:** $366.82B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.6%
+-38.5%
 
 **All-Time Low:** $0.43
-+701312.8%
++701885.5%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion December 06, 2025](https://www.reddit.com/r/ethereum/comments/1pfhy31/daily_general_discussion_december_06_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+30m ago
+
+---
+
+**[The wait is over! 🎥 All talks from the #EIPSummit at Devconnect Argentina are now live on the ECH Institute YouTube channel. 🇦🇷✨ From gas repricing to AI data standards, this is your masterclass on how Ethereum evolves. A thread of all sessions 👇🧵](https://www.reddit.com/r/ethereum/comments/1pfgpoi/the_wait_is_over_all_talks_from_the_eipsummit_at/)**
+
+1h ago
+
+---
 
 **[Revising ERC-2535 Diamonds to Simplify and Improve the Terminology](https://www.reddit.com/r/ethereum/comments/1pfgiab/revising_erc2535_diamonds_to_simplify_and_improve/)**
 
@@ -88,13 +102,7 @@ This is Part Six of the eight-part series: Can I Pay With This: A stablecoin exp
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
-
----
-
-**[The wait is over! 🎥 All talks from the #EIPSummit at Devconnect Argentina are now live on the ECH Institute YouTube channel. 🇦🇷✨ From gas repricing to AI data standards, this is your masterclass on how Ethereum evolves. A thread of all sessions 👇🧵](https://www.reddit.com/r/ethereum/comments/1pfgpoi/the_wait_is_over_all_talks_from_the_eipsummit_at/)**
-
-1h ago
+1d ago
 
 ---
 
@@ -138,14 +146,6 @@ A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glams
 
 ---
 
-**[Daily General Discussion December 04, 2025](https://www.reddit.com/r/ethereum/comments/1pdse8b/daily_general_discussion_december_04_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
@@ -192,9 +192,11 @@ Nasdaq • 1d ago
 
 ---
 
-**[Fusaka rollout kicks off Ethereum’s new twice-a-year hard-fork schedule](https://www.theblock.co/post/381285/fusaka-rollout-ethereum-twice-year-hard-fork-schedule)**
+**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
 
-The Block • 2d ago
+Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
+
+Decrypt • 2d ago
 
 ---
 
@@ -252,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 601 • 👍 53 • 💬 4 • ⏱️ 5:46 • 2h ago
+👁️ 601 • 👍 53 • 💬 4 • ⏱️ 5:46 • 3h ago
 
 ---
 
@@ -272,7 +274,7 @@ Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydf
 
 📺 BitBoy X
 
-👁️ 3K • 👍 233 • ⏱️ 25:41 • 12h ago
+👁️ 3K • 👍 233 • ⏱️ 25:41 • 13h ago
 
 ---
 
@@ -292,7 +294,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 5K • 👍 886 • 1h ago
+👁️ 5K • 👍 886 • 2h ago
 
 ---
 

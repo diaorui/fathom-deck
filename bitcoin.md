@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T05:55:34.407467+00:00'
+updated: '2025-12-06T06:31:03.715507+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 05:55 UTC  
+**Last Updated:** December 06, 2025 at 06:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,622.25
+### $89,609.57
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** -1.0%  
+**24h:** -2.6%  
+**7d:** -0.9%  
 **30d:** -13.5%  
-**90d:** -19.9%  
+**90d:** -19.8%  
 **1y:** -10.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1789.04B
+**Market Cap:** $1790.65B
 Rank #1
 
-**Circulating Supply:** 19,958,140 BTC
+**Circulating Supply:** 19,958,162 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-28.8%
 
 **All-Time Low:** $67.81
-+132066.3%
++132233.0%
 
 ---
 
@@ -87,19 +87,7 @@ Rank #1
 
 Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
 
-9h ago
-
----
-
-**[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
-
-11h ago
-
----
-
-**[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
-
-12h ago
+10h ago
 
 ---
 
@@ -111,9 +99,9 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 ---
 
-**[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
+**[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-17h ago
+12h ago
 
 ---
 
@@ -123,21 +111,33 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 ---
 
+**[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
+
+17h ago
+
+---
+
+**[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
+
+12h ago
+
+---
+
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
-3h ago
+4h ago
 
 ---
 
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-15h ago
+16h ago
 
 ---
 
-**[I just get 100$ of btc](https://www.reddit.com/r/Bitcoin/comments/1pf0gru/i_just_get_100_of_btc/)**
+**[Did you know you can generate a Bitcoin private key using a coin?](https://www.reddit.com/r/Bitcoin/comments/1pf234m/did_you_know_you_can_generate_a_bitcoin_private/)**
 
-Hi I’m new to this. I don’t have a lot of money to put into it but wanted to start with 100. It’s ok ?
+Most people let their wallet software generate their private key, which is totally fine but Bitcoin doesn’t require a computer to create one. A Bitcoin private key is just a 256-bit number… And a fair coin flip produces 1 bit of entropy. So in theory (and in practice), you can generate a completely valid, secure Bitcoin private key by doing: Heads = 1 Tails = 0 The math is simple. 256 coin flips is 2^256 potential outcomes. Once you have your 256-bit binary sequence, you can convert it offline into: hex format WIF private key or even a BIP39 seed phrase All without touching the internet. You could also do this with dice, a dice roll is roughly 2.585 bits of entropy. Therefore 99-100 dice rolls will give you enough entropy for a 256 bit private key. This works because Bitcoin’s security comes from math. I mean how could you not love Bitcoin!
 
 12h ago
 
@@ -147,17 +147,17 @@ Hi I’m new to this. I don’t have a lot of money to put into it but wanted to
 
 ## Google News: "bitcoin"
 
-**[BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now](https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now)**
+**[Bitcoin Options Show Traders Hunkering Down for Crypto Winter](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-options-show-traders-hunkering-down-for-crypto-winter)**
 
-Fast Company • 11h ago
+Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
+
+Bloomberg.com • 9h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
+**[BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now](https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now)**
 
-Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
-
-Decrypt • 11h ago
+Fast Company • 12h ago
 
 ---
 
@@ -165,7 +165,7 @@ Decrypt • 11h ago
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 2d ago
 
 Get caught up.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -205,15 +205,17 @@ The New York Times • 2d ago
 
 ---
 
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcMdhu7TWeEmzwuU7C6Z3s5K0NczOayHw3qIW_24ptdqn0X56aQTh87&gaa_ts=6933c26b&gaa_sig=fbvD7XL7LwNADdvKBhSTINwp5n12QSjE-2CVzBMs7wf-7-vk0OpEL6mVx-0egikbd7XIScml48zRQ7oYpAtQog%3D%3D)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqeJY3PwyFWfUEvRaMtkglpl_nMe7cncqxbnzW3qDXJ5zwf8NdfNOKdc&gaa_ts=6933d0e1&gaa_sig=Xsw8lIDeTomKy2M9j65is5TRETi_H-0R_brknhbfHNSzfc1PbHdcZpR-6xaQlqC-j9fTHwRPM--kSxIqTNKI-w%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
 ---
 
-**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
+**[Indiana Lawmaker Pushes for Bitcoin in Pensions, Crypto Payment Protections](https://decrypt.co/351112/indiana-lawmaker-pushes-bitcoin-pensions-crypto-payment-protections)**
 
-TheStreet • 10h ago
+A lawmaker in Indiana introduced legislation that would broaden access to Bitcoin and crypto exposure for savers in the Midwestern state.
+
+Decrypt • 13h ago
 
 ---
 
@@ -303,7 +305,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 21K • 👍 2K • 💬 311 • ⏱️ 10:23 • 12h ago
+👁️ 21K • 👍 2K • 💬 311 • ⏱️ 10:23 • 13h ago
 
 ---
 
@@ -313,7 +315,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 9K • 👍 90 • 💬 162 • ⏱️ 4:01 • 9h ago
+👁️ 9K • 👍 90 • 💬 162 • ⏱️ 4:01 • 10h ago
 
 ---
 
@@ -323,7 +325,7 @@ Everyone is screaming that Bitcoin is either going to zero or hitting a million 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 207 • ⏱️ 12:20 • 7h ago
+👁️ 19K • 👍 1K • 💬 207 • ⏱️ 12:20 • 8h ago
 
 ---
 
@@ -343,7 +345,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 87K • 👍 6K • 💬 405 • ⏱️ 15:38 • 18h ago
+👁️ 87K • 👍 6K • 💬 405 • ⏱️ 15:38 • 19h ago
 
 ---
 
@@ -353,7 +355,7 @@ Ben Cowen drops a major update: Jerome Powell just confirmed quantitative tighte
 
 📺 Bitcoin Magazine
 
-👁️ 1K • 👍 32 • 💬 44 • ⏱️ 7:52 • 9h ago
+👁️ 1K • 👍 32 • 💬 44 • ⏱️ 7:52 • 10h ago
 
 ---
 
@@ -373,7 +375,7 @@ Michael Saylor isn't just bullish — he's placing Bitcoin inside a countdown. B
 
 📺 The Bitcoin Revolution
 
-👁️ 2K • 👍 65 • 💬 46 • ⏱️ 13:29 • 13h ago
+👁️ 2K • 👍 65 • 💬 46 • ⏱️ 13:29 • 14h ago
 
 ---
 

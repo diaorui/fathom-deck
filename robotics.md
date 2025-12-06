@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T05:55:34.416770+00:00'
+updated: '2025-12-06T06:31:03.724861+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 05:55 UTC  
+**Last Updated:** December 06, 2025 at 06:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://youtu.be/UAlm8Z4mfpU
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now available! If you want a quick summary of the event I put together ROSCon 2025 Recap for the OpenCV Weekly Webinar.       For Giving Tuesday we put together a new campaign for ROS users to become a become a Build Farm Backer. If you’ve every saved a few minutes by running sudo apt install ros-kilted-* instead of compiling from source we would love it if you helped cover our compute costs. Also, for the first time ever, we...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 9h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 10h ago
 
 ---
 
@@ -116,7 +116,7 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-Seeking Alpha • 19h ago
+Seeking Alpha • 20h ago
 
 ---
 
@@ -140,13 +140,7 @@ Yahoo Finance • 1h ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 14h ago
-
----
-
-**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
-
-Investor's Business Daily • 1d ago
+MIT News • 15h ago
 
 ---
 
@@ -155,6 +149,12 @@ Investor's Business Daily • 1d ago
 Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
 
 MLive.com • 1d ago
+
+---
+
+**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -182,11 +182,11 @@ Fierce Biotech • 2d ago
 
 ---
 
-**[Bradford researchers to use robotic dogs and AI in wildfire trial](https://www.bbc.com/news/articles/c3w7xqdp04qo)**
+**[Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago](https://www.cnn.com/2025/12/03/asia/malaysia-mh370-robotics-search-latam-intl)**
 
-Bradford researchers will take part in a pilot scheme in Greece next year to help spot wildfires.
+Malaysia’s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
 
-BBC • 1d ago
+CNN • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T11:53:03.480874+00:00'
+updated: '2025-12-06T12:28:56.294068+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - social
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 11:53 UTC  
+**Last Updated:** December 06, 2025 at 12:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** +1.6%  
-**30d:** -11.5%  
-**90d:** -29.5%  
-**1y:** -24.1%  
+**24h:** -2.3%  
+**7d:** +1.3%  
+**30d:** -11.8%  
+**90d:** -29.7%  
+**1y:** -24.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $367.05B
+**Market Cap:** $366.46B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.5%
+-38.7%
 
 **All-Time Low:** $0.43
-+702167.3%
++700548.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -218,11 +218,11 @@ cheddar.com • 1d ago
 
 ---
 
-**[$4B in Bitcoin and Ethereum options set to expire](https://cryptobriefing.com/4-billion-btc-eth-options-expiry-impact/)**
+**[Jane Street Leads $105M Funding for Antithesis, a Testing Tool Used by Ethereum Network](https://www.coindesk.com/business/2025/12/03/jane-street-leads-usd105m-funding-for-antithesis-a-testing-tool-used-by-ethereum-network)**
 
-Around $4 billion in Bitcoin and Ethereum options contracts will expire today, potentially impacting market volatility.
+Antithesis said its Series A will scale deterministic simulation testing, replaying complex failures exactly for crypto and other always-on systems.
 
-Crypto Briefing • 22h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 84K • 👍 5K • 💬 475 • ⏱️ 11:16 • 1d ago
+👁️ 86K • 👍 5K • 💬 476 • ⏱️ 11:16 • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 39K • 👍 2K • 💬 134 • ⏱️ 17:37 • 1d ago
+👁️ 40K • 👍 2K • 💬 136 • ⏱️ 17:37 • 1d ago
 
 ---
 
@@ -256,67 +256,17 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 82K • 👍 3K • 💬 471 • ⏱️ 27:33 • 1d ago
+👁️ 83K • 👍 3K • 💬 475 • ⏱️ 27:33 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: I AM WARNING YOU AGAIN!!!! LISTEN THIS TIME!!!!!](https://www.youtube.com/watch?v=na9LpJZqDyY)**
+**[BITCOIN &amp; ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=iePIlGVy0ls)**
 
-What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get ready now!!! AI Trading Club: ...
+BITCOIN & ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
-📺 Thomas Kralow
+📺 Crypto World
 
-👁️ 26K • 👍 3K • 💬 40 • ⏱️ 10:24 • 2d ago
-
----
-
-**[🚨🇺🇸  ETH Price TODAY!!! | MASSIVE Bets on Ethereum!! 👀](https://www.youtube.com/watch?v=K2iD6ZbNQIw)**
-
-Real-time crypto analysis — join my VIP Telegram.
-
-📺 Marzell Crypto
-
-👁️ 1K • 👍 37 • 💬 133 • ⏱️ 5:24 • 22h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJ8VniUMYIs)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 121 • 💬 5 • ⏱️ 5:46 • 8h ago
-
----
-
-**[BREAKING : ETH to $22K - Ethereum Fusaka Upgrade!](https://www.youtube.com/watch?v=y_aYcH8fwrQ)**
-
-The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was designed to in ways that improve scalability, ...
-
-📺 Altcoin Buzz
-
-👁️ 3K • 👍 139 • 💬 199 • ⏱️ 9:21 • 22h ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 18K • 👍 423 • 💬 381 • ⏱️ 15:38 • 1d ago
-
----
-
-**[The Ethereum Opportunity 🤩 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=e36j9AYaMiI)**
-
-Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #crypto #altcoins Join Premium: ...
-
-📺 Bearhard - Bitcoin Strategy
-
-👁️ 59 • 👍 1 • 💬 12 • ⏱️ 0:54 • 2h ago
+👁️ 1K • 👍 126 • 💬 151 • ⏱️ 21:34 • 1h ago
 
 ---
 
@@ -326,7 +276,57 @@ Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydf
 
 📺 BitBoy X
 
-👁️ 4K • 👍 241 • ⏱️ 25:41 • 18h ago
+👁️ 4K • 👍 247 • ⏱️ 25:41 • 19h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJ8VniUMYIs)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 139 • 💬 26 • ⏱️ 5:46 • 9h ago
+
+---
+
+**[🚨 BTC &amp; ETH: I AM WARNING YOU AGAIN!!!! LISTEN THIS TIME!!!!!](https://www.youtube.com/watch?v=na9LpJZqDyY)**
+
+What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get ready now!!! AI Trading Club: ...
+
+📺 Thomas Kralow
+
+👁️ 27K • 👍 3K • 💬 40 • ⏱️ 10:24 • 2d ago
+
+---
+
+**[ETH Ethereum Price Prediction: 5th of December](https://www.youtube.com/watch?v=eGcX64tTJGI)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 480 • 👍 35 • 💬 6 • ⏱️ 7:09 • 17h ago
+
+---
+
+**[🚨🇺🇸  ETH Price TODAY!!! | MASSIVE Bets on Ethereum!! 👀](https://www.youtube.com/watch?v=K2iD6ZbNQIw)**
+
+Real-time crypto analysis — join my VIP Telegram.
+
+📺 Marzell Crypto
+
+👁️ 1K • 👍 38 • 💬 133 • ⏱️ 5:24 • 22h ago
+
+---
+
+**[BREAKING : ETH to $22K - Ethereum Fusaka Upgrade!](https://www.youtube.com/watch?v=y_aYcH8fwrQ)**
+
+The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was designed to in ways that improve scalability, ...
+
+📺 Altcoin Buzz
+
+👁️ 3K • 👍 142 • 💬 199 • ⏱️ 9:21 • 22h ago
 
 ---
 

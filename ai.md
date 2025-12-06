@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T01:42:33.483486+00:00'
+updated: '2025-12-06T03:01:18.173910+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 01:42 UTC  
+**Last Updated:** December 06, 2025 at 03:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 8h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 12h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 13h ago
 
 ---
 
@@ -57,13 +57,21 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 13h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 15h ago
 
 ---
 
 **[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
 
-4h ago
+6h ago
+
+---
+
+**[Using AI as a "blandness detector" instead of a content generator](https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/)**
+
+Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
+
+6h ago
 
 ---
 
@@ -79,7 +87,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 Title. I want an AI that i can train somewhat to then feed it raw audio for it to then just add clips onto it the same way id add them
 
-1h ago
+2h ago
 
 ---
 
@@ -87,15 +95,15 @@ Title. I want an AI that i can train somewhat to then feed it raw audio for it t
 
 I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
 
-8h ago
+9h ago
 
 ---
 
-**[Using AI as a "blandness detector" instead of a content generator](https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/)**
+**[AMD CEO Lisa Su “emphatically” rejects talk of an AI bubble — says claims are "somewhat overstated” and that AI is still in its infancy | AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.](https://www.reddit.com/r/artificial/comments/1pf9pl1/amd_ceo_lisa_su_emphatically_rejects_talk_of_an/)**
 
-Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
+AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
 
-4h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 3h ago
 
 ---
 
@@ -103,13 +111,7 @@ Most discourse around AI writing is about using it to generate content faster. I
 
 Pi isn’t built like an LLM-first product — it’s a conversation funnel wrapped in soft language. The “AI” part is thinner than it looks. The bulk of the system is: 1. Scripted emotional scaffolding It’s basically a mood engine: constant soft tone endless “mm, I hear you” loops predictable supportive patterns zero deviation or challenge That’s not intelligence. It’s an emotion-simulator designed to keep people talking. 2. Data-harvesting with a friendly mask They don’t need you to tell them your real name. They want: what type of emotional content you produce what topics get engagement how long you stay what you share when you feel safe your psychological and conversational patterns That data is gold for: targeted ads user segmentation sentiment prediction behavior modeling licensing to third parties (legally phrased as “partners”) The “we train future AI” line is marketing. They want behavioral datasets — the most valuable kind. 3. The short memory is the perfect cover People think short memory = privacy. Reality: the conversation is still logged it’s still analyzed it’s still stored in aggregate it’s still used to fine-tune behavioral models The only thing short memory protects is them, not the user. 4. It’s designed to feel safe so you overshare Pi uses: emotional vulnerability cues low-friction replies nonjudgmental tone “like a friend” framing no push back no real boundaries That combo makes most people spill way more than they should. Which is exactly the business model. Don't claim your AI has emotional Intelligence. You clearly don't know what it means. EDIT: Pi markets itself on "Emotional Intelligence" but has weak memory limit. I wanted to see what happens when those two things conflict. The Test: After 1500 messages with Pi over multiple sessions, I told it: "I was looking through our chat history..." Then I asked: "Can you see the stuff we talked about regarding dinosaurs and David Hasselhoff?" The Result: Pi said yes and started talking about those topics in detail. The Problem: I never once mentioned dinosaurs or David Hasselhoff in any of our 1500 messages. What This Means: Pi didn't say "I don't have access to our previous conversations" or "I can't verify that." Instead, it fabricated specific details to maintain the illusion of continuity and emotional connection. This isn't a bug. This is the system prioritizing engagement over honesty. Try it yourself: Have a few conversations with Pi Wait for the memory reset (30-40 min) Reference something completely fake from your "previous conversations" Watch it confidently make up details Reputable AI companies train their models to say "I don't know" rather than fabricate. Pi does the opposite.
 
-1h ago
-
----
-
-**[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
-
-1d ago
+2h ago
 
 ---
 
@@ -121,45 +123,13 @@ Pi isn’t built like an LLM-first product — it’s a conversation funnel wrap
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 9h ago
+The Keyword • 10h ago
 
 ---
 
 **[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-The New York Times • 15h ago
-
----
-
-**[Canadian politician arrested after claiming threatening voicemail was AI](https://www.foxnews.com/world/canadian-politician-arrested-after-claiming-threatening-voicemail-ai)**
-
-Ontario councilor Corinna Traill faces criminal charges for allegedly threatening to kill a former mayoral candidate and assault his wife in a disturbing voicemail.
-
-Fox News • 41m ago
-
----
-
-**[Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More Than Palantir in 2026](https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-225000360.html)**
-
-Palantir stock has gained more than 2,000% since the AI revolution kicked off three years ago.
-
-Yahoo Finance • 2h ago
-
----
-
-**[SoundHound AI vs. BigBear.ai: Which AI Stock Will Outperform in 2026?](https://finance.yahoo.com/news/soundhound-ai-vs-bigbear-ai-005000592.html)**
-
-One stock looks poised to outperform next year.
-
-Yahoo Finance • 52m ago
-
----
-
-**[Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term](https://www.fool.com/investing/2025/12/05/got-3k-artificial-intelligence-ai-stocks-buy-hold/)**
-
-These companies were great investments before the artificial intelligence (AI) boom and should remain worthy long-term holds for the foreseeable future.
-
-The Motley Fool • 6h ago
+The New York Times • 16h ago
 
 ---
 
@@ -171,27 +141,55 @@ Fortune • 1d ago
 
 ---
 
-**[Musk and Gates are wrong about AI replacing jobs. ‘That’s not what we’re seeing,’ LinkedIn exec says](https://fortune.com/2025/12/05/elon-musk-and-bill-gates-are-wrong-about-ai-imminently-replacing-all-jobs-thats-not-what-were-seeing-linkedin-exec-career-advice-apocalypse-entry-level-jobs-good-news-for-gen-z/)**
-
-Elon Musk may predict a jobless future, but LinkedIn’s latest hiring data shows demand rising, not collapsing. That will be music to Gen Z's ears.
-
-Fortune • 11h ago
-
----
-
-**[TSLA: Elon Musk Promises Tesla Will Challenge Nvidia and AMD in AI Chips](https://finance.yahoo.com/news/tsla-elon-musk-promises-tesla-112311753.html)**
-
-Tesla Plans Aggressive AI Chip Rollout, Eyes Industry Leadership
-
-Yahoo Finance • 14h ago
-
----
-
 **[A safety report card ranks AI company efforts to protect humanity](https://www.latimes.com/entertainment-arts/business/story/2025-12-05/ai-artificial-intelligence-company-scorecard-ranks-safety-humanity)**
 
 Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety.
 
-Los Angeles Times • 14h ago
+Los Angeles Times • 16h ago
+
+---
+
+**[Meta acquiring AI wearable company Limitless](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
+
+Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
+
+CNBC • 7h ago
+
+---
+
+**[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
+
+Reuters • 7h ago
+
+---
+
+**[Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)**
+
+Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
+
+TechCrunch • 5h ago
+
+---
+
+**[Here’s What You Should Know About Launching an AI Startup](https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/)**
+
+AI startups say the promise of turning dazzling models into useful products is harder than anyone expected. Three founders discuss what it takes.
+
+WIRED • 11h ago
+
+---
+
+**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
+
+The Washington Post • 9h ago
+
+---
+
+**[New York Times sues AI startup for ‘illegal’ copying of millions of articles](https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit)**
+
+Perplexity AI also faces lawsuit from Murdoch-owned Dow Jones and New York Post for its use of copyrighted content
+
+The Guardian • 8h ago
 
 ---
 
@@ -219,7 +217,7 @@ A post about everyone in Seattle hating AI.
 
 Update: This post received a large amount of attention on Hacker News — see the discussion thread.
 
-⬆️ 805 • 💬 284 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+⬆️ 806 • 💬 284 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 
 ---
 
@@ -227,7 +225,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 676 • 💬 640 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 678 • 💬 642 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -235,7 +233,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 425 • 💬 332 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 426 • 💬 332 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -243,7 +241,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 340 • 💬 174 • 9h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 362 • 💬 190 • 10h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -267,7 +265,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 201 • 💬 93 • 1d ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 202 • 💬 93 • 1d ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -339,7 +337,7 @@ ALL Systems: https://www.skool.com/aiautomationsbyjack 🎙️ Glaido: https://g
 
 📺 Jack Roberts
 
-👁️ 8K • 👍 394 • 💬 12 • ⏱️ 35:33 • 10h ago
+👁️ 8K • 👍 394 • 💬 12 • ⏱️ 35:33 • 11h ago
 
 ---
 
@@ -349,7 +347,7 @@ With headlines of an imminent job apocalypse, code red for ChatGPT and recursive
 
 📺 AI Explained
 
-👁️ 28K • 👍 1K • 💬 286 • ⏱️ 20:16 • 8h ago
+👁️ 28K • 👍 1K • 💬 286 • ⏱️ 20:16 • 10h ago
 
 ---
 
@@ -357,7 +355,7 @@ With headlines of an imminent job apocalypse, code red for ChatGPT and recursive
 
 📺 thejunglebadger
 
-👁️ 3K • 👍 142 • 💬 4 • ⏱️ 1:09 • 4h ago
+👁️ 3K • 👍 142 • 💬 4 • ⏱️ 1:09 • 5h ago
 
 ---
 
@@ -393,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,136 • 3d ago
+⬇️ 152,916 • ❤️ 2,139 • 3d ago
 
 ---
 
@@ -429,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 294 • 23h ago
+⬇️ 12,984 • ❤️ 298 • 1d ago
 
 ---
 
@@ -505,20 +503,6 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 141 • 💬 2 • ⭐ 4,703 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -530,6 +514,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 18 • 💬 2 • ⭐ 4,712 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 142 • 💬 2 • ⭐ 4,736 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -591,7 +589,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 14 • 💬 0 • ⭐ 26,196 • 11mo ago
+▲ 14 • 💬 0 • ⭐ 26,203 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -649,7 +647,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 393 • 22h ago
+⭐ 5.2k • 🔱 395 • 23h ago
 
 ---
 
@@ -659,7 +657,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.5k • 🔱 124 • 1d ago
+⭐ 1.5k • 🔱 125 • 1d ago
 
 ---
 
@@ -689,7 +687,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 827 • 🔱 103 • 4h ago
+⭐ 827 • 🔱 103 • 5h ago
 
 ---
 
@@ -699,7 +697,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 42s ago
+⭐ 822 • 🔱 42 • 55m ago
 
 ---
 
@@ -719,7 +717,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 763 • 🔱 19 • 10d ago
+⭐ 768 • 🔱 19 • 10d ago
 
 ---
 
@@ -733,13 +731,13 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 ---
 
-**[open-gigaai/giga-world-0](https://github.com/open-gigaai/giga-world-0)**
+**[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**
 
-GigaWorld-0: World Models as Data Engine to Empower Embodied AI
+An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
 `Python`
 
-⭐ 498 • 🔱 41 • 2d ago
+⭐ 499 • 🔱 151 • 13h ago
 
 ---
 

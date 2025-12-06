@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T16:40:56.085451+00:00'
+updated: '2025-12-06T16:53:33.752206+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 16:40 UTC  
+**Last Updated:** December 06, 2025 at 16:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -0.9%  
-**30d:** -13.4%  
-**90d:** -19.8%  
-**1y:** -10.1%  
+**24h:** +0.1%  
+**7d:** -1.1%  
+**30d:** -13.6%  
+**90d:** -19.9%  
+**1y:** -10.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1795.57B
+**Market Cap:** $1792.83B
 Rank #1
 
 **Circulating Supply:** 19,958,375 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-28.8%
 
 **All-Time Low:** $67.81
-+132547.1%
++132241.8%
 
 ---
 
@@ -125,19 +125,19 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
-18h ago
+19h ago
+
+---
+
+**[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
+
+16h ago
 
 ---
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
 14h ago
-
----
-
-**[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
-
-15h ago
 
 ---
 
@@ -153,25 +153,11 @@ Bloomberg.com • 10h ago
 
 ---
 
-**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
+**[Bitcoin Options Show Traders Hunkering Down for Crypto Winter](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-options-show-traders-hunkering-down-for-crypto-winter)**
 
-As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
+Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
 
-CoinDesk • 1h ago
-
----
-
-**[BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now](https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now)**
-
-Fast Company • 22h ago
-
----
-
-**[Is bitcoin really digital gold? In 2025, the leading crypto has failed to answer that question](https://www.cnbc.com/2025/12/05/bitcoin-digital-gold-crypto-store-of-value.html)**
-
-Bitcoin's big drop from a record price has led to questions about crypto's correlation to the broader market, and what it really represents in a portfolio.
-
-CNBC • 1d ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -185,7 +171,7 @@ Yahoo Finance • 1h ago
 
 **[Scam so convincing victim ignores police, puts thousands into Cryptocurrency ATM](https://fox8.com/news/scam-artist-so-convincing-elderly-victim-ignores-police-pleas-to-stop-puts-thousands-into-cryptocurrency-atm/)**
 
-FOX 8 News • 3h ago
+FOX 8 News • 4h ago
 
 ---
 
@@ -207,13 +193,27 @@ CNBC • 2d ago
 
 A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqfraqqqYW-TJLt59YJ4o3mc4CT5XG3Bk_9nq-3UKLLG2OiOS8Y8kehK&gaa_ts=69345a22&gaa_sig=QvGt1l6PUagirWFNpRJIWpgJR2g5ZcW4C2NwzdCXFXIxwSOZxlS_5BVPu9nu2Nb3yGJg8KMjxdWSIjsn9tVxQw%3D%3D)**
+**[Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
 
-MarketWatch • 1d ago
+The New York Times • 3d ago
+
+---
+
+**[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
+
+The Block • 1d ago
+
+---
+
+**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+
+JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
+
+Business Insider • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T16:40:56.075173+00:00'
+updated: '2025-12-06T16:53:33.744594+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 16:40 UTC  
+**Last Updated:** December 06, 2025 at 16:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,19 +61,19 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 ---
 
-**[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
-
-… and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
-
-54m ago
-
----
-
 **[The Strange Disappearance of an Anti-AI Activist | Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.](https://www.reddit.com/r/artificial/comments/1pfhump/the_strange_disappearance_of_an_antiai_activist/)**
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
 🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 10h ago
+
+---
+
+**[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
+
+… and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
+
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 If you use AI for writing, have you found a way for it to capture your voice so that the output doesn’t sound like it was written by artificial intelligence?
 
-🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 3h ago
+🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 4h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Keyword • 1d ago
 
 Jeep is one of the first automakers to fully leverage AI image generation in its marketing materials.
 
-Detroit Free Press • 49m ago
+Detroit Free Press • 1h ago
 
 ---
 
@@ -156,6 +156,12 @@ The Verge • 2h ago
 Country songwriter Breland says songs created with AI should be labeled as such and money made off them should go to grants for human artists.
 
 Rolling Stone • 2h ago
+
+---
+
+**[Nvidia vs. Everybody Else: Competition Mounts Against the Top AI Chip Company](https://www.wsj.com/tech/ai/nvidia-ai-chips-competitors-amd-broadcom-google-amazon-6729c65a?gaa_at=eafs&gaa_n=AWEtsqdpBfX_FhGZBB-j9fwDMCDRdMwjUj0UD4paDOCOoRISjnfg9E-OgbdD&gaa_ts=693462fb&gaa_sig=4xuN60ntmkCGXymA9Kw4g9fU6P1QxgGW9qRoDoOuyb3Jn1edShmNifZyChryB4BgBH0gnhB5dB3RM_4lA5jNPw%3D%3D)**
+
+The Wall Street Journal • 8h ago
 
 ---
 
@@ -185,15 +191,7 @@ ABC News • 6h ago
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-CNBC • 20h ago
-
----
-
-**[Meta buys AI pendant start-up Limitless to expand hardware push](https://www.ft.com/content/a1a7adab-506e-4623-8f7a-0b7c94c8d6b4)**
-
-Deal indicates Zuckerberg is exploring other types of artificial intelligence-powered devices beyond smart glasses
-
-Financial Times • 18h ago
+CNBC • 21h ago
 
 ---
 
@@ -229,7 +227,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 501 • 💬 257 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 506 • 💬 262 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -237,7 +235,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 430 • 💬 332 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 431 • 💬 333 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -245,7 +243,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 346 • 💬 199 • 15h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 347 • 💬 201 • 15h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -269,7 +267,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 Welcome to the slop era.
 
-⬆️ 96 • 💬 172 • 23h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 97 • 💬 172 • 23h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -301,7 +299,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Grok 4.2 is about to fli
 
 📺 BitBiasedAI
 
-👁️ 12K • 👍 359 • 💬 38 • ⏱️ 15:14 • 21h ago
+👁️ 12K • 👍 359 • 💬 38 • ⏱️ 15:14 • 22h ago
 
 ---
 
@@ -409,7 +407,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 743 • 5d ago
+⬇️ 18,140 • ❤️ 746 • 5d ago
 
 ---
 
@@ -421,7 +419,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 4,718 • ❤️ 516 • 5d ago
+⬇️ 4,718 • ❤️ 518 • 5d ago
 
 ---
 
@@ -433,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 339 • 1d ago
+⬇️ 20,067 • ❤️ 343 • 1d ago
 
 ---
 
@@ -445,7 +443,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,530 • ❤️ 342 • 4d ago
+⬇️ 2,530 • ❤️ 343 • 4d ago
 
 ---
 
@@ -465,7 +463,7 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 226 • 4d ago
+⬇️ 0 • ❤️ 227 • 4d ago
 
 ---
 
@@ -543,7 +541,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 28 • 💬 2 • ⭐ 324 • 4d ago
+▲ 29 • 💬 2 • ⭐ 324 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -561,18 +559,6 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 22 • 💬 0 • ⭐ 25,448 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -584,6 +570,18 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 ▲ 105 • 💬 4 • ⭐ 5,317 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
+
+---
+
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 22 • 💬 0 • ⭐ 25,461 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -651,7 +649,7 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.2k • 🔱 404 • 1d ago
+⭐ 5.2k • 🔱 405 • 1d ago
 
 ---
 
@@ -691,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 869 • 🔱 105 • 4h ago
+⭐ 881 • 🔱 105 • 4h ago
 
 ---
 
@@ -701,7 +699,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 823 • 🔱 43 • 10h ago
+⭐ 823 • 🔱 43 • 11h ago
 
 ---
 
@@ -711,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 806 • 🔱 22 • 2h ago
+⭐ 808 • 🔱 22 • 2h ago
 
 ---
 
@@ -731,7 +729,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 729 • 🔱 14 • 17d ago
+⭐ 730 • 🔱 14 • 17d ago
 
 ---
 
@@ -741,7 +739,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 640 • 🔱 215 • 9h ago
+⭐ 645 • 🔱 218 • 9h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T16:15:47.811762+00:00'
+updated: '2025-12-06T16:40:56.096059+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 16:15 UTC  
+**Last Updated:** December 06, 2025 at 16:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 Meet Octoid, the squishy robot that changes from blue to green to red.
 
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 7m ago
+🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 32m ago
 
 ---
 
@@ -66,7 +66,7 @@ Meet Octoid, the squishy robot that changes from blue to green to red.
 
 https://youtu.be/UAlm8Z4mfpU
 
-16h ago
+17h ago
 
 ---
 
@@ -74,7 +74,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +82,7 @@ Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*
 
 Dear community, The Unified Autonomy Stack targets generalization across robot morphologies and operational domains. We’re excited to open-source the Unified Autonomy Stack - a step toward a common blueprint for autonomy across robot configurations in the air, on land (and soon at sea). The stack centers on three broadly applicable modules: Perception: a multi-modal SLAM system fusing LiDAR, radar, vision, and IMU, complemented by VLM-based scene reasoning for object-level understanding and mission context. Planning: multi-stage planners enabling safe navigation, autonomous exploration, and efficient inspection planning in complex environments. Navigation & Multi-layered Safety: combining map-based collision avoidance and reactive navigation — including (a) Neural SDF-based NMPC (ensuring collision-free motion even in unknown or perceptually degraded spaces), (b) Exteroceptive Deep RL, and (c) Control Barrier Function-based safety filters. Validated extensively on rotary-wing and ground robots such as multirotors and legged robots (while several of its modules are also tested on fixed-wing aircraft and underwater ROVs), the stack has demonstrated resilient autonomy in GPS-denied and challenging field conditions. To support adoption, we additionally release UniPilot, a reference hardware design integrating a full sensing suite, time-synchronization electronics, and high-performance compute capable of running the entire stack with room for further development. This open-source release marks a step toward a unified autonomy blueprint spanning air, land, and sea. Repository: https://github.com/ntnu-arl/unified_autonomy_stack Documentation: https://ntnu-arl.github.io/unified_autonomy_stack/ We hope you find this useful for your research!
 
-42m ago
+1h ago
 
 ---
 
@@ -198,7 +198,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 64K • 👍 507 • 💬 254 • ⏱️ 2:30 • 3d ago
+👁️ 65K • 👍 510 • 💬 256 • ⏱️ 2:30 • 3d ago
 
 ---
 
@@ -208,7 +208,17 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 12K • 👍 270 • 💬 145 • ⏱️ 4:05 • 1d ago
+👁️ 13K • 👍 277 • 💬 149 • ⏱️ 4:05 • 1d ago
+
+---
+
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+
+📺 AI Revolution
+
+👁️ 47K • 👍 1K • 💬 250 • ⏱️ 12:07 • 16h ago
 
 ---
 
@@ -218,7 +228,17 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 98K • 💬 604 • ⏱️ 1:21 • 3d ago
+👁️ 99K • 💬 608 • ⏱️ 1:21 • 3d ago
+
+---
+
+**[AI Spider Quadruped Robot Wall-Climbing &amp; Web-Swing Demo at 2025  Robotic Expo in Silicon Valley](https://www.youtube.com/watch?v=EFOb_DZ1Wjk)**
+
+In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completely new way of moving. It walks through the ...
+
+📺 AI Robot Lab
+
+👁️ 2K • 👍 32 • ⏱️ 0:25 • 1h ago
 
 ---
 
@@ -226,7 +246,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 AI . Robot
 
-👁️ 1.2M • 👍 7K • 💬 44 • ⏱️ 0:17 • 2d ago
+👁️ 1.3M • 👍 7K • 💬 44 • ⏱️ 0:17 • 2d ago
 
 ---
 
@@ -236,7 +256,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 94K • 👍 481 • 💬 5 • ⏱️ 0:19 • 1d ago
+👁️ 96K • 👍 492 • 💬 5 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -246,7 +266,7 @@ Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.c
 
 📺 InsideAI
 
-👁️ 590K • 👍 24K • 💬 3K • ⏱️ 14:58 • 6d ago
+👁️ 600K • 👍 24K • 💬 3K • ⏱️ 14:58 • 6d ago
 
 ---
 
@@ -256,7 +276,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 110K • 👍 426 • 💬 11 • ⏱️ 0:19 • 1d ago
+👁️ 111K • 👍 434 • 💬 11 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -266,27 +286,7 @@ Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-t
 
 📺 New York Post
 
-👁️ 5K • 👍 98 • 💬 65 • ⏱️ 2:06 • 1d ago
-
----
-
-**[Where’s my robot butler? | If You&#39;re Listening](https://www.youtube.com/watch?v=WwCCgOK8HGw)**
-
-Tech companies are in an arms race to develop the first mass-produced humanoid robot, convinced they will revolutionise the ...
-
-📺 ABC News In-depth
-
-👁️ 54K • 👍 2K • ⏱️ 20:44 • 19h ago
-
----
-
-**[AI Humanoid Robot Awakens for the First Time at an LA Tech Expo #HumanoidRobot #AIrobot](https://www.youtube.com/watch?v=6l8elhGM6cE)**
-
-Inside a high-security robotics lab in Los Angeles, a next-gen humanoid robot is activated for the very first time. Engineers run final ...
-
-📺 AI Robot Lab
-
-👁️ 514K • 👍 4K • 💬 39 • ⏱️ 0:34 • 3d ago
+👁️ 6K • 👍 105 • 💬 69 • ⏱️ 2:06 • 1d ago
 
 ---
 

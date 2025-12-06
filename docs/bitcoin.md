@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T16:15:47.802606+00:00'
+updated: '2025-12-06T16:40:56.085451+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 16:15 UTC  
+**Last Updated:** December 06, 2025 at 16:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
+**24h:** +0.3%  
 **7d:** -0.9%  
 **30d:** -13.4%  
 **90d:** -19.8%  
@@ -79,19 +79,19 @@ Rank #1
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -105,13 +105,13 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -131,7 +131,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 1h ago
 
 **[BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now](https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now)**
 
-Fast Company • 21h ago
+Fast Company • 22h ago
 
 ---
 
@@ -283,23 +283,13 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
-**[bitcoin is about to change forever (and nobody even realises)](https://www.youtube.com/watch?v=fE1XaJjBwkg)**
+**[Bitcoin &amp; AI Just Hit A MAJOR Inflection Point](https://www.youtube.com/watch?v=FpQ7qHwOp5U)**
 
-bitcoin is having some massive changes and I see nobody talking about them. future is bright fam Check out Casa's free guide on ...
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience, and he also writes a Substack ...
 
-📺 BTC Isla
+📺 Anthony Pompliano
 
-👁️ 27K • 👍 2K • 💬 382 • ⏱️ 10:23 • 23h ago
-
----
-
-**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
-
-Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
-
-📺 Benjamin Cowen
-
-👁️ 100K • 👍 6K • 💬 422 • ⏱️ 15:38 • 1d ago
+👁️ 7K • 👍 897 • ⏱️ 48:57 • 2h ago
 
 ---
 
@@ -309,17 +299,27 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 9K • 👍 504 • 💬 388 • ⏱️ 9:08 • 15h ago
+👁️ 10K • 👍 521 • 💬 399 • ⏱️ 9:08 • 16h ago
 
 ---
 
-**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
+**[bitcoin is about to change forever (and nobody even realises)](https://www.youtube.com/watch?v=fE1XaJjBwkg)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+bitcoin is having some massive changes and I see nobody talking about them. future is bright fam Check out Casa's free guide on ...
 
-📺 CryptosRUs
+📺 BTC Isla
 
-👁️ 32K • 👍 2K • 💬 414 • ⏱️ 10:13 • 1d ago
+👁️ 29K • 👍 2K • 💬 413 • ⏱️ 10:23 • 23h ago
+
+---
+
+**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
+
+Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
+
+📺 Benjamin Cowen
+
+👁️ 102K • 👍 6K • 💬 425 • ⏱️ 15:38 • 1d ago
 
 ---
 
@@ -329,37 +329,17 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 11K • 👍 103 • 💬 152 • ⏱️ 4:01 • 20h ago
+👁️ 11K • 👍 106 • 💬 153 • ⏱️ 4:01 • 20h ago
 
 ---
 
-**[Bitcoin Adoption Is Spreading To Unexpected Places](https://www.youtube.com/watch?v=d7nCqvpC5KQ)**
+**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
 
-Seamus Rocca is the CEO of Xapo Bank. In this conversation, we dig into the real-world data behind Bitcoin adoption — why it ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Anthony Pompliano
+📺 CryptosRUs
 
-👁️ 11K • 👍 444 • ⏱️ 29:40 • 18h ago
-
----
-
-**[Every Major Bank Just Pivoted to Bitcoin… They Know What’s Coming!](https://www.youtube.com/watch?v=3rSaeVkFY4Q)**
-
-Every major economy is hitting the debt wall simultaneously. A global reset is coming—fast, systemic, and total. BlackRock ...
-
-📺 Simply Bitcoin
-
-👁️ 51K • 👍 4K • 💬 297 • ⏱️ 23:27 • 1d ago
-
----
-
-**[Is Bitcoin Going to ZERO or $1,000,000?](https://www.youtube.com/watch?v=CIvIjByD7pM)**
-
-Everyone is screaming that Bitcoin is either going to zero or hitting a million but history says something very different. In this video ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 286 • ⏱️ 12:20 • 18h ago
+👁️ 32K • 👍 2K • 💬 428 • ⏱️ 10:13 • 1d ago
 
 ---
 
@@ -369,7 +349,17 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 74K • 👍 3K • 💬 243 • ⏱️ 18:48 • 1d ago
+👁️ 75K • 👍 3K • 💬 247 • ⏱️ 18:48 • 1d ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 19K • 👍 452 • 💬 405 • ⏱️ 15:38 • 1d ago
 
 ---
 
@@ -379,7 +369,17 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 956 • 💬 27 • ⏱️ 28:20 • 1d ago
+👁️ 26K • 👍 960 • 💬 27 • ⏱️ 28:20 • 1d ago
+
+---
+
+**[Did Saylor Just Bulletproof His Bitcoin Strategy?](https://www.youtube.com/watch?v=g5ncKRO0gPE)**
+
+Michael Saylor just sold MSTR stock to fund a $1.44 billion cash reserve for Strategy — and it completely changes the risk profile ...
+
+📺 Swan Bitcoin
+
+👁️ 17K • 👍 650 • 💬 48 • ⏱️ 2:10 • 2d ago
 
 ---
 

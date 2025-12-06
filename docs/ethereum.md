@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T16:15:47.808542+00:00'
+updated: '2025-12-06T16:40:56.092394+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 16:15 UTC  
+**Last Updated:** December 06, 2025 at 16:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +2.0%  
-**30d:** -11.1%  
-**90d:** -29.2%  
-**1y:** -23.8%  
+**24h:** +0.6%  
+**7d:** +2.2%  
+**30d:** -11.0%  
+**90d:** -29.1%  
+**1y:** -23.7%  
 
 ---
 
@@ -142,7 +142,7 @@ A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glams
 
 **[🚀 Ethereum Fusaka is Live: The “Unsung Hero” Upgrade You Need to Know About](https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/)**
 
-🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 1d ago
+🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 2d ago
 
 ---
 
@@ -222,7 +222,7 @@ Yahoo Finance • 1d ago
 
 **[Ethereum Validators Fall 25% After Fusaka Upgrade as Prysm Bug Pushes Network Close to Finality Issue](https://financefeeds.com/ethereum-validators-fall-25-after-fusaka-upgrade/)**
 
-FinanceFeeds • 18h ago
+FinanceFeeds • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 87K • 👍 5K • 💬 478 • ⏱️ 11:16 • 1d ago
+👁️ 89K • 👍 5K • 💬 483 • ⏱️ 11:16 • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 41K • 👍 2K • 💬 137 • ⏱️ 17:37 • 1d ago
+👁️ 42K • 👍 2K • 💬 139 • ⏱️ 17:37 • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN & ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 3K • 👍 248 • 💬 152 • ⏱️ 21:34 • 5h ago
+👁️ 5K • 👍 313 • 💬 161 • ⏱️ 21:34 • 5h ago
 
 ---
 
@@ -266,7 +266,47 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 85K • 👍 3K • 💬 479 • ⏱️ 27:33 • 1d ago
+👁️ 87K • 👍 3K • 💬 486 • ⏱️ 27:33 • 1d ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 19K • 👍 452 • 💬 405 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[The &quot;Sovereign&quot; Secret: The US Govt&#39;s 60,000 ETH Stash (They Aren&#39;t Selling)](https://www.youtube.com/watch?v=LDK8imAvRAk)**
+
+The "Sovereign" Secret: The US Govt's 60000 ETH Stash Everyone is talking about the "Strategic Bitcoin Reserve." But they are ...
+
+📺 Wall Street Stockcast
+
+👁️ 209 • 👍 15 • 💬 1 • ⏱️ 7:40 • 4h ago
+
+---
+
+**[BREAKING : ETH to $22K - Ethereum Fusaka Upgrade!](https://www.youtube.com/watch?v=y_aYcH8fwrQ)**
+
+The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was designed to in ways that improve scalability, ...
+
+📺 Altcoin Buzz
+
+👁️ 3K • 👍 145 • 💬 199 • ⏱️ 9:21 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJ8VniUMYIs)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 161 • 💬 17 • ⏱️ 5:46 • 13h ago
 
 ---
 
@@ -280,53 +320,13 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJ8VniUMYIs)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 147 • 💬 15 • ⏱️ 5:46 • 12h ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 19K • 👍 440 • 💬 406 • ⏱️ 15:38 • 1d ago
-
----
-
 **[Ethereum in CRISIS After MASSIVE Crypto Update](https://www.youtube.com/watch?v=l5rNGCFV7oU)**
 
 Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydfi.Bitboy.Deals Telegram Group - Get ...
 
 📺 BitBoy X
 
-👁️ 4K • 👍 247 • ⏱️ 25:41 • 23h ago
-
----
-
-**[The &quot;Sovereign&quot; Secret: The US Govt&#39;s 60,000 ETH Stash (They Aren&#39;t Selling)](https://www.youtube.com/watch?v=LDK8imAvRAk)**
-
-The "Sovereign" Secret: The US Govt's 60000 ETH Stash Everyone is talking about the "Strategic Bitcoin Reserve." But they are ...
-
-📺 Wall Street Stockcast
-
-👁️ 107 • 👍 8 • ⏱️ 7:40 • 3h ago
-
----
-
-**[🚨🇺🇸  ETH Price TODAY!!! | MASSIVE Bets on Ethereum!! 👀](https://www.youtube.com/watch?v=K2iD6ZbNQIw)**
-
-Real-time crypto analysis — join my VIP Telegram.
-
-📺 Marzell Crypto
-
-👁️ 1K • 👍 38 • 💬 133 • ⏱️ 5:24 • 1d ago
+👁️ 4K • 👍 252 • ⏱️ 25:41 • 23h ago
 
 ---
 

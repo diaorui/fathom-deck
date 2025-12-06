@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 152916,
-      "likes": 2136,
+      "likes": 2139,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-12-02T11:54:58.000Z",
@@ -54,7 +54,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/VibeVoice-Realtime-0.5B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583646260758-5e64858c87403103f9f1055d.png",
       "downloads": 12984,
-      "likes": 294,
+      "likes": 298,
       "pipeline_tag": "text-to-speech",
       "num_parameters": "1.0B",
       "last_modified": "2025-12-05T01:45:28.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-12-06T01:42:15.417234+00:00"
+  "fetched_at": "2025-12-06T03:01:04.779403+00:00"
 }

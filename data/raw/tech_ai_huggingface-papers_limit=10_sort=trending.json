@@ -1,25 +1,6 @@
 {
   "papers": [
     {
-      "id": "2511.22699",
-      "title": "Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer",
-      "authors": "Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)",
-      "organization_name": "Tongyi-MAI",
-      "organization_fullname": "Tongyi-MAI",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
-      "summary": "The landscape of high-performance image generation models is currently dominated by proprietary systems, such as Nano Banana Pro and Seedream 4.0. Leading open-source alternatives, including Qwen-Image, Hunyuan-Image-3.0 and FLUX.2, are characterized by massive parameter counts (20B to 80B), making them impractical for inference, and fine-tuning on consumer-grade hardware. To address this gap, we propose Z-Image, an efficient 6B-parameter foundation generative model built upon a Scalable Single-Stream Diffusion Transformer (S3-DiT) architecture that challenges the \"scale-at-all-costs\" paradigm. By systematically optimizing the entire model lifecycle -- from a curated data infrastructure to a streamlined training curriculum -- we complete the full training workflow in just 314K H800 GPU hours (approx. $630K). Our few-step distillation scheme with reward post-training further yields Z-Image-Turbo, offering both sub-second inference latency on an enterprise-grade H800 GPU and compatibility with consumer-grade hardware (<16GB VRAM). Additionally, our omni-pre-training paradigm also enables efficient training of Z-Image-Edit, an editing model with impressive instruction-following capabilities. Both qualitative and quantitative experiments demonstrate that our model achieves performance comparable to or surpassing that of leading competitors across various dimensions. Most notably, Z-Image exhibits exceptional capabilities in photorealistic image generation and bilingual text rendering, delivering results that rival top-tier commercial models, thereby demonstrating that state-of-the-art results are achievable with significantly reduced computational overhead. We publicly release our code, weights, and online demo to foster the development of accessible, budget-friendly, yet state-of-the-art generative models.",
-      "ai_summary": "Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.",
-      "hf_url": "https://huggingface.co/papers/2511.22699",
-      "arxiv_url": "https://arxiv.org/abs/2511.22699",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 141,
-      "num_comments": 2,
-      "published_at": "2025-11-27T13:52:07.000Z",
-      "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
-      "github_stars": 4703,
-      "project_page": "https://tongyi-mai.github.io/Z-Image-blog/"
-    },
-    {
       "id": "2511.22677",
       "title": "Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield",
       "authors": "Dongyang Liu, Peng Gao, David Liu et al. (11 authors)",
@@ -36,6 +17,25 @@
       "published_at": "2025-11-27T13:24:28.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
       "github_stars": 4712,
+      "project_page": "https://tongyi-mai.github.io/Z-Image-blog/"
+    },
+    {
+      "id": "2511.22699",
+      "title": "Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer",
+      "authors": "Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)",
+      "organization_name": "Tongyi-MAI",
+      "organization_fullname": "Tongyi-MAI",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
+      "summary": "The landscape of high-performance image generation models is currently dominated by proprietary systems, such as Nano Banana Pro and Seedream 4.0. Leading open-source alternatives, including Qwen-Image, Hunyuan-Image-3.0 and FLUX.2, are characterized by massive parameter counts (20B to 80B), making them impractical for inference, and fine-tuning on consumer-grade hardware. To address this gap, we propose Z-Image, an efficient 6B-parameter foundation generative model built upon a Scalable Single-Stream Diffusion Transformer (S3-DiT) architecture that challenges the \"scale-at-all-costs\" paradigm. By systematically optimizing the entire model lifecycle -- from a curated data infrastructure to a streamlined training curriculum -- we complete the full training workflow in just 314K H800 GPU hours (approx. $630K). Our few-step distillation scheme with reward post-training further yields Z-Image-Turbo, offering both sub-second inference latency on an enterprise-grade H800 GPU and compatibility with consumer-grade hardware (<16GB VRAM). Additionally, our omni-pre-training paradigm also enables efficient training of Z-Image-Edit, an editing model with impressive instruction-following capabilities. Both qualitative and quantitative experiments demonstrate that our model achieves performance comparable to or surpassing that of leading competitors across various dimensions. Most notably, Z-Image exhibits exceptional capabilities in photorealistic image generation and bilingual text rendering, delivering results that rival top-tier commercial models, thereby demonstrating that state-of-the-art results are achievable with significantly reduced computational overhead. We publicly release our code, weights, and online demo to foster the development of accessible, budget-friendly, yet state-of-the-art generative models.",
+      "ai_summary": "Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.",
+      "hf_url": "https://huggingface.co/papers/2511.22699",
+      "arxiv_url": "https://arxiv.org/abs/2511.22699",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
+      "upvotes": 142,
+      "num_comments": 2,
+      "published_at": "2025-11-27T13:52:07.000Z",
+      "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
+      "github_stars": 4736,
       "project_page": "https://tongyi-mai.github.io/Z-Image-blog/"
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 0,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 26196,
+      "github_stars": 26203,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-06T01:42:04.654221+00:00"
+  "fetched_at": "2025-12-06T03:00:53.618701+00:00"
 }

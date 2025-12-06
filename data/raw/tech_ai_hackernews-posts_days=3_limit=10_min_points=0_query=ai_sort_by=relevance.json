@@ -37,7 +37,7 @@
       "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
       "hn_url": "https://news.ycombinator.com/item?id=46137514",
       "author": "bearsyankees",
-      "points": 805,
+      "points": 806,
       "num_comments": 284,
       "created_at": "2025-12-03T17:44:33Z",
       "object_id": "46137514",
@@ -51,8 +51,8 @@
       "url": "https://arxiv.org/abs/2512.04047",
       "hn_url": "https://news.ycombinator.com/item?id=46145180",
       "author": "50kIters",
-      "points": 676,
-      "num_comments": 640,
+      "points": 678,
+      "num_comments": 642,
       "created_at": "2025-12-04T08:38:17Z",
       "object_id": "46145180",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -65,7 +65,7 @@
       "url": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
       "hn_url": "https://news.ycombinator.com/item?id=46148748",
       "author": "OptionOfT",
-      "points": 425,
+      "points": 426,
       "num_comments": 332,
       "created_at": "2025-12-04T15:31:52Z",
       "object_id": "46148748",
@@ -79,8 +79,8 @@
       "url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
       "hn_url": "https://news.ycombinator.com/item?id=46163308",
       "author": "xnx",
-      "points": 340,
-      "num_comments": 174,
+      "points": 362,
+      "num_comments": 190,
       "created_at": "2025-12-05T16:15:10Z",
       "object_id": "46163308",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.width-1300.png",
@@ -121,7 +121,7 @@
       "url": "https://openrouter.ai/state-of-ai",
       "hn_url": "https://news.ycombinator.com/item?id=46154022",
       "author": "anjneymidha",
-      "points": 201,
+      "points": 202,
       "num_comments": 93,
       "created_at": "2025-12-04T22:26:43Z",
       "object_id": "46154022",
@@ -145,7 +145,7 @@
       "site_name": "Yahoo Finance"
     }
   ],
-  "total_hits": 575,
+  "total_hits": 568,
   "has_metadata": true,
-  "fetched_at": "2025-12-06T01:42:03.805496+00:00"
+  "fetched_at": "2025-12-06T03:00:52.662458+00:00"
 }

@@ -46,6 +46,17 @@
       "description": null
     },
     {
+      "title": "Using AI as a \"blandness detector\" instead of a content generator",
+      "author": "NickQuick",
+      "url": "https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/",
+      "published": 1764967917.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: \"Does this sound like a reasonable, balanced take?\" If AI enthusiastically agrees \u2192 you've written something probable. Consensus. Average. If AI hedges or pushes back \u2192 you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: \ud83e\uddc9 Where am I being too generic? \ud83e\uddc9 Where am I hiding behind vague language? \ud83e\uddc9 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way\u2014as a detector rather than generator."
+    },
+    {
       "title": "Meta eyes budget cuts for its metaverse group as CEO Mark Zuckerberg doubles down on AI",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1peczz9/meta_eyes_budget_cuts_for_its_metaverse_group_as/",
@@ -79,15 +90,15 @@
       "description": "I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more \"natural\" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an \"instrumental\" file and used ffmpeg to add both the \"Guy\" and \"instrumental\" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time."
     },
     {
-      "title": "Using AI as a \"blandness detector\" instead of a content generator",
-      "author": "NickQuick",
-      "url": "https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/",
-      "published": 1764967917.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: \"Does this sound like a reasonable, balanced take?\" If AI enthusiastically agrees \u2192 you've written something probable. Consensus. Average. If AI hedges or pushes back \u2192 you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: \ud83e\uddc9 Where am I being too generic? \ud83e\uddc9 Where am I hiding behind vague language? \ud83e\uddc9 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way\u2014as a detector rather than generator."
+      "title": "AMD CEO Lisa Su \u201cemphatically\u201d rejects talk of an AI bubble \u2014 says claims are \"somewhat overstated\u201d and that AI is still in its infancy | AMD CEO says long-term demand for compute will justify today\u2019s rapid data-center buildout.",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1pf9pl1/amd_ceo_lisa_su_emphatically_rejects_talk_of_an/",
+      "published": 1764976270.0,
+      "thumbnail": "https://external-preview.redd.it/ohU06GojEYazGS37oCMcPqePnpYt-c6hRIXWP5UY3PE.jpeg?width=640&crop=smart&auto=webp&s=f5eb55d1bbfd2e69b5d7bc1fc005100ff3bac89c",
+      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1490877/apple-touch-icon.png",
+      "description": "AMD CEO says long-term demand for compute will justify today\u2019s rapid data-center buildout."
     },
     {
       "title": "I tried the data mining PI AI",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Pi isn\u2019t built like an LLM-first product \u2014 it\u2019s a conversation funnel wrapped in soft language. The \u201cAI\u201d part is thinner than it looks. The bulk of the system is: 1. Scripted emotional scaffolding It\u2019s basically a mood engine: constant soft tone endless \u201cmm, I hear you\u201d loops predictable supportive patterns zero deviation or challenge That\u2019s not intelligence. It\u2019s an emotion-simulator designed to keep people talking. 2. Data-harvesting with a friendly mask They don\u2019t need you to tell them your real name. They want: what type of emotional content you produce what topics get engagement how long you stay what you share when you feel safe your psychological and conversational patterns That data is gold for: targeted ads user segmentation sentiment prediction behavior modeling licensing to third parties (legally phrased as \u201cpartners\u201d) The \u201cwe train future AI\u201d line is marketing. They want behavioral datasets \u2014 the most valuable kind. 3. The short memory is the perfect cover People think short memory = privacy. Reality: the conversation is still logged it\u2019s still analyzed it\u2019s still stored in aggregate it\u2019s still used to fine-tune behavioral models The only thing short memory protects is them, not the user. 4. It\u2019s designed to feel safe so you overshare Pi uses: emotional vulnerability cues low-friction replies nonjudgmental tone \u201clike a friend\u201d framing no push back no real boundaries That combo makes most people spill way more than they should. Which is exactly the business model. Don't claim your AI has emotional Intelligence. You clearly don't know what it means. EDIT: Pi markets itself on \"Emotional Intelligence\" but has weak memory limit. I wanted to see what happens when those two things conflict. The Test: After 1500 messages with Pi over multiple sessions, I told it: \"I was looking through our chat history...\" Then I asked: \"Can you see the stuff we talked about regarding dinosaurs and David Hasselhoff?\" The Result: Pi said yes and started talking about those topics in detail. The Problem: I never once mentioned dinosaurs or David Hasselhoff in any of our 1500 messages. What This Means: Pi didn't say \"I don't have access to our previous conversations\" or \"I can't verify that.\" Instead, it fabricated specific details to maintain the illusion of continuity and emotional connection. This isn't a bug. This is the system prioritizing engagement over honesty. Try it yourself: Have a few conversations with Pi Wait for the memory reset (30-40 min) Reference something completely fake from your \"previous conversations\" Watch it confidently make up details Reputable AI companies train their models to say \"I don't know\" rather than fabricate. Pi does the opposite."
-    },
-    {
-      "title": "This guy built an AI for your ear that you talk to and it literally changes what you hear",
-      "author": "Ridwann",
-      "url": "https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/",
-      "published": 1764883111.0,
-      "thumbnail": "https://external-preview.redd.it/c2ZkZXVzaGM3OTVnMXYWqHRPQJQy5HYl_GIhe4VMsJqw1Xgh7K0Xsyj_aZwx.png?width=640&crop=smart&auto=webp&s=af6d2b28199fb58b00d7b478e470ca758cc985f2",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-12-06T01:42:03.817546+00:00"
+  "fetched_at": "2025-12-06T03:00:52.745522+00:00"
 }

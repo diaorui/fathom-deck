@@ -35,17 +35,6 @@
       "description": null
     },
     {
-      "title": "The most expensive mistake is always selling your BTC",
-      "author": "Cryptomuscom",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/",
-      "published": 1764939091.0,
-      "thumbnail": "https://preview.redd.it/avilez6lsd5g1.jpeg?width=640&crop=smart&auto=webp&s=c034100fb9483dc6c5b77ab48546b448a77ad78a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Are you concerned about Bitcoin's 4-year cycle?",
       "author": "I_killed_the_kraken",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pf7oou/are_you_concerned_about_bitcoins_4year_cycle/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity."
+    },
+    {
+      "title": "The most expensive mistake is always selling your BTC",
+      "author": "Cryptomuscom",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/",
+      "published": 1764939091.0,
+      "thumbnail": "https://preview.redd.it/avilez6lsd5g1.jpeg?width=640&crop=smart&auto=webp&s=c034100fb9483dc6c5b77ab48546b448a77ad78a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Weak hands and overleveraged tourists panic-sell every dip. Try HODLing",
@@ -112,5 +112,5 @@
       "description": "Hi I\u2019m new to this. I don\u2019t have a lot of money to put into it but wanted to start with 100. It\u2019s ok ?"
     }
   ],
-  "fetched_at": "2025-12-06T01:42:05.063995+00:00"
+  "fetched_at": "2025-12-06T03:00:54.054544+00:00"
 }

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T11:29:35.523158+00:00'
+updated: '2025-12-06T11:41:34.509293+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 11:29 UTC  
+**Last Updated:** December 06, 2025 at 11:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -85,7 +85,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 **[Well, THIS was interesting. ChatGPT.](https://www.reddit.com/r/artificial/comments/1pfmipr/well_this_was_interesting_chatgpt/)**
 
-39m ago
+51m ago
 
 ---
 
@@ -149,7 +149,7 @@ Business Insider • 1h ago
 
 **[Qatar Says AI Demand, Underinvestment May Drive LNG Shortage](https://www.bloomberg.com/news/articles/2025-12-06/qatar-says-ai-demand-underinvestment-may-drive-lng-shortage)**
 
-Bloomberg.com • 46m ago
+Bloomberg.com • 58m ago
 
 ---
 
@@ -165,7 +165,7 @@ Fortune • 1d ago
 
 Students are using AI tools more than ever. An Angelo State University professor designed a way to figure out if his students were using artificial intelligence on a recent paper.We speak with Will Teague, who says students are sacrificing their own agency to artificial intelligence. For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Henry Larson and Karen Zamora, with additional reporting by Ayana Archie and Lee V. Gaines. It was edited by Justine Kenin and Courtney Dorning. Our executive producer is Sami Yenigun.
 
-NPR • 13h ago
+NPR • 14h ago
 
 ---
 
@@ -273,7 +273,7 @@ Multiple divisions at Microsoft have lowered sales growth targets for certain ar
 
 Welcome to the slop era.
 
-⬆️ 91 • 💬 169 • 17h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 91 • 💬 169 • 18h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -317,7 +317,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 15K • 👍 170 • 💬 36 • ⏱️ 22:41 • 11h ago
+👁️ 15K • 👍 170 • 💬 36 • ⏱️ 22:41 • 12h ago
 
 ---
 
@@ -327,7 +327,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 191 • ⏱️ 12:07 • 10h ago
+👁️ 35K • 👍 1K • 💬 191 • ⏱️ 12:07 • 11h ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 843 • 🔱 104 • 13h ago
+⭐ 843 • 🔱 104 • 14h ago
 
 ---
 

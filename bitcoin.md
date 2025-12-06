@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T11:29:35.531526+00:00'
+updated: '2025-12-06T11:41:34.517598+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 11:29 UTC  
+**Last Updated:** December 06, 2025 at 11:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -1.0%  
-**30d:** -13.5%  
-**90d:** -19.9%  
-**1y:** -10.2%  
+**24h:** -1.8%  
+**7d:** -1.2%  
+**30d:** -13.7%  
+**90d:** -20.0%  
+**1y:** -10.4%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -123,13 +123,13 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-15h ago
+16h ago
 
 ---
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -149,7 +149,7 @@ Charts like this always remind me why time in the market beats timing the market
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 21h ago
 
 A newly introduced bill in Indiana would require public retirement programs to offer Bitcoin-related investment options and would also limit how much power local governments have to restrict the use of digital assets.The proposal was filed on Thursday by State Representative Kyle Pierce, a Republican from Anderson. Known as House ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -331,7 +331,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 2K • 💬 371 • ⏱️ 10:13 • 20h ago
+👁️ 32K • 👍 2K • 💬 371 • ⏱️ 10:13 • 21h ago
 
 ---
 

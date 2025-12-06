@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T14:38:44.191004+00:00'
+updated: '2025-12-06T14:49:51.923143+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 14:38 UTC  
+**Last Updated:** December 06, 2025 at 14:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ I'm just curious about the differences, I'm not super educated on this, and I fi
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 18m ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 29m ago
 
 ---
 
@@ -89,7 +89,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 If you use AI for writing, have you found a way for it to capture your voice so that the output doesn’t sound like it was written by artificial intelligence?
 
-🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 1h ago
+🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 12h ago
 
 Argent Capital Management Portfolio Manager Jed Ellerbroek explains why he sees Amazon (AMZN) as a "stealth winner" in the AI race. Also catch Jed Ellerbroek explain why investors are growing nervous about the AI infrastructure buildout as compared to previous cloud buildout cycles. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination.
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -297,7 +297,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Grok 4.2 is about to fli
 
 📺 BitBiasedAI
 
-👁️ 12K • 👍 348 • 💬 38 • ⏱️ 15:14 • 19h ago
+👁️ 12K • 👍 348 • 💬 38 • ⏱️ 15:14 • 20h ago
 
 ---
 
@@ -697,7 +697,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 823 • 🔱 43 • 8h ago
+⭐ 823 • 🔱 43 • 9h ago
 
 ---
 
@@ -707,7 +707,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 804 • 🔱 21 • 24m ago
+⭐ 804 • 🔱 21 • 35m ago
 
 ---
 

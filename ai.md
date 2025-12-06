@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T09:59:00.690064+00:00'
+updated: '2025-12-06T10:28:32.525770+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
+- news
 - social
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 09:59 UTC  
+**Last Updated:** December 06, 2025 at 10:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 16h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 20h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 21h ago
 
 ---
 
@@ -87,7 +87,7 @@ Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York T
 
 AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 10h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 11h ago
 
 ---
 
@@ -103,7 +103,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
 
-16h ago
+17h ago
 
 ---
 
@@ -123,13 +123,13 @@ Most discourse around AI writing is about using it to generate content faster. I
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 17h ago
+The Keyword • 18h ago
 
 ---
 
 **[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -153,7 +153,7 @@ The Motley Fool • 11h ago
 
 Alphabet and Microsoft could surpass the combined market value of Nvidia and Palantir before the end of next year.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -183,13 +183,13 @@ CNBC • 14h ago
 
 **[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
 **[Meta Platforms Buys AI Device Maker Limitless](https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqde3_9YpYel8yWBJD_IQZhFq1_SPXK9tDD5cFB12DV12Eqo2-GgIR8X&gaa_ts=693401d3&gaa_sig=ah0561k9C6MItzcVsHViB1amPYTqFujxJiGAaHYuvI-L8eH85VkAEbfGCEq2CoqDP5hShNBiLEaUHWk_n__how%3D%3D)**
 
-The Wall Street Journal • 11h ago
+The Wall Street Journal • 12h ago
 
 ---
 
@@ -225,7 +225,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 456 • 💬 225 • 17h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 456 • 💬 225 • 18h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -241,7 +241,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 289 • 💬 152 • 8h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 289 • 💬 152 • 9h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -287,7 +287,17 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 741K • 👍 18K • 💬 4K • ⏱️ 2:04:06 • 2d ago
+👁️ 755K • 👍 18K • 💬 4K • ⏱️ 2:04:06 • 2d ago
+
+---
+
+**[AI Has Gone Too Far](https://www.youtube.com/watch?v=CTF73mW8kcE)**
+
+Another heaping of AI Slop, this time involving Franklin the Turtle, Japanese game developers and the blatant copyright abuse of ...
+
+📺 Dolan Darkest
+
+👁️ 224K • 👍 13K • 💬 2K • ⏱️ 2:28 • 16h ago
 
 ---
 
@@ -297,47 +307,7 @@ Connor Leahy discusses the motivations of AGI corporations, how modern AI is "gr
 
 📺 Future of Life Institute
 
-👁️ 25K • 👍 1K • 💬 459 • ⏱️ 15:40 • 1d ago
-
----
-
-**[Between Dimensions: The Entities Lovecraft Warned Us About Are Here Now](https://www.youtube.com/watch?v=h6efTA8z1UI)**
-
-Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
-
-📺 End Times Productions
-
-👁️ 94K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
-
----
-
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 32K • 👍 938 • 💬 175 • ⏱️ 12:07 • 9h ago
-
----
-
-**[AI Exploded This Week: GPT 5.2, DeepSeek 3.2, Kling 2.6, Mistral 3, Trainium 3...](https://www.youtube.com/watch?v=KeqO2KM6CTk)**
-
-The past few days pushed AI in every direction at once. OpenAI quietly tested a new Memory Search system inside ChatGPT, ...
-
-📺 AI Revolution
-
-👁️ 53K • 👍 1K • 💬 80 • ⏱️ 17:26 • 2d ago
-
----
-
-**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
-
-Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
-
-📺 VisualEconomik EN
-
-👁️ 90K • 👍 3K • 💬 299 • ⏱️ 15:46 • 2d ago
+👁️ 26K • 👍 1K • 💬 476 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -347,7 +317,17 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 13K • 👍 152 • 💬 24 • ⏱️ 22:41 • 10h ago
+👁️ 15K • 👍 170 • 💬 36 • ⏱️ 22:41 • 10h ago
+
+---
+
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+
+📺 AI Revolution
+
+👁️ 35K • 👍 1K • 💬 191 • ⏱️ 12:07 • 9h ago
 
 ---
 
@@ -357,7 +337,37 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 706K • 👍 16K • 💬 942 • ⏱️ 4:58 • 1d ago
+👁️ 719K • 👍 16K • 💬 950 • ⏱️ 4:58 • 1d ago
+
+---
+
+**[Between Dimensions: The Entities Lovecraft Warned Us About Are Here Now](https://www.youtube.com/watch?v=h6efTA8z1UI)**
+
+Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
+
+📺 End Times Productions
+
+👁️ 97K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
+
+---
+
+**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
+
+Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
+
+📺 VisualEconomik EN
+
+👁️ 90K • 👍 3K • 💬 302 • ⏱️ 15:46 • 2d ago
+
+---
+
+**[Horse saved apple plants from drying up by watering it 😭#ai #apple #tree #horse](https://www.youtube.com/watch?v=cF4OW6scRbs)**
+
+Horse saved apple plants from drying up by watering it #ai #apple #tree #horse.
+
+📺 Toonify Ai 2.0
+
+👁️ 2K • 👍 277 • ⏱️ 0:28 • 8h ago
 
 ---
 
@@ -367,17 +377,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 437K • 👍 1K • 💬 58 • ⏱️ 8:09 • 1d ago
-
----
-
-**[Poor Little Girl’s Dream Came True  Grandfather’s Surprise  ✨🚁💎 #ai​ #cutebaby​ #kindness​](https://www.youtube.com/watch?v=EdRLNjCu-pU)**
-
-A poor little girl always dreamed of flying. Today, her loving Dadaji takes her on a magical diamond helicopter ride above a snow ...
-
-📺 AI GANESHA 
-
-👁️ 15K • ⏱️ 0:31 • 7h ago
+👁️ 459K • 👍 1K • 💬 64 • ⏱️ 8:09 • 1d ago
 
 ---
 
@@ -659,7 +659,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.5k • 🔱 126 • 1d ago
+⭐ 1.5k • 🔱 126 • 2d ago
 
 ---
 
@@ -739,7 +739,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 594 • 🔱 202 • 2h ago
+⭐ 594 • 🔱 202 • 3h ago
 
 ---
 

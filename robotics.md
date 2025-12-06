@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T09:59:00.707773+00:00'
+updated: '2025-12-06T10:28:32.543292+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 09:59 UTC  
+**Last Updated:** December 06, 2025 at 10:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 https://youtu.be/UAlm8Z4mfpU
 
-10h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper 
 
 Hella everyone! I've been building this drone as my own personal test on my engineering knowledge as I've just finished my mechatronic systems engineering degree. Sorry if the post is too long but here is a TLDR: TLDR: My motors won't spin, arduino logic and wiring should be correct as it worked with an older QBRAIN 4in1 ESC. Suspecting one of my cells in my 3S battery to be dead. Initialization tone is heard but no arming tone and writing esc.writeMicroseconds(1000); in the loop. Also tried 1500us and 2000us. Still doesn't work. ---------------------------------------------------------------------------------------------------- Here is a list of components: Arduion Nano: CH340 chip and ATmega328P ESC: Radiolink FlyColour 4 in 1 ESC (EFM8BB21 MCU, 8-bit C8051 core) Motors: 4x 900Kv BLDC motors (No idea what brand, I just found them) RX/TX: FlySky iA6B receiver and FS-i6X transmitter Gyro: MPU-6050 Buck converter: LM2596 ---------------------------------------------------------------------------------------------------- My setup: I've got the arduino outputting PWM signals into my ESC's motor signal pins which has been mapped to 1000-2000us before being sent into the ESC. (I dont have an oscilloscope to verify) The arduino is powered through the buck converter which sees the full Lipo battery voltage at the input (Stepped down to 5v for the arduino and grounded at arduino gnd) The ESC is powered directly from the Lipo battery and I've connected one of the two grounds leading OUT of the ESC's jst connector into the arduino ground. M1 signal wire is connected to D8 of my arduino and M1 is the only one that is plugged in and powered by the ESC At the moment I just want to be able to command the motor speed through the arduino, no PID control, no serial UART communications just yet. ---------------------------------------------------------------------------------------------------- My Problem: I can hear the motors play the initalization musical tone, but no subsequent beeps for self test or arming and it will not spin. When using the exact same setup on an older QBRAIN 4 in 1 ESC it all worked. Including my PID control and iBUS UART communication. Except the arduino needed to be powered through the ESC's regulator instead of the battery + buck converter combo. ---------------------------------------------------------------------------------------------------- My Theory: One of the 3 cells on my battery is dead, ESC is not getting enough voltage and I'm an idiot ESC boots faster than arduino can and goes into fail safe mode EMI between the logic and power grounds Arduino can't output a fast enough PWM signal If anyone could point me in the right direction to troubleshoot it would be greatly appreciated. I will go buy a new battery in the morning to see if that is the problem. However in the meantime if anyone could point out any wiring issues from what I've described or if you require any more specific information about my setup please let me know. Otherwise feel free to criticize, hate or provide constructive suggestions to my project. ---------------------------------------------------------------------------------------------------- Extra questions: Is the arduino nano even a suitable MCU for this application? From my research it seems like there is not enough of a safety margin in terms of cycles/second to do PID math, read gyro data and send fast PWM signals. If anything is bunged out of order it could lead to a positive feedback loop and crash my drone Since it is an engineering project and not a drone building project I'd like to use something that i can program. What other microcontrollers can work in place of the nano? (Preferrably not something I need to use assembly and design an MCU from scratch, thats a whole another project) https://preview.redd.it/qdwmnaiw9j5g1.jpg?width=3024&format=pjpg&auto=webp&s=f7871ed8a913dcf55e474cf7cdb7787240a3b9c3
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hella everyone! I've been building this drone as my own personal test on my engi
 
 Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
 
-36m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now available! If you want a quick summary of the event I put together ROSCon 2025 Recap for the OpenCV Weekly Webinar.       For Giving Tuesday we put together a new campaign for ROS users to become a become a Build Farm Backer. If you’ve every saved a few minutes by running sudo apt install ros-kilted-* instead of compiling from source we would love it if you helped cover our compute costs. Also, for the first time ever, we...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 13h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 14h ago
 
 ---
 
@@ -114,7 +114,7 @@ ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now avail
 
 Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-Seeking Alpha • 23h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 2d ago
 
 Fanuc (TSE:6954) just jumped nearly 13% after unveiling a collaboration with Nvidia to build industrial robots powered by physical AI, a move that immediately sharpened investor focus on its long term growth story. See our latest analysis for Fanuc. That surge has come on top of already strong momentum, with a 7 day share price return of 18.0% and a 90 day share price return of 44.3%. The 1 year total shareholder return of 52.4% signals investors are steadily warming to Fanuc as physical AI...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -138,7 +138,7 @@ Yahoo Finance • 2h ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 18h ago
+MIT News • 19h ago
 
 ---
 
@@ -198,7 +198,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 61K • 👍 489 • 💬 247 • ⏱️ 2:30 • 2d ago
+👁️ 62K • 👍 498 • 💬 248 • ⏱️ 2:30 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 32K • 👍 938 • 💬 175 • ⏱️ 12:07 • 9h ago
+👁️ 35K • 👍 1K • 💬 191 • ⏱️ 12:07 • 9h ago
 
 ---
 
@@ -218,7 +218,17 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 12K • 👍 253 • 💬 135 • ⏱️ 4:05 • 1d ago
+👁️ 12K • 👍 258 • 💬 140 • ⏱️ 4:05 • 1d ago
+
+---
+
+**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
+
+Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
+
+📺 Unitree Robotics
+
+👁️ 761K • 👍 1K • 💬 290 • ⏱️ 1:06 • 2d ago
 
 ---
 
@@ -236,7 +246,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 96K • 💬 595 • ⏱️ 1:21 • 3d ago
+👁️ 97K • 💬 599 • ⏱️ 1:21 • 3d ago
 
 ---
 
@@ -246,27 +256,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 86K • 👍 426 • 💬 5 • ⏱️ 0:19 • 1d ago
-
----
-
-**[Viral Art Exhibit Shows Musk, Zuckerberg and Bezos as Creepy Robot Dogs](https://www.youtube.com/watch?v=tFfR0uQXl7w)**
-
-Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-tech-titan robot dogs pooping out NFTs, stopping ...
-
-📺 New York Post
-
-👁️ 5K • 👍 98 • 💬 65 • ⏱️ 2:06 • 20h ago
-
----
-
-**[ChatGPT in a real robot does what experts warned.](https://www.youtube.com/watch?v=byQmJ9x0RWA)**
-
-Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.com/insideai to get an exclusive 60% off Please ...
-
-📺 InsideAI
-
-👁️ 572K • 👍 23K • 💬 3K • ⏱️ 14:58 • 5d ago
+👁️ 88K • 👍 442 • 💬 5 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -276,17 +266,27 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 99K • 👍 381 • 💬 10 • ⏱️ 0:19 • 21h ago
+👁️ 105K • 👍 408 • 💬 10 • ⏱️ 0:19 • 21h ago
 
 ---
 
-**[Inside the Viral IRON Robot Everyone Thought Was Human | What The Future](https://www.youtube.com/watch?v=bEKH2eblWBk)**
+**[Viral Art Exhibit Shows Musk, Zuckerberg and Bezos as Creepy Robot Dogs](https://www.youtube.com/watch?v=tFfR0uQXl7w)**
 
-XPeng's new humanoid robot, IRON, went viral after the company cut it open on stage to prove it wasn't a human in disguise.
+Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-tech-titan robot dogs pooping out NFTs, stopping ...
 
-📺 CNET
+📺 New York Post
 
-👁️ 543K • 👍 3K • 💬 544 • ⏱️ 5:04 • 5d ago
+👁️ 5K • 👍 100 • 💬 65 • ⏱️ 2:06 • 20h ago
+
+---
+
+**[ChatGPT in a real robot does what experts warned.](https://www.youtube.com/watch?v=byQmJ9x0RWA)**
+
+Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.com/insideai to get an exclusive 60% off Please ...
+
+📺 InsideAI
+
+👁️ 577K • 👍 23K • 💬 3K • ⏱️ 14:58 • 5d ago
 
 ---
 

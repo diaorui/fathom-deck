@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T09:59:00.698527+00:00'
+updated: '2025-12-06T10:28:32.534189+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 09:59 UTC  
+**Last Updated:** December 06, 2025 at 10:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -1.2%  
-**30d:** -13.7%  
-**90d:** -20.0%  
-**1y:** -10.4%  
+**24h:** -1.8%  
+**7d:** -0.9%  
+**30d:** -13.5%  
+**90d:** -19.8%  
+**1y:** -10.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
 
-13h ago
+14h ago
 
 ---
 
@@ -137,7 +137,7 @@ Charts like this always remind me why time in the market beats timing the market
 
 **[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -173,13 +173,13 @@ Yahoo Finance • 1h ago
 
 Strategy CEO Phong Le says the company’s newly built $1.44 billion cash reserve is designed to quiet investor anxiety over its ability to withstand a sharp downturn in Bitcoin. Key Takeaways: Strategy built a $1.44B cash reserve to ease investor fears about its ability to meet dividend and debt obligations. ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
-The Economist • 1d ago
+The Economist • 2d ago
 
 ---
 
@@ -219,7 +219,7 @@ CNBC • 1d ago
 
 Bitcoin falls below $90,000 again as liquidations, weak ETF flows, macro pressure and PCE inflation data shape market sentiment.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -245,7 +245,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 **[Bitcoin's Sky-High Prices Have Not Panned Out](https://news.ycombinator.com/item?id=46132636)**
 
-⬆️ 3 • 💬 2 • 2d ago • [nytimes.com](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)
+⬆️ 3 • 💬 2 • 3d ago • [nytimes.com](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)
 
 ---
 
@@ -303,17 +303,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 23K • 👍 2K • 💬 321 • ⏱️ 10:23 • 16h ago
-
----
-
-**[Is Bitcoin Going to ZERO or $1,000,000?](https://www.youtube.com/watch?v=CIvIjByD7pM)**
-
-Everyone is screaming that Bitcoin is either going to zero or hitting a million but history says something very different. In this video ...
-
-📺 Simply Bitcoin
-
-👁️ 22K • 👍 1K • 💬 260 • ⏱️ 12:20 • 11h ago
+👁️ 25K • 👍 2K • 💬 333 • ⏱️ 10:23 • 17h ago
 
 ---
 
@@ -323,17 +313,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 18K • 👍 419 • 💬 368 • ⏱️ 15:38 • 1d ago
-
----
-
-**[WAIT: JP Morgan is STILL predicting $170,000 Bitcoin in 2026?! | EP 1392](https://www.youtube.com/watch?v=sU3cb55xCGo)**
-
-After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 year cycle is over?
-
-📺 Simply Bitcoin
-
-👁️ 8K • 👍 407 • 💬 54 • ⏱️ 1:34:16 • 14h ago
+👁️ 18K • 👍 423 • 💬 381 • ⏱️ 15:38 • 1d ago
 
 ---
 
@@ -343,7 +323,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 90K • 👍 6K • 💬 408 • ⏱️ 15:38 • 22h ago
+👁️ 94K • 👍 6K • 💬 416 • ⏱️ 15:38 • 23h ago
 
 ---
 
@@ -353,7 +333,17 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 330 • ⏱️ 10:13 • 19h ago
+👁️ 32K • 👍 2K • 💬 371 • ⏱️ 10:13 • 19h ago
+
+---
+
+**[Is Bitcoin Going to ZERO or $1,000,000?](https://www.youtube.com/watch?v=CIvIjByD7pM)**
+
+Everyone is screaming that Bitcoin is either going to zero or hitting a million but history says something very different. In this video ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 268 • ⏱️ 12:20 • 12h ago
 
 ---
 
@@ -363,17 +353,17 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 49K • 👍 4K • 💬 274 • ⏱️ 23:27 • 1d ago
+👁️ 49K • 👍 4K • 💬 276 • ⏱️ 23:27 • 1d ago
 
 ---
 
-**[Michael Saylor: &quot;I&#39;m More Bullish Than EVER on Bitcoin!&quot;](https://www.youtube.com/watch?v=1no2ashJSIU)**
+**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
 
-Michael Saylor isn't just bullish — he's placing Bitcoin inside a countdown. By 2035, he says 99% of all Bitcoin will have been ...
+As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
 
-📺 The Bitcoin Revolution
+📺 Swan Bitcoin
 
-👁️ 2K • 👍 68 • 💬 60 • ⏱️ 13:29 • 17h ago
+👁️ 72K • 👍 3K • 💬 239 • ⏱️ 18:48 • 1d ago
 
 ---
 
@@ -383,17 +373,27 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 944 • 💬 27 • ⏱️ 28:20 • 1d ago
+👁️ 26K • 👍 945 • 💬 27 • ⏱️ 28:20 • 1d ago
 
 ---
 
-**[Bitcoin Shorts ABOUT TO GET DESTROYED - BlackRock&#39;s Confession Changes Everything](https://www.youtube.com/watch?v=EKFoAAvZjbE)**
+**[Smart Money Is Front-Running Bitcoin 2026 (You’re Not Bullish Enough)](https://www.youtube.com/watch?v=TbxqNVtHs_s)**
 
-BLACKROCKS SHOCKING CRYPTO CONFESSION WHILE $3 BILLION BITCOIN SHORTS READY TO EXPLODE! iTrustCapital ...
+In today's video, Miles Deutscher breaks down why Bitcoin's reaction to fear is signalling the early stages of a 2026 liquidity cycle ...
 
-📺 CryptoWendyO
+📺 Miles Deutscher Finance
 
-👁️ 6K • 👍 515 • 💬 34 • ⏱️ 25:26 • 1d ago
+👁️ 4K • 👍 221 • 💬 315 • ⏱️ 49:07 • 18h ago
+
+---
+
+**[Michael Saylor: &quot;I&#39;m More Bullish Than EVER on Bitcoin!&quot;](https://www.youtube.com/watch?v=1no2ashJSIU)**
+
+Michael Saylor isn't just bullish — he's placing Bitcoin inside a countdown. By 2035, he says 99% of all Bitcoin will have been ...
+
+📺 The Bitcoin Revolution
+
+👁️ 2K • 👍 71 • 💬 61 • ⏱️ 13:29 • 18h ago
 
 ---
 

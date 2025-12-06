@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T08:55:33.795778+00:00'
+updated: '2025-12-06T09:21:23.141610+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 08:55 UTC  
+**Last Updated:** December 06, 2025 at 09:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 15h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 16h ago
 
 ---
 
@@ -57,13 +57,13 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 19h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 20h ago
 
 ---
 
 **[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -71,7 +71,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 20h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 21h ago
 
 ---
 
@@ -87,7 +87,7 @@ Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York T
 
 AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 9h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 10h ago
 
 ---
 
@@ -123,13 +123,37 @@ Most discourse around AI writing is about using it to generate content faster. I
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 16h ago
+The Keyword • 17h ago
 
 ---
 
 **[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
+
+---
+
+**[Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More Than Palantir in 2026](https://www.nasdaq.com/articles/prediction-artificial-intelligence-ai-stock-will-be-worth-more-palantir-2026)**
+
+Key PointsDemand for Palantir's software tools has ushered in a wave of accelerated revenue and profit growth.
+
+Nasdaq • 9h ago
+
+---
+
+**[Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term](https://www.fool.com/investing/2025/12/05/got-3k-artificial-intelligence-ai-stocks-buy-hold/)**
+
+These companies were great investments before the artificial intelligence (AI) boom and should remain worthy long-term holds for the foreseeable future.
+
+The Motley Fool • 13h ago
+
+---
+
+**[Prediction: 2 AI Stocks Will Be Worth More Than Nvidia and Palantir Technologies Combined in 2026](https://finance.yahoo.com/news/prediction-2-ai-stocks-worth-082600633.html)**
+
+Alphabet and Microsoft could surpass the combined market value of Nvidia and Palantir before the end of next year.
+
+Yahoo Finance • 55m ago
 
 ---
 
@@ -141,41 +165,17 @@ Fortune • 1d ago
 
 ---
 
+**[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
+
+The Economist • 1d ago
+
+---
+
 **[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
 
 What 1,250 professionals told us about working with AI
 
 Anthropic • 1d ago
-
----
-
-**[A safety report card ranks AI company efforts to protect humanity](https://www.latimes.com/entertainment-arts/business/story/2025-12-05/ai-artificial-intelligence-company-scorecard-ranks-safety-humanity)**
-
-Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety.
-
-Los Angeles Times • 21h ago
-
----
-
-**[Meta acquiring AI wearable company Limitless](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
-
-Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
-
-CNBC • 13h ago
-
----
-
-**[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
-
-Reuters • 13h ago
-
----
-
-**[Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)**
-
-Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
-
-TechCrunch • 11h ago
 
 ---
 
@@ -187,11 +187,11 @@ NPR • 11h ago
 
 ---
 
-**[The Strange Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/)**
+**[Meta acquiring AI wearable company Limitless](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
 
-Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
+Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-The Atlantic • 1d ago
+CNBC • 13h ago
 
 ---
 
@@ -219,7 +219,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 682 • 💬 647 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 684 • 💬 651 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -227,7 +227,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 440 • 💬 219 • 16h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 449 • 💬 223 • 17h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -243,7 +243,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 263 • 💬 141 • 7h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 275 • 💬 145 • 8h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -267,7 +267,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 202 • 💬 93 • 1d ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 203 • 💬 93 • 1d ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -395,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,154 • 3d ago
+⬇️ 152,916 • ❤️ 2,156 • 3d ago
 
 ---
 
@@ -407,7 +407,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 13,541 • ❤️ 736 • 4d ago
+⬇️ 13,541 • ❤️ 737 • 4d ago
 
 ---
 
@@ -419,7 +419,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 3,773 • ❤️ 513 • 4d ago
+⬇️ 3,773 • ❤️ 514 • 4d ago
 
 ---
 
@@ -431,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 313 • 1d ago
+⬇️ 12,984 • ❤️ 316 • 1d ago
 
 ---
 
@@ -443,7 +443,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 1,509 • ❤️ 337 • 4d ago
+⬇️ 1,509 • ❤️ 338 • 4d ago
 
 ---
 
@@ -741,7 +741,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 585 • 🔱 196 • 1h ago
+⭐ 585 • 🔱 196 • 2h ago
 
 ---
 

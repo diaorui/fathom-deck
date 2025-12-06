@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T11:41:34.509293+00:00'
+updated: '2025-12-06T11:53:03.466308+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 11:41 UTC  
+**Last Updated:** December 06, 2025 at 11:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -42,6 +42,14 @@ AI news, discussions, and developments
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
 🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 18h ago
+
+---
+
+**[Why is everyone so focused on generative AI when neural networks exist](https://www.reddit.com/r/artificial/comments/1pfmyfz/why_is_everyone_so_focused_on_generative_ai_when/)**
+
+I'm just curious about the differences, I'm not super educated on this, and I figured this place would know more than me
+
+35m ago
 
 ---
 
@@ -85,7 +93,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 **[Well, THIS was interesting. ChatGPT.](https://www.reddit.com/r/artificial/comments/1pfmipr/well_this_was_interesting_chatgpt/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -102,14 +110,6 @@ Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York T
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
 🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 1d ago
-
----
-
-**[This tech is just wild](https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/)**
-
-I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
-
-18h ago
 
 ---
 
@@ -149,7 +149,7 @@ Business Insider • 1h ago
 
 **[Qatar Says AI Demand, Underinvestment May Drive LNG Shortage](https://www.bloomberg.com/news/articles/2025-12-06/qatar-says-ai-demand-underinvestment-may-drive-lng-shortage)**
 
-Bloomberg.com • 58m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ NPR • 14h ago
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
@@ -185,11 +185,11 @@ Los Angeles Times • 1d ago
 
 ---
 
-**[Meta acquiring AI wearable company Limitless](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
+**[The Strange Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/)**
 
-Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
+Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-CNBC • 15h ago
+The Atlantic • 1d ago
 
 ---
 
@@ -225,7 +225,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 465 • 💬 230 • 19h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 472 • 💬 233 • 19h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -241,7 +241,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 305 • 💬 161 • 10h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 315 • 💬 169 • 10h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -297,7 +297,7 @@ Another heaping of AI Slop, this time involving Franklin the Turtle, Japanese ga
 
 📺 Dolan Darkest
 
-👁️ 224K • 👍 13K • 💬 2K • ⏱️ 2:28 • 17h ago
+👁️ 224K • 👍 13K • 💬 2K • ⏱️ 2:28 • 18h ago
 
 ---
 
@@ -393,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,163 • 3d ago
+⬇️ 169,515 • ❤️ 2,164 • 3d ago
 
 ---
 
@@ -405,7 +405,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 738 • 5d ago
+⬇️ 18,140 • ❤️ 739 • 5d ago
 
 ---
 
@@ -417,7 +417,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 4,718 • ❤️ 516 • 5d ago
+⬇️ 4,718 • ❤️ 517 • 5d ago
 
 ---
 
@@ -473,7 +473,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 196,425 • ❤️ 903 • 9d ago
+⬇️ 196,425 • ❤️ 904 • 9d ago
 
 ---
 
@@ -497,7 +497,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 `text-to-image`
 
-⬇️ 1,849 • ❤️ 161 • 2d ago
+⬇️ 1,849 • ❤️ 162 • 2d ago
 
 ---
 
@@ -699,7 +699,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 824 • 🔱 43 • 5h ago
+⭐ 824 • 🔱 43 • 6h ago
 
 ---
 

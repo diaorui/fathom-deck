@@ -50,8 +50,8 @@
       "hf_url": "https://huggingface.co/papers/2512.02589",
       "arxiv_url": "https://arxiv.org/abs/2512.02589",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2512.02589.png",
-      "upvotes": 22,
-      "num_comments": 1,
+      "upvotes": 23,
+      "num_comments": 2,
       "published_at": "2025-12-02T05:00:37.000Z",
       "github_repo": "https://github.com/PaperDebugger/PaperDebugger",
       "github_stars": 230,
@@ -70,7 +70,7 @@
       "arxiv_url": "https://arxiv.org/abs/2512.04678",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2512.04678.png",
       "upvotes": 31,
-      "num_comments": 2,
+      "num_comments": 3,
       "published_at": "2025-12-04T06:12:13.000Z",
       "github_repo": "https://github.com/JaydenLyh/Reward-Forcing",
       "github_stars": 87,
@@ -111,7 +111,7 @@
       "num_comments": 0,
       "published_at": "2024-10-08T04:00:12.000Z",
       "github_repo": "https://github.com/hkuds/lightrag",
-      "github_stars": 25407,
+      "github_stars": 25437,
       "project_page": null
     },
     {
@@ -134,25 +134,6 @@
       "project_page": null
     },
     {
-      "id": "2306.08568",
-      "title": "WizardCoder: Empowering Code Large Language Models with Evol-Instruct",
-      "authors": "Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)",
-      "organization_name": "microsoft",
-      "organization_fullname": "Microsoft",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1583646260758-5e64858c87403103f9f1055d.png",
-      "summary": "Code Large Language Models (Code LLMs), such as StarCoder, have demonstrated\nexceptional performance in code-related tasks. However, most existing models\nare solely pre-trained on extensive raw code data without instruction\nfine-tuning. In this paper, we introduce WizardCoder, which empowers Code LLMs\nwith complex instruction fine-tuning, by adapting the Evol-Instruct method to\nthe domain of code. Through comprehensive experiments on four prominent code\ngeneration benchmarks, namely HumanEval, HumanEval+, MBPP, and DS-1000, we\nunveil the exceptional capabilities of our model. It surpasses all other\nopen-source Code LLMs by a substantial margin. Moreover, our model even\noutperforms the largest closed LLMs, Anthropic's Claude and Google's Bard, on\nHumanEval and HumanEval+. Our code, model weights, and data are public at\nhttps://github.com/nlpxucan/WizardLM",
-      "ai_summary": "WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct, outperforms other open-source and closed LLMs on several code generation benchmarks.",
-      "hf_url": "https://huggingface.co/papers/2306.08568",
-      "arxiv_url": "https://arxiv.org/abs/2306.08568",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2306.08568.png",
-      "upvotes": 31,
-      "num_comments": 2,
-      "published_at": "2023-06-14T11:18:48.000Z",
-      "github_repo": "https://github.com/nlpxucan/WizardLM",
-      "github_stars": 9469,
-      "project_page": null
-    },
-    {
       "id": "2510.14528",
       "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model",
       "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
@@ -172,6 +153,25 @@
       "project_page": null
     },
     {
+      "id": "2306.08568",
+      "title": "WizardCoder: Empowering Code Large Language Models with Evol-Instruct",
+      "authors": "Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)",
+      "organization_name": "microsoft",
+      "organization_fullname": "Microsoft",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1583646260758-5e64858c87403103f9f1055d.png",
+      "summary": "Code Large Language Models (Code LLMs), such as StarCoder, have demonstrated\nexceptional performance in code-related tasks. However, most existing models\nare solely pre-trained on extensive raw code data without instruction\nfine-tuning. In this paper, we introduce WizardCoder, which empowers Code LLMs\nwith complex instruction fine-tuning, by adapting the Evol-Instruct method to\nthe domain of code. Through comprehensive experiments on four prominent code\ngeneration benchmarks, namely HumanEval, HumanEval+, MBPP, and DS-1000, we\nunveil the exceptional capabilities of our model. It surpasses all other\nopen-source Code LLMs by a substantial margin. Moreover, our model even\noutperforms the largest closed LLMs, Anthropic's Claude and Google's Bard, on\nHumanEval and HumanEval+. Our code, model weights, and data are public at\nhttps://github.com/nlpxucan/WizardLM",
+      "ai_summary": "WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct, outperforms other open-source and closed LLMs on several code generation benchmarks.",
+      "hf_url": "https://huggingface.co/papers/2306.08568",
+      "arxiv_url": "https://arxiv.org/abs/2306.08568",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2306.08568.png",
+      "upvotes": 31,
+      "num_comments": 2,
+      "published_at": "2023-06-14T11:18:48.000Z",
+      "github_repo": "https://github.com/nlpxucan/WizardLM",
+      "github_stars": 9470,
+      "project_page": null
+    },
+    {
       "id": "2512.04926",
       "title": "Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion",
       "authors": "Yueming Pan, Ruoyu Feng, Qi Dai et al. (8 authors)",
@@ -183,8 +183,8 @@
       "hf_url": "https://huggingface.co/papers/2512.04926",
       "arxiv_url": "https://arxiv.org/abs/2512.04926",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2512.04926.png",
-      "upvotes": 25,
-      "num_comments": 1,
+      "upvotes": 26,
+      "num_comments": 2,
       "published_at": "2025-12-04T10:57:27.000Z",
       "github_repo": "https://github.com/yuemingPAN/SFD",
       "github_stars": 56,
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-05T23:13:17.624648+00:00"
+  "fetched_at": "2025-12-06T01:42:04.654221+00:00"
 }

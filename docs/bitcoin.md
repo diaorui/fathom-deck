@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T23:55:39.322269+00:00'
+updated: '2025-12-06T01:42:33.492028+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 23:55 UTC  
+**Last Updated:** December 06, 2025 at 01:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,189.07
+### $89,315.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.1%  
-**7d:** -1.6%  
-**30d:** -11.9%  
-**90d:** -19.8%  
-**1y:** -10.4%  
+**24h:** -3.5%  
+**7d:** -1.3%  
+**30d:** -13.8%  
+**90d:** -20.1%  
+**1y:** -10.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1782.02B
+**Market Cap:** $1782.20B
 Rank #1
 
-**Circulating Supply:** 19,957,806 BTC
+**Circulating Supply:** 19,958,050 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
 -29.2%
 
 **All-Time Low:** $67.81
-+131598.9%
++131616.6%
 
 ---
 
@@ -77,35 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
+**[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
 6h ago
 
 ---
 
-**[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
-
-11h ago
-
----
-
-**[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
-
-4h ago
-
----
-
-**[Weak hands and overleveraged tourists panic-sell every dip. Try HODLing](https://www.reddit.com/r/Bitcoin/comments/1pf5aef/weak_hands_and_overleveraged_tourists_panicsell/)**
-
-Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
-
-3h ago
-
----
-
 **[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
 
-5h ago
+7h ago
+
+---
+
+**[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
+
+8h ago
+
+---
+
+**[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
+
+12h ago
 
 ---
 
@@ -113,13 +105,27 @@ Charts like this always remind me why time in the market beats timing the market
 
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
-2h ago
+3h ago
+
+---
+
+**[Weak hands and overleveraged tourists panic-sell every dip. Try HODLing](https://www.reddit.com/r/Bitcoin/comments/1pf5aef/weak_hands_and_overleveraged_tourists_panicsell/)**
+
+Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
+
+5h ago
+
+---
+
+**[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
+
+59m ago
 
 ---
 
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -127,7 +133,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 Most people let their wallet software generate their private key, which is totally fine but Bitcoin doesn’t require a computer to create one. A Bitcoin private key is just a 256-bit number… And a fair coin flip produces 1 bit of entropy. So in theory (and in practice), you can generate a completely valid, secure Bitcoin private key by doing: Heads = 1 Tails = 0 The math is simple. 256 coin flips is 2^256 potential outcomes. Once you have your 256-bit binary sequence, you can convert it offline into: hex format WIF private key or even a BIP39 seed phrase All without touching the internet. You could also do this with dice, a dice roll is roughly 2.585 bits of entropy. Therefore 99-100 dice rolls will give you enough entropy for a 256 bit private key. This works because Bitcoin’s security comes from math. I mean how could you not love Bitcoin!
 
-5h ago
+7h ago
 
 ---
 
@@ -135,13 +141,7 @@ Most people let their wallet software generate their private key, which is total
 
 Hi I’m new to this. I don’t have a lot of money to put into it but wanted to start with 100. It’s ok ?
 
-6h ago
-
----
-
-**[Do not fear the volatility of the journey; fear the slow decay of staying behind.](https://www.reddit.com/r/Bitcoin/comments/1pf6zmn/do_not_fear_the_volatility_of_the_journey_fear/)**
-
-2h ago
+8h ago
 
 ---
 
@@ -149,27 +149,19 @@ Hi I’m new to this. I don’t have a lot of money to put into it but wanted to
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
-
-The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
-
-Bloomberg.com • 6h ago
-
----
-
 **[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[Stocks Are Leaving Bitcoin Behind: Evening Briefing Americas](https://www.bloomberg.com/news/newsletters/2025-12-05/stocks-are-leaving-bitcoin-behind-evening-briefing-americas)**
+**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
 
-Get caught up.
+The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
 
-Bloomberg.com • 27m ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -179,19 +171,19 @@ The Economist • 1d ago
 
 ---
 
-**[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
+**[Bitcoin Options Show Traders Hunkering Down for Crypto Winter](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-options-show-traders-hunkering-down-for-crypto-winter)**
 
-Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
+Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
 
-CNBC • 1d ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html)**
+**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
 
-A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
+Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Yahoo Finance • 2d ago
+Decrypt • 7h ago
 
 ---
 
@@ -209,15 +201,21 @@ The New York Times • 2d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdwWixt8PylydQ9sO0RDZQ-cOyou43CkqDXSRacP5rQYReDIvlBQ3B8&gaa_ts=693371cd&gaa_sig=YCRCLdAenNGgRR8mfvOSzTKEiZUvK9BP9licCgZ_eHfzVoAonYXYPVZnsj_bT3CePWaKvLJrC7XbCVbWhSggqg%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqe4PDIQD8_7d4a80FGtwlKMq98KsajA9FYM1uBk1bSiPj1y3wdKO5ly&gaa_ts=69338d70&gaa_sig=F-oAPGgJfdA_jh5SYjW2rKB2cCLIEBooUr66yv76EkkfwOkk67eThYuMA0iOx1456vGVwScTes9dtwzmiyjrwg%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[Bitcoin price today: slides to $90k ahead of PCE inflation, potential Fed cut](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-dips-to-92k-ahead-of-pce-inflation-potential-fed-cut-4392545)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqf6xilCCrH8G4qdvmVjuz7B-zGlblw9KK_MXcZk1nCKPRNF1XxBXLhq&gaa_ts=69338d70&gaa_sig=gd5qNt-Ka9DRWqbAoEAGWDxNgr5s2MdoJVuSr0lMxYgdcE-iP589lkNDSzoKZ1D8xlz-ZC9GGuwssw0JrLIOwg%3D%3D)**
 
-Investing.com • 8h ago
+The Wall Street Journal • 3d ago
+
+---
+
+**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqc7N4h1d7T-d9bmgfhtiDhdVfqUYqQys7-ARdDemfxtMEfryjMa9QR5&gaa_ts=69338d70&gaa_sig=5U2MGlPAYP2mK6x0R77baPtXRg1SWl-D1wnk8tbNA5iVogEjOelmr0f_oGe2nQ2omVmLD1aQKU0weSqPmj5ZJQ%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -301,23 +299,23 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 25K • 👍 1K • 💬 415 • ⏱️ 10:13 • 9h ago
-
----
-
 **[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
 
 FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
 📺 Library Of Wealth
 
-👁️ 14K • 👍 373 • 💬 436 • ⏱️ 15:38 • 18h ago
+👁️ 16K • 👍 392 • 💬 316 • ⏱️ 15:38 • 20h ago
+
+---
+
+**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 28K • 👍 1K • 💬 275 • ⏱️ 10:13 • 11h ago
 
 ---
 
@@ -327,7 +325,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 10K • 👍 1K • 💬 235 • ⏱️ 10:23 • 6h ago
+👁️ 16K • 👍 1K • 💬 285 • ⏱️ 10:23 • 8h ago
 
 ---
 
@@ -337,7 +335,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 68K • 👍 5K • 💬 344 • ⏱️ 15:38 • 12h ago
+👁️ 78K • 👍 5K • 💬 375 • ⏱️ 15:38 • 14h ago
 
 ---
 
@@ -347,7 +345,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 436 • 💬 286 • ⏱️ 5:50 • 6h ago
+👁️ 9K • 👍 499 • 💬 155 • ⏱️ 5:50 • 8h ago
+
+---
+
+**[Ben Cowen: Quantitative Tightening Ends in December – Is the Bitcoin Cycle Just Starting?](https://www.youtube.com/watch?v=-znP_VRvzUw)**
+
+Ben Cowen drops a major update: Jerome Powell just confirmed quantitative tightening ends in December, potentially kicking off ...
+
+📺 Bitcoin Magazine
+
+👁️ 845 • 👍 22 • 💬 13 • ⏱️ 7:52 • 5h ago
+
+---
+
+**[Michael Saylor: &quot;I&#39;m More Bullish Than EVER on Bitcoin!&quot;](https://www.youtube.com/watch?v=1no2ashJSIU)**
+
+Michael Saylor isn't just bullish — he's placing Bitcoin inside a countdown. By 2035, he says 99% of all Bitcoin will have been ...
+
+📺 The Bitcoin Revolution
+
+👁️ 1K • 👍 55 • 💬 45 • ⏱️ 13:29 • 9h ago
 
 ---
 
@@ -357,17 +375,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 4K • 💬 331 • ⏱️ 23:27 • 23h ago
-
----
-
-**[WAIT: JP Morgan is STILL predicting $170,000 Bitcoin in 2026?! | EP 1392](https://www.youtube.com/watch?v=sU3cb55xCGo)**
-
-After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 year cycle is over?
-
-📺 Simply Bitcoin
-
-👁️ 6K • 👍 343 • 💬 185 • ⏱️ 1:34:16 • 4h ago
+👁️ 46K • 👍 4K • 💬 265 • ⏱️ 23:27 • 1d ago
 
 ---
 
@@ -377,7 +385,7 @@ In today's video, Miles Deutscher breaks down why Bitcoin's reaction to fear is 
 
 📺 Miles Deutscher Finance
 
-👁️ 2K • 👍 168 • 💬 239 • ⏱️ 49:07 • 7h ago
+👁️ 3K • 👍 189 • 💬 260 • ⏱️ 49:07 • 9h ago
 
 ---
 
@@ -387,17 +395,7 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 24K • 👍 915 • 💬 27 • ⏱️ 28:20 • 1d ago
-
----
-
-**[Brian Armstrong and Larry Fink Are Not Worried About Another Crypto Winter](https://www.youtube.com/watch?v=HeFwIsrtgVQ)**
-
-Watch all of the day's interviews: https://www.youtube.com/playlist?list=PLN09HiJl-9wVJ2hDvfQd3JAJd7kG8aGfT Brian ...
-
-📺 New York Times Events
-
-👁️ 74K • 👍 2K • 💬 91 • ⏱️ 34:35 • 2d ago
+👁️ 25K • 👍 931 • 💬 27 • ⏱️ 28:20 • 1d ago
 
 ---
 

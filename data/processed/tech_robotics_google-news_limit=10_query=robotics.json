@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "After AI push, Trump administration is now looking to robots",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODlWRm96ekx1MlBkMnZOcE5zMm9ZRkZjVTI1YlNiNm9wS1BNTGJNMDV0RmphQlhFeF9wdEx5UWI1RjRzZGp5UlRZNTloa3RGd241ZTlkRXpYR0hYdXRmYzJBdXROSk5BNUdSeFdhaUhFcmdOOUpuVHBVdjh5a1FONkpGbV96czczRmc?oc=5",
-      "pub_date": 1764775036.0,
-      "article_url": "https://www.politico.com/news/2025/12/03/trump-administration-ai-robotics-00674204",
-      "image": null,
-      "description": null
+      "headline": "Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGg1MnFMUmF2WW1YRlpUODdKWUIzMnF2alpLS3d4WlAwWDlIalNkWVNHb2RIUWktVmh1ZkNlMGJPcWpRaTFxd052V05iNVlkbTdtdUFISHFUZ1pIZkZKeFdHTkg5NGxjOUVfRzFmb0szOEc0WEstM3NtQ1FKLWhXaldta0RCQ2l5UUt2cm01WFBKUkN0VkZuVFFIX05GcVNU?oc=5",
+      "pub_date": 1764928800.0,
+      "article_url": "https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2210278635/image_2210278635.jpg?io=getty-c-w1536",
+      "description": "Robotics technologies could be 2026\u00e2\u0080\u0099s next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI."
     },
     {
       "headline": "MIT\u2019s AI Robotics Lab Director Is Building People-Centered Robots",
@@ -65,6 +65,16 @@
       "description": "As AI advances into the real world of robotics and automation, we\u2019re seeing a turning point for physical AI \u2014 1X\u2019s NEO Home Robot can now adapt to new environments in real-time, Physical Intelligence\u2019s Pi0 became the first robot to fold laundry with human-level dexterity straight from a hamper, and Tesla\u2019s Optimus is performing complex [\u2026]"
     },
     {
+      "headline": "Massimo Group (NASDAQ: MAMO) forms AI robotics division to enter global automation and smart-systems markets",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkNhNUFyN3hFa2ZYM2dtQ2k2OEdzVVhmV0pjbWNUQ1FDN0h1TmJtRXpQRUh5UnNvUjYtakZEcXBYbEw1TkQ1eVptNENxRloyMWtsdEdnMWZpUWZaRklOQVhEM3oweXlnNFc5UDNtS1BLblFmU2dLNTNIUVZ5dEJZWVBLN05zU2FSb2V2NnV3dF9WZWNvTzFVcWJIRVdISXlMVW1NWXNGWkpmTnlMYlp3UzJNZmpNU2JZU3hDdGxOSQ?oc=5",
+      "pub_date": 1764854700.0,
+      "article_url": "https://www.stocktitan.net/news/MAMO/massimo-group-announces-formation-of-ai-robotics-division-expanding-p08w84pho0qe.html",
+      "image": "https://www.stocktitan.net/news_covers/Massimo_Group_Announces_Formation_of_AI_Robotics_Division_Expanding_Into_Global_Automation_and_Smar_944006.png",
+      "description": "Massimo Group forms Massimo AI Technology to develop industrial automation and logistics robotics, aiming to diversify revenue and expand beyond powersports and EVs."
+    },
+    {
       "headline": "Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO",
       "source": "Fierce Biotech",
       "source_url": "https://www.fiercebiotech.com",
@@ -75,24 +85,14 @@
       "description": "Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO."
     },
     {
-      "headline": "Video: US humanoid robot nears human jogging pace in new running demo",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORTZzb1VpQmpyRHJLT3U5QVZIQlVmQkYybXlUSk1FQU9UOUM5cHFlck01STdQNmhET3V5dTNLcDlLNnk2UHlqeVpHOVNPaFNUUnRlTS0zYXVWSmhaVTlpNGNxeWIzbGtPWGFZZzJmd2ZCMUItQllMc0dHZDBGMFpmSUFtaDlkc2U1UXo2OXpxVmw?oc=5",
-      "pub_date": 1764924840.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/figure-humanoid-nears-human-jogging-pace",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/1.jpg",
-      "description": "Figure AI CEO Brett Adcock dropped a short, electrifying video on social media, teasing the extraordinary speed and agility of Figure 03 humanoid robot."
-    },
-    {
-      "headline": "AI advances robot navigation on the International Space Station",
-      "source": "Stanford Report",
-      "source_url": "https://news.stanford.edu",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMkVoaE55bklaWGFlLTBLbE01Z18wVXJOZnJUNGdNakhIMXBRWjJLSFRyMUMzMmQtejlFUE4xalV4ekYtVTRWaDRaSjRpd1lmTlp4YmJ3bk4zNWhGRGp4NGhQRlA4aXVLYUNFeXNmNzM1WGpvOUYwaGF1WTQxSmlwUVg4UjFJUkJmTElYRkd2elFJbXBlM2tUdlFSNFlmRFk?oc=5",
-      "pub_date": 1764748800.0,
-      "article_url": "https://news.stanford.edu/stories/2025/12/ai-robot-international-space-station-autonomous-missions",
-      "image": null,
-      "description": null
+      "headline": "Bradford researchers to use robotic dogs and AI in wildfire trial",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jUjhybzBqSlo0ODdlSDZhX1NUSG5mV20zczEzalYxZi1WUEJiWHNDYVNDTnhRTjQ5dXc0QTZDOWJhX2YzZGgzVHFBRFNqcGdOdU9fLS1hQWg5d9IBX0FVX3lxTFAyVV9DZUx3WW5scTBhUmtmOHRqQXczYTBTMjlCbG9iei1rcU0xTU5FQ3FwWmhMdG9IUDhocXlzRDFvemw1NDJDblUyTU91X0RsTUFjSHRtSDZoRUUwYVpz?oc=5",
+      "pub_date": 1764842645.0,
+      "article_url": "https://www.bbc.com/news/articles/c3w7xqdp04qo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/600d/live/c6de1170-cf9e-11f0-976e-4fc7ee951a33.png",
+      "description": "Bradford researchers will take part in a pilot scheme in Greece next year to help spot wildfires."
     },
     {
       "headline": "Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T23:44:25.934504+00:00"
+  "fetched_at": "2025-12-06T01:42:21.906654+00:00"
 }

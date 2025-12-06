@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T17:13:45.837253+00:00'
+updated: '2025-12-06T17:32:06.781360+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
-- social
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 17:13 UTC  
+**Last Updated:** December 06, 2025 at 17:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 6h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 2h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 3h ago
 
 ---
 
@@ -74,6 +74,14 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
 1h ago
+
+---
+
+**[AI and the Rise of Content Density Resolution](https://www.reddit.com/r/artificial/comments/1pfu0dl/ai_and_the_rise_of_content_density_resolution/)**
+
+AI is quietly changing the way we read. It’s not just helping us produce content—it’s sharpening our ability to sense the difference between writing that has real depth and writing that only performs depth on the surface. Many people are experiencing something like an upgrade in “content density resolution,” the ability to feel how many layers of reasoning, structure, and judgment are actually embedded in a piece of text. Before AI, we often mistook length for complexity or jargon for expertise because there was no clear baseline to compare against. Now, after encountering enough AI-generated text—with its smooth surfaces, single-layer logic, and predictable patterns—the contrast makes genuine density more visible than ever. As this contrast sharpens, reading in the AI era begins to feel like switching from 720p to 4K. Flat content is instantly recognizable. Shallow arguments reveal themselves within a few sentences. Emotional bait looks transparent instead of persuasive. At the same time, the rare instances of multi-layer reasoning, compressed insight, or non-linear structure stand out like a different species of writing. AI unintentionally trains our perception simply by presenting a vast quantity of material that shares the same low-density signature. The moment you notice that some writing “moves differently,” that it carries internal tension or layered judgment, your density resolution has already shifted. This leads to a future where the real competition in content isn’t about volume, speed, or aesthetics—it’s about layers. AI can generate endless text, but it cannot easily reproduce the structural depth of human reasoning. Even casual users now report that AI has made it easier to “see through” many posts, articles, or videos they used to find convincing. And if you can already explain—or at least feel—why certain writing hits harder, lasts longer in your mind, or seems structurally alive, it means your perception is evolving. AI may automate creation, but it is upgrading human discernment, and this perceptual shift may become one of the most significant side effects of the AI era.
+
+34m ago
 
 ---
 
@@ -107,14 +115,6 @@ If you use AI for writing, have you found a way for it to capture your voice so 
 
 ---
 
-**[Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database](https://www.reddit.com/r/artificial/comments/1pet67v/huge_trove_of_nude_images_leaked_by_ai_image/)**
-
-An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
-
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -143,31 +143,17 @@ Detroit Free Press • 1h ago
 
 ---
 
-**[AI ‘creators’ might just crash the influencer economy](https://www.theverge.com/entertainment/839494/ai-literacy-tiktok)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcZ4YzVpl-J8Q5c5yRkBosZ8nU4TRE3Qay6NrZvk22adrmMg6jVVlRP&gaa_ts=69346bfc&gaa_sig=4drHF9eOWyyAjXQ4Ud6zZcaOBpGD0b9sijrrZZS4BiNKG67-2CgY4Plq2qA_TG6JojbudxwuEleUBjTNDMkePg%3D%3D)**
 
-On the slop-filled internet, Jeremy Carrasco uses his platforms to spread AI literacy.
-
-The Verge • 2h ago
+The Wall Street Journal • 15m ago
 
 ---
 
-**[This Country Songwriter Says AI Songs Should Be Labeled](https://www.rollingstone.com/music/music-features/ai-country-songs-should-be-labeled-breland-1235477535/)**
+**[Jeep's AI-generated talking animals ad turns heads](https://www.usatoday.com/videos/cars/news/2025/12/06/ai-generated-talking-animals-star-in-jeeps-commercial/87630227007/)**
 
-Country songwriter Breland says songs created with AI should be labeled as such and money made off them should go to grants for human artists.
+Jeep is running commercials made with artificial intelligence-generated graphics.
 
-Rolling Stone • 2h ago
-
----
-
-**[Nvidia vs. Everybody Else: Competition Mounts Against the Top AI Chip Company](https://www.wsj.com/tech/ai/nvidia-ai-chips-competitors-amd-broadcom-google-amazon-6729c65a?gaa_at=eafs&gaa_n=AWEtsqdpBfX_FhGZBB-j9fwDMCDRdMwjUj0UD4paDOCOoRISjnfg9E-OgbdD&gaa_ts=693462fb&gaa_sig=4xuN60ntmkCGXymA9Kw4g9fU6P1QxgGW9qRoDoOuyb3Jn1edShmNifZyChryB4BgBH0gnhB5dB3RM_4lA5jNPw%3D%3D)**
-
-The Wall Street Journal • 8h ago
-
----
-
-**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
-
-The New York Times • 1d ago
+USA Today • 1h ago
 
 ---
 
@@ -179,11 +165,25 @@ Fortune • 2d ago
 
 ---
 
+**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+
+The New York Times • 1d ago
+
+---
+
 **[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
 ABC News • 7h ago
+
+---
+
+**[Are We Seeing the First Steps Toward AI Superintelligence?](https://www.scientificamerican.com/article/how-close-are-todays-ai-models-to-agi-and-to-self-improving-into/)**
+
+Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
+
+Scientific American • 5h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 21h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 950 • 💬 1055 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 950 • 💬 1056 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -219,7 +219,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 689 • 💬 653 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 690 • 💬 653 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -227,7 +227,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 506 • 💬 262 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 508 • 💬 267 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -243,7 +243,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 347 • 💬 201 • 15h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 352 • 💬 205 • 16h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -267,7 +267,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 Welcome to the slop era.
 
-⬆️ 97 • 💬 172 • 23h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 97 • 💬 174 • 1d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -395,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,177 • 4d ago
+⬇️ 169,515 • ❤️ 2,178 • 4d ago
 
 ---
 
@@ -431,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 343 • 1d ago
+⬇️ 20,067 • ❤️ 344 • 1d ago
 
 ---
 
@@ -453,7 +453,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 250 • 4d ago
+⬇️ 0 • ❤️ 251 • 4d ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 881 • 🔱 105 • 4h ago
+⭐ 881 • 🔱 105 • 5h ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 808 • 🔱 22 • 2h ago
+⭐ 808 • 🔱 22 • 3h ago
 
 ---
 

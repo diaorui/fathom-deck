@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T17:13:45.844817+00:00'
+updated: '2025-12-06T17:32:06.789811+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 17:13 UTC  
+**Last Updated:** December 06, 2025 at 17:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -0.9%  
-**30d:** -13.4%  
-**90d:** -19.8%  
-**1y:** -10.1%  
+**24h:** +0.8%  
+**7d:** -0.7%  
+**30d:** -13.3%  
+**90d:** -19.7%  
+**1y:** -10.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1792.83B
+**Market Cap:** $1791.31B
 Rank #1
 
-**Circulating Supply:** 19,958,375 BTC
+**Circulating Supply:** 19,958,390 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
 -28.8%
 
 **All-Time Low:** $67.81
-+132241.8%
++132330.3%
 
 ---
 
@@ -79,17 +79,11 @@ Rank #1
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
-
-8h ago
-
----
-
-**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
 9h ago
 
@@ -103,9 +97,15 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 ---
 
+**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
+
+10h ago
+
+---
+
 **[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -129,15 +129,17 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 ---
 
-**[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
+**[Bullish on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pfti4e/bullish_on_bitcoin/)**
 
-16h ago
+I'm sure you have all heard this a million times before but this is my story. In 2015 I researched the crap out of Bitcoin and came to the conclusion that it had a lot of potential. I purchased 10 Bitcoins for $225 a piece through Coinbase. I then stored the Bitcoin in a cold wallet and put the address on a piece of paper in my safe. I told myself that I was going to forget I even bought the Bitcoins and that I wasn't going to take that piece of paper out of the safe for 20 years, and at that time it would either be worthless or potentially worth a lot of money. In January of 2017, the price of Bitcoin skyrocketed to over $1,000. I had made almost five times my money in a very short time. $10,000 was real money to me at the time as I had kids nearing College age, a lot of bills to pay, etc. As the price of Bitcoin hit almost $1,200 I was feeling very rich. But just as soon as it went to $1,200, it crashed all the way back below 800. I felt as though I had been wiped out almost overnight, as my Bitcoin lost almost a third of its value. Almost as soon as the price crashed below $800, it went back up to $1000. At that time I did what I said I would never do. I took the Bitcoin wallet address out of my safe, put it back in my coinbase account and sold for $1,000 per Bitcoin, turning my less than $2,500 investment into a cool $10 grand. Fast forward to earlier this year when Bitcoin hit $125,000. Talk about a lot of regrets selling those 10 Bitcoin. But I also remembered I still had my coinbase account. Much to my surprise I learned that I had a few sats still in my account. Coinbase had given me a dollar worth of bitcoin when I open the account and at the time Bitcoin was $225. That $1 worth of bitcoin they gave me was now worth over $550, lol. They also gave me another dollar worth of bitcoin for completing a transaction online which I did. The price at that time was around $250. So I was extremely surprised and grateful to see that my $2 worth of free bitcoin was not worth over $1,000. I am now almost 60 years old and approaching retirement. Up until the last couple of months I had done no crypto investing since my first Bitcoin purchase. The money I received from selling my Bitcoin I invested into hard assets such as silver which I really have enjoyed stacking. But stacking silver was a lot more fun when the price was under $25 an ounce. Tom Lee is now saying that retirees are going to start piling into Bitcoin as an alternative asset class. Although I am not yet retired, I feel as though I am living proof of his thesis. I think I have more conviction in Bitcoin now at $90,000 than I did at $225. Even though my Bitcoin Holdings now are a mere fraction of what I had previously, my dollar amount invested is much higher. I am really enjoying stacking crypto now and watching my balances grow. I am investing weekly in Bitcoin through my Strike account. I believe the value of Bitcoin will be significantly higher in the years to come. Good luck everyone!
+
+55m ago
 
 ---
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -149,15 +151,29 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
-**[Bitcoin Options Show Traders Hunkering Down for Crypto Winter](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-options-show-traders-hunkering-down-for-crypto-winter)**
+**[Bitcoin Is Set for First Yearly Split From Stocks in Decade](https://finance.yahoo.com/news/bitcoin-set-first-yearly-split-141041017.html)**
 
-Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
+The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday.
 
-Bloomberg.com • 19h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
+
+As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
+
+CoinDesk • 2h ago
+
+---
+
+**[From 2600% Gain to 86% Wipeout, Crypto’s Hottest Trade Collapsed](https://www.bloomberg.com/news/articles/2025-12-06/from-2600-gain-to-86-wipeout-crypto-s-hottest-trade-collapsed)**
+
+Bloomberg.com • 3h ago
 
 ---
 
@@ -181,6 +197,12 @@ The Economist • 2d ago
 
 ---
 
+**[MSTR Stock: Strategy, The Bitcoin Whale, Is Wall Street's Favorite Stock — By Far](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+
+Investor's Business Daily • 2h ago
+
+---
+
 **[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
 
 Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
@@ -189,31 +211,9 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html)**
+**[Popular Bitcoin company faces potential 10-year ban](https://www.thestreet.com/crypto/business/popular-bitcoin-company-faces-10-year-ban)**
 
-A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
-
-Yahoo Finance • 3d ago
-
----
-
-**[Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
-
-The New York Times • 3d ago
-
----
-
-**[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
-
-The Block • 1d ago
-
----
-
-**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
-
-JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
-
-Business Insider • 1d ago
+TheStreet • 1d ago
 
 ---
 
@@ -299,7 +299,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 10K • 👍 521 • 💬 399 • ⏱️ 9:08 • 16h ago
+👁️ 10K • 👍 521 • 💬 399 • ⏱️ 9:08 • 17h ago
 
 ---
 

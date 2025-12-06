@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T17:13:45.850391+00:00'
+updated: '2025-12-06T17:32:06.795811+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 17:13 UTC  
+**Last Updated:** December 06, 2025 at 17:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +2.0%  
-**30d:** -11.1%  
-**90d:** -29.2%  
-**1y:** -23.8%  
+**24h:** +1.8%  
+**7d:** +2.2%  
+**30d:** -10.9%  
+**90d:** -29.1%  
+**1y:** -23.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $369.28B
+**Market Cap:** $368.66B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
@@ -62,7 +62,7 @@ No max supply
 -38.2%
 
 **All-Time Low:** $0.43
-+705361.5%
++706246.0%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
 
-🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 54m ago
+🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 1h ago
 
 ---
 
@@ -168,11 +168,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Industry Leader Shares Why Ethereum Price Will Reach $12,000](https://www.tradingview.com/news/newsbtc:a204c146d094b:0-industry-leader-shares-why-ethereum-price-will-reach-12-000/)**
+**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
 
-Industry leader Tom Lee has shared how the Ethereum price could reach $12,000 within the next few months. He based his prediction on the Bitcoin price action and how ETH could match the flagship crypto on a potential run to the upside. Tom Lee Explains How The Ethereum Price Could Rally To $12,000S…
-
-TradingView • 2h ago
+The Block • 2d ago
 
 ---
 
@@ -180,7 +178,7 @@ TradingView • 2h ago
 
 BitMine bought nearly $200 million worth of Ethereum in the last two days, widening its lead as the largest single holder of ETH.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -250,7 +248,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 42K • 👍 2K • 💬 139 • ⏱️ 17:37 • 1d ago
+👁️ 42K • 👍 2K • 💬 139 • ⏱️ 17:37 • 2d ago
 
 ---
 
@@ -290,7 +288,7 @@ The "Sovereign" Secret: The US Govt's 60000 ETH Stash Everyone is talking about 
 
 📺 Wall Street Stockcast
 
-👁️ 209 • 👍 15 • 💬 1 • ⏱️ 7:40 • 4h ago
+👁️ 209 • 👍 15 • 💬 1 • ⏱️ 7:40 • 5h ago
 
 ---
 
@@ -310,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 161 • 💬 17 • ⏱️ 5:46 • 13h ago
+👁️ 3K • 👍 161 • 💬 17 • ⏱️ 5:46 • 14h ago
 
 ---
 

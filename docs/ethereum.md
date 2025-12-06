@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T13:34:41.907773+00:00'
+updated: '2025-12-06T13:46:48.438754+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 13:34 UTC  
+**Last Updated:** December 06, 2025 at 13:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** +1.2%  
-**30d:** -11.9%  
-**90d:** -29.8%  
-**1y:** -24.4%  
+**24h:** -2.2%  
+**7d:** +1.5%  
+**30d:** -11.6%  
+**90d:** -29.6%  
+**1y:** -24.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.96B
+**Market Cap:** $366.88B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.7%
+-38.5%
 
 **All-Time Low:** $0.43
-+700197.2%
++701885.5%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 8h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 9h ago
 
 ---
 
@@ -120,7 +120,7 @@ How to install the Wander Wallet browser extension?
 
 Trump crypto empire falls faster than bitcoin
 
-🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 1d ago
+🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 2d ago
 
 ---
 
@@ -316,7 +316,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 38 • 💬 133 • ⏱️ 5:24 • 23h ago
+👁️ 1K • 👍 38 • 💬 133 • ⏱️ 5:24 • 1d ago
 
 ---
 

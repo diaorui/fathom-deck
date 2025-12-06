@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T13:34:41.911035+00:00'
+updated: '2025-12-06T13:46:48.441510+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 13:34 UTC  
+**Last Updated:** December 06, 2025 at 13:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -62,19 +62,19 @@ https://youtu.be/UAlm8Z4mfpU
 
 ---
 
-**[AGIBOT D1 Pro](https://www.reddit.com/r/robotics/comments/1peuynn/agibot_d1_pro/)**
-
-AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
-
-1d ago
-
----
-
 **[Knee assist exoskeleton motor](https://www.reddit.com/r/robotics/comments/1pfl5ee/knee_assist_exoskeleton_motor/)**
 
 Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
 
 4h ago
+
+---
+
+**[AGIBOT D1 Pro](https://www.reddit.com/r/robotics/comments/1peuynn/agibot_d1_pro/)**
+
+AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
+
+1d ago
 
 ---
 
@@ -156,6 +156,14 @@ Stock Titan • 2d ago
 
 ---
 
+**[Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago](https://www.cnn.com/2025/12/03/asia/malaysia-mh370-robotics-search-latam-intl)**
+
+Malaysia’s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
+
+CNN • 2d ago
+
+---
+
 **[Melonee Wise to lead KUKA’s new software and AI organization](https://www.therobotreport.com/melonee-wise-leads-kuka-new-software-ai-organization/)**
 
 Wise is building a team of experts in Silicon Valley to unify KUKA's software systems and apply AI to more robots.
@@ -175,14 +183,6 @@ Fierce Biotech • 2d ago
 **[Classical Indian dance inspires new ways to teach robots how to use their hands](https://techxplore.com/news/2025-12-classical-indian-ways-robots.html)**
 
 Tech Xplore • 1d ago
-
----
-
-**[Video: Crawling humanoid robot shocks the internet with its animal-like moves](https://interestingengineering.com/ai-robotics/crawling-humanoid-robot-shocks-the-internet)**
-
-Humanoid robot drops to all fours, crawling with uncanny speed and flexibility, showing robots can move beyond human-like motion.
-
-Interesting Engineering • 1d ago
 
 ---
 
@@ -264,7 +264,7 @@ Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-t
 
 📺 New York Post
 
-👁️ 5K • 👍 99 • 💬 65 • ⏱️ 2:06 • 23h ago
+👁️ 5K • 👍 99 • 💬 65 • ⏱️ 2:06 • 1d ago
 
 ---
 

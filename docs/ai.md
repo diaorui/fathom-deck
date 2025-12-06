@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T13:34:41.893388+00:00'
+updated: '2025-12-06T13:46:48.426205+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 13:34 UTC  
+**Last Updated:** December 06, 2025 at 13:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,19 +53,19 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 ---
 
-**[Why is everyone so focused on generative AI when neural networks exist](https://www.reddit.com/r/artificial/comments/1pfmyfz/why_is_everyone_so_focused_on_generative_ai_when/)**
-
-I'm just curious about the differences, I'm not super educated on this, and I figured this place would know more than me
-
-2h ago
-
----
-
 **[The Strange Disappearance of an Anti-AI Activist | Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.](https://www.reddit.com/r/artificial/comments/1pfhump/the_strange_disappearance_of_an_antiai_activist/)**
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
 🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 7h ago
+
+---
+
+**[Why is everyone so focused on generative AI when neural networks exist](https://www.reddit.com/r/artificial/comments/1pfmyfz/why_is_everyone_so_focused_on_generative_ai_when/)**
+
+I'm just curious about the differences, I'm not super educated on this, and I figured this place would know more than me
+
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 If you use AI for writing, have you found a way for it to capture your voice so that the output doesn’t sound like it was written by artificial intelligence?
 
-🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 53m ago
+🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 1h ago
 
 ---
 
@@ -131,27 +131,25 @@ The New York Times • 1d ago
 
 ---
 
-**[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
+**[Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing](https://fortune.com/2025/12/06/nvidia-jensen-huang-ai-adoption-creep-gradual-robot-clothing/)**
 
-AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
+Jobs that consist entirely of routine tasks are most at risk of AI disruption, Huang said.
 
-ABC News • 3h ago
-
----
-
-**[How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup](https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12)**
-
-24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
-
-Business Insider • 3h ago
+Fortune • 1h ago
 
 ---
 
-**[The Most Vulnerable AI Stock if the Bubble Pops](https://finance.yahoo.com/news/most-vulnerable-ai-stock-bubble-115000530.html)**
+**[Nvidia CEO pours cold water on the AI power debate](https://www.thestreet.com/technology/nvidia-ceo-pours-cold-water-on-the-ai-power-debate)**
 
-Nvidia is the world's largest company, and it gets most of its revenue from AI spending.
+TheStreet • 22h ago
 
-Yahoo Finance • 1h ago
+---
+
+**[Jensen Huang Reveals AI's Biggest Problem, And It Is Not Chips — Joe Rogan Agrees This Is The 'Smartest' Way To Solve It](https://finance.yahoo.com/news/jensen-huang-reveals-ais-biggest-023105223.html)**
+
+On Wednesday, Nvidia Corp (NASDAQ:NVDA) CEO Jensen Huang told Joe Rogan that the future of artificial intelligence won't be constrained by chips but by electricity — and he expects tech giants to start powering their data centers with their own ...
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -163,6 +161,14 @@ The Motley Fool • 7h ago
 
 ---
 
+**[The Most Vulnerable AI Stock if the Bubble Pops](https://finance.yahoo.com/news/most-vulnerable-ai-stock-bubble-115000530.html)**
+
+Nvidia is the world's largest company, and it gets most of its revenue from AI spending.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More Than Palantir in 2026](https://www.nasdaq.com/articles/prediction-artificial-intelligence-ai-stock-will-be-worth-more-palantir-2026)**
 
 Key PointsDemand for Palantir's software tools has ushered in a wave of accelerated revenue and profit growth.
@@ -171,25 +177,19 @@ Nasdaq • 14h ago
 
 ---
 
-**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
+**[It should be illegal to vape indoors | Letters](https://www.freep.com/story/opinion/readers/2025/12/06/saline-data-center-chatbots-ai-vaping-drunk-driving/87617233007/)**
 
-While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
+Letter writers weigh in on everything from Michigan vaping and drunk driving laws to the ways leaders can build community.
 
-Fortune • 1d ago
-
----
-
-**[To AI or not to AI? Do college students appreciate the question?](https://www.npr.org/2025/12/05/nx-s1-5634649/to-ai-or-not-to-ai-do-college-students-appreciate-the-question)**
-
-Students are using AI tools more than ever. An Angelo State University professor designed a way to figure out if his students were using artificial intelligence on a recent paper.We speak with Will Teague, who says students are sacrificing their own agency to artificial intelligence. For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Henry Larson and Karen Zamora, with additional reporting by Ayana Archie and Lee V. Gaines. It was edited by Justine Kenin and Courtney Dorning. Our executive producer is Sami Yenigun.
-
-NPR • 16h ago
+Detroit Free Press • 2h ago
 
 ---
 
-**[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
+**[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
 
-The New York Times • 21h ago
+AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
+
+ABC News • 3h ago
 
 ---
 
@@ -217,7 +217,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 688 • 💬 652 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 689 • 💬 652 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -225,7 +225,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 481 • 💬 240 • 21h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 487 • 💬 243 • 21h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -241,7 +241,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 328 • 💬 181 • 12h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 333 • 💬 190 • 12h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -405,7 +405,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 741 • 5d ago
+⬇️ 18,140 • ❤️ 742 • 5d ago
 
 ---
 
@@ -429,7 +429,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 325 • 1d ago
+⬇️ 20,067 • ❤️ 331 • 1d ago
 
 ---
 
@@ -495,7 +495,7 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-⬇️ 274 • ❤️ 160 • 3d ago
+⬇️ 274 • ❤️ 161 • 3d ago
 
 ---
 
@@ -697,7 +697,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 824 • 🔱 43 • 7h ago
+⭐ 824 • 🔱 43 • 8h ago
 
 ---
 

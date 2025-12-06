@@ -37,7 +37,7 @@
       "url": "https://arxiv.org/abs/2512.04047",
       "hn_url": "https://news.ycombinator.com/item?id=46145180",
       "author": "50kIters",
-      "points": 688,
+      "points": 689,
       "num_comments": 652,
       "created_at": "2025-12-04T08:38:17Z",
       "object_id": "46145180",
@@ -51,8 +51,8 @@
       "url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
       "hn_url": "https://news.ycombinator.com/item?id=46163308",
       "author": "xnx",
-      "points": 481,
-      "num_comments": 240,
+      "points": 487,
+      "num_comments": 243,
       "created_at": "2025-12-05T16:15:10Z",
       "object_id": "46163308",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.width-1300.png",
@@ -79,8 +79,8 @@
       "url": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
       "hn_url": "https://news.ycombinator.com/item?id=46169554",
       "author": "mystraline",
-      "points": 328,
-      "num_comments": 181,
+      "points": 333,
+      "num_comments": 190,
       "created_at": "2025-12-06T01:15:48Z",
       "object_id": "46169554",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/07/05/Skz1mlnepO/Skz1mlnepO_1_105_1000_563_0_large.jpg",
@@ -145,7 +145,7 @@
       "site_name": "Newsweek"
     }
   ],
-  "total_hits": 537,
+  "total_hits": 532,
   "has_metadata": true,
-  "fetched_at": "2025-12-06T13:05:13.484903+00:00"
+  "fetched_at": "2025-12-06T13:46:22.154852+00:00"
 }

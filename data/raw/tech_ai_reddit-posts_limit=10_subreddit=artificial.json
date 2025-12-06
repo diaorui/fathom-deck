@@ -24,17 +24,6 @@
       "description": "Fei-Fei Li said that this \"extreme rhetoric\" is filling tech discourse and misinforming  people outside Silicon Valley."
     },
     {
-      "title": "Why is everyone so focused on generative AI when neural networks exist",
-      "author": "ailaau",
-      "url": "https://www.reddit.com/r/artificial/comments/1pfmyfz/why_is_everyone_so_focused_on_generative_ai_when/",
-      "published": 1765019827.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm just curious about the differences, I'm not super educated on this, and I figured this place would know more than me"
-    },
-    {
       "title": "The Strange Disappearance of an Anti-AI Activist | Sam Kirchner wants to save the world from artificial superintelligence. He\u2019s been missing for two weeks.",
       "author": "Youarethebigbang",
       "url": "https://www.reddit.com/r/artificial/comments/1pfhump/the_strange_disappearance_of_an_antiai_activist/",
@@ -44,6 +33,17 @@
       "site_name": "The Atlantic",
       "favicon": "https://cdn.theatlantic.com/_next/static/images/apple-touch-icon-default-b504d70343a9438df64c32ce339c7ebc.png",
       "description": "Sam Kirchner wants to save the world from artificial superintelligence. He\u2019s been missing for two weeks."
+    },
+    {
+      "title": "Why is everyone so focused on generative AI when neural networks exist",
+      "author": "ailaau",
+      "url": "https://www.reddit.com/r/artificial/comments/1pfmyfz/why_is_everyone_so_focused_on_generative_ai_when/",
+      "published": 1765019827.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm just curious about the differences, I'm not super educated on this, and I figured this place would know more than me"
     },
     {
       "title": "AI Slop Is Ruining Reddit for Everyone",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-06T13:05:18.066339+00:00"
+  "fetched_at": "2025-12-06T13:46:23.555047+00:00"
 }

@@ -65,12 +65,12 @@
       "description": "Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans."
     },
     {
-      "headline": "Ethereum Launches Fusaka Upgrade to Make Network More Scalable",
-      "source": "The Defiant",
-      "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd3o3LWRIeHkyeTNhWThCNVJfT1E3WXlqV2dLVnMyOTZteXhfcFZZczdXN1k0cWNhWmFsUlBJSDVMQXMwZTc5TjJhUlVwdjBYWktrLThzZ1hrSVk3Zk5HZGo3amtFVkFzWXRnN0kzNUZaS3pYdGZMczF2ME9KcVc2cW14QkQxLVgzUHJjZFBid2hNNEk2VHhYTExxQkJKNFhYOEhN?oc=5",
-      "pub_date": 1764798263.0,
-      "article_url": "https://thedefiant.io/news/blockchains/ethereum-launches-fusaka-upgrade-to-make-network-more-scalable",
+      "headline": "Fusaka rollout kicks off Ethereum\u2019s new twice-a-year hard-fork schedule",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkR1MjZzQ3N4RVJzNVVzd0s2UWhmVE05NVM4WTcyRjNUUk9nbENrckVqNlB1UHBVaUJPZ3NESHFrTVlpMmYzcXNzRXl5Z0lIVEJyUkJJRUxOb1hjRHV6VWNPeUs2a1AzdWFKVTg0X1pWU1J3V1FwY0Q2LWsxaFR6VkJnQ2FhVHBkS0VFMEt4TEptYnPSAZgBQVVfeXFMTTVRSjczR1FKbFFJMWFRR1psbFVoU0ZBVVB5Y2MzemZUT3RNZ05fZmljZFN0T1V0UnRrMllQYXBaYzFoSFZibHowZXB0OVU3d0pFV2FONFhtS2R5UXZUT3VSUlJCOHJIeHhYc0JFRzdsSHZqRUxDUWRPUW9IWFVrZXZpbkpTeHVFaGtoRU1aZWx0ckwxMW1IVXY?oc=5",
+      "pub_date": 1764798872.0,
+      "article_url": "https://www.theblock.co/post/381285/fusaka-rollout-ethereum-twice-year-hard-fork-schedule",
       "image": null,
       "description": null
     },
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T03:47:47.287881+00:00"
+  "fetched_at": "2025-12-06T04:32:43.956721+00:00"
 }

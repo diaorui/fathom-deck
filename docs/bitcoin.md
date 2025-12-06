@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T04:00:00.433487+00:00'
+updated: '2025-12-06T04:32:51.378901+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 04:00 UTC  
+**Last Updated:** December 06, 2025 at 04:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
+**24h:** -2.8%  
 **7d:** -1.2%  
 **30d:** -13.7%  
 **90d:** -20.0%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1789.82B
+**Market Cap:** $1789.07B
 Rank #1
 
-**Circulating Supply:** 19,958,090 BTC
+**Circulating Supply:** 19,958,121 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
 -28.9%
 
 **All-Time Low:** $67.81
-+132150.4%
++132063.4%
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
 
-7h ago
+8h ago
 
 ---
 
 **[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -123,15 +123,15 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 ---
 
-**[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
+**[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
-13h ago
+2h ago
 
 ---
 
-**[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
+**[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-1h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 Most people let their wallet software generate their private key, which is totally fine but Bitcoin doesn’t require a computer to create one. A Bitcoin private key is just a 256-bit number… And a fair coin flip produces 1 bit of entropy. So in theory (and in practice), you can generate a completely valid, secure Bitcoin private key by doing: Heads = 1 Tails = 0 The math is simple. 256 coin flips is 2^256 potential outcomes. Once you have your 256-bit binary sequence, you can convert it offline into: hex format WIF private key or even a BIP39 seed phrase All without touching the internet. You could also do this with dice, a dice roll is roughly 2.585 bits of entropy. Therefore 99-100 dice rolls will give you enough entropy for a 256 bit private key. This works because Bitcoin’s security comes from math. I mean how could you not love Bitcoin!
 
-9h ago
+10h ago
 
 ---
 
@@ -147,11 +147,27 @@ Most people let their wallet software generate their private key, which is total
 
 ## Google News: "bitcoin"
 
+**[Bitcoin Options Show Traders Hunkering Down for Crypto Winter](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-options-show-traders-hunkering-down-for-crypto-winter)**
+
+Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market.
+
+Bloomberg.com • 7h ago
+
+---
+
+**[Japan’s Higher Rates Puts Bitcoin in the Crosshairs of a Yen Carry Unwind](https://www.coindesk.com/markets/2025/12/05/japan-s-higher-rates-puts-bitcoin-in-the-crosshairs-of-a-yen-carry-unwind)**
+
+A stronger yen typically coincides with de-risking across macro portfolios, and that dynamic could tighten liquidity conditions that recently helped bitcoin rebound from November’s lows.
+
+CoinDesk • 1h ago
+
+---
+
 **[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -161,19 +177,11 @@ The Economist • 1d ago
 
 ---
 
-**[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
+**[Stocks Are Leaving Bitcoin Behind: Evening Briefing Americas](https://www.bloomberg.com/news/newsletters/2025-12-05/stocks-are-leaving-bitcoin-behind-evening-briefing-americas)**
 
-Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
+Get caught up.
 
-CNBC • 1d ago
-
----
-
-**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html)**
-
-A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
-
-Yahoo Finance • 2d ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -183,21 +191,21 @@ The New York Times • 2d ago
 
 ---
 
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqe3A_nOCg_8LJujoEDH4v7uYtKrw5or8DzkRkvgsN2v57m0UmcCKjV7&gaa_ts=6933aad7&gaa_sig=6QwA2lW8725agUpspbC9fUfQXrN2So_diTfjEKuhcrH3O4Pis9uvCqRpxllAPOyM0UOo4RUmKo7O-MgL5Ksiww%3D%3D)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcftN59lGNc1zoqgZaMNATm7NN6U9p6fDgbhWA6LPW0n8EBqdY0Fvmu&gaa_ts=6933b55c&gaa_sig=9ttPA9APe-IercLoTzHAyulIQwojKpl8_NOtneYfatLAb_Ued-Yo7SpB3bTUw7dmx_1NwhO2EI2NVMDsH8dhKw%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
 ---
 
-**[Vivek Ramaswamy’s Strive Sends Out A Warning Letter To MSCI Over Its Proposal To Shun Bitcoin Treasuries From Indexes](https://www.forbes.com/sites/digital-assets/2025/12/04/vivek-ramaswamys-strive-sends-out-a-warning-letter-to-msci-over-its-proposal-to-shun-bitcoin-treasuries-from-indexes/)**
+**[The man who got Eric Trump into American bitcoin before 70% rout](https://www.detroitnews.com/story/business/2025/12/05/the-man-who-got-eric-trump-into-american-bitcoin-before-70-rout/87623069007/)**
 
-MSCI indexes may soon exclude bitcoin treasury companies like Michael Saylor’s Strategy. That’s setting off alarm bells for the $100 billion industry and its fee-hungry bankers.
+Eric Trump rang the Nasdaq bell in September to celebrate a more than $500 million windfall from American Bitcoin Corp.’s trading debut. Three months later, the shares have cratered 70%.
 
-Forbes • 1d ago
+The Detroit News • 12h ago
 
 ---
 
-**[Why bitcoin could shoot to $170,000 in the next year, according to JPMorgan](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
 
 JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
@@ -209,15 +217,7 @@ Business Insider • 1d ago
 
 JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
 
-Yahoo Finance • 16h ago
-
----
-
-**[Bitcoin Preis (BTC) Ausblick: JPM bleibt bei $170K Ziel](https://www.coindesk.com/markets/2025/12/04/jpmorgan-retains-gold-linked-usd170k-bitcoin-target-despite-recent-plunge)**
-
-The bank’s volatility-adjusted bitcoin-to-gold model still points to a theoretical price around $170K over the next six to twelve months.
-
-CoinDesk • 11h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -307,7 +307,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 19K • 👍 2K • 💬 298 • ⏱️ 10:23 • 10h ago
+👁️ 19K • 👍 2K • 💬 298 • ⏱️ 10:23 • 11h ago
 
 ---
 
@@ -317,7 +317,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 16K • 👍 405 • 💬 340 • ⏱️ 15:38 • 22h ago
+👁️ 16K • 👍 405 • 💬 340 • ⏱️ 15:38 • 23h ago
 
 ---
 
@@ -327,7 +327,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 8K • 👍 83 • 💬 163 • ⏱️ 4:01 • 7h ago
+👁️ 8K • 👍 83 • 💬 163 • ⏱️ 4:01 • 8h ago
 
 ---
 
@@ -337,7 +337,7 @@ Everyone is screaming that Bitcoin is either going to zero or hitting a million 
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 184 • ⏱️ 12:20 • 5h ago
+👁️ 15K • 👍 1K • 💬 184 • ⏱️ 12:20 • 6h ago
 
 ---
 
@@ -347,7 +347,7 @@ Michael Saylor isn't just bullish — he's placing Bitcoin inside a countdown. B
 
 📺 The Bitcoin Revolution
 
-👁️ 1K • 👍 61 • 💬 45 • ⏱️ 13:29 • 11h ago
+👁️ 1K • 👍 61 • 💬 45 • ⏱️ 13:29 • 12h ago
 
 ---
 
@@ -357,7 +357,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 83K • 👍 6K • 💬 395 • ⏱️ 15:38 • 16h ago
+👁️ 83K • 👍 6K • 💬 395 • ⏱️ 15:38 • 17h ago
 
 ---
 
@@ -377,7 +377,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 288 • ⏱️ 10:13 • 13h ago
+👁️ 30K • 👍 1K • 💬 288 • ⏱️ 10:13 • 14h ago
 
 ---
 

@@ -5,6 +5,26 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin Options Show Traders Hunkering Down for Crypto Winter",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOektJWGdWMmJ0a1FkMWZUa2ZaY3dWZGhCaE5uZ2lPdHB3R2xvX0FPMUV3enNsVGdfLUY5NDhreWpEUkhuOTVqSkpLQzBtVl80MHVzRlRUcnFVZFFXUUIxUEN4RWljWGNsYWV1OEY5SW5QU1lBUTBQQ3ppejB3cUVzZ0ozWWhsRGlWUEZRSkpBYi1jdmhOSlFpMWhtV1Y3Nl92NjdWR250VkxrWTNtZFVlM05B?oc=5",
+      "pub_date": 1764970187.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-options-show-traders-hunkering-down-for-crypto-winter",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Ao6tC9Pe58/v0/1200x800.jpg",
+      "description": "Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market."
+    },
+    {
+      "headline": "Japan\u2019s Higher Rates Puts Bitcoin in the Crosshairs of a Yen Carry Unwind",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3Z6WkJiSTJscmVIUFFaNE5UNTdMeXNrS2hXZTJFS3Jqb0FLaEY2bV9ZbzJWTThBZkd3S3U5VGZ2WWlIbWo5UWowT1hYTG1ENW5sTWRWdlZvZUN5REJwaFhQZmZIUlA5d1ZNTVdRZzExUGR5WnlDQ0xtbHVFRDZBT1gyYjN0R2k2b1BkWnV0THNnNTUwTHprUDg5Vi1OaGE1Q2lFTnE5anBuUUJ3T2s3Y1RTNVBlTXRy?oc=5",
+      "pub_date": 1764991874.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/05/japan-s-higher-rates-puts-bitcoin-in-the-crosshairs-of-a-yen-carry-unwind",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2b80c002c296863a2eea4fb98ebe974ae5cf997f-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "A stronger yen typically coincides with de-risking across macro portfolios, and that dynamic could tighten liquidity conditions that recently helped bitcoin rebound from November\u2019s lows."
+    },
+    {
       "headline": "ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -25,24 +45,14 @@
       "description": null
     },
     {
-      "headline": "Why Michael Saylor's Strategy could hold the key for the whole bitcoin market",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGNUcjVTZE1XVW0ySldXWHhNdHZuTklUQU9NT1ozYlBZeWNLeFI4OHJCLXRqNFM0UEZPcVZBT3BhWFd1ekRBZFZlUzF0LTVrdG9hTUNWNlVVbzBvSGZYd25kdkM1TTF3T3h3QjV2UmFvZW9ESElOVkVTZGp5SF9wU0hoS0drb04yZmNDcDBIdTV2dVVkcWRsNUthS2VKNW96cmZVOC1aQVZpZkljYzc0NWFGUQ?oc=5",
-      "pub_date": 1764859950.0,
-      "article_url": "https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108235235-1764690992444-gettyimages-2247743557-img_6813.jpeg?v=1764691074&w=1920&h=1080",
-      "description": "Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts."
-    },
-    {
-      "headline": "Bitcoin\u2019s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3ZmSFVXZU80X3k0LU1TZ3UyYlB1MHl5QUNvdVhaUUFvZ3V3bnlfOUxJY2FNODNnR2dKT0JtS0hCNGluVXN6aG0xZTZMN05tdFFhb25FWXgzOEZfM3JoZGw2Vm5iUDczT0J5WHFxcktYWWlmWG5saFVGYVNXMHdPeVNwa1MwdkJienk0VA?oc=5",
-      "pub_date": 1764780516.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/FL24d8aJvPqLv_JDWpEY3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/97b3e1f462be391d2bad2e12ad194263",
-      "description": "A rule change could force Saylor's company to sell some of its $650 billion holdings\u2014but crypto veterans say Strategy will be just fine."
+      "headline": "Stocks Are Leaving Bitcoin Behind: Evening Briefing Americas",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFRHZk5Sbjc2V3doRFVCUUMwOGhralM0T2xrRDRJcmlTb2lZNTVqTzIyXzYwWlVrTHo5UHJOblVuaEF1d0xGTlhYYlluS1pOclMyc19pTElxU1NYMWZJMUNjYV9EY0hiM3NEVXpDRm1DM3BwWlN6X29zbTN4WGNfWlRlS2g3YU1zZDM2OGZsOUwxaDktS0I2aVJJcHV5UnU0MV9LQlhEcllhc2FTc0tlc2FsYw?oc=5",
+      "pub_date": 1764977262.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2025-12-05/stocks-are-leaving-bitcoin-behind-evening-briefing-americas",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.KuNOT.8cN4/v0/1200x800.jpg",
+      "description": "Get caught up."
     },
     {
       "headline": "Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.",
@@ -58,24 +68,24 @@
       "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQMzQwZ3Z4VGdCNEMtZC1IekFlTjNSS0dYVmZQV19IMTZLak1mNDE2UkUybU11U25RQWNZVFdkT3I5MjJhLWp5S2hOZFFESXBLNlhuNTFFYTBJVG9CcDdvczZZbXREVnY0aHZzUnB0T0N4N1EzNVd1WTJvZTM2VDVDSjBJbURxRWxtaEFwdVI1cUF3OGNpRjIwRHZxQWt2eVg1YlFqeGQyTmxWU1NQRGp1eWdXalBSQ2N1VUZ1bERydmVaNFhTWWVNNFVGaF90UW1NSHhDZDVMem42aGk0UWhWZlVfMm9LTWRqX0VqWTZlSGwydk9TM0piazNYTzluczNkM3ltbFNaczAxTkxfT2duaGRXZ1M3TlJ5allGLXcxVWpPY1BQTU9tdjBkM3hHMzUyR3VDV0l1YXJsUW1KYXhYWjR6WWw3cm1HUnlzYmdJSmEtNGdGUEhUVnlVelFTaWRsT0pTci1maVpVZFFvRm9UdFFVRXlWc0NpdUR1RkxZTHZ5X3hPaWt0Ml9FX05mdzYzbjRIaWFzMWladTFKajFKaERZUXBVN24zbGo4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNZWNRZWFnSUotY1dxa2FwRksyRThjVFRsMUpFNV84aksyT2FvbndRRy1UNzBHT19vcFJEVFh1RlBSb20talpiWktpZExvTGxPOXhvQkhfRDFlQ0dsWkhyckliemIxYjNKaWVUQWs5U0UwTDlkVEVsUkZPaXpFWXdHZ0NBVkFuS0M2c2hoaExOOFp6N2VtdkYxRFZsVjZRYzVEWmRVQ1dvOThDNUxzR0tmRjE4blFJcFJtbzdQcHl1NDI0WTVGV2RUak9uanlIb3pTWlFmWnBnc0pNSWpqTU5YWUVLQjgzTnZRZlB4cGtWV1llaHUtd19mSnNYZThNbklDR0lMa3hyQ3dmNkxDSE5FMDBRNnVuNnB5RDJmUmk1OG0zT2lHd05lYmI1UlROX01CUDlJdXNPT1daMXhhWXFfb2pxUVBsdXVBb1Rad0RELU9FVGRpSW5aS0o1YnpkNkotTUxyRFRvSHRrbThDVk9xeFhpQnhKTktNQXY5NTFiSVg5TnI1Z1BoSkdlN1B2YXV4VGtRMDh5VG14bnU0a3hucTMxc1VEekFVNkVJ?oc=5",
       "pub_date": 1764716700.0,
-      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqe3A_nOCg_8LJujoEDH4v7uYtKrw5or8DzkRkvgsN2v57m0UmcCKjV7&gaa_ts=6933aad7&gaa_sig=6QwA2lW8725agUpspbC9fUfQXrN2So_diTfjEKuhcrH3O4Pis9uvCqRpxllAPOyM0UOo4RUmKo7O-MgL5Ksiww%3D%3D",
+      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcftN59lGNc1zoqgZaMNATm7NN6U9p6fDgbhWA6LPW0n8EBqdY0Fvmu&gaa_ts=6933b55c&gaa_sig=9ttPA9APe-IercLoTzHAyulIQwojKpl8_NOtneYfatLAb_Ued-Yo7SpB3bTUw7dmx_1NwhO2EI2NVMDsH8dhKw%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Vivek Ramaswamy\u2019s Strive Sends Out A Warning Letter To MSCI Over Its Proposal To Shun Bitcoin Treasuries From Indexes",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaHJPdU9lZmhaRVZxelRYQTdkTnZfSTMyYzczOWlFcXVwWVpfV2VmUW5qRzNfNUkyYlU4VFJrX2VoZC1jbVN4X3hyYTd1d0h1MHc3LTNiZUpjdVNmUHVXeVQzc3pzem55d3dBb1J5V0J5ZGI2dWsxSmdSQVNpTnMtSU1xSWJoZy1CSGJpQWx1SXQzOEZrdWRwZVZGb1Fia04xYlF1S2F1dHQ1dG1CVHlMNVktQ1ZsdlZjcGwyVkVydVRGVnhSVEljWlUtSmo4eEJtX05JcDNGR2ktSnpHdkNrbDZqazRkejEybGhiS0U4VFZDbEFtQVhUQ2dURTZjeGthLWc?oc=5",
-      "pub_date": 1764887257.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2025/12/04/vivek-ramaswamys-strive-sends-out-a-warning-letter-to-msci-over-its-proposal-to-shun-bitcoin-treasuries-from-indexes/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6931e960e01f03eb9bf6890b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "MSCI indexes may soon exclude bitcoin treasury companies like Michael Saylor\u2019s Strategy. That\u2019s setting off alarm bells for the $100 billion industry and its fee-hungry bankers."
+      "headline": "The man who got Eric Trump into American bitcoin before 70% rout",
+      "source": "The Detroit News",
+      "source_url": "https://www.detroitnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZU5nSEJFSEc0c3RkYWl4V1lCNUtwWnhzcUIxR3haelpyVEF6MjRVSzBJM0l3UkhRdGhFd3dndi1RZllkeXF0Q21QVHRoenBHS2lza2JoUWxIQnRzWjl1NmQxQ25XT29yamh3d2NRRTQxRi1na3A0X3dZOG1Hc2N0YnpCTjA0b1dIbm9MYkhZb0paVzQ1SDNxc1ZzZTVhZmd3R1owa0xfMXFYeWNxMmtCeFdnVXA4WnVlVVhqVU1zc2ZNSWg4LWI2OXln?oc=5",
+      "pub_date": 1764951180.0,
+      "article_url": "https://www.detroitnews.com/story/business/2025/12/05/the-man-who-got-eric-trump-into-american-bitcoin-before-70-rout/87623069007/",
+      "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2025/12/05/PDTN/87623039007-erictrumpbg-iawubojizba-2-tgozfyhq-4-zysiy.jpg?crop=2913,1639,x911,y989&width=2913&height=1639&format=pjpg&auto=webp",
+      "description": "Eric Trump rang the Nasdaq bell in September to celebrate a more than $500 million windfall from American Bitcoin Corp.\u2019s trading debut. Three months later, the shares have cratered 70%."
     },
     {
-      "headline": "Why bitcoin could shoot to $170,000 in the next year, according to JPMorgan",
+      "headline": "Why JPMorgan says bitcoin could rocket to $170,000 in the coming months",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2c4WWkwZ1hoR0YtNGVDOEdjSnEwQU1GR0I4S21TSXZEekVHYUdpdmRiMVMzQ05NQU42TExCSUhfX3otTEdPMXRYS3pscy02Sk5HSjA0VVlKYVAxQ1R2QkVRanZyLUdIcV8waDVVM25oUTlwSzVhYzZsVUs0QVdpMjVnYjVVYWl0UFVPbnFWcXd1ckRmM3BTRms0QjI?oc=5",
@@ -93,18 +103,8 @@
       "article_url": "https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html",
       "image": "https://media.zenfs.com/en/cryptonews_us_711/47574c9b83aed417ba4b14b68ce68276",
       "description": "JPMorgan analysts say the near-term direction of Bitcoin\u2019s price now depends less on miner behavior and more on the financial resilience of Strategy, the world\u2019s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ..."
-    },
-    {
-      "headline": "Bitcoin Preis (BTC) Ausblick: JPM bleibt bei $170K Ziel",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTFIM2ZjZTlpRU12cF9hckdoUVlTZmlLbU1IM21NRnYtMWpTcWZsSkVFZTlCRDhNY0FZYkg1RDdaeUROeURQOXp2MlFfNEpCTXQ3TktUUWduZnR5c3dibW1odUpScm9kbTdOZ3FlU253SmY3WHIxM3RrUlhyNjgyVTBWd3RlcFlfdlFPV3NEOFMxc0gtYXV5bEs5VVZtaDd2dE9XRUFQeWY1aS1vRE1Ha1puaHZkeHRk?oc=5",
-      "pub_date": 1764951632.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/04/jpmorgan-retains-gold-linked-usd170k-bitcoin-target-despite-recent-plunge",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cea9f4fef04e3ac91c879f25c3304b72561be4c9-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The bank\u2019s volatility-adjusted bitcoin-to-gold model still points to a theoretical price around $170K over the next six to twelve months."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T03:47:52.676775+00:00"
+  "fetched_at": "2025-12-06T04:32:45.312914+00:00"
 }

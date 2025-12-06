@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T11:53:03.466308+00:00'
+updated: '2025-12-06T12:28:56.279504+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 11:53 UTC  
+**Last Updated:** December 06, 2025 at 12:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 18h ago
-
----
-
-**[Why is everyone so focused on generative AI when neural networks exist](https://www.reddit.com/r/artificial/comments/1pfmyfz/why_is_everyone_so_focused_on_generative_ai_when/)**
-
-I'm just curious about the differences, I'm not super educated on this, and I figured this place would know more than me
-
-35m ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 19h ago
 
 ---
 
@@ -57,7 +49,15 @@ I'm just curious about the differences, I'm not super educated on this, and I fi
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 1h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 2h ago
+
+---
+
+**[Why is everyone so focused on generative AI when neural networks exist](https://www.reddit.com/r/artificial/comments/1pfmyfz/why_is_everyone_so_focused_on_generative_ai_when/)**
+
+I'm just curious about the differences, I'm not super educated on this, and I figured this place would know more than me
+
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 5h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 6h ago
 
 ---
 
@@ -73,13 +73,13 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 22h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 23h ago
 
 ---
 
 **[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -87,7 +87,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 23h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 1d ago
 
 ---
 
@@ -101,7 +101,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York Times sues AI startup for ‘illegal’ copying of millions of articles.[2] Meta acquires AI-wearables startup Limitless.[3] MIT researchers “speak objects into existence” using AI and robotics.[4] Sources: [1] https://www.axios.com/2025/12/03/joe-rogan-jensen-huang-podcast-trump [2] https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit [3] https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/ [4] https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 19h ago
+The Keyword • 20h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 1h ago
+ABC News • 2h ago
 
 ---
 
@@ -143,13 +143,31 @@ ABC News • 1h ago
 
 24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
-**[Qatar Says AI Demand, Underinvestment May Drive LNG Shortage](https://www.bloomberg.com/news/articles/2025-12-06/qatar-says-ai-demand-underinvestment-may-drive-lng-shortage)**
+**[The Most Vulnerable AI Stock if the Bubble Pops](https://finance.yahoo.com/news/most-vulnerable-ai-stock-bubble-115000530.html)**
 
-Bloomberg.com • 1h ago
+Nvidia is the world's largest company, and it gets most of its revenue from AI spending.
+
+Yahoo Finance • 38m ago
+
+---
+
+**[Which Artificial Intelligence (AI) Stocks Are Billionaires Buying the Most?](https://www.fool.com/investing/2025/12/06/which-artificial-intelligence-ai-stocks-are-billio/)**
+
+Two AI stocks especially stand out.
+
+The Motley Fool • 6h ago
+
+---
+
+**[Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More Than Palantir in 2026](https://www.nasdaq.com/articles/prediction-artificial-intelligence-ai-stock-will-be-worth-more-palantir-2026)**
+
+Key PointsDemand for Palantir's software tools has ushered in a wave of accelerated revenue and profit growth.
+
+Nasdaq • 12h ago
 
 ---
 
@@ -169,27 +187,11 @@ NPR • 14h ago
 
 ---
 
-**[AI deepfakes of real doctors spreading health misinformation on social media](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media)**
+**[Meta acquiring AI wearable company Limitless](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
 
-Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
+Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-The Guardian • 17h ago
-
----
-
-**[A safety report card ranks AI company efforts to protect humanity](https://www.latimes.com/entertainment-arts/business/story/2025-12-05/ai-artificial-intelligence-company-scorecard-ranks-safety-humanity)**
-
-Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety.
-
-Los Angeles Times • 1d ago
-
----
-
-**[The Strange Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/)**
-
-Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
-
-The Atlantic • 1d ago
+CNBC • 16h ago
 
 ---
 
@@ -225,7 +227,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 472 • 💬 233 • 19h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 477 • 💬 237 • 20h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -241,7 +243,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 315 • 💬 169 • 10h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 322 • 💬 175 • 11h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -249,7 +251,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 247 • 💬 202 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 247 • 💬 203 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -273,7 +275,7 @@ Multiple divisions at Microsoft have lowered sales growth targets for certain ar
 
 Welcome to the slop era.
 
-⬆️ 91 • 💬 169 • 18h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 91 • 💬 170 • 18h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -287,17 +289,7 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 755K • 👍 18K • 💬 4K • ⏱️ 2:04:06 • 2d ago
-
----
-
-**[AI Has Gone Too Far](https://www.youtube.com/watch?v=CTF73mW8kcE)**
-
-Another heaping of AI Slop, this time involving Franklin the Turtle, Japanese game developers and the blatant copyright abuse of ...
-
-📺 Dolan Darkest
-
-👁️ 224K • 👍 13K • 💬 2K • ⏱️ 2:28 • 18h ago
+👁️ 767K • 👍 18K • 💬 4K • ⏱️ 2:04:06 • 2d ago
 
 ---
 
@@ -307,7 +299,7 @@ Connor Leahy discusses the motivations of AGI corporations, how modern AI is "gr
 
 📺 Future of Life Institute
 
-👁️ 26K • 👍 1K • 💬 476 • ⏱️ 15:40 • 1d ago
+👁️ 26K • 👍 1K • 💬 486 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -317,7 +309,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 15K • 👍 170 • 💬 36 • ⏱️ 22:41 • 12h ago
+👁️ 16K • 👍 186 • 💬 25 • ⏱️ 22:41 • 12h ago
 
 ---
 
@@ -327,7 +319,17 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 191 • ⏱️ 12:07 • 11h ago
+👁️ 38K • 👍 1K • 💬 203 • ⏱️ 12:07 • 11h ago
+
+---
+
+**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
+
+Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
+
+📺 End Times Productions
+
+👁️ 99K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
 
 ---
 
@@ -337,27 +339,7 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 719K • 👍 16K • 💬 950 • ⏱️ 4:58 • 1d ago
-
----
-
-**[Between Dimensions: The Entities Lovecraft Warned Us About Are Here Now](https://www.youtube.com/watch?v=h6efTA8z1UI)**
-
-Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
-
-📺 End Times Productions
-
-👁️ 97K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
-
----
-
-**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
-
-Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
-
-📺 VisualEconomik EN
-
-👁️ 90K • 👍 3K • 💬 302 • ⏱️ 15:46 • 2d ago
+👁️ 727K • 👍 16K • 💬 954 • ⏱️ 4:58 • 1d ago
 
 ---
 
@@ -367,17 +349,37 @@ Horse saved apple plants from drying up by watering it #ai #apple #tree #horse.
 
 📺 Toonify Ai 2.0
 
-👁️ 2K • 👍 277 • ⏱️ 0:28 • 9h ago
+👁️ 18K • 👍 327 • ⏱️ 0:28 • 10h ago
 
 ---
 
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=6DIFQm4MXYI)**
+**[Senior Army soldier makes a train of gold for a couple #ai #shorts](https://www.youtube.com/watch?v=7dHpUVoSjy8)**
 
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+Senior Army soldier makes a train of gold for a couple#ai #shorts An old grandfather and grandmother fell off the tracks into the ...
 
-📺 Impossible AIs
+📺 Rudra K Ai
 
-👁️ 459K • 👍 1K • 💬 64 • ⏱️ 8:09 • 2d ago
+👁️ 15K • ⏱️ 0:26 • 4h ago
+
+---
+
+**[Grandmother rescues Girl and builds Gold water slide for her 😭 #ai​ #water​ #save​](https://www.youtube.com/watch?v=Vtl25P_prAE)**
+
+Grandmother rescues the Girl and builds Gold water slide for her #ai #water #save #viral #shorts.
+
+📺 Ai Animated Dream 
+
+👁️ 9K • 👍 98 • ⏱️ 0:22 • 2h ago
+
+---
+
+**[the Hippo and hen heartbroken Story 😭 #short #ai #tree](https://www.youtube.com/watch?v=P2vzoeEeG4w)**
+
+This short AI-animated story tells a simple and meaningful moment with clear English narration. The characters and scenes are ...
+
+📺 Duk Ai Short
+
+👁️ 13K • 👍 845 • 💬 2 • ⏱️ 0:43 • 1d ago
 
 ---
 
@@ -393,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,164 • 3d ago
+⬇️ 169,515 • ❤️ 2,165 • 4d ago
 
 ---
 
@@ -405,7 +407,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 739 • 5d ago
+⬇️ 18,140 • ❤️ 741 • 5d ago
 
 ---
 
@@ -429,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 323 • 1d ago
+⬇️ 20,067 • ❤️ 324 • 1d ago
 
 ---
 
@@ -441,7 +443,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,530 • ❤️ 339 • 4d ago
+⬇️ 2,530 • ❤️ 340 • 4d ago
 
 ---
 
@@ -461,7 +463,7 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 223 • 4d ago
+⬇️ 0 • ❤️ 225 • 4d ago
 
 ---
 
@@ -473,7 +475,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 196,425 • ❤️ 904 • 9d ago
+⬇️ 196,425 • ❤️ 906 • 9d ago
 
 ---
 
@@ -497,7 +499,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 `text-to-image`
 
-⬇️ 1,849 • ❤️ 162 • 2d ago
+⬇️ 1,849 • ❤️ 163 • 3d ago
 
 ---
 
@@ -649,7 +651,7 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.2k • 🔱 402 • 1d ago
+⭐ 5.2k • 🔱 403 • 1d ago
 
 ---
 
@@ -659,7 +661,7 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.5k • 🔱 126 • 2d ago
+⭐ 1.5k • 🔱 127 • 2d ago
 
 ---
 
@@ -689,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 843 • 🔱 104 • 14h ago
+⭐ 848 • 🔱 104 • 5m ago
 
 ---
 
@@ -709,7 +711,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 796 • 🔱 20 • 10d ago
+⭐ 800 • 🔱 20 • 10d ago
 
 ---
 
@@ -729,7 +731,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 725 • 🔱 14 • 17d ago
+⭐ 726 • 🔱 14 • 17d ago
 
 ---
 
@@ -739,7 +741,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 601 • 🔱 206 • 4h ago
+⭐ 608 • 🔱 208 • 5h ago
 
 ---
 

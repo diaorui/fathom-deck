@@ -95,16 +95,16 @@
       "description": "Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market."
     },
     {
-      "headline": "$4B in Bitcoin and Ethereum options set to expire",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaVnVERWUtdGx5Slp6VFNFSWR0ZXVuQ0lRM1BpQ0QwSXR6ZHpLRVlWWmZlXzVaZjFqakJ6OUpVcFdKY3FjX3FGd05zVXI1anJ0TmtxelU2UnM5czR5QlVweTNNYV9pWklscVdOQmJMRmVjZ3NfT2c?oc=5",
-      "pub_date": 1764942556.0,
-      "article_url": "https://cryptobriefing.com/4-billion-btc-eth-options-expiry-impact/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2025/12/05084831/7d10d04d-93a4-4224-9fa6-ca67cac16b6d-800x420.jpg",
-      "description": "Around $4 billion in Bitcoin and Ethereum options contracts will expire today, potentially impacting market volatility."
+      "headline": "Jane Street Leads $105M Funding for Antithesis, a Testing Tool Used by Ethereum Network",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUEstcUdZRjhLUWlQemxwcEt3VHV2X2NYbE4xSDZLSl83alVnWV9xVnNqOWZZdDdNRV9UNXcwdGU1SExWS2ZENlRTUG56c01xbVc2WWRPLTRoRWFOblp2ckRFYTdBNEZsMUVmZUJGRGY2YUl4RmlSWXdiQXMycEFxRm9fbnZwTjIzX2VGQk5qT0lHdE5zaFp2MDdjRk42SHBoVER3WmJ1bjg2ZlZIdVFKM3BDZlJlM1J2MEpfLUxnakZPOWJSWFJ5dW1BclNfdw?oc=5",
+      "pub_date": 1764768807.0,
+      "article_url": "https://www.coindesk.com/business/2025/12/03/jane-street-leads-usd105m-funding-for-antithesis-a-testing-tool-used-by-ethereum-network",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2bb99ef791db1603a7268017479b6182f3952bc2-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Antithesis said its Series A will scale deterministic simulation testing, replaying complex failures exactly for crypto and other always-on systems."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T11:52:58.158328+00:00"
+  "fetched_at": "2025-12-06T12:28:51.301939+00:00"
 }

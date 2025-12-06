@@ -51,8 +51,8 @@
       "url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
       "hn_url": "https://news.ycombinator.com/item?id=46163308",
       "author": "xnx",
-      "points": 472,
-      "num_comments": 233,
+      "points": 477,
+      "num_comments": 237,
       "created_at": "2025-12-05T16:15:10Z",
       "object_id": "46163308",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.width-1300.png",
@@ -79,8 +79,8 @@
       "url": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
       "hn_url": "https://news.ycombinator.com/item?id=46169554",
       "author": "mystraline",
-      "points": 315,
-      "num_comments": 169,
+      "points": 322,
+      "num_comments": 175,
       "created_at": "2025-12-06T01:15:48Z",
       "object_id": "46169554",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/07/05/Skz1mlnepO/Skz1mlnepO_1_105_1000_563_0_large.jpg",
@@ -94,7 +94,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46152941",
       "author": "toss1",
       "points": 247,
-      "num_comments": 202,
+      "num_comments": 203,
       "created_at": "2025-12-04T20:56:08Z",
       "object_id": "46152941",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/28c4/live/af28cc40-d12f-11f0-91c0-a3ef1eb0ee2e.png",
@@ -136,7 +136,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46164419",
       "author": "zerosizedweasle",
       "points": 91,
-      "num_comments": 169,
+      "num_comments": 170,
       "created_at": "2025-12-05T17:29:47Z",
       "object_id": "46164419",
       "image": "https://assets.newsweek.com/wp-content/uploads/2025/10/Welcome-to-the-Slop-Era-The-AI-Backlash-is-Here-1-1.png?w=1200crop=1",
@@ -145,7 +145,7 @@
       "site_name": "Newsweek"
     }
   ],
-  "total_hits": 540,
+  "total_hits": 534,
   "has_metadata": true,
-  "fetched_at": "2025-12-06T11:52:42.383665+00:00"
+  "fetched_at": "2025-12-06T12:28:35.413915+00:00"
 }

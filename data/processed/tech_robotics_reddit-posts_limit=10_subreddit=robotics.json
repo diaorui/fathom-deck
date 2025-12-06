@@ -13,6 +13,17 @@
       "description": "Website: https://www.rivr.ai/ On \ud835\udd4f: https://x.com/rivr_tech"
     },
     {
+      "title": "Zhongqing t800 robot vs human",
+      "author": "Any_Calligrapher4649",
+      "url": "https://www.reddit.com/r/robotics/comments/1pfnufq/zhongqing_t800_robot_vs_human/",
+      "published": 1765023029.0,
+      "thumbnail": "https://external-preview.redd.it/anhydnpndWZyazVnMbg9Bb3hXtebUT4QDWxa6gQMQuwTAp2TSoL1ooMbIQQy.png?width=320&crop=smart&auto=webp&s=8206864402098db1f7d430856ca8fe448eafe35a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Zhongqing CEO Receives the Challenge of T800"
+    },
+    {
       "title": "Robot dance Arduino",
       "author": "Archyzone78",
       "url": "https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Making a Marauder's Map from Harry Potter",
-      "author": "davesarmoury",
-      "url": "https://www.reddit.com/r/robotics/comments/1pf1agl/making_a_marauders_map_from_harry_potter/",
-      "published": 1764956101.0,
-      "thumbnail": "https://external-preview.redd.it/lkbyF5afhW6Htup7fUyNQVABCSEpJ946WVXQNrql7uM.jpeg?width=320&crop=smart&auto=webp&s=7bd8c748c2ede63e1e653ef9114a146b3f7c00ea",
-      "external_url": "https://www.youtube.com/watch?v=dO32ImnsX-4",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
-      "description": "Arthur C. Clarke said \"Any sufficiently advanced technology is indistinguishable from magic\". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!"
     }
   ],
-  "fetched_at": "2025-12-06T11:52:46.426657+00:00"
+  "fetched_at": "2025-12-06T12:28:39.336147+00:00"
 }

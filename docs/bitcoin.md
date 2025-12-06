@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T15:01:29.305571+00:00'
+updated: '2025-12-06T15:26:57.650860+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 15:01 UTC  
+**Last Updated:** December 06, 2025 at 15:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,189.07
+### $89,593.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -0.7%  
-**30d:** -13.2%  
-**90d:** -19.6%  
-**1y:** -9.9%  
+**24h:** +1.0%  
+**7d:** -0.9%  
+**30d:** -13.4%  
+**90d:** -19.8%  
+**1y:** -10.1%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s simple and beginner-friendly but I moved to Value Averaging this cycle, and the results have been way better. Most people know DCA because it’s simple: buy the same amount every week.But when you’re trying to get better prices and make the market’s volatility work for you, Value Averaging is a much stronger method. Let me show you exactly how it played out using real BTC price action from 2024–2025. Rule I Followed Every 15% drop in BTC : Buy. First Buy = $1,000 Second Buy = $2,000 Third Buy = 3000$ Continues..... BTC gave three clean 30% corrections this cycle, so this rule activated six times. Drawdown 1 — March 2024 (-30%) BTC dropped twice by 15%, so we can bought: $1,000 ( Buy 01 ) $2,000 ( Buy 02 ) Later, when BTC reached what I marked as “Top 3,” these were the gains: $1,000 → +95% = +$950 $2,000 → +131% = +$2,620 Total = $3,570 profit Drawdown 2 — December 2024 (-30%) Same plan again: $1,000 ( Buy 03 ) $2000 ( Buy 04 ) During the recovery toward Top 3, three positions were still showing: +$950 ( Buy 01 ) +$2620 ( Buy 02 ) +$330 ( Buy 03 ) +$1140 ( Buy 04 ) Total = $5,040 profit Current Drawdown — 2025 July–Oct (-30%) This is where we are right now. Two more buys triggered: Buy 05: $1,000 → currently –14% Buy 06: $2,000 → currently breakeven These are fresh buys, so it’s totally normal that they haven’t recovered yet. Total Structure 6 total buys – 3 × $1,000 – 3 × $2,000 Total invested = $9,000 Right now, even though BTC is still in a ~30% decline: Three positions remain in profit ($420 + $1,300 + $260) One is slightly negative (–$140) Two are at breakeven Overall: still profitable during a drawdown. Why This Beats DCA for Me DCA buys at every price expensive, cheap, doesn’t matter. Value Averaging waits for discounts. You buy more when BTC is cheaper Your average cost drops fast Strong assets recover and reward the early buys Drawdowns become opportunities instead of pain Your risk is distributed intelligently no guessing bottoms. no chasing tops.Just reacting to 15% dips the same way, every time. This is the whole point:
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[OK, I get the pattern now.](https://www.reddit.com/r/Bitcoin/comments/1pfot4f/ok_i_get_the_pattern_now/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -125,13 +125,13 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Just a normal day in the market.](https://www.reddit.com/r/Bitcoin/comments/1pfquzs/just_a_normal_day_in_the_market/)**
 
-20m ago
+46m ago
 
 ---
 
@@ -175,7 +175,7 @@ TheStreet • 1d ago
 
 **[Bitcoin in ₿ahrain](https://x.com/saylor/status/1997263322916495478)**
 
-x.com • 3h ago
+x.com • 4h ago
 
 ---
 
@@ -189,7 +189,7 @@ FOX 8 News • 2h ago
 
 These three coins could form the backbone of your crypto portfolio.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -333,7 +333,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 11K • 👍 103 • 💬 152 • ⏱️ 4:01 • 18h ago
+👁️ 11K • 👍 103 • 💬 152 • ⏱️ 4:01 • 19h ago
 
 ---
 

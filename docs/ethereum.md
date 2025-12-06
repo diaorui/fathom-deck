@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T15:01:29.311567+00:00'
+updated: '2025-12-06T15:26:57.656969+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 15:01 UTC  
+**Last Updated:** December 06, 2025 at 15:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +2.1%  
-**30d:** -11.0%  
-**90d:** -29.1%  
-**1y:** -23.7%  
+**24h:** -0.3%  
+**7d:** +1.3%  
+**30d:** -11.7%  
+**90d:** -29.7%  
+**1y:** -24.3%  
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1d ago
 
 BitMine bought nearly $200 million worth of Ethereum in the last two days, widening its lead as the largest single holder of ETH.
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -284,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 147 • 💬 15 • ⏱️ 5:46 • 11h ago
+👁️ 3K • 👍 147 • 💬 15 • ⏱️ 5:46 • 12h ago
 
 ---
 

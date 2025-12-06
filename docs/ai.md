@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T15:01:29.297225+00:00'
+updated: '2025-12-06T15:26:57.642303+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
+- videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 15:01 UTC  
+**Last Updated:** December 06, 2025 at 15:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 4h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 21h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 22h ago
 
 ---
 
@@ -57,7 +57,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 41m ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 I'm just curious about the differences, I'm not super educated on this, and I figured this place would know more than me
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Hey all, amidst all the downsides of AI this past year - be it environmental worries, slop in music and art, AI enshittification, GPU/RAM prices increasing - I wanted to discuss about what's how WE are using AI, among a general look at changes on a larger scale. Personally, it feels like I haven't really felt a huge difference within the stuff I use which is just the basic stuff like GPT / Gemini. However, one change for me was that I've been using it for language learning which I've felt has been quite useful. On a general level, I feel like I've been seeing some practical applications that improved considerably this year compared to last years. An example I've seen recently is in health, where AI imaging can catch breast cancer way earlier and with higher accuracy. Another is in programming, where it feels like there's a huge rise in "Vibes Coding" with even sites like Bolt/v0. Now I'm not gonna pretend like I know how any of these work, but I do think it's interesting how there's a practical use for AI in these fields now. What about for you guys? Has AI gotten better or worse this year, and where did you actually feel the difference?
 
-1m ago
+27m ago
 
 ---
 
@@ -123,7 +123,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 22h ago
+The Keyword • 23h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Boston Globe • 2h ago
 
 Country songwriter Breland says songs created with AI should be labeled as such and money made off them should go to grants for human artists.
 
-Rolling Stone • 31m ago
+Rolling Stone • 56m ago
 
 ---
 
@@ -183,7 +183,7 @@ Fortune • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 4h ago
+ABC News • 5h ago
 
 ---
 
@@ -227,7 +227,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 490 • 💬 252 • 22h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 490 • 💬 252 • 23h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -243,7 +243,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 339 • 💬 194 • 13h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 339 • 💬 194 • 14h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -267,7 +267,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many ​sales staff missed goals in the fiscal year that ‌ended in June, The Information reported on Wednesday.  It is rare for Microsoft to ‌lower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about ​real-world adoption of AI as an MIT study from earlier ‌this year had found that only about 5% of AI projects advance beyond the pilot stage.
 
-⬆️ 129 • 💬 97 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
+⬆️ 129 • 💬 97 • 3d ago • [Yahoo Finance](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 863 • 🔱 105 • 2h ago
+⭐ 863 • 🔱 105 • 3h ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 804 • 🔱 21 • 47m ago
+⭐ 804 • 🔱 21 • 1h ago
 
 ---
 
@@ -739,7 +739,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 629 • 🔱 212 • 7h ago
+⭐ 629 • 🔱 212 • 8h ago
 
 ---
 

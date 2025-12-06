@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T09:21:23.149867+00:00'
+updated: '2025-12-06T09:37:03.516583+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 09:21 UTC  
+**Last Updated:** December 06, 2025 at 09:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -1.4%  
-**30d:** -13.9%  
-**90d:** -20.2%  
-**1y:** -10.6%  
+**24h:** -1.8%  
+**7d:** -1.0%  
+**30d:** -13.6%  
+**90d:** -19.9%  
+**1y:** -10.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +93,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -111,13 +111,13 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ Charts like this always remind me why time in the market beats timing the market
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -149,7 +149,7 @@ Charts like this always remind me why time in the market beats timing the market
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -179,7 +179,7 @@ Fortune • 1d ago
 
 A newly introduced bill in Indiana would require public retirement programs to offer Bitcoin-related investment options and would also limit how much power local governments have to restrict the use of digital assets.The proposal was filed on Thursday by State Representative Kyle Pierce, a Republican from Anderson. Known as House ...
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 50m ago
 
 Strategy CEO Phong Le says the company’s newly built $1.44 billion cash reserve is designed to quiet investor anxiety over its ability to withstand a sharp downturn in Bitcoin. Key Takeaways: Strategy built a $1.44B cash reserve to ease investor fears about its ability to meet dividend and debt obligations. ...
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -329,7 +329,7 @@ After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 407 • 💬 54 • ⏱️ 1:34:16 • 13h ago
+👁️ 8K • 👍 407 • 💬 54 • ⏱️ 1:34:16 • 14h ago
 
 ---
 
@@ -339,7 +339,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 90K • 👍 6K • 💬 408 • ⏱️ 15:38 • 21h ago
+👁️ 90K • 👍 6K • 💬 408 • ⏱️ 15:38 • 22h ago
 
 ---
 
@@ -349,7 +349,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 330 • ⏱️ 10:13 • 18h ago
+👁️ 31K • 👍 2K • 💬 330 • ⏱️ 10:13 • 19h ago
 
 ---
 

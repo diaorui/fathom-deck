@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T09:21:23.141610+00:00'
+updated: '2025-12-06T09:37:03.507753+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 09:21 UTC  
+**Last Updated:** December 06, 2025 at 09:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -103,7 +103,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
 
-15h ago
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 23h ago
 
 Key PointsDemand for Palantir's software tools has ushered in a wave of accelerated revenue and profit growth.
 
-Nasdaq • 9h ago
+Nasdaq • 10h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Motley Fool • 13h ago
 
 Alphabet and Microsoft could surpass the combined market value of Nvidia and Palantir before the end of next year.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Anthropic • 1d ago
 
 Students are using AI tools more than ever. An Angelo State University professor designed a way to figure out if his students were using artificial intelligence on a recent paper.We speak with Will Teague, who says students are sacrificing their own agency to artificial intelligence. For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Henry Larson and Karen Zamora, with additional reporting by Ayana Archie and Lee V. Gaines. It was edited by Justine Kenin and Courtney Dorning. Our executive producer is Sami Yenigun.
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
@@ -319,7 +319,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 32K • 👍 938 • 💬 175 • ⏱️ 12:07 • 8h ago
+👁️ 32K • 👍 938 • 💬 175 • ⏱️ 12:07 • 9h ago
 
 ---
 
@@ -349,7 +349,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 13K • 👍 152 • 💬 24 • ⏱️ 22:41 • 9h ago
+👁️ 13K • 👍 152 • 💬 24 • ⏱️ 22:41 • 10h ago
 
 ---
 
@@ -379,7 +379,7 @@ A poor little girl always dreamed of flying. Today, her loving Dadaji takes her 
 
 📺 AI GANESHA 
 
-👁️ 15K • ⏱️ 0:31 • 6h ago
+👁️ 15K • ⏱️ 0:31 • 7h ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 835 • 🔱 104 • 11h ago
+⭐ 835 • 🔱 104 • 12h ago
 
 ---
 

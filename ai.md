@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T16:15:47.794219+00:00'
+updated: '2025-12-06T16:40:56.075173+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 16:15 UTC  
+**Last Updated:** December 06, 2025 at 16:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-29m ago
+54m ago
 
 ---
 
@@ -139,7 +139,7 @@ The Keyword • 1d ago
 
 Jeep is one of the first automakers to fully leverage AI image generation in its marketing materials.
 
-Detroit Free Press • 24m ago
+Detroit Free Press • 49m ago
 
 ---
 
@@ -147,7 +147,7 @@ Detroit Free Press • 24m ago
 
 On the slop-filled internet, Jeremy Carrasco uses his platforms to spread AI literacy.
 
-The Verge • 1h ago
+The Verge • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Verge • 1h ago
 
 Country songwriter Breland says songs created with AI should be labeled as such and money made off them should go to grants for human artists.
 
-Rolling Stone • 1h ago
+Rolling Stone • 2h ago
 
 ---
 
@@ -245,7 +245,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 346 • 💬 199 • 14h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 346 • 💬 199 • 15h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -269,7 +269,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 Welcome to the slop era.
 
-⬆️ 96 • 💬 172 • 22h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 96 • 💬 172 • 23h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -291,7 +291,7 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 779K • 👍 18K • 💬 4K • ⏱️ 2:04:06 • 2d ago
+👁️ 791K • 👍 19K • 💬 4K • ⏱️ 2:04:06 • 2d ago
 
 ---
 
@@ -301,7 +301,17 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Grok 4.2 is about to fli
 
 📺 BitBiasedAI
 
-👁️ 12K • 👍 348 • 💬 38 • ⏱️ 15:14 • 21h ago
+👁️ 12K • 👍 359 • 💬 38 • ⏱️ 15:14 • 21h ago
+
+---
+
+**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
+
+Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
+
+📺 Future of Life Institute
+
+👁️ 27K • 👍 1K • 💬 523 • ⏱️ 15:40 • 2d ago
 
 ---
 
@@ -311,17 +321,7 @@ Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the
 
 📺 End Times Productions
 
-👁️ 101K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
-
----
-
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 41K • 👍 1K • 💬 232 • ⏱️ 12:07 • 15h ago
+👁️ 104K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
 
 ---
 
@@ -331,27 +331,47 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 18K • 👍 200 • 💬 26 • ⏱️ 22:41 • 16h ago
+👁️ 19K • 👍 215 • 💬 28 • ⏱️ 22:41 • 17h ago
 
 ---
 
-**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
+**[Can AI crack the process of aging? | BBC News](https://www.youtube.com/watch?v=yRDek-pGcwE)**
 
-Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
+The race to unlock the secret to a longer life is on - and two sisters from a Cambridge start-up might be closer than anyone else.
 
-📺 VisualEconomik EN
+📺 BBC News
 
-👁️ 92K • 👍 3K • 💬 308 • ⏱️ 15:46 • 3d ago
+👁️ 11K • 👍 378 • 💬 158 • ⏱️ 8:08 • 7h ago
 
 ---
 
-**[Ronny Chieng Investigates the Promises of AI, the Most Expensive Circle Jerk Ever | The Daily Show](https://www.youtube.com/watch?v=RcPthlvzMY8)**
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
 
-Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford of the Institute for AI Policy and Strategy to ...
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
 
-📺 The Daily Show
+📺 AI Revolution
 
-👁️ 736K • 👍 16K • 💬 966 • ⏱️ 4:58 • 2d ago
+👁️ 47K • 👍 1K • 💬 250 • ⏱️ 12:07 • 16h ago
+
+---
+
+**[AI Exploded This Week: GPT 5.2, DeepSeek 3.2, Kling 2.6, Mistral 3, Trainium 3...](https://www.youtube.com/watch?v=KeqO2KM6CTk)**
+
+The past few days pushed AI in every direction at once. OpenAI quietly tested a new Memory Search system inside ChatGPT, ...
+
+📺 AI Revolution
+
+👁️ 55K • 👍 1K • 💬 81 • ⏱️ 17:26 • 2d ago
+
+---
+
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=6DIFQm4MXYI)**
+
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+
+📺 Impossible AIs
+
+👁️ 532K • 👍 2K • 💬 67 • ⏱️ 8:09 • 2d ago
 
 ---
 
@@ -361,27 +381,7 @@ Giraffe waters pumpkin plant #ai #women #old man #orange #Pumpkin #aistory #aivi
 
 📺 Ai story 3.0
 
-👁️ 3K • 👍 79 • 💬 8 • ⏱️ 1:03 • 3h ago
-
----
-
-**[Grandmother rescues Girl and builds Gold water slide for her 😭 #ai​ #water​ #save​](https://www.youtube.com/watch?v=Vtl25P_prAE)**
-
-Grandmother rescues the Girl and builds Gold water slide for her #ai #water #save #viral #shorts.
-
-📺 Ai Animated Dream 
-
-👁️ 19K • 👍 169 • ⏱️ 0:22 • 6h ago
-
----
-
-**[can you guess which is AI? #asmr](https://www.youtube.com/watch?v=hrf8MU1eIt0)**
-
-did u guess all of them correctly? let me know in the comments below! **BUSINESS CONTACT** ...
-
-📺 Dong ASMR
-
-👁️ 331K • 👍 11K • 💬 193 • ⏱️ 0:46 • 1d ago
+👁️ 6K • 👍 155 • 💬 10 • ⏱️ 1:03 • 3h ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 869 • 🔱 105 • 3h ago
+⭐ 869 • 🔱 105 • 4h ago
 
 ---
 

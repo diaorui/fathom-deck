@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T07:53:07.121922+00:00'
+updated: '2025-12-06T08:19:21.559306+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 07:53 UTC  
+**Last Updated:** December 06, 2025 at 08:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 14h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 1h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 2h ago
 
 ---
 
@@ -63,7 +63,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 **[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -71,7 +71,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 19h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 20h ago
 
 ---
 
@@ -79,7 +79,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York Times sues AI startup for ‘illegal’ copying of millions of articles.[2] Meta acquires AI-wearables startup Limitless.[3] MIT researchers “speak objects into existence” using AI and robotics.[4] Sources: [1] https://www.axios.com/2025/12/03/joe-rogan-jensen-huang-podcast-trump [2] https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit [3] https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/ [4] https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205
 
-1h ago
+2h ago
 
 ---
 
@@ -87,7 +87,7 @@ Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York T
 
 AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 8h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 9h ago
 
 ---
 
@@ -123,19 +123,19 @@ Most discourse around AI writing is about using it to generate content faster. I
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 15h ago
+The Keyword • 16h ago
 
 ---
 
 **[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
 **[AI Stocks Are a Bet on the Future. Markets Are Ignoring the Now.](https://www.barrons.com/articles/ai-stocks-market-price-b6350469?gaa_at=eafs&gaa_n=AWEtsqe58HPmHGmGWTu8pW-ZwitmPiBsH5_RWqTt98sCyW0INsj472NyuZXR&gaa_ts=6933e44a&gaa_sig=cA4dx8EKMb96locWNHI_pTQS3YzUoaKaF3jLqPQSaPyJZQw5MNQ7a_dGxldUtOillmbC3qs7XjSB_OTHfd4JkA%3D%3D)**
 
-Barron's • 53m ago
+Barron's • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Reuters • 23h ago
 
 Key PointsPalantir's growing influence in the AI software market suggests that it has the potential to become the Nvidia of this sector.
 
-Nasdaq • 8h ago
+Nasdaq • 9h ago
 
 ---
 
@@ -179,7 +179,7 @@ Anthropic • 1d ago
 
 Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety.
 
-Los Angeles Times • 20h ago
+Los Angeles Times • 21h ago
 
 ---
 
@@ -231,7 +231,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 424 • 💬 213 • 15h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 424 • 💬 213 • 16h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -255,7 +255,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 237 • 💬 134 • 6h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 237 • 💬 134 • 7h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -279,23 +279,23 @@ Multiple divisions at Microsoft have lowered sales growth targets for certain ar
 
 ## YouTube Videos: "ai"
 
-**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
-
-Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
-
-📺 Future of Life Institute
-
-👁️ 23K • 👍 1K • 💬 440 • ⏱️ 15:40 • 1d ago
-
----
-
 **[An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future! We Must Act Now!](https://www.youtube.com/watch?v=P7Y-fynYsgE)**
 
 AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments won't regulate, how AGI could replace humans ...
 
 📺 The Diary Of A CEO
 
-👁️ 725K • 👍 17K • 💬 4K • ⏱️ 2:04:06 • 1d ago
+👁️ 741K • 👍 18K • 💬 4K • ⏱️ 2:04:06 • 2d ago
+
+---
+
+**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
+
+Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
+
+📺 Future of Life Institute
+
+👁️ 25K • 👍 1K • 💬 459 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -305,27 +305,7 @@ Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the
 
 📺 End Times Productions
 
-👁️ 91K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
-
----
-
-**[Ronny Chieng Investigates the Promises of AI, the Most Expensive Circle Jerk Ever | The Daily Show](https://www.youtube.com/watch?v=RcPthlvzMY8)**
-
-Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford of the Institute for AI Policy and Strategy to ...
-
-📺 The Daily Show
-
-👁️ 683K • 👍 16K • 💬 933 • ⏱️ 4:58 • 1d ago
-
----
-
-**[AI Has Gone Too Far](https://www.youtube.com/watch?v=CTF73mW8kcE)**
-
-Another heaping of AI Slop, this time involving Franklin the Turtle, Japanese game developers and the blatant copyright abuse of ...
-
-📺 Dolan Darkest
-
-👁️ 205K • 👍 12K • 💬 2K • ⏱️ 2:28 • 14h ago
+👁️ 94K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
 
 ---
 
@@ -335,17 +315,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 26K • 👍 806 • 💬 149 • ⏱️ 12:07 • 7h ago
-
----
-
-**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
-
-Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
-
-📺 VisualEconomik EN
-
-👁️ 89K • 👍 3K • 💬 296 • ⏱️ 15:46 • 2d ago
+👁️ 32K • 👍 938 • 💬 175 • ⏱️ 12:07 • 7h ago
 
 ---
 
@@ -355,17 +325,37 @@ The past few days pushed AI in every direction at once. OpenAI quietly tested a 
 
 📺 AI Revolution
 
-👁️ 52K • 👍 1K • 💬 80 • ⏱️ 17:26 • 2d ago
+👁️ 53K • 👍 1K • 💬 80 • ⏱️ 17:26 • 2d ago
 
 ---
 
-**[Poor Little Girl’s Dream Came True  Grandfather’s Surprise  ✨🚁💎 #ai​ #cutebaby​ #kindness​](https://www.youtube.com/watch?v=EdRLNjCu-pU)**
+**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
 
-A poor little girl always dreamed of flying. Today, her loving Dadaji takes her on a magical diamond helicopter ride above a snow ...
+Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
 
-📺 AI GANESHA 
+📺 VisualEconomik EN
 
-👁️ 11K • ⏱️ 0:31 • 5h ago
+👁️ 90K • 👍 3K • 💬 299 • ⏱️ 15:46 • 2d ago
+
+---
+
+**[The AI pressure cooker: OpenAI, Nvidia and Google all on the move](https://www.youtube.com/watch?v=BYnTk3l6sfs)**
+
+From Capitol Hill to the back of an Uber in Dubai — this week showed just how much pressure the AI race is under. OpenAI's Sam ...
+
+📺 CNBC Television
+
+👁️ 13K • 👍 152 • 💬 24 • ⏱️ 22:41 • 8h ago
+
+---
+
+**[Ronny Chieng Investigates the Promises of AI, the Most Expensive Circle Jerk Ever | The Daily Show](https://www.youtube.com/watch?v=RcPthlvzMY8)**
+
+Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford of the Institute for AI Policy and Strategy to ...
+
+📺 The Daily Show
+
+👁️ 706K • 👍 16K • 💬 942 • ⏱️ 4:58 • 1d ago
 
 ---
 
@@ -375,7 +365,17 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 415K • 👍 1K • 💬 56 • ⏱️ 8:09 • 1d ago
+👁️ 437K • 👍 1K • 💬 58 • ⏱️ 8:09 • 1d ago
+
+---
+
+**[Poor Little Girl’s Dream Came True  Grandfather’s Surprise  ✨🚁💎 #ai​ #cutebaby​ #kindness​](https://www.youtube.com/watch?v=EdRLNjCu-pU)**
+
+A poor little girl always dreamed of flying. Today, her loving Dadaji takes her on a magical diamond helicopter ride above a snow ...
+
+📺 AI GANESHA 
+
+👁️ 15K • ⏱️ 0:31 • 5h ago
 
 ---
 
@@ -737,7 +737,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 574 • 🔱 184 • 49m ago
+⭐ 574 • 🔱 184 • 1h ago
 
 ---
 

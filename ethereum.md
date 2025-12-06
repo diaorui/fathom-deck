@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T07:53:07.136463+00:00'
+updated: '2025-12-06T08:19:21.573623+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 07:53 UTC  
+**Last Updated:** December 06, 2025 at 08:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,034.76
+### $3,030.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** +1.3%  
-**30d:** -11.8%  
-**90d:** -29.7%  
-**1y:** -24.3%  
+**24h:** -2.7%  
+**7d:** +1.4%  
+**30d:** -11.7%  
+**90d:** -29.6%  
+**1y:** -24.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -154,7 +154,7 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 
 Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -182,7 +182,7 @@ TipRanks • 18h ago
 
 **[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 80K • 👍 5K • 💬 468 • ⏱️ 11:16 • 1d ago
+👁️ 83K • 👍 5K • 💬 471 • ⏱️ 11:16 • 1d ago
 
 ---
 
@@ -244,7 +244,27 @@ The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was
 
 📺 Altcoin Buzz
 
-👁️ 2K • 👍 134 • 💬 186 • ⏱️ 9:21 • 18h ago
+👁️ 2K • 👍 137 • 💬 198 • ⏱️ 9:21 • 18h ago
+
+---
+
+**[Ethereum in CRISIS After MASSIVE Crypto Update](https://www.youtube.com/watch?v=l5rNGCFV7oU)**
+
+Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydfi.Bitboy.Deals Telegram Group - Get ...
+
+📺 BitBoy X
+
+👁️ 4K • 👍 236 • ⏱️ 25:41 • 15h ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 18K • 👍 419 • 💬 368 • ⏱️ 15:38 • 1d ago
 
 ---
 
@@ -254,7 +274,47 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 601 • 👍 53 • 💬 4 • ⏱️ 5:46 • 4h ago
+👁️ 1K • 👍 100 • 💬 5 • ⏱️ 5:46 • 5h ago
+
+---
+
+**[Ethereum Fusaka Upgrade Is HERE!! Is ETH About To EXPLODE!?](https://www.youtube.com/watch?v=rYEgr3YN-qI)**
+
+While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka — a live upgrade that radically improves ...
+
+📺 Coin Bureau
+
+👁️ 39K • 👍 2K • 💬 128 • ⏱️ 17:37 • 1d ago
+
+---
+
+**[Ethereum Finally REVERSING! (Bitcoin Sets Up MASSIVE 2026 Bull Market)](https://www.youtube.com/watch?v=mq4KoKQqfRE)**
+
+Ethereum is finally showing signs of a major reversal, and the charts suggest this could be the beginning of a powerful momentum ...
+
+📺 Discover Crypto
+
+👁️ 7K • 👍 441 • 💬 14 • ⏱️ 59:34 • 15h ago
+
+---
+
+**[🚨 BTC &amp; ETH: I AM WARNING YOU AGAIN!!!! LISTEN THIS TIME!!!!!](https://www.youtube.com/watch?v=na9LpJZqDyY)**
+
+What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get ready now!!! AI Trading Club: ...
+
+📺 Thomas Kralow
+
+👁️ 26K • 👍 3K • 💬 39 • ⏱️ 10:24 • 1d ago
+
+---
+
+**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
+
+Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
+
+📺 Binance
+
+👁️ 80K • 👍 3K • 💬 467 • ⏱️ 27:33 • 1d ago
 
 ---
 
@@ -265,66 +325,6 @@ Real-time crypto analysis — join my VIP Telegram.
 📺 Marzell Crypto
 
 👁️ 1K • 👍 37 • 💬 133 • ⏱️ 5:24 • 18h ago
-
----
-
-**[Ethereum in CRISIS After MASSIVE Crypto Update](https://www.youtube.com/watch?v=l5rNGCFV7oU)**
-
-Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydfi.Bitboy.Deals Telegram Group - Get ...
-
-📺 BitBoy X
-
-👁️ 3K • 👍 233 • ⏱️ 25:41 • 14h ago
-
----
-
-**[Ethereum Fusaka Upgrade Is HERE!! Is ETH About To EXPLODE!?](https://www.youtube.com/watch?v=rYEgr3YN-qI)**
-
-While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka — a live upgrade that radically improves ...
-
-📺 Coin Bureau
-
-👁️ 38K • 👍 2K • 💬 127 • ⏱️ 17:37 • 1d ago
-
----
-
-**[CRYPTO LIVE TRADING || 06 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=pN8XRM4CZfQ)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 5K • 👍 886 • 3h ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 17K • 👍 412 • 💬 356 • ⏱️ 15:38 • 1d ago
-
----
-
-**[Ethereum Finally REVERSING! (Bitcoin Sets Up MASSIVE 2026 Bull Market)](https://www.youtube.com/watch?v=mq4KoKQqfRE)**
-
-Ethereum is finally showing signs of a major reversal, and the charts suggest this could be the beginning of a powerful momentum ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 440 • 💬 14 • ⏱️ 59:34 • 15h ago
-
----
-
-**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
-
-Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
-
-📺 Binance
-
-👁️ 79K • 👍 3K • 💬 459 • ⏱️ 27:33 • 1d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T07:53:07.139664+00:00'
+updated: '2025-12-06T08:19:21.576853+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 07:53 UTC  
+**Last Updated:** December 06, 2025 at 08:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -86,7 +86,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now available! If you want a quick summary of the event I put together ROSCon 2025 Recap for the OpenCV Weekly Webinar.       For Giving Tuesday we put together a new campaign for ROS users to become a become a Build Farm Backer. If you’ve every saved a few minutes by running sudo apt install ros-kilted-* instead of compiling from source we would love it if you helped cover our compute costs. Also, for the first time ever, we...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 11h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 12h ago
 
 ---
 
@@ -114,7 +114,7 @@ Marc Raibert talks about how robotics demos usually show only the polished succe
 
 Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 22h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 2d ago
 
 HANGZHOU, CN / ACCESS Newswire / December 5, 2025 / From November 9th to 21st, 2025, the 15th National Games of the People's Republic of China (hereinafter referred to as the "National Games") were grandly held in Guangzhou. While public attention ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -138,7 +138,7 @@ Yahoo Finance • 2h ago
 
 Fanuc (TSE:6954) just jumped nearly 13% after unveiling a collaboration with Nvidia to build industrial robots powered by physical AI, a move that immediately sharpened investor focus on its long term growth story. See our latest analysis for Fanuc. That surge has come on top of already strong momentum, with a 7 day share price return of 18.0% and a 90 day share price return of 44.3%. The 1 year total shareholder return of 52.4% signals investors are steadily warming to Fanuc as physical AI...
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -146,7 +146,7 @@ Yahoo Finance • 46m ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 16h ago
+MIT News • 17h ago
 
 ---
 
@@ -192,61 +192,23 @@ Forbes • 20h ago
 
 ## YouTube Videos: "robotics"
 
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 26K • 👍 806 • 💬 149 • ⏱️ 12:07 • 7h ago
-
----
-
-**[ChatGPT in a real robot does what experts warned.](https://www.youtube.com/watch?v=byQmJ9x0RWA)**
-
-Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.com/insideai to get an exclusive 60% off Please ...
-
-📺 InsideAI
-
-👁️ 567K • 👍 23K • 💬 3K • ⏱️ 14:58 • 5d ago
-
----
-
 **[Tesla’s Running Robot: Optimus Just Took a Huge Step Forward](https://www.youtube.com/watch?v=xE_gPhwzQAc)**
 
 Tesla just showed its Optimus humanoid robot running in the laboratory, and it looks a lot closer to a real life sci fi moment than a ...
 
 📺 DPCcars
 
-👁️ 60K • 👍 483 • 💬 241 • ⏱️ 2:30 • 2d ago
+👁️ 61K • 👍 489 • 💬 247 • ⏱️ 2:30 • 2d ago
 
 ---
 
-**[Robots dance, clean and rescue toy cats at expo in Japan | REUTERS](https://www.youtube.com/watch?v=ZJ1YgkcJNew)**
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
 
-Humanoid robots showed off rescue skills, dance moves and household tasks at Tokyo's 2025 International Robot Exhibition, ...
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
 
-📺 Reuters
+📺 AI Revolution
 
-👁️ 4K • 👍 31 • ⏱️ 2:31 • 2d ago
-
----
-
-**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
-
-📺 AI . Robot
-
-👁️ 1.0M • 👍 6K • 💬 42 • ⏱️ 0:17 • 1d ago
-
----
-
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=_MgTHoFYPDs)**
-
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
-
-📺 Humanoid Robot 🤖
-
-👁️ 85K • 👍 416 • 💬 5 • ⏱️ 0:19 • 1d ago
+👁️ 32K • 👍 938 • 💬 175 • ⏱️ 12:07 • 7h ago
 
 ---
 
@@ -256,7 +218,35 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 11K • 👍 237 • 💬 136 • ⏱️ 4:05 • 1d ago
+👁️ 12K • 👍 253 • 💬 135 • ⏱️ 4:05 • 1d ago
+
+---
+
+**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
+
+📺 AI . Robot
+
+👁️ 1.1M • 👍 6K • 💬 43 • ⏱️ 0:17 • 1d ago
+
+---
+
+**[China&#39;s humanoid robotics leap: new T800 unveiled](https://www.youtube.com/watch?v=wbLl3aSOzoc)**
+
+For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-new-T800-unveiled-1INHjYVbHGM/p.html ...
+
+📺 CGTN
+
+👁️ 96K • 💬 595 • ⏱️ 1:21 • 2d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=_MgTHoFYPDs)**
+
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 86K • 👍 426 • 💬 5 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -266,7 +256,27 @@ Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-t
 
 📺 New York Post
 
-👁️ 5K • 👍 96 • 💬 64 • ⏱️ 2:06 • 18h ago
+👁️ 5K • 👍 98 • 💬 65 • ⏱️ 2:06 • 18h ago
+
+---
+
+**[ChatGPT in a real robot does what experts warned.](https://www.youtube.com/watch?v=byQmJ9x0RWA)**
+
+Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.com/insideai to get an exclusive 60% off Please ...
+
+📺 InsideAI
+
+👁️ 572K • 👍 23K • 💬 3K • ⏱️ 14:58 • 5d ago
+
+---
+
+**[AI Humanoid Robot Activated in 2025 — Reacts Like a Real Human in Silicon Valley Lab](https://www.youtube.com/watch?v=bjUcx-S0-ks)**
+
+In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot and apply a breakthrough synthetic skin.
+
+📺 AI Robot Lab
+
+👁️ 99K • 👍 381 • 💬 10 • ⏱️ 0:19 • 19h ago
 
 ---
 
@@ -277,16 +287,6 @@ XPeng's new humanoid robot, IRON, went viral after the company cut it open on st
 📺 CNET
 
 👁️ 543K • 👍 3K • 💬 544 • ⏱️ 5:04 • 5d ago
-
----
-
-**[AI Humanoid Robot Activated in 2025 — Reacts Like a Real Human in Silicon Valley Lab](https://www.youtube.com/watch?v=bjUcx-S0-ks)**
-
-In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot and apply a breakthrough synthetic skin.
-
-📺 AI Robot Lab
-
-👁️ 91K • 👍 346 • 💬 10 • ⏱️ 0:19 • 18h ago
 
 ---
 

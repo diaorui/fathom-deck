@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T07:53:07.130522+00:00'
+updated: '2025-12-06T08:19:21.567659+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 07:53 UTC  
+**Last Updated:** December 06, 2025 at 08:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,609.57
+### $89,600.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** -1.0%  
-**30d:** -13.5%  
-**90d:** -19.9%  
-**1y:** -10.2%  
+**24h:** -1.9%  
+**7d:** -1.2%  
+**30d:** -13.6%  
+**90d:** -20.0%  
+**1y:** -10.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
-29m ago
+56m ago
 
 ---
 
@@ -137,7 +137,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 1h ago
 
 Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -303,17 +303,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 21K • 👍 2K • 💬 311 • ⏱️ 10:23 • 14h ago
-
----
-
-**[Strategy CEO: Still able to raise money in a bitcoin down cycle](https://www.youtube.com/watch?v=JWWr6s6ooVs)**
-
-Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bitcoin, the long-term thesis for Strategy and much ...
-
-📺 CNBC Television
-
-👁️ 9K • 👍 90 • 💬 162 • ⏱️ 4:01 • 11h ago
+👁️ 23K • 👍 2K • 💬 321 • ⏱️ 10:23 • 15h ago
 
 ---
 
@@ -323,7 +313,7 @@ Everyone is screaming that Bitcoin is either going to zero or hitting a million 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 207 • ⏱️ 12:20 • 9h ago
+👁️ 22K • 👍 1K • 💬 260 • ⏱️ 12:20 • 10h ago
 
 ---
 
@@ -333,7 +323,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 17K • 👍 412 • 💬 356 • ⏱️ 15:38 • 1d ago
+👁️ 18K • 👍 419 • 💬 368 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[WAIT: JP Morgan is STILL predicting $170,000 Bitcoin in 2026?! | EP 1392](https://www.youtube.com/watch?v=sU3cb55xCGo)**
+
+After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 year cycle is over?
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 407 • 💬 54 • ⏱️ 1:34:16 • 12h ago
 
 ---
 
@@ -343,17 +343,17 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 87K • 👍 6K • 💬 405 • ⏱️ 15:38 • 20h ago
+👁️ 90K • 👍 6K • 💬 408 • ⏱️ 15:38 • 20h ago
 
 ---
 
-**[Ben Cowen: Quantitative Tightening Ends in December – Is the Bitcoin Cycle Just Starting?](https://www.youtube.com/watch?v=-znP_VRvzUw)**
+**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
 
-Ben Cowen drops a major update: Jerome Powell just confirmed quantitative tightening ends in December, potentially kicking off ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Bitcoin Magazine
+📺 CryptosRUs
 
-👁️ 1K • 👍 32 • 💬 44 • ⏱️ 7:52 • 11h ago
+👁️ 31K • 👍 2K • 💬 330 • ⏱️ 10:13 • 17h ago
 
 ---
 
@@ -363,7 +363,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 48K • 👍 4K • 💬 272 • ⏱️ 23:27 • 1d ago
+👁️ 49K • 👍 4K • 💬 274 • ⏱️ 23:27 • 1d ago
 
 ---
 
@@ -373,27 +373,27 @@ Michael Saylor isn't just bullish — he's placing Bitcoin inside a countdown. B
 
 📺 The Bitcoin Revolution
 
-👁️ 2K • 👍 65 • 💬 46 • ⏱️ 13:29 • 15h ago
+👁️ 2K • 👍 68 • 💬 60 • ⏱️ 13:29 • 16h ago
 
 ---
 
-**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
+**[What Happens to Bitcoin When the Fed Finally Cuts?](https://www.youtube.com/watch?v=nrSuqkGl1t4)**
 
-As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
+Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break down the growing divisions inside the Federal ...
 
-📺 Swan Bitcoin
+📺 Anthony Pompliano
 
-👁️ 71K • 👍 3K • 💬 234 • ⏱️ 18:48 • 1d ago
+👁️ 26K • 👍 944 • 💬 27 • ⏱️ 28:20 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: I AM WARNING YOU AGAIN!!!! LISTEN THIS TIME!!!!!](https://www.youtube.com/watch?v=na9LpJZqDyY)**
+**[Bitcoin Shorts ABOUT TO GET DESTROYED - BlackRock&#39;s Confession Changes Everything](https://www.youtube.com/watch?v=EKFoAAvZjbE)**
 
-What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get ready now!!! AI Trading Club: ...
+BLACKROCKS SHOCKING CRYPTO CONFESSION WHILE $3 BILLION BITCOIN SHORTS READY TO EXPLODE! iTrustCapital ...
 
-📺 Thomas Kralow
+📺 CryptoWendyO
 
-👁️ 26K • 👍 3K • 💬 39 • ⏱️ 10:24 • 1d ago
+👁️ 6K • 👍 515 • 💬 34 • ⏱️ 25:26 • 1d ago
 
 ---
 

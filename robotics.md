@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T15:41:11.989852+00:00'
+updated: '2025-12-06T15:52:23.105982+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 15:41 UTC  
+**Last Updated:** December 06, 2025 at 15:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*
 
 Dear community, The Unified Autonomy Stack targets generalization across robot morphologies and operational domains. We’re excited to open-source the Unified Autonomy Stack - a step toward a common blueprint for autonomy across robot configurations in the air, on land (and soon at sea). The stack centers on three broadly applicable modules: Perception: a multi-modal SLAM system fusing LiDAR, radar, vision, and IMU, complemented by VLM-based scene reasoning for object-level understanding and mission context. Planning: multi-stage planners enabling safe navigation, autonomous exploration, and efficient inspection planning in complex environments. Navigation & Multi-layered Safety: combining map-based collision avoidance and reactive navigation — including (a) Neural SDF-based NMPC (ensuring collision-free motion even in unknown or perceptually degraded spaces), (b) Exteroceptive Deep RL, and (c) Control Barrier Function-based safety filters. Validated extensively on rotary-wing and ground robots such as multirotors and legged robots (while several of its modules are also tested on fixed-wing aircraft and underwater ROVs), the stack has demonstrated resilient autonomy in GPS-denied and challenging field conditions. To support adoption, we additionally release UniPilot, a reference hardware design integrating a full sensing suite, time-synchronization electronics, and high-performance compute capable of running the entire stack with room for further development. This open-source release marks a step toward a unified autonomy blueprint spanning air, land, and sea. Repository: https://github.com/ntnu-arl/unified_autonomy_stack Documentation: https://ntnu-arl.github.io/unified_autonomy_stack/ We hope you find this useful for your research!
 
-8m ago
+19m ago
 
 ---
 

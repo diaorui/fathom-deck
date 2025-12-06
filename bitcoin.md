@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T15:41:11.980450+00:00'
+updated: '2025-12-06T15:52:23.096545+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 15:41 UTC  
+**Last Updated:** December 06, 2025 at 15:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.9%  
-**7d:** -0.9%  
-**30d:** -13.4%  
-**90d:** -19.7%  
-**1y:** -10.0%  
+**7d:** -1.0%  
+**30d:** -13.5%  
+**90d:** -19.8%  
+**1y:** -10.2%  
 
 ---
 
@@ -125,13 +125,13 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
-17h ago
+18h ago
 
 ---
 
 **[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -163,13 +163,13 @@ Yahoo Finance • 1d ago
 
 **[Scam so convincing victim ignores police, puts thousands into Cryptocurrency ATM](https://fox8.com/news/scam-artist-so-convincing-elderly-victim-ignores-police-pleas-to-stop-puts-thousands-into-cryptocurrency-atm/)**
 
-FOX 8 News • 2h ago
+FOX 8 News • 3h ago
 
 ---
 
 **[DigitalBridge, Sezzle jump, American Bitcoin, WRB slide: week's financials wrap](https://www.msn.com/en-us/money/markets/digitalbridge-sezzle-jump-american-bitcoin-wrb-slide-week-s-financials-wrap/ar-AA1RQhs6?ocid=finance-verthp-feeds)**
 
-MSN • 12m ago
+MSN • 24m ago
 
 ---
 
@@ -177,7 +177,7 @@ MSN • 12m ago
 
 Academic literature finds that during periods of economic stress, correlations and spillovers between cryptocurrencies and equities spike.
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 51m ago
 
 ---
 
@@ -211,7 +211,7 @@ MarketWatch • 1d ago
 
 As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
 
-CoinDesk • 40m ago
+CoinDesk • 51m ago
 
 ---
 

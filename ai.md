@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T14:23:42.747512+00:00'
+updated: '2025-12-06T14:38:44.191004+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 14:23 UTC  
+**Last Updated:** December 06, 2025 at 14:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ I'm just curious about the differences, I'm not super educated on this, and I fi
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 3m ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 18m ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 1d ago
 
 It’s the question every job hunter seems to be wrestling with: How do you get your resume in front of a human?
 
-The Boston Globe • 1h ago
+The Boston Globe • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ TheStreet • 23h ago
 
 On Wednesday, Nvidia Corp (NASDAQ:NVDA) CEO Jensen Huang told Joe Rogan that the future of artificial intelligence won't be constrained by chips but by electricity — and he expects tech giants to start powering their data centers with their own ...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 11h ago
 
 Argent Capital Management Portfolio Manager Jed Ellerbroek explains why he sees Amazon (AMZN) as a "stealth winner" in the AI race. Also catch Jed Ellerbroek explain why investors are growing nervous about the AI infrastructure buildout as compared to previous cloud buildout cycles. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination.
 
-Yahoo Finance • 23m ago
+Yahoo Finance • 38m ago
 
 ---
 
@@ -183,7 +183,7 @@ ABC News • 4h ago
 
 Students are using AI tools more than ever. An Angelo State University professor designed a way to figure out if his students were using artificial intelligence on a recent paper.We speak with Will Teague, who says students are sacrificing their own agency to artificial intelligence. For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Henry Larson and Karen Zamora, with additional reporting by Ayana Archie and Lee V. Gaines. It was edited by Justine Kenin and Courtney Dorning. Our executive producer is Sami Yenigun.
 
-NPR • 16h ago
+NPR • 17h ago
 
 ---
 
@@ -273,7 +273,7 @@ Multiple divisions at Microsoft have lowered sales growth targets for certain ar
 
 Welcome to the slop era.
 
-⬆️ 93 • 💬 171 • 20h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 93 • 💬 171 • 21h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -287,37 +287,17 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 767K • 👍 18K • 💬 4K • ⏱️ 2:04:06 • 2d ago
+👁️ 779K • 👍 18K • 💬 4K • ⏱️ 2:04:06 • 2d ago
 
 ---
 
-**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
+**[Grok 4.2: Elon Musk’s Most Powerful AI Model Yet](https://www.youtube.com/watch?v=jev8--FbvBg)**
 
-Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
+Join the BitBiased AI newsletter: https://bitbiased.ai/ Grok 4.2 is about to flip the AI world upside down. Elon Musk's xAI team is ...
 
-📺 Future of Life Institute
+📺 BitBiasedAI
 
-👁️ 26K • 👍 1K • 💬 486 • ⏱️ 15:40 • 1d ago
-
----
-
-**[The AI pressure cooker: OpenAI, Nvidia and Google all on the move](https://www.youtube.com/watch?v=BYnTk3l6sfs)**
-
-From Capitol Hill to the back of an Uber in Dubai — this week showed just how much pressure the AI race is under. OpenAI's Sam ...
-
-📺 CNBC Television
-
-👁️ 16K • 👍 186 • 💬 25 • ⏱️ 22:41 • 14h ago
-
----
-
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 38K • 👍 1K • 💬 203 • ⏱️ 12:07 • 13h ago
+👁️ 12K • 👍 348 • 💬 38 • ⏱️ 15:14 • 19h ago
 
 ---
 
@@ -327,7 +307,37 @@ Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the
 
 📺 End Times Productions
 
-👁️ 99K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
+👁️ 101K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
+
+---
+
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+
+📺 AI Revolution
+
+👁️ 41K • 👍 1K • 💬 232 • ⏱️ 12:07 • 14h ago
+
+---
+
+**[The AI pressure cooker: OpenAI, Nvidia and Google all on the move](https://www.youtube.com/watch?v=BYnTk3l6sfs)**
+
+From Capitol Hill to the back of an Uber in Dubai — this week showed just how much pressure the AI race is under. OpenAI's Sam ...
+
+📺 CNBC Television
+
+👁️ 18K • 👍 200 • 💬 26 • ⏱️ 22:41 • 15h ago
+
+---
+
+**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
+
+Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
+
+📺 VisualEconomik EN
+
+👁️ 92K • 👍 3K • 💬 308 • ⏱️ 15:46 • 2d ago
 
 ---
 
@@ -337,27 +347,17 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 727K • 👍 16K • 💬 954 • ⏱️ 4:58 • 2d ago
+👁️ 736K • 👍 16K • 💬 966 • ⏱️ 4:58 • 2d ago
 
 ---
 
-**[Horse saved apple plants from drying up by watering it 😭#ai #apple #tree #horse](https://www.youtube.com/watch?v=cF4OW6scRbs)**
+**[Giraffe waters pumpkin plant 😭 #ai #women #old man #orange #Pumpkin #aistory #aivideo #popular](https://www.youtube.com/watch?v=SZtJkgxz0PE)**
 
-Horse saved apple plants from drying up by watering it #ai #apple #tree #horse.
+Giraffe waters pumpkin plant #ai #women #old man #orange #Pumpkin #aistory #aivideo #popular.
 
-📺 Toonify Ai 2.0
+📺 Ai story 3.0
 
-👁️ 18K • 👍 327 • ⏱️ 0:28 • 12h ago
-
----
-
-**[Senior Army soldier makes a train of gold for a couple #ai #shorts](https://www.youtube.com/watch?v=7dHpUVoSjy8)**
-
-Senior Army soldier makes a train of gold for a couple#ai #shorts An old grandfather and grandmother fell off the tracks into the ...
-
-📺 Rudra K Ai
-
-👁️ 15K • ⏱️ 0:26 • 5h ago
+👁️ 3K • 👍 79 • 💬 8 • ⏱️ 1:03 • 1h ago
 
 ---
 
@@ -367,17 +367,17 @@ Grandmother rescues the Girl and builds Gold water slide for her #ai #water #sav
 
 📺 Ai Animated Dream 
 
-👁️ 9K • 👍 98 • ⏱️ 0:22 • 4h ago
+👁️ 19K • 👍 169 • ⏱️ 0:22 • 4h ago
 
 ---
 
-**[the Hippo and hen heartbroken Story 😭 #short #ai #tree](https://www.youtube.com/watch?v=P2vzoeEeG4w)**
+**[can you guess which is AI? #asmr](https://www.youtube.com/watch?v=hrf8MU1eIt0)**
 
-This short AI-animated story tells a simple and meaningful moment with clear English narration. The characters and scenes are ...
+did u guess all of them correctly? let me know in the comments below! **BUSINESS CONTACT** ...
 
-📺 Duk Ai Short
+📺 Dong ASMR
 
-👁️ 13K • 👍 845 • 💬 2 • ⏱️ 0:43 • 1d ago
+👁️ 331K • 👍 11K • 💬 193 • ⏱️ 0:46 • 1d ago
 
 ---
 
@@ -557,20 +557,6 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 ---
 
-**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
-
-*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
-
-🏢 AI at Meta
-
-Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
-
-▲ 105 • 💬 4 • ⭐ 5,298 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
-
----
-
 **[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
 *Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
@@ -580,6 +566,20 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 ▲ 22 • 💬 0 • ⭐ 25,448 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
+**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
+
+*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
+
+🏢 AI at Meta
+
+Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
+
+▲ 105 • 💬 4 • ⭐ 5,317 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
 ---
 
@@ -603,7 +603,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 28 • 💬 2 • ⭐ 75 • 2d ago
+▲ 28 • 💬 2 • ⭐ 99 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -617,7 +617,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 103 • 💬 6 • ⭐ 65,849 • 1mo ago
+▲ 103 • 💬 6 • ⭐ 65,865 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -687,7 +687,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 854 • 🔱 104 • 2h ago
+⭐ 863 • 🔱 105 • 2h ago
 
 ---
 
@@ -697,7 +697,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 824 • 🔱 43 • 8h ago
+⭐ 823 • 🔱 43 • 8h ago
 
 ---
 
@@ -707,7 +707,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 801 • 🔱 21 • 10d ago
+⭐ 804 • 🔱 21 • 24m ago
 
 ---
 
@@ -727,7 +727,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 727 • 🔱 14 • 17d ago
+⭐ 729 • 🔱 14 • 17d ago
 
 ---
 
@@ -737,7 +737,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 619 • 🔱 208 • 7h ago
+⭐ 629 • 🔱 212 • 7h ago
 
 ---
 

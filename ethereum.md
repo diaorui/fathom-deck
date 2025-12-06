@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T14:23:42.761838+00:00'
+updated: '2025-12-06T14:38:44.205420+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 14:23 UTC  
+**Last Updated:** December 06, 2025 at 14:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +2.1%  
-**30d:** -11.1%  
-**90d:** -29.2%  
-**1y:** -23.8%  
+**24h:** -1.7%  
+**7d:** +1.9%  
+**30d:** -11.3%  
+**90d:** -29.3%  
+**1y:** -23.9%  
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 86K • 👍 5K • 💬 476 • ⏱️ 11:16 • 1d ago
+👁️ 87K • 👍 5K • 💬 478 • ⏱️ 11:16 • 1d ago
 
 ---
 
@@ -246,17 +246,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 40K • 👍 2K • 💬 136 • ⏱️ 17:37 • 1d ago
-
----
-
-**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
-
-Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
-
-📺 Binance
-
-👁️ 83K • 👍 3K • 💬 475 • ⏱️ 27:33 • 1d ago
+👁️ 41K • 👍 2K • 💬 137 • ⏱️ 17:37 • 1d ago
 
 ---
 
@@ -266,27 +256,17 @@ BITCOIN & ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 1K • 👍 126 • 💬 151 • ⏱️ 21:34 • 3h ago
+👁️ 3K • 👍 248 • 💬 152 • ⏱️ 21:34 • 3h ago
 
 ---
 
-**[Ethereum in CRISIS After MASSIVE Crypto Update](https://www.youtube.com/watch?v=l5rNGCFV7oU)**
+**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
 
-Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydfi.Bitboy.Deals Telegram Group - Get ...
+Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
 
-📺 BitBoy X
+📺 Binance
 
-👁️ 4K • 👍 247 • ⏱️ 25:41 • 21h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJ8VniUMYIs)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 139 • 💬 26 • ⏱️ 5:46 • 11h ago
+👁️ 85K • 👍 3K • 💬 479 • ⏱️ 27:33 • 1d ago
 
 ---
 
@@ -300,13 +280,43 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 ---
 
-**[ETH Ethereum Price Prediction: 5th of December](https://www.youtube.com/watch?v=eGcX64tTJGI)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJ8VniUMYIs)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 C-Zar Gets Crypto 
+📺 More Crypto Online
 
-👁️ 480 • 👍 35 • 💬 6 • ⏱️ 7:09 • 19h ago
+👁️ 3K • 👍 147 • 💬 15 • ⏱️ 5:46 • 11h ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 19K • 👍 440 • 💬 406 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[Ethereum in CRISIS After MASSIVE Crypto Update](https://www.youtube.com/watch?v=l5rNGCFV7oU)**
+
+Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydfi.Bitboy.Deals Telegram Group - Get ...
+
+📺 BitBoy X
+
+👁️ 4K • 👍 247 • ⏱️ 25:41 • 21h ago
+
+---
+
+**[The &quot;Sovereign&quot; Secret: The US Govt&#39;s 60,000 ETH Stash (They Aren&#39;t Selling)](https://www.youtube.com/watch?v=LDK8imAvRAk)**
+
+The "Sovereign" Secret: The US Govt's 60000 ETH Stash Everyone is talking about the "Strategic Bitcoin Reserve." But they are ...
+
+📺 Wall Street Stockcast
+
+👁️ 107 • 👍 8 • ⏱️ 7:40 • 2h ago
 
 ---
 
@@ -317,16 +327,6 @@ Real-time crypto analysis — join my VIP Telegram.
 📺 Marzell Crypto
 
 👁️ 1K • 👍 38 • 💬 133 • ⏱️ 5:24 • 1d ago
-
----
-
-**[BREAKING : ETH to $22K - Ethereum Fusaka Upgrade!](https://www.youtube.com/watch?v=y_aYcH8fwrQ)**
-
-The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was designed to in ways that improve scalability, ...
-
-📺 Altcoin Buzz
-
-👁️ 3K • 👍 142 • 💬 199 • ⏱️ 9:21 • 1d ago
 
 ---
 

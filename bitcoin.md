@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T14:23:42.755877+00:00'
+updated: '2025-12-06T14:38:44.199418+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 14:23 UTC  
+**Last Updated:** December 06, 2025 at 14:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -99,7 +99,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -125,13 +125,13 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
-11h ago
+12h ago
 
 ---
 
 **[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -149,7 +149,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -293,17 +293,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 26K • 👍 2K • 💬 366 • ⏱️ 10:23 • 21h ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 19K • 👍 425 • 💬 406 • ⏱️ 15:38 • 1d ago
+👁️ 27K • 👍 2K • 💬 382 • ⏱️ 10:23 • 21h ago
 
 ---
 
@@ -313,7 +303,17 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 97K • 👍 6K • 💬 419 • ⏱️ 15:38 • 1d ago
+👁️ 100K • 👍 6K • 💬 422 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[Bitcoin and These Crypto Are Preparing For Something HUGE](https://www.youtube.com/watch?v=jsAIPevdhMQ)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRus Extra
+
+👁️ 9K • 👍 504 • 💬 388 • ⏱️ 9:08 • 14h ago
 
 ---
 
@@ -323,27 +323,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 2K • 💬 395 • ⏱️ 10:13 • 23h ago
-
----
-
-**[XRP is the Next Bitcoin😨🚨](https://www.youtube.com/watch?v=gHDfJMgAsyo)**
-
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
-
-📺 Crypto Cam
-
-👁️ 16K • 👍 650 • 💬 122 • ⏱️ 0:36 • 13h ago
-
----
-
-**[Every Major Bank Just Pivoted to Bitcoin… They Know What’s Coming!](https://www.youtube.com/watch?v=3rSaeVkFY4Q)**
-
-Every major economy is hitting the debt wall simultaneously. A global reset is coming—fast, systemic, and total. BlackRock ...
-
-📺 Simply Bitcoin
-
-👁️ 50K • 👍 4K • 💬 291 • ⏱️ 23:27 • 1d ago
+👁️ 32K • 👍 2K • 💬 414 • ⏱️ 10:13 • 1d ago
 
 ---
 
@@ -353,7 +333,27 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 11K • 👍 97 • 💬 152 • ⏱️ 4:01 • 18h ago
+👁️ 11K • 👍 103 • 💬 152 • ⏱️ 4:01 • 18h ago
+
+---
+
+**[Bitcoin Adoption Is Spreading To Unexpected Places](https://www.youtube.com/watch?v=d7nCqvpC5KQ)**
+
+Seamus Rocca is the CEO of Xapo Bank. In this conversation, we dig into the real-world data behind Bitcoin adoption — why it ...
+
+📺 Anthony Pompliano
+
+👁️ 11K • 👍 444 • ⏱️ 29:40 • 16h ago
+
+---
+
+**[Every Major Bank Just Pivoted to Bitcoin… They Know What’s Coming!](https://www.youtube.com/watch?v=3rSaeVkFY4Q)**
+
+Every major economy is hitting the debt wall simultaneously. A global reset is coming—fast, systemic, and total. BlackRock ...
+
+📺 Simply Bitcoin
+
+👁️ 51K • 👍 4K • 💬 297 • ⏱️ 23:27 • 1d ago
 
 ---
 
@@ -363,7 +363,7 @@ Everyone is screaming that Bitcoin is either going to zero or hitting a million 
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 276 • ⏱️ 12:20 • 16h ago
+👁️ 26K • 👍 2K • 💬 286 • ⏱️ 12:20 • 16h ago
 
 ---
 
@@ -373,17 +373,17 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 73K • 👍 3K • 💬 242 • ⏱️ 18:48 • 1d ago
+👁️ 74K • 👍 3K • 💬 243 • ⏱️ 18:48 • 1d ago
 
 ---
 
-**[Bitcoin Core Devs Rewriting History](https://www.youtube.com/watch?v=1g62Rbew4i8)**
+**[What Happens to Bitcoin When the Fed Finally Cuts?](https://www.youtube.com/watch?v=nrSuqkGl1t4)**
 
-Please help to support this channel's work: https://www.youtube.com/@Bitcoin_University/join In this video, I revisit Satoshi Dice ...
+Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break down the growing divisions inside the Federal ...
 
-📺 Bitcoin University
+📺 Anthony Pompliano
 
-👁️ 6K • 👍 841 • 💬 129 • ⏱️ 12:18 • 23h ago
+👁️ 26K • 👍 956 • 💬 27 • ⏱️ 28:20 • 1d ago
 
 ---
 

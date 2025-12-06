@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T14:23:42.765069+00:00'
+updated: '2025-12-06T14:38:44.208678+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 14:23 UTC  
+**Last Updated:** December 06, 2025 at 14:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -102,7 +102,7 @@ For a long time, many robotics teams believed that real robot interaction data w
 
 **[Chat Interface for Isaac Sim](https://www.reddit.com/r/robotics/comments/1pfa7jb/chat_interface_for_isaac_sim/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -196,7 +196,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 63K • 👍 504 • 💬 249 • ⏱️ 2:30 • 2d ago
+👁️ 64K • 👍 507 • 💬 254 • ⏱️ 2:30 • 2d ago
 
 ---
 
@@ -206,17 +206,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 12K • 👍 264 • 💬 142 • ⏱️ 4:05 • 1d ago
-
----
-
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 38K • 👍 1K • 💬 203 • ⏱️ 12:07 • 13h ago
+👁️ 12K • 👍 270 • 💬 145 • ⏱️ 4:05 • 1d ago
 
 ---
 
@@ -226,7 +216,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 98K • 💬 603 • ⏱️ 1:21 • 3d ago
+👁️ 98K • 💬 604 • ⏱️ 1:21 • 3d ago
 
 ---
 
@@ -234,7 +224,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 AI . Robot
 
-👁️ 1.2M • 👍 7K • 💬 43 • ⏱️ 0:17 • 2d ago
+👁️ 1.2M • 👍 7K • 💬 44 • ⏱️ 0:17 • 2d ago
 
 ---
 
@@ -244,7 +234,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 90K • 👍 462 • 💬 5 • ⏱️ 0:19 • 1d ago
+👁️ 94K • 👍 481 • 💬 5 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -254,17 +244,7 @@ Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.c
 
 📺 InsideAI
 
-👁️ 583K • 👍 23K • 💬 3K • ⏱️ 14:58 • 5d ago
-
----
-
-**[Viral Art Exhibit Shows Musk, Zuckerberg and Bezos as Creepy Robot Dogs](https://www.youtube.com/watch?v=tFfR0uQXl7w)**
-
-Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-tech-titan robot dogs pooping out NFTs, stopping ...
-
-📺 New York Post
-
-👁️ 5K • 👍 99 • 💬 65 • ⏱️ 2:06 • 1d ago
+👁️ 590K • 👍 24K • 💬 3K • ⏱️ 14:58 • 5d ago
 
 ---
 
@@ -274,15 +254,37 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 109K • 👍 416 • 💬 11 • ⏱️ 0:19 • 1d ago
+👁️ 110K • 👍 426 • 💬 11 • ⏱️ 0:19 • 1d ago
 
 ---
 
-**[#tesla unveils hover motorcycle flight-transition technology. #hoverbike #robotics #futuretech](https://www.youtube.com/watch?v=SQuLTgpddwI)**
+**[Viral Art Exhibit Shows Musk, Zuckerberg and Bezos as Creepy Robot Dogs](https://www.youtube.com/watch?v=tFfR0uQXl7w)**
 
-📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-tech-titan robot dogs pooping out NFTs, stopping ...
 
-👁️ 26K • 👍 274 • 💬 9 • ⏱️ 0:14 • 1d ago
+📺 New York Post
+
+👁️ 5K • 👍 98 • 💬 65 • ⏱️ 2:06 • 1d ago
+
+---
+
+**[Where’s my robot butler? | If You&#39;re Listening](https://www.youtube.com/watch?v=WwCCgOK8HGw)**
+
+Tech companies are in an arms race to develop the first mass-produced humanoid robot, convinced they will revolutionise the ...
+
+📺 ABC News In-depth
+
+👁️ 54K • 👍 2K • ⏱️ 20:44 • 17h ago
+
+---
+
+**[AI Humanoid Robot Awakens for the First Time at an LA Tech Expo #HumanoidRobot #AIrobot](https://www.youtube.com/watch?v=6l8elhGM6cE)**
+
+Inside a high-security robotics lab in Los Angeles, a next-gen humanoid robot is activated for the very first time. Engineers run final ...
+
+📺 AI Robot Lab
+
+👁️ 514K • 👍 4K • 💬 39 • ⏱️ 0:34 • 3d ago
 
 ---
 

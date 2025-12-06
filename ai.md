@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T17:43:23.037682+00:00'
+updated: '2025-12-06T17:54:12.798612+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 17:43 UTC  
+**Last Updated:** December 06, 2025 at 17:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 AI is quietly changing the way we read. It’s not just helping us produce content—it’s sharpening our ability to sense the difference between writing that has real depth and writing that only performs depth on the surface. Many people are experiencing something like an upgrade in “content density resolution,” the ability to feel how many layers of reasoning, structure, and judgment are actually embedded in a piece of text. Before AI, we often mistook length for complexity or jargon for expertise because there was no clear baseline to compare against. Now, after encountering enough AI-generated text—with its smooth surfaces, single-layer logic, and predictable patterns—the contrast makes genuine density more visible than ever. As this contrast sharpens, reading in the AI era begins to feel like switching from 720p to 4K. Flat content is instantly recognizable. Shallow arguments reveal themselves within a few sentences. Emotional bait looks transparent instead of persuasive. At the same time, the rare instances of multi-layer reasoning, compressed insight, or non-linear structure stand out like a different species of writing. AI unintentionally trains our perception simply by presenting a vast quantity of material that shares the same low-density signature. The moment you notice that some writing “moves differently,” that it carries internal tension or layered judgment, your density resolution has already shifted. This leads to a future where the real competition in content isn’t about volume, speed, or aesthetics—it’s about layers. AI can generate endless text, but it cannot easily reproduce the structural depth of human reasoning. Even casual users now report that AI has made it easier to “see through” many posts, articles, or videos they used to find convincing. And if you can already explain—or at least feel—why certain writing hits harder, lasts longer in your mind, or seems structurally alive, it means your perception is evolving. AI may automate creation, but it is upgrading human discernment, and this perceptual shift may become one of the most significant side effects of the AI era.
 
-46m ago
+56m ago
 
 ---
 
@@ -139,13 +139,13 @@ The Keyword • 1d ago
 
 Jeep is one of the first automakers to fully leverage AI image generation in its marketing materials.
 
-Detroit Free Press • 1h ago
+Detroit Free Press • 2h ago
 
 ---
 
 **[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcZ4YzVpl-J8Q5c5yRkBosZ8nU4TRE3Qay6NrZvk22adrmMg6jVVlRP&gaa_ts=69346bfc&gaa_sig=4drHF9eOWyyAjXQ4Ud6zZcaOBpGD0b9sijrrZZS4BiNKG67-2CgY4Plq2qA_TG6JojbudxwuEleUBjTNDMkePg%3D%3D)**
 
-The Wall Street Journal • 26m ago
+The Wall Street Journal • 37m ago
 
 ---
 
@@ -191,7 +191,7 @@ Scientific American • 5h ago
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -211,7 +211,7 @@ A post about everyone in Seattle hating AI.
 
 Update: This post received a large amount of attention on Hacker News — see the discussion thread.
 
-⬆️ 807 • 💬 284 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+⬆️ 807 • 💬 284 • 3d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 
 ---
 
@@ -299,7 +299,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Grok 4.2 is about to fli
 
 📺 BitBiasedAI
 
-👁️ 12K • 👍 359 • 💬 38 • ⏱️ 15:14 • 22h ago
+👁️ 12K • 👍 359 • 💬 38 • ⏱️ 15:14 • 23h ago
 
 ---
 
@@ -649,7 +649,7 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.2k • 🔱 405 • 1d ago
+⭐ 5.2k • 🔱 406 • 1d ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 881 • 🔱 105 • 5h ago
+⭐ 885 • 🔱 105 • 5h ago
 
 ---
 
@@ -699,7 +699,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 823 • 🔱 43 • 11h ago
+⭐ 824 • 🔱 43 • 12h ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 808 • 🔱 22 • 3h ago
+⭐ 810 • 🔱 22 • 3h ago
 
 ---
 
@@ -719,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 779 • 🔱 54 • 6d ago
+⭐ 780 • 🔱 54 • 6d ago
 
 ---
 
@@ -729,7 +729,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 730 • 🔱 14 • 17d ago
+⭐ 731 • 🔱 14 • 17d ago
 
 ---
 
@@ -739,7 +739,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 645 • 🔱 218 • 10h ago
+⭐ 653 • 🔱 218 • 10h ago
 
 ---
 

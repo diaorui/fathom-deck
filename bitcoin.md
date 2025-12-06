@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T17:43:23.045064+00:00'
+updated: '2025-12-06T17:54:12.807141+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 17:43 UTC  
+**Last Updated:** December 06, 2025 at 17:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -125,7 +125,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
-19h ago
+20h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 2h ago
 
 **[Scam so convincing victim ignores police, puts thousands into Cryptocurrency ATM](https://fox8.com/news/scam-artist-so-convincing-elderly-victim-ignores-police-pleas-to-stop-puts-thousands-into-cryptocurrency-atm/)**
 
-FOX 8 News • 4h ago
+FOX 8 News • 5h ago
 
 ---
 

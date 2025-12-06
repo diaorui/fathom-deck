@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T16:53:33.744594+00:00'
+updated: '2025-12-06T17:13:45.837253+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- news
 - videos
 - social
-- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 16:53 UTC  
+**Last Updated:** December 06, 2025 at 17:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 23h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 1d ago
 
 ---
 
@@ -65,7 +65,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 10h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 11h ago
 
 ---
 
@@ -81,7 +81,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Hey all, amidst all the downsides of AI this past year - be it environmental worries, slop in music and art, AI enshittification, GPU/RAM prices increasing - I wanted to discuss about what's how WE are using AI, among a general look at changes on a larger scale. Personally, it feels like I haven't really felt a huge difference within the stuff I use which is just the basic stuff like GPT / Gemini. However, one change for me was that I've been using it for language learning which I've felt has been quite useful. On a general level, I feel like I've been seeing some practical applications that improved considerably this year compared to last years. An example I've seen recently is in health, where AI imaging can catch breast cancer way earlier and with higher accuracy. Another is in programming, where it feels like there's a huge rise in "Vibes Coding" with even sites like Bolt/v0. Now I'm not gonna pretend like I know how any of these work, but I do think it's interesting how there's a practical use for AI in these fields now. What about for you guys? Has AI gotten better or worse this year, and where did you actually feel the difference?
 
-1h ago
+2h ago
 
 ---
 
@@ -103,7 +103,7 @@ If you use AI for writing, have you found a way for it to capture your voice so 
 
 **[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -123,7 +123,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -183,7 +183,7 @@ Fortune • 2d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 6h ago
+ABC News • 7h ago
 
 ---
 
@@ -339,7 +339,7 @@ The race to unlock the secret to a longer life is on - and two sisters from a Ca
 
 📺 BBC News
 
-👁️ 11K • 👍 378 • 💬 158 • ⏱️ 8:08 • 7h ago
+👁️ 11K • 👍 378 • 💬 158 • ⏱️ 8:08 • 8h ago
 
 ---
 
@@ -379,7 +379,7 @@ Giraffe waters pumpkin plant #ai #women #old man #orange #Pumpkin #aistory #aivi
 
 📺 Ai story 3.0
 
-👁️ 6K • 👍 155 • 💬 10 • ⏱️ 1:03 • 3h ago
+👁️ 6K • 👍 155 • 💬 10 • ⏱️ 1:03 • 4h ago
 
 ---
 
@@ -739,7 +739,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 645 • 🔱 218 • 9h ago
+⭐ 645 • 🔱 218 • 10h ago
 
 ---
 

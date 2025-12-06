@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T16:53:33.760451+00:00'
+updated: '2025-12-06T17:13:45.853351+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 16:53 UTC  
+**Last Updated:** December 06, 2025 at 17:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 Zhongqing CEO Receives the Challenge of T800
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 Meet Octoid, the squishy robot that changes from blue to green to red.
 
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 45m ago
+🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 1h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hella everyone! I've been building this drone as my own personal test on my engi
 
 **[Art installation draws attention for its robot dogs with famous faces](https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -176,7 +176,7 @@ Nasdaq • 2d ago
 
 Wise is building a team of experts in Silicon Valley to unify KUKA's software systems and apply AI to more robots.
 
-The Robot Report • 23h ago
+The Robot Report • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T10:55:03.515487+00:00'
+updated: '2025-12-06T11:16:31.746756+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - videos
 - social
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 10:55 UTC  
+**Last Updated:** December 06, 2025 at 11:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 17h ago
-
----
-
-**[The Strange Disappearance of an Anti-AI Activist | Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.](https://www.reddit.com/r/artificial/comments/1pfhump/the_strange_disappearance_of_an_antiai_activist/)**
-
-Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
-
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 4h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 18h ago
 
 ---
 
@@ -57,7 +49,15 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 41m ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 1h ago
+
+---
+
+**[The Strange Disappearance of an Anti-AI Activist | Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.](https://www.reddit.com/r/artificial/comments/1pfhump/the_strange_disappearance_of_an_antiai_activist/)**
+
+Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
+
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 5h ago
 
 ---
 
@@ -71,7 +71,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 **[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -79,7 +79,13 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 22h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 23h ago
+
+---
+
+**[Well, THIS was interesting. ChatGPT.](https://www.reddit.com/r/artificial/comments/1pfmipr/well_this_was_interesting_chatgpt/)**
+
+26m ago
 
 ---
 
@@ -107,14 +113,6 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 ---
 
-**[AMD CEO Lisa Su “emphatically” rejects talk of an AI bubble — says claims are "somewhat overstated” and that AI is still in its infancy | AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.](https://www.reddit.com/r/artificial/comments/1pf9pl1/amd_ceo_lisa_su_emphatically_rejects_talk_of_an/)**
-
-AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 11h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,7 +121,7 @@ AMD CEO says long-term demand for compute will justify today’s rapid data-cent
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 18h ago
+The Keyword • 19h ago
 
 ---
 
@@ -137,15 +135,7 @@ The New York Times • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 47m ago
-
----
-
-**[Using AI to plan your holiday travel? Why that's a mistake](https://qz.com/ai-holiday-travel-planning-tips)**
-
-AI might pull information from the previous availability and hours, but many places have different availability or hours during the holidays
-
-qz.com • 52m ago
+ABC News • 1h ago
 
 ---
 
@@ -153,7 +143,13 @@ qz.com • 52m ago
 
 24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
 
-Business Insider • 55m ago
+Business Insider • 1h ago
+
+---
+
+**[Qatar Says AI Demand, Underinvestment May Drive LNG Shortage](https://www.bloomberg.com/news/articles/2025-12-06/qatar-says-ai-demand-underinvestment-may-drive-lng-shortage)**
+
+Bloomberg.com • 33m ago
 
 ---
 
@@ -173,25 +169,27 @@ NPR • 13h ago
 
 ---
 
+**[AI deepfakes of real doctors spreading health misinformation on social media](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media)**
+
+Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
+
+The Guardian • 16h ago
+
+---
+
+**[A safety report card ranks AI company efforts to protect humanity](https://www.latimes.com/entertainment-arts/business/story/2025-12-05/ai-artificial-intelligence-company-scorecard-ranks-safety-humanity)**
+
+Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety.
+
+Los Angeles Times • 1d ago
+
+---
+
 **[Meta acquiring AI wearable company Limitless](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
 CNBC • 15h ago
-
----
-
-**[Meta buys AI pendant start-up Limitless to expand hardware push](https://www.ft.com/content/a1a7adab-506e-4623-8f7a-0b7c94c8d6b4)**
-
-Deal indicates Zuckerberg is exploring other types of artificial intelligence-powered devices beyond smart glasses
-
-Financial Times • 12h ago
-
----
-
-**[Meta Platforms Buys AI Device Maker Limitless](https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqdzuHrcLLrTtQhlLFPUEceDa7mjGjsdfaq8CSsXrkIQZ2ZCUPk9nJ9E&gaa_ts=69340c72&gaa_sig=s6-ABNwPA8AUpc5EztKT4v7HBwwC5hQaUZMq0XzPe-OkT9oFu2rxP9NOguVh5Yp6QX8aiTqI5BVkGyF1yqz3Pw%3D%3D)**
-
-The Wall Street Journal • 12h ago
 
 ---
 
@@ -219,7 +217,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 685 • 💬 651 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 687 • 💬 651 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -227,7 +225,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 461 • 💬 228 • 18h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 465 • 💬 230 • 19h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -243,7 +241,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 300 • 💬 156 • 9h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 305 • 💬 161 • 10h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -252,14 +250,6 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
 ⬆️ 247 • 💬 202 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
-
----
-
-**[Are we repeating the telecoms crash with AI datacenters?](https://news.ycombinator.com/item?id=46133141)**
-
-Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume
-
-⬆️ 238 • 💬 191 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 
 ---
 
@@ -276,6 +266,14 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many ​sales staff missed goals in the fiscal year that ‌ended in June, The Information reported on Wednesday.  It is rare for Microsoft to ‌lower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about ​real-world adoption of AI as an MIT study from earlier ‌this year had found that only about 5% of AI projects advance beyond the pilot stage.
 
 ⬆️ 129 • 💬 97 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
+
+---
+
+**[The AI Backlash Is Here: Why Public Patience with Tech Giants Is Running Out](https://news.ycombinator.com/item?id=46164419)**
+
+Welcome to the slop era.
+
+⬆️ 91 • 💬 169 • 17h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -369,7 +367,7 @@ Horse saved apple plants from drying up by watering it #ai #apple #tree #horse.
 
 📺 Toonify Ai 2.0
 
-👁️ 2K • 👍 277 • ⏱️ 0:28 • 8h ago
+👁️ 2K • 👍 277 • ⏱️ 0:28 • 9h ago
 
 ---
 
@@ -379,7 +377,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 459K • 👍 1K • 💬 64 • ⏱️ 8:09 • 1d ago
+👁️ 459K • 👍 1K • 💬 64 • ⏱️ 8:09 • 2d ago
 
 ---
 
@@ -395,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,162 • 3d ago
+⬇️ 169,515 • ❤️ 2,163 • 3d ago
 
 ---
 
@@ -407,7 +405,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 738 • 4d ago
+⬇️ 18,140 • ❤️ 738 • 5d ago
 
 ---
 
@@ -419,7 +417,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 4,718 • ❤️ 516 • 4d ago
+⬇️ 4,718 • ❤️ 516 • 5d ago
 
 ---
 
@@ -431,7 +429,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 322 • 1d ago
+⬇️ 20,067 • ❤️ 323 • 1d ago
 
 ---
 
@@ -475,7 +473,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 196,425 • ❤️ 902 • 8d ago
+⬇️ 196,425 • ❤️ 903 • 8d ago
 
 ---
 
@@ -507,20 +505,6 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 143 • 💬 2 • ⭐ 4,736 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -535,6 +519,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 144 • 💬 2 • ⭐ 4,794 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://huggingface.co/papers/2512.02589)**
 
 *Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)*
@@ -543,7 +541,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 25 • 💬 2 • ⭐ 271 • 4d ago
+▲ 27 • 💬 2 • ⭐ 271 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -593,23 +591,9 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 14 • 💬 0 • ⭐ 26,203 • 11mo ago
+▲ 14 • 💬 0 • ⭐ 26,215 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://huggingface.co/papers/2306.08568)**
-
-*Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)*
-
-🏢 Microsoft
-
-WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct, outperforms other open-source and closed LLMs on several code generation benchmarks.
-
-▲ 31 • 💬 2 • ⭐ 9,470 • 30mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2306.08568) • [💻 code](https://github.com/nlpxucan/WizardLM)
 
 ---
 
@@ -621,7 +605,7 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 28 • 💬 2 • ⭐ 75 • 1d ago
+▲ 28 • 💬 2 • ⭐ 75 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -638,6 +622,20 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 ▲ 103 • 💬 6 • ⭐ 65,849 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
+**[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://huggingface.co/papers/2306.08568)**
+
+*Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)*
+
+🏢 Microsoft
+
+WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct, outperforms other open-source and closed LLMs on several code generation benchmarks.
+
+▲ 31 • 💬 2 • ⭐ 9,470 • 30mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2306.08568) • [💻 code](https://github.com/nlpxucan/WizardLM)
 
 ---
 
@@ -691,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 835 • 🔱 104 • 13h ago
+⭐ 843 • 🔱 104 • 13h ago
 
 ---
 
@@ -701,7 +699,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 823 • 🔱 42 • 5h ago
+⭐ 824 • 🔱 43 • 5h ago
 
 ---
 
@@ -711,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 791 • 🔱 20 • 10d ago
+⭐ 796 • 🔱 20 • 10d ago
 
 ---
 
@@ -721,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 777 • 🔱 54 • 5d ago
+⭐ 778 • 🔱 54 • 5d ago
 
 ---
 
@@ -731,7 +729,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 724 • 🔱 14 • 17d ago
+⭐ 725 • 🔱 14 • 17d ago
 
 ---
 
@@ -741,7 +739,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 594 • 🔱 202 • 3h ago
+⭐ 601 • 🔱 206 • 4h ago
 
 ---
 

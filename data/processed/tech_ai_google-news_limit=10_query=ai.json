@@ -35,16 +35,6 @@
       "description": "AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting."
     },
     {
-      "headline": "Using AI to plan your holiday travel? Why that's a mistake",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zVGhoblAzaGxyd1k5MVNvRWczQXR5SWxBVHlyeUlvcUpFTTJsNkwtbExZajRja3dsaFVBcUFhOWRtZzBfWWdDeF95UEcwU0R5YTFjMjBDa2VCQQ?oc=5",
-      "pub_date": 1765015331.0,
-      "article_url": "https://qz.com/ai-holiday-travel-planning-tips",
-      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2247984456.jpg",
-      "description": "AI might pull information from the previous availability and hours, but many places have different availability or hours during the holidays"
-    },
-    {
       "headline": "How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -53,6 +43,16 @@
       "article_url": "https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12",
       "image": "https://i.insider.com/6932041704d0f0a114f17336?width=1200&format=jpeg",
       "description": "24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market."
+    },
+    {
+      "headline": "Qatar Says AI Demand, Underinvestment May Drive LNG Shortage",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXo5UFdLSWo5bjZnNG1jZmF2Z0NCaGdIczJqOTlnd2Z2c1BnbHlsQ0hxNkh5UWlxczBfeW5DQ1lkRW9qTmE5dmc1TGV0VWstN1FxSnRsN0M3YXFkQ1lyR0hvTWVXR2x2OTNzQnpCXzdLMFdTb3V2Q3hNY2w1Smk3ZmxvMDhQcVViVm9PWmRLOHozaGFMc3dhd1EtT29GOG9NQVJ2ZUNLSFhWZnNiQ1J3?oc=5",
+      "pub_date": 1765017810.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-06/qatar-says-ai-demand-underinvestment-may-drive-lng-shortage",
+      "image": null,
+      "description": null
     },
     {
       "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
@@ -75,6 +75,26 @@
       "description": "Students are using AI tools more than ever.\u00a0An Angelo State University professor designed a way to figure out if his students were using artificial intelligence on a recent paper.We speak with Will Teague,\u00a0who says students are sacrificing their own agency to artificial intelligence.\u00a0For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org.\u00a0Email us at\u00a0considerthis@npr.org.This episode was produced by Henry Larson and Karen Zamora, with additional reporting by Ayana Archie and Lee V. Gaines. It was edited by Justine Kenin and Courtney Dorning. Our executive producer is Sami Yenigun."
     },
     {
+      "headline": "AI deepfakes of real doctors spreading health misinformation on social media",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYnh4VG1GYVNqb0NxNHpDX2ZNSEVjMDR0Q21Ga1NCNmRTSW5PTldNOFh6SUhIWDFKRHpsem9sQnZiUFNIVy1NV29QdVVmWmwxN3dObUw0dEtfVnpUTUlHb09RWEVfaFl2MEIzNzJzT2VMZU5EdUNsT3hwMnQtUC1tLTMtUU1RdHpWZzltZFFIRi03RGJHanpSV0RjM19KYmJ1MV83VUgxZTFtYWw5VHpkNHFCMGQyQUg0VGFHVS1vbWxrQQ?oc=5",
+      "pub_date": 1764960300.0,
+      "article_url": "https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media",
+      "image": "https://i.guim.co.uk/img/media/53cc24d57b561a7e7ce23d333cb5e045b3fa3970/3391_0_4059_3247/master/4059.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=88f69c6c03c9f7cbb051b81d2cae5e42",
+      "description": "Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects"
+    },
+    {
+      "headline": "A safety report card ranks AI company efforts to protect humanity",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUW8xaF9NOE5mVFhPYmhTVjNVeWZRY21QZFB6NzdwSE04TjV0LS1lVGxqOHJqejJRU3lDNFhEbUtTczFkcjBDcWRubl9ZZEhqeF9yYk4yR1RHc3Y1WjIyTWRjMDRDTkJPNm16TEMxdGdsbHBhaXdCQ2VoMnJibjU3STY1eUg5MmRiT3RaYnE3T2FmYVB2TEhIUHh2XzJBYTd5T0xIT0dORUV0aXcyV3JYTTBVd1F3MGxydHR5bkFfQnJMYnVka215WXVhdU9lSDAz?oc=5",
+      "pub_date": 1764932400.0,
+      "article_url": "https://www.latimes.com/entertainment-arts/business/story/2025-12-05/ai-artificial-intelligence-company-scorecard-ranks-safety-humanity",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/571d8f3/2147483647/strip/true/crop/4564x2396+0+323/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2Fff%2Fe32c277e4854a26d2d77424aebe4%2F2235057505.jpg",
+      "description": "Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety."
+    },
+    {
       "headline": "Meta acquiring AI wearable company Limitless",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108219443-17618392362025-09-18t012656z_736652099_rc20uga8mamw_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1761839305&w=1920&h=1080",
       "description": "Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant."
-    },
-    {
-      "headline": "Meta buys AI pendant start-up Limitless to expand hardware push",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ScU9uR3dkOGx2UFdPaWo0Z0NDVHhvVEFDcjBzcUM4b3ZVcTJ2dWUyVFo0bTFpeDd6aDE4NmRIUkwxZUFYcjQzSWxhLXA3U3pMaERiN1lQTlJTWHdsdVlVUWthREh5MFgxT0NWaEs4S1U?oc=5",
-      "pub_date": 1764972283.0,
-      "article_url": "https://www.ft.com/content/a1a7adab-506e-4623-8f7a-0b7c94c8d6b4",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F144cdc23-a3b2-40e8-a10b-c43ab8cedd28.png?source=next-barrier-page",
-      "description": "Deal indicates Zuckerberg is exploring other types of artificial intelligence-powered devices beyond smart glasses"
-    },
-    {
-      "headline": "Meta Platforms Buys AI Device Maker Limitless",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOUWlYRXMyTVd4TVhab1NEMXljN05OSzNFVUZ5eUtKelhMWWFzZjlwVmdrWS1JeE1qWWFiZ0pwbEM5d2hVYjQ5RUVlcVlLUkxMdkQzM0t6YmpkM292ZDlqZGc0OUYyUVhBWXVlOWJSTTI5eF9SVEF2Z3Y3UTJoaWNOV2s5ZGwtdFJuMEgzeHFZdU1MdkVTTW1fY21JSEVpdXoyRS1XclFxYy1IMXpSX09LM0p0V3VCY0pCajZaaEdIMk91Zjg5eVdYWXRUdW90NUpzNkJiVk5GY1hrS18za0NMM0N3cEhSeTczbGFOWHdrcjBwRXB4bFVjZXNwbGtrZTc2M21CR0trZWpmbzk0bGE5WDFZTmZneHZjQ1BzcE5ieXoxamQ4R3lpMF9PRmw2blN1cnJkRUJFczVDX1lvVEp0Z0h0U2lrc0oxTzRSN2hIVk5yLWpBMm4waW03SjlRLUMyaDNhS2FxT3VxWHRkcHBOSWpvUi1ZajNVc3RBQWJELVBFbVBiUnBmSUtkRQ?oc=5",
-      "pub_date": 1764972480.0,
-      "article_url": "https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqdzuHrcLLrTtQhlLFPUEceDa7mjGjsdfaq8CSsXrkIQZ2ZCUPk9nJ9E&gaa_ts=69340c72&gaa_sig=s6-ABNwPA8AUpc5EztKT4v7HBwwC5hQaUZMq0XzPe-OkT9oFu2rxP9NOguVh5Yp6QX8aiTqI5BVkGyF1yqz3Pw%3D%3D",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T10:44:23.559900+00:00"
+  "fetched_at": "2025-12-06T11:16:27.880860+00:00"
 }

@@ -37,7 +37,7 @@
       "url": "https://arxiv.org/abs/2512.04047",
       "hn_url": "https://news.ycombinator.com/item?id=46145180",
       "author": "50kIters",
-      "points": 685,
+      "points": 687,
       "num_comments": 651,
       "created_at": "2025-12-04T08:38:17Z",
       "object_id": "46145180",
@@ -51,8 +51,8 @@
       "url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
       "hn_url": "https://news.ycombinator.com/item?id=46163308",
       "author": "xnx",
-      "points": 461,
-      "num_comments": 228,
+      "points": 465,
+      "num_comments": 230,
       "created_at": "2025-12-05T16:15:10Z",
       "object_id": "46163308",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.width-1300.png",
@@ -79,8 +79,8 @@
       "url": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
       "hn_url": "https://news.ycombinator.com/item?id=46169554",
       "author": "mystraline",
-      "points": 300,
-      "num_comments": 156,
+      "points": 305,
+      "num_comments": 161,
       "created_at": "2025-12-06T01:15:48Z",
       "object_id": "46169554",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/07/05/Skz1mlnepO/Skz1mlnepO_1_105_1000_563_0_large.jpg",
@@ -101,20 +101,6 @@
       "description": "The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.",
       "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20251203-121739-f954f14c69-web-2.35.1-2/apple-touch-icon.png",
       "site_name": "bbc.com"
-    },
-    {
-      "title": "Are we repeating the telecoms crash with AI datacenters?",
-      "url": "https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/",
-      "hn_url": "https://news.ycombinator.com/item?id=46133141",
-      "author": "davedx",
-      "points": 238,
-      "num_comments": 191,
-      "created_at": "2025-12-03T11:14:56Z",
-      "object_id": "46133141",
-      "image": "https://martinalderson.com/img/og/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters.png",
-      "description": "Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume",
-      "favicon": "https://martinalderson.com/apple-touch-icon.png",
-      "site_name": "Martin Alderson"
     },
     {
       "title": "State of AI: An Empirical 100T Token Study with OpenRouter",
@@ -143,9 +129,23 @@
       "description": "Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many \u200bsales staff missed goals in the fiscal year that \u200cended in June, The Information reported on Wednesday.  It is rare for Microsoft to \u200clower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about \u200breal-world adoption of AI as an MIT study from earlier \u200cthis year had found that only about 5% of AI projects advance beyond the pilot stage.",
       "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
       "site_name": "Yahoo Finance"
+    },
+    {
+      "title": "The AI Backlash Is Here: Why Public Patience with Tech Giants Is Running Out",
+      "url": "https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425",
+      "hn_url": "https://news.ycombinator.com/item?id=46164419",
+      "author": "zerosizedweasle",
+      "points": 91,
+      "num_comments": 169,
+      "created_at": "2025-12-05T17:29:47Z",
+      "object_id": "46164419",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2025/10/Welcome-to-the-Slop-Era-The-AI-Backlash-is-Here-1-1.png?w=1200crop=1",
+      "description": "Welcome to the slop era.",
+      "favicon": "https://www.newsweek.com/apple-touch-icon.png",
+      "site_name": "Newsweek"
     }
   ],
-  "total_hits": 550,
+  "total_hits": 546,
   "has_metadata": true,
-  "fetched_at": "2025-12-06T10:43:59.308003+00:00"
+  "fetched_at": "2025-12-06T11:16:10.071164+00:00"
 }

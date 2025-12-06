@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T07:41:35.386005+00:00'
+updated: '2025-12-06T07:53:07.121922+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- social
 - news
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 07:41 UTC  
+**Last Updated:** December 06, 2025 at 07:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -83,6 +83,14 @@ Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York T
 
 ---
 
+**[AMD CEO Lisa Su “emphatically” rejects talk of an AI bubble — says claims are "somewhat overstated” and that AI is still in its infancy | AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.](https://www.reddit.com/r/artificial/comments/1pf9pl1/amd_ceo_lisa_su_emphatically_rejects_talk_of_an/)**
+
+AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
+
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 8h ago
+
+---
+
 **[Meta eyes budget cuts for its metaverse group as CEO Mark Zuckerberg doubles down on AI](https://www.reddit.com/r/artificial/comments/1peczz9/meta_eyes_budget_cuts_for_its_metaverse_group_as/)**
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
@@ -99,19 +107,11 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 ---
 
-**[AMD CEO Lisa Su “emphatically” rejects talk of an AI bubble — says claims are "somewhat overstated” and that AI is still in its infancy | AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.](https://www.reddit.com/r/artificial/comments/1pf9pl1/amd_ceo_lisa_su_emphatically_rejects_talk_of_an/)**
-
-AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 8h ago
-
----
-
 **[Using AI as a "blandness detector" instead of a content generator](https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/)**
 
 Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
 
-10h ago
+11h ago
 
 ---
 
@@ -133,9 +133,23 @@ The New York Times • 21h ago
 
 ---
 
-**[AI Stocks Are a Bet on the Future. Markets Are Ignoring the Now.](https://www.barrons.com/articles/ai-stocks-market-price-b6350469?gaa_at=eafs&gaa_n=AWEtsqcVtDWmQ0GGM4B2MCf0ay_HBB7HJMx34NJXvbrOjJ7gJCB8JWQe2zQh&gaa_ts=6933dac3&gaa_sig=8Rx-Qjledzz127V1447PlSKwQ6m-TYhF7c0Be64lEiuEpsQD7eliyGUSxFOibaMPnh6p44VKu6NJMiuvpzH9Ig%3D%3D)**
+**[AI Stocks Are a Bet on the Future. Markets Are Ignoring the Now.](https://www.barrons.com/articles/ai-stocks-market-price-b6350469?gaa_at=eafs&gaa_n=AWEtsqe58HPmHGmGWTu8pW-ZwitmPiBsH5_RWqTt98sCyW0INsj472NyuZXR&gaa_ts=6933e44a&gaa_sig=cA4dx8EKMb96locWNHI_pTQS3YzUoaKaF3jLqPQSaPyJZQw5MNQ7a_dGxldUtOillmbC3qs7XjSB_OTHfd4JkA%3D%3D)**
 
-Barron's • 41m ago
+Barron's • 53m ago
+
+---
+
+**[AI industry not in a bubble, but stocks could see correction, SK chief says](https://www.reuters.com/world/asia-pacific/ai-industry-not-bubble-stocks-could-see-correction-sk-chief-says-2025-12-05/)**
+
+Reuters • 23h ago
+
+---
+
+**[Is This AI Software Stock About to Have Its Nvidia Moment?](https://www.nasdaq.com/articles/ai-software-stock-about-have-its-nvidia-moment)**
+
+Key PointsPalantir's growing influence in the AI software market suggests that it has the potential to become the Nvidia of this sector.
+
+Nasdaq • 8h ago
 
 ---
 
@@ -173,35 +187,13 @@ Los Angeles Times • 20h ago
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-CNBC • 11h ago
-
----
-
-**[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
-
-Reuters • 12h ago
-
----
-
-**[Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)**
-
-Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
-
-TechCrunch • 10h ago
+CNBC • 12h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[Zig quits GitHub, says Microsoft's AI obsession has ruined the service](https://news.ycombinator.com/item?id=46131406)**
-
-: Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
-
-⬆️ 1051 • 💬 605 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
-
----
 
 **[Everyone in Seattle hates AI](https://news.ycombinator.com/item?id=46138952)**
 
@@ -239,7 +231,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 416 • 💬 212 • 15h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 424 • 💬 213 • 15h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -247,7 +239,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 246 • 💬 202 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 247 • 💬 202 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -263,7 +255,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 221 • 💬 130 • 6h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 237 • 💬 134 • 6h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -272,6 +264,14 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
 ⬆️ 202 • 💬 93 • 1d ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+
+---
+
+**[Microsoft lowers AI software growth targets](https://news.ycombinator.com/item?id=46135388)**
+
+Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many ​sales staff missed goals in the fiscal year that ‌ended in June, The Information reported on Wednesday.  It is rare for Microsoft to ‌lower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about ​real-world adoption of AI as an MIT study from earlier ‌this year had found that only about 5% of AI projects advance beyond the pilot stage.
+
+⬆️ 129 • 💬 97 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
 
 ---
 
@@ -325,7 +325,7 @@ Another heaping of AI Slop, this time involving Franklin the Turtle, Japanese ga
 
 📺 Dolan Darkest
 
-👁️ 205K • 👍 12K • 💬 2K • ⏱️ 2:28 • 13h ago
+👁️ 205K • 👍 12K • 💬 2K • ⏱️ 2:28 • 14h ago
 
 ---
 
@@ -427,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 312 • 1d ago
+⬇️ 12,984 • ❤️ 313 • 1d ago
 
 ---
 
@@ -439,7 +439,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 1,509 • ❤️ 335 • 4d ago
+⬇️ 1,509 • ❤️ 337 • 4d ago
 
 ---
 
@@ -495,7 +495,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 `text-to-image`
 
-⬇️ 1,775 • ❤️ 160 • 2d ago
+⬇️ 1,775 • ❤️ 161 • 2d ago
 
 ---
 
@@ -647,7 +647,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.2k • 🔱 397 • 1d ago
+⭐ 5.2k • 🔱 399 • 1d ago
 
 ---
 
@@ -697,7 +697,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 823 • 🔱 42 • 1h ago
+⭐ 823 • 🔱 42 • 2h ago
 
 ---
 
@@ -707,7 +707,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 780 • 🔱 20 • 10d ago
+⭐ 788 • 🔱 20 • 10d ago
 
 ---
 
@@ -727,7 +727,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 717 • 🔱 14 • 17d ago
+⭐ 720 • 🔱 14 • 17d ago
 
 ---
 
@@ -737,7 +737,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 559 • 🔱 175 • 2h ago
+⭐ 574 • 🔱 184 • 49m ago
 
 ---
 

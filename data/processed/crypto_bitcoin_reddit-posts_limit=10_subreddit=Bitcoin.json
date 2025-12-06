@@ -2,17 +2,6 @@
   "subreddit": "Bitcoin",
   "posts": [
     {
-      "title": "They are not ready.",
-      "author": "MrMBTC",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/",
-      "published": 1764963392.0,
-      "thumbnail": "https://preview.redd.it/iy0i9lobuf5g1.jpeg?width=320&crop=smart&auto=webp&s=6d4727d16ff3990ec7610161c37fed6015e47207",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Weak hands and overleveraged tourists panic-sell every dip. Try HODLing",
       "author": "Green_Candler",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pf5aef/weak_hands_and_overleveraged_tourists_panicsell/",
@@ -46,6 +35,17 @@
       "description": null
     },
     {
+      "title": "Trying to withdraw $50,000 from the bank",
+      "author": "ifuckedyourmom-247",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/",
+      "published": 1765005799.0,
+      "thumbnail": "https://external-preview.redd.it/ZXN5ZXlpOWFjajVnMUB2NnfHc7hV_dpMQ2_mbE_WrY_t3XPZeS8c2XnlNc6c.png?width=640&crop=smart&auto=webp&s=122a9eac9afc8825a47a5eaa8b8d96f1cfb65cd3",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Think For Yourself",
       "author": "suuperfli",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/",
@@ -62,6 +62,17 @@
       "url": "https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/",
       "published": 1764939091.0,
       "thumbnail": "https://preview.redd.it/avilez6lsd5g1.jpeg?width=640&crop=smart&auto=webp&s=c034100fb9483dc6c5b77ab48546b448a77ad78a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "They are not ready.",
+      "author": "MrMBTC",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/",
+      "published": 1764963392.0,
+      "thumbnail": "https://preview.redd.it/iy0i9lobuf5g1.jpeg?width=320&crop=smart&auto=webp&s=6d4727d16ff3990ec7610161c37fed6015e47207",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Did you know you can generate a Bitcoin private key using a coin?",
-      "author": "MegaSackk",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pf234m/did_you_know_you_can_generate_a_bitcoin_private/",
-      "published": 1764957893.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Most people let their wallet software generate their private key, which is totally fine but Bitcoin doesn\u2019t require a computer to create one. A Bitcoin private key is just a 256-bit number\u2026 And a fair coin flip produces 1 bit of entropy. So in theory (and in practice), you can generate a completely valid, secure Bitcoin private key by doing: Heads = 1 Tails = 0 The math is simple. 256 coin flips is 2^256 potential outcomes. Once you have your 256-bit binary sequence, you can convert it offline into: hex format WIF private key or even a BIP39 seed phrase All without touching the internet. You could also do this with dice, a dice roll is roughly 2.585 bits of entropy. Therefore 99-100 dice rolls will give you enough entropy for a 256 bit private key. This works because Bitcoin\u2019s security comes from math. I mean how could you not love Bitcoin!"
     }
   ],
-  "fetched_at": "2025-12-06T07:12:01.372788+00:00"
+  "fetched_at": "2025-12-06T07:52:40.911772+00:00"
 }

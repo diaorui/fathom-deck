@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T07:41:35.403810+00:00'
+updated: '2025-12-06T07:53:07.139664+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 07:41 UTC  
+**Last Updated:** December 06, 2025 at 07:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,12 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
+
+1h ago
+
+---
+
 **[Sunday Robotics: Collecting Data Through the Memory-Developer Glove Before Building the Humanoid](https://www.reddit.com/r/robotics/comments/1pf9wv3/sunday_robotics_collecting_data_through_the/)**
 
 https://youtu.be/UAlm8Z4mfpU
@@ -45,12 +51,6 @@ https://youtu.be/UAlm8Z4mfpU
 AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
 
 18h ago
-
----
-
-**[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
-
-1h ago
 
 ---
 
@@ -134,6 +134,14 @@ Yahoo Finance • 2h ago
 
 ---
 
+**[Fanuc (TSE:6954) Valuation After Nvidia Physical AI Robotics Deal and Recent Share Price Surge](https://finance.yahoo.com/news/fanuc-tse-6954-valuation-nvidia-070745387.html)**
+
+Fanuc (TSE:6954) just jumped nearly 13% after unveiling a collaboration with Nvidia to build industrial robots powered by physical AI, a move that immediately sharpened investor focus on its long term growth story. See our latest analysis for Fanuc. That surge has come on top of already strong momentum, with a 7 day share price return of 18.0% and a 90 day share price return of 44.3%. The 1 year total shareholder return of 52.4% signals investors are steadily warming to Fanuc as physical AI...
+
+Yahoo Finance • 46m ago
+
+---
+
 **[MIT researchers “speak objects into existence” using AI and robotics](https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205)**
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
@@ -153,14 +161,6 @@ Investor's Business Daily • 1d ago
 Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
 
 MLive.com • 1d ago
-
----
-
-**[Video: Elon Musk’s Optimus humanoid robot masters human-like smooth running](https://interestingengineering.com/ai-robotics/optimus-humanoid-robot-masters-running)**
-
-Tesla's Optimus robot achieved a major milestone, demonstrating smooth operation in a new lab video shared by Elon Musk.
-
-Interesting Engineering • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-t
 
 📺 New York Post
 
-👁️ 5K • 👍 96 • 💬 64 • ⏱️ 2:06 • 17h ago
+👁️ 5K • 👍 96 • 💬 64 • ⏱️ 2:06 • 18h ago
 
 ---
 

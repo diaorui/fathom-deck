@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T07:41:35.394441+00:00'
+updated: '2025-12-06T07:53:07.130522+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 07:41 UTC  
+**Last Updated:** December 06, 2025 at 07:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1789.88B
+**Market Cap:** $1790.26B
 Rank #1
 
 **Circulating Supply:** 19,958,168 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-28.9%
 
 **All-Time Low:** $67.81
-+132190.2%
++132132.7%
 
 ---
 
@@ -76,12 +76,6 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
-
-**[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
-
-12h ago
-
----
 
 **[Weak hands and overleveraged tourists panic-sell every dip. Try HODLing](https://www.reddit.com/r/Bitcoin/comments/1pf5aef/weak_hands_and_overleveraged_tourists_panicsell/)**
 
@@ -95,7 +89,7 @@ Charts like this always remind me why time in the market beats timing the market
 
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
-9h ago
+10h ago
 
 ---
 
@@ -105,15 +99,27 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 ---
 
+**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
+
+29m ago
+
+---
+
 **[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
 
-6h ago
+7h ago
 
 ---
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-18h ago
+19h ago
+
+---
+
+**[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
+
+12h ago
 
 ---
 
@@ -135,21 +141,15 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 ---
 
-**[Did you know you can generate a Bitcoin private key using a coin?](https://www.reddit.com/r/Bitcoin/comments/1pf234m/did_you_know_you_can_generate_a_bitcoin_private/)**
-
-Most people let their wallet software generate their private key, which is totally fine but Bitcoin doesn’t require a computer to create one. A Bitcoin private key is just a 256-bit number… And a fair coin flip produces 1 bit of entropy. So in theory (and in practice), you can generate a completely valid, secure Bitcoin private key by doing: Heads = 1 Tails = 0 The math is simple. 256 coin flips is 2^256 potential outcomes. Once you have your 256-bit binary sequence, you can convert it offline into: hex format WIF private key or even a BIP39 seed phrase All without touching the internet. You could also do this with dice, a dice roll is roughly 2.585 bits of entropy. Therefore 99-100 dice rolls will give you enough entropy for a 256 bit private key. This works because Bitcoin’s security comes from math. I mean how could you not love Bitcoin!
-
-13h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqfL_1TKJewK3tJZlpeJaQvou4JE4Z5f6KRdzkrn2FOANlatLt8VKAkQ&gaa_ts=6933dac4&gaa_sig=J6BdxJs1XA6wVeO8cnh5aIOIWfuOkuTlw3suoivg9A9sp1YP1mOBMc5Pe99FWNIKkHdyxP9bT4fQg77eot-WBA%3D%3D)**
+**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
 
-Barron's • 2d ago
+Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
+
+Yahoo Finance • 17h ago
 
 ---
 
@@ -183,6 +183,14 @@ Bloomberg.com • 1h ago
 
 ---
 
+**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dive-liquidations-175610855.html)**
+
+Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
+
+Yahoo Finance • 13h ago
+
+---
+
 **[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
 
 In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
@@ -191,7 +199,13 @@ CNBC • 1d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqfhpnoIYyAAbnf3ZwMK3PW-rbH154ss_jlhPA9a3MInB-SMGm8H-Nbm&gaa_ts=6933dac4&gaa_sig=uc9Nk7FvLAWM2E6fZAPTqX2NWkTNg3dffUXvMHmGKfbKQEGnQIhMUHEBYYBR4ugqGvncgYKOF-1VHh8g2FB34A%3D%3D)**
+**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqeZUIWAOLae8OmxIDIZq7xGcAigrf421uESU20gPWWL_jJlsfJq0EPS&gaa_ts=6933e44b&gaa_sig=JT9xeuzCSdxeXjio1zTGCUzfFOQ_U8bp4PX0YtIxi0QIALmUd5QbLUi8Q-p9AUpAp1L9GpiM_TdmM3WyHAbaNg%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqcIaAxdQZG3l-qBBYfjYV2ropmr9xGKlyUXekZ3w7kvuvpr-hr242jw&gaa_ts=6933e44b&gaa_sig=q_9m1P9ASb6hdojvCxNSkGvDKGBBkrGKTvITx2AjT0uP4lUVuj20GT_b-Qu0aRGDT_2AIL5_hZCbTd6ch0o9ug%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -200,20 +214,6 @@ MarketWatch • 1d ago
 **[Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
 
 The New York Times • 2d ago
-
----
-
-**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
-
-JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
-
-Business Insider • 1d ago
-
----
-
-**[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
-
-The Block • 1d ago
 
 ---
 

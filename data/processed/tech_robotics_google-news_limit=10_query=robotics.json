@@ -35,6 +35,16 @@
       "description": "HANGZHOU, CN / ACCESS Newswire / December 5, 2025 / From November 9th to 21st, 2025, the 15th National Games of the People's Republic of China (hereinafter referred to as the \"National Games\") were grandly held in Guangzhou. While public attention ..."
     },
     {
+      "headline": "Fanuc (TSE:6954) Valuation After Nvidia Physical AI Robotics Deal and Recent Share Price Surge",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOTJEMlotOGphRFdSbFQtUnY3TWczdURWdWZmRXB2OGhfNGQ4R1J1OGZmQUwzY3Z6YmNtWWZsREEwZTVOY2Vid0VfNDh1enowQ1o0VXZJRV9sTFBIQlZTR3FFYjJoMTIyUktONnNXem8yQVpIXzdwN3cxUGZFTW43S2lxMA?oc=5",
+      "pub_date": 1765004820.0,
+      "article_url": "https://finance.yahoo.com/news/fanuc-tse-6954-valuation-nvidia-070745387.html",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/4020998fe5d069537fb917fd739e4047",
+      "description": "Fanuc (TSE:6954) just jumped nearly 13% after unveiling a collaboration with Nvidia to build industrial robots powered by physical AI, a move that immediately sharpened investor focus on its long term growth story. See our latest analysis for Fanuc. That surge has come on top of already strong momentum, with a 7 day share price return of 18.0% and a 90 day share price return of 44.3%. The 1 year total shareholder return of 52.4% signals investors are steadily warming to Fanuc as physical AI..."
+    },
+    {
       "headline": "MIT researchers \u201cspeak objects into existence\u201d using AI and robotics",
       "source": "MIT News",
       "source_url": "https://news.mit.edu",
@@ -63,16 +73,6 @@
       "article_url": "https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html",
       "image": "https://www.mlive.com/resizer/v2/3E42TMTVNFCWDBWQFGEIMUGRRE.jpg?auth=ac8b3d04f98c820da53625556a409e0f53c01b7ad893aad2e720ca80c3f9b665&width=1280&smart=true&quality=90",
       "description": "Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years."
-    },
-    {
-      "headline": "Video: Elon Musk\u2019s Optimus humanoid robot masters human-like smooth running",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkRkVEZFR0I4dnotQVVWZkF0T0l3aEFFdEgxY25uQmFsNFdTM1RiQmpJcUNvWm4tRWVldFhsc2hhZmN5WVdZcWc1Z3BtS0VtUmo4SkdjdEVsek54YndsTnBCR1cwamwwSk5UQmphcUlYSHdlS0VGTjlpQlZybWZxM0NBU0NpeDNMQTFrQ1R3?oc=5",
-      "pub_date": 1764852120.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/optimus-humanoid-robot-masters-running",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/tesla-optimus-running.jpg",
-      "description": "Tesla's Optimus robot achieved a major milestone, demonstrating smooth operation in a new lab video shared by Elon Musk."
     },
     {
       "headline": "Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T07:12:18.512722+00:00"
+  "fetched_at": "2025-12-06T07:52:58.391691+00:00"
 }

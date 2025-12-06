@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNYU1paFJlM0ZaOFZ5SF9VUUNqWjBaUzJzV0R4NFNQUVV4WXZEeWNleUY0LWdYT2FMUDBLRktVRkpQYkYyTkdPNURtX1JrZFNjSXBGNTZiRG1XanNiMkZBVHZKTnV1QzBWTk5rT3kzeTBnb3dXRnRiN0N6WHRJZXVPaXJEek13cE1OdjhGdW9YSVJob256RUlWVmVjcENibEFVTVJKRXgteFp6dDl1aGZDNEh2MEROUFVMWmQ3UnZKSVZRbUtfMWVaM0tCSUc0Z0lTWVZ4YjIzbGdxeFg5TzAzRWduVFZpV0U3QTFfRUxmTDVnY2lweVMwb0ZIVERoT3dQU1NralZjcTRNc3JUZVFBb1l2Rkc3dWw4S1VaMXl5UmlFbnZ3RVlzUUpYSDVfTFFiSWdRTEdEeXhIWkRTOU9XbmJNczZIX1NyeXM0NXhRYWxrZzN0NTZWbmFheDhFbGtIRWVsN1BBQXhyWGtxWEJVMUhGMXV4SWZmU0E?oc=5",
-      "pub_date": 1764770640.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqfL_1TKJewK3tJZlpeJaQvou4JE4Z5f6KRdzkrn2FOANlatLt8VKAkQ&gaa_ts=6933dac4&gaa_sig=J6BdxJs1XA6wVeO8cnh5aIOIWfuOkuTlw3suoivg9A9sp1YP1mOBMc5Pe99FWNIKkHdyxP9bT4fQg77eot-WBA%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEdGaG85bWltRGVvQXZGQlZta3BhcW14QWxydHdHNlE2X25uWFV4UmxuUWxJUmh6bW04VG15SUJsb01DTjVJSDl5SWhwa3UtS3JUUEtMbThDQVZsNHBITC1vX2U5VWNFY0Q3VENGT3ozNmoteG9jZlBzTnRoajJhS0pwa2NHRjg?oc=5",
+      "pub_date": 1764944935.0,
+      "article_url": "https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html",
+      "image": "https://media.zenfs.com/en/benzinga_79/c18de243a5f70768c5fc6d19a5c47542",
+      "description": "Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ..."
     },
     {
       "headline": "Bitcoin has plunged. Strategy Inc is an early victim",
@@ -55,6 +55,16 @@
       "description": "It\u2019s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold."
     },
     {
+      "headline": "Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million\u2014While Stocks Rise",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ3kwRWFVQUgzb1lrVGNjWThmMnVvU1ljczJVMzh5ckYwLVN3Qm5CaDBUZTgyODdFU2tmRDBYMktkVzAxaHFPbmhlUkdKb21CX214WUd2OVpfaHc4ODRfc0ZZNXdNbjl2S0tXU09pRXgzRTgwd3g1QXpkOEZZZWJJSDczSVhCTW9QMVNDVw?oc=5",
+      "pub_date": 1764957370.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dive-liquidations-175610855.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ly7._RAmZ3AmoH9Q85_u5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/d47b3cb386575b0d23d2abbef9ca49f3",
+      "description": "Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000\u2014all while major stock indices stay green."
+    },
+    {
       "headline": "Bitcoin is down nearly 30% from its record high \u2014 history shows that's normal",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -65,12 +75,22 @@
       "description": "In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger."
     },
     {
+      "headline": "Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQdGdlQ2t0ZHQ0cUdWLVc1UHlOUUpfTTF5U0x4dXF0eDVyamVDbGthemJnTnE5VDdGMkQ4bi1yZXdVRHZVNTE3OHlqWVdBUkh5VXF4Q254N00xOGc1d284NUlmbHJBSjNSOFZnTHZDS01BSXQ5VUtDd3NPWFFQQnVYTXpIUG5DZ2t4WHJKRDJHVkp2Z1hXQW9fVHI1WkdBOGNlZzMwT2puTDUzV25BYkdwdWpXcFQ2MVB1WUJlWnhXdkpDZnhHdDRLMllkOEZrRUJSd2tPRVVSTFBzNDg1R3FZWE5Ebnp0ZDdfUXQ3ZEdSdTl4bVZ6RUtMUDVNOFdDZjVwMGg3NlFvdm1rTlpQV1c5bENlY19oT01xS3NkNkhsSmVNVi1XbUlqaHNrUGYyTUNjVThONEs0RXdRX2owcTZiblhocFdkZXVVcUE1OG1vX0QtLVRXQzJWV0hZWno4Z0YwN013dXVxdldsX1lubUY4SUFhNGRhcFZ0TlE?oc=5",
+      "pub_date": 1764770640.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqeZUIWAOLae8OmxIDIZq7xGcAigrf421uESU20gPWWL_jJlsfJq0EPS&gaa_ts=6933e44b&gaa_sig=JT9xeuzCSdxeXjio1zTGCUzfFOQ_U8bp4PX0YtIxi0QIALmUd5QbLUi8Q-p9AUpAp1L9GpiM_TdmM3WyHAbaNg%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "With bitcoin down to around $92,000, should you rethink how much crypto to own? Here\u2019s what experts say.",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOREJyTGV4ZV9BdzdGLUJIeGhMdmdtZHZ2eHlyUjc0YjRMdk1adVdJYTVVV0t1MW1xQVhvSlY3WG9mQ2tsN1RCcjJKTVY5TU9raVhBTWlJZTJUY0xrU3ZmTFRkY0RUY1g5XzZRdW1Ha24xOUI0RmFRemoteDl5U3Z5NlQ1YWdFVi0wR2dxbHQ5cWVxV3g4U3lmWEREajV6ZDQ0MDRiQnk2TjlzbHVfZWpUNFBpTG9fejVtSy1ZR0hSYnQwWWpyRHNTSVBpVENqV3hmT2xIU0FWTFl6R090b01IRFZkY2xjTEVNd0ZFekNLcFJUV1NZM3RUYTRvUGVfTDBiUmJKVHBlU2w0UmFSWHJIQks5VTlObmtJdXVJanJzSVE0bC16OTRsYlQ4d0RqRmJqWVFTdklSTVlnbFFfUXFEZkNxdlFFOG4tejk2LXh1cWtBYWE5Q2FkRmxkbXVOMjA4c05MSzRKLXplVV9lNnhyekVIYnotdkFUUERJTlBJS1UxdkF6Tkl4b1hPRVYtNk9JMlRkcURjOEJPTUhCOTRMTDdKRVhtcnpnVjJoamVrd0hYZnN2dlVhU1FWSjRDREs5dVN3RnROa0U5c3h5VzZDSVdmMHNlRTliZ2xSRXhLaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxORTBHMHpoNHRvdnRmY3FTRWRBOHFTWmZrTC03LVppVjBqN2x0ak9OZHNqRGdfX2xUNmk3blVyeFg4RDdyb3p2NHp2QUNPY2d1M01ybHRGeWN1MTJtbHV1ckppSVlfdl9pV01lbEV5ZnFvUW05dFZ4dW5KUVRrc0dReENUQi1qZWZSNnpWYVJWT1FFdlVfVmtXVFp3SkxNOFg2ZDBjbFFWNjNzZHFXWkFwLUZ0LTRaMnFQdENKNUU2aEtuUHFDVENtUWZqcUwtOVR5V2c0U3R2WHJEdldYWUhCN1I2TEU2eUs4OFRSbmpnSjZlVVdnamEwRWZkZXNwcWEyakVmYUlBSWhnUXc2U0pRTmZQdWhVRHM0TlhhNXNoTHoyeGRNTjVRalRwSk9YOUZKSDVDNFRzanZvR1cwdWxRRGp0S2FfTm9ZdFp2OEVsMTA3ZXljZFk5LVFHcEZ4WGs5WjMwSVlPVHVEQ3VVQk5vTWpNYXJ0SVZyWWp5bDlmek1mR1oyb0RDOUlqSjAxNEV1bkpVMXZzRlB3dlhDM1EzZVpvUmw0VFpEMVJIa2FFalM3VUlFbUI3Zk1YT05yMGQ1bGEyVDFpVVRKSFEyYklFaUJLTzlrdHlNNjhZcEVySQ?oc=5",
       "pub_date": 1764880980.0,
-      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqfhpnoIYyAAbnf3ZwMK3PW-rbH154ss_jlhPA9a3MInB-SMGm8H-Nbm&gaa_ts=6933dac4&gaa_sig=uc9Nk7FvLAWM2E6fZAPTqX2NWkTNg3dffUXvMHmGKfbKQEGnQIhMUHEBYYBR4ugqGvncgYKOF-1VHh8g2FB34A%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqcIaAxdQZG3l-qBBYfjYV2ropmr9xGKlyUXekZ3w7kvuvpr-hr242jw&gaa_ts=6933e44b&gaa_sig=q_9m1P9ASb6hdojvCxNSkGvDKGBBkrGKTvITx2AjT0uP4lUVuj20GT_b-Qu0aRGDT_2AIL5_hZCbTd6ch0o9ug%3D%3D",
       "image": null,
       "description": null
     },
@@ -83,28 +103,8 @@
       "article_url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Why JPMorgan says bitcoin could rocket to $170,000 in the coming months",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2c4WWkwZ1hoR0YtNGVDOEdjSnEwQU1GR0I4S21TSXZEekVHYUdpdmRiMVMzQ05NQU42TExCSUhfX3otTEdPMXRYS3pscy02Sk5HSjA0VVlKYVAxQ1R2QkVRanZyLUdIcV8waDVVM25oUTlwSzVhYzZsVUs0QVdpMjVnYjVVYWl0UFVPbnFWcXd1ckRmM3BTRms0QjI?oc=5",
-      "pub_date": 1764870360.0,
-      "article_url": "https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12",
-      "image": "https://i.insider.com/69319bec7ecd1d1da662e9ed?width=1200&format=jpeg",
-      "description": "JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term."
-    },
-    {
-      "headline": "JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEJSRlhXeVdoYkRhVWhZdDgteEotcnZSOEtrV0JXQm1yS1pncm5wcXhRUFl5OE5teU9rOThFbl9kcnpBWUROWUkybWhZNi1MTGNrZjVBb0RwS2d5bnprczRHZWNneUxyeXZTcm5kbjJDczI2amktaWJQd0NyYVFrNdIBhgFBVV95cUxQQUttN09oLTFsOW55aTgtbEEtNHhsOE41d2Jxb2Y3T3RCdjZzUnRHTllkanJmRnEyZ0ZFM2JTVEFQeWVxYk5BcWdocnM0VnU3akNyaU9Jd0xqVjFZTXE1bzJBTlpWZGhDVlY2Vi1nMWhKRklWaGNVRkpYblNqa1ZfX3JXdzFuUQ?oc=5",
-      "pub_date": 1764887976.0,
-      "article_url": "https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T07:12:27.168443+00:00"
+  "fetched_at": "2025-12-06T07:53:05.237926+00:00"
 }

@@ -25,16 +25,6 @@
       "description": null
     },
     {
-      "headline": "Nvidia vs. Everybody Else: Competition Mounts Against the Top AI Chip Company",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOcjdNbng4cHg4eWhtdWg2QU5lT0lJNG40b1h1NzNFV2w3cW9Gd2ItM0RTU0hRRnpxdmRWMERGUkNNQmo1Q0ZJbGczQ1YwaUYzZENXX3MxOGlpb2NhTjh6QVVYendNdGdObWNGVGpFUXNxZFBDYmo1N1hfejVOZHNLODZUb2p6M1QxLTlBNTVwMjloOU8wRnhRTFBXdXU2ck1oa0JLSlRpR0pkbE0yQjBGQ25LMlA3TU1rZ3dqdzNpb0d0OFZmOHBqc2psRVVpcEVpZ3U2VHRLVGRVVW5vcW5XYjFMU2hxeWZkRlBBV2ZPTVFIZl9xaHZXc2EyQmRJemxJcHlrOURiaVJ3UXI2ZktCR0VTeS0wWHZXUzRWNXhoclY3WWdlOXp1bTdKNUR2Mk11X0ZwUmZYMG92VmJhWTRGUHBxR1BNTzlxNGY0MWRKSlQ5YURYQXdUQXRoOVFVQU9uNGVEQVlqOHNEakZvWTNGSDcwa0dRbXY2UklSY1plQkNSVTQxSjF2YmFLc2YwZzdhSEh1eE1jQUIycUk?oc=5",
-      "pub_date": 1764990000.0,
-      "article_url": "https://www.wsj.com/tech/ai/nvidia-ai-chips-competitors-amd-broadcom-google-amazon-6729c65a?gaa_at=eafs&gaa_n=AWEtsqddiv7v_3LiVOLiJit1tQbZDzWk2gMrVK-Lkmu5mCshy2G-LLdhvLeE&gaa_ts=6933b55a&gaa_sig=7Aub21dm8FNDSpdx3-891Lq3X3iEQoj7k6SabAkuOjk9mW0DCJhE52nESNuEI-jngHfRloxUfaPwxp3TgzsK0g%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -43,16 +33,6 @@
       "article_url": "https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1260047116-e1764863526884.jpg?resize=1200,600",
       "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
-    },
-    {
-      "headline": "How AI is rewiring childhood",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEODhlSTI5VGZ6amg1clNjeDRwTWQ3RDFXWGFtWW9DYXlNRGN3b25UdE0xSko2aktmRWJqSTY2SzlQM1ZBY2RpMWpObkhzZTdHMkVwVjRuazVmQjJ0ZjNyOXdBLVJIRGlxeG1jWUhyS3AwX3B4ekJkdFpER0YxQQ?oc=5",
-      "pub_date": 1764847921.0,
-      "article_url": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
-      "image": null,
-      "description": null
     },
     {
       "headline": "A safety report card ranks AI company efforts to protect humanity",
@@ -88,11 +68,21 @@
       "headline": "Meta Platforms Buys AI Device Maker Limitless",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPOVFBVU12SGhQcUtjZ0hVYlE0M2VUSXo4bHBOWGFoaVdDSEpFbHFRNjZ4TTlFbGo4ZnhjOHd2MXNXQU1KSkpULThwVlZlb1pnMGxxdDhhWHlJVXprOGlSQ0dRVFVCaF9lTFhhOHE2YTg1dmxnMWgtcTMzRHFRY2tPbVA0bHc5R2xZM0ZvZFdFY1lfdTdBU1hxdlhRM3o0YW5jTnNqcVhSaDM0WmpiZTlJUngtQnNjSTdXeUNpTldSeHg3aWRZVGt4ZUxIaFJ1MklxSThLamh2bFhjUVFpMGxwbTU2a05vMVRVV1JHM1B4emo4R1RraThKbXdkTXluWG5Xd1lGOTJUdVMyZ0ZmWHJPUGNrZVhDWDk5MURvbkxNVS1sdF8xX1RMTmRrdEtwemZnUGYtMm14LWZmRmF4Q2M5a2pLVDdmbGRNX3dEOHBzN0RXX2k2dFQwLUpac3F0alZNMi1hc3Q3Z0l0amZhUlNhU1poWWg5cF85NC1senpmRnRDNDZrUUxJMHdIdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQWldPZ2N4REhhUXpTSC13NGlPSHRTSDJLZEhWM0VIN3E0bWVBWnJzRXJTZXJYOW9FazBZem4xMlJGMVc5YTZ5X2NPUjFiY05MUU1KVVV4VG1MRHVpWkgtNHJyeHJBS2cyWE1NNTEycDV3QkdLVWxDYmZOLU1EMXZZdXBFSll1MHlzTnRWaVFYeVRSand5WWFxNmZSZDBpc3ZkZUpVM0xVVTBKalNUYlltOS1OMkhUZzJ5M2J4S0hIZ0lzX2pFbFlRYTFHams2cFVCeDdKcG4tX3JnMVFPNFVzbWJmY1R1ZElfT29rdUZTYnVaMl9FcDctRTR3T3Rid2RleFNmVFVWY1d3cjFnZ0NsU3BQc29MMEpTRjF3UU9PQzZJRVU1QVkxU1JHUGFwNzNlc3RnZkpIUE8zN3JFbGh2NEdmTXZjcV9PRnVNZDYwV0FDbV85V2RpZ3NjbTlJaGplaUZ5WW42ZFVZN3o3QkRmLVZmd1EtTWFXRjdqREFrNXFWaDZFMTdOYTFqVQ?oc=5",
       "pub_date": 1764972480.0,
-      "article_url": "https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqfFqJH_unBAbbXoYR14W-DRno_RtO1MveWyxZW_0GzYhy4OiiVIz4k7&gaa_ts=6933b55a&gaa_sig=wwfojgiY-mTIVYg_Kj-4gp8KkTapAcdC3NLavspdou7Nn_7Wnxm0UV1EdAhPgMS8uP9XFzM-CZG4UvJzxSD_Cg%3D%3D",
+      "article_url": "https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqdu2q5uyj-_9MkYf3i5BaH8cKM9UDJbbUQb6vKmg1qD7zOSfQ8dS8ME&gaa_ts=6933c26a&gaa_sig=MWo4LZeNyVGrDaD59kOYnTRNQ4lNtt6HXubv6LKM52F3lg0pAV6AQ_tbFBmzhs-HuJ8Xg93F03P9LK8Ep7bPHw%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "In radiology, an early adopter of AI, technology is advancing faster than the field can keep up",
+      "source": "statnews.com",
+      "source_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSW1uVGtJTmZZUE92Nm93MFc3SEJIT3d0ZU1nLVZwTUQ4M3oyY3hKUnB5aktfYnN6MWxoTWwwNDY5RVgwN2JlcDB6SFpHZ1lxSGdxTEt1VEFDNURTVUR2QmJmMjdYSXVMY2h6QXRqS1VfclM4S3BkT3VSNy0xbDhiYmxELXVEckdhRmFlTUhGdGYyQ20tTW00?oc=5",
+      "pub_date": 1764952349.0,
+      "article_url": "https://www.statnews.com/2025/12/05/radiology-artificial-intelligence-advancing-faster-rsna/",
+      "image": "https://www.statnews.com/wp-content/uploads/2025/12/GettyImages-2212415828-1024x576.jpg",
+      "description": "AI use has exploded in radiology as the field struggles with staffing shortages, exacerbated by growing imaging volumes."
     },
     {
       "headline": "ChatGPT started the AI race. Now its lead is looking shaky.",
@@ -103,8 +93,18 @@
       "article_url": "https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "'Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNakdsN043Y1JNMEtXWmlURHBUTFJXcm13Ql9lUy11NFNRWlFVcllJWVU1em1PWS1SMnRPV3V1U1FPZHU5YlE3TE92a241MlE5T1Y0enFDdTJ1X05NNFpYT0pjUEJLRmJvSWFlclZJRDNpODY1ajhUOUVGaVV3VVZEeVA2UHNEX042cVN2Zm9WbXRDV1pFUVV2aA?oc=5",
+      "pub_date": 1764927000.0,
+      "article_url": "https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12",
+      "image": "https://i.insider.com/6931c1337ecd1d1da662ef9f?width=1200&format=jpeg",
+      "description": "Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was \"surprising than it's taken this long\" for Google to catch OpenAI."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T04:32:49.496340+00:00"
+  "fetched_at": "2025-12-06T05:28:25.830264+00:00"
 }

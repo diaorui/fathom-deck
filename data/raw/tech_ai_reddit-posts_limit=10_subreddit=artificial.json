@@ -24,17 +24,6 @@
       "description": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits."
     },
     {
-      "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup\u2019s Exposed Database",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1pet67v/huge_trove_of_nude_images_leaked_by_ai_image/",
-      "published": 1764935736.0,
-      "thumbnail": "https://external-preview.redd.it/OnY0pIsz8kgzDuMQViPgFLsP7DtZoe9LI6fkbAbqhU4.jpeg?width=640&crop=smart&auto=webp&s=555cf0d3aa5e671c828c91598c5d4bdad2a0c434",
-      "external_url": "https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "An AI image generator startup\u2019s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been \u201cnudified.\u201d"
-    },
-    {
       "title": "Western AI lead over China is now measured in months not years.",
       "author": "Ridwann",
       "url": "https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/",
@@ -46,26 +35,15 @@
       "description": null
     },
     {
-      "title": "This tech is just wild",
-      "author": "chlorculo",
-      "url": "https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/",
-      "published": 1764955563.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more \"natural\" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an \"instrumental\" file and used ffmpeg to add both the \"Guy\" and \"instrumental\" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time."
-    },
-    {
-      "title": "Using AI as a \"blandness detector\" instead of a content generator",
-      "author": "NickQuick",
-      "url": "https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/",
-      "published": 1764967917.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: \"Does this sound like a reasonable, balanced take?\" If AI enthusiastically agrees \u2192 you've written something probable. Consensus. Average. If AI hedges or pushes back \u2192 you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: \ud83e\uddc9 Where am I being too generic? \ud83e\uddc9 Where am I hiding behind vague language? \ud83e\uddc9 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way\u2014as a detector rather than generator."
+      "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup\u2019s Exposed Database",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1pet67v/huge_trove_of_nude_images_leaked_by_ai_image/",
+      "published": 1764935736.0,
+      "thumbnail": "https://external-preview.redd.it/OnY0pIsz8kgzDuMQViPgFLsP7DtZoe9LI6fkbAbqhU4.jpeg?width=640&crop=smart&auto=webp&s=555cf0d3aa5e671c828c91598c5d4bdad2a0c434",
+      "external_url": "https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "An AI image generator startup\u2019s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been \u201cnudified.\u201d"
     },
     {
       "title": "Meta eyes budget cuts for its metaverse group as CEO Mark Zuckerberg doubles down on AI",
@@ -79,6 +57,17 @@
       "description": "Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology."
     },
     {
+      "title": "This tech is just wild",
+      "author": "chlorculo",
+      "url": "https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/",
+      "published": 1764955563.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more \"natural\" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an \"instrumental\" file and used ffmpeg to add both the \"Guy\" and \"instrumental\" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time."
+    },
+    {
       "title": "AMD CEO Lisa Su \u201cemphatically\u201d rejects talk of an AI bubble \u2014 says claims are \"somewhat overstated\u201d and that AI is still in its infancy | AMD CEO says long-term demand for compute will justify today\u2019s rapid data-center buildout.",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1pf9pl1/amd_ceo_lisa_su_emphatically_rejects_talk_of_an/",
@@ -88,6 +77,17 @@
       "site_name": "Tom's Hardware",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1490877/apple-touch-icon.png",
       "description": "AMD CEO says long-term demand for compute will justify today\u2019s rapid data-center buildout."
+    },
+    {
+      "title": "Using AI as a \"blandness detector\" instead of a content generator",
+      "author": "NickQuick",
+      "url": "https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/",
+      "published": 1764967917.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: \"Does this sound like a reasonable, balanced take?\" If AI enthusiastically agrees \u2192 you've written something probable. Consensus. Average. If AI hedges or pushes back \u2192 you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: \ud83e\uddc9 Where am I being too generic? \ud83e\uddc9 Where am I hiding behind vague language? \ud83e\uddc9 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way\u2014as a detector rather than generator."
     },
     {
       "title": "I tried the data mining PI AI",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-06T04:32:23.654020+00:00"
+  "fetched_at": "2025-12-06T05:28:07.263106+00:00"
 }

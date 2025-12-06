@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-12-06T05:28:12.170465+00:00",
+  "data": {
+    "url": "https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973",
+    "title": "Revising ERC-2535 Diamonds to Simplify and Improve the Terminology",
+    "description": "Probably the biggest complaint over the years of ERC-2535 Diamonds has been the specialized terminology that was introduced by it. If you thought I took the diamond analogy too far by using too many diamond-industry-specific terms, you are right. I did. I admit it.  Fortunately the ERC-2535 Diamonds standard can be revised to improve this aspect. It is possible to change a final Ethereum standard.  EIP-1 says this:   A Final EIP exists in a state of finality and should only be updated to correct...",
+    "image": "https://ethereum-magicians.org/uploads/default/original/2X/e/e5bb6bb58438e9301c987ec778ccce164c4ed3ee.png",
+    "favicon": "https://ethereum-magicians.org/uploads/default/optimized/2X/3/3a633db8b362151a5dd196670cef12dc5deafc05_2_180x180.png",
+    "site_name": "Fellowship of Ethereum Magicians",
+    "author": null,
+    "keywords": null
+  }
+}

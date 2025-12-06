@@ -79,8 +79,8 @@
       "url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
       "hn_url": "https://news.ycombinator.com/item?id=46163308",
       "author": "xnx",
-      "points": 380,
-      "num_comments": 196,
+      "points": 393,
+      "num_comments": 198,
       "created_at": "2025-12-05T16:15:10Z",
       "object_id": "46163308",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.width-1300.png",
@@ -135,8 +135,8 @@
       "url": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
       "hn_url": "https://news.ycombinator.com/item?id=46169554",
       "author": "mystraline",
-      "points": 172,
-      "num_comments": 100,
+      "points": 191,
+      "num_comments": 113,
       "created_at": "2025-12-06T01:15:48Z",
       "object_id": "46169554",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/07/05/Skz1mlnepO/Skz1mlnepO_1_105_1000_563_0_large.jpg",
@@ -145,7 +145,7 @@
       "site_name": "ynetglobal"
     }
   ],
-  "total_hits": 562,
+  "total_hits": 559,
   "has_metadata": true,
-  "fetched_at": "2025-12-06T04:32:23.406018+00:00"
+  "fetched_at": "2025-12-06T05:28:07.298495+00:00"
 }

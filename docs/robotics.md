@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T04:58:49.534323+00:00'
+updated: '2025-12-06T05:28:35.036187+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 04:58 UTC  
+**Last Updated:** December 06, 2025 at 05:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://youtu.be/UAlm8Z4mfpU
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now available! If you want a quick summary of the event I put together ROSCon 2025 Recap for the OpenCV Weekly Webinar.       For Giving Tuesday we put together a new campaign for ROS users to become a become a Build Farm Backer. If you’ve every saved a few minutes by running sudo apt install ros-kilted-* instead of compiling from source we would love it if you helped cover our compute costs. Also, for the first time ever, we...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 8h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 9h ago
 
 ---
 
@@ -116,7 +116,7 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 
@@ -128,33 +128,25 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[DEEP Robotics Robot Dogs Safeguard the 15th National Games, Achieving Integrated Inspection and Early Warning in Practice](https://finance.yahoo.com/news/deep-robotics-robot-dogs-safeguard-045500753.html)**
+
+HANGZHOU, CN / ACCESS Newswire / December 5, 2025 / From November 9th to 21st, 2025, the 15th National Games of the People's Republic of China (hereinafter referred to as the "National Games") were grandly held in Guangzhou. While public attention ...
+
+Yahoo Finance • 33m ago
+
+---
+
 **[MIT researchers “speak objects into existence” using AI and robotics](https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205)**
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 13h ago
+MIT News • 14h ago
 
 ---
 
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
 Investor's Business Daily • 1d ago
-
----
-
-**[Massimo Group (NASDAQ: MAMO) forms AI robotics division to enter global automation and smart-systems markets](https://www.stocktitan.net/news/MAMO/massimo-group-announces-formation-of-ai-robotics-division-expanding-p08w84pho0qe.html)**
-
-Massimo Group forms Massimo AI Technology to develop industrial automation and logistics robotics, aiming to diversify revenue and expand beyond powersports and EVs.
-
-Stock Titan • 1d ago
-
----
-
-**[Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO](https://www.fiercebiotech.com/medtech/olympus-backed-swan-endosurgical-names-stryker-vet-erik-todd-ceo)**
-
-Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
-
-Fierce Biotech • 2d ago
 
 ---
 
@@ -166,25 +158,35 @@ MLive.com • 1d ago
 
 ---
 
+**[Massimo Group (NASDAQ: MAMO) forms AI robotics division to enter global automation and smart-systems markets](https://www.stocktitan.net/news/MAMO/massimo-group-announces-formation-of-ai-robotics-division-expanding-p08w84pho0qe.html)**
+
+Massimo Group forms Massimo AI Technology to develop industrial automation and logistics robotics, aiming to diversify revenue and expand beyond powersports and EVs.
+
+Stock Titan • 1d ago
+
+---
+
+**[Video: Elon Musk’s Optimus humanoid robot masters human-like smooth running](https://interestingengineering.com/ai-robotics/optimus-humanoid-robot-masters-running)**
+
+Tesla's Optimus robot achieved a major milestone, demonstrating smooth operation in a new lab video shared by Elon Musk.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO](https://www.fiercebiotech.com/medtech/olympus-backed-swan-endosurgical-names-stryker-vet-erik-todd-ceo)**
+
+Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
+
+Fierce Biotech • 2d ago
+
+---
+
 **[Bradford researchers to use robotic dogs and AI in wildfire trial](https://www.bbc.com/news/articles/c3w7xqdp04qo)**
 
 Bradford researchers will take part in a pilot scheme in Greece next year to help spot wildfires.
 
 BBC • 1d ago
-
----
-
-**[AI advances robot navigation on the International Space Station](https://news.stanford.edu/stories/2025/12/ai-robot-international-space-station-autonomous-missions)**
-
-Stanford Report • 2d ago
-
----
-
-**[Uncommon Knowledge: The New Birthrate Math—Tax Condoms, Buy Robots](https://www.newsweek.com/birthrate-tax-condoms-robots-musk-china-11161275)**
-
-Elon Musk sees a future in which most people don't need to work. Beijing betting on it now.
-
-Newsweek • 17h ago
 
 ---
 
@@ -208,7 +210,7 @@ Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hosting
 
 📺 Fin Tek
 
-👁️ 4K • 👍 327 • 💬 116 • ⏱️ 21:31 • 3h ago
+👁️ 4K • 👍 327 • 💬 116 • ⏱️ 21:31 • 4h ago
 
 ---
 

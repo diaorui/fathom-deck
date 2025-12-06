@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T04:58:49.516363+00:00'
+updated: '2025-12-06T05:28:35.018573+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 04:58 UTC  
+**Last Updated:** December 06, 2025 at 05:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 11h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 12h ago
 
 ---
 
@@ -49,7 +49,13 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 15h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 16h ago
+
+---
+
+**[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
+
+8h ago
 
 ---
 
@@ -61,28 +67,6 @@ An AI image generator startup’s database was left accessible to the open inter
 
 ---
 
-**[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
-
-8h ago
-
----
-
-**[This tech is just wild](https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/)**
-
-I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
-
-11h ago
-
----
-
-**[Using AI as a "blandness detector" instead of a content generator](https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/)**
-
-Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
-
-8h ago
-
----
-
 **[Meta eyes budget cuts for its metaverse group as CEO Mark Zuckerberg doubles down on AI](https://www.reddit.com/r/artificial/comments/1peczz9/meta_eyes_budget_cuts_for_its_metaverse_group_as/)**
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
@@ -91,11 +75,27 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 ---
 
+**[This tech is just wild](https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/)**
+
+I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
+
+12h ago
+
+---
+
 **[AMD CEO Lisa Su “emphatically” rejects talk of an AI bubble — says claims are "somewhat overstated” and that AI is still in its infancy | AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.](https://www.reddit.com/r/artificial/comments/1pf9pl1/amd_ceo_lisa_su_emphatically_rejects_talk_of_an/)**
 
 AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 5h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 6h ago
+
+---
+
+**[Using AI as a "blandness detector" instead of a content generator](https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/)**
+
+Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
+
+8h ago
 
 ---
 
@@ -121,19 +121,13 @@ Pi isn’t built like an LLM-first product — it’s a conversation funnel wrap
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 12h ago
+The Keyword • 13h ago
 
 ---
 
 **[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-The New York Times • 18h ago
-
----
-
-**[Nvidia vs. Everybody Else: Competition Mounts Against the Top AI Chip Company](https://www.wsj.com/tech/ai/nvidia-ai-chips-competitors-amd-broadcom-google-amazon-6729c65a?gaa_at=eafs&gaa_n=AWEtsqddiv7v_3LiVOLiJit1tQbZDzWk2gMrVK-Lkmu5mCshy2G-LLdhvLeE&gaa_ts=6933b55a&gaa_sig=7Aub21dm8FNDSpdx3-891Lq3X3iEQoj7k6SabAkuOjk9mW0DCJhE52nESNuEI-jngHfRloxUfaPwxp3TgzsK0g%3D%3D)**
-
-The Wall Street Journal • 1h ago
+The New York Times • 19h ago
 
 ---
 
@@ -145,17 +139,11 @@ Fortune • 1d ago
 
 ---
 
-**[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
-
-The Economist • 1d ago
-
----
-
 **[A safety report card ranks AI company efforts to protect humanity](https://www.latimes.com/entertainment-arts/business/story/2025-12-05/ai-artificial-intelligence-company-scorecard-ranks-safety-humanity)**
 
 Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety.
 
-Los Angeles Times • 17h ago
+Los Angeles Times • 18h ago
 
 ---
 
@@ -169,19 +157,35 @@ CNBC • 9h ago
 
 **[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
-**[Meta Platforms Buys AI Device Maker Limitless](https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqfFqJH_unBAbbXoYR14W-DRno_RtO1MveWyxZW_0GzYhy4OiiVIz4k7&gaa_ts=6933b55a&gaa_sig=wwfojgiY-mTIVYg_Kj-4gp8KkTapAcdC3NLavspdou7Nn_7Wnxm0UV1EdAhPgMS8uP9XFzM-CZG4UvJzxSD_Cg%3D%3D)**
+**[Meta Platforms Buys AI Device Maker Limitless](https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqdu2q5uyj-_9MkYf3i5BaH8cKM9UDJbbUQb6vKmg1qD7zOSfQ8dS8ME&gaa_ts=6933c26a&gaa_sig=MWo4LZeNyVGrDaD59kOYnTRNQ4lNtt6HXubv6LKM52F3lg0pAV6AQ_tbFBmzhs-HuJ8Xg93F03P9LK8Ep7bPHw%3D%3D)**
 
-The Wall Street Journal • 6h ago
+The Wall Street Journal • 7h ago
+
+---
+
+**[In radiology, an early adopter of AI, technology is advancing faster than the field can keep up](https://www.statnews.com/2025/12/05/radiology-artificial-intelligence-advancing-faster-rsna/)**
+
+AI use has exploded in radiology as the field struggles with staffing shortages, exacerbated by growing imaging volumes.
+
+statnews.com • 12h ago
 
 ---
 
 **[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
-The Washington Post • 10h ago
+The Washington Post • 11h ago
+
+---
+
+**['Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12)**
+
+Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
+
+Business Insider • 19h ago
 
 ---
 
@@ -233,7 +237,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 380 • 💬 196 • 12h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 393 • 💬 198 • 13h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -265,7 +269,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 172 • 💬 100 • 3h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 191 • 💬 113 • 4h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -339,7 +343,7 @@ A poor little girl always dreamed of flying. Today, her loving Dadaji takes her 
 
 📺 AI GANESHA 
 
-👁️ 7K • ⏱️ 0:31 • 2h ago
+👁️ 7K • ⏱️ 0:31 • 3h ago
 
 ---
 
@@ -357,7 +361,7 @@ With headlines of an imminent job apocalypse, code red for ChatGPT and recursive
 
 📺 thejunglebadger
 
-👁️ 4K • 👍 184 • 💬 4 • ⏱️ 1:09 • 7h ago
+👁️ 4K • 👍 184 • 💬 4 • ⏱️ 1:09 • 8h ago
 
 ---
 
@@ -383,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,145 • 3d ago
+⬇️ 152,916 • ❤️ 2,146 • 3d ago
 
 ---
 
@@ -395,7 +399,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 13,541 • ❤️ 731 • 4d ago
+⬇️ 13,541 • ❤️ 732 • 4d ago
 
 ---
 
@@ -419,7 +423,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 304 • 1d ago
+⬇️ 12,984 • ❤️ 305 • 1d ago
 
 ---
 
@@ -441,7 +445,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 248 • 3d ago
+⬇️ 0 • ❤️ 249 • 3d ago
 
 ---
 
@@ -451,7 +455,19 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 220 • 4d ago
+⬇️ 0 • ❤️ 221 • 4d ago
+
+---
+
+**[FLUX.2-dev](https://huggingface.co/black-forest-labs/FLUX.2-dev)**
+
+*Black Forest Labs*
+
+FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image generation and editing, excelling at text-to-image, single/multi-reference editing without finetuning, and style/character transfer.
+
+`image-to-image`
+
+⬇️ 192,451 • ❤️ 899 • 8d ago
 
 ---
 
@@ -464,18 +480,6 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 `text-generation` `685.4B`
 
 ⬇️ 8,505 • ❤️ 637 • 8d ago
-
----
-
-**[FLUX.2-dev](https://huggingface.co/black-forest-labs/FLUX.2-dev)**
-
-*Black Forest Labs*
-
-FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image generation and editing, excelling at text-to-image, single/multi-reference editing without finetuning, and style/character transfer.
-
-`image-to-image`
-
-⬇️ 192,451 • ❤️ 897 • 8d ago
 
 ---
 
@@ -531,7 +535,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 23 • 💬 2 • ⭐ 271 • 3d ago
+▲ 23 • 💬 2 • ⭐ 271 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -669,7 +673,7 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 `Python`
 
-⭐ 1.0k • 🔱 206 • 5d ago
+⭐ 1.0k • 🔱 206 • 6d ago
 
 ---
 

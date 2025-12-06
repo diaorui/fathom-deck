@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T04:47:54.383852+00:00'
+updated: '2025-12-06T04:58:49.524892+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 04:47 UTC  
+**Last Updated:** December 06, 2025 at 04:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -2.8%  
-**7d:** -1.2%  
-**30d:** -13.7%  
+**7d:** -1.1%  
+**30d:** -13.6%  
 **90d:** -20.0%  
-**1y:** -10.4%  
+**1y:** -10.3%  
 
 ---
 
@@ -113,7 +113,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -397,7 +397,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 507 • 💬 154 • ⏱️ 5:50 • 11h ago
+👁️ 10K • 👍 507 • 💬 154 • ⏱️ 5:50 • 12h ago
 
 ---
 

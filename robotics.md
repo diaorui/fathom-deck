@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T04:47:54.396405+00:00'
+updated: '2025-12-06T04:58:49.534323+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 04:47 UTC  
+**Last Updated:** December 06, 2025 at 04:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -228,7 +228,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 78K • 👍 414 • 💬 5 • ⏱️ 0:19 • 23h ago
+👁️ 78K • 👍 414 • 💬 5 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -276,7 +276,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 79K • 👍 321 • 💬 9 • ⏱️ 0:19 • 15h ago
+👁️ 79K • 👍 321 • 💬 9 • ⏱️ 0:19 • 16h ago
 
 ---
 

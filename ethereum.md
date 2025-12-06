@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T05:44:04.225791+00:00'
+updated: '2025-12-06T05:55:34.413511+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 05:44 UTC  
+**Last Updated:** December 06, 2025 at 05:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,14 +36,14 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,040.13
+### $3,052.47
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** +1.5%  
+**24h:** -4.1%  
+**7d:** +1.6%  
 **30d:** -11.5%  
 **90d:** -29.5%  
 **1y:** -24.1%  
@@ -80,7 +80,7 @@ My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
 This is Part Six of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires. Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Trustless, My Ass <-- You are here Trading with the Blue Man At the hotel, the man working reception is exactly who I was hoping for: tall, broad, the build of someone who could win a bar fight just by standing up. When I sit down in the lobby, he asks if I'm meeting someone, like I need permission to sit in the hotel that I'm paying for. I say yes I am. Meeting someone. He waits, in case I'll give further details, and then shrugs and leaves me alone. One more message to Blue Man. I'm here. Look for the blonde sitting by the window. I wait. Half an hour passes. I look up nervously every time someone walks in. I set up my new keyboard to have something to do with my hands. Reception man keeps one eye on me but most of his attention is taken up by the endless stream of tourists dragging too many bags. A pick-up truck pulls up outside. My stomach flips. Is this him? Is this how it's going to happen? Am I supposed to go out there? Is he just going to hand me an envelope after all. Am I supposed to get in the truck? I stay exactly where I am, mentally drafting excuses for not going outside. Anything that doesn't make me sound like a person whose first reaction to a pick-up truck is potential kidnapping. The truck pulls away. Nothing to do with me. A large French family arrives and explodes across the lobby, checking in to their rooms to drop luggage and then meeting again to go out on the town. Couples, children, cousins, an elderly woman with cataracts calling out "Who are we missing," every few minutes. How the hell am I going to enact a dodgy transaction with Grandmère sitting next to me? Eventually, the lobby clears and it is just me and the muscled man at reception. Blue Man messages, apologizes, he's finally on his way. A businessman walks in wearing a sharp suit and a tired face, checks into a room and heads for the elevator. Skinny guy wearing headphones drops a package on the desk, disappears without a word. A man with a nose that's been broken many times walks in and looks around. I tense. Muscle man behind the counter greets him like an old friend. A kid walks in, looks about thirteen. I slump back into my seat. He turns, scans the room, sees me. His face lights up. He says my name. This is Blue. He is not thirteen, of course. Just young and slender. He looks like a gentle soul. Maybe writes poetry. If it came to it, I could body slam him and run. I stand. We kiss cheeks. I invite him to join me on the corner of the sofa that has been my home for the past hour. He tells me, a little nervously, that his English is not very good. I'm charmed. He holds out an envelope. I peek inside. Yes, it looks like money. "Count it," he says. I pull out the bills and count them quickly. Reception man watches us, flexing, trying to work out if I'm selling my services in his hotel. Possibly I haven't thought this through. I count faster. The amount is correct. I place the envelope next to him and set up the transaction on my phone. He pulls out his phone and shows me his list of chains, asks me again what I've chosen. I get his wallet address and send the USDT. I show him the confirmation. Blue stares at his screen. "It takes a moment," he says. It shouldn't. But I wait. A minute passes, then two. A cold feeling is just starting to creep up my spine when he makes a happy sound, shows me a Bybit notification that someone has sent him 400 USDT. Blue's using a centralized exchange. It's none of my business. The transaction is complete. I pick up the envelope. He tells me that I can message him anytime, if I need anything. That he would be happy to do this again. I hope reception man isn't listening. Then he notices my keyboard on the table. "Is this what you bought?" I nod and he laughs, like who goes all the way to Buenos Aires to buy a keyboard? "Mine was stolen," I say. He gives me another dubious look and picks it up. His face brightens into a smile. "Oh! It's so light!" I'm absurdly pleased that he likes my keyboard. We say our goodbyes under the steely gaze of reception man. And then Blue is gone. Still to come: Custodial Services (Self-custody is easy, luggage custody is hard) Apparently I Did It Wrong ("You should have just used X, bro.")
 
-9h ago
+10h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[The wait is over! 🎥 All talks from the #EIPSummit at Devconnect Argentina are now live on the ECH Institute YouTube channel. 🇦🇷✨ From gas repricing to AI data standards, this is your masterclass on how Ethereum evolves. A thread of all sessions 👇🧵](https://www.reddit.com/r/ethereum/comments/1pfgpoi/the_wait_is_over_all_talks_from_the_eipsummit_at/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 1️⃣ From Research to Reality – An EIP’s Journey with Pooja Ranjan The summit kicks off by bridging the gap between abstract research and deployed code. A must-watch for understanding the EIP Process. 📺 Watch it here: https://youtu.be/wH76j1BDZkc #Ethereum #EIP #EthereumGovernance #EthCommunity 2️⃣ Don’t just use Ethereum: help shape it! with Jochem Brouwer Jochem argues that providing feedback on EIP drafts is a civic duty. Silence leads to consensus bugs. Learn how to break the silence on the Magicians forum. 📺 Watch it here: https://youtu.be/ZVHHsKS6Kxo #Ethereum #EIPSummit #EIPs 3️⃣ From Draft to Inclusion: A Proposal’s Journey with Jihoon Song Writing the EIP is only 5% of the work. The hard part is convincing people to consider it. Jihoon shows how to talk to the right people and handle the Core Dev meetings to get your idea accepted. 📺 Watch it here: https://youtu.be/i8HO-bAivno #EIPSummit #EIPs #EIPProcess #CoreDev 4️⃣ From Specification to Syncing a Node: Ensuring Upgrade Readiness with Parithosh Jayanthi How do you test a $500B+ network without breaking it? Inside the industrial supply chain of Ethereum testing: from Hive unit tests to mainnet Shadow Forks. 🏗️ 📺 Watch it here : https://youtu.be/9yTrzNCd0Gk #Testing #Devnets #ShadowForks 5️⃣ Code is Law: Avoiding Spec-ulation for Faster Forks with danceratopz & raxhvl The propose accelerating Ethereum forks by tightly coupling EIP markdown with executable specs, ensuring every text change is instantly verified by code to eliminate ambiguity. 📺 Watch: https://youtu.be/h5sUMWD9Yus #Ethereum #SpecReview #Testing 6️⃣ EIP-8007: A major update to EVM gas prices with Maria Inês Silva A quick explainer on why Meta EIP listing all related EIPs matters. How authors propose to reshapes gas pricing, and what this means for developers, performance & future upgrades. 📺 Watch: https://youtu.be/HpRNP8tc0lY #EIP8007 #EVM #GasCosts #GasPricing 7️⃣ From Idea to EIP: A First-Time Author’s Journey with German Abal How a first-time contributor turns an idea into a real EIP - from drafting to reviews, feedback loops, and working with editors. 📺 Watch here: https://youtu.be/WcGYlzUChUE #EIPEditors #EthGovernance #EthereumStandards 8️⃣ ERCs in Focus - ERC-8028: AI Assets On-Chain with Thiru The video explains how ERC-8028 anchors AI data on-chain using DAT, enabling trust, provenance, and verifiable AI workflows. A simple breakdown of why this ERC matters for the future of AI + Ethereum standards. 📺 Watch: https://youtu.be/RaeBZiE0rDA #ERC8028 #ERCs #AIonChain #DAT 9️⃣ Meet EIP Editor Sam Wilson He breaks down what EIP editors do, how proposals are reviewed, and how Ethereum standards keep evolving. 📺 Watch: https://youtu.be/YHZviU19di0 #EIPEditors #EIPProcess #EthereumStandards 🔟 The Final Episode - ERC-1202: Voting Interface with Victor Zhou See how ERC-1202 enables flexible, on-chain voting mechanisms for DAOs & governance tools. A clean walkthrough of the standard, design choices, and real-world use cases. 📺 Watch: https://youtu.be/_szGTp49L5E #ERC1202 #OnChainVoting #GovernanceTech The EIP Summit was more than just talks; it was a call to action. Ethereum needs authors, reviewers, and testers. Special thanks to all speakers and the ECH Institute team! 😸 #Ethereum #Devconnect #EIPs #Web3
 
-52m ago
+1h ago
 
 ---
 
@@ -118,7 +118,7 @@ Trump crypto empire falls faster than bitcoin
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
-16h ago
+17h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -232,7 +232,17 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 78K • 👍 4K • 💬 462 • ⏱️ 11:16 • 1d ago
+👁️ 80K • 👍 5K • 💬 468 • ⏱️ 11:16 • 1d ago
+
+---
+
+**[BREAKING : ETH to $22K - Ethereum Fusaka Upgrade!](https://www.youtube.com/watch?v=y_aYcH8fwrQ)**
+
+The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was designed to in ways that improve scalability, ...
+
+📺 Altcoin Buzz
+
+👁️ 2K • 👍 134 • 💬 186 • ⏱️ 9:21 • 16h ago
 
 ---
 
@@ -242,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 137 • 👍 16 • 💬 3 • ⏱️ 5:46 • 2h ago
+👁️ 601 • 👍 53 • 💬 4 • ⏱️ 5:46 • 2h ago
 
 ---
 
@@ -252,57 +262,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 37 • 💬 130 • ⏱️ 5:24 • 16h ago
-
----
-
-**[Ethereum Fusaka Upgrade Is HERE!! Is ETH About To EXPLODE!?](https://www.youtube.com/watch?v=rYEgr3YN-qI)**
-
-While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka — a live upgrade that radically improves ...
-
-📺 Coin Bureau
-
-👁️ 37K • 👍 2K • 💬 125 • ⏱️ 17:37 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: I AM WARNING YOU AGAIN!!!! LISTEN THIS TIME!!!!!](https://www.youtube.com/watch?v=na9LpJZqDyY)**
-
-What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get ready now!!! AI Trading Club: ...
-
-📺 Thomas Kralow
-
-👁️ 26K • 👍 3K • 💬 39 • ⏱️ 10:24 • 1d ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 16K • 👍 405 • 💬 340 • ⏱️ 15:38 • 1d ago
-
----
-
-**[BREAKING: ETHEREUM AT $62,000 IN THE COMING MONTHS‼️‼️‼️](https://www.youtube.com/watch?v=4goziUGIYHY)**
-
-GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners ...
-
-📺 Ivan on Tech
-
-👁️ 24K • 👍 2K • 💬 125 • ⏱️ 31:23 • 20h ago
-
----
-
-**[ETH Ethereum Price Prediction: 5th of December](https://www.youtube.com/watch?v=eGcX64tTJGI)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 343 • 👍 29 • 💬 4 • ⏱️ 7:09 • 10h ago
+👁️ 1K • 👍 37 • 💬 133 • ⏱️ 5:24 • 16h ago
 
 ---
 
@@ -312,7 +272,47 @@ Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydf
 
 📺 BitBoy X
 
-👁️ 3K • 👍 228 • ⏱️ 25:41 • 12h ago
+👁️ 3K • 👍 233 • ⏱️ 25:41 • 12h ago
+
+---
+
+**[Ethereum Fusaka Upgrade Is HERE!! Is ETH About To EXPLODE!?](https://www.youtube.com/watch?v=rYEgr3YN-qI)**
+
+While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka — a live upgrade that radically improves ...
+
+📺 Coin Bureau
+
+👁️ 38K • 👍 2K • 💬 127 • ⏱️ 17:37 • 1d ago
+
+---
+
+**[CRYPTO LIVE TRADING || 06 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=pN8XRM4CZfQ)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 5K • 👍 886 • 1h ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 17K • 👍 412 • 💬 356 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[Ethereum Finally REVERSING! (Bitcoin Sets Up MASSIVE 2026 Bull Market)](https://www.youtube.com/watch?v=mq4KoKQqfRE)**
+
+Ethereum is finally showing signs of a major reversal, and the charts suggest this could be the beginning of a powerful momentum ...
+
+📺 Discover Crypto
+
+👁️ 7K • 👍 440 • 💬 14 • ⏱️ 59:34 • 13h ago
 
 ---
 
@@ -322,7 +322,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 77K • 👍 3K • 💬 457 • ⏱️ 27:33 • 1d ago
+👁️ 79K • 👍 3K • 💬 459 • ⏱️ 27:33 • 1d ago
 
 ---
 

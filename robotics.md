@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T05:44:04.229037+00:00'
+updated: '2025-12-06T05:55:34.416770+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 05:44 UTC  
+**Last Updated:** December 06, 2025 at 05:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -132,7 +132,7 @@ IEEE Spectrum • 2d ago
 
 HANGZHOU, CN / ACCESS Newswire / December 5, 2025 / From November 9th to 21st, 2025, the 15th National Games of the People's Republic of China (hereinafter referred to as the "National Games") were grandly held in Guangzhou. While public attention ...
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -194,71 +194,13 @@ BBC • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Tesla’s Running Robot: Optimus Just Took a Huge Step Forward](https://www.youtube.com/watch?v=xE_gPhwzQAc)**
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
 
-Tesla just showed its Optimus humanoid robot running in the laboratory, and it looks a lot closer to a real life sci fi moment than a ...
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
 
-📺 DPCcars
+📺 AI Revolution
 
-👁️ 59K • 👍 475 • 💬 238 • ⏱️ 2:30 • 2d ago
-
----
-
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
-
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
-
-📺 Fin Tek
-
-👁️ 4K • 👍 327 • 💬 116 • ⏱️ 21:31 • 4h ago
-
----
-
-**[China&#39;s humanoid robotics leap: new T800 unveiled](https://www.youtube.com/watch?v=wbLl3aSOzoc)**
-
-For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-new-T800-unveiled-1INHjYVbHGM/p.html ...
-
-📺 CGTN
-
-👁️ 93K • 💬 585 • ⏱️ 1:21 • 2d ago
-
----
-
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=_MgTHoFYPDs)**
-
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
-
-📺 Humanoid Robot 🤖
-
-👁️ 78K • 👍 414 • 💬 5 • ⏱️ 0:19 • 1d ago
-
----
-
-**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
-
-📺 AI . Robot
-
-👁️ 1.0M • 👍 6K • 💬 41 • ⏱️ 0:17 • 1d ago
-
----
-
-**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.youtube.com/watch?v=XvXNEYbIBYw)**
-
-Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be ...
-
-📺 CBS News
-
-👁️ 10K • 👍 214 • 💬 127 • ⏱️ 4:05 • 1d ago
-
----
-
-**[Viral Art Exhibit Shows Musk, Zuckerberg and Bezos as Creepy Robot Dogs](https://www.youtube.com/watch?v=tFfR0uQXl7w)**
-
-Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-tech-titan robot dogs pooping out NFTs, stopping ...
-
-📺 New York Post
-
-👁️ 5K • 👍 94 • 💬 64 • ⏱️ 2:06 • 15h ago
+👁️ 26K • 👍 806 • 💬 149 • ⏱️ 12:07 • 5h ago
 
 ---
 
@@ -268,17 +210,65 @@ Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.c
 
 📺 InsideAI
 
-👁️ 560K • 👍 23K • 💬 3K • ⏱️ 14:58 • 5d ago
+👁️ 567K • 👍 23K • 💬 3K • ⏱️ 14:58 • 5d ago
 
 ---
 
-**[AI Humanoid Robot Activated in 2025 — Reacts Like a Real Human in Silicon Valley Lab](https://www.youtube.com/watch?v=bjUcx-S0-ks)**
+**[Tesla’s Running Robot: Optimus Just Took a Huge Step Forward](https://www.youtube.com/watch?v=xE_gPhwzQAc)**
 
-In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot and apply a breakthrough synthetic skin.
+Tesla just showed its Optimus humanoid robot running in the laboratory, and it looks a lot closer to a real life sci fi moment than a ...
 
-📺 AI Robot Lab
+📺 DPCcars
 
-👁️ 79K • 👍 321 • 💬 9 • ⏱️ 0:19 • 16h ago
+👁️ 60K • 👍 483 • 💬 241 • ⏱️ 2:30 • 2d ago
+
+---
+
+**[Robots dance, clean and rescue toy cats at expo in Japan | REUTERS](https://www.youtube.com/watch?v=ZJ1YgkcJNew)**
+
+Humanoid robots showed off rescue skills, dance moves and household tasks at Tokyo's 2025 International Robot Exhibition, ...
+
+📺 Reuters
+
+👁️ 4K • 👍 31 • ⏱️ 2:31 • 2d ago
+
+---
+
+**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
+
+📺 AI . Robot
+
+👁️ 1.0M • 👍 6K • 💬 42 • ⏱️ 0:17 • 1d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=_MgTHoFYPDs)**
+
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 85K • 👍 416 • 💬 5 • ⏱️ 0:19 • 1d ago
+
+---
+
+**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.youtube.com/watch?v=XvXNEYbIBYw)**
+
+Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be ...
+
+📺 CBS News
+
+👁️ 11K • 👍 237 • 💬 136 • ⏱️ 4:05 • 1d ago
+
+---
+
+**[Viral Art Exhibit Shows Musk, Zuckerberg and Bezos as Creepy Robot Dogs](https://www.youtube.com/watch?v=tFfR0uQXl7w)**
+
+Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-tech-titan robot dogs pooping out NFTs, stopping ...
+
+📺 New York Post
+
+👁️ 5K • 👍 96 • 💬 64 • ⏱️ 2:06 • 16h ago
 
 ---
 
@@ -289,6 +279,16 @@ XPeng's new humanoid robot, IRON, went viral after the company cut it open on st
 📺 CNET
 
 👁️ 543K • 👍 3K • 💬 544 • ⏱️ 5:04 • 5d ago
+
+---
+
+**[AI Humanoid Robot Activated in 2025 — Reacts Like a Real Human in Silicon Valley Lab](https://www.youtube.com/watch?v=bjUcx-S0-ks)**
+
+In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot and apply a breakthrough synthetic skin.
+
+📺 AI Robot Lab
+
+👁️ 91K • 👍 346 • 💬 10 • ⏱️ 0:19 • 17h ago
 
 ---
 

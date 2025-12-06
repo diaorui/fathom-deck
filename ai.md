@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T05:44:04.211322+00:00'
+updated: '2025-12-06T05:55:34.398972+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- social
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 05:44 UTC  
+**Last Updated:** December 06, 2025 at 05:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -95,7 +95,7 @@ AMD CEO says long-term demand for compute will justify today’s rapid data-cent
 
 Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
 
-8h ago
+9h ago
 
 ---
 
@@ -283,7 +283,7 @@ Connor Leahy discusses the motivations of AGI corporations, how modern AI is "gr
 
 📺 Future of Life Institute
 
-👁️ 22K • 👍 1K • 💬 429 • ⏱️ 15:40 • 1d ago
+👁️ 23K • 👍 1K • 💬 440 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -293,7 +293,17 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 711K • 👍 17K • 💬 4K • ⏱️ 2:04:06 • 1d ago
+👁️ 725K • 👍 17K • 💬 4K • ⏱️ 2:04:06 • 1d ago
+
+---
+
+**[Between Dimensions: The Entities Lovecraft Warned Us About Are Here Now](https://www.youtube.com/watch?v=h6efTA8z1UI)**
+
+Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
+
+📺 End Times Productions
+
+👁️ 91K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
 
 ---
 
@@ -303,7 +313,27 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 662K • 👍 15K • 💬 924 • ⏱️ 4:58 • 1d ago
+👁️ 683K • 👍 16K • 💬 933 • ⏱️ 4:58 • 1d ago
+
+---
+
+**[AI Has Gone Too Far](https://www.youtube.com/watch?v=CTF73mW8kcE)**
+
+Another heaping of AI Slop, this time involving Franklin the Turtle, Japanese game developers and the blatant copyright abuse of ...
+
+📺 Dolan Darkest
+
+👁️ 205K • 👍 12K • 💬 2K • ⏱️ 2:28 • 12h ago
+
+---
+
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+
+📺 AI Revolution
+
+👁️ 26K • 👍 806 • 💬 149 • ⏱️ 12:07 • 5h ago
 
 ---
 
@@ -317,23 +347,13 @@ Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous vide
 
 ---
 
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+**[AI Exploded This Week: GPT 5.2, DeepSeek 3.2, Kling 2.6, Mistral 3, Trainium 3...](https://www.youtube.com/watch?v=KeqO2KM6CTk)**
 
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+The past few days pushed AI in every direction at once. OpenAI quietly tested a new Memory Search system inside ChatGPT, ...
 
 📺 AI Revolution
 
-👁️ 11K • 👍 585 • 💬 110 • ⏱️ 12:07 • 5h ago
-
----
-
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=6DIFQm4MXYI)**
-
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
-
-📺 Impossible AIs
-
-👁️ 395K • 👍 1K • 💬 54 • ⏱️ 8:09 • 1d ago
+👁️ 52K • 👍 1K • 💬 80 • ⏱️ 17:26 • 2d ago
 
 ---
 
@@ -343,35 +363,17 @@ A poor little girl always dreamed of flying. Today, her loving Dadaji takes her 
 
 📺 AI GANESHA 
 
-👁️ 7K • ⏱️ 0:31 • 3h ago
+👁️ 11K • ⏱️ 0:31 • 3h ago
 
 ---
 
-**[You Are Being Told Contradictory Things About AI: 8 examples](https://www.youtube.com/watch?v=iO844izo9kw)**
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=6DIFQm4MXYI)**
 
-With headlines of an imminent job apocalypse, code red for ChatGPT and recursive self-improvement, at the same time as ...
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
 
-📺 AI Explained
+📺 Impossible AIs
 
-👁️ 31K • 👍 2K • 💬 305 • ⏱️ 20:16 • 12h ago
-
----
-
-**[This changes everything… ✌️😍Meet the world’s first AI companion 🤯 #lookiai #aiwearable  #tech #ai](https://www.youtube.com/watch?v=fDm7Pjh4mhY)**
-
-📺 thejunglebadger
-
-👁️ 4K • 👍 184 • 💬 4 • ⏱️ 1:09 • 8h ago
-
----
-
-**[can you guess which is AI? #asmr](https://www.youtube.com/watch?v=hrf8MU1eIt0)**
-
-did u guess all of them correctly? let me know in the comments below! **BUSINESS CONTACT** ...
-
-📺 Dong ASMR
-
-👁️ 260K • 👍 10K • 💬 167 • ⏱️ 0:46 • 1d ago
+👁️ 415K • 👍 1K • 💬 56 • ⏱️ 8:09 • 1d ago
 
 ---
 
@@ -693,7 +695,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 12m ago
+⭐ 822 • 🔱 42 • 24m ago
 
 ---
 
@@ -733,7 +735,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 542 • 🔱 169 • 47m ago
+⭐ 542 • 🔱 169 • 59m ago
 
 ---
 

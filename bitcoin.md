@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T05:44:04.219703+00:00'
+updated: '2025-12-06T05:55:34.407467+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 05:44 UTC  
+**Last Updated:** December 06, 2025 at 05:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,9 +45,9 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -2.7%  
-**7d:** -0.9%  
+**7d:** -1.0%  
 **30d:** -13.5%  
-**90d:** -19.8%  
+**90d:** -19.9%  
 **1y:** -10.2%  
 
 ---
@@ -107,13 +107,13 @@ Charts like this always remind me why time in the market beats timing the market
 
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
-7h ago
+8h ago
 
 ---
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -303,17 +303,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 19K • 👍 2K • 💬 298 • ⏱️ 10:23 • 12h ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 16K • 👍 405 • 💬 340 • ⏱️ 15:38 • 1d ago
+👁️ 21K • 👍 2K • 💬 311 • ⏱️ 10:23 • 12h ago
 
 ---
 
@@ -323,7 +313,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 8K • 👍 83 • 💬 163 • ⏱️ 4:01 • 9h ago
+👁️ 9K • 👍 90 • 💬 162 • ⏱️ 4:01 • 9h ago
 
 ---
 
@@ -333,17 +323,17 @@ Everyone is screaming that Bitcoin is either going to zero or hitting a million 
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 184 • ⏱️ 12:20 • 7h ago
+👁️ 19K • 👍 1K • 💬 207 • ⏱️ 12:20 • 7h ago
 
 ---
 
-**[Michael Saylor: &quot;I&#39;m More Bullish Than EVER on Bitcoin!&quot;](https://www.youtube.com/watch?v=1no2ashJSIU)**
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
 
-Michael Saylor isn't just bullish — he's placing Bitcoin inside a countdown. By 2035, he says 99% of all Bitcoin will have been ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 The Bitcoin Revolution
+📺 Library Of Wealth
 
-👁️ 1K • 👍 61 • 💬 45 • ⏱️ 13:29 • 13h ago
+👁️ 17K • 👍 412 • 💬 356 • ⏱️ 15:38 • 1d ago
 
 ---
 
@@ -353,7 +343,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 83K • 👍 6K • 💬 395 • ⏱️ 15:38 • 18h ago
+👁️ 87K • 👍 6K • 💬 405 • ⏱️ 15:38 • 18h ago
 
 ---
 
@@ -363,17 +353,7 @@ Ben Cowen drops a major update: Jerome Powell just confirmed quantitative tighte
 
 📺 Bitcoin Magazine
 
-👁️ 1K • 👍 28 • 💬 42 • ⏱️ 7:52 • 9h ago
-
----
-
-**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 30K • 👍 1K • 💬 288 • ⏱️ 10:13 • 15h ago
+👁️ 1K • 👍 32 • 💬 44 • ⏱️ 7:52 • 9h ago
 
 ---
 
@@ -383,17 +363,37 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 47K • 👍 4K • 💬 271 • ⏱️ 23:27 • 1d ago
+👁️ 48K • 👍 4K • 💬 272 • ⏱️ 23:27 • 1d ago
 
 ---
 
-**[BITCOIN FELL ON GOOD NEWS!](https://www.youtube.com/watch?v=ceuSRtnNJ8g)**
+**[Michael Saylor: &quot;I&#39;m More Bullish Than EVER on Bitcoin!&quot;](https://www.youtube.com/watch?v=1no2ashJSIU)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+Michael Saylor isn't just bullish — he's placing Bitcoin inside a countdown. By 2035, he says 99% of all Bitcoin will have been ...
 
-📺 My Financial Friend
+📺 The Bitcoin Revolution
 
-👁️ 10K • 👍 507 • 💬 154 • ⏱️ 5:50 • 12h ago
+👁️ 2K • 👍 65 • 💬 46 • ⏱️ 13:29 • 13h ago
+
+---
+
+**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
+
+As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
+
+📺 Swan Bitcoin
+
+👁️ 71K • 👍 3K • 💬 234 • ⏱️ 18:48 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: I AM WARNING YOU AGAIN!!!! LISTEN THIS TIME!!!!!](https://www.youtube.com/watch?v=na9LpJZqDyY)**
+
+What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get ready now!!! AI Trading Club: ...
+
+📺 Thomas Kralow
+
+👁️ 26K • 👍 3K • 💬 39 • ⏱️ 10:24 • 1d ago
 
 ---
 

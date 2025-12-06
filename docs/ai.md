@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T14:49:51.923143+00:00'
+updated: '2025-12-06T15:01:29.297225+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 14:49 UTC  
+**Last Updated:** December 06, 2025 at 15:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**['Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'](https://www.reddit.com/r/artificial/comments/1pf0p2w/godfather_of_ai_geoffrey_hinton_says_google_is/)**
-
-Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
-
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 21h ago
-
----
-
 **["Godmother of AI" Fei-Fei Li disappointed by AI's messaging: Either doomsday or total utopian](https://www.reddit.com/r/artificial/comments/1pflyfu/godmother_of_ai_feifei_li_disappointed_by_ais/)**
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
@@ -53,11 +45,19 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 ---
 
-**[The Strange Disappearance of an Anti-AI Activist | Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.](https://www.reddit.com/r/artificial/comments/1pfhump/the_strange_disappearance_of_an_antiai_activist/)**
+**['Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'](https://www.reddit.com/r/artificial/comments/1pf0p2w/godfather_of_ai_geoffrey_hinton_says_google_is/)**
 
-Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
+Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 8h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 21h ago
+
+---
+
+**[AI deepfakes of real doctors spreading health misinformation on social media | Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects](https://www.reddit.com/r/artificial/comments/1pfqevl/ai_deepfakes_of_real_doctors_spreading_health/)**
+
+Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
+
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 41m ago
 
 ---
 
@@ -69,11 +69,19 @@ I'm just curious about the differences, I'm not super educated on this, and I fi
 
 ---
 
-**[AI deepfakes of real doctors spreading health misinformation on social media | Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects](https://www.reddit.com/r/artificial/comments/1pfqevl/ai_deepfakes_of_real_doctors_spreading_health/)**
+**[The Strange Disappearance of an Anti-AI Activist | Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.](https://www.reddit.com/r/artificial/comments/1pfhump/the_strange_disappearance_of_an_antiai_activist/)**
 
-Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
+Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 29m ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 9h ago
+
+---
+
+**[Looking back on the practical use of AI in 2025](https://www.reddit.com/r/artificial/comments/1pfr9jp/looking_back_on_the_practical_use_of_ai_in_2025/)**
+
+Hey all, amidst all the downsides of AI this past year - be it environmental worries, slop in music and art, AI enshittification, GPU/RAM prices increasing - I wanted to discuss about what's how WE are using AI, among a general look at changes on a larger scale. Personally, it feels like I haven't really felt a huge difference within the stuff I use which is just the basic stuff like GPT / Gemini. However, one change for me was that I've been using it for language learning which I've felt has been quite useful. On a general level, I feel like I've been seeing some practical applications that improved considerably this year compared to last years. An example I've seen recently is in health, where AI imaging can catch breast cancer way earlier and with higher accuracy. Another is in programming, where it feels like there's a huge rise in "Vibes Coding" with even sites like Bolt/v0. Now I'm not gonna pretend like I know how any of these work, but I do think it's interesting how there's a practical use for AI in these fields now. What about for you guys? Has AI gotten better or worse this year, and where did you actually feel the difference?
+
+1m ago
 
 ---
 
@@ -95,7 +103,7 @@ If you use AI for writing, have you found a way for it to capture your voice so 
 
 **[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -104,14 +112,6 @@ If you use AI for writing, have you found a way for it to capture your voice so 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
 🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 1d ago
-
----
-
-**[One-Minute Daily AI News 12/5/2025](https://www.reddit.com/r/artificial/comments/1pfhu6y/oneminute_daily_ai_news_1252025/)**
-
-Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York Times sues AI startup for ‘illegal’ copying of millions of articles.[2] Meta acquires AI-wearables startup Limitless.[3] MIT researchers “speak objects into existence” using AI and robotics.[4] Sources: [1] https://www.axios.com/2025/12/03/joe-rogan-jensen-huang-podcast-trump [2] https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit [3] https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/ [4] https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205
-
-8h ago
 
 ---
 
@@ -133,6 +133,28 @@ The New York Times • 1d ago
 
 ---
 
+**[The Most Vulnerable AI Stock if the Bubble Pops](https://finance.yahoo.com/news/most-vulnerable-ai-stock-bubble-115000530.html)**
+
+Nvidia is the world's largest company, and it gets most of its revenue from AI spending.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Buy the dip in this AI 'neocloud' and don't believe bubble 'conspiracy theories,' says Freedom Capital's Meeks](https://www.cnbc.com/2025/12/05/buy-the-dip-in-this-ai-neocloud-says-freedom-capitals-paul-meeks.html)**
+
+Veteran tech analyst Paul Meeks said that CoreWeave's backstop from Nvidia could absorb "any extra capacity for seven years" given their GPU partnership.
+
+CNBC • 22h ago
+
+---
+
+**[These 10 fast-growing AI stocks may offer the best bang for your buck](https://www.marketwatch.com/story/these-10-fast-growing-ai-stocks-may-offer-the-best-bang-for-your-buck-8b6205ef?gaa_at=eafs&gaa_n=AWEtsqf1dsOy603WlVlorIieCsOPAEGsLxBn2P4pT1pC6RUpryjPN6RN343c&gaa_ts=693448b0&gaa_sig=sT06hrwUoXQbH0XdDWaHKMELIjCT1aiP1zKOwDZEl1GyvxXbL8HkkqfUenAXoXNjgjg5ipJ9gJqnTxZTTkXaQA%3D%3D)**
+
+MarketWatch • 1h ago
+
+---
+
 **[AI is making job hunting harder, some experts say. Here’s how to navigate it.](https://www.bostonglobe.com/2025/12/06/business/ai-job-applications-employment/)**
 
 It’s the question every job hunter seems to be wrestling with: How do you get your resume in front of a human?
@@ -141,33 +163,19 @@ The Boston Globe • 2h ago
 
 ---
 
-**[Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing](https://fortune.com/2025/12/06/nvidia-jensen-huang-ai-adoption-creep-gradual-robot-clothing/)**
+**[This Country Songwriter Says AI Songs Should Be Labeled](https://www.rollingstone.com/music/music-features/ai-country-songs-should-be-labeled-breland-1235477535/)**
 
-Jobs that consist entirely of routine tasks are most at risk of AI disruption, Huang said.
+Country songwriter Breland says songs created with AI should be labeled as such and money made off them should go to grants for human artists.
 
-Fortune • 2h ago
-
----
-
-**[Nvidia CEO pours cold water on the AI power debate](https://www.thestreet.com/technology/nvidia-ceo-pours-cold-water-on-the-ai-power-debate)**
-
-TheStreet • 23h ago
+Rolling Stone • 31m ago
 
 ---
 
-**[Jensen Huang Reveals AI's Biggest Problem, And It Is Not Chips — Joe Rogan Agrees This Is The 'Smartest' Way To Solve It](https://finance.yahoo.com/news/jensen-huang-reveals-ais-biggest-023105223.html)**
+**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
 
-On Wednesday, Nvidia Corp (NASDAQ:NVDA) CEO Jensen Huang told Joe Rogan that the future of artificial intelligence won't be constrained by chips but by electricity — and he expects tech giants to start powering their data centers with their own ...
+While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
-Yahoo Finance • 12h ago
-
----
-
-**[Amazon will be the stealth AI winner in 2026. Here's why.](https://finance.yahoo.com/video/amazon-stealth-ai-winner-2026-140016906.html)**
-
-Argent Capital Management Portfolio Manager Jed Ellerbroek explains why he sees Amazon (AMZN) as a "stealth winner" in the AI race. Also catch Jed Ellerbroek explain why investors are growing nervous about the AI infrastructure buildout as compared to previous cloud buildout cycles. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination.
-
-Yahoo Finance • 49m ago
+Fortune • 1d ago
 
 ---
 
@@ -184,12 +192,6 @@ ABC News • 4h ago
 Students are using AI tools more than ever. An Angelo State University professor designed a way to figure out if his students were using artificial intelligence on a recent paper.We speak with Will Teague, who says students are sacrificing their own agency to artificial intelligence. For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Henry Larson and Karen Zamora, with additional reporting by Ayana Archie and Lee V. Gaines. It was edited by Justine Kenin and Courtney Dorning. Our executive producer is Sami Yenigun.
 
 NPR • 17h ago
-
----
-
-**[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
-
-The New York Times • 22h ago
 
 ---
 
@@ -225,7 +227,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 487 • 💬 250 • 22h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 490 • 💬 252 • 22h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -241,7 +243,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 336 • 💬 193 • 13h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 339 • 💬 194 • 13h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -273,7 +275,7 @@ Multiple divisions at Microsoft have lowered sales growth targets for certain ar
 
 Welcome to the slop era.
 
-⬆️ 93 • 💬 171 • 21h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 95 • 💬 171 • 21h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -357,7 +359,7 @@ Giraffe waters pumpkin plant #ai #women #old man #orange #Pumpkin #aistory #aivi
 
 📺 Ai story 3.0
 
-👁️ 3K • 👍 79 • 💬 8 • ⏱️ 1:03 • 1h ago
+👁️ 3K • 👍 79 • 💬 8 • ⏱️ 1:03 • 2h ago
 
 ---
 
@@ -367,7 +369,7 @@ Grandmother rescues the Girl and builds Gold water slide for her #ai #water #sav
 
 📺 Ai Animated Dream 
 
-👁️ 19K • 👍 169 • ⏱️ 0:22 • 4h ago
+👁️ 19K • 👍 169 • ⏱️ 0:22 • 5h ago
 
 ---
 
@@ -393,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,169 • 4d ago
+⬇️ 169,515 • ❤️ 2,172 • 4d ago
 
 ---
 
@@ -429,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 333 • 1d ago
+⬇️ 20,067 • ❤️ 334 • 1d ago
 
 ---
 
@@ -473,7 +475,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 196,425 • ❤️ 907 • 9d ago
+⬇️ 196,425 • ❤️ 908 • 9d ago
 
 ---
 
@@ -707,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 804 • 🔱 21 • 35m ago
+⭐ 804 • 🔱 21 • 47m ago
 
 ---
 

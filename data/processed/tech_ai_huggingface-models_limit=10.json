@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 169515,
-      "likes": 2169,
+      "likes": 2172,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-12-02T11:54:58.000Z",
@@ -57,7 +57,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/VibeVoice-Realtime-0.5B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583646260758-5e64858c87403103f9f1055d.png",
       "downloads": 20067,
-      "likes": 333,
+      "likes": 334,
       "pipeline_tag": "text-to-speech",
       "num_parameters": "1.0B",
       "last_modified": "2025-12-05T01:45:28.000Z",
@@ -121,7 +121,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/black-forest-labs/FLUX.2-dev.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/633f7a8f4be90e06da248e0f/m5YoF33abJ09vcwFxt1Mj.png",
       "downloads": 196425,
-      "likes": 907,
+      "likes": 908,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-27T11:17:09.000Z",
@@ -162,6 +162,6 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-12-06T14:23:21.448897+00:00",
+  "fetched_at": "2025-12-06T15:01:12.046582+00:00",
   "has_descriptions": true
 }

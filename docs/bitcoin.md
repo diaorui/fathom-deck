@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T14:49:51.931525+00:00'
+updated: '2025-12-06T15:01:29.305571+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 14:49 UTC  
+**Last Updated:** December 06, 2025 at 15:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.4%  
-**30d:** -13.0%  
-**90d:** -19.4%  
-**1y:** -9.7%  
+**24h:** +1.2%  
+**7d:** -0.7%  
+**30d:** -13.2%  
+**90d:** -19.6%  
+**1y:** -9.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1796.27B
+**Market Cap:** $1797.89B
 Rank #1
 
-**Circulating Supply:** 19,958,337 BTC
+**Circulating Supply:** 19,958,365 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
 -28.6%
 
 **All-Time Low:** $67.81
-+132643.0%
++132665.1%
 
 ---
 
@@ -86,6 +86,12 @@ Rank #1
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
 6h ago
+
+---
+
+**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
+
+7h ago
 
 ---
 
@@ -117,27 +123,21 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 ---
 
+**[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
+
+1h ago
+
+---
+
+**[Just a normal day in the market.](https://www.reddit.com/r/Bitcoin/comments/1pfquzs/just_a_normal_day_in_the_market/)**
+
+20m ago
+
+---
+
 **[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
 
 14h ago
-
----
-
-**[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
-
-12h ago
-
----
-
-**[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
-
-19h ago
-
----
-
-**[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
-
-1d ago
 
 ---
 
@@ -163,7 +163,7 @@ The Economist • 2d ago
 
 Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -197,17 +197,17 @@ The Motley Fool • 3h ago
 
 The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeGVH1jcbrZMqgDdGHxaGwDWDIoI2U0JJSF2pA-Cr_TFgjOMKCS9Lpw&gaa_ts=69343fd3&gaa_sig=D1lkV0yKyjrT_eM72FiWkA0FqJ290SO7q4RsWzhz6QAbu6Qegbk-3-zNneqcorAkgEWYS5mo8qocNm8FW5YVAQ%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqee2_cigV7dcoThtsk6vUR9OtftOiRtdta2tig-i3qTofPzyORjKp_6&gaa_ts=693448b1&gaa_sig=nWxp3HLTE466iHv4pFDSwJORqQTlUe-obRvbxoH-O1GB7KCD9Cv_oD2ntUYIwVTw_tYCL_SU7v84BG4p0QoQPg%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqeCyidl6-qUWh5Wz3JIk7DIRdN2YYRoT3VCPw_8AFMjaUHnhYuS3KB9&gaa_ts=69343fd3&gaa_sig=pi11Gz6C8y3dyoQiRk0qCGM5ZCzNQdy85zt2Du-ReqBJ8GIHGIeCAwm-vrXO7BTIcsZzTXFf_dq27pXKwT-qgQ%3D%3D)**
+**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqd180vEQwxe6T_N0_k9qrivwCajvsUxDQhDsYhyi0kv2KVdLXG_ifJr&gaa_ts=693448b1&gaa_sig=52GyfMbNm-TYEWbuPpOshEfpl9TESCY07P-iPmM8EbbFKP8yyxvxD7wwug327ToQ09ujositsQ-uGLohd3aMUw%3D%3D)**
 
 Barron's • 3d ago
 
@@ -293,7 +293,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 27K • 👍 2K • 💬 382 • ⏱️ 10:23 • 21h ago
+👁️ 27K • 👍 2K • 💬 382 • ⏱️ 10:23 • 22h ago
 
 ---
 
@@ -343,7 +343,7 @@ Seamus Rocca is the CEO of Xapo Bank. In this conversation, we dig into the real
 
 📺 Anthony Pompliano
 
-👁️ 11K • 👍 444 • ⏱️ 29:40 • 16h ago
+👁️ 11K • 👍 444 • ⏱️ 29:40 • 17h ago
 
 ---
 
@@ -363,7 +363,7 @@ Everyone is screaming that Bitcoin is either going to zero or hitting a million 
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 286 • ⏱️ 12:20 • 16h ago
+👁️ 26K • 👍 2K • 💬 286 • ⏱️ 12:20 • 17h ago
 
 ---
 

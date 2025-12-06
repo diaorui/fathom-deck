@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "'Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1pf0p2w/godfather_of_ai_geoffrey_hinton_says_google_is/",
-      "published": 1764954736.0,
-      "thumbnail": "https://external-preview.redd.it/K6l-hKqU8rET0QiCcByCNrFtZZFQ5aJmdFv4jGMJFbg.jpeg?width=640&crop=smart&auto=webp&s=187099d0199fd8374caad5ee911eb19dc3793c71",
-      "external_url": "https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was \"surprising than it's taken this long\" for Google to catch OpenAI."
-    },
-    {
       "title": "\"Godmother of AI\" Fei-Fei Li disappointed by AI's messaging: Either doomsday or total utopian",
       "author": "BuildwithVignesh",
       "url": "https://www.reddit.com/r/artificial/comments/1pflyfu/godmother_of_ai_feifei_li_disappointed_by_ais/",
@@ -24,15 +13,26 @@
       "description": "Fei-Fei Li said that this \"extreme rhetoric\" is filling tech discourse and misinforming  people outside Silicon Valley."
     },
     {
-      "title": "The Strange Disappearance of an Anti-AI Activist | Sam Kirchner wants to save the world from artificial superintelligence. He\u2019s been missing for two weeks.",
-      "author": "Youarethebigbang",
-      "url": "https://www.reddit.com/r/artificial/comments/1pfhump/the_strange_disappearance_of_an_antiai_activist/",
-      "published": 1765000513.0,
-      "thumbnail": "https://external-preview.redd.it/KK_asiSaDMDDbivUP22k2Hop3GYgMV2w0LwOhcDs8UA.jpeg?width=640&crop=smart&auto=webp&s=8c17ef5420c2fb25a2ee867ca545e23fab1075b1",
-      "external_url": "https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/",
-      "site_name": "The Atlantic",
-      "favicon": "https://cdn.theatlantic.com/_next/static/images/apple-touch-icon-default-b504d70343a9438df64c32ce339c7ebc.png",
-      "description": "Sam Kirchner wants to save the world from artificial superintelligence. He\u2019s been missing for two weeks."
+      "title": "'Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1pf0p2w/godfather_of_ai_geoffrey_hinton_says_google_is/",
+      "published": 1764954736.0,
+      "thumbnail": "https://external-preview.redd.it/K6l-hKqU8rET0QiCcByCNrFtZZFQ5aJmdFv4jGMJFbg.jpeg?width=640&crop=smart&auto=webp&s=187099d0199fd8374caad5ee911eb19dc3793c71",
+      "external_url": "https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was \"surprising than it's taken this long\" for Google to catch OpenAI."
+    },
+    {
+      "title": "AI deepfakes of real doctors spreading health misinformation on social media | Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pfqevl/ai_deepfakes_of_real_doctors_spreading_health/",
+      "published": 1765030819.0,
+      "thumbnail": "https://external-preview.redd.it/GIqG4dXOupM8wH0rSObjplvXqjXPR_aWqJKdq4p8_PE.jpeg?width=640&crop=smart&auto=webp&s=3d7b8b32aac2896fd44d652084a322084c30294e",
+      "external_url": "https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects"
     },
     {
       "title": "Why is everyone so focused on generative AI when neural networks exist",
@@ -46,15 +46,26 @@
       "description": "I'm just curious about the differences, I'm not super educated on this, and I figured this place would know more than me"
     },
     {
-      "title": "AI deepfakes of real doctors spreading health misinformation on social media | Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pfqevl/ai_deepfakes_of_real_doctors_spreading_health/",
-      "published": 1765030819.0,
-      "thumbnail": "https://external-preview.redd.it/GIqG4dXOupM8wH0rSObjplvXqjXPR_aWqJKdq4p8_PE.jpeg?width=640&crop=smart&auto=webp&s=3d7b8b32aac2896fd44d652084a322084c30294e",
-      "external_url": "https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects"
+      "title": "The Strange Disappearance of an Anti-AI Activist | Sam Kirchner wants to save the world from artificial superintelligence. He\u2019s been missing for two weeks.",
+      "author": "Youarethebigbang",
+      "url": "https://www.reddit.com/r/artificial/comments/1pfhump/the_strange_disappearance_of_an_antiai_activist/",
+      "published": 1765000513.0,
+      "thumbnail": "https://external-preview.redd.it/KK_asiSaDMDDbivUP22k2Hop3GYgMV2w0LwOhcDs8UA.jpeg?width=640&crop=smart&auto=webp&s=8c17ef5420c2fb25a2ee867ca545e23fab1075b1",
+      "external_url": "https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/",
+      "site_name": "The Atlantic",
+      "favicon": "https://cdn.theatlantic.com/_next/static/images/apple-touch-icon-default-b504d70343a9438df64c32ce339c7ebc.png",
+      "description": "Sam Kirchner wants to save the world from artificial superintelligence. He\u2019s been missing for two weeks."
+    },
+    {
+      "title": "Looking back on the practical use of AI in 2025",
+      "author": "Triloo_",
+      "url": "https://www.reddit.com/r/artificial/comments/1pfr9jp/looking_back_on_the_practical_use_of_ai_in_2025/",
+      "published": 1765033172.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey all, amidst all the downsides of AI this past year - be it environmental worries, slop in music and art, AI enshittification, GPU/RAM prices increasing - I wanted to discuss about what's how WE are using AI, among a general look at changes on a larger scale. Personally, it feels like I haven't really felt a huge difference within the stuff I use which is just the basic stuff like GPT / Gemini. However, one change for me was that I've been using it for language learning which I've felt has been quite useful. On a general level, I feel like I've been seeing some practical applications that improved considerably this year compared to last years. An example I've seen recently is in health, where AI imaging can catch breast cancer way earlier and with higher accuracy. Another is in programming, where it feels like there's a huge rise in \"Vibes Coding\" with even sites like Bolt/v0. Now I'm not gonna pretend like I know how any of these work, but I do think it's interesting how there's a practical use for AI in these fields now. What about for you guys? Has AI gotten better or worse this year, and where did you actually feel the difference?"
     },
     {
       "title": "AI Slop Is Ruining Reddit for Everyone",
@@ -99,18 +110,7 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "An AI image generator startup\u2019s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been \u201cnudified.\u201d"
-    },
-    {
-      "title": "One-Minute Daily AI News 12/5/2025",
-      "author": "Excellent-Target-847",
-      "url": "https://www.reddit.com/r/artificial/comments/1pfhu6y/oneminute_daily_ai_news_1252025/",
-      "published": 1765000469.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Nvidia CEO to Joe Rogan: Nobody \u201creally knows\u201d AI\u2019s endgame.[1] New York Times sues AI startup for \u2018illegal\u2019 copying of millions of articles.[2] Meta acquires AI-wearables startup Limitless.[3] MIT researchers \u201cspeak objects into existence\u201d using AI and robotics.[4] Sources: [1] https://www.axios.com/2025/12/03/joe-rogan-jensen-huang-podcast-trump [2] https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit [3] https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/ [4] https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205"
     }
   ],
-  "fetched_at": "2025-12-06T14:23:11.901839+00:00"
+  "fetched_at": "2025-12-06T15:01:01.014316+00:00"
 }

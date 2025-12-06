@@ -51,8 +51,8 @@
       "url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
       "hn_url": "https://news.ycombinator.com/item?id=46163308",
       "author": "xnx",
-      "points": 487,
-      "num_comments": 250,
+      "points": 490,
+      "num_comments": 252,
       "created_at": "2025-12-05T16:15:10Z",
       "object_id": "46163308",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.width-1300.png",
@@ -79,8 +79,8 @@
       "url": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
       "hn_url": "https://news.ycombinator.com/item?id=46169554",
       "author": "mystraline",
-      "points": 336,
-      "num_comments": 193,
+      "points": 339,
+      "num_comments": 194,
       "created_at": "2025-12-06T01:15:48Z",
       "object_id": "46169554",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/07/05/Skz1mlnepO/Skz1mlnepO_1_105_1000_563_0_large.jpg",
@@ -135,7 +135,7 @@
       "url": "https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425",
       "hn_url": "https://news.ycombinator.com/item?id=46164419",
       "author": "zerosizedweasle",
-      "points": 93,
+      "points": 95,
       "num_comments": 171,
       "created_at": "2025-12-05T17:29:47Z",
       "object_id": "46164419",
@@ -145,7 +145,7 @@
       "site_name": "Newsweek"
     }
   ],
-  "total_hits": 529,
+  "total_hits": 524,
   "has_metadata": true,
-  "fetched_at": "2025-12-06T14:23:10.436070+00:00"
+  "fetched_at": "2025-12-06T15:01:00.847367+00:00"
 }

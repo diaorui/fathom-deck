@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T14:49:51.940681+00:00'
+updated: '2025-12-06T15:01:29.314791+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 14:49 UTC  
+**Last Updated:** December 06, 2025 at 15:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-3h ago
+4h ago
 
 ---
 
@@ -110,11 +110,11 @@ For a long time, many robotics teams believed that real robot interaction data w
 
 ## Google News: "robotics"
 
-**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
+**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://finance.yahoo.com/news/3-robotics-stocks-buy-now-185157525.html)**
 
-Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
+The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-Seeking Alpha • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -130,21 +130,13 @@ IEEE Spectrum • 2d ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 23h ago
+MIT News • 1d ago
 
 ---
 
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
 Investor's Business Daily • 1d ago
-
----
-
-**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
-
-The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
-
-Barchart.com • 1d ago
 
 ---
 
@@ -168,7 +160,7 @@ CNN • 2d ago
 
 Wise is building a team of experts in Silicon Valley to unify KUKA's software systems and apply AI to more robots.
 
-The Robot Report • 21h ago
+The Robot Report • 22h ago
 
 ---
 
@@ -183,6 +175,14 @@ Fierce Biotech • 3d ago
 **[Classical Indian dance inspires new ways to teach robots how to use their hands](https://techxplore.com/news/2025-12-classical-indian-ways-robots.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[Bradford researchers to use robotic dogs and AI in wildfire trial](https://www.bbc.com/news/articles/c3w7xqdp04qo)**
+
+Bradford researchers will take part in a pilot scheme in Greece next year to help spot wildfires.
+
+BBC • 2d ago
 
 ---
 
@@ -274,7 +274,7 @@ Tech companies are in an arms race to develop the first mass-produced humanoid r
 
 📺 ABC News In-depth
 
-👁️ 54K • 👍 2K • ⏱️ 20:44 • 17h ago
+👁️ 54K • 👍 2K • ⏱️ 20:44 • 18h ago
 
 ---
 

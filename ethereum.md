@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T08:19:21.573623+00:00'
+updated: '2025-12-06T08:42:57.706587+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 08:19 UTC  
+**Last Updated:** December 06, 2025 at 08:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** +1.4%  
-**30d:** -11.7%  
-**90d:** -29.6%  
-**1y:** -24.2%  
+**24h:** -3.1%  
+**7d:** +0.9%  
+**30d:** -12.1%  
+**90d:** -30.0%  
+**1y:** -24.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.77B
+**Market Cap:** $364.21B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.8%
+-39.0%
 
 **All-Time Low:** $0.43
-+699532.1%
++697164.8%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 3h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 4h ago
 
 ---
 
@@ -142,7 +142,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 20h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 21h ago
 
 ---
 
@@ -158,14 +158,6 @@ Decrypt • 14h ago
 
 ---
 
-**[Ethereum Is Jumping Today-Here's Why](https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why)**
-
-Key PointsEthereum receives a major update today that should improve its ability to scale.
-
-Nasdaq • 2d ago
-
----
-
 **[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html)**
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
@@ -176,7 +168,7 @@ Yahoo Finance • 20h ago
 
 **[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
 
-TipRanks • 18h ago
+TipRanks • 19h ago
 
 ---
 
@@ -186,17 +178,17 @@ The Block • 2d ago
 
 ---
 
-**[Fusaka rollout kicks off Ethereum’s new twice-a-year hard-fork schedule](https://www.theblock.co/post/381285/fusaka-rollout-ethereum-twice-year-hard-fork-schedule)**
+**[Better Buy in 2026: Ethereum or Solana?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-solana)**
 
-The Block • 2d ago
+Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
+
+Nasdaq • 1d ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or Solana?](https://www.fool.com/investing/2025/12/04/better-buy-in-2026-ethereum-or-solana/)**
+**[Fusaka rollout kicks off Ethereum’s new twice-a-year hard-fork schedule](https://www.theblock.co/post/381285/fusaka-rollout-ethereum-twice-year-hard-fork-schedule)**
 
-Ethereum and Solana are battling for leadership in the decentralized revolution.
-
-The Motley Fool • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -213,6 +205,14 @@ Seeking Alpha • 1d ago
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
 cheddar.com • 1d ago
+
+---
+
+**[Better Buy in 2026: Ethereum or Solana?](https://www.fool.com/investing/2025/12/04/better-buy-in-2026-ethereum-or-solana/)**
+
+Ethereum and Solana are battling for leadership in the decentralized revolution.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was
 
 📺 Altcoin Buzz
 
-👁️ 2K • 👍 137 • 💬 198 • ⏱️ 9:21 • 18h ago
+👁️ 2K • 👍 137 • 💬 198 • ⏱️ 9:21 • 19h ago
 
 ---
 
@@ -294,7 +294,7 @@ Ethereum is finally showing signs of a major reversal, and the charts suggest th
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 441 • 💬 14 • ⏱️ 59:34 • 15h ago
+👁️ 7K • 👍 441 • 💬 14 • ⏱️ 59:34 • 16h ago
 
 ---
 
@@ -324,7 +324,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 37 • 💬 133 • ⏱️ 5:24 • 18h ago
+👁️ 1K • 👍 37 • 💬 133 • ⏱️ 5:24 • 19h ago
 
 ---
 

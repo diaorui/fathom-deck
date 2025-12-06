@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T08:19:21.567659+00:00'
+updated: '2025-12-06T08:42:57.700611+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 08:19 UTC  
+**Last Updated:** December 06, 2025 at 08:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,600.00
+### $89,421.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -1.2%  
-**30d:** -13.6%  
-**90d:** -20.0%  
-**1y:** -10.4%  
+**24h:** -2.2%  
+**7d:** -1.5%  
+**30d:** -14.0%  
+**90d:** -20.3%  
+**1y:** -10.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1790.26B
+**Market Cap:** $1783.63B
 Rank #1
 
-**Circulating Supply:** 19,958,168 BTC
+**Circulating Supply:** 19,958,193 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-29.1%
 
 **All-Time Low:** $67.81
-+132132.7%
++131699.1%
 
 ---
 
@@ -77,11 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Weak hands and overleveraged tourists panic-sell every dip. Try HODLing](https://www.reddit.com/r/Bitcoin/comments/1pf5aef/weak_hands_and_overleveraged_tourists_panicsell/)**
+**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
-Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
-
-12h ago
+1h ago
 
 ---
 
@@ -95,19 +93,13 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-14h ago
-
----
-
-**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
-
-56m ago
+15h ago
 
 ---
 
 **[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -119,25 +111,33 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-12h ago
+13h ago
 
 ---
 
-**[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
+**[Weak hands and overleveraged tourists panic-sell every dip. Try HODLing](https://www.reddit.com/r/Bitcoin/comments/1pf5aef/weak_hands_and_overleveraged_tourists_panicsell/)**
 
-13h ago
+Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
+
+12h ago
 
 ---
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
-5h ago
+6h ago
 
 ---
 
-**[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
+**[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
 
-18h ago
+14h ago
+
+---
+
+**[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
+
+14m ago
 
 ---
 
@@ -145,11 +145,19 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 ## Google News: "bitcoin"
 
+**[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
+
+It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
+
+Bloomberg.com • 2h ago
+
+---
+
 **[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -175,11 +183,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
+**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqf9uCtVo9kEsVwtR82NCJ63L-eGkRTJHJ7L5f1z-urfrA-ipML67j97&gaa_ts=6933eff8&gaa_sig=-sWTT3g3nTppf1feexEBwv49o3EiAVEjWvH5pwEiXVULCNGUefa63Q-Ny4e4n1RvWtPNE0diLwZBvhYTm4Ii8Q%3D%3D)**
 
-It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
-
-Bloomberg.com • 1h ago
+Barron's • 2d ago
 
 ---
 
@@ -199,21 +205,15 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqeZUIWAOLae8OmxIDIZq7xGcAigrf421uESU20gPWWL_jJlsfJq0EPS&gaa_ts=6933e44b&gaa_sig=JT9xeuzCSdxeXjio1zTGCUzfFOQ_U8bp4PX0YtIxi0QIALmUd5QbLUi8Q-p9AUpAp1L9GpiM_TdmM3WyHAbaNg%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqcIaAxdQZG3l-qBBYfjYV2ropmr9xGKlyUXekZ3w7kvuvpr-hr242jw&gaa_ts=6933e44b&gaa_sig=q_9m1P9ASb6hdojvCxNSkGvDKGBBkrGKTvITx2AjT0uP4lUVuj20GT_b-Qu0aRGDT_2AIL5_hZCbTd6ch0o9ug%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqest7JB11Vx-vHNYohXDYZeo3pn01xN-qgn0ukbqN_RY-dcxUx1mI1t&gaa_ts=6933eff8&gaa_sig=Pu2T9CAbuuykUA2fRLy89VkcJWAGCU2V-vae8SzqhBmiUdXOgai6M12e6OdoZGE7EFidft3W_cxqdQMxO1FIYA%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqfPMmmqf4rxLtyvvLO9dKfd5H3iY3hGP2Ev8EbtQ1UZotgmIXBM39VB&gaa_ts=6933eff8&gaa_sig=3lMidQqcaVvwtbe2Febg4gUyx5_y9MyE8EHtyKK_zMqMXtsbS52xdnNIEFLKhB5ZNEZ1gigxzDacoeV5FxxpRg%3D%3D)**
 
-The New York Times • 2d ago
+The Wall Street Journal • 3d ago
 
 ---
 
@@ -287,12 +287,6 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ---
 
-**[Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol](https://news.ycombinator.com/item?id=46149605)**
-
-⬆️ 1 • 💬 0 • 1d ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -333,7 +327,7 @@ After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 407 • 💬 54 • ⏱️ 1:34:16 • 12h ago
+👁️ 8K • 👍 407 • 💬 54 • ⏱️ 1:34:16 • 13h ago
 
 ---
 
@@ -343,7 +337,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 90K • 👍 6K • 💬 408 • ⏱️ 15:38 • 20h ago
+👁️ 90K • 👍 6K • 💬 408 • ⏱️ 15:38 • 21h ago
 
 ---
 
@@ -353,7 +347,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 330 • ⏱️ 10:13 • 17h ago
+👁️ 31K • 👍 2K • 💬 330 • ⏱️ 10:13 • 18h ago
 
 ---
 

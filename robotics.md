@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T08:19:21.576853+00:00'
+updated: '2025-12-06T08:42:57.709823+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 08:19 UTC  
+**Last Updated:** December 06, 2025 at 08:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 https://youtu.be/UAlm8Z4mfpU
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,15 @@ https://youtu.be/UAlm8Z4mfpU
 
 AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
 
-18h ago
+19h ago
+
+---
+
+**[Arduino Nano quadcopter build help](https://www.reddit.com/r/robotics/comments/1pfk3x2/arduino_nano_quadcopter_build_help/)**
+
+Hella everyone! I've been building this drone as my own personal test on my engineering knowledge as I've just finished my mechatronic systems engineering degree. Sorry if the post is too long but here is a TLDR: TLDR: My motors won't spin, arduino logic and wiring should be correct as it worked with an older QBRAIN 4in1 ESC. Suspecting one of my cells in my 3S battery to be dead. Initialization tone is heard but no arming tone and writing esc.writeMicroseconds(1000); in the loop. Also tried 1500us and 2000us. Still doesn't work. ---------------------------------------------------------------------------------------------------- Here is a list of components: Arduion Nano: CH340 chip and ATmega328P ESC: Radiolink FlyColour 4 in 1 ESC (EFM8BB21 MCU, 8-bit C8051 core) Motors: 4x 900Kv BLDC motors (No idea what brand, I just found them) RX/TX: FlySky iA6B receiver and FS-i6X transmitter Gyro: MPU-6050 Buck converter: LM2596 ---------------------------------------------------------------------------------------------------- My setup: I've got the arduino outputting PWM signals into my ESC's motor signal pins which has been mapped to 1000-2000us before being sent into the ESC. (I dont have an oscilloscope to verify) The arduino is powered through the buck converter which sees the full Lipo battery voltage at the input (Stepped down to 5v for the arduino and grounded at arduino gnd) The ESC is powered directly from the Lipo battery and I've connected one of the two grounds leading OUT of the ESC's jst connector into the arduino ground. M1 signal wire is connected to D8 of my arduino and M1 is the only one that is plugged in and powered by the ESC At the moment I just want to be able to command the motor speed through the arduino, no PID control, no serial UART communications just yet. ---------------------------------------------------------------------------------------------------- My Problem: I can hear the motors play the initalization musical tone, but no subsequent beeps for self test or arming and it will not spin. When using the exact same setup on an older QBRAIN 4 in 1 ESC it all worked. Including my PID control and iBUS UART communication. Except the arduino needed to be powered through the ESC's regulator instead of the battery + buck converter combo. ---------------------------------------------------------------------------------------------------- My Theory: One of the 3 cells on my battery is dead, ESC is not getting enough voltage and I'm an idiot ESC boots faster than arduino can and goes into fail safe mode EMI between the logic and power grounds Arduino can't output a fast enough PWM signal If anyone could point me in the right direction to troubleshoot it would be greatly appreciated. I will go buy a new battery in the morning to see if that is the problem. However in the meantime if anyone could point out any wiring issues from what I've described or if you require any more specific information about my setup please let me know. Otherwise feel free to criticize, hate or provide constructive suggestions to my project. ---------------------------------------------------------------------------------------------------- Extra questions: Is the arduino nano even a suitable MCU for this application? From my research it seems like there is not enough of a safety margin in terms of cycles/second to do PID math, read gyro data and send fast PWM signals. If anything is bunged out of order it could lead to a positive feedback loop and crash my drone Since it is an engineering project and not a drone building project I'd like to use something that i can program. What other microcontrollers can work in place of the nano? (Preferrably not something I need to use assembly and design an MCU from scratch, thats a whole another project) https://preview.redd.it/qdwmnaiw9j5g1.jpg?width=3024&format=pjpg&auto=webp&s=f7871ed8a913dcf55e474cf7cdb7787240a3b9c3
+
+28m ago
 
 ---
 
@@ -64,13 +72,13 @@ AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper 
 
 For a long time, many robotics teams believed that real robot interaction data was the only reliable foundation for training generalist manipulation models. But real-world data collection is extremely expensive, slow, and fundamentally limited by human labor. Recent results suggest the landscape is changing. Three industry signals stand out: 1. InternData-A1: Synthetic data beats the strongest real-world dataset Shanghai AI Lab’s new paper InternData-A1 (Nov 2025, arXiv) is the first to show that pure simulation data can match or outperform the best real-robot dataset used to train Pi0. The dataset is massive: 630k+ trajectories 7,434 hours 401M frames 4 robot embodiments, 18 skill types, 70 tasks $0.003 per trajectory generation cost One 8×RTX4090 workstation → 200+ hours of robot data per day Results: On RoboTwin2.0 (49 bimanual tasks): +5–6% success over Pi0 On 9 real-world tasks: +6.2% success Sim-to-Real: 1,600 synthetic samples ≈ 200 real samples (≈8:1 efficiency) The long-held “simulation quality discount” is shrinking fast. 2. GEN-0 exposes the economic impossibility of scaling real-world teleoperation Cross-validated numbers show: Human teleoperation cost per trajectory: $2–$10 Hardware systems: $30k–$40k 1 billion trajectories → $2–10 billion GEN-0’s own scaling law predicts that laundry alone would require 1B interactions for strong performance. https://preview.redd.it/qd8pkcdpfd5g1.png?width=556&format=png&auto=webp&s=1df2607476d3e63f5ca32edae1bf7319d97f1176 Even with Tesla-level resources, this is not feasible. That’s why GEN-0 relies on distributed UMI collection across thousands of sites instead of traditional teleoperation. 3. Tesla’s Optimus shifts dramatically: from mocap → human video imitation Timeline: 2022–2024: Tesla used full-body mocap suits + VR teleop; operators wore ~30 lb rigs, walked 7 hours/day, paid up to $48/hr. May 21, 2025: Tesla confirms:“Optimus is now learning new tasks directly from human videos.” June 2025: Tesla transitions to a vision-only approach, dropping mocap entirely. Their demo showed Optimus performing tasks like trash disposal, vacuuming, cabinet/microwave use, stirring, tearing paper towels, sorting industrial parts — all claimed to be controlled by a single end-to-end network. 4. So is real robot data obsolete? Not exactly. These developments indicate a shift, not a disappearance: Synthetic data (InternData-A1) is now strong enough to pre-train generalist policies Distributed real data (GEN-0) remains critical for grounding and calibration Pure video imitation (Tesla) offers unmatched scalability but still needs validation for fine manipulation All major approaches still rely on a small amount of real data for fine-tuning or evaluation Open Questions: Where do you think the field is heading? A synthetic-first paradigm? Video-only learning at scale? Hybrid pipelines mixing sim, video, and small real datasets? Or something entirely new? Curious to hear perspectives from researchers, roboticists, and anyone training embodied agents.
 
-20h ago
+21h ago
 
 ---
 
 **[Chat Interface for Isaac Sim](https://www.reddit.com/r/robotics/comments/1pfa7jb/chat_interface_for_isaac_sim/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -94,15 +102,7 @@ ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now avail
 
 Arthur C. Clarke said "Any sufficiently advanced technology is indistinguishable from magic". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 14h ago
-
----
-
-**[Marc Raibert on Why Robotics Needs More Transparency](https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/)**
-
-Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
-
-1d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 15h ago
 
 ---
 
@@ -180,11 +180,11 @@ CNN • 2d ago
 
 ---
 
-**[This Robotic Surgery Legend Is Pouring $100 Million Into Next-Gen Medical Startups](https://www.forbes.com/sites/amyfeldman/2025/12/03/robotic-surgery-legend-fred-moll-is-pouring-100-million-into-next-gen-medical-startups/)**
+**[Video: US humanoid robot nears human jogging pace in new running demo](https://interestingengineering.com/ai-robotics/figure-humanoid-nears-human-jogging-pace)**
 
-Fred Moll, the cofounder of $200 billion Intuitive Surgical, has invested in some 15 companies building robots that could help make both complex and common surgeries more accessible to everyone.
+Figure AI CEO Brett Adcock dropped a short, electrifying video on social media, teasing the extraordinary speed and agility of Figure 03 humanoid robot.
 
-Forbes • 20h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -208,7 +208,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 32K • 👍 938 • 💬 175 • ⏱️ 12:07 • 7h ago
+👁️ 32K • 👍 938 • 💬 175 • ⏱️ 12:07 • 8h ago
 
 ---
 

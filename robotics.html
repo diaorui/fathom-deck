@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-06T08:19:21.193413+00:00"
+          "dateModified": "2025-12-06T08:42:57.326824+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -715,6 +715,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pfk3x2/arduino_nano_quadcopter_build_help/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://b.thumbs.redditmedia.com/J3qB6YAlcRqT5TebIymaq3ZrGBWskzTLrHXLiGC70uU.jpg" alt="Arduino Nano quadcopter build help" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1pfk3x2/arduino_nano_quadcopter_build_help/" target="_blank" onclick="event.stopPropagation();">Arduino Nano quadcopter build help</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hella everyone! I've been building this drone as my own personal test on my engineering knowledge as I've just finished my mechatronic systems engineering degree. Sorry if the post is too long but here is a TLDR: TLDR: My motors won't spin, arduino logic and wiring should be correct as it worked with an older QBRAIN 4in1 ESC. Suspecting one of my cells in my 3S battery to be dead. Initialization tone is heard but no arming tone and writing esc.writeMicroseconds(1000); in the loop. Also tried 1500us and 2000us. Still doesn't work. ---------------------------------------------------------------------------------------------------- Here is a list of components: Arduion Nano: CH340 chip and ATmega328P ESC: Radiolink FlyColour 4 in 1 ESC (EFM8BB21 MCU, 8-bit C8051 core) Motors: 4x 900Kv BLDC motors (No idea what brand, I just found them) RX/TX: FlySky iA6B receiver and FS-i6X transmitter Gyro: MPU-6050 Buck converter: LM2596 ---------------------------------------------------------------------------------------------------- My setup: I've got the arduino outputting PWM signals into my ESC's motor signal pins which has been mapped to 1000-2000us before being sent into the ESC. (I dont have an oscilloscope to verify) The arduino is powered through the buck converter which sees the full Lipo battery voltage at the input (Stepped down to 5v for the arduino and grounded at arduino gnd) The ESC is powered directly from the Lipo battery and I've connected one of the two grounds leading OUT of the ESC's jst connector into the arduino ground. M1 signal wire is connected to D8 of my arduino and M1 is the only one that is plugged in and powered by the ESC At the moment I just want to be able to command the motor speed through the arduino, no PID control, no serial UART communications just yet. ---------------------------------------------------------------------------------------------------- My Problem: I can hear the motors play the initalization musical tone, but no subsequent beeps for self test or arming and it will not spin. When using the exact same setup on an older QBRAIN 4 in 1 ESC it all worked. Including my PID control and iBUS UART communication. Except the arduino needed to be powered through the ESC's regulator instead of the battery + buck converter combo. ---------------------------------------------------------------------------------------------------- My Theory: One of the 3 cells on my battery is dead, ESC is not getting enough voltage and I'm an idiot ESC boots faster than arduino can and goes into fail safe mode EMI between the logic and power grounds Arduino can't output a fast enough PWM signal If anyone could point me in the right direction to troubleshoot it would be greatly appreciated. I will go buy a new battery in the morning to see if that is the problem. However in the meantime if anyone could point out any wiring issues from what I've described or if you require any more specific information about my setup please let me know. Otherwise feel free to criticize, hate or provide constructive suggestions to my project. ---------------------------------------------------------------------------------------------------- Extra questions: Is the arduino nano even a suitable MCU for this application? From my research it seems like there is not enough of a safety margin in terms of cycles/second to do PID math, read gyro data and send fast PWM signals. If anything is bunged out of order it could lead to a positive feedback loop and crash my drone Since it is an engineering project and not a drone building project I'd like to use something that i can program. What other microcontrollers can work in place of the nano? (Preferrably not something I need to use assembly and design an MCU from scratch, thats a whole another project) https://preview.redd.it/qdwmnaiw9j5g1.jpg?width=3024&format=pjpg&auto=webp&s=f7871ed8a913dcf55e474cf7cdb7787240a3b9c3
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1765008838.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -960,41 +995,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/czZ0M2RhcXZrODVnMXDFs25VAGMQ7jD7P7IJtotqHhQXTfEBoVTtdkOU5sNG.png?width=640&crop=smart&auto=webp&s=1ce77a3ba16429df69e330a6878c87a7c4a26597" alt="Marc Raibert on Why Robotics Needs More Transparency" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/" target="_blank" onclick="event.stopPropagation();">Marc Raibert on Why Robotics Needs More Transparency</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1764878463.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1018,7 +1018,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-06T07:52:43.883938+00:00">Updated 2025-12-06T07:52:43.883938+00:00</small>
+        <small data-timestamp="2025-12-06T08:42:31.637688+00:00">Updated 2025-12-06T08:42:31.637688+00:00</small>
     </div>
 </div>
 
@@ -1569,20 +1569,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/amyfeldman/2025/12/03/robotic-surgery-legend-fred-moll-is-pouring-100-million-into-next-gen-medical-startups/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/figure-humanoid-nears-human-jogging-pace', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/692f228b911c0ef466d3b1a8/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2025/12/1.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/amyfeldman/2025/12/03/robotic-surgery-legend-fred-moll-is-pouring-100-million-into-next-gen-medical-startups/" target="_blank" onclick="event.stopPropagation();">This Robotic Surgery Legend Is Pouring $100 Million Into Next-Gen Medical Startups</a>
+                            <a href="https://interestingengineering.com/ai-robotics/figure-humanoid-nears-human-jogging-pace" target="_blank" onclick="event.stopPropagation();">Video: US humanoid robot nears human jogging pace in new running demo</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Fred Moll, the cofounder of $200 billion Intuitive Surgical, has invested in some 15 companies building robots that could help make both complex and common surgeries more accessible to everyone.
+                            Figure AI CEO Brett Adcock dropped a short, electrifying video on social media, teasing the extraordinary speed and agility of Figure 03 humanoid robot.
                         </div>
                         
 
@@ -1592,9 +1592,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Interesting Engineering" class="news-favicon">
+                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
                                     
                                 </div>
                                 
@@ -1602,7 +1602,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1764934200.0"></span>
+                                    <span data-timestamp="1764924840.0"></span>
                                 </div>
                                 
                             </div>
@@ -1630,7 +1630,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-06T07:52:58.391691+00:00">Updated 2025-12-06T07:52:58.391691+00:00</small>
+        <small data-timestamp="2025-12-06T08:42:45.369134+00:00">Updated 2025-12-06T08:42:45.369134+00:00</small>
     </div>
 </div>
 

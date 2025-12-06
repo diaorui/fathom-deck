@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T08:19:21.559306+00:00'
+updated: '2025-12-06T08:42:57.692125+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 08:19 UTC  
+**Last Updated:** December 06, 2025 at 08:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 18h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 19h ago
 
 ---
 
@@ -103,7 +103,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
 
-14h ago
+15h ago
 
 ---
 
@@ -133,37 +133,11 @@ The New York Times • 22h ago
 
 ---
 
-**[AI Stocks Are a Bet on the Future. Markets Are Ignoring the Now.](https://www.barrons.com/articles/ai-stocks-market-price-b6350469?gaa_at=eafs&gaa_n=AWEtsqe58HPmHGmGWTu8pW-ZwitmPiBsH5_RWqTt98sCyW0INsj472NyuZXR&gaa_ts=6933e44a&gaa_sig=cA4dx8EKMb96locWNHI_pTQS3YzUoaKaF3jLqPQSaPyJZQw5MNQ7a_dGxldUtOillmbC3qs7XjSB_OTHfd4JkA%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[AI industry not in a bubble, but stocks could see correction, SK chief says](https://www.reuters.com/world/asia-pacific/ai-industry-not-bubble-stocks-could-see-correction-sk-chief-says-2025-12-05/)**
-
-Reuters • 23h ago
-
----
-
-**[Is This AI Software Stock About to Have Its Nvidia Moment?](https://www.nasdaq.com/articles/ai-software-stock-about-have-its-nvidia-moment)**
-
-Key PointsPalantir's growing influence in the AI software market suggests that it has the potential to become the Nvidia of this sector.
-
-Nasdaq • 9h ago
-
----
-
 **[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
 
 While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
 Fortune • 1d ago
-
----
-
-**[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
-
-The Economist • 1d ago
 
 ---
 
@@ -191,6 +165,36 @@ CNBC • 12h ago
 
 ---
 
+**[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
+
+Reuters • 13h ago
+
+---
+
+**[Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)**
+
+Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
+
+TechCrunch • 11h ago
+
+---
+
+**[To AI or not to AI? Do college students appreciate the question?](https://www.npr.org/2025/12/05/nx-s1-5634649/to-ai-or-not-to-ai-do-college-students-appreciate-the-question)**
+
+Students are using AI tools more than ever. An Angelo State University professor designed a way to figure out if his students were using artificial intelligence on a recent paper.We speak with Will Teague, who says students are sacrificing their own agency to artificial intelligence. For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Henry Larson and Karen Zamora, with additional reporting by Ayana Archie and Lee V. Gaines. It was edited by Justine Kenin and Courtney Dorning. Our executive producer is Sami Yenigun.
+
+NPR • 11h ago
+
+---
+
+**[The Strange Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/)**
+
+Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
+
+The Atlantic • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -199,7 +203,7 @@ CNBC • 12h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 950 • 💬 1052 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 950 • 💬 1054 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -215,15 +219,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 681 • 💬 647 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
-
----
-
-**[Microsoft drops AI sales targets in half after salespeople miss their quotas](https://news.ycombinator.com/item?id=46148748)**
-
-Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
-
-⬆️ 428 • 💬 332 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 682 • 💬 647 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -231,7 +227,23 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 424 • 💬 213 • 16h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 440 • 💬 219 • 16h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+
+---
+
+**[Microsoft drops AI sales targets in half after salespeople miss their quotas](https://news.ycombinator.com/item?id=46148748)**
+
+Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
+
+⬆️ 429 • 💬 332 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+
+---
+
+**[YouTube caught making AI-edits to videos and adding misleading AI summaries](https://news.ycombinator.com/item?id=46169554)**
+
+Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
+
+⬆️ 263 • 💬 141 • 7h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -248,14 +260,6 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume
 
 ⬆️ 238 • 💬 191 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
-
----
-
-**[YouTube caught making AI-edits to videos and adding misleading AI summaries](https://news.ycombinator.com/item?id=46169554)**
-
-Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
-
-⬆️ 237 • 💬 134 • 7h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -315,7 +319,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 32K • 👍 938 • 💬 175 • ⏱️ 12:07 • 7h ago
+👁️ 32K • 👍 938 • 💬 175 • ⏱️ 12:07 • 8h ago
 
 ---
 
@@ -345,7 +349,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 13K • 👍 152 • 💬 24 • ⏱️ 22:41 • 8h ago
+👁️ 13K • 👍 152 • 💬 24 • ⏱️ 22:41 • 9h ago
 
 ---
 
@@ -375,7 +379,7 @@ A poor little girl always dreamed of flying. Today, her loving Dadaji takes her 
 
 📺 AI GANESHA 
 
-👁️ 15K • ⏱️ 0:31 • 5h ago
+👁️ 15K • ⏱️ 0:31 • 6h ago
 
 ---
 
@@ -391,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,151 • 3d ago
+⬇️ 152,916 • ❤️ 2,154 • 3d ago
 
 ---
 
@@ -403,7 +407,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 13,541 • ❤️ 735 • 4d ago
+⬇️ 13,541 • ❤️ 736 • 4d ago
 
 ---
 
@@ -471,7 +475,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 192,451 • ❤️ 901 • 8d ago
+⬇️ 192,451 • ❤️ 902 • 8d ago
 
 ---
 
@@ -687,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 831 • 🔱 104 • 10h ago
+⭐ 831 • 🔱 104 • 11h ago
 
 ---
 

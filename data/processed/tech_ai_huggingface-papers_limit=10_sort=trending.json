@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2512.02589",
       "arxiv_url": "https://arxiv.org/abs/2512.02589",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2512.02589.png",
-      "upvotes": 24,
+      "upvotes": 25,
       "num_comments": 2,
       "published_at": "2025-12-02T05:00:37.000Z",
       "github_repo": "https://github.com/PaperDebugger/PaperDebugger",
@@ -77,25 +77,6 @@
       "project_page": "https://reward-forcing.github.io/"
     },
     {
-      "id": "2511.16719",
-      "title": "SAM 3: Segment Anything with Concepts",
-      "authors": "Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)",
-      "organization_name": "facebook",
-      "organization_fullname": "AI at Meta",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1592839207516-noauth.png",
-      "summary": "We present Segment Anything Model (SAM) 3, a unified model that detects, segments, and tracks objects in images and videos based on concept prompts, which we define as either short noun phrases (e.g., \"yellow school bus\"), image exemplars, or a combination of both. Promptable Concept Segmentation (PCS) takes such prompts and returns segmentation masks and unique identities for all matching object instances. To advance PCS, we build a scalable data engine that produces a high-quality dataset with 4M unique concept labels, including hard negatives, across images and videos. Our model consists of an image-level detector and a memory-based video tracker that share a single backbone. Recognition and localization are decoupled with a presence head, which boosts detection accuracy. SAM 3 doubles the accuracy of existing systems in both image and video PCS, and improves previous SAM capabilities on visual segmentation tasks. We open source SAM 3 along with our new Segment Anything with Concepts (SA-Co) benchmark for promptable concept segmentation.",
-      "ai_summary": "Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.",
-      "hf_url": "https://huggingface.co/papers/2511.16719",
-      "arxiv_url": "https://arxiv.org/abs/2511.16719",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
-      "upvotes": 105,
-      "num_comments": 4,
-      "published_at": "2025-11-20T13:59:56.000Z",
-      "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 5285,
-      "project_page": "https://ai.meta.com/sam3/"
-    },
-    {
       "id": "2410.05779",
       "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
       "authors": "Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)",
@@ -113,6 +94,25 @@
       "github_repo": "https://github.com/hkuds/lightrag",
       "github_stars": 25437,
       "project_page": null
+    },
+    {
+      "id": "2511.16719",
+      "title": "SAM 3: Segment Anything with Concepts",
+      "authors": "Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)",
+      "organization_name": "facebook",
+      "organization_fullname": "AI at Meta",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1592839207516-noauth.png",
+      "summary": "We present Segment Anything Model (SAM) 3, a unified model that detects, segments, and tracks objects in images and videos based on concept prompts, which we define as either short noun phrases (e.g., \"yellow school bus\"), image exemplars, or a combination of both. Promptable Concept Segmentation (PCS) takes such prompts and returns segmentation masks and unique identities for all matching object instances. To advance PCS, we build a scalable data engine that produces a high-quality dataset with 4M unique concept labels, including hard negatives, across images and videos. Our model consists of an image-level detector and a memory-based video tracker that share a single backbone. Recognition and localization are decoupled with a presence head, which boosts detection accuracy. SAM 3 doubles the accuracy of existing systems in both image and video PCS, and improves previous SAM capabilities on visual segmentation tasks. We open source SAM 3 along with our new Segment Anything with Concepts (SA-Co) benchmark for promptable concept segmentation.",
+      "ai_summary": "Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.",
+      "hf_url": "https://huggingface.co/papers/2511.16719",
+      "arxiv_url": "https://arxiv.org/abs/2511.16719",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
+      "upvotes": 105,
+      "num_comments": 4,
+      "published_at": "2025-11-20T13:59:56.000Z",
+      "github_repo": "https://github.com/facebookresearch/sam3",
+      "github_stars": 5298,
+      "project_page": "https://ai.meta.com/sam3/"
     },
     {
       "id": "2412.20138",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-06T05:43:53.383779+00:00"
+  "fetched_at": "2025-12-06T06:51:36.875366+00:00"
 }

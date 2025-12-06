@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T10:55:03.523781+00:00'
+updated: '2025-12-06T11:16:31.755047+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 10:55 UTC  
+**Last Updated:** December 06, 2025 at 11:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
+**24h:** -1.6%  
 **7d:** -1.0%  
 **30d:** -13.5%  
 **90d:** -19.9%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1787.27B
+**Market Cap:** $1786.77B
 Rank #1
 
-**Circulating Supply:** 19,958,253 BTC
+**Circulating Supply:** 19,958,278 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-29.0%
 
 **All-Time Low:** $67.81
-+132010.3%
++131929.2%
 
 ---
 
@@ -83,12 +83,6 @@ Rank #1
 
 ---
 
-**[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
-
-17h ago
-
----
-
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
 2h ago
@@ -97,7 +91,13 @@ Rank #1
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-28m ago
+49m ago
+
+---
+
+**[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
+
+17h ago
 
 ---
 
@@ -137,7 +137,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
 
-14h ago
+15h ago
 
 ---
 
@@ -153,9 +153,11 @@ Bloomberg.com • 4h ago
 
 ---
 
-**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqfUGfCzp-ISBymMpL-QH2e92Tosi1A37RQkMtZadFYCDdRxu2_n0Q9I&gaa_ts=69340c74&gaa_sig=aboxIP2AeZlmsUntF93QIRi7fR6cVnnxR6Frhtt7yfQ8opou0qEWsjgEtKGKBC0vYKrbz4pTXIHhxiWvG9aGvQ%3D%3D)**
+**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
 
-Barron's • 2d ago
+Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
+
+Yahoo Finance • 20h ago
 
 ---
 
@@ -167,19 +169,19 @@ Yahoo Finance • 2h ago
 
 ---
 
+**[Bitcoin mining news: ABTC shares plunge, miners face breakeven costs, IREN prices $3.6B offering](https://finance.yahoo.com/news/bitcoin-mining-news-abtc-shares-100000879.html)**
+
+This week in bitcoin mining news, an American Bitcoin share unlock tumbles the ABTC price, and IREN eyes the largest capital raise ever for a bitcoin miner.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Strategy CEO Says $1.44B Cash Reserve Aims to Calm Bitcoin-Slump Fears](https://finance.yahoo.com/news/strategy-ceo-says-1-44b-082819714.html)**
 
 Strategy CEO Phong Le says the company’s newly built $1.44 billion cash reserve is designed to quiet investor anxiety over its ability to withstand a sharp downturn in Bitcoin. Key Takeaways: Strategy built a $1.44B cash reserve to ease investor fears about its ability to meet dividend and debt obligations. ...
 
 Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin mining news: ABTC shares plunge, miners face breakeven costs, IREN prices $3.6B offering](https://finance.yahoo.com/news/bitcoin-mining-news-abtc-shares-100000879.html)**
-
-This week in bitcoin mining news, an American Bitcoin share unlock tumbles the ABTC price, and IREN eyes the largest capital raise ever for a bitcoin miner.
-
-Yahoo Finance • 55m ago
 
 ---
 
@@ -197,21 +199,25 @@ CNBC • 1d ago
 
 ---
 
-**[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
+**[Jim Cramer Notes Strategy’s Transformation into a “Bitcoin Accumulation Machine Fueled by Borrowed Money”](https://finance.yahoo.com/news/jim-cramer-notes-strategy-transformation-034534866.html)**
 
-The Block • 1d ago
+Strategy Inc (NASDAQ:MSTR) is one of the stocks Jim Cramer recently looked at. Cramer mentioned the stock during the episode and said: “In this business, nothing’s harder than spotting bottoms… What matters the most here is not Bitcoin itself, but a company called Strategy run by Michael Saylor, a Bitcoin evangelist who’s adopted what I […]
 
----
-
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeoMzJmaGXdeRuk8zEc4khD0uRiZCdRGTutOyOykAb26AIAkdC-gXkQ&gaa_ts=69340c74&gaa_sig=X6zoq6xqaZZOBNSawizOPpI0HB4X8VsxZi2GEnd5vYva2kGCWRB0rWAFsGspalPtvG274qreZpzEitNY4VRBVw%3D%3D)**
-
-MarketWatch • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqe1eZPvI8UOs3JGFRcDc4vQxuSycQTi6yTNznvqKO_QBBnEt56-3syT&gaa_ts=69340c74&gaa_sig=h4wErYYZcY20CgfmuaTSxDQeM9yZUvvMY4P1WVLZ-ZiAYuTxureVMnOgd4esvoQuS8nTUvDSJEY8tvhx6EaSiw%3D%3D)**
+**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqdclsCKd_CDZBpF0RkL9aNRkTzuhO9yH0YzYYVRSqvUHUJIaFwofQZ3&gaa_ts=693413fd&gaa_sig=jBbxuNtnN2RvMW1EAK3_mjVAJIcKqyuHYrefoWnlLBAHinoLaf50HkGgnth12PAX-gFlgVspc-HnYRP2VY_HdQ%3D%3D)**
 
-The Wall Street Journal • 3d ago
+Barron's • 2d ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
+
+Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
+
+Decrypt • 2d ago
 
 ---
 
@@ -295,7 +301,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 25K • 👍 2K • 💬 333 • ⏱️ 10:23 • 17h ago
+👁️ 25K • 👍 2K • 💬 333 • ⏱️ 10:23 • 18h ago
 
 ---
 
@@ -335,7 +341,7 @@ Everyone is screaming that Bitcoin is either going to zero or hitting a million 
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 268 • ⏱️ 12:20 • 12h ago
+👁️ 24K • 👍 2K • 💬 268 • ⏱️ 12:20 • 13h ago
 
 ---
 
@@ -385,7 +391,7 @@ Michael Saylor isn't just bullish — he's placing Bitcoin inside a countdown. B
 
 📺 The Bitcoin Revolution
 
-👁️ 2K • 👍 71 • 💬 61 • ⏱️ 13:29 • 18h ago
+👁️ 2K • 👍 71 • 💬 61 • ⏱️ 13:29 • 19h ago
 
 ---
 

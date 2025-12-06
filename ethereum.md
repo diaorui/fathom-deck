@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T10:55:03.529708+00:00'
+updated: '2025-12-06T11:16:31.761004+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 10:55 UTC  
+**Last Updated:** December 06, 2025 at 11:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** +1.2%  
-**30d:** -11.8%  
-**90d:** -29.8%  
-**1y:** -24.4%  
+**24h:** -3.0%  
+**7d:** +1.4%  
+**30d:** -11.7%  
+**90d:** -29.6%  
+**1y:** -24.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.91B
+**Market Cap:** $365.97B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.7%
+-38.6%
 
 **All-Time Low:** $0.43
-+700615.3%
++700982.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -81,14 +81,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
 🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 6h ago
-
----
-
-**[Odysee has integrated Wander Connect for the CLabs team for the Arweave ecosystem.](https://www.reddit.com/r/ethereum/comments/1pfiq9r/odysee_has_integrated_wander_connect_for_the/)**
-
-How to install the Wander Wallet browser extension?
-
-🔗 [help.odysee.tv](https://help.odysee.tv/category-monetization/wander/) • 4h ago
 
 ---
 
@@ -113,6 +105,14 @@ This is Part Six of the eight-part series: Can I Pay With This: A stablecoin exp
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[Odysee has integrated Wander Connect for the CLabs team for the Arweave ecosystem.](https://www.reddit.com/r/ethereum/comments/1pfiq9r/odysee_has_integrated_wander_connect_for_the/)**
+
+How to install the Wander Wallet browser extension?
+
+🔗 [help.odysee.tv](https://help.odysee.tv/category-monetization/wander/) • 4h ago
 
 ---
 
@@ -326,7 +326,7 @@ Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydf
 
 📺 BitBoy X
 
-👁️ 4K • 👍 241 • ⏱️ 25:41 • 17h ago
+👁️ 4K • 👍 241 • ⏱️ 25:41 • 18h ago
 
 ---
 

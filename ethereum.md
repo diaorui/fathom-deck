@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T13:05:41.602234+00:00'
+updated: '2025-12-06T13:34:41.907773+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 13:05 UTC  
+**Last Updated:** December 06, 2025 at 13:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +1.3%  
-**30d:** -11.7%  
-**90d:** -29.7%  
-**1y:** -24.3%  
+**24h:** -2.6%  
+**7d:** +1.2%  
+**30d:** -11.9%  
+**90d:** -29.8%  
+**1y:** -24.4%  
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 2d ago
 
 **[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
 
-TipRanks • 23h ago
+TipRanks • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ cheddar.com • 1d ago
 
 Antithesis said its Series A will scale deterministic simulation testing, replaying complex failures exactly for crypto and other always-on systems.
 
-CoinDesk • 2d ago
+CoinDesk • 3d ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 139 • 💬 26 • ⏱️ 5:46 • 9h ago
+👁️ 2K • 👍 139 • 💬 26 • ⏱️ 5:46 • 10h ago
 
 ---
 
@@ -306,7 +306,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 480 • 👍 35 • 💬 6 • ⏱️ 7:09 • 17h ago
+👁️ 480 • 👍 35 • 💬 6 • ⏱️ 7:09 • 18h ago
 
 ---
 
@@ -326,7 +326,7 @@ The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was
 
 📺 Altcoin Buzz
 
-👁️ 3K • 👍 142 • 💬 199 • ⏱️ 9:21 • 23h ago
+👁️ 3K • 👍 142 • 💬 199 • ⏱️ 9:21 • 1d ago
 
 ---
 

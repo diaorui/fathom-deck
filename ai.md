@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T13:05:41.589178+00:00'
+updated: '2025-12-06T13:34:41.893388+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 13:05 UTC  
+**Last Updated:** December 06, 2025 at 13:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 19h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 20h ago
 
 ---
 
@@ -49,7 +49,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 2h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 I'm just curious about the differences, I'm not super educated on this, and I figured this place would know more than me
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 23h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 If you use AI for writing, have you found a way for it to capture your voice so that the output doesn’t sound like it was written by artificial intelligence?
 
-🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 24m ago
+🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 53m ago
 
 ---
 
@@ -121,7 +121,7 @@ Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York T
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 20h ago
+The Keyword • 21h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 2h ago
+ABC News • 3h ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 1h ago
 
 Two AI stocks especially stand out.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Motley Fool • 6h ago
 
 Key PointsDemand for Palantir's software tools has ushered in a wave of accelerated revenue and profit growth.
 
-Nasdaq • 13h ago
+Nasdaq • 14h ago
 
 ---
 
@@ -183,13 +183,13 @@ Fortune • 1d ago
 
 Students are using AI tools more than ever. An Angelo State University professor designed a way to figure out if his students were using artificial intelligence on a recent paper.We speak with Will Teague, who says students are sacrificing their own agency to artificial intelligence. For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Henry Larson and Karen Zamora, with additional reporting by Ayana Archie and Lee V. Gaines. It was edited by Justine Kenin and Courtney Dorning. Our executive producer is Sami Yenigun.
 
-NPR • 15h ago
+NPR • 16h ago
 
 ---
 
 **[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -225,7 +225,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 481 • 💬 240 • 20h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 481 • 💬 240 • 21h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -241,7 +241,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 328 • 💬 181 • 11h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 328 • 💬 181 • 12h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -273,7 +273,7 @@ Multiple divisions at Microsoft have lowered sales growth targets for certain ar
 
 Welcome to the slop era.
 
-⬆️ 91 • 💬 171 • 19h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 91 • 💬 171 • 20h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -307,7 +307,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 16K • 👍 186 • 💬 25 • ⏱️ 22:41 • 13h ago
+👁️ 16K • 👍 186 • 💬 25 • ⏱️ 22:41 • 14h ago
 
 ---
 
@@ -317,7 +317,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 38K • 👍 1K • 💬 203 • ⏱️ 12:07 • 12h ago
+👁️ 38K • 👍 1K • 💬 203 • ⏱️ 12:07 • 13h ago
 
 ---
 
@@ -357,7 +357,7 @@ Senior Army soldier makes a train of gold for a couple#ai #shorts An old grandfa
 
 📺 Rudra K Ai
 
-👁️ 15K • ⏱️ 0:26 • 4h ago
+👁️ 15K • ⏱️ 0:26 • 5h ago
 
 ---
 
@@ -503,20 +503,6 @@ Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 18 • 💬 2 • ⭐ 4,751 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -531,6 +517,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 18 • 💬 2 • ⭐ 4,810 • 9d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://huggingface.co/papers/2512.02589)**
 
 *Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)*
@@ -539,7 +539,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 27 • 💬 2 • ⭐ 271 • 4d ago
+▲ 28 • 💬 2 • ⭐ 324 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -551,7 +551,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.
 
-▲ 31 • 💬 3 • ⭐ 90 • 2d ago
+▲ 31 • 💬 3 • ⭐ 97 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04678) • [💻 code](https://github.com/JaydenLyh/Reward-Forcing) • [🔗 project](https://reward-forcing.github.io/)
 
@@ -647,7 +647,7 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.2k • 🔱 403 • 1d ago
+⭐ 5.2k • 🔱 404 • 1d ago
 
 ---
 
@@ -687,7 +687,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 848 • 🔱 104 • 42m ago
+⭐ 854 • 🔱 104 • 1h ago
 
 ---
 
@@ -707,7 +707,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 800 • 🔱 20 • 10d ago
+⭐ 801 • 🔱 21 • 10d ago
 
 ---
 
@@ -727,7 +727,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 726 • 🔱 14 • 17d ago
+⭐ 727 • 🔱 14 • 17d ago
 
 ---
 
@@ -737,7 +737,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 608 • 🔱 208 • 6h ago
+⭐ 619 • 🔱 208 • 6h ago
 
 ---
 

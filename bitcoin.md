@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T13:05:41.596898+00:00'
+updated: '2025-12-06T13:34:41.901702+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 13:05 UTC  
+**Last Updated:** December 06, 2025 at 13:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,448.00
+### $89,571.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -1.0%  
-**30d:** -13.5%  
-**90d:** -19.9%  
-**1y:** -10.2%  
+**24h:** -0.8%  
+**7d:** -1.1%  
+**30d:** -13.6%  
+**90d:** -20.0%  
+**1y:** -10.3%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -131,13 +131,13 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
 
-16h ago
+17h ago
 
 ---
 
 **[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -149,7 +149,7 @@ Charts like this always remind me why time in the market beats timing the market
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 6h ago
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 22h ago
 
 A newly introduced bill in Indiana would require public retirement programs to offer Bitcoin-related investment options and would also limit how much power local governments have to restrict the use of digital assets.The proposal was filed on Thursday by State Representative Kyle Pierce, a Republican from Anderson. Known as House ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 4h ago
 
 Coinbase says the crypto market is entering a December recovery phase as liquidity improves and macro conditions turn more supportive.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Economist • 2d ago
 
 Lower adjusted net asset value multiple means Strategy can no longer issue equity at a premium, threatening its long-term plan to accumulate more bitcoin, analyst Brett Knoblauch wrote.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -329,7 +329,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 2K • 💬 395 • ⏱️ 10:13 • 22h ago
+👁️ 32K • 👍 2K • 💬 395 • ⏱️ 10:13 • 23h ago
 
 ---
 
@@ -359,7 +359,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 11K • 👍 97 • 💬 152 • ⏱️ 4:01 • 16h ago
+👁️ 11K • 👍 97 • 💬 152 • ⏱️ 4:01 • 17h ago
 
 ---
 

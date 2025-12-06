@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T10:28:32.525770+00:00'
+updated: '2025-12-06T10:44:32.382896+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 10:28 UTC  
+**Last Updated:** December 06, 2025 at 10:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,6 +53,14 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 ---
 
+**["Godmother of AI" Fei-Fei Li disappointed by AI's messaging: Either doomsday or total utopian](https://www.reddit.com/r/artificial/comments/1pflyfu/godmother_of_ai_feifei_li_disappointed_by_ais/)**
+
+Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
+
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 30m ago
+
+---
+
 **[AI Slop Is Ruining Reddit for Everyone](https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/)**
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
@@ -83,14 +91,6 @@ Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York T
 
 ---
 
-**[AMD CEO Lisa Su “emphatically” rejects talk of an AI bubble — says claims are "somewhat overstated” and that AI is still in its infancy | AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.](https://www.reddit.com/r/artificial/comments/1pf9pl1/amd_ceo_lisa_su_emphatically_rejects_talk_of_an/)**
-
-AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 11h ago
-
----
-
 **[Meta eyes budget cuts for its metaverse group as CEO Mark Zuckerberg doubles down on AI](https://www.reddit.com/r/artificial/comments/1peczz9/meta_eyes_budget_cuts_for_its_metaverse_group_as/)**
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
@@ -107,11 +107,11 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 ---
 
-**[Using AI as a "blandness detector" instead of a content generator](https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/)**
+**[AMD CEO Lisa Su “emphatically” rejects talk of an AI bubble — says claims are "somewhat overstated” and that AI is still in its infancy | AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.](https://www.reddit.com/r/artificial/comments/1pf9pl1/amd_ceo_lisa_su_emphatically_rejects_talk_of_an/)**
 
-Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
+AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
 
-13h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 11h ago
 
 ---
 
@@ -133,27 +133,27 @@ The New York Times • 1d ago
 
 ---
 
-**[Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More Than Palantir in 2026](https://www.nasdaq.com/articles/prediction-artificial-intelligence-ai-stock-will-be-worth-more-palantir-2026)**
+**[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
 
-Key PointsDemand for Palantir's software tools has ushered in a wave of accelerated revenue and profit growth.
+AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-Nasdaq • 10h ago
-
----
-
-**[Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More Than Palantir in 2026](https://www.fool.com/investing/2025/12/05/prediction-this-artificial-intelligence-ai-stock-w/)**
-
-Palantir stock has gained more than 2,000% since the AI revolution kicked off three years ago.
-
-The Motley Fool • 11h ago
+ABC News • 37m ago
 
 ---
 
-**[Prediction: 2 AI Stocks Will Be Worth More Than Nvidia and Palantir Technologies Combined in 2026](https://finance.yahoo.com/news/prediction-2-ai-stocks-worth-082600633.html)**
+**[Using AI to plan your holiday travel? Why that's a mistake](https://qz.com/ai-holiday-travel-planning-tips)**
 
-Alphabet and Microsoft could surpass the combined market value of Nvidia and Palantir before the end of next year.
+AI might pull information from the previous availability and hours, but many places have different availability or hours during the holidays
 
-Yahoo Finance • 2h ago
+qz.com • 42m ago
+
+---
+
+**[How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup](https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12)**
+
+24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
+
+Business Insider • 44m ago
 
 ---
 
@@ -169,7 +169,7 @@ Fortune • 1d ago
 
 Students are using AI tools more than ever. An Angelo State University professor designed a way to figure out if his students were using artificial intelligence on a recent paper.We speak with Will Teague, who says students are sacrificing their own agency to artificial intelligence. For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Henry Larson and Karen Zamora, with additional reporting by Ayana Archie and Lee V. Gaines. It was edited by Justine Kenin and Courtney Dorning. Our executive producer is Sami Yenigun.
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
@@ -177,17 +177,19 @@ NPR • 12h ago
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
-**[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
+**[Meta buys AI pendant start-up Limitless to expand hardware push](https://www.ft.com/content/a1a7adab-506e-4623-8f7a-0b7c94c8d6b4)**
 
-Reuters • 15h ago
+Deal indicates Zuckerberg is exploring other types of artificial intelligence-powered devices beyond smart glasses
+
+Financial Times • 12h ago
 
 ---
 
-**[Meta Platforms Buys AI Device Maker Limitless](https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqde3_9YpYel8yWBJD_IQZhFq1_SPXK9tDD5cFB12DV12Eqo2-GgIR8X&gaa_ts=693401d3&gaa_sig=ah0561k9C6MItzcVsHViB1amPYTqFujxJiGAaHYuvI-L8eH85VkAEbfGCEq2CoqDP5hShNBiLEaUHWk_n__how%3D%3D)**
+**[Meta Platforms Buys AI Device Maker Limitless](https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqdzuHrcLLrTtQhlLFPUEceDa7mjGjsdfaq8CSsXrkIQZ2ZCUPk9nJ9E&gaa_ts=69340c72&gaa_sig=s6-ABNwPA8AUpc5EztKT4v7HBwwC5hQaUZMq0XzPe-OkT9oFu2rxP9NOguVh5Yp6QX8aiTqI5BVkGyF1yqz3Pw%3D%3D)**
 
 The Wall Street Journal • 12h ago
 
@@ -225,7 +227,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 456 • 💬 225 • 18h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 461 • 💬 228 • 18h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -241,7 +243,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 289 • 💬 152 • 9h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 300 • 💬 156 • 9h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -317,7 +319,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 15K • 👍 170 • 💬 36 • ⏱️ 22:41 • 10h ago
+👁️ 15K • 👍 170 • 💬 36 • ⏱️ 22:41 • 11h ago
 
 ---
 
@@ -327,7 +329,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 191 • ⏱️ 12:07 • 9h ago
+👁️ 35K • 👍 1K • 💬 191 • ⏱️ 12:07 • 10h ago
 
 ---
 
@@ -393,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,158 • 3d ago
+⬇️ 169,515 • ❤️ 2,162 • 3d ago
 
 ---
 
@@ -405,7 +407,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 737 • 4d ago
+⬇️ 18,140 • ❤️ 738 • 4d ago
 
 ---
 
@@ -417,7 +419,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 4,718 • ❤️ 515 • 4d ago
+⬇️ 4,718 • ❤️ 516 • 4d ago
 
 ---
 
@@ -429,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 318 • 1d ago
+⬇️ 20,067 • ❤️ 322 • 1d ago
 
 ---
 
@@ -441,7 +443,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,530 • ❤️ 338 • 4d ago
+⬇️ 2,530 • ❤️ 339 • 4d ago
 
 ---
 
@@ -485,7 +487,7 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 `text-generation` `685.4B`
 
-⬇️ 8,960 • ❤️ 637 • 8d ago
+⬇️ 8,960 • ❤️ 637 • 9d ago
 
 ---
 
@@ -689,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 835 • 🔱 104 • 12h ago
+⭐ 835 • 🔱 104 • 13h ago
 
 ---
 
@@ -699,7 +701,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 823 • 🔱 42 • 4h ago
+⭐ 823 • 🔱 42 • 5h ago
 
 ---
 

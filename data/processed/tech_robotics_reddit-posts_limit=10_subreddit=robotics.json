@@ -90,6 +90,17 @@
       "description": null
     },
     {
+      "title": "Making a Marauder's Map from Harry Potter",
+      "author": "davesarmoury",
+      "url": "https://www.reddit.com/r/robotics/comments/1pf1agl/making_a_marauders_map_from_harry_potter/",
+      "published": 1764956101.0,
+      "thumbnail": "https://external-preview.redd.it/lkbyF5afhW6Htup7fUyNQVABCSEpJ946WVXQNrql7uM.jpeg?width=320&crop=smart&auto=webp&s=7bd8c748c2ede63e1e653ef9114a146b3f7c00ea",
+      "external_url": "https://www.youtube.com/watch?v=dO32ImnsX-4",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
+      "description": "Arthur C. Clarke said \"Any sufficiently advanced technology is indistinguishable from magic\". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!"
+    },
+    {
       "title": "Behind-the-scenes footage from the EngineAI T800 shoot \u2014 a direct response to the CG accusations.",
       "author": "Ready_Device8994",
       "url": "https://www.reddit.com/r/robotics/comments/1peipg7/behindthescenes_footage_from_the_engineai_t800/",
@@ -99,18 +110,7 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "ROS News for the Week of December 2nd, 2025",
-      "author": "OpenRobotics",
-      "url": "https://www.reddit.com/r/robotics/comments/1pf5ccu/ros_news_for_the_week_of_december_2nd_2025/",
-      "published": 1764965493.0,
-      "thumbnail": "https://external-preview.redd.it/ZRxQSYvz7RK70LarVkZ0JsNr2rRueei96seBmDJoatU.gif?width=640&crop=smart&s=480960cabf1c914aa731ede8c40bec3c3fb4a693",
-      "external_url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298",
-      "site_name": "Open Robotics Discourse",
-      "favicon": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/4/4/4487d2db196c8ca556e8bfac980ed3850ba5cbd5_2_180x180.png",
-      "description": "ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now available! If you want a quick summary of the event I put together ROSCon 2025 Recap for the OpenCV Weekly Webinar.       For Giving Tuesday we put together a new campaign for ROS users to become a become a Build Farm Backer. If you\u2019ve every saved a few minutes by running sudo apt install ros-kilted-* instead of compiling from source we would love it if you helped cover our compute costs. Also, for the first time ever, we..."
     }
   ],
-  "fetched_at": "2025-12-06T09:58:44.296206+00:00"
+  "fetched_at": "2025-12-06T10:44:03.604586+00:00"
 }

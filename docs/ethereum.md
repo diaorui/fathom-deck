@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T10:28:32.540106+00:00'
+updated: '2025-12-06T10:44:32.397470+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 10:28 UTC  
+**Last Updated:** December 06, 2025 at 10:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
-**7d:** +1.4%  
+**24h:** -3.3%  
+**7d:** +1.3%  
 **30d:** -11.7%  
 **90d:** -29.7%  
 **1y:** -24.3%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.87B
+**Market Cap:** $365.91B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
@@ -62,7 +62,7 @@ No max supply
 -38.7%
 
 **All-Time Low:** $0.43
-+699950.1%
++700615.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 5h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 6h ago
 
 ---
 
@@ -136,7 +136,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 22h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 23h ago
 
 ---
 
@@ -160,6 +160,14 @@ Decrypt • 2d ago
 
 ---
 
+**[Ethereum Is Jumping Today-Here's Why](https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why)**
+
+Key PointsEthereum receives a major update today that should improve its ability to scale.
+
+Nasdaq • 2d ago
+
+---
+
 **[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html)**
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
@@ -176,21 +184,21 @@ The Block • 2d ago
 
 **[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
 
-TipRanks • 20h ago
-
----
-
-**[Better Buy in 2026: Ethereum or Solana?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-solana)**
-
-Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
-
-Nasdaq • 1d ago
+TipRanks • 21h ago
 
 ---
 
 **[Fusaka rollout kicks off Ethereum’s new twice-a-year hard-fork schedule](https://www.theblock.co/post/381285/fusaka-rollout-ethereum-twice-year-hard-fork-schedule)**
 
 The Block • 2d ago
+
+---
+
+**[Better Buy in 2026: Ethereum or Solana?](https://www.fool.com/investing/2025/12/04/better-buy-in-2026-ethereum-or-solana/)**
+
+Ethereum and Solana are battling for leadership in the decentralized revolution.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -215,14 +223,6 @@ cheddar.com • 1d ago
 Antithesis said its Series A will scale deterministic simulation testing, replaying complex failures exactly for crypto and other always-on systems.
 
 CoinDesk • 2d ago
-
----
-
-**[Better Buy in 2026: Ethereum or Solana?](https://www.fool.com/investing/2025/12/04/better-buy-in-2026-ethereum-or-solana/)**
-
-Ethereum and Solana are battling for leadership in the decentralized revolution.
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -276,7 +276,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 37 • 💬 133 • ⏱️ 5:24 • 20h ago
+👁️ 1K • 👍 37 • 💬 133 • ⏱️ 5:24 • 21h ago
 
 ---
 
@@ -296,7 +296,7 @@ The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was
 
 📺 Altcoin Buzz
 
-👁️ 3K • 👍 139 • 💬 199 • ⏱️ 9:21 • 20h ago
+👁️ 3K • 👍 139 • 💬 199 • ⏱️ 9:21 • 21h ago
 
 ---
 

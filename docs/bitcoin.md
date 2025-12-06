@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T10:28:32.534189+00:00'
+updated: '2025-12-06T10:44:32.391445+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 10:28 UTC  
+**Last Updated:** December 06, 2025 at 10:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -0.9%  
-**30d:** -13.5%  
-**90d:** -19.8%  
-**1y:** -10.2%  
+**24h:** -2.1%  
+**7d:** -1.2%  
+**30d:** -13.7%  
+**90d:** -20.1%  
+**1y:** -10.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.78B
+**Market Cap:** $1787.27B
 Rank #1
 
 **Circulating Supply:** 19,958,253 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.9%
 
 **All-Time Low:** $67.81
-+132023.6%
++132010.3%
 
 ---
 
@@ -85,13 +85,19 @@ Rank #1
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
 2h ago
+
+---
+
+**[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
+
+17m ago
 
 ---
 
@@ -105,7 +111,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +123,13 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-14h ago
+15h ago
+
+---
+
+**[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
+
+8h ago
 
 ---
 
@@ -129,18 +141,6 @@ Charts like this always remind me why time in the market beats timing the market
 
 ---
 
-**[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
-
-7h ago
-
----
-
-**[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
-
-16h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -149,15 +149,13 @@ Charts like this always remind me why time in the market beats timing the market
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
+**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqfUGfCzp-ISBymMpL-QH2e92Tosi1A37RQkMtZadFYCDdRxu2_n0Q9I&gaa_ts=69340c74&gaa_sig=aboxIP2AeZlmsUntF93QIRi7fR6cVnnxR6Frhtt7yfQ8opou0qEWsjgEtKGKBC0vYKrbz4pTXIHhxiWvG9aGvQ%3D%3D)**
 
-Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
-
-Yahoo Finance • 19h ago
+Barron's • 2d ago
 
 ---
 
@@ -165,7 +163,7 @@ Yahoo Finance • 19h ago
 
 A newly introduced bill in Indiana would require public retirement programs to offer Bitcoin-related investment options and would also limit how much power local governments have to restrict the use of digital assets.The proposal was filed on Thursday by State Representative Kyle Pierce, a Republican from Anderson. Known as House ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -174,6 +172,14 @@ Yahoo Finance • 1h ago
 Strategy CEO Phong Le says the company’s newly built $1.44 billion cash reserve is designed to quiet investor anxiety over its ability to withstand a sharp downturn in Bitcoin. Key Takeaways: Strategy built a $1.44B cash reserve to ease investor fears about its ability to meet dividend and debt obligations. ...
 
 Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin mining news: ABTC shares plunge, miners face breakeven costs, IREN prices $3.6B offering](https://finance.yahoo.com/news/bitcoin-mining-news-abtc-shares-100000879.html)**
+
+This week in bitcoin mining news, an American Bitcoin share unlock tumbles the ABTC price, and IREN eyes the largest capital raise ever for a bitcoin miner.
+
+Yahoo Finance • 44m ago
 
 ---
 
@@ -191,35 +197,21 @@ CNBC • 1d ago
 
 ---
 
-**[Jim Cramer Notes Strategy’s Transformation into a “Bitcoin Accumulation Machine Fueled by Borrowed Money”](https://finance.yahoo.com/news/jim-cramer-notes-strategy-transformation-034534866.html)**
+**[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
 
-Strategy Inc (NASDAQ:MSTR) is one of the stocks Jim Cramer recently looked at. Cramer mentioned the stock during the episode and said: “In this business, nothing’s harder than spotting bottoms… What matters the most here is not Bitcoin itself, but a company called Strategy run by Michael Saylor, a Bitcoin evangelist who’s adopted what I […]
-
-Yahoo Finance • 1d ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeoMzJmaGXdeRuk8zEc4khD0uRiZCdRGTutOyOykAb26AIAkdC-gXkQ&gaa_ts=69340c74&gaa_sig=X6zoq6xqaZZOBNSawizOPpI0HB4X8VsxZi2GEnd5vYva2kGCWRB0rWAFsGspalPtvG274qreZpzEitNY4VRBVw%3D%3D)**
 
-Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
-
-Decrypt • 2d ago
+MarketWatch • 1d ago
 
 ---
 
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqe1eZPvI8UOs3JGFRcDc4vQxuSycQTi6yTNznvqKO_QBBnEt56-3syT&gaa_ts=69340c74&gaa_sig=h4wErYYZcY20CgfmuaTSxDQeM9yZUvvMY4P1WVLZ-ZiAYuTxureVMnOgd4esvoQuS8nTUvDSJEY8tvhx6EaSiw%3D%3D)**
 
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
-
-CNBC • 1d ago
-
----
-
-**[Why Did Bitcoin Drop Below $90,000 Again? A Breakdown of the Latest Sell-Off](https://finance.yahoo.com/news/why-did-bitcoin-drop-below-191752606.html)**
-
-Bitcoin falls below $90,000 again as liquidations, weak ETF flows, macro pressure and PCE inflation data shape market sentiment.
-
-Yahoo Finance • 15h ago
+The Wall Street Journal • 3d ago
 
 ---
 
@@ -333,7 +325,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 2K • 💬 371 • ⏱️ 10:13 • 19h ago
+👁️ 32K • 👍 2K • 💬 371 • ⏱️ 10:13 • 20h ago
 
 ---
 

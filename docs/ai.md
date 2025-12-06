@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T13:46:48.426205+00:00'
+updated: '2025-12-06T13:57:31.455974+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 13:46 UTC  
+**Last Updated:** December 06, 2025 at 13:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 7h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 8h ago
 
 ---
 
@@ -103,13 +103,13 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York Times sues AI startup for ‘illegal’ copying of millions of articles.[2] Meta acquires AI-wearables startup Limitless.[3] MIT researchers “speak objects into existence” using AI and robotics.[4] Sources: [1] https://www.axios.com/2025/12/03/joe-rogan-jensen-huang-podcast-trump [2] https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit [3] https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/ [4] https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205
 
-7h ago
+8h ago
 
 ---
 
 **[Well, THIS was interesting. ChatGPT.](https://www.reddit.com/r/artificial/comments/1pfmipr/well_this_was_interesting_chatgpt/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Motley Fool • 7h ago
 
 Nvidia is the world's largest company, and it gets most of its revenue from AI spending.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -511,7 +511,7 @@ Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 144 • 💬 2 • ⭐ 4,794 • 8d ago
+▲ 144 • 💬 2 • ⭐ 4,794 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 

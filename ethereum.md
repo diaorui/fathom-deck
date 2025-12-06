@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T04:58:49.530988+00:00'
+updated: '2025-12-06T05:28:35.032919+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 04:58 UTC  
+**Last Updated:** December 06, 2025 at 05:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,022.55
+### $3,040.13
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
+**24h:** -4.3%  
 **7d:** +1.4%  
 **30d:** -11.6%  
 **90d:** -29.6%  
@@ -52,27 +52,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.25B
+**Market Cap:** $366.52B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.7%
+-38.6%
 
 **All-Time Low:** $0.43
-+700402.8%
++701312.8%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion December 05, 2025](https://www.reddit.com/r/ethereum/comments/1penica/daily_general_discussion_december_05_2025/)**
+**[Revising ERC-2535 Diamonds to Simplify and Improve the Terminology](https://www.reddit.com/r/ethereum/comments/1pfgiab/revising_erc2535_diamonds_to_simplify_and_improve/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
-22h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 47m ago
 
 ---
 
@@ -81,6 +81,28 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 This is Part Six of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires. Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Trustless, My Ass <-- You are here Trading with the Blue Man At the hotel, the man working reception is exactly who I was hoping for: tall, broad, the build of someone who could win a bar fight just by standing up. When I sit down in the lobby, he asks if I'm meeting someone, like I need permission to sit in the hotel that I'm paying for. I say yes I am. Meeting someone. He waits, in case I'll give further details, and then shrugs and leaves me alone. One more message to Blue Man. I'm here. Look for the blonde sitting by the window. I wait. Half an hour passes. I look up nervously every time someone walks in. I set up my new keyboard to have something to do with my hands. Reception man keeps one eye on me but most of his attention is taken up by the endless stream of tourists dragging too many bags. A pick-up truck pulls up outside. My stomach flips. Is this him? Is this how it's going to happen? Am I supposed to go out there? Is he just going to hand me an envelope after all. Am I supposed to get in the truck? I stay exactly where I am, mentally drafting excuses for not going outside. Anything that doesn't make me sound like a person whose first reaction to a pick-up truck is potential kidnapping. The truck pulls away. Nothing to do with me. A large French family arrives and explodes across the lobby, checking in to their rooms to drop luggage and then meeting again to go out on the town. Couples, children, cousins, an elderly woman with cataracts calling out "Who are we missing," every few minutes. How the hell am I going to enact a dodgy transaction with Grandmère sitting next to me? Eventually, the lobby clears and it is just me and the muscled man at reception. Blue Man messages, apologizes, he's finally on his way. A businessman walks in wearing a sharp suit and a tired face, checks into a room and heads for the elevator. Skinny guy wearing headphones drops a package on the desk, disappears without a word. A man with a nose that's been broken many times walks in and looks around. I tense. Muscle man behind the counter greets him like an old friend. A kid walks in, looks about thirteen. I slump back into my seat. He turns, scans the room, sees me. His face lights up. He says my name. This is Blue. He is not thirteen, of course. Just young and slender. He looks like a gentle soul. Maybe writes poetry. If it came to it, I could body slam him and run. I stand. We kiss cheeks. I invite him to join me on the corner of the sofa that has been my home for the past hour. He tells me, a little nervously, that his English is not very good. I'm charmed. He holds out an envelope. I peek inside. Yes, it looks like money. "Count it," he says. I pull out the bills and count them quickly. Reception man watches us, flexing, trying to work out if I'm selling my services in his hotel. Possibly I haven't thought this through. I count faster. The amount is correct. I place the envelope next to him and set up the transaction on my phone. He pulls out his phone and shows me his list of chains, asks me again what I've chosen. I get his wallet address and send the USDT. I show him the confirmation. Blue stares at his screen. "It takes a moment," he says. It shouldn't. But I wait. A minute passes, then two. A cold feeling is just starting to creep up my spine when he makes a happy sound, shows me a Bybit notification that someone has sent him 400 USDT. Blue's using a centralized exchange. It's none of my business. The transaction is complete. I pick up the envelope. He tells me that I can message him anytime, if I need anything. That he would be happy to do this again. I hope reception man isn't listening. Then he notices my keyboard on the table. "Is this what you bought?" I nod and he laughs, like who goes all the way to Buenos Aires to buy a keyboard? "Mine was stolen," I say. He gives me another dubious look and picks it up. His face brightens into a smile. "Oh! It's so light!" I'm absurdly pleased that he likes my keyboard. We say our goodbyes under the steely gaze of reception man. And then Blue is gone. Still to come: Custodial Services (Self-custody is easy, luggage custody is hard) Apparently I Did It Wrong ("You should have just used X, bro.")
 
 9h ago
+
+---
+
+**[Daily General Discussion December 05, 2025](https://www.reddit.com/r/ethereum/comments/1penica/daily_general_discussion_december_05_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+23h ago
+
+---
+
+**[The wait is over! 🎥 All talks from the #EIPSummit at Devconnect Argentina are now live on the ECH Institute YouTube channel. 🇦🇷✨ From gas repricing to AI data standards, this is your masterclass on how Ethereum evolves. A thread of all sessions 👇🧵](https://www.reddit.com/r/ethereum/comments/1pfgpoi/the_wait_is_over_all_talks_from_the_eipsummit_at/)**
+
+36m ago
+
+---
+
+**[The wait is over! 🎥 All talks from the #EIPSummit at Devconnect Argentina are now live on the ECH Institute YouTube channel. 🇦🇷✨ From gas repricing to AI data standards, this is your masterclass on how Ethereum evolves. A thread of all sessions 👇🧵](https://www.reddit.com/r/ethereum/comments/1pfgpdd/the_wait_is_over_all_talks_from_the_eipsummit_at/)**
+
+1️⃣ From Research to Reality – An EIP’s Journey with Pooja Ranjan The summit kicks off by bridging the gap between abstract research and deployed code. A must-watch for understanding the EIP Process. 📺 Watch it here: https://youtu.be/wH76j1BDZkc #Ethereum #EIP #EthereumGovernance #EthCommunity 2️⃣ Don’t just use Ethereum: help shape it! with Jochem Brouwer Jochem argues that providing feedback on EIP drafts is a civic duty. Silence leads to consensus bugs. Learn how to break the silence on the Magicians forum. 📺 Watch it here: https://youtu.be/ZVHHsKS6Kxo #Ethereum #EIPSummit #EIPs 3️⃣ From Draft to Inclusion: A Proposal’s Journey with Jihoon Song Writing the EIP is only 5% of the work. The hard part is convincing people to consider it. Jihoon shows how to talk to the right people and handle the Core Dev meetings to get your idea accepted. 📺 Watch it here: https://youtu.be/i8HO-bAivno #EIPSummit #EIPs #EIPProcess #CoreDev 4️⃣ From Specification to Syncing a Node: Ensuring Upgrade Readiness with Parithosh Jayanthi How do you test a $500B+ network without breaking it? Inside the industrial supply chain of Ethereum testing: from Hive unit tests to mainnet Shadow Forks. 🏗️ 📺 Watch it here : https://youtu.be/9yTrzNCd0Gk #Testing #Devnets #ShadowForks 5️⃣ Code is Law: Avoiding Spec-ulation for Faster Forks with danceratopz & raxhvl The propose accelerating Ethereum forks by tightly coupling EIP markdown with executable specs, ensuring every text change is instantly verified by code to eliminate ambiguity. 📺 Watch: https://youtu.be/h5sUMWD9Yus #Ethereum #SpecReview #Testing 6️⃣ EIP-8007: A major update to EVM gas prices with Maria Inês Silva A quick explainer on why Meta EIP listing all related EIPs matters. How authors propose to reshapes gas pricing, and what this means for developers, performance & future upgrades. 📺 Watch: https://youtu.be/HpRNP8tc0lY #EIP8007 #EVM #GasCosts #GasPricing 7️⃣ From Idea to EIP: A First-Time Author’s Journey with German Abal How a first-time contributor turns an idea into a real EIP - from drafting to reviews, feedback loops, and working with editors. 📺 Watch here: https://youtu.be/WcGYlzUChUE #EIPEditors #EthGovernance #EthereumStandards 8️⃣ ERCs in Focus - ERC-8028: AI Assets On-Chain with Thiru The video explains how ERC-8028 anchors AI data on-chain using DAT, enabling trust, provenance, and verifiable AI workflows. A simple breakdown of why this ERC matters for the future of AI + Ethereum standards. 📺 Watch: https://youtu.be/RaeBZiE0rDA #ERC8028 #ERCs #AIonChain #DAT 9️⃣ Meet EIP Editor Sam Wilson He breaks down what EIP editors do, how proposals are reviewed, and how Ethereum standards keep evolving. 📺 Watch: https://youtu.be/YHZviU19di0 #EIPEditors #EIPProcess #EthereumStandards 🔟 The Final Episode - ERC-1202: Voting Interface with Victor Zhou See how ERC-1202 enables flexible, on-chain voting mechanisms for DAOs & governance tools. A clean walkthrough of the standard, design choices, and real-world use cases. 📺 Watch: https://youtu.be/_szGTp49L5E #ERC1202 #OnChainVoting #GovernanceTech The EIP Summit was more than just talks; it was a call to action. Ethereum needs authors, reviewers, and testers. Special thanks to all speakers and the ECH Institute team! 😸 #Ethereum #Devconnect #EIPs #Web3
+
+36m ago
 
 ---
 
@@ -121,26 +143,6 @@ A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glams
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[🚀 Ethereum Fusaka is Live: The “Unsung Hero” Upgrade You Need to Know About](https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/)**
-
-🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 1d ago
-
----
-
-**[Sony launches Stablecoin! 🎮 USDSC lists on Ethereum L2!](https://www.reddit.com/r/ethereum/comments/1pdxj1w/sony_launches_stablecoin_usdsc_lists_on_ethereum/)**
-
-🔗 [ecency.com](https://ecency.com/@pichat/sony-launches-stablecoin-usdsc-lists-on-ethereum-l2-9sh) • 1d ago
-
----
-
-**[Fusaka Infographic 🦓 13 EIPs, one massive ethereum upgrade!](https://www.reddit.com/r/ethereum/comments/1pdfavo/fusaka_infographic_13_eips_one_massive_ethereum/)**
-
-a wonderful fusaka day to you all - original post if you want to help boost on twitter!
-
-2d ago
 
 ---
 
@@ -240,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 137 • 👍 16 • 💬 3 • ⏱️ 5:46 • 1h ago
+👁️ 137 • 👍 16 • 💬 3 • ⏱️ 5:46 • 2h ago
 
 ---
 
@@ -280,7 +282,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 16K • 👍 405 • 💬 340 • ⏱️ 15:38 • 23h ago
+👁️ 16K • 👍 405 • 💬 340 • ⏱️ 15:38 • 1d ago
 
 ---
 
@@ -290,7 +292,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 24K • 👍 2K • 💬 125 • ⏱️ 31:23 • 19h ago
+👁️ 24K • 👍 2K • 💬 125 • ⏱️ 31:23 • 20h ago
 
 ---
 
@@ -300,7 +302,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 343 • 👍 29 • 💬 4 • ⏱️ 7:09 • 9h ago
+👁️ 343 • 👍 29 • 💬 4 • ⏱️ 7:09 • 10h ago
 
 ---
 
@@ -310,7 +312,7 @@ Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydf
 
 📺 BitBoy X
 
-👁️ 3K • 👍 228 • ⏱️ 25:41 • 11h ago
+👁️ 3K • 👍 228 • ⏱️ 25:41 • 12h ago
 
 ---
 

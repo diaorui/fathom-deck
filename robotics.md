@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T03:47:58.937833+00:00'
+updated: '2025-12-06T04:00:00.442871+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 03:47 UTC  
+**Last Updated:** December 06, 2025 at 04:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,7 +114,7 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-Seeking Alpha • 17h ago
+Seeking Alpha • 18h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 2d ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 12h ago
+MIT News • 13h ago
 
 ---
 
@@ -184,7 +184,7 @@ BBC • 1d ago
 
 Figure AI CEO Brett Adcock dropped a short, electrifying video on social media, teasing the extraordinary speed and agility of Figure 03 humanoid robot.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -228,7 +228,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 78K • 👍 414 • 💬 5 • ⏱️ 0:19 • 22h ago
+👁️ 78K • 👍 414 • 💬 5 • ⏱️ 0:19 • 23h ago
 
 ---
 
@@ -276,7 +276,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 79K • 👍 321 • 💬 9 • ⏱️ 0:19 • 14h ago
+👁️ 79K • 👍 321 • 💬 9 • ⏱️ 0:19 • 15h ago
 
 ---
 

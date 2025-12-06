@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T06:51:47.518984+00:00'
+updated: '2025-12-06T07:12:29.086480+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 06:51 UTC  
+**Last Updated:** December 06, 2025 at 07:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** +1.5%  
-**30d:** -11.6%  
-**90d:** -29.6%  
-**1y:** -24.2%  
+**24h:** -3.8%  
+**7d:** +1.6%  
+**30d:** -11.5%  
+**90d:** -29.5%  
+**1y:** -24.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.82B
+**Market Cap:** $366.76B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
@@ -62,7 +62,7 @@ No max supply
 -38.5%
 
 **All-Time Low:** $0.43
-+701885.5%
++702319.7%
 
 ---
 
@@ -71,12 +71,6 @@ No max supply
 **[Daily General Discussion December 06, 2025](https://www.reddit.com/r/ethereum/comments/1pfhy31/daily_general_discussion_december_06_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-50m ago
-
----
-
-**[The wait is over! 🎥 All talks from the #EIPSummit at Devconnect Argentina are now live on the ECH Institute YouTube channel. 🇦🇷✨ From gas repricing to AI data standards, this is your masterclass on how Ethereum evolves. A thread of all sessions 👇🧵](https://www.reddit.com/r/ethereum/comments/1pfgpoi/the_wait_is_over_all_talks_from_the_eipsummit_at/)**
 
 1h ago
 
@@ -87,6 +81,12 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
 🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 2h ago
+
+---
+
+**[The wait is over! 🎥 All talks from the #EIPSummit at Devconnect Argentina are now live on the ECH Institute YouTube channel. 🇦🇷✨ From gas repricing to AI data standards, this is your masterclass on how Ethereum evolves. A thread of all sessions 👇🧵](https://www.reddit.com/r/ethereum/comments/1pfgpoi/the_wait_is_over_all_talks_from_the_eipsummit_at/)**
+
+2h ago
 
 ---
 
@@ -106,11 +106,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Odysee has integrated Wander Connect for the CLabs team for the Arweave ecosystem.](https://www.reddit.com/r/ethereum/comments/1pfiq9r/odysee_has_integrated_wander_connect_for_the/)**
+
+How to install the Wander Wallet browser extension?
+
+🔗 [help.odysee.tv](https://help.odysee.tv/category-monetization/wander/) • 24m ago
+
+---
+
 **[The wait is over! 🎥 All talks from the #EIPSummit at Devconnect Argentina are now live on the ECH Institute YouTube channel. 🇦🇷✨ From gas repricing to AI data standards, this is your masterclass on how Ethereum evolves. A thread of all sessions 👇🧵](https://www.reddit.com/r/ethereum/comments/1pfgpdd/the_wait_is_over_all_talks_from_the_eipsummit_at/)**
 
 1️⃣ From Research to Reality – An EIP’s Journey with Pooja Ranjan The summit kicks off by bridging the gap between abstract research and deployed code. A must-watch for understanding the EIP Process. 📺 Watch it here: https://youtu.be/wH76j1BDZkc #Ethereum #EIP #EthereumGovernance #EthCommunity 2️⃣ Don’t just use Ethereum: help shape it! with Jochem Brouwer Jochem argues that providing feedback on EIP drafts is a civic duty. Silence leads to consensus bugs. Learn how to break the silence on the Magicians forum. 📺 Watch it here: https://youtu.be/ZVHHsKS6Kxo #Ethereum #EIPSummit #EIPs 3️⃣ From Draft to Inclusion: A Proposal’s Journey with Jihoon Song Writing the EIP is only 5% of the work. The hard part is convincing people to consider it. Jihoon shows how to talk to the right people and handle the Core Dev meetings to get your idea accepted. 📺 Watch it here: https://youtu.be/i8HO-bAivno #EIPSummit #EIPs #EIPProcess #CoreDev 4️⃣ From Specification to Syncing a Node: Ensuring Upgrade Readiness with Parithosh Jayanthi How do you test a $500B+ network without breaking it? Inside the industrial supply chain of Ethereum testing: from Hive unit tests to mainnet Shadow Forks. 🏗️ 📺 Watch it here : https://youtu.be/9yTrzNCd0Gk #Testing #Devnets #ShadowForks 5️⃣ Code is Law: Avoiding Spec-ulation for Faster Forks with danceratopz & raxhvl The propose accelerating Ethereum forks by tightly coupling EIP markdown with executable specs, ensuring every text change is instantly verified by code to eliminate ambiguity. 📺 Watch: https://youtu.be/h5sUMWD9Yus #Ethereum #SpecReview #Testing 6️⃣ EIP-8007: A major update to EVM gas prices with Maria Inês Silva A quick explainer on why Meta EIP listing all related EIPs matters. How authors propose to reshapes gas pricing, and what this means for developers, performance & future upgrades. 📺 Watch: https://youtu.be/HpRNP8tc0lY #EIP8007 #EVM #GasCosts #GasPricing 7️⃣ From Idea to EIP: A First-Time Author’s Journey with German Abal How a first-time contributor turns an idea into a real EIP - from drafting to reviews, feedback loops, and working with editors. 📺 Watch here: https://youtu.be/WcGYlzUChUE #EIPEditors #EthGovernance #EthereumStandards 8️⃣ ERCs in Focus - ERC-8028: AI Assets On-Chain with Thiru The video explains how ERC-8028 anchors AI data on-chain using DAT, enabling trust, provenance, and verifiable AI workflows. A simple breakdown of why this ERC matters for the future of AI + Ethereum standards. 📺 Watch: https://youtu.be/RaeBZiE0rDA #ERC8028 #ERCs #AIonChain #DAT 9️⃣ Meet EIP Editor Sam Wilson He breaks down what EIP editors do, how proposals are reviewed, and how Ethereum standards keep evolving. 📺 Watch: https://youtu.be/YHZviU19di0 #EIPEditors #EIPProcess #EthereumStandards 🔟 The Final Episode - ERC-1202: Voting Interface with Victor Zhou See how ERC-1202 enables flexible, on-chain voting mechanisms for DAOs & governance tools. A clean walkthrough of the standard, design choices, and real-world use cases. 📺 Watch: https://youtu.be/_szGTp49L5E #ERC1202 #OnChainVoting #GovernanceTech The EIP Summit was more than just talks; it was a call to action. Ethereum needs authors, reviewers, and testers. Special thanks to all speakers and the ECH Institute team! 😸 #Ethereum #Devconnect #EIPs #Web3
 
-1h ago
+2h ago
 
 ---
 
@@ -138,14 +146,6 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 
 ---
 
-**[Highlights from the All Core Developers Execution (ACDE) Call #225](https://www.reddit.com/r/ethereum/comments/1pego5o/highlights_from_the_all_core_developers_execution/)**
-
-A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
-
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glams
 
 Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -192,11 +192,9 @@ Nasdaq • 1d ago
 
 ---
 
-**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
+**[Fusaka rollout kicks off Ethereum’s new twice-a-year hard-fork schedule](https://www.theblock.co/post/381285/fusaka-rollout-ethereum-twice-year-hard-fork-schedule)**
 
-Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
-
-Decrypt • 2d ago
+The Block • 2d ago
 
 ---
 
@@ -216,11 +214,11 @@ cheddar.com • 1d ago
 
 ---
 
-**[Why Ethereum Is Gaining Today](https://www.fool.com/investing/2025/12/02/why-ethereum-is-gaining-fed-vice-chair/)**
+**[Better Buy in 2026: Ethereum or Solana?](https://www.fool.com/investing/2025/12/04/better-buy-in-2026-ethereum-or-solana/)**
 
-Stablecoin regulation is moving forward.
+Ethereum and Solana are battling for leadership in the decentralized revolution.
 
-The Motley Fool • 3d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -274,7 +272,7 @@ Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydf
 
 📺 BitBoy X
 
-👁️ 3K • 👍 233 • ⏱️ 25:41 • 13h ago
+👁️ 3K • 👍 233 • ⏱️ 25:41 • 14h ago
 
 ---
 

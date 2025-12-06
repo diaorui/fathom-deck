@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T06:51:47.504562+00:00'
+updated: '2025-12-06T07:12:29.071967+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 06:51 UTC  
+**Last Updated:** December 06, 2025 at 07:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 13h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 14h ago
 
 ---
 
@@ -49,7 +49,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 56m ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 1h ago
 
 ---
 
@@ -61,17 +61,17 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 ---
 
+**[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
+
+10h ago
+
+---
+
 **[Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database](https://www.reddit.com/r/artificial/comments/1pet67v/huge_trove_of_nude_images_leaked_by_ai_image/)**
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 18h ago
-
----
-
-**[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
-
-9h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 19h ago
 
 ---
 
@@ -79,7 +79,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York Times sues AI startup for ‘illegal’ copying of millions of articles.[2] Meta acquires AI-wearables startup Limitless.[3] MIT researchers “speak objects into existence” using AI and robotics.[4] Sources: [1] https://www.axios.com/2025/12/03/joe-rogan-jensen-huang-podcast-trump [2] https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit [3] https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/ [4] https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205
 
-57m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 7h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 8h ago
 
 ---
 
@@ -111,7 +111,7 @@ AMD CEO says long-term demand for compute will justify today’s rapid data-cent
 
 Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
 
-9h ago
+10h ago
 
 ---
 
@@ -123,13 +123,19 @@ Most discourse around AI writing is about using it to generate content faster. I
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 14h ago
+The Keyword • 15h ago
 
 ---
 
 **[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
+
+---
+
+**[AI Stocks Are a Bet on the Future. Markets Are Ignoring the Now.](https://www.barrons.com/articles/ai-stocks-market-price-b6350469?gaa_at=eafs&gaa_n=AWEtsqcVtDWmQ0GGM4B2MCf0ay_HBB7HJMx34NJXvbrOjJ7gJCB8JWQe2zQh&gaa_ts=6933dac3&gaa_sig=8Rx-Qjledzz127V1447PlSKwQ6m-TYhF7c0Be64lEiuEpsQD7eliyGUSxFOibaMPnh6p44VKu6NJMiuvpzH9Ig%3D%3D)**
+
+Barron's • 12m ago
 
 ---
 
@@ -141,31 +147,25 @@ Fortune • 1d ago
 
 ---
 
+**[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
+
+The Economist • 1d ago
+
+---
+
+**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
+
+What 1,250 professionals told us about working with AI
+
+Anthropic • 1d ago
+
+---
+
 **[A safety report card ranks AI company efforts to protect humanity](https://www.latimes.com/entertainment-arts/business/story/2025-12-05/ai-artificial-intelligence-company-scorecard-ranks-safety-humanity)**
 
 Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety.
 
-Los Angeles Times • 19h ago
-
----
-
-**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
-
-The Washington Post • 12h ago
-
----
-
-**['Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12)**
-
-Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
-
-Business Insider • 21h ago
-
----
-
-**[Apple May Win the AI Race. How It Could Beat Meta, Microsoft, and OpenAI](https://www.barrons.com/articles/apple-stock-price-ai-meta-microsoft-openai-22561075?gaa_at=eafs&gaa_n=AWEtsqeIOXI5qU2Pl7dkkUGsA95DvATHa-plRKMuvOWs3i-_B4m3gPVIjHxe&gaa_ts=6933d112&gaa_sig=OWtMmMTYULVcOB2EPUjinV4XYGMYq4vEGKKAK7kfq-xBM8oWZa_cUgODbg98PUzw8NsjFVrmklp3ljN9epqXeg%3D%3D)**
-
-Barron's • 17h ago
+Los Angeles Times • 20h ago
 
 ---
 
@@ -179,13 +179,15 @@ CNBC • 11h ago
 
 **[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
-**[Meta Platforms Buys AI Device Maker Limitless](https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqfdzHAzU0rU0o4x6YzHWWJbUSI_mLEfrarBmmW2db3dlZCAMT7Bf2Tc&gaa_ts=6933d112&gaa_sig=0e5kdEJp6y6EyG0pbZOXwFzz1L-lrCIYmJxmebt91tGAnHpNMjxEfbimnHp2-Zd8zI9_SpGCh2FQNq6jFxaPtA%3D%3D)**
+**[Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)**
 
-The Wall Street Journal • 8h ago
+Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
+
+TechCrunch • 10h ago
 
 ---
 
@@ -221,7 +223,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 681 • 💬 645 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 681 • 💬 647 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -237,7 +239,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 407 • 💬 203 • 14h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 416 • 💬 212 • 14h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -261,7 +263,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 212 • 💬 127 • 5h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 221 • 💬 130 • 5h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -389,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,149 • 3d ago
+⬇️ 152,916 • ❤️ 2,151 • 3d ago
 
 ---
 
@@ -401,7 +403,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 13,541 • ❤️ 734 • 4d ago
+⬇️ 13,541 • ❤️ 735 • 4d ago
 
 ---
 
@@ -413,7 +415,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 3,773 • ❤️ 512 • 4d ago
+⬇️ 3,773 • ❤️ 513 • 4d ago
 
 ---
 
@@ -425,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 309 • 1d ago
+⬇️ 12,984 • ❤️ 312 • 1d ago
 
 ---
 
@@ -437,7 +439,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 1,509 • ❤️ 334 • 3d ago
+⬇️ 1,509 • ❤️ 335 • 4d ago
 
 ---
 
@@ -447,7 +449,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 249 • 3d ago
+⬇️ 0 • ❤️ 249 • 4d ago
 
 ---
 
@@ -469,7 +471,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 192,451 • ❤️ 900 • 8d ago
+⬇️ 192,451 • ❤️ 901 • 8d ago
 
 ---
 
@@ -725,7 +727,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 717 • 🔱 14 • 16d ago
+⭐ 717 • 🔱 14 • 17d ago
 
 ---
 
@@ -735,7 +737,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 559 • 🔱 175 • 1h ago
+⭐ 559 • 🔱 175 • 2h ago
 
 ---
 

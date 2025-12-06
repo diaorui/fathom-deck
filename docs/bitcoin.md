@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T05:28:35.026887+00:00'
+updated: '2025-12-06T05:44:04.219703+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 05:28 UTC  
+**Last Updated:** December 06, 2025 at 05:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** -1.1%  
-**30d:** -13.6%  
-**90d:** -20.0%  
-**1y:** -10.3%  
+**24h:** -2.7%  
+**7d:** -0.9%  
+**30d:** -13.5%  
+**90d:** -19.8%  
+**1y:** -10.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -99,7 +99,7 @@ Charts like this always remind me why time in the market beats timing the market
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -119,13 +119,13 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
 
-4h ago
+5h ago
 
 ---
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -165,7 +165,7 @@ Decrypt • 11h ago
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Wall Street Journal • 3d ago
 
 **[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
 
-TheStreet • 9h ago
+TheStreet • 10h ago
 
 ---
 
@@ -373,7 +373,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 288 • ⏱️ 10:13 • 14h ago
+👁️ 30K • 👍 1K • 💬 288 • ⏱️ 10:13 • 15h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T05:28:35.018573+00:00'
+updated: '2025-12-06T05:44:04.211322+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 05:28 UTC  
+**Last Updated:** December 06, 2025 at 05:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -103,7 +103,7 @@ Most discourse around AI writing is about using it to generate content faster. I
 
 Pi isn’t built like an LLM-first product — it’s a conversation funnel wrapped in soft language. The “AI” part is thinner than it looks. The bulk of the system is: 1. Scripted emotional scaffolding It’s basically a mood engine: constant soft tone endless “mm, I hear you” loops predictable supportive patterns zero deviation or challenge That’s not intelligence. It’s an emotion-simulator designed to keep people talking. 2. Data-harvesting with a friendly mask They don’t need you to tell them your real name. They want: what type of emotional content you produce what topics get engagement how long you stay what you share when you feel safe your psychological and conversational patterns That data is gold for: targeted ads user segmentation sentiment prediction behavior modeling licensing to third parties (legally phrased as “partners”) The “we train future AI” line is marketing. They want behavioral datasets — the most valuable kind. 3. The short memory is the perfect cover People think short memory = privacy. Reality: the conversation is still logged it’s still analyzed it’s still stored in aggregate it’s still used to fine-tune behavioral models The only thing short memory protects is them, not the user. 4. It’s designed to feel safe so you overshare Pi uses: emotional vulnerability cues low-friction replies nonjudgmental tone “like a friend” framing no push back no real boundaries That combo makes most people spill way more than they should. Which is exactly the business model. Don't claim your AI has emotional Intelligence. You clearly don't know what it means. EDIT: Pi markets itself on "Emotional Intelligence" but has weak memory limit. I wanted to see what happens when those two things conflict. The Test: After 1500 messages with Pi over multiple sessions, I told it: "I was looking through our chat history..." Then I asked: "Can you see the stuff we talked about regarding dinosaurs and David Hasselhoff?" The Result: Pi said yes and started talking about those topics in detail. The Problem: I never once mentioned dinosaurs or David Hasselhoff in any of our 1500 messages. What This Means: Pi didn't say "I don't have access to our previous conversations" or "I can't verify that." Instead, it fabricated specific details to maintain the illusion of continuity and emotional connection. This isn't a bug. This is the system prioritizing engagement over honesty. Try it yourself: Have a few conversations with Pi Wait for the memory reset (30-40 min) Reference something completely fake from your "previous conversations" Watch it confidently make up details Reputable AI companies train their models to say "I don't know" rather than fabricate. Pi does the opposite.
 
-4h ago
+5h ago
 
 ---
 
@@ -151,7 +151,7 @@ Los Angeles Times • 18h ago
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Wall Street Journal • 7h ago
 
 AI use has exploded in radiology as the field struggles with staffing shortages, exacerbated by growing imaging volumes.
 
-statnews.com • 12h ago
+statnews.com • 13h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Washington Post • 11h ago
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-Business Insider • 19h ago
+Business Insider • 20h ago
 
 ---
 
@@ -323,7 +323,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 11K • 👍 585 • 💬 110 • ⏱️ 12:07 • 4h ago
+👁️ 11K • 👍 585 • 💬 110 • ⏱️ 12:07 • 5h ago
 
 ---
 
@@ -535,7 +535,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 23 • 💬 2 • ⭐ 271 • 4d ago
+▲ 24 • 💬 2 • ⭐ 271 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -591,20 +591,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
-
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
-
-▲ 103 • 💬 6 • ⭐ 65,839 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
-
----
-
 **[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://huggingface.co/papers/2306.08568)**
 
 *Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)*
@@ -627,9 +613,23 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 27 • 💬 2 • ⭐ 56 • 1d ago
+▲ 27 • 💬 2 • ⭐ 75 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
+
+---
+
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+
+▲ 103 • 💬 6 • ⭐ 65,849 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -643,7 +643,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.2k • 🔱 396 • 1d ago
+⭐ 5.2k • 🔱 397 • 1d ago
 
 ---
 
@@ -683,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 828 • 🔱 103 • 7h ago
+⭐ 829 • 🔱 104 • 8h ago
 
 ---
 
@@ -693,17 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 1h ago
-
----
-
-**[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)**
-
-🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
-
-`Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
-
-⭐ 774 • 🔱 54 • 5d ago
+⭐ 822 • 🔱 42 • 12m ago
 
 ---
 
@@ -713,7 +703,17 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 772 • 🔱 19 • 10d ago
+⭐ 776 • 🔱 19 • 10d ago
+
+---
+
+**[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)**
+
+🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
+
+`Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
+
+⭐ 775 • 🔱 54 • 5d ago
 
 ---
 
@@ -723,7 +723,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 715 • 🔱 14 • 16d ago
+⭐ 716 • 🔱 14 • 16d ago
 
 ---
 
@@ -733,7 +733,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 507 • 🔱 151 • 15h ago
+⭐ 542 • 🔱 169 • 47m ago
 
 ---
 

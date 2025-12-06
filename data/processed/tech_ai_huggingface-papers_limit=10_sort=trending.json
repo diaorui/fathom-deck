@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2512.02589",
       "arxiv_url": "https://arxiv.org/abs/2512.02589",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2512.02589.png",
-      "upvotes": 23,
+      "upvotes": 24,
       "num_comments": 2,
       "published_at": "2025-12-02T05:00:37.000Z",
       "github_repo": "https://github.com/PaperDebugger/PaperDebugger",
@@ -134,25 +134,6 @@
       "project_page": null
     },
     {
-      "id": "2510.14528",
-      "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model",
-      "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
-      "organization_name": "PaddlePaddle",
-      "organization_fullname": "PaddlePaddle",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1654942635336-5f3ff69679c1ba4c353d0c5a.png",
-      "summary": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model tailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a compact yet powerful vision-language model (VLM) that integrates a NaViT-style dynamic resolution visual encoder with the ERNIE-4.5-0.3B language model to enable accurate element recognition. This innovative model efficiently supports 109 languages and excels in recognizing complex elements (e.g., text, tables, formulas, and charts), while maintaining minimal resource consumption. Through comprehensive evaluations on widely used public benchmarks and in-house benchmarks, PaddleOCR-VL achieves SOTA performance in both page-level document parsing and element-level recognition. It significantly outperforms existing solutions, exhibits strong competitiveness against top-tier VLMs, and delivers fast inference speeds. These strengths make it highly suitable for practical deployment in real-world scenarios. Code is available at https://github.com/PaddlePaddle/PaddleOCR .",
-      "ai_summary": "PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.",
-      "hf_url": "https://huggingface.co/papers/2510.14528",
-      "arxiv_url": "https://arxiv.org/abs/2510.14528",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png",
-      "upvotes": 103,
-      "num_comments": 6,
-      "published_at": "2025-10-16T06:18:48.000Z",
-      "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65839,
-      "project_page": null
-    },
-    {
       "id": "2306.08568",
       "title": "WizardCoder: Empowering Code Large Language Models with Evol-Instruct",
       "authors": "Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)",
@@ -187,11 +168,30 @@
       "num_comments": 2,
       "published_at": "2025-12-04T10:57:27.000Z",
       "github_repo": "https://github.com/yuemingPAN/SFD",
-      "github_stars": 56,
+      "github_stars": 75,
       "project_page": "https://yuemingpan.github.io/SFD.github.io/"
+    },
+    {
+      "id": "2510.14528",
+      "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model",
+      "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
+      "organization_name": "PaddlePaddle",
+      "organization_fullname": "PaddlePaddle",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1654942635336-5f3ff69679c1ba4c353d0c5a.png",
+      "summary": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model tailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a compact yet powerful vision-language model (VLM) that integrates a NaViT-style dynamic resolution visual encoder with the ERNIE-4.5-0.3B language model to enable accurate element recognition. This innovative model efficiently supports 109 languages and excels in recognizing complex elements (e.g., text, tables, formulas, and charts), while maintaining minimal resource consumption. Through comprehensive evaluations on widely used public benchmarks and in-house benchmarks, PaddleOCR-VL achieves SOTA performance in both page-level document parsing and element-level recognition. It significantly outperforms existing solutions, exhibits strong competitiveness against top-tier VLMs, and delivers fast inference speeds. These strengths make it highly suitable for practical deployment in real-world scenarios. Code is available at https://github.com/PaddlePaddle/PaddleOCR .",
+      "ai_summary": "PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.",
+      "hf_url": "https://huggingface.co/papers/2510.14528",
+      "arxiv_url": "https://arxiv.org/abs/2510.14528",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png",
+      "upvotes": 103,
+      "num_comments": 6,
+      "published_at": "2025-10-16T06:18:48.000Z",
+      "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
+      "github_stars": 65849,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-06T04:32:24.375816+00:00"
+  "fetched_at": "2025-12-06T05:43:53.383779+00:00"
 }

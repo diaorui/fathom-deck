@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T11:16:31.764213+00:00'
+updated: '2025-12-06T11:29:35.540758+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 11:16 UTC  
+**Last Updated:** December 06, 2025 at 11:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-18m ago
+31m ago
 
 ---
 
@@ -50,7 +50,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 https://youtu.be/UAlm8Z4mfpU
 
-11h ago
+12h ago
 
 ---
 
@@ -58,7 +58,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
 
-21h ago
+22h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hella everyone! I've been building this drone as my own personal test on my engi
 
 **[Robotics Club - Second Class: Today, Dec 6th at 12:00 PM ET "In-Depth Look at Humanoid Robot Actuators"](https://www.reddit.com/r/robotics/comments/1pfmo9m/robotics_club_second_class_today_dec_6th_at_1200/)**
 
-16m ago
+29m ago
 
 ---
 
@@ -80,7 +80,7 @@ Hella everyone! I've been building this drone as my own personal test on my engi
 
 Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
 
-1h ago
+2h ago
 
 ---
 

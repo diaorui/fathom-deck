@@ -15,16 +15,6 @@
       "description": "Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000\u2014all while major stock indices stay green."
     },
     {
-      "headline": "Ethereum Is Jumping Today-Here's Why",
-      "source": "Nasdaq",
-      "source_url": "https://www.nasdaq.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWGpldHgyMXZmeGkzdy1WTWtJZXNOQ3BCcjd4czFHMnhCcjNOeHpaLU5NczRXY3FSbng5QlE2OGZWejRGemI0T21tWjNTSnVyYl9ZbEtkMXBDM3pQNEtEUWNOLXcwNXJIS0tQaDNlRGx2QQ?oc=5",
-      "pub_date": 1764791640.0,
-      "article_url": "https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why",
-      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-      "description": "Key PointsEthereum receives a major update today that should improve its ability to scale."
-    },
-    {
       "headline": "Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -55,6 +45,16 @@
       "description": null
     },
     {
+      "headline": "Better Buy in 2026: Ethereum or Solana?",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPTkhWOWNFbzFfR0tFc0pJNjF6aWxYRF9pOXVIa29aRGR4TElWLVRHNC1vMkZTUGlRMU1ZNHFzcXNjd0JSSDRUT2J4aUxrRDl0WjgyMVhaelV1MGNObC1Dc3F4RjdIeWl2Y2JCVDR1Yk16dV9p?oc=5",
+      "pub_date": 1764845580.0,
+      "article_url": "https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-solana",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans."
+    },
+    {
       "headline": "Fusaka rollout kicks off Ethereum\u2019s new twice-a-year hard-fork schedule",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
@@ -63,16 +63,6 @@
       "article_url": "https://www.theblock.co/post/381285/fusaka-rollout-ethereum-twice-year-hard-fork-schedule",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Better Buy in 2026: Ethereum or Solana?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDQ1MTJuNnI3QWZQeEZHYUlCb0FvOVduRjRFSWREcVY2Wjc5TkV6WVJzRHFoN2ZtWWtNeFdpMFB4STZmZGJCU2N1R1RjQXFnQVNVZEtRVlAxOG1YeWRnOUd5X3JqcEpkaGljU0phY044S2VHRldWMUtZMmlTMFdwMVRVS2E2aG8?oc=5",
-      "pub_date": 1764841980.0,
-      "article_url": "https://www.fool.com/investing/2025/12/04/better-buy-in-2026-ethereum-or-solana/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845042%2Fan-investor-looking-at-a-chart-on-their-computer-screen-while-holding-a-smartphone.jpg&w=1200&op=resize",
-      "description": "Ethereum and Solana are battling for leadership in the decentralized revolution."
     },
     {
       "headline": "ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)",
@@ -103,8 +93,18 @@
       "article_url": "https://www.coindesk.com/business/2025/12/03/jane-street-leads-usd105m-funding-for-antithesis-a-testing-tool-used-by-ethereum-network",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/2bb99ef791db1603a7268017479b6182f3952bc2-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
       "description": "Antithesis said its Series A will scale deterministic simulation testing, replaying complex failures exactly for crypto and other always-on systems."
+    },
+    {
+      "headline": "Better Buy in 2026: Ethereum or Solana?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDQ1MTJuNnI3QWZQeEZHYUlCb0FvOVduRjRFSWREcVY2Wjc5TkV6WVJzRHFoN2ZtWWtNeFdpMFB4STZmZGJCU2N1R1RjQXFnQVNVZEtRVlAxOG1YeWRnOUd5X3JqcEpkaGljU0phY044S2VHRldWMUtZMmlTMFdwMVRVS2E2aG8?oc=5",
+      "pub_date": 1764841980.0,
+      "article_url": "https://www.fool.com/investing/2025/12/04/better-buy-in-2026-ethereum-or-solana/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845042%2Fan-investor-looking-at-a-chart-on-their-computer-screen-while-holding-a-smartphone.jpg&w=1200&op=resize",
+      "description": "Ethereum and Solana are battling for leadership in the decentralized revolution."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T13:46:38.011062+00:00"
+  "fetched_at": "2025-12-06T14:23:27.987465+00:00"
 }

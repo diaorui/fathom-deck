@@ -54,7 +54,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/VibeVoice-Realtime-0.5B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583646260758-5e64858c87403103f9f1055d.png",
       "downloads": 20067,
-      "likes": 331,
+      "likes": 333,
       "pipeline_tag": "text-to-speech",
       "num_parameters": "1.0B",
       "last_modified": "2025-12-05T01:45:28.000Z",
@@ -69,7 +69,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/Nemotron-Orchestrator-8B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1613114437487-60262a8e0703121c822a80b6.png",
       "downloads": 2530,
-      "likes": 340,
+      "likes": 341,
       "pipeline_tag": "text-generation",
       "num_parameters": "8.2B",
       "last_modified": "2025-12-02T06:56:58.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-12-06T13:46:32.930627+00:00"
+  "fetched_at": "2025-12-06T14:23:21.448897+00:00"
 }

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T13:57:31.470301+00:00'
+updated: '2025-12-06T14:23:42.761838+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 13:57 UTC  
+**Last Updated:** December 06, 2025 at 14:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** +1.3%  
-**30d:** -11.8%  
-**90d:** -29.7%  
-**1y:** -24.3%  
+**24h:** -1.5%  
+**7d:** +2.1%  
+**30d:** -11.1%  
+**90d:** -29.2%  
+**1y:** -23.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.88B
+**Market Cap:** $368.68B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.5%
+-38.2%
 
 **All-Time Low:** $0.43
-+701885.5%
++705604.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -160,14 +160,6 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum Is Jumping Today-Here's Why](https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why)**
-
-Key PointsEthereum receives a major update today that should improve its ability to scale.
-
-Nasdaq • 2d ago
-
----
-
 **[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html)**
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
@@ -188,17 +180,17 @@ TipRanks • 1d ago
 
 ---
 
-**[Fusaka rollout kicks off Ethereum’s new twice-a-year hard-fork schedule](https://www.theblock.co/post/381285/fusaka-rollout-ethereum-twice-year-hard-fork-schedule)**
+**[Better Buy in 2026: Ethereum or Solana?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-solana)**
 
-The Block • 2d ago
+Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
+
+Nasdaq • 2d ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or Solana?](https://www.fool.com/investing/2025/12/04/better-buy-in-2026-ethereum-or-solana/)**
+**[Fusaka rollout kicks off Ethereum’s new twice-a-year hard-fork schedule](https://www.theblock.co/post/381285/fusaka-rollout-ethereum-twice-year-hard-fork-schedule)**
 
-Ethereum and Solana are battling for leadership in the decentralized revolution.
-
-The Motley Fool • 2d ago
+The Block • 2d ago
 
 ---
 
@@ -223,6 +215,14 @@ cheddar.com • 1d ago
 Antithesis said its Series A will scale deterministic simulation testing, replaying complex failures exactly for crypto and other always-on systems.
 
 CoinDesk • 3d ago
+
+---
+
+**[Better Buy in 2026: Ethereum or Solana?](https://www.fool.com/investing/2025/12/04/better-buy-in-2026-ethereum-or-solana/)**
+
+Ethereum and Solana are battling for leadership in the decentralized revolution.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -276,7 +276,7 @@ Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydf
 
 📺 BitBoy X
 
-👁️ 4K • 👍 247 • ⏱️ 25:41 • 20h ago
+👁️ 4K • 👍 247 • ⏱️ 25:41 • 21h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 139 • 💬 26 • ⏱️ 5:46 • 10h ago
+👁️ 2K • 👍 139 • 💬 26 • ⏱️ 5:46 • 11h ago
 
 ---
 
@@ -306,7 +306,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 480 • 👍 35 • 💬 6 • ⏱️ 7:09 • 18h ago
+👁️ 480 • 👍 35 • 💬 6 • ⏱️ 7:09 • 19h ago
 
 ---
 

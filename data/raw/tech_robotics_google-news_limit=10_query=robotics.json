@@ -45,6 +45,16 @@
       "description": null
     },
     {
+      "headline": "3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2FRSlhFd1FTcV9vdGVSSUJSdGdGcTIyQk9fclVjd1NfV0ViNFJmMWJxVVNKdkNMV0c1cVRralNWTklKVFJiWUtnckNKdWk3NUJwMkhUR2tQZVdrYW5wMnFhMndZZFlUb0ZqY1A3LUgzUkpBV0o4SGJPcm1jQUFYTVJ5dVMwdXpDZVdwS0hTck1ibkoyTU5ZaTdMbEItaG9BRGx0Y3gzUFBPTURjdkE?oc=5",
+      "pub_date": 1764874317.0,
+      "article_url": "https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/A%20concept%20image%20of%20space_%20Image%20by%20Canities%20via%20Shutterstock_.jpg",
+      "description": "The Trump administration is pushing for robotics as a critical industry to bring back production to the United States."
+    },
+    {
       "headline": "25-year-old robotics company still growing in West Michigan",
       "source": "MLive.com",
       "source_url": "https://www.mlive.com",
@@ -53,16 +63,6 @@
       "article_url": "https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html",
       "image": "https://www.mlive.com/resizer/v2/3E42TMTVNFCWDBWQFGEIMUGRRE.jpg?auth=ac8b3d04f98c820da53625556a409e0f53c01b7ad893aad2e720ca80c3f9b665&width=1280&smart=true&quality=90",
       "description": "Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years."
-    },
-    {
-      "headline": "Massimo Group (NASDAQ: MAMO) forms AI robotics division to enter global automation and smart-systems markets",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkNhNUFyN3hFa2ZYM2dtQ2k2OEdzVVhmV0pjbWNUQ1FDN0h1TmJtRXpQRUh5UnNvUjYtakZEcXBYbEw1TkQ1eVptNENxRloyMWtsdEdnMWZpUWZaRklOQVhEM3oweXlnNFc5UDNtS1BLblFmU2dLNTNIUVZ5dEJZWVBLN05zU2FSb2V2NnV3dF9WZWNvTzFVcWJIRVdISXlMVW1NWXNGWkpmTnlMYlp3UzJNZmpNU2JZU3hDdGxOSQ?oc=5",
-      "pub_date": 1764854700.0,
-      "article_url": "https://www.stocktitan.net/news/MAMO/massimo-group-announces-formation-of-ai-robotics-division-expanding-p08w84pho0qe.html",
-      "image": "https://www.stocktitan.net/news_covers/Massimo_Group_Announces_Formation_of_AI_Robotics_Division_Expanding_Into_Global_Automation_and_Smar_944006.png",
-      "description": "Massimo Group forms Massimo AI Technology to develop industrial automation and logistics robotics, aiming to diversify revenue and expand beyond powersports and EVs."
     },
     {
       "headline": "Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T13:46:39.396872+00:00"
+  "fetched_at": "2025-12-06T14:23:29.525486+00:00"
 }

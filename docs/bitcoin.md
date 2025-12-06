@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T13:57:31.464324+00:00'
+updated: '2025-12-06T14:23:42.755877+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 13:57 UTC  
+**Last Updated:** December 06, 2025 at 14:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,707.38
+### $90,189.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -0.9%  
-**30d:** -13.4%  
-**90d:** -19.8%  
-**1y:** -10.1%  
+**24h:** -0.1%  
+**7d:** -0.4%  
+**30d:** -13.0%  
+**90d:** -19.4%  
+**1y:** -9.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1791.76B
+**Market Cap:** $1796.27B
 Rank #1
 
-**Circulating Supply:** 19,958,318 BTC
+**Circulating Supply:** 19,958,337 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-28.6%
 
 **All-Time Low:** $67.81
-+132296.4%
++132643.0%
 
 ---
 
@@ -89,17 +89,23 @@ Rank #1
 
 ---
 
+**[I Use Value Averaging Instead of DCA - Here’s Why It Works Better](https://www.reddit.com/r/Bitcoin/comments/1pfovap/i_use_value_averaging_instead_of_dca_heres_why_it/)**
+
+You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s simple and beginner-friendly but I moved to Value Averaging this cycle, and the results have been way better. Most people know DCA because it’s simple: buy the same amount every week.But when you’re trying to get better prices and make the market’s volatility work for you, Value Averaging is a much stronger method. Let me show you exactly how it played out using real BTC price action from 2024–2025. Rule I Followed Every 15% drop in BTC : Buy. First Buy = $1,000 Second Buy = $2,000 Third Buy = 3000$ Continues..... BTC gave three clean 30% corrections this cycle, so this rule activated six times. Drawdown 1 — March 2024 (-30%) BTC dropped twice by 15%, so we can bought: $1,000 ( Buy 01 ) $2,000 ( Buy 02 ) Later, when BTC reached what I marked as “Top 3,” these were the gains: $1,000 → +95% = +$950 $2,000 → +131% = +$2,620 Total = $3,570 profit Drawdown 2 — December 2024 (-30%) Same plan again: $1,000 ( Buy 03 ) $2000 ( Buy 04 ) During the recovery toward Top 3, three positions were still showing: +$950 ( Buy 01 ) +$2620 ( Buy 02 ) +$330 ( Buy 03 ) +$1140 ( Buy 04 ) Total = $5,040 profit Current Drawdown — 2025 July–Oct (-30%) This is where we are right now. Two more buys triggered: Buy 05: $1,000 → currently –14% Buy 06: $2,000 → currently breakeven These are fresh buys, so it’s totally normal that they haven’t recovered yet. Total Structure 6 total buys – 3 × $1,000 – 3 × $2,000 Total invested = $9,000 Right now, even though BTC is still in a ~30% decline: Three positions remain in profit ($420 + $1,300 + $260) One is slightly negative (–$140) Two are at breakeven Overall: still profitable during a drawdown. Why This Beats DCA for Me DCA buys at every price expensive, cheap, doesn’t matter. Value Averaging waits for discounts. You buy more when BTC is cheaper Your average cost drops fast Strong assets recover and reward the early buys Drawdowns become opportunities instead of pain Your risk is distributed intelligently no guessing bottoms. no chasing tops.Just reacting to 15% dips the same way, every time. This is the whole point:
+
+1h ago
+
+---
+
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
 20h ago
 
 ---
 
-**[I Use Value Averaging Instead of DCA - Here’s Why It Works Better](https://www.reddit.com/r/Bitcoin/comments/1pfovap/i_use_value_averaging_instead_of_dca_heres_why_it/)**
+**[OK, I get the pattern now.](https://www.reddit.com/r/Bitcoin/comments/1pfot4f/ok_i_get_the_pattern_now/)**
 
-You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s simple and beginner-friendly but I moved to Value Averaging this cycle, and the results have been way better. Most people know DCA because it’s simple: buy the same amount every week.But when you’re trying to get better prices and make the market’s volatility work for you, Value Averaging is a much stronger method. Let me show you exactly how it played out using real BTC price action from 2024–2025. Rule I Followed Every 15% drop in BTC : Buy. First Buy = $1,000 Second Buy = $2,000 Third Buy = 3000$ Continues..... BTC gave three clean 30% corrections this cycle, so this rule activated six times. Drawdown 1 — March 2024 (-30%) BTC dropped twice by 15%, so we can bought: $1,000 ( Buy 01 ) $2,000 ( Buy 02 ) Later, when BTC reached what I marked as “Top 3,” these were the gains: $1,000 → +95% = +$950 $2,000 → +131% = +$2,620 Total = $3,570 profit Drawdown 2 — December 2024 (-30%) Same plan again: $1,000 ( Buy 03 ) $2000 ( Buy 04 ) During the recovery toward Top 3, three positions were still showing: +$950 ( Buy 01 ) +$2620 ( Buy 02 ) +$330 ( Buy 03 ) +$1140 ( Buy 04 ) Total = $5,040 profit Current Drawdown — 2025 July–Oct (-30%) This is where we are right now. Two more buys triggered: Buy 05: $1,000 → currently –14% Buy 06: $2,000 → currently breakeven These are fresh buys, so it’s totally normal that they haven’t recovered yet. Total Structure 6 total buys – 3 × $1,000 – 3 × $2,000 Total invested = $9,000 Right now, even though BTC is still in a ~30% decline: Three positions remain in profit ($420 + $1,300 + $260) One is slightly negative (–$140) Two are at breakeven Overall: still profitable during a drawdown. Why This Beats DCA for Me DCA buys at every price expensive, cheap, doesn’t matter. Value Averaging waits for discounts. You buy more when BTC is cheaper Your average cost drops fast Strong assets recover and reward the early buys Drawdowns become opportunities instead of pain Your risk is distributed intelligently no guessing bottoms. no chasing tops.Just reacting to 15% dips the same way, every time. This is the whole point:
-
-51m ago
+1h ago
 
 ---
 
@@ -108,12 +114,6 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
 16h ago
-
----
-
-**[OK, I get the pattern now.](https://www.reddit.com/r/Bitcoin/comments/1pfot4f/ok_i_get_the_pattern_now/)**
-
-54m ago
 
 ---
 
@@ -173,47 +173,43 @@ TheStreet • 1d ago
 
 ---
 
+**[Bitcoin in ₿ahrain](https://x.com/saylor/status/1997263322916495478)**
+
+x.com • 3h ago
+
+---
+
+**[Scam so convincing victim ignores police, puts thousands into Cryptocurrency ATM](https://fox8.com/news/scam-artist-so-convincing-elderly-victim-ignores-police-pleas-to-stop-puts-thousands-into-cryptocurrency-atm/)**
+
+FOX 8 News • 1h ago
+
+---
+
 **[Got $500? 3 Cryptocurrencies to Buy and Hold for Decades](https://www.fool.com/investing/2025/12/06/got-500-3-cryptocurrencies-to-buy-and-hold-for-dec/)**
 
 These three coins could form the backbone of your crypto portfolio.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
-**[Coinbase Makes Bold Bitcoin Prediction For December Despite Market Downturn](https://finance.yahoo.com/news/coinbase-makes-bold-bitcoin-prediction-113224239.html)**
+**[Bitcoin Is Set for First Yearly Split From Stocks in Decade](https://finance.yahoo.com/news/bitcoin-set-first-yearly-split-141041017.html)**
 
-Coinbase says the crypto market is entering a December recovery phase as liquidity improves and macro conditions turn more supportive.
+The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqc3eQDjckrTFMLNT5o7nAznVbjEjbyK_YDezCG1uiEIalGwZ9IpkDFq&gaa_ts=69343732&gaa_sig=F3LKu1pAE3zQ0pVgATjKuNH3dD7m3xP0w8zTrJrWB1FkfPoLlhORGIGv8E6EI1FEYN6P3KqcZ6QJ90fV-3uE9g%3D%3D)**
-
-Barron's • 2d ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
-
-Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
-
-Decrypt • 2d ago
-
----
-
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
-
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
-
-CNBC • 2d ago
-
----
-
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqfG6Qizx2KrnMoRDcKNgsvTRTcYZ9taJJAiXI8Z4ZDHvv6-NesuVUuF&gaa_ts=69343732&gaa_sig=D5w3jv0GSJmAAcv0tF__m5nrKG8GWZBVP65s433H-eCJLWi_dei5CZELRm4_VKLoHdwfdNbntMBEK8NzqFr7ug%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeGVH1jcbrZMqgDdGHxaGwDWDIoI2U0JJSF2pA-Cr_TFgjOMKCS9Lpw&gaa_ts=69343fd3&gaa_sig=D1lkV0yKyjrT_eM72FiWkA0FqJ290SO7q4RsWzhz6QAbu6Qegbk-3-zNneqcorAkgEWYS5mo8qocNm8FW5YVAQ%3D%3D)**
 
 MarketWatch • 1d ago
+
+---
+
+**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqeCyidl6-qUWh5Wz3JIk7DIRdN2YYRoT3VCPw_8AFMjaUHnhYuS3KB9&gaa_ts=69343fd3&gaa_sig=pi11Gz6C8y3dyoQiRk0qCGM5ZCzNQdy85zt2Du-ReqBJ8GIHGIeCAwm-vrXO7BTIcsZzTXFf_dq27pXKwT-qgQ%3D%3D)**
+
+Barron's • 3d ago
 
 ---
 
@@ -255,7 +251,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Track the next Bitcoin halving event with live countdown and real-time block updates
 
-⬆️ 2 • 💬 0 • 4d ago • [bitcoinhalvingcountdown.com](https://bitcoinhalvingcountdown.com)
+⬆️ 2 • 💬 0 • 5d ago • [bitcoinhalvingcountdown.com](https://bitcoinhalvingcountdown.com)
 
 ---
 
@@ -297,7 +293,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 26K • 👍 2K • 💬 366 • ⏱️ 10:23 • 20h ago
+👁️ 26K • 👍 2K • 💬 366 • ⏱️ 10:23 • 21h ago
 
 ---
 
@@ -357,7 +353,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 11K • 👍 97 • 💬 152 • ⏱️ 4:01 • 17h ago
+👁️ 11K • 👍 97 • 💬 152 • ⏱️ 4:01 • 18h ago
 
 ---
 
@@ -367,7 +363,7 @@ Everyone is screaming that Bitcoin is either going to zero or hitting a million 
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 276 • ⏱️ 12:20 • 15h ago
+👁️ 25K • 👍 2K • 💬 276 • ⏱️ 12:20 • 16h ago
 
 ---
 

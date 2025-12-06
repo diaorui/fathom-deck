@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T10:44:32.400717+00:00'
+updated: '2025-12-06T10:55:03.532924+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 10:44 UTC  
+**Last Updated:** December 06, 2025 at 10:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -264,7 +264,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 105K • 👍 408 • 💬 10 • ⏱️ 0:19 • 21h ago
+👁️ 105K • 👍 408 • 💬 10 • ⏱️ 0:19 • 22h ago
 
 ---
 
@@ -274,7 +274,7 @@ Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-t
 
 📺 New York Post
 
-👁️ 5K • 👍 100 • 💬 65 • ⏱️ 2:06 • 20h ago
+👁️ 5K • 👍 100 • 💬 65 • ⏱️ 2:06 • 21h ago
 
 ---
 

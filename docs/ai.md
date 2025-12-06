@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T10:44:32.382896+00:00'
+updated: '2025-12-06T10:55:03.515487+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 10:44 UTC  
+**Last Updated:** December 06, 2025 at 10:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 30m ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 41m ago
 
 ---
 
@@ -87,7 +87,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York Times sues AI startup for ‘illegal’ copying of millions of articles.[2] Meta acquires AI-wearables startup Limitless.[3] MIT researchers “speak objects into existence” using AI and robotics.[4] Sources: [1] https://www.axios.com/2025/12/03/joe-rogan-jensen-huang-podcast-trump [2] https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit [3] https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/ [4] https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 37m ago
+ABC News • 47m ago
 
 ---
 
@@ -145,7 +145,7 @@ ABC News • 37m ago
 
 AI might pull information from the previous availability and hours, but many places have different availability or hours during the holidays
 
-qz.com • 42m ago
+qz.com • 52m ago
 
 ---
 
@@ -153,7 +153,7 @@ qz.com • 42m ago
 
 24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
 
-Business Insider • 44m ago
+Business Insider • 55m ago
 
 ---
 
@@ -299,7 +299,7 @@ Another heaping of AI Slop, this time involving Franklin the Turtle, Japanese ga
 
 📺 Dolan Darkest
 
-👁️ 224K • 👍 13K • 💬 2K • ⏱️ 2:28 • 16h ago
+👁️ 224K • 👍 13K • 💬 2K • ⏱️ 2:28 • 17h ago
 
 ---
 

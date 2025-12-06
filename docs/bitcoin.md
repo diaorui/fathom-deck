@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T10:44:32.391445+00:00'
+updated: '2025-12-06T10:55:03.523781+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 10:44 UTC  
+**Last Updated:** December 06, 2025 at 10:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -1.2%  
-**30d:** -13.7%  
-**90d:** -20.1%  
-**1y:** -10.4%  
+**24h:** -1.9%  
+**7d:** -1.0%  
+**30d:** -13.5%  
+**90d:** -19.9%  
+**1y:** -10.2%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-17m ago
+28m ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 2h ago
 
 This week in bitcoin mining news, an American Bitcoin share unlock tumbles the ABTC price, and IREN eyes the largest capital raise ever for a bitcoin miner.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 55m ago
 
 ---
 

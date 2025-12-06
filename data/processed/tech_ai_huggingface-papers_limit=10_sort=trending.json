@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 142,
+      "upvotes": 143,
       "num_comments": 2,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
@@ -77,25 +77,6 @@
       "project_page": "https://reward-forcing.github.io/"
     },
     {
-      "id": "2410.05779",
-      "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
-      "authors": "Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Retrieval-Augmented Generation (RAG) systems enhance large language models\n(LLMs) by integrating external knowledge sources, enabling more accurate and\ncontextually relevant responses tailored to user needs. However, existing RAG\nsystems have significant limitations, including reliance on flat data\nrepresentations and inadequate contextual awareness, which can lead to\nfragmented answers that fail to capture complex inter-dependencies. To address\nthese challenges, we propose LightRAG, which incorporates graph structures into\ntext indexing and retrieval processes. This innovative framework employs a\ndual-level retrieval system that enhances comprehensive information retrieval\nfrom both low-level and high-level knowledge discovery. Additionally, the\nintegration of graph structures with vector representations facilitates\nefficient retrieval of related entities and their relationships, significantly\nimproving response times while maintaining contextual relevance. This\ncapability is further enhanced by an incremental update algorithm that ensures\nthe timely integration of new data, allowing the system to remain effective and\nresponsive in rapidly changing data environments. Extensive experimental\nvalidation demonstrates considerable improvements in retrieval accuracy and\nefficiency compared to existing approaches. We have made our LightRAG\nopen-source and available at the link: https://github.com/HKUDS/LightRAG.",
-      "ai_summary": "LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.",
-      "hf_url": "https://huggingface.co/papers/2410.05779",
-      "arxiv_url": "https://arxiv.org/abs/2410.05779",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.05779.png",
-      "upvotes": 22,
-      "num_comments": 0,
-      "published_at": "2024-10-08T04:00:12.000Z",
-      "github_repo": "https://github.com/hkuds/lightrag",
-      "github_stars": 25437,
-      "project_page": null
-    },
-    {
       "id": "2511.16719",
       "title": "SAM 3: Segment Anything with Concepts",
       "authors": "Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)",
@@ -113,6 +94,25 @@
       "github_repo": "https://github.com/facebookresearch/sam3",
       "github_stars": 5298,
       "project_page": "https://ai.meta.com/sam3/"
+    },
+    {
+      "id": "2410.05779",
+      "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
+      "authors": "Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Retrieval-Augmented Generation (RAG) systems enhance large language models\n(LLMs) by integrating external knowledge sources, enabling more accurate and\ncontextually relevant responses tailored to user needs. However, existing RAG\nsystems have significant limitations, including reliance on flat data\nrepresentations and inadequate contextual awareness, which can lead to\nfragmented answers that fail to capture complex inter-dependencies. To address\nthese challenges, we propose LightRAG, which incorporates graph structures into\ntext indexing and retrieval processes. This innovative framework employs a\ndual-level retrieval system that enhances comprehensive information retrieval\nfrom both low-level and high-level knowledge discovery. Additionally, the\nintegration of graph structures with vector representations facilitates\nefficient retrieval of related entities and their relationships, significantly\nimproving response times while maintaining contextual relevance. This\ncapability is further enhanced by an incremental update algorithm that ensures\nthe timely integration of new data, allowing the system to remain effective and\nresponsive in rapidly changing data environments. Extensive experimental\nvalidation demonstrates considerable improvements in retrieval accuracy and\nefficiency compared to existing approaches. We have made our LightRAG\nopen-source and available at the link: https://github.com/HKUDS/LightRAG.",
+      "ai_summary": "LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.",
+      "hf_url": "https://huggingface.co/papers/2410.05779",
+      "arxiv_url": "https://arxiv.org/abs/2410.05779",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.05779.png",
+      "upvotes": 22,
+      "num_comments": 0,
+      "published_at": "2024-10-08T04:00:12.000Z",
+      "github_repo": "https://github.com/hkuds/lightrag",
+      "github_stars": 25448,
+      "project_page": null
     },
     {
       "id": "2412.20138",
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2512.04926",
       "arxiv_url": "https://arxiv.org/abs/2512.04926",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2512.04926.png",
-      "upvotes": 27,
+      "upvotes": 28,
       "num_comments": 2,
       "published_at": "2025-12-04T10:57:27.000Z",
       "github_repo": "https://github.com/yuemingPAN/SFD",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-06T07:52:40.142682+00:00"
+  "fetched_at": "2025-12-06T08:55:22.897650+00:00"
 }

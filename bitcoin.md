@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T06:31:03.715507+00:00'
+updated: '2025-12-06T06:51:47.513022+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 06:31 UTC  
+**Last Updated:** December 06, 2025 at 06:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -0.9%  
-**30d:** -13.5%  
-**90d:** -19.8%  
-**1y:** -10.2%  
+**24h:** -2.7%  
+**7d:** -1.1%  
+**30d:** -13.6%  
+**90d:** -20.0%  
+**1y:** -10.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,25 +95,25 @@ Charts like this always remind me why time in the market beats timing the market
 
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
-8h ago
+9h ago
 
 ---
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
 
-5h ago
+6h ago
 
 ---
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Wall Street Journal • 3d ago
 
 A lawmaker in Indiana introduced legislation that would broaden access to Bitcoin and crypto exposure for savers in the Midwestern state.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 

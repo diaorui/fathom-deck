@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T06:31:03.707113+00:00'
+updated: '2025-12-06T06:51:47.504562+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 06:31 UTC  
+**Last Updated:** December 06, 2025 at 06:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 35m ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 56m ago
 
 ---
 
@@ -79,7 +79,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York Times sues AI startup for ‘illegal’ copying of millions of articles.[2] Meta acquires AI-wearables startup Limitless.[3] MIT researchers “speak objects into existence” using AI and robotics.[4] Sources: [1] https://www.axios.com/2025/12/03/joe-rogan-jensen-huang-podcast-trump [2] https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit [3] https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/ [4] https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205
 
-36m ago
+57m ago
 
 ---
 
@@ -173,7 +173,7 @@ Barron's • 17h ago
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ Another heaping of AI Slop, this time involving Franklin the Turtle, Japanese ga
 
 📺 Dolan Darkest
 
-👁️ 205K • 👍 12K • 💬 2K • ⏱️ 2:28 • 12h ago
+👁️ 205K • 👍 12K • 💬 2K • ⏱️ 2:28 • 13h ago
 
 ---
 
@@ -333,7 +333,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 26K • 👍 806 • 💬 149 • ⏱️ 12:07 • 5h ago
+👁️ 26K • 👍 806 • 💬 149 • ⏱️ 12:07 • 6h ago
 
 ---
 
@@ -537,7 +537,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 24 • 💬 2 • ⭐ 271 • 4d ago
+▲ 25 • 💬 2 • ⭐ 271 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -555,20 +555,6 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 ---
 
-**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
-
-*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
-
-🏢 AI at Meta
-
-Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
-
-▲ 105 • 💬 4 • ⭐ 5,285 • 15d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
-
----
-
 **[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
 *Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
@@ -578,6 +564,20 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 ▲ 22 • 💬 0 • ⭐ 25,437 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
+**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
+
+*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
+
+🏢 AI at Meta
+
+Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
+
+▲ 105 • 💬 4 • ⭐ 5,298 • 15d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
 ---
 
@@ -655,7 +655,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.5k • 🔱 125 • 1d ago
+⭐ 1.5k • 🔱 126 • 1d ago
 
 ---
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 829 • 🔱 104 • 8h ago
+⭐ 831 • 🔱 104 • 9h ago
 
 ---
 
@@ -695,7 +695,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 59m ago
+⭐ 823 • 🔱 42 • 1h ago
 
 ---
 
@@ -705,7 +705,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 776 • 🔱 19 • 10d ago
+⭐ 780 • 🔱 20 • 10d ago
 
 ---
 
@@ -715,7 +715,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 775 • 🔱 54 • 5d ago
+⭐ 776 • 🔱 54 • 5d ago
 
 ---
 
@@ -725,7 +725,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 716 • 🔱 14 • 16d ago
+⭐ 717 • 🔱 14 • 16d ago
 
 ---
 
@@ -735,7 +735,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 542 • 🔱 169 • 1h ago
+⭐ 559 • 🔱 175 • 1h ago
 
 ---
 

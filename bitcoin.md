@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T07:29:57.056480+00:00'
+updated: '2025-12-06T07:41:35.394441+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 07:29 UTC  
+**Last Updated:** December 06, 2025 at 07:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -1.1%  
-**30d:** -13.6%  
-**90d:** -20.0%  
-**1y:** -10.3%  
+**24h:** -2.7%  
+**7d:** -1.0%  
+**30d:** -13.5%  
+**90d:** -19.9%  
+**1y:** -10.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 2d ago
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 59m ago
+Bloomberg.com • 1h ago
 
 ---
 

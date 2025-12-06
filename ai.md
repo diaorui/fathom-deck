@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T07:29:57.048972+00:00'
+updated: '2025-12-06T07:41:35.386005+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 07:29 UTC  
+**Last Updated:** December 06, 2025 at 07:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -135,7 +135,7 @@ The New York Times • 21h ago
 
 **[AI Stocks Are a Bet on the Future. Markets Are Ignoring the Now.](https://www.barrons.com/articles/ai-stocks-market-price-b6350469?gaa_at=eafs&gaa_n=AWEtsqcVtDWmQ0GGM4B2MCf0ay_HBB7HJMx34NJXvbrOjJ7gJCB8JWQe2zQh&gaa_ts=6933dac3&gaa_sig=8Rx-Qjledzz127V1447PlSKwQ6m-TYhF7c0Be64lEiuEpsQD7eliyGUSxFOibaMPnh6p44VKu6NJMiuvpzH9Ig%3D%3D)**
 
-Barron's • 29m ago
+Barron's • 41m ago
 
 ---
 
@@ -335,7 +335,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 26K • 👍 806 • 💬 149 • ⏱️ 12:07 • 6h ago
+👁️ 26K • 👍 806 • 💬 149 • ⏱️ 12:07 • 7h ago
 
 ---
 
@@ -687,7 +687,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 831 • 🔱 104 • 9h ago
+⭐ 831 • 🔱 104 • 10h ago
 
 ---
 

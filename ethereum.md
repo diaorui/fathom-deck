@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T07:29:57.061701+00:00'
+updated: '2025-12-06T07:41:35.400521+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 07:29 UTC  
+**Last Updated:** December 06, 2025 at 07:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.9%  
-**7d:** +1.5%  
-**30d:** -11.6%  
-**90d:** -29.6%  
-**1y:** -24.2%  
+**24h:** -4.0%  
+**7d:** +1.4%  
+**30d:** -11.7%  
+**90d:** -29.7%  
+**1y:** -24.3%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 2h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 3h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 How to install the Wander Wallet browser extension?
 
-🔗 [help.odysee.tv](https://help.odysee.tv/category-monetization/wander/) • 41m ago
+🔗 [help.odysee.tv](https://help.odysee.tv/category-monetization/wander/) • 53m ago
 
 ---
 
@@ -142,7 +142,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 19h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 20h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 19h ago
 
 **[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
 
-TipRanks • 17h ago
+TipRanks • 18h ago
 
 ---
 
@@ -242,7 +242,7 @@ The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was
 
 📺 Altcoin Buzz
 
-👁️ 2K • 👍 134 • 💬 186 • ⏱️ 9:21 • 17h ago
+👁️ 2K • 👍 134 • 💬 186 • ⏱️ 9:21 • 18h ago
 
 ---
 
@@ -262,7 +262,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 37 • 💬 133 • ⏱️ 5:24 • 17h ago
+👁️ 1K • 👍 37 • 💬 133 • ⏱️ 5:24 • 18h ago
 
 ---
 
@@ -312,7 +312,7 @@ Ethereum is finally showing signs of a major reversal, and the charts suggest th
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 440 • 💬 14 • ⏱️ 59:34 • 14h ago
+👁️ 7K • 👍 440 • 💬 14 • ⏱️ 59:34 • 15h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T03:47:58.928430+00:00'
+updated: '2025-12-06T04:00:00.433487+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 03:47 UTC  
+**Last Updated:** December 06, 2025 at 04:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -0.9%  
-**30d:** -13.4%  
-**90d:** -19.8%  
-**1y:** -10.1%  
+**24h:** -2.5%  
+**7d:** -1.2%  
+**30d:** -13.7%  
+**90d:** -20.0%  
+**1y:** -10.4%  
 
 ---
 
@@ -113,7 +113,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -367,7 +367,7 @@ Ben Cowen drops a major update: Jerome Powell just confirmed quantitative tighte
 
 📺 Bitcoin Magazine
 
-👁️ 1K • 👍 28 • 💬 42 • ⏱️ 7:52 • 7h ago
+👁️ 1K • 👍 28 • 💬 42 • ⏱️ 7:52 • 8h ago
 
 ---
 
@@ -397,7 +397,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 507 • 💬 154 • ⏱️ 5:50 • 10h ago
+👁️ 10K • 👍 507 • 💬 154 • ⏱️ 5:50 • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T11:41:34.517598+00:00'
+updated: '2025-12-06T11:53:03.474836+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 11:41 UTC  
+**Last Updated:** December 06, 2025 at 11:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -1.2%  
-**30d:** -13.7%  
-**90d:** -20.0%  
-**1y:** -10.4%  
+**24h:** -1.5%  
+**7d:** -0.9%  
+**30d:** -13.5%  
+**90d:** -19.8%  
+**1y:** -10.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1786.77B
+**Market Cap:** $1790.85B
 Rank #1
 
 **Circulating Supply:** 19,958,278 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-28.8%
 
 **All-Time Low:** $67.81
-+131929.2%
++132202.0%
 
 ---
 
@@ -77,9 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
+**[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-4h ago
+1h ago
 
 ---
 
@@ -89,9 +89,9 @@ Rank #1
 
 ---
 
-**[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
+**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
-1h ago
+4h ago
 
 ---
 
@@ -105,19 +105,19 @@ Rank #1
 
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
-13h ago
+14h ago
 
 ---
 
 **[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
 
-10h ago
+11h ago
 
 ---
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -161,27 +161,11 @@ Yahoo Finance • 21h ago
 
 ---
 
-**[Indiana Bill Would Mandate Bitcoin in Pensions and Shield Self-Custody Rights](https://finance.yahoo.com/news/indiana-bill-mandate-bitcoin-pensions-083115685.html)**
-
-A newly introduced bill in Indiana would require public retirement programs to offer Bitcoin-related investment options and would also limit how much power local governments have to restrict the use of digital assets.The proposal was filed on Thursday by State Representative Kyle Pierce, a Republican from Anderson. Known as House ...
-
-Yahoo Finance • 3h ago
-
----
-
 **[Bitcoin mining news: ABTC shares plunge, miners face breakeven costs, IREN prices $3.6B offering](https://finance.yahoo.com/news/bitcoin-mining-news-abtc-shares-100000879.html)**
 
 This week in bitcoin mining news, an American Bitcoin share unlock tumbles the ABTC price, and IREN eyes the largest capital raise ever for a bitcoin miner.
 
 Yahoo Finance • 1h ago
-
----
-
-**[Strategy CEO Says $1.44B Cash Reserve Aims to Calm Bitcoin-Slump Fears](https://finance.yahoo.com/news/strategy-ceo-says-1-44b-082819714.html)**
-
-Strategy CEO Phong Le says the company’s newly built $1.44 billion cash reserve is designed to quiet investor anxiety over its ability to withstand a sharp downturn in Bitcoin. Key Takeaways: Strategy built a $1.44B cash reserve to ease investor fears about its ability to meet dividend and debt obligations. ...
-
-Yahoo Finance • 3h ago
 
 ---
 
@@ -207,17 +191,31 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqdclsCKd_CDZBpF0RkL9aNRkTzuhO9yH0YzYYVRSqvUHUJIaFwofQZ3&gaa_ts=693413fd&gaa_sig=jBbxuNtnN2RvMW1EAK3_mjVAJIcKqyuHYrefoWnlLBAHinoLaf50HkGgnth12PAX-gFlgVspc-HnYRP2VY_HdQ%3D%3D)**
+**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
 
-Barron's • 2d ago
+In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+
+CNBC • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqe318Bzukyda1YoXL_pSSLt9PrHoHKMtzX7ELOq_at_hA9fmvgCcW76&gaa_ts=69341c8e&gaa_sig=YKSaHdu7QIzhad_hTKqy3y_WQZr0_35zN-CNpCMid8bsX1DR53lAhz1GpLLB-F-gQyDyAEHqcE7notfpOkFOkg%3D%3D)**
 
-Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
+MarketWatch • 1d ago
 
-Decrypt • 2d ago
+---
+
+**[Japan’s Higher Rates Puts Bitcoin in the Crosshairs of a Yen Carry Unwind](https://www.coindesk.com/markets/2025/12/05/japan-s-higher-rates-puts-bitcoin-in-the-crosshairs-of-a-yen-carry-unwind)**
+
+A stronger yen typically coincides with de-risking across macro portfolios, and that dynamic could tighten liquidity conditions that recently helped bitcoin rebound from November’s lows.
+
+CoinDesk • 8h ago
+
+---
+
+**[Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
+
+The New York Times • 3d ago
 
 ---
 
@@ -229,7 +227,7 @@ Decrypt • 2d ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 6 • 💬 1 • 1d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 6 • 💬 1 • 2d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 

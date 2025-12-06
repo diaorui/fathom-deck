@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 169515,
-      "likes": 2163,
+      "likes": 2164,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-12-02T11:54:58.000Z",
@@ -24,7 +24,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V3.2.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png",
       "downloads": 18140,
-      "likes": 738,
+      "likes": 739,
       "pipeline_tag": "text-generation",
       "num_parameters": "685.4B",
       "last_modified": "2025-12-01T11:04:59.000Z",
@@ -39,7 +39,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V3.2-Speciale.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png",
       "downloads": 4718,
-      "likes": 516,
+      "likes": 517,
       "pipeline_tag": "text-generation",
       "num_parameters": "685.4B",
       "last_modified": "2025-12-01T11:06:03.000Z",
@@ -114,7 +114,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/black-forest-labs/FLUX.2-dev.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/633f7a8f4be90e06da248e0f/m5YoF33abJ09vcwFxt1Mj.png",
       "downloads": 196425,
-      "likes": 903,
+      "likes": 904,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-27T11:17:09.000Z",
@@ -144,7 +144,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/AIDC-AI/Ovis-Image-7B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/666a9d46a638e57bb7907929/CRc-9MCuH2q9hjTScyTPE.png",
       "downloads": 1849,
-      "likes": 161,
+      "likes": 162,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-12-03T12:28:15.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-12-06T11:16:21.573589+00:00"
+  "fetched_at": "2025-12-06T11:52:53.173614+00:00"
 }

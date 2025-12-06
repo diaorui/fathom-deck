@@ -13,6 +13,17 @@
       "description": "Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was \"surprising than it's taken this long\" for Google to catch OpenAI."
     },
     {
+      "title": "Why is everyone so focused on generative AI when neural networks exist",
+      "author": "ailaau",
+      "url": "https://www.reddit.com/r/artificial/comments/1pfmyfz/why_is_everyone_so_focused_on_generative_ai_when/",
+      "published": 1765019827.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm just curious about the differences, I'm not super educated on this, and I figured this place would know more than me"
+    },
+    {
       "title": "\"Godmother of AI\" Fei-Fei Li disappointed by AI's messaging: Either doomsday or total utopian",
       "author": "BuildwithVignesh",
       "url": "https://www.reddit.com/r/artificial/comments/1pflyfu/godmother_of_ai_feifei_li_disappointed_by_ais/",
@@ -99,18 +110,7 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology."
-    },
-    {
-      "title": "This tech is just wild",
-      "author": "chlorculo",
-      "url": "https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/",
-      "published": 1764955563.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more \"natural\" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an \"instrumental\" file and used ffmpeg to add both the \"Guy\" and \"instrumental\" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time."
     }
   ],
-  "fetched_at": "2025-12-06T11:16:09.038165+00:00"
+  "fetched_at": "2025-12-06T11:52:42.535677+00:00"
 }
